@@ -1,0 +1,1056 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Your English Level</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+	    max-width: 800px;
+        }
+        .question {
+            margin-bottom: 20px;
+            padding: 15px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+
+        }
+	.passage {
+            margin-bottom: 20px;
+            padding: 15px;
+            border: 1px solid #444;
+            border-radius: 5px;
+            background-color: #e3f2fd;
+        }
+        .submit-btn {
+            margin-top: 20px;
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        .submit-btn:hover {
+            background-color: #45a049;
+        }
+        .result {
+            margin-top: 20px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h2>B2 English Language Test</h2>
+    <div id="passageContainer"></div>
+    <form id="quizForm"></form>
+    <button type="submit" class="submit-btn" id="submitBtn">Submit</button>
+    <div id="result" class="result"></div>
+    <script>
+        const questions = [
+  {
+    "id": 1,
+    "question": "Choose the sentence with correct subject-verb agreement.",
+    "options": {
+      "A": "My brother play football every Sunday.",
+      "B": "My brothers plays football every Sunday.",
+      "C": "My brother plays football every Sunday.",
+      "D": "My brothers play football every Sunday."
+    },
+    "correct_answer": "C",
+    "category": "Grammar",
+    "level": "A1"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is a correct question?",
+    "options": {
+      "A": "You are like ice cream?",
+      "B": "Do you like ice cream?",
+      "C": "Like you ice cream?",
+      "D": "Are like you ice cream?"
+    },
+    "correct_answer": "B",
+    "category": "Grammar",
+    "level": "A1"
+  },
+  {
+    "id": 3,
+    "question": "Select the correct pronoun to complete the sentence: '___ is my new pen.'",
+    "options": {
+      "A": "He",
+      "B": "She",
+      "C": "It",
+      "D": "They"
+    },
+    "correct_answer": "C",
+    "category": "Grammar",
+    "level": "A1"
+  },
+  {
+    "id": 4,
+    "question": "Choose the sentence written in the simple present tense.",
+    "options": {
+      "A": "I am going to the park.",
+      "B": "I went to the park yesterday.",
+      "C": "I go to the park on Saturdays.",
+      "D": "I will go to the park tomorrow."
+    },
+    "correct_answer": "C",
+    "category": "Grammar",
+    "level": "A1"
+  },
+  {
+    "id": 5,
+    "question": "Complete the greeting: '___ morning!'",
+    "options": {
+      "A": "Night",
+      "B": "Evening",
+      "C": "Good",
+      "D": "Afternoon"
+    },
+    "correct_answer": "C",
+    "category": "Use of English",
+    "level": "A1"
+  },
+  {
+    "id": 6,
+    "question": "What is the most polite way to ask for help?",
+    "options": {
+      "A": "Help me!",
+      "B": "I need help.",
+      "C": "Can you help me, please?",
+      "D": "You must help me."
+    },
+    "correct_answer": "C",
+    "category": "Use of English",
+    "level": "A1"
+  },
+  {
+    "id": 7,
+    "question": "Choose the correct preposition: 'The book is ___ the table.'",
+    "options": {
+      "A": "under",
+      "B": "in",
+      "C": "on",
+      "D": "next"
+    },
+    "correct_answer": "C",
+    "category": "Use of English",
+    "level": "A1"
+  },
+  {
+    "id": 8,
+    "question": "Select the best phrase to respond to 'Thank you.'",
+    "options": {
+      "A": "Yes, please.",
+      "B": "You're welcome.",
+      "C": "No problem.",
+      "D": "Excuse me."
+    },
+    "correct_answer": "B",
+    "category": "Use of English",
+    "level": "A1"
+  },
+  {
+    "id": 9,
+    "question": "Which word describes the opposite of 'big'?",
+    "options": {
+      "A": "tall",
+      "B": "small",
+      "C": "long",
+      "D": "high"
+    },
+    "correct_answer": "B",
+    "category": "Vocabulary",
+    "level": "A1"
+  },
+  {
+    "id": 10,
+    "question": "What is the word for the day after Monday?",
+    "options": {
+      "A": "Sunday",
+      "B": "Tuesday",
+      "C": "Friday",
+      "D": "Wednesday"
+    },
+    "correct_answer": "B",
+    "category": "Vocabulary",
+    "level": "A1"
+  },
+  {
+    "id": 11,
+    "question": "Choose the word that is a type of animal.",
+    "options": {
+      "A": "chair",
+      "B": "dog",
+      "C": "table",
+      "D": "book"
+    },
+    "correct_answer": "B",
+    "category": "Vocabulary",
+    "level": "A1"
+  },
+  {
+    "id": 12,
+    "question": "Select the word that represents a color.",
+    "options": {
+      "A": "run",
+      "B": "happy",
+      "C": "blue",
+      "D": "eat"
+    },
+    "correct_answer": "C",
+    "category": "Vocabulary",
+    "level": "A1"
+  },
+  {
+    "id": 13,
+    "question": "Identify the sentence that uses the simple past tense correctly.",
+    "options": {
+      "A": "She is watch TV yesterday.",
+      "B": "She watched TV yesterday.",
+      "C": "She watch TV yesterday.",
+      "D": "She watching TV yesterday."
+    },
+    "correct_answer": "B",
+    "category": "Grammar",
+    "level": "A2"
+  },
+  {
+    "id": 14,
+    "question": "Which sentence correctly uses the present continuous tense?",
+    "options": {
+      "A": "They are goes to the cinema.",
+      "B": "They go to the cinema now.",
+      "C": "They is going to the cinema.",
+      "D": "They are going to the cinema."
+    },
+    "correct_answer": "D",
+    "category": "Grammar",
+    "level": "A2"
+  },
+  {
+    "id": 15,
+    "question": "Choose the correct modal verb: 'I ___ swim very well.'",
+    "options": {
+      "A": "must",
+      "B": "can",
+      "C": "should",
+      "D": "will"
+    },
+    "correct_answer": "B",
+    "category": "Grammar",
+    "level": "A2"
+  },
+  {
+    "id": 16,
+    "question": "Select the sentence that correctly expresses future intention using 'will'.",
+    "options": {
+      "A": "We going to visit Paris.",
+      "B": "We will visited Paris.",
+      "C": "We will visit Paris next month.",
+      "D": "We visit Paris tomorrow."
+    },
+    "correct_answer": "C",
+    "category": "Grammar",
+    "level": "A2"
+  },
+  {
+    "id": 17,
+    "question": "Complete the direction: 'Turn ___ at the traffic lights.'",
+    "options": {
+      "A": "up",
+      "B": "around",
+      "C": "left",
+      "D": "over"
+    },
+    "correct_answer": "C",
+    "category": "Use of English",
+    "level": "A2"
+  },
+  {
+    "id": 18,
+    "question": "What is a polite way to offer something to someone?",
+    "options": {
+      "A": "Take it.",
+      "B": "You want this?",
+      "C": "Would you like...?",
+      "D": "Give me this."
+    },
+    "correct_answer": "C",
+    "category": "Use of English",
+    "level": "A2"
+  },
+  {
+    "id": 19,
+    "question": "Choose the best phrase to complete the sentence: '___, could you tell me the time?'",
+    "options": {
+      "A": "Look",
+      "B": "Hey",
+      "C": "Excuse me",
+      "D": "Listen"
+    },
+    "correct_answer": "C",
+    "category": "Use of English",
+    "level": "A2"
+  },
+  {
+    "id": 20,
+    "question": "Select the correct time expression: 'See you ___ days.'",
+    "options": {
+      "A": "in",
+      "B": "at",
+      "C": "on",
+      "D": "for"
+    },
+    "correct_answer": "A",
+    "category": "Use of English",
+    "level": "A2"
+  },
+  {
+    "id": 21,
+    "question": "Which word is a type of clothing?",
+    "options": {
+      "A": "car",
+      "B": "book",
+      "C": "shirt",
+      "D": "table"
+    },
+    "correct_answer": "C",
+    "category": "Vocabulary",
+    "level": "A2"
+  },
+  {
+    "id": 22,
+    "question": "Choose the word that is a common hobby.",
+    "options": {
+      "A": "driving",
+      "B": "swimming",
+      "C": "working",
+      "D": "eating"
+    },
+    "correct_answer": "B",
+    "category": "Vocabulary",
+    "level": "A2"
+  },
+  {
+    "id": 23,
+    "question": "What is the word for something you use to write with?",
+    "options": {
+      "A": "chair",
+      "B": "pen",
+      "C": "door",
+      "D": "window"
+    },
+    "correct_answer": "B",
+    "category": "Vocabulary",
+    "level": "A2"
+  },
+  {
+    "id": 24,
+    "question": "Select the word that is a type of food.",
+    "options": {
+      "A": "bus",
+      "B": "water",
+      "C": "shoe",
+      "D": "tree"
+    },
+    "correct_answer": "B",
+    "category": "Vocabulary",
+    "level": "A2"
+  },
+  {
+    "id": 25,
+    "question": "Choose the sentence that correctly uses the present perfect tense.",
+    "options": {
+      "A": "I am already finished my work.",
+      "B": "I have already finish my work.",
+      "C": "I have already finished my work.",
+      "D": "I finished already my work."
+    },
+    "correct_answer": "C",
+    "category": "Grammar",
+    "level": "B1"
+  },
+  {
+    "id": 26,
+    "question": "Identify the sentence that is grammatically correct in reported speech.",
+    "options": {
+      "A": "She said she is tired.",
+      "B": "She said that she is tired.",
+      "C": "She said that she was tired.",
+      "D": "She says that she was tired."
+    },
+    "correct_answer": "C",
+    "category": "Grammar",
+    "level": "B1"
+  },
+  {
+    "id": 27,
+    "question": "Select the correct conditional clause type 1: 'If it rains, I ___ stay at home.'",
+    "options": {
+      "A": "would",
+      "B": "will",
+      "C": "can",
+      "D": "could"
+    },
+    "correct_answer": "B",
+    "category": "Grammar",
+    "level": "B1"
+  },
+  {
+    "id": 28,
+    "question": "Choose the sentence that uses the past perfect tense correctly.",
+    "options": {
+      "A": "By the time we arrived, they are leaving.",
+      "B": "By the time we arrived, they left.",
+      "C": "By the time we arrived, they had leave.",
+      "D": "By the time we arrived, they had left."
+    },
+    "correct_answer": "D",
+    "category": "Grammar",
+    "level": "B1"
+  },
+  {
+    "id": 29,
+    "question": "Complete the phrasal verb: 'We need to ___ up early tomorrow.'",
+    "options": {
+      "A": "get",
+      "B": "wake",
+      "C": "stand",
+      "D": "rise"
+    },
+    "correct_answer": "A",
+    "category": "Use of English",
+    "level": "B1"
+  },
+  {
+    "id": 30,
+    "question": "Choose the best collocation: 'She is ___ at playing the piano.'",
+    "options": {
+      "A": "well",
+      "B": "good",
+      "C": "expert",
+      "D": "skillful"
+    },
+    "correct_answer": "B",
+    "category": "Use of English",
+    "level": "B1"
+  },
+  {
+    "id": 31,
+    "question": "Select the best word to express disagreement: 'I ___ with your opinion.'",
+    "options": {
+      "A": "agree",
+      "B": "disagree",
+      "C": "like",
+      "D": "think"
+    },
+    "correct_answer": "B",
+    "category": "Use of English",
+    "level": "B1"
+  },
+  {
+    "id": 32,
+    "question": "Complete the compound adjective: 'He is a hard-___ worker.'",
+    "options": {
+      "A": "work",
+      "B": "working",
+      "C": "worked",
+      "D": "works"
+    },
+    "correct_answer": "B",
+    "category": "Use of English",
+    "level": "B1"
+  },
+  {
+    "id": 33,
+    "question": "Which of the following is a type of workplace?",
+    "options": {
+      "A": "home",
+      "B": "office",
+      "C": "kitchen",
+      "D": "bedroom"
+    },
+    "correct_answer": "B",
+    "category": "Vocabulary",
+    "level": "B1"
+  },
+  {
+    "id": 34,
+    "question": "Choose the word that is related to education and learning.",
+    "options": {
+      "A": "job",
+      "B": "exam",
+      "C": "work",
+      "D": "task"
+    },
+    "correct_answer": "B",
+    "category": "Vocabulary",
+    "level": "B1"
+  },
+  {
+    "id": 35,
+    "question": "Select the word that describes a state of being well and free from illness.",
+    "options": {
+      "A": "body",
+      "B": "health",
+      "C": "mind",
+      "D": "spirit"
+    },
+    "correct_answer": "B",
+    "category": "Vocabulary",
+    "level": "B1"
+  },
+  {
+    "id": 36,
+    "question": "Which word refers to the natural world in which we live?",
+    "options": {
+      "A": "house",
+      "B": "city",
+      "C": "environment",
+      "D": "country"
+    },
+    "correct_answer": "C",
+    "category": "Vocabulary",
+    "level": "B1"
+  },
+  {
+    "id": 37,
+    "question": "Choose the sentence using the third conditional correctly.",
+    "options": {
+      "A": "If I would have known, I wouldn't have come.",
+      "B": "If I have known, I wouldn't come.",
+      "C": "If I had known, I wouldn't have come.",
+      "D": "If I knew, I wouldn't have come."
+    },
+    "correct_answer": "C",
+    "category": "Grammar",
+    "level": "B2"
+  },
+  {
+    "id": 38,
+    "question": "Identify the correctly formed passive sentence.",
+    "options": {
+      "A": "The letter is write by John.",
+      "B": "The letter was wrote by John.",
+      "C": "The letter was written by John.",
+      "D": "The letter written by John."
+    },
+    "correct_answer": "C",
+    "category": "Grammar",
+    "level": "B2"
+  },
+  {
+    "id": 39,
+    "question": "Despite the initial setbacks, the company managed to launch their new product successfully.  They _______ faced complete failure if they hadn't adapted their marketing strategy so quickly.",
+    "options": {
+      "A": "Might have",
+      "B": "Must have",
+      "C": "Should have",
+      "D": "Could have"
+    },
+    "correct_answer": "D",
+    "category": "Grammar",
+    "level": "B2"
+  },
+  {
+    "id": 40,
+    "question": "Choose the best linker of contrast: '___ the rain, we enjoyed the picnic.'",
+    "options": {
+      "A": "Because",
+      "B": "Despite",
+      "C": "Therefore",
+      "D": "As a result"
+    },
+    "correct_answer": "B",
+    "category": "Grammar",
+    "level": "B2"
+  },
+  {
+    "id": 41,
+    "question": "Complete the phrasal verb for canceling an event: 'They had to ___ the concert because of the storm.'",
+    "options": {
+      "A": "put off",
+      "B": "call off",
+      "C": "look into",
+      "D": "turn down"
+    },
+    "correct_answer": "B",
+    "category": "Use of English",
+    "level": "B2"
+  },
+  {
+    "id": 42,
+    "question": "Select the best adjective to describe someone determined: 'She is very ___ to succeed.'",
+    "options": {
+      "A": "determining",
+      "B": "determine",
+      "C": "determined",
+      "D": "determination"
+    },
+    "correct_answer": "C",
+    "category": "Use of English",
+    "level": "B2"
+  },
+  {
+    "id": 43,
+    "question": "Choose the most appropriate verb to describe increasing market share: 'The company wants to ___ its market share.'",
+    "options": {
+      "A": "reduce",
+      "B": "expand",
+      "C": "shrink",
+      "D": "decrease"
+    },
+    "correct_answer": "B",
+    "category": "Use of English",
+    "level": "B2"
+  },
+  {
+    "id": 44,
+    "question": "Complete the phrasal verb for inventing ideas: 'He always ___ up with great ideas.'",
+    "options": {
+      "A": "comes",
+      "B": "brings",
+      "C": "makes",
+      "D": "takes"
+    },
+    "correct_answer": "A",
+    "category": "Use of English",
+    "level": "B2"
+  },
+  {
+    "id": 45,
+    "question": "Which adjective means 'making you believe that something is true'?",
+    "options": {
+      "A": "doubtful",
+      "B": "unbelievable",
+      "C": "convincing",
+      "D": "uncertain"
+    },
+    "correct_answer": "C",
+    "category": "Vocabulary",
+    "level": "B2"
+  },
+  {
+    "id": 46,
+    "question": "Choose the word that means 'not acceptable'.",
+    "options": {
+      "A": "acceptable",
+      "B": "accepted",
+      "C": "unacceptable",
+      "D": "accepting"
+    },
+    "correct_answer": "C",
+    "category": "Vocabulary",
+    "level": "B2"
+  },
+  {
+    "id": 47,
+    "question": "Select the word that means 'difficult to understand or deal with'.",
+    "options": {
+      "A": "easy",
+      "B": "simple",
+      "C": "complex",
+      "D": "basic"
+    },
+    "correct_answer": "C",
+    "category": "Vocabulary",
+    "level": "B2"
+  },
+  {
+    "id": 48,
+    "question": "Which noun means 'careful thought or consideration'?",
+    "options": {
+      "A": "ignoring",
+      "B": "attention",
+      "C": "neglect",
+      "D": "careless"
+    },
+    "correct_answer": "B",
+    "category": "Vocabulary",
+    "level": "B2"
+  },
+  {
+    "id": 49,
+    "question": "Choose the sentence that demonstrates correct inversion for emphasis.",
+    "options": {
+      "A": "No sooner I had arrived than the phone rang.",
+      "B": "No sooner had I arrived than the phone rang.",
+      "C": "I had no sooner arrived than the phone rang.",
+      "D": "Than the phone rang no sooner I had arrived."
+    },
+    "correct_answer": "B",
+    "category": "Grammar",
+    "level": "C1"
+  },
+  {
+    "id": 50,
+    "question": "Identify the sentence with correct use of 'Not only...but also'.",
+    "options": {
+      "A": "Not only she is intelligent, but also kind.",
+      "B": "Not only is she intelligent, and also kind.",
+      "C": "Not only is she intelligent, but also is kind.",
+      "D": "Not only is she intelligent, but also kind."
+    },
+    "correct_answer": "D",
+    "category": "Grammar",
+    "level": "C1"
+  },
+  {
+    "id": 51,
+    "question": "Select the sentence using an advanced conditional structure.",
+    "options": {
+      "A": "If you are late, you will miss the bus.",
+      "B": "If you were late, you would miss the bus.",
+      "C": "Should you be late, please inform us.",
+      "D": "If you will be late, let us know."
+    },
+    "correct_answer": "C",
+    "category": "Grammar",
+    "level": "C1"
+  },
+  {
+    "id": 52,
+    "question": "Choose the correct verb form for the cleft sentence: 'What ___ me most was his attitude.'",
+    "options": {
+      "A": "annoy",
+      "B": "annoys",
+      "C": "annoyed",
+      "D": "annoying"
+    },
+    "correct_answer": "C",
+    "category": "Grammar",
+    "level": "C1"
+  },
+  {
+    "id": 53,
+    "question": "Complete the fixed phrase: '___ all accounts, the event was a success.'",
+    "options": {
+      "A": "By",
+      "B": "From",
+      "C": "According",
+      "D": "With"
+    },
+    "correct_answer": "A",
+    "category": "Use of English",
+    "level": "C1"
+  },
+  {
+    "id": 54,
+    "question": "Select the best word to describe a natural ability for languages: 'She has a remarkable ___ for languages.'",
+    "options": {
+      "A": "skill",
+      "B": "aptitude",
+      "C": "knowledge",
+      "D": "proficiency"
+    },
+    "correct_answer": "B",
+    "category": "Use of English",
+    "level": "C1"
+  },
+  {
+    "id": 55,
+    "question": "Choose the most suitable word to express certainty: 'The project is ___ to be challenging.'",
+    "options": {
+      "A": "likely",
+      "B": "possible",
+      "C": "bound",
+      "D": "probable"
+    },
+    "correct_answer": "C",
+    "category": "Use of English",
+    "level": "C1"
+  },
+  {
+    "id": 56,
+    "question": "Complete the idiom: 'He has a tendency to ___ things.' (make things seem more important or serious than they are)",
+    "options": {
+      "A": "understate",
+      "B": "exaggerate",
+      "C": "diminish",
+      "D": "lessen"
+    },
+    "correct_answer": "B",
+    "category": "Use of English",
+    "level": "C1"
+  },
+  {
+    "id": 57,
+    "question": "Which adjective best describes something unproductive and without positive results?",
+    "options": {
+      "A": "fruitful",
+      "B": "productive",
+      "C": "fruitless",
+      "D": "fertile"
+    },
+    "correct_answer": "C",
+    "category": "Vocabulary",
+    "level": "C1"
+  },
+  {
+    "id": 58,
+    "question": "Select the word that means 'not based on facts or good reasoning'?",
+    "options": {
+      "A": "robust",
+      "B": "tenuous",
+      "C": "valid",
+      "D": "cogent"
+    },
+    "correct_answer": "B",
+    "category": "Vocabulary",
+    "level": "C1"
+  },
+  {
+    "id": 59,
+    "question": "Choose the adjective that means 'subtle and complex'?",
+    "options": {
+      "A": "simple",
+      "B": "clear",
+      "C": "nuanced",
+      "D": "obvious"
+    },
+    "correct_answer": "C",
+    "category": "Vocabulary",
+    "level": "C1"
+  },
+  {
+    "id": 60,
+    "question": "Which word describes something new and original?",
+    "options": {
+      "A": "conventional",
+      "B": "traditional",
+      "C": "innovative",
+      "D": "established"
+    },
+    "correct_answer": "C",
+    "category": "Vocabulary",
+    "level": "C1"
+  },
+  {
+    "id": 61,
+    "question": "What is the central argument presented in the passage regarding AI?",
+    "options": {
+      "A": "AI is unequivocally beneficial for humanity's progress.",
+      "B": "AI poses an existential threat that outweighs any potential benefits.",
+      "C": "AI presents a dual nature, offering both transformative potential and significant risks that require careful navigation.",
+      "D": "AI's development should be left solely to technological experts without societal or ethical oversight."
+    },
+    "correct_answer": "C",
+    "category": "Reading",
+    "level": "C2"
+  },
+  {
+    "id": 62,
+    "question": "In the context of scientific advancement, how does the passage portray AI's role?",
+    "options": {
+      "A": "AI is primarily a tool for automating existing scientific processes without fundamentally altering research.",
+      "B": "AI is hindering scientific progress due to its complexity and lack of transparency.",
+      "C": "AI is acting as a catalyst, accelerating research and enabling discoveries in data-rich fields previously intractable to human analysis.",
+      "D": "AI's impact on science is limited to specific disciplines and has not yet achieved widespread adoption."
+    },
+    "correct_answer": "C",
+    "category": "Reading",
+    "level": "C2"
+  },
+  {
+    "id": 63,
+    "question": "The passage highlights \"algorithmic bias\" as a key ethical challenge. What is the primary concern associated with this bias?",
+    "options": {
+      "A": "Algorithmic bias primarily affects the accuracy of scientific simulations and models.",
+      "B": "Algorithmic bias can lead to unfair or discriminatory outcomes in areas impacting human lives, such as justice and finance.",
+      "C": "Algorithmic bias is a purely theoretical concern with limited real-world consequences.",
+      "D": "Algorithmic bias can be easily rectified through minor adjustments to AI training datasets."
+    },
+    "correct_answer": "B",
+    "category": "Reading",
+    "level": "C2"
+  },
+  {
+    "id": 64,
+    "question": "The \"specter of autonomous weapons systems\" is mentioned to illustrate:",
+    "options": {
+      "A": "The inevitable and desirable progression of military technology towards full automation.",
+      "B": "A potential future where AI enhances human control and reduces casualties in warfare.",
+      "C": "The grave ethical and strategic risks associated with delegating critical decisions of life and death to AI without human moral compass.",
+      "D": "The opportunity for international cooperation to develop and regulate advanced AI weaponry for global security."
+    },
+    "correct_answer": "C",
+    "category": "Reading",
+    "level": "C2"
+  },
+  {
+    "id": 65,
+    "question": "What does \"ethically unmoored proliferation of AI technologies\" imply about current AI development?",
+    "options": {
+      "A": "AI development is proceeding slowly and cautiously, guided by strong ethical frameworks.",
+      "B": "The rapid advancement of AI is outpacing the establishment of robust ethical and regulatory safeguards.",
+      "C": "Ethical considerations are fully integrated into every stage of AI research and deployment.",
+      "D": "The current ethical guidelines are sufficient to manage the risks associated with AI proliferation."
+    },
+    "correct_answer": "B",
+    "category": "Reading",
+    "level": "C2"
+  },
+  {
+    "id": 66,
+    "question": "The phrase \"Pandora's Box\" in the conclusion serves as a metaphor for:",
+    "options": {
+      "A": "The unlimited potential of AI to solve all human problems and usher in a utopian future.",
+      "B": "The carefully managed and inherently benevolent nature of AI technology.",
+      "C": "The unpredictable and potentially calamitous consequences that could be unleashed if AI development is mishandled or uncontrolled.",
+      "D": "The limited long-term impact of AI on human society, suggesting it is a temporary technological trend."
+    },
+    "correct_answer": "C",
+    "category": "Reading",
+    "level": "C2"
+  },
+  {
+    "id": 67,
+    "question": "According to the passage, addressing the challenges of AI requires:",
+    "options": {
+      "A": "Primarily focusing on technological solutions to mitigate algorithmic bias and enhance AI safety.",
+      "B": "A holistic and collaborative approach involving researchers, policymakers, ethicists, and the public to guide AI's trajectory responsibly.",
+      "C": "Implementing a global moratorium on all AI research until ethical frameworks are fully established.",
+      "D": "Solely relying on economic incentives and market forces to steer AI development towards beneficial outcomes."
+    },
+    "correct_answer": "B",
+    "category": "Reading",
+    "level": "C2"
+  },
+  {
+    "id": 68,
+    "question": "What is the author's overall stance on the future of AI as conveyed in the passage?",
+    "options": {
+      "A": "Unquestionably optimistic, viewing AI as the key to solving humanity's most pressing issues.",
+      "B": "Deeply pessimistic, portraying AI as an imminent threat to human civilization.",
+      "C": "Balanced and cautiously hopeful, emphasizing the need for wisdom and ethical considerations to realize AI's benefits while avoiding its perils.",
+      "D": "Primarily concerned with the economic disruptions caused by AI-driven automation and job displacement."
+    },
+    "correct_answer": "C",
+    "category": "Reading",
+    "level": "C2"
+  },
+  {
+    "id": 69,
+    "question": "The term \"bifurcated perspective\" in the first paragraph suggests:",
+    "options": {
+      "A": "A singular, unified view of AI.",
+      "B": "A perspective that is divided into two distinct parts or aspects.",
+      "C": "A perspective focused exclusively on the technical capabilities of AI.",
+      "D": "A perspective that prioritizes economic considerations above all else."
+    },
+    "correct_answer": "B",
+    "category": "Reading",
+    "level": "C2"
+  },
+  {
+    "id": 70,
+    "question": "The passage concludes by asserting that AI's future depends most critically on:",
+    "options": {
+      "A": "The speed of technological advancements in AI hardware and software.",
+      "B": "The investment of capital and resources into AI research and development.",
+      "C": "Human wisdom, ethical considerations, and a collective commitment to responsible innovation and governance.",
+      "D": "The ability of AI systems to surpass human intelligence and achieve general artificial intelligence."
+    },
+    "correct_answer": "C",
+    "category": "Reading",
+    "level": "C2"
+  }
+];
+        
+       const passageText = "&nbsp;&nbsp;&nbsp;&nbsp;The advent of Artificial Intelligence (AI) constitutes a watershed moment in human history, heralding an era of unprecedented technological capability while simultaneously presenting a complex tapestry of ethical, societal, and existential quandaries. As we increasingly integrate AI into the fundamental architectures of our civilization, from intricate global infrastructures to the minutiae of daily life, a rigorous and nuanced examination of its multifaceted implications becomes not merely prudent, but imperative.  The discourse surrounding AI must move beyond simplistic narratives of utopian progress or dystopian collapse, embracing a critical and bifurcated perspective that acknowledges both its transformative potential and its inherent perils.<br>&nbsp;&nbsp;&nbsp;&nbsp;On one hand, the prospective advantages of AI are profoundly extensive and demonstrably transformative. In the scientific domain, AI algorithms are revolutionizing research methodologies across disciplines. In genomics, sophisticated AI models are accelerating the analysis of vast datasets, facilitating breakthroughs in personalized medicine and disease prediction. In astrophysics and climate science, AI is enabling the simulation and interpretation of complex systems with a fidelity previously unattainable, offering invaluable insights into the universe and the Earth's climate dynamics. Furthermore, the deployment of AI-driven automation promises to optimize industrial processes, enhance agricultural yields, and streamline logistical networks, leading to significant gains in productivity, resource efficiency, and economic output.  Beyond the purely utilitarian, AI also holds promise in enhancing human creativity and expression.  AI tools are increasingly being used in artistic creation, musical composition, and architectural design, augmenting human capabilities and opening new vistas of creative exploration.<br>&nbsp;&nbsp;&nbsp;&nbsp;Conversely, the unchecked and ethically unmoored proliferation of AI technologies engenders a constellation of formidable risks that demand meticulous scrutiny and proactive mitigation.  Foremost among these are ethical concerns pertaining to algorithmic bias, transparency, and accountability.  AI systems, trained on datasets that may reflect existing societal prejudices, can inadvertently perpetuate and amplify discriminatory outcomes across critical domains such as criminal justice, financial lending, and employment.  The lack of transparency in complex neural networks, often described as \"black boxes,\" poses significant challenges for understanding and rectifying these biases, eroding public trust and potentially exacerbating social inequalities.  Moreover, the concentration of AI development in the hands of a few powerful corporations raises concerns about monopolistic control, data privacy, and the potential for algorithmic governance that prioritizes profit over public good.<br>&nbsp;&nbsp;&nbsp;&nbsp;The specter of autonomous weapons systems (AWS) represents perhaps the most acute existential risk.  The prospect of delegating life-and-death decisions to machines, devoid of human empathy and moral judgment, raises profound ethical and strategic dilemmas.  The potential for algorithmic errors, hacking vulnerabilities, and the escalation of conflicts through autonomous action necessitates urgent international dialogue and regulatory frameworks to prevent a future where warfare is dominated by unchecked AI agency.  Furthermore, the anticipated widespread displacement of human labor due to AI-driven automation presents significant socio-economic challenges.  While proponents argue that AI will create new forms of employment, the transitional period could be marked by significant job losses, increased economic inequality, and social unrest, requiring proactive governmental policies focused on retraining, social safety nets, and perhaps fundamentally rethinking the nature of work itself in an AI-driven economy.<br>&nbsp;&nbsp;&nbsp;&nbsp;In conclusion, the trajectory of AI development stands at a critical juncture.  To harness its transformative potential while mitigating its inherent dangers requires a concerted, multidisciplinary effort involving researchers, policymakers, ethicists, and the broader public.  A future where AI serves as a benevolent force for human progress, augmenting our capabilities and enriching our lives, is contingent upon our collective wisdom in navigating this complex and dichotomous landscape with foresight, ethical rigor, and a commitment to ensuring that technological advancement aligns with fundamental human values and societal well-being. The algorithmic aegis must not become Pandora's Box."
+        
+        const form = document.getElementById("quizForm");
+        
+        let passageAdded = false;
+        
+        questions.forEach((q, index) => {
+            if (q.id === 61 && !passageAdded) {
+                const passageDiv = document.createElement("div");
+                passageDiv.classList.add("passage");
+                passageDiv.innerHTML = `<strong>Reading Passage:</strong><br>${passageText}`;
+                document.getElementById("quizForm").appendChild(passageDiv);
+                passageAdded = true;
+            }
+            
+            const questionDiv = document.createElement("div");
+            questionDiv.classList.add("question");
+            
+            const questionText = document.createElement("p");
+            questionText.innerHTML = `<strong>${index + 1}. ${q.question}</strong>`;
+            questionDiv.appendChild(questionText);
+            
+            Object.entries(q.options).forEach(([key, value]) => {
+                const input = document.createElement("input");
+                input.type = "radio";
+                input.name = `q${q.id}`;
+                input.value = key;
+                
+                const label = document.createElement("label");
+                label.innerHTML = ` ${key}) ${value}<br>`;
+                
+                questionDiv.appendChild(input);
+                questionDiv.appendChild(label);
+            });
+            
+            form.appendChild(questionDiv);
+        });
+        
+        document.getElementById("submitBtn").addEventListener("click", function(event) {
+            event.preventDefault();
+            
+            let score = 0;
+            let total = questions.length;
+            let resultText = "<h3>Results:</h3>";
+            let levelCounts = { "A1": 0, "A2": 0, "B1": 0, "B2": 0, "C1": 0, "C2": 0 };
+
+            questions.forEach(q => {
+                let selected = document.querySelector(`input[name="q${q.id}"]:checked`);
+                if (selected) {
+                    if (selected.value === q.correct_answer) {
+                        score++;
+                        levelCounts[q.level]++;
+                        resultText += `<p>Question ${q.id}: Correct ✅</p>`;
+                    } else {
+                        resultText += `<p>Question ${q.id}: Incorrect ❌ (Correct: ${q.correct_answer})</p>`;
+                    }
+                } else {
+                    resultText += `<p>Question ${q.id}: No answer selected ❌ (Correct: ${q.correct_answer})</p>`;
+                }
+            });
+
+	    resultText += `<p><strong>Your Score: ${score} / ${total}</strong></p>`;
+
+            let userLevel = "A1"; // Default level
+            if (levelCounts["A1"] >= 8) {
+                userLevel = "A1";
+                if (levelCounts["A2"] >= 8) {
+                    userLevel = "A2";
+                    if (levelCounts["B1"] >= 8) {
+                        userLevel = "B1";
+                        if (levelCounts["B2"] >= 8) {
+                            userLevel = "B2";
+                            if (levelCounts["C1"] >= 8 && levelCounts["C2"] >= 7) { // Adjusted C2 threshold
+                                userLevel = "C2";
+                            } else if (levelCounts["C1"] >= 8) {
+                                userLevel = "C1";
+                            }
+                        }
+                    }
+                }
+            }
+
+            resultText += `<p><strong>Your Estimated English Level: ${userLevel}</strong></p>`;
+            document.getElementById("result").innerHTML = resultText;        });   </script>
+</body>
+</html>
+
+
+
+
