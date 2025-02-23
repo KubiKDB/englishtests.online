@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test your English level</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: flex-start;
+            min-height: 100vh;
+            margin: 0;
+            background-color: #f4f4f4;
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 90%;
+            max-width: 400px;
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+
+        .sandwich-menu-button {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-around;
+            width: 30px;
+            height: 25px;
+            cursor: pointer;
+            padding: 10px;
+        }
+
+        .sandwich-bar {
+            width: 100%;
+            height: 3px;
+            background-color: #333;
+        }
+
+        /* "Test your English level" Button Styles */
+        .main-button-container {
+            width: 90%;
+            max-width: 400px;
+            margin-bottom: 30px; /* Space before level buttons */
+        }
+
+        .main-button {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+            border-radius: 10px;
+            background-color: #ddd;
+            text-decoration: none;
+            color: #333;
+            font-size: 1.5em; /* Slightly smaller font size */
+            font-weight: bold;
+            text-align: center;
+            transition: background-color 0.3s ease;
+        }
+
+        .main-button:hover {
+            background-color: #ccc;
+        }
+
+
+        .button-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 15px;
+            max-width: 400px;
+            width: 90%;
+            margin-bottom: 30px;
+        }
+
+        .level-button {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
+            padding-top: 100%;
+            position: relative;
+            border-radius: 10px;
+            background-color: #ddd;
+            text-decoration: none;
+            color: #333;
+            font-size: 2em;
+            font-weight: bold;
+            text-align: center;
+            overflow: hidden;
+            transition: background-color 0.3s ease;
+        }
+
+        .level-button:hover {
+            background-color: #ccc;
+        }
+
+        .level-button span {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 90%;
+        }
+
+        /* Specific colors from the image */
+        .level-button.a1, .level-button.a2 { color: red; }
+        .level-button.b1 { color: yellow; }
+        .level-button.b2 { color: yellow; }
+        .level-button.c1, .level-button.c2 { color: green; }
+
+
+        /* Mobile adjustments */
+        @media (max-width: 600px) {
+            .header {
+                margin-top: 15px;
+                margin-bottom: 15px;
+            }
+            .main-button-container {
+                margin-bottom: 20px; /* Less space on mobile */
+            }
+            .main-button {
+                font-size: 1.3em; /* Slightly smaller font on mobile */
+                padding: 15px; /* Smaller padding on mobile */
+            }
+            .button-grid {
+                grid-template-columns: 1fr;
+                max-width: 90%;
+                gap: 10px;
+            }
+            .level-button {
+                font-size: 1.7em;
+                padding-top: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <div class="sandwich-menu-button" onclick="toggleMenu()">
+            <div class="sandwich-bar"></div>
+            <div class="sandwich-bar"></div>
+            <div class="sandwich-bar"></div>
+        </div>
+        <div></div> <div></div>  </div>
+
+    <div class="main-button-container">
+        <a href="#englishleveltest" class="main-button">Test your English level</a>
+    </div>
+
+    <div class="button-grid">
+        <a href="#a1" class="level-button a1"><span>A1</span></a>
+        <a href="#a2" class="level-button a2"><span>A2</span></a>
+        <a href="#b1" class="level-button b1"><span>B1</span></a>
+        <a href="#b2" class="level-button b2"><span>B2</span></a>
+        <a href="#c1" class="level-button c1"><span>C1</span></a>
+        <a href="#c2" class="level-button c2"><span>C2</span></a>
+    </div>
+
+    <script>
+        function toggleMenu() {
+            // You can add functionality to toggle a side menu here
+            alert('Sandwich menu button clicked!'); // Placeholder action
+        }
+    </script>
+
+</body>
+</html>
