@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>B2 level tests</title>
+    <style>
+        /* Reusing color scheme and basic styles from index.html */
+        :root {
+            --primary-background: #f9f9f9;
+            --primary-color: #3498db;
+            --primary-color-darker: #2980b9;
+            --secondary-color: #e7e7e7;
+            --secondary-color-darker: #d1d1d1;
+            --text-color-dark: #333;
+            --text-color-light: #fff;
+            --accent-color-red: #e74c3c;
+            --accent-color-yellow: #f1c40f;
+            --accent-color-green: #2ecc71;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: flex-start;
+            min-height: 100vh;
+            margin: 0;
+            background-color: var(--primary-background);
+            color: var(--text-color-dark);
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 90%;
+            max-width: 600px; /* Increased max-width for page title */
+            margin-top: 20px;
+            margin-bottom: 20px;
+            position: relative;
+        }
+
+        .sandwich-menu-button {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-around;
+            width: 30px;
+            height: 25px;
+            cursor: pointer;
+            padding: 10px;
+        }
+
+        .sandwich-bar {
+            width: 100%;
+            height: 3px;
+            background-color: var(--primary-color);
+        }
+
+        /* Page Title Style */
+        .page-title {
+            font-size: 1.7em;
+            font-weight: bold;
+            color: var(--text-color-dark);
+            margin-left: 20px; /* Space from sandwich menu */
+            margin-right: auto; /* Push to the center */
+        }
+
+        /* Dropdown Menu Styles - Same as index.html */
+        .dropdown-menu {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            background-color: var(--primary-background);
+            border: 1px solid #ccc;
+            border-top: none;
+            border-radius: 0 0 10px 10px;
+            width: 200px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            display: none;
+            z-index: 10;
+        }
+
+        .dropdown-menu a {
+            display: block;
+            padding: 10px 15px;
+            text-decoration: none;
+            color: var(--text-color-dark);
+            transition: background-color 0.2s ease-in-out;
+        }
+
+        .dropdown-menu a:hover {
+            background-color: var(--secondary-color);
+        }
+
+        /* Test Squares Grid Container */
+        .test-squares-grid {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr); /* 20 columns */
+            gap: 10px; /* Spacing between squares */
+            max-width: 90%;
+            width: calc(5 * (60px + 10px)); /* Approximate width for 5x20 grid + gaps */
+            margin-bottom: 30px;
+        }
+
+        /* Individual Test Square */
+        .test-square {
+            width: 50px; /* Size of square */
+            height: 50px;
+            border-radius: 10px; /* Rounded corners */
+            background-color: white;
+            border: 2px solid var(--primary-color); /* Blue border */
+            color: var(--primary-color); /* Blue number color */
+            font-weight: bold;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 1em;
+            cursor: pointer; /* Indicate clickable */
+            transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+        }
+
+        .test-square:hover {
+            background-color: var(--primary-color); /* Blue background on hover */
+            color: white; /* White number on hover */
+        }
+
+
+        /* Mobile adjustments */
+        @media (max-width: 700px) {
+            .header {
+                margin-top: 15px;
+                margin-bottom: 15px;
+            }
+            .page-title {
+                font-size: 1.4em; /* Smaller page title on mobile */
+                margin-left: 10px;
+            }
+            .test-squares-grid {
+                grid-template-columns: repeat(5, 1fr); /* Single column on mobile */
+                gap: 8px;
+                width: 95%; /* Take more width on mobile */
+            }
+            .test-square {
+                width: calc(100vw / 7); /* Responsive square width on mobile */
+                height: calc(100vw / 7);
+                font-size: 0.9em;
+                border-radius: 8px; /* Slightly less rounded on mobile */
+                border-width: 1.5px; /* Thinner border on mobile */
+            }
+            .dropdown-menu {
+                width: 180px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <div class="sandwich-menu-button" onclick="toggleMenu()">
+            <div class="sandwich-bar"></div>
+            <div class="sandwich-bar"></div>
+            <div class="sandwich-bar"></div>
+        </div>
+        <div class="page-title">B2 level tests</div>
+        <div></div> <div></div>
+
+        <div class="dropdown-menu" id="sandwichDropdown">
+            <a href="#about">About Us</a>
+            <a href="#terms">Terms of Use</a>
+            <a href="#privacy">Privacy Policy</a>
+        </div>
+    </div>
+
+    <div class="test-squares-grid">
+        </div>
+
+    <script>
+        function toggleMenu() {
+            const dropdownMenu = document.getElementById('sandwichDropdown');
+            dropdownMenu.style.display = dropdownMenu.style.display === 'block' ? 'none' : 'block';
+        }
+
+        // JavaScript to dynamically generate 100 squares
+        const gridContainer = document.querySelector('.test-squares-grid');
+        for (let i = 1; i <= 100; i++) {
+            const square = document.createElement('div');
+            square.classList.add('test-square');
+            square.textContent = i;
+            // You can add an onclick event to each square if needed
+            // square.onclick = function() { alert('Square ' + i + ' clicked!'); };
+            gridContainer.appendChild(square);
+        }
+    </script>
+
+</body>
+</html>
