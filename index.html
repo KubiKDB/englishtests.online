@@ -5,15 +5,30 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Test your English level</title>
     <style>
+        /* Color Palette - UI/UX Professional */
+        :root {
+            --primary-background: #f9f9f9;      /* Light, almost white background */
+            --primary-color: #3498db;          /* A professional, friendly blue */
+            --primary-color-darker: #2980b9;   /* Darker shade for hover/active */
+            --secondary-color: #e7e7e7;        /* Light grey for button background */
+            --secondary-color-darker: #d1d1d1; /* Darker grey for button hover */
+            --text-color-dark: #333;            /* Dark text for readability */
+            --text-color-light: #fff;            /* Light text for buttons */
+            --accent-color-red: #e74c3c;        /* Accent red (if still needed subtly) */
+            --accent-color-yellow: #f1c40f;     /* Accent yellow (if still needed subtly) */
+            --accent-color-green: #2ecc71;      /* Accent green (if still needed subtly) */
+        }
+
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Modern, clean font */
             display: flex;
             flex-direction: column;
             align-items: center;
             justify-content: flex-start;
             min-height: 100vh;
             margin: 0;
-            background-color: #f4f4f4;
+            background-color: var(--primary-background); /* Using variable for background */
+            color: var(--text-color-dark);         /* Default text color */
         }
 
         .header {
@@ -24,6 +39,7 @@
             max-width: 400px;
             margin-top: 20px;
             margin-bottom: 20px;
+            position: relative;
         }
 
         .sandwich-menu-button {
@@ -39,14 +55,41 @@
         .sandwich-bar {
             width: 100%;
             height: 3px;
-            background-color: #333;
+            background-color: var(--text-color-dark); /* Dark color for menu icon */
+        }
+
+        /* Dropdown Menu Styles */
+        .dropdown-menu {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            background-color: var(--primary-background); /* Match dropdown to background */
+            border: 1px solid #ccc;
+            border-top: none;
+            border-radius: 0 0 10px 10px;
+            width: 200px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            display: none;
+            z-index: 10;
+        }
+
+        .dropdown-menu a {
+            display: block;
+            padding: 10px 15px;
+            text-decoration: none;
+            color: var(--text-color-dark);     /* Dark text for dropdown links */
+            transition: background-color 0.2s ease-in-out; /* Softer transition */
+        }
+
+        .dropdown-menu a:hover {
+            background-color: var(--secondary-color); /* Light grey hover in dropdown */
         }
 
         /* "Test your English level" Button Styles */
         .main-button-container {
             width: 90%;
             max-width: 400px;
-            margin-bottom: 30px; /* Space before level buttons */
+            margin-bottom: 30px;
         }
 
         .main-button {
@@ -54,18 +97,19 @@
             justify-content: center;
             align-items: center;
             padding: 20px;
-            border-radius: 10px;
-            background-color: #ddd;
+            border-radius: 8px; /* Slightly less rounded corners */
+            background-color: var(--primary-color); /* Primary blue for main button */
             text-decoration: none;
-            color: #333;
-            font-size: 1.5em; /* Slightly smaller font size */
-            font-weight: bold;
+            color: var(--text-color-light);     /* Light text for main button */
+            font-size: 1.5em;
+            font-weight: 600;                  /* Semi-bold font weight */
             text-align: center;
-            transition: background-color 0.3s ease;
+            box-shadow: 0 2px 3px rgba(0,0,0,0.08); /* Subtle shadow */
+            transition: background-color 0.2s ease-in-out;
         }
 
         .main-button:hover {
-            background-color: #ccc;
+            background-color: var(--primary-color-darker); /* Darker blue on hover */
         }
 
 
@@ -82,37 +126,30 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            width: 100%;
-            padding-top: 100%;
-            position: relative;
-            border-radius: 10px;
-            background-color: #ccc;
+            padding: 15px;
+            border-radius: 8px; /* Slightly less rounded corners */
+            background-color: var(--secondary-color); /* Light grey for level buttons */
             text-decoration: none;
-            color: #333;
-            font-size: 5em;
-            font-weight: bold;
+            color: var(--text-color-dark);        /* Dark text for level buttons */
+            font-size: 1.3em;
+            font-weight: 500;                   /* Medium font weight */
             text-align: center;
-            overflow: hidden;
-            transition: background-color 0.3s ease;
+            box-shadow: 0 1px 2px rgba(0,0,0,0.05); /* Even more subtle shadow */
+            transition: background-color 0.2s ease-in-out;
         }
 
         .level-button:hover {
-            background-color: #bbb;
+            background-color: var(--secondary-color-darker); /* Darker grey on hover */
         }
 
-        .level-button span {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            width: 90%;
-        }
 
-        /* Specific colors from the image */
-        .level-button.a1, .level-button.a2 { color: red; }
-        .level-button.b1 { color: yellow; }
-        .level-button.b2 { color: yellow; }
-        .level-button.c1, .level-button.c2 { color: green; }
+        /* Specific colors from the image - now for text if needed, but we are using white text now */
+        /* We can still use these subtly if needed, e.g., for a very subtle border or text accent */
+        /*.level-button.a1 { border-bottom-color: var(--accent-color-red); }
+        .level-button.a2 { border-bottom-color: var(--accent-color-red); }
+        .level-button.b1 { border-bottom-color: var(--accent-color-yellow); }
+        .level-button.b2 { border-bottom-color: var(--accent-color-yellow); }
+        .level-button.c1, .level-button.c2 { border-bottom-color: var(--accent-color-green); }*/
 
 
         /* Mobile adjustments */
@@ -122,11 +159,11 @@
                 margin-bottom: 15px;
             }
             .main-button-container {
-                margin-bottom: 20px; /* Less space on mobile */
+                margin-bottom: 20px;
             }
             .main-button {
-                font-size: 1.3em; /* Slightly smaller font on mobile */
-                padding: 15px; /* Smaller padding on mobile */
+                font-size: 1.3em;
+                padding: 15px;
             }
             .button-grid {
                 grid-template-columns: 1fr;
@@ -134,8 +171,11 @@
                 gap: 10px;
             }
             .level-button {
-                font-size: 1.7em;
-                padding-top: 100%;
+                font-size: 1.2em;
+                padding: 12px;
+            }
+            .dropdown-menu {
+                width: 180px;
             }
         }
     </style>
@@ -148,25 +188,32 @@
             <div class="sandwich-bar"></div>
             <div class="sandwich-bar"></div>
         </div>
-        <div></div> <div></div>  </div>
+        <div></div> <div></div>
+
+        <div class="dropdown-menu" id="sandwichDropdown">
+            <a href="#about">About Us</a>
+            <a href="#terms">Terms of Use</a>
+            <a href="#privacy">Privacy Policy</a>
+        </div>
+    </div>
 
     <div class="main-button-container">
         <a href="https://kubikdb.github.io/test-english-level/englishleveltest" class="main-button">Test your English level</a>
     </div>
 
     <div class="button-grid">
-        <a href="#a1" class="level-button a1"><span>A1</span></a>
-        <a href="#a2" class="level-button a2"><span>A2</span></a>
-        <a href="#b1" class="level-button b1"><span>B1</span></a>
-        <a href="#b2" class="level-button b2"><span>B2</span></a>
-        <a href="#c1" class="level-button c1"><span>C1</span></a>
-        <a href="#c2" class="level-button c2"><span>C2</span></a>
+        <a href="#a1" class="level-button">A1 level tests</a>
+        <a href="#a2" class="level-button">A2 level tests</a>
+        <a href="#b1" class="level-button">B1 level tests</a>
+        <a href="#b2" class="level-button">B2 level tests</a>
+        <a href="#c1" class="level-button">C1 level tests</a>
+        <a href="#c2" class="level-button">C2 level tests</a>
     </div>
 
     <script>
         function toggleMenu() {
-            // You can add functionality to toggle a side menu here
-            alert('Sandwich menu button clicked!'); // Placeholder action
+            const dropdownMenu = document.getElementById('sandwichDropdown');
+            dropdownMenu.style.display = dropdownMenu.style.display === 'block' ? 'none' : 'block';
         }
     </script>
 
