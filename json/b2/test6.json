@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The solar system, a gravitationally bound system of the Sun and the objects that orbit it, is a fascinating and complex realm of space. Located in the Orion Arm of the Milky Way galaxy, it formed 4.6 billion years ago from the gravitational collapse of a giant interstellar molecular cloud. The vast majority of the system's mass is in the Sun, with the majority of the remaining mass contained in Jupiter.<br><br>(2) The solar system is conventionally divided into several regions. The inner solar system comprises the terrestrial planets: Mercury, Venus, Earth, and Mars. These planets are primarily composed of rock and metal and are relatively dense. Beyond Mars lies the asteroid belt, a circumstellar disc in the Solar System located roughly between the orbits of the planets Mars and Jupiter. This region is populated by irregularly shaped bodies called asteroids or minor planets.<br><br>(3) The outer solar system is home to the gas giants: Jupiter, Saturn, Uranus, and Neptune. These planets are characterized by their large size and low density, composed mainly of hydrogen and helium. Jupiter and Saturn, often referred to as the 'gas giants,' are significantly larger than Uranus and Neptune, which are sometimes called 'ice giants' due to the higher concentrations of water, ammonia, and methane in their atmospheres.<br><br>(4) Beyond Neptune, the solar system extends into the Kuiper belt and the scattered disc, both populations of small icy bodies that include dwarf planets like Pluto, Eris, and Makemake. The Kuiper Belt is a circumstellar disc in the outer Solar System, extending from the orbit of Neptune to approximately 50 AU from the Sun. Further out is the scattered disc, which is still sparsely populated with icy objects.<br><br>(5) The solar system is not static; it is constantly evolving. Planetary orbits shift slightly over vast timescales, and the Sun itself will eventually exhaust its nuclear fuel, transforming into a red giant and later a white dwarf. Studying the solar system provides crucial insights into planetary formation, the conditions for life, and the dynamic processes that shape our cosmic neighborhood.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the grammatically correct sentence:",
+      "options": {
+        "A": "They has been living here for five years.",
+        "B": "They have been live here for five years.",
+        "C": "They have been living here since five years.",
+        "D": "They have been living here for five years."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Which sentence correctly uses the past perfect tense?",
+      "options": {
+        "A": "I have finished my work yesterday.",
+        "B": "I had finished my work before they arrived.",
+        "C": "I finished my work already.",
+        "D": "I am finishing my work now."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Identify the sentence with correct subject-verb agreement:",
+      "options": {
+        "A": "The cat chase the mice in the garden.",
+        "B": "The cat chases the mice in the garden.",
+        "C": "The cats chases the mice in the garden.",
+        "D": "The cats chase the mice in the garden."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Select the sentence with the correct use of articles:",
+      "options": {
+        "A": "I saw an elephant in zoo.",
+        "B": "I saw the elephant in a zoo.",
+        "C": "I saw a elephant in the zoo.",
+        "D": "I saw an elephant in the zoo."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the sentence with the correct use of preposition:",
+      "options": {
+        "A": "He is good at play football.",
+        "B": "He is good in playing football.",
+        "C": "He is good at playing football.",
+        "D": "He is good on playing football."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which sentence demonstrates the correct use of conditional clauses?",
+      "options": {
+        "A": "If I will have time, I will help you.",
+        "B": "If I have time, I would help you.",
+        "C": "If I had time, I will help you.",
+        "D": "If I have time, I will help you."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Identify the correctly punctuated sentence:",
+      "options": {
+        "A": "Although it was raining; we decided to go for a walk.",
+        "B": "Although it was raining, we decided to go for a walk.",
+        "C": "Although it was raining we decided to go for a walk.",
+        "D": "Although it was raining: we decided to go for a walk."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the sentence with correct word order in a question:",
+      "options": {
+        "A": "You are coming with us?",
+        "B": "Are you coming with us?",
+        "C": "Coming with us are you?",
+        "D": "You coming with us are?"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Choose the sentence with the correct use of 'to,' 'too,' or 'two':",
+      "options": {
+        "A": "I am going too the store.",
+        "B": "I am going to to store.",
+        "C": "I am going to the store to buy two apples too.",
+        "D": "I am going to the store too buy two apples to."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence correctly uses the passive voice?",
+      "options": {
+        "A": "The dog chased the ball.",
+        "B": "The ball is chased by the dog.",
+        "C": "The ball was chasing the dog.",
+        "D": "The ball chases the dog."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Identify the sentence with correct pronoun agreement:",
+      "options": {
+        "A": "Everyone should bring their books.",
+        "B": "Everyone should bring his or her book.",
+        "C": "Everyone should bring his book.",
+        "D": "Everyone should bring theirself book."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the sentence with the correct use of gerunds or infinitives:",
+      "options": {
+        "A": "I enjoy to swim in the sea.",
+        "B": "I enjoy swim in the sea.",
+        "C": "I enjoy swimming in the sea.",
+        "D": "I enjoy for swimming in the sea."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the sentence with the correct use of reported speech:",
+      "options": {
+        "A": "He said that he is tired.",
+        "B": "He said that I am tired.",
+        "C": "He said that he was tired.",
+        "D": "He says that he was tired."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence demonstrates the correct use of comparative adjectives?",
+      "options": {
+        "A": "She is more taller than her brother.",
+        "B": "She is taller than her brother.",
+        "C": "She is tallerer than her brother.",
+        "D": "She is more tall than her brother."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Identify the sentence with the correct use of conjunctions:",
+      "options": {
+        "A": "I wanted to go but I was too tired therefore I stayed home.",
+        "B": "I wanted to go, but I was too tired, so I stayed home.",
+        "C": "I wanted to go but I was too tired, so I stayed home.",
+        "D": "I wanted to go, but I was too tired so I stayed home."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "It's raining cats and dogs, so we should ______ inside.",
+      "options": {
+        "A": "better to stay",
+        "B": "best stay",
+        "C": "better stay",
+        "D": "to better stay"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "She is always ______ a lot of noise in class.",
+      "options": {
+        "A": "making",
+        "B": "doing",
+        "C": "having",
+        "D": "getting"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "I'm really looking ______ to the weekend.",
+      "options": {
+        "A": "forward",
+        "B": "ahead",
+        "C": "up",
+        "D": "through"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "He ______ his best to pass the exam, but he failed.",
+      "options": {
+        "A": "did",
+        "B": "made",
+        "C": "took",
+        "D": "gave"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "They decided to ______ up a new business together.",
+      "options": {
+        "A": "set",
+        "B": "put",
+        "C": "take",
+        "D": "bring"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Could you ______ me a favor and help me with this?",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "give",
+        "D": "take"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "She ______ a cold last week and couldn't come to work.",
+      "options": {
+        "A": "caught",
+        "B": "got",
+        "C": "took",
+        "D": "held"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "The meeting will ______ place tomorrow morning at 10 AM.",
+      "options": {
+        "A": "have",
+        "B": "make",
+        "C": "take",
+        "D": "put"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "I don't ______ mind helping you if you need assistance.",
+      "options": {
+        "A": "really",
+        "B": "actually",
+        "C": "quite",
+        "D": "very"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "He is always ______ fun of his younger brother.",
+      "options": {
+        "A": "doing",
+        "B": "making",
+        "C": "having",
+        "D": "getting"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "A synonym for 'arduous' is:",
+      "options": {
+        "A": "easy",
+        "B": "simple",
+        "C": "difficult",
+        "D": "effortless"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "The word 'ubiquitous' means:",
+      "options": {
+        "A": "rare",
+        "B": "commonplace",
+        "C": "unique",
+        "D": "hidden"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Choose the antonym of 'benevolent':",
+      "options": {
+        "A": "kind",
+        "B": "generous",
+        "C": "malicious",
+        "D": "compassionate"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which word best describes something that is 'fleeting'?",
+      "options": {
+        "A": "permanent",
+        "B": "lasting",
+        "C": "brief",
+        "D": "enduring"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "The term 'meticulous' refers to:",
+      "options": {
+        "A": "careless",
+        "B": "haphazard",
+        "C": "thorough",
+        "D": "negligent"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Select the synonym for 'jovial':",
+      "options": {
+        "A": "gloomy",
+        "B": "morose",
+        "C": "cheerful",
+        "D": "solemn"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "What is the meaning of 'pragmatic'?",
+      "options": {
+        "A": "idealistic",
+        "B": "realistic",
+        "C": "optimistic",
+        "D": "pessimistic"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Choose the antonym of 'affluent':",
+      "options": {
+        "A": "wealthy",
+        "B": "prosperous",
+        "C": "impoverished",
+        "D": "opulent"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Which word best describes something 'ephemeral'?",
+      "options": {
+        "A": "eternal",
+        "B": "transient",
+        "C": "perpetual",
+        "D": "infinite"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "The term 'verbose' means:",
+      "options": {
+        "A": "concise",
+        "B": "brief",
+        "C": "wordy",
+        "D": "succinct"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Select the synonym for 'venerate':",
+      "options": {
+        "A": "despise",
+        "B": "disrespect",
+        "C": "revere",
+        "D": "scorn"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "What is the meaning of 'lethargic'?",
+      "options": {
+        "A": "energetic",
+        "B": "vigorous",
+        "C": "sluggish",
+        "D": "dynamic"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Choose the antonym of 'gregarious':",
+      "options": {
+        "A": "sociable",
+        "B": "outgoing",
+        "C": "introverted",
+        "D": "amiable"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Which word best describes someone 'indolent'?",
+      "options": {
+        "A": "diligent",
+        "B": "industrious",
+        "C": "lazy",
+        "D": "active"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "The term 'taciturn' refers to:",
+      "options": {
+        "A": "talkative",
+        "B": "garrulous",
+        "C": "reserved",
+        "D": "loquacious"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "Which of the following best describes the formation of the solar system?",
+      "options": {
+        "A": "It was created by a collision of several stars.",
+        "B": "It originated from a supernova explosion.",
+        "C": "It formed from the gravitational collapse of an interstellar cloud.",
+        "D": "It was assembled from pre-existing planets and moons."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "According to the passage, where is the majority of the mass in the solar system located besides the Sun?",
+      "options": {
+        "A": "In the asteroid belt.",
+        "B": "In the combined mass of the terrestrial planets.",
+        "C": "In Jupiter.",
+        "D": "In the Kuiper belt objects."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "What is the main difference between terrestrial planets and gas giants as described in the passage?",
+      "options": {
+        "A": "Terrestrial planets are larger and less dense than gas giants.",
+        "B": "Terrestrial planets are primarily made of gas, while gas giants are rocky.",
+        "C": "Terrestrial planets are denser and composed of rock and metal, while gas giants are mainly hydrogen and helium.",
+        "D": "Terrestrial planets are located in the outer solar system, and gas giants are in the inner."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "The asteroid belt is positioned between which two planets?",
+      "options": {
+        "A": "Earth and Mars.",
+        "B": "Mars and Jupiter.",
+        "C": "Jupiter and Saturn.",
+        "D": "Saturn and Uranus."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Why are Uranus and Neptune sometimes referred to as 'ice giants'?",
+      "options": {
+        "A": "Because they are entirely frozen solid.",
+        "B": "Due to their extremely cold surface temperatures.",
+        "C": "Because they are composed primarily of water ice.",
+        "D": "Due to higher concentrations of water, ammonia, and methane in their atmospheres."
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What is the Kuiper Belt?",
+      "options": {
+        "A": "A region between Mars and Jupiter populated by asteroids.",
+        "B": "A dense cloud of gas and dust surrounding the solar system.",
+        "C": "A circumstellar disc beyond Neptune containing icy bodies.",
+        "D": "The outermost layer of the Sun's atmosphere."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to the passage, what is the future of the Sun?",
+      "options": {
+        "A": "It will become a black hole.",
+        "B": "It will explode as a supernova.",
+        "C": "It will transform into a red giant and then a white dwarf.",
+        "D": "It will remain stable indefinitely."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The passage indicates that studying the solar system is important for understanding which of the following?",
+      "options": {
+        "A": "Only the future of our planet Earth.",
+        "B": "Primarily the composition of the Sun.",
+        "C": "Planetary formation, conditions for life, and cosmic processes.",
+        "D": "The geology of terrestrial planets only."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "The term 'gravitationally bound system' in the first paragraph refers to:",
+      "options": {
+        "A": "A system where gravity is weak.",
+        "B": "A system held together by gravitational forces.",
+        "C": "A system expanding due to gravity.",
+        "D": "A system with no gravitational influence."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What does 'AU' stand for in the context of the Kuiper Belt's distance?",
+      "options": {
+        "A": "Astronomical Unit.",
+        "B": "Atomic Unit.",
+        "C": "Angular Unit.",
+        "D": "Absolute Unit."
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    }
+  ]
+}
