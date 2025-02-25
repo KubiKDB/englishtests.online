@@ -51,8 +51,11 @@
     <div id="result" class="result"></div>
     <script>
 
+        const urlParams = new URLSearchParams(window.location.search);
+        const levelValue = urlParams.get('level');
+        const iValue = parseInt(levelValue, 10);
 
-        fetch('json/b2/test1.json') // Path to your JSON file
+        fetch(`json/b2/test${iValue}.json`) // Path to your JSON file
             .then(response => {
                 console.log("Response Status:", response.status);
                 return response.json();
