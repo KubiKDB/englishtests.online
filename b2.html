@@ -55,7 +55,7 @@
         const levelValue = urlParams.get('level');
         const iValue = parseInt(levelValue, 10);
 
-        document.querySelector('h2').textContent = `B2 — Test ${testNumber}`;
+        document.querySelector('h2').textContent = `B2 — Test ${iValue}`;
 
         fetch(`json/b2/test${iValue}.json`) // Path to your JSON file
             .then(response => {
