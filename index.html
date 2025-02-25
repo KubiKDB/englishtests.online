@@ -5,30 +5,36 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Test your English level</title>
     <style>
-        /* Color Palette - UI/UX Professional */
+        /* Color Palette - Modern UI/UX */
         :root {
-            --primary-background: #f9f9f9;      /* Light, almost white background */
-            --primary-color: #3498db;          /* A professional, friendly blue */
-            --primary-color-darker: #2980b9;   /* Darker shade for hover/active */
-            --secondary-color: #e7e7e7;        /* Light grey for button background */
-            --secondary-color-darker: #d1d1d1; /* Darker grey for button hover */
-            --text-color-dark: #333;            /* Dark text for readability */
-            --text-color-light: #fff;            /* Light text for buttons */
-            --accent-color-red: #e74c3c;        /* Accent red (if still needed subtly) */
-            --accent-color-yellow: #f1c40f;     /* Accent yellow (if still needed subtly) */
-            --accent-color-green: #2ecc71;      /* Accent green (if still needed subtly) */
+            --primary-background: #f9f9f9;
+            --primary-color: #3498db;
+            --primary-color-darker: #2980b9;
+            --primary-color-lighter: #5dade2;
+            --secondary-color: #f0f0f0;
+            --secondary-color-darker: #e0e0e0;
+            --text-color-dark: #333333;
+            --text-color-light: #ffffff;
+            --box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+            --transition-speed: 0.25s;
+            --border-radius: 10px;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
         }
 
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Modern, clean font */
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             display: flex;
             flex-direction: column;
             align-items: center;
-            justify-content: flex-start;
             min-height: 100vh;
-            margin: 0;
-            background-color: var(--primary-background); /* Using variable for background */
-            color: var(--text-color-dark);         /* Default text color */
+            background-color: var(--primary-background);
+            color: var(--text-color-dark);
+            padding: 20px 0;
         }
 
         .header {
@@ -36,146 +42,210 @@
             justify-content: space-between;
             align-items: center;
             width: 90%;
-            max-width: 400px;
-            margin-top: 20px;
-            margin-bottom: 20px;
+            max-width: 500px;
+            margin-bottom: 30px;
             position: relative;
         }
 
+        /* Fixed Sandwich Menu to ensure visibility */
         .sandwich-menu-button {
+            width: 44px; /* Increased clickable area */
+            height: 44px; /* Increased clickable area */
             display: flex;
             flex-direction: column;
-            justify-content: space-around;
-            width: 30px;
-            height: 25px;
+            justify-content: center;
+            align-items: center;
             cursor: pointer;
-            padding: 10px;
+            position: relative;
+            z-index: 20;
+            border-radius: 50%;
+            transition: background-color var(--transition-speed);
         }
 
+        .sandwich-menu-button:hover {
+            background-color: rgba(52, 152, 219, 0.1);
+        }
+
+        /* Fixed sandwich bars */
         .sandwich-bar {
-            width: 100%;
-            height: 3px;
-            background-color: var(--primary-color); /* Dark color for menu icon */
+            width: 24px; /* Fixed width */
+            height: 3px; /* Slightly thicker for visibility */
+            background-color: var(--primary-color);
+            margin: 2px 0; /* Space between bars */
+            border-radius: 3px;
+            transition: transform var(--transition-speed), 
+                        opacity var(--transition-speed),
+                        background-color var(--transition-speed);
+        }
+        
+        /* Animation for sandwich menu */
+        .sandwich-menu-button.active .sandwich-bar:nth-child(1) {
+            transform: translateY(7px) rotate(45deg);
+            background-color: var(--primary-color-darker);
+        }
+        
+        .sandwich-menu-button.active .sandwich-bar:nth-child(2) {
+            opacity: 0;
+        }
+        
+        .sandwich-menu-button.active .sandwich-bar:nth-child(3) {
+            transform: translateY(-7px) rotate(-45deg);
+            background-color: var(--primary-color-darker);
         }
 
-        /* Dropdown Menu Styles */
+        /* Enhanced Dropdown Menu */
         .dropdown-menu {
             position: absolute;
-            top: 100%;
+            top: 50px; /* Adjusted to be below the menu button */
             left: 0;
-            background-color: var(--primary-background); /* Match dropdown to background */
-            border: 1px solid #ccc;
-            border-top: none;
-            border-radius: 0 0 10px 10px;
-            width: 200px;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-            display: none;
+            background-color: var(--text-color-light);
+            border-radius: var(--border-radius);
+            width: 220px;
+            box-shadow: var(--box-shadow);
+            opacity: 0;
+            visibility: hidden;
+            transform: translateY(-10px);
+            transition: all var(--transition-speed);
             z-index: 10;
+            overflow: hidden;
+            border-top: 3px solid var(--primary-color);
+        }
+
+        .dropdown-menu.active {
+            opacity: 1;
+            visibility: visible;
+            transform: translateY(0);
         }
 
         .dropdown-menu a {
             display: block;
-            padding: 10px 15px;
+            padding: 15px 20px;
             text-decoration: none;
-            color: var(--text-color-dark);     /* Dark text for dropdown links */
-            transition: background-color 0.2s ease-in-out; /* Softer transition */
+            color: var(--text-color-dark);
+            transition: all var(--transition-speed);
+            border-bottom: 1px solid var(--secondary-color);
+        }
+
+        .dropdown-menu a:last-child {
+            border-bottom: none;
         }
 
         .dropdown-menu a:hover {
-            background-color: var(--secondary-color); /* Light grey hover in dropdown */
+            background-color: rgba(52, 152, 219, 0.1);
+            color: var(--primary-color);
+            padding-left: 25px;
         }
 
-        /* "Test your English level" Button Styles */
+        /* Main Button Container */
         .main-button-container {
             width: 90%;
-            max-width: 400px;
-            margin-bottom: 30px;
+            max-width: 500px;
+            margin-bottom: 35px;
         }
 
         .main-button {
             display: flex;
             justify-content: center;
             align-items: center;
-            padding: 20px;
-            border-radius: 8px; /* Slightly less rounded corners */
-            background-color: var(--primary-color); /* Primary blue for main button */
+            padding: 18px;
+            border-radius: var(--border-radius);
+            background-color: var(--primary-color);
             text-decoration: none;
-            color: var(--text-color-light);     /* Light text for main button */
+            color: var(--text-color-light);
             font-size: 1.5em;
-            font-weight: 600;                  /* Semi-bold font weight */
+            font-weight: 600;
             text-align: center;
-            box-shadow: 0 2px 3px rgba(0,0,0,0.08); /* Subtle shadow */
-            transition: background-color 0.2s ease-in-out;
+            box-shadow: var(--box-shadow);
+            transition: all var(--transition-speed);
+            width: 100%;
         }
 
         .main-button:hover {
-            background-color: var(--primary-color-darker); /* Darker blue on hover */
+            background-color: var(--primary-color-darker);
+            transform: translateY(-2px);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
         }
 
+        .main-button:active {
+            transform: translateY(0);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+        }
 
+        /* Button Grid */
         .button-grid {
             display: grid;
             grid-template-columns: repeat(1, 1fr);
             gap: 15px;
-            max-width: 400px;
+            max-width: 500px;
             width: 90%;
-            margin-bottom: 30px;
         }
 
         .level-button {
             display: flex;
             justify-content: center;
             align-items: center;
-            padding: 15px;
-            border-radius: 8px; /* Slightly less rounded corners */
-            background-color: var(--secondary-color); /* Light grey for level buttons */
+            padding: 16px;
+            border-radius: var(--border-radius);
+            background-color: var(--secondary-color);
             text-decoration: none;
-            color: var(--text-color-dark);        /* Dark text for level buttons */
+            color: var(--text-color-dark);
             font-size: 1.3em;
-            font-weight: 500;                   /* Medium font weight */
+            font-weight: 500;
             text-align: center;
-            box-shadow: 0 1px 2px rgba(0,0,0,0.05); /* Even more subtle shadow */
-            transition: background-color 0.2s ease-in-out;
+            box-shadow: var(--box-shadow);
+            transition: all var(--transition-speed);
+            position: relative;
+            overflow: hidden;
         }
+
+        .level-button:before {
+            content: '';
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            height: 4px;
+            width: 100%;
+            background-color: transparent;
+            transition: background-color var(--transition-speed);
+        }
+
+        .level-button.a1:before, .level-button.a2:before { background-color: #e74c3c; }
+        .level-button.b1:before, .level-button.b2:before { background-color: #f1c40f; }
+        .level-button.c1:before, .level-button.c2:before { background-color: #2ecc71; }
 
         .level-button:hover {
-            background-color: var(--secondary-color-darker); /* Darker grey on hover */
+            background-color: var(--secondary-color-darker);
+            transform: translateY(-2px);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
         }
 
-
-        /* Specific colors from the image - now for text if needed, but we are using white text now */
-        /* We can still use these subtly if needed, e.g., for a very subtle border or text accent */
-        /*.level-button.a1 { border-bottom-color: var(--accent-color-red); }
-        .level-button.a2 { border-bottom-color: var(--accent-color-red); }
-        .level-button.b1 { border-bottom-color: var(--accent-color-yellow); }
-        .level-button.b2 { border-bottom-color: var(--accent-color-yellow); }
-        .level-button.c1, .level-button.c2 { border-bottom-color: var(--accent-color-green); }*/
-
+        .level-button:active {
+            transform: translateY(0);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+        }
 
         /* Mobile adjustments */
         @media (max-width: 600px) {
             .header {
-                margin-top: 15px;
-                margin-bottom: 15px;
+                margin-bottom: 25px;
             }
+            
             .main-button-container {
-                margin-bottom: 20px;
+                margin-bottom: 25px;
             }
+            
             .main-button {
                 font-size: 1.3em;
                 padding: 15px;
             }
+            
             .button-grid {
-                grid-template-columns: 1fr;
-                max-width: 90%;
-                gap: 10px;
+                gap: 12px;
             }
+            
             .level-button {
                 font-size: 1.2em;
-                padding: 12px;
-            }
-            .dropdown-menu {
-                width: 180px;
+                padding: 14px;
             }
         }
     </style>
@@ -183,7 +253,7 @@
 <body>
 
     <div class="header">
-        <div class="sandwich-menu-button" onclick="toggleMenu()">
+        <div class="sandwich-menu-button" id="menuButton">
             <div class="sandwich-bar"></div>
             <div class="sandwich-bar"></div>
             <div class="sandwich-bar"></div>
@@ -202,19 +272,37 @@
     </div>
 
     <div class="button-grid">
-        <a href="https://kubikdb.github.io/test-english-level/a1-level-tests" class="level-button">A1 level tests</a>
-        <a href="https://kubikdb.github.io/test-english-level/a2-level-tests" class="level-button">A2 level tests</a>
-        <a href="https://kubikdb.github.io/test-english-level/b1-level-tests" class="level-button">B1 level tests</a>
-        <a href="https://kubikdb.github.io/test-english-level/b2-level-tests" class="level-button">B2 level tests</a>
-        <a href="https://kubikdb.github.io/test-english-level/c1-level-tests" class="level-button">C1 level tests</a>
-        <a href="https://kubikdb.github.io/test-english-level/c2-level-tests" class="level-button">C2 level tests</a>
+        <a href="https://kubikdb.github.io/test-english-level/a1-level-tests" class="level-button a1">A1 level tests</a>
+        <a href="https://kubikdb.github.io/test-english-level/a2-level-tests" class="level-button a2">A2 level tests</a>
+        <a href="https://kubikdb.github.io/test-english-level/b1-level-tests" class="level-button b1">B1 level tests</a>
+        <a href="https://kubikdb.github.io/test-english-level/b2-level-tests" class="level-button b2">B2 level tests</a>
+        <a href="https://kubikdb.github.io/test-english-level/c1-level-tests" class="level-button c1">C1 level tests</a>
+        <a href="https://kubikdb.github.io/test-english-level/c2-level-tests" class="level-button c2">C2 level tests</a>
     </div>
 
     <script>
-        function toggleMenu() {
-            const dropdownMenu = document.getElementById('sandwichDropdown');
-            dropdownMenu.style.display = dropdownMenu.style.display === 'block' ? 'none' : 'block';
-        }
+        // Enhanced menu toggle with animation
+        const menuButton = document.getElementById('menuButton');
+        const dropdownMenu = document.getElementById('sandwichDropdown');
+        
+        menuButton.addEventListener('click', function(event) {
+            event.stopPropagation(); // Prevent this click from triggering the document click handler
+            this.classList.toggle('active');
+            dropdownMenu.classList.toggle('active');
+        });
+        
+        // Close menu when clicking outside
+        document.addEventListener('click', function(event) {
+            if (!menuButton.contains(event.target) && !dropdownMenu.contains(event.target)) {
+                menuButton.classList.remove('active');
+                dropdownMenu.classList.remove('active');
+            }
+        });
+
+        // Prevent dropdown clicks from closing the menu
+        dropdownMenu.addEventListener('click', function(event) {
+            event.stopPropagation();
+        });
     </script>
 
 </body>
