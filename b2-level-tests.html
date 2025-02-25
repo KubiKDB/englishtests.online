@@ -5,18 +5,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>B2 level tests</title>
     <style>
-        /* Reusing color scheme and basic styles from index.html */
+        /* Color Palette - Modern UI/UX - Matching the index.html */
         :root {
             --primary-background: #f9f9f9;
             --primary-color: #3498db;
             --primary-color-darker: #2980b9;
-            --secondary-color: #e7e7e7;
-            --secondary-color-darker: #d1d1d1;
-            --text-color-dark: #333;
-            --text-color-light: #fff;
-            --accent-color-red: #e74c3c;
-            --accent-color-yellow: #f1c40f;
-            --accent-color-green: #2ecc71;
+            --primary-color-lighter: #5dade2;
+            --secondary-color: #f0f0f0;
+            --secondary-color-darker: #e0e0e0;
+            --text-color-dark: #333333;
+            --text-color-light: #ffffff;
+            --box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+            --transition-speed: 0.25s;
+            --border-radius: 10px;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
         }
 
         body {
@@ -24,11 +31,10 @@
             display: flex;
             flex-direction: column;
             align-items: center;
-            justify-content: flex-start;
             min-height: 100vh;
-            margin: 0;
             background-color: var(--primary-background);
             color: var(--text-color-dark);
+            padding: 20px 0;
         }
 
         .header {
@@ -36,26 +42,9 @@
             justify-content: space-between;
             align-items: center;
             width: 90%;
-            max-width: 600px; /* Increased max-width for page title */
-            margin-top: 20px;
-            margin-bottom: 20px;
+            max-width: 600px;
+            margin-bottom: 30px;
             position: relative;
-        }
-
-        .sandwich-menu-button {
-            display: flex;
-            flex-direction: column;
-            justify-content: space-around;
-            width: 30px;
-            height: 25px;
-            cursor: pointer;
-            padding: 10px;
-        }
-
-        .sandwich-bar {
-            width: 100%;
-            height: 3px;
-            background-color: var(--primary-color);
         }
 
         /* Page Title Style */
@@ -63,95 +52,202 @@
             font-size: 1.7em;
             font-weight: bold;
             color: var(--text-color-dark);
-            margin-left: 20px; /* Space from sandwich menu */
-            margin-right: auto; /* Push to the center */
+            text-align: center;
+            flex-grow: 1;
         }
 
-        /* Dropdown Menu Styles - Same as index.html */
+        /* Fixed Sandwich Menu - Matching index.html */
+        .sandwich-menu-button {
+            width: 44px;
+            height: 44px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            cursor: pointer;
+            position: relative;
+            z-index: 20;
+            border-radius: 50%;
+            transition: background-color var(--transition-speed);
+        }
+
+        .sandwich-menu-button:hover {
+            background-color: rgba(52, 152, 219, 0.1);
+        }
+
+        /* Fixed sandwich bars */
+        .sandwich-bar {
+            width: 24px;
+            height: 3px;
+            background-color: var(--primary-color);
+            margin: 2px 0;
+            border-radius: 3px;
+            transition: transform var(--transition-speed), 
+                        opacity var(--transition-speed),
+                        background-color var(--transition-speed);
+        }
+        
+        /* Animation for sandwich menu */
+        .sandwich-menu-button.active .sandwich-bar:nth-child(1) {
+            transform: translateY(7px) rotate(45deg);
+            background-color: var(--primary-color-darker);
+        }
+        
+        .sandwich-menu-button.active .sandwich-bar:nth-child(2) {
+            opacity: 0;
+        }
+        
+        .sandwich-menu-button.active .sandwich-bar:nth-child(3) {
+            transform: translateY(-7px) rotate(-45deg);
+            background-color: var(--primary-color-darker);
+        }
+
+        /* Home button */
+        .home-button {
+            width: 44px;
+            height: 44px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            cursor: pointer;
+            position: relative;
+            z-index: 20;
+            border-radius: 50%;
+            transition: background-color var(--transition-speed);
+            text-decoration: none;
+        }
+
+        .home-button:hover {
+            background-color: rgba(52, 152, 219, 0.1);
+        }
+
+        /* House icon with consistent styling */
+        .house-icon {
+            width: 24px;
+            height: 20px;
+            position: relative;
+        }
+
+        .house-roof {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 0;
+            height: 0;
+            border-left: 12px solid transparent;
+            border-right: 12px solid transparent;
+            border-bottom: 10px solid var(--primary-color);
+        }
+
+        .house-body {
+            position: absolute;
+            bottom: 0;
+            left: 4px;
+            width: 16px;
+            height: 12px;
+            background-color: var(--primary-color);
+            border-radius: 1px;
+        }
+
+        /* Enhanced Dropdown Menu */
         .dropdown-menu {
             position: absolute;
-            top: 100%;
+            top: 50px;
             left: 0;
-            background-color: var(--primary-background);
-            border: 1px solid #ccc;
-            border-top: none;
-            border-radius: 0 0 10px 10px;
-            width: 200px;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-            display: none;
+            background-color: var(--text-color-light);
+            border-radius: var(--border-radius);
+            width: 220px;
+            box-shadow: var(--box-shadow);
+            opacity: 0;
+            visibility: hidden;
+            transform: translateY(-10px);
+            transition: all var(--transition-speed);
             z-index: 10;
+            overflow: hidden;
+            border-top: 3px solid var(--primary-color);
+        }
+
+        .dropdown-menu.active {
+            opacity: 1;
+            visibility: visible;
+            transform: translateY(0);
         }
 
         .dropdown-menu a {
             display: block;
-            padding: 10px 15px;
+            padding: 15px 20px;
             text-decoration: none;
             color: var(--text-color-dark);
-            transition: background-color 0.2s ease-in-out;
+            transition: all var(--transition-speed);
+            border-bottom: 1px solid var(--secondary-color);
+        }
+
+        .dropdown-menu a:last-child {
+            border-bottom: none;
         }
 
         .dropdown-menu a:hover {
-            background-color: var(--secondary-color);
+            background-color: rgba(52, 152, 219, 0.1);
+            color: var(--primary-color);
+            padding-left: 25px;
         }
 
         /* Test Squares Grid Container */
         .test-squares-grid {
             display: grid;
-            grid-template-columns: repeat(5, 1fr); /* 20 columns */
-            gap: 10px; /* Spacing between squares */
+            grid-template-columns: repeat(5, 1fr);
+            gap: 10px;
             max-width: 90%;
-            width: calc(5 * (60px + 10px)); /* Approximate width for 5x20 grid + gaps */
+            width: calc(5 * (60px + 10px));
             margin-bottom: 30px;
         }
 
-        /* Individual Test Square */
+        /* Individual Test Square - Removed red bottom */
         .test-square {
-            width: 50px; /* Size of square */
+            width: 50px;
             height: 50px;
-            border-radius: 10px; /* Rounded corners */
-            background-color: white;
-            border: 2px solid var(--primary-color); /* Blue border */
-            color: var(--primary-color); /* Blue number color */
+            border-radius: var(--border-radius);
+            background-color: var(--text-color-light);
+            border: 2px solid var(--primary-color);
+            color: var(--primary-color);
             font-weight: bold;
             display: flex;
             justify-content: center;
             align-items: center;
             font-size: 1em;
-            cursor: pointer; /* Indicate clickable */
-            transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-            text-decoration: none; /* Remove underline from links */
+            cursor: pointer;
+            transition: all var(--transition-speed);
         }
 
         .test-square:hover {
-            background-color: var(--primary-color); /* Blue background on hover */
-            color: white; /* White number on hover */
+            background-color: var(--primary-color);
+            color: var(--text-color-light);
+            transform: translateY(-2px);
+            box-shadow: var(--box-shadow);
         }
-
 
         /* Mobile adjustments */
         @media (max-width: 700px) {
             .header {
-                margin-top: 15px;
-                margin-bottom: 15px;
+                margin-bottom: 25px;
             }
+            
             .page-title {
-                font-size: 1.4em; /* Smaller page title on mobile */
-                margin-left: 10px;
+                font-size: 1.4em;
             }
+            
             .test-squares-grid {
-                grid-template-columns: repeat(5, 1fr); /* Single column on mobile */
+                grid-template-columns: repeat(5, 1fr);
                 gap: 8px;
-                width: 95%; /* Take more width on mobile */
+                width: 95%;
             }
+            
             .test-square {
-                width: calc(100vw / 6.5); /* Responsive square width on mobile */
+                width: calc(100vw / 6.5);
                 height: calc(100vw / 6.5);
                 font-size: 0.9em;
-                border-radius: 8px; /* Slightly less rounded on mobile */
-                border-width: 1.5px; /* Thinner border on mobile */
-            }
-            .dropdown-menu {
-                width: 180px;
+                border-radius: 8px;
+                border-width: 1.5px;
             }
         }
     </style>
@@ -159,13 +255,18 @@
 <body>
 
     <div class="header">
-        <div class="sandwich-menu-button" onclick="toggleMenu()">
+        <div class="sandwich-menu-button" id="menuButton">
             <div class="sandwich-bar"></div>
             <div class="sandwich-bar"></div>
             <div class="sandwich-bar"></div>
         </div>
         <div class="page-title">B2 level tests</div>
-        <div></div> <div></div>
+        <a href="https://kubikdb.github.io/test-english-level/" class="home-button">
+            <div class="house-icon">
+                <div class="house-roof"></div>
+                <div class="house-body"></div>
+            </div>
+        </a>
 
         <div class="dropdown-menu" id="sandwichDropdown">
             <a href="#about">About Us</a>
@@ -175,25 +276,47 @@
     </div>
 
     <div class="test-squares-grid">
+        <!-- Test squares will be generated by JavaScript -->
     </div>
 
     <script>
-        function toggleMenu() {
-            const dropdownMenu = document.getElementById('sandwichDropdown');
-            dropdownMenu.style.display = dropdownMenu.style.display === 'block' ? 'none' : 'block';
-        }
+        // Enhanced menu toggle with animation
+        const menuButton = document.getElementById('menuButton');
+        const dropdownMenu = document.getElementById('sandwichDropdown');
+        
+        menuButton.addEventListener('click', function(event) {
+            event.stopPropagation(); // Prevent this click from triggering the document click handler
+            this.classList.toggle('active');
+            dropdownMenu.classList.toggle('active');
+        });
+        
+        // Close menu when clicking outside
+        document.addEventListener('click', function(event) {
+            if (!menuButton.contains(event.target) && !dropdownMenu.contains(event.target)) {
+                menuButton.classList.remove('active');
+                dropdownMenu.classList.remove('active');
+            }
+        });
 
-        // JavaScript to dynamically generate 100 squares as links
+        // Prevent dropdown clicks from closing the menu
+        dropdownMenu.addEventListener('click', function(event) {
+            event.stopPropagation();
+        });
+
+        // JavaScript to dynamically generate 100 squares
         const gridContainer = document.querySelector('.test-squares-grid');
         for (let i = 1; i <= 100; i++) {
-            const squareLink = document.createElement('a'); // Create 'a' element for link
-            squareLink.classList.add('test-square');
+            const square = document.createElement('div');
+            square.classList.add('test-square');
             squareLink.href = `https://kubikdb.github.io/test-english-level/b2?level=${i}`; // Set the link URL
-            squareLink.textContent = i; // Set the number inside the square
-
-            gridContainer.appendChild(squareLink);
+            square.textContent = i;
+            // You can add an onclick event to each square if needed
+            // square.onclick = function() { window.location.href = 'test' + i + '.html'; };
+            gridContainer.appendChild(square);
         }
     </script>
 
 </body>
 </html>
+
+        
