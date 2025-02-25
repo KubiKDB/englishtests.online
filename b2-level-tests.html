@@ -119,6 +119,7 @@
             font-size: 1em;
             cursor: pointer; /* Indicate clickable */
             transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+            text-decoration: none; /* Remove underline from links */
         }
 
         .test-square:hover {
@@ -174,7 +175,7 @@
     </div>
 
     <div class="test-squares-grid">
-        </div>
+    </div>
 
     <script>
         function toggleMenu() {
@@ -182,16 +183,15 @@
             dropdownMenu.style.display = dropdownMenu.style.display === 'block' ? 'none' : 'block';
         }
 
-        // JavaScript to dynamically generate 100 squares
+        // JavaScript to dynamically generate 100 squares as links
         const gridContainer = document.querySelector('.test-squares-grid');
         for (let i = 1; i <= 100; i++) {
-            const square = document.createElement('div');
-            square.classList.add('test-square');
-            square.textContent = i;
-            square.href = "https://kubikdb.github.io/test-english-level/b2-1"
-            // You can add an onclick event to each square if needed
-            // square.onclick = function() { alert('Square ' + i + ' clicked!'); };
-            gridContainer.appendChild(square);
+            const squareLink = document.createElement('a'); // Create 'a' element for link
+            squareLink.classList.add('test-square');
+            squareLink.href = `https://kubikdb.github.io/test-english-level/b2-${i}`; // Set the link URL
+            squareLink.textContent = i; // Set the number inside the square
+
+            gridContainer.appendChild(squareLink);
         }
     </script>
 
