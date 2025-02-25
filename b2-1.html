@@ -54,26 +54,29 @@
 
         fetch('json/b2/test1.json') // Path to your JSON file
             .then(response => {
-                console.log("Response Status:", response.status); // ADDED: Check response status
+                console.log("Response Status:", response.status);
                 return response.json();
             })
-            .then(data => { // Get the whole JSON data
-                console.log("JSON Data:", data); // ADDED: Check if data is loaded
+            .then(data => {
+                console.log("JSON Data:", data);
 
-                const passageText = data.passage; // Extract passage from JSON
-                const questions = data.questions; // Extract questions array
-
-                // Display Passage
-                const passageDiv = document.createElement("div");
-                passageDiv.classList.add("passage");
-                passageDiv.innerHTML = `<strong>Reading Passage:</strong><br>${passageText}`;
-                document.getElementById("passageContainer").appendChild(passageDiv); // Append to passageContainer
+                const passageText = data.passage;
+                const questions = data.questions;
 
                 const form = document.getElementById("quizForm");
-                let passageAdded = true; // Passage is now added by default
+                let passageAdded = false; // Initialize passageAdded to false
 
                 questions.forEach((q, index) => {
-                    console.log("Processing Question:", q.id); // ADDED: Check if loop is running
+                    // Add passage before question 41
+                    if (q.id === 41 && !passageAdded) {
+                        const passageDiv = document.createElement("div");
+                        passageDiv.classList.add("passage");
+                        passageDiv.innerHTML = `<strong>Reading Passage:</strong><br>${passageText}`;
+                        form.appendChild(passageDiv); // Append passage to the form *before* question 41
+                        passageAdded = true; // Set passageAdded to true so it's not added again
+                    }
+
+                    console.log("Processing Question:", q.id);
 
                     const questionDiv = document.createElement("div");
                     questionDiv.classList.add("question");
@@ -124,8 +127,8 @@
                 });
             })
             .catch(error => {
-                console.error('Error loading questions:', error); // Existing error log
-                console.error("Fetch Error Details:", error); // ADDED: More detailed error info
+                console.error('Error loading questions:', error);
+                console.error("Fetch Error Details:", error);
             });
     </script>
 </body>
