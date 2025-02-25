@@ -306,7 +306,7 @@
         // JavaScript to dynamically generate 100 squares
         const gridContainer = document.querySelector('.test-squares-grid');
         for (let i = 1; i <= 100; i++) {
-            const square = document.createElement('div');
+            const square = document.createElement('a');
             square.classList.add('test-square');
             square.href = `https://kubikdb.github.io/test-english-level/b2?level=${i}`; // Set the link URL
             square.textContent = i;
