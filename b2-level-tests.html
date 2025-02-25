@@ -188,7 +188,7 @@
         for (let i = 1; i <= 100; i++) {
             const squareLink = document.createElement('a'); // Create 'a' element for link
             squareLink.classList.add('test-square');
-            squareLink.href = `https://kubikdb.github.io/test-english-level/b2-${i}`; // Set the link URL
+            squareLink.href = `https://kubikdb.github.io/test-english-level/b2?level=${i}`; // Set the link URL
             squareLink.textContent = i; // Set the number inside the square
 
             gridContainer.appendChild(squareLink);
