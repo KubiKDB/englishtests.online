@@ -136,7 +136,7 @@
         /* Enhanced Dropdown Menu */
         .dropdown-menu {
             position: absolute;
-            top: 50px;
+            top: 50px; /* Adjusted to be below the menu button */
             left: 0;
             background-color: var(--text-color-light);
             border-radius: var(--border-radius);
@@ -148,7 +148,7 @@
             transition: all var(--transition-speed);
             z-index: 10;
             overflow: hidden;
-            border-top: 3px solid var(--primary-color);
+            border-top: 2px solid var(--primary-color);
         }
 
         .dropdown-menu.active {
@@ -163,7 +163,8 @@
             text-decoration: none;
             color: var(--text-color-dark);
             transition: all var(--transition-speed);
-            border-bottom: 1px solid var(--secondary-color);
+            border-bottom: 2px solid var(--secondary-color);
+            position: relative;
         }
 
         .dropdown-menu a:last-child {
@@ -174,6 +175,28 @@
             background-color: rgba(52, 152, 219, 0.1);
             color: var(--primary-color);
             padding-left: 25px;
+        }
+
+        /* Blue line for the dropdown menu */
+        .dropdown-menu a:nth-child(1)::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            height: 2px;
+            width: 100%;
+            background-color: var(--primary-color);
+        }
+
+        /* Add a blue line after FindWord */
+        .dropdown-menu a:nth-child(4)::after {
+            content: '';
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            height: 4px;
+            width: 100%;
+            background-color: var(--primary-color);
         }
 
         /* Test Squares Grid Container */
@@ -255,6 +278,7 @@
             <a href="#about">About Us</a>
             <a href="#terms">Terms of Use</a>
             <a href="#privacy">Privacy Policy</a>
+            <a href="#findword">FindWord Puzzle</a>
         </div>
     </div>
 
