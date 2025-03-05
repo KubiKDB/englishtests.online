@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>B2 English Language Test</title>
+    <title>English Language Test</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -56,7 +56,7 @@
         const iValue = parseInt(levelValue, 10);
         const diffValue = urlParams.get('diff');
 
-        document.querySelector('h2').textContent = `${diffValue} — Test ${iValue}`;
+        document.querySelector('h2').textContent = `${diffValue} — test ${iValue}`;
 
         fetch(`json/${diffValue}/test${iValue}.json`) // Path to your JSON file
             .then(response => {
