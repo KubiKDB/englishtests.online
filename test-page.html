@@ -54,10 +54,11 @@
         const urlParams = new URLSearchParams(window.location.search);
         const levelValue = urlParams.get('level');
         const iValue = parseInt(levelValue, 10);
+        const diffValue = urlParams.get('diff');
 
-        document.querySelector('h2').textContent = `B2 — Test ${iValue}`;
+        document.querySelector('h2').textContent = `${diffValue} — Test ${iValue}`;
 
-        fetch(`json/b2/test${iValue}.json`) // Path to your JSON file
+        fetch(`json/${diffValue}/test${iValue}.json`) // Path to your JSON file
             .then(response => {
                 console.log("Response Status:", response.status);
                 return response.json();
