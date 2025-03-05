@@ -5,8 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Test your English level</title>
     <style>
-        /* Color Palette - Modern UI/UX */
+        /* Color Palette - Modern UI/UX with Dark Theme Support */
         :root {
+            /* Light Theme */
             --primary-background: #f9f9f9;
             --primary-color: #3498db;
             --primary-color-darker: #2980b9;
@@ -18,6 +19,19 @@
             --box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
             --transition-speed: 0.25s;
             --border-radius: 10px;
+        }
+
+        /* Dark Theme */
+        [data-theme="dark"] {
+            --primary-background: #1a1a1a;
+            --primary-color: #3498db;
+            --primary-color-darker: #2980b9;
+            --primary-color-lighter: #5dade2;
+            --secondary-color: #2c2c2c;
+            --secondary-color-darker: #3c3c3c;
+            --text-color-dark: #f0f0f0;
+            --text-color-light: #ffffff;
+            --box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
         }
 
         * {
@@ -35,6 +49,7 @@
             background-color: var(--primary-background);
             color: var(--text-color-dark);
             padding: 20px 0;
+            transition: background-color var(--transition-speed), color var(--transition-speed);
         }
 
         .header {
@@ -45,6 +60,16 @@
             max-width: 500px;
             margin-bottom: 30px;
             position: relative;
+        }
+
+        /* Site Name Styling */
+        .site-name {
+            font-size: 1.3em;
+            font-weight: 600;
+            color: #000000;
+            flex-grow: 1;
+            text-align: center;
+            margin-right: 44px; /* Balance the layout */
         }
 
         /* Fixed Sandwich Menu to ensure visibility */
@@ -108,7 +133,11 @@
             transition: all var(--transition-speed);
             z-index: 10;
             overflow: hidden;
-            border-top: 3px solid var(--primary-color);
+            border-top: 2px solid var(--primary-color);
+        }
+
+        [data-theme="dark"] .dropdown-menu {
+            background-color: #2c2c2c; /* Darker background for dark theme */
         }
 
         .dropdown-menu.active {
@@ -123,7 +152,8 @@
             text-decoration: none;
             color: var(--text-color-dark);
             transition: all var(--transition-speed);
-            border-bottom: 1px solid var(--secondary-color);
+            border-bottom: 2px solid var(--secondary-color);
+            position: relative;
         }
 
         .dropdown-menu a:last-child {
@@ -134,6 +164,28 @@
             background-color: rgba(52, 152, 219, 0.1);
             color: var(--primary-color);
             padding-left: 25px;
+        }
+
+        /* Blue line for the dropdown menu */
+        .dropdown-menu a:nth-child(1)::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            height: 3px;
+            width: 100%;
+            background-color: var(--primary-color);
+        }
+
+        /* Add a blue line after FindWord */
+        .dropdown-menu a:nth-child(4)::after {
+            content: '';
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            height: 3px;
+            width: 100%;
+            background-color: var(--primary-color);
         }
 
         /* Main Button Container */
@@ -205,13 +257,9 @@
             bottom: 0;
             height: 4px;
             width: 100%;
-            background-color: transparent;
+            background-color: var(--primary-color);
             transition: background-color var(--transition-speed);
         }
-
-        .level-button.a1:before, .level-button.a2:before { background-color: #e74c3c; }
-        .level-button.b1:before, .level-button.b2:before { background-color: #f1c40f; }
-        .level-button.c1:before, .level-button.c2:before { background-color: #2ecc71; }
 
         .level-button:hover {
             background-color: var(--secondary-color-darker);
@@ -224,10 +272,17 @@
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
         }
 
+        /* Theme Toggle Button Removed */
+
         /* Mobile adjustments */
         @media (max-width: 600px) {
             .header {
                 margin-bottom: 25px;
+            }
+            
+            .site-name {
+                font-size: 1.1em;
+                margin-right: 30px;
             }
             
             .main-button-container {
@@ -250,7 +305,7 @@
         }
     </style>
 </head>
-<body>
+<body data-theme="light">
 
     <div class="header">
         <div class="sandwich-menu-button" id="menuButton">
@@ -258,12 +313,13 @@
             <div class="sandwich-bar"></div>
             <div class="sandwich-bar"></div>
         </div>
-        <div></div> <div></div>
+        <div class="site-name">englishtests.online</div>
 
         <div class="dropdown-menu" id="sandwichDropdown">
             <a href="#about">About Us</a>
             <a href="#terms">Terms of Use</a>
             <a href="#privacy">Privacy Policy</a>
+            <a href="#findword">FindWord</a>
         </div>
     </div>
 
@@ -279,6 +335,8 @@
         <a href="https://kubikdb.github.io/test-english-level/c1-level-tests" class="level-button c1">C1 level tests</a>
         <a href="https://kubikdb.github.io/test-english-level/c2-level-tests" class="level-button c2">C2 level tests</a>
     </div>
+
+
 
     <script>
         // Enhanced menu toggle with animation
@@ -303,6 +361,10 @@
         dropdownMenu.addEventListener('click', function(event) {
             event.stopPropagation();
         });
+
+        // Theme functionality removed
+        // Set to light theme by default
+        document.body.setAttribute('data-theme', 'light');
     </script>
 
 </body>
