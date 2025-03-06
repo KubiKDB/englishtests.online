@@ -42,6 +42,52 @@
             margin-top: 20px;
             font-weight: bold;
         }
+        .footer {
+        background-color: #ffffff;
+        color: #000000;
+        text-align: center;
+        padding: 40px 20px;
+        margin-top: 50px;
+        width: 100%;
+    }
+    
+    .footer-content {
+        max-width: 600px;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .footer p {
+        margin: 5px 0;
+        font-size: 1.1em;
+        font-weight: 300;
+    }
+    
+    .footer-email {
+        color: #3498db; /* blue color for the email link */
+        text-decoration: none;
+        transition: color 0.3s ease;
+    }
+    
+    .footer-email:hover {
+        color: #2980b9; /* darker blue on hover */
+        text-decoration: underline;
+    }
+    
+    .footer-spacer {
+        height: 30px;
+        width: 100%;
+    }
+    
+    .footer-made {
+        margin-top: 10px;
+    }
+    
+    .footer-maker {
+        font-size: 1.3em;
+    }
     </style>
 </head>
 <body>
@@ -137,5 +183,13 @@
                 console.error("Fetch Error Details:", error);
             });
     </script>
+    <footer class="footer">
+    <div class="footer-content">
+        <p>© Copyright 2025</p>
+        <p><a href="mailto:info@englishtests.online" class="footer-email">info@englishtests.online</a></p>
+        <p>All rights reserved</p>        
+        <p class="footer-made">Made by <a href="https://englishtests.online/findword" class="footer-email">KubiKDB</a></p>
+    </div>
+    </footer>
 </body>
 </html>
