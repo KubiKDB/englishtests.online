@@ -72,13 +72,27 @@
             margin-top: 20px;
             font-weight: bold;
         }
-	    .footer {
+	    /* Add these styles to your body and html elements */
+        html, body {
+          height: 100%;
+          margin: 0;
+        }
+
+        /* Main content area that will grow to push footer down */
+        main {
+          flex: 1 0 auto; /* This makes the main content expand */
+        }
+
+        
+    /* Footer Styling */
+    .footer {
         background-color: #ffffff;
         color: #000000;
-        text-align: center;
-        padding: 40px 20px;
+        text-align: bottom;
+        padding: 5px;
         margin-top: 50px;
         width: 100%;
+        flex-shrink: 0;
     }
     
     .footer-content {
