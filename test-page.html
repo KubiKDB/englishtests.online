@@ -9,6 +9,7 @@
             font-family: Arial, sans-serif;
             margin: 40px;
             max-width: 800px;
+            padding: 10px;
         }
         .question {
             margin-bottom: 20px;
@@ -61,7 +62,8 @@
         text-align: bottom;
         padding: 5px;
         margin-top: 50px;
-        width: 100%;
+/*         width: 100%; */
+        max-width: 800px;
         flex-shrink: 0;
     }
     
@@ -105,7 +107,7 @@
     </style>
 </head>
 <body>
-    <h2>B2 English Language Test</h2>
+    <h2 style="text-align: center;">B2 English Language Test</h2>
     <div id="passageContainer"></div> <form id="quizForm"></form>
     <button type="submit" class="submit-btn" id="submitBtn">Submit</button>
     <div id="result" class="result"></div>
