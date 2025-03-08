@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Today was my first day at a new school. I was very nervous when I woke up. My mother helped me get ready. She made me a special breakfast and took a photo of me in my new uniform.<br><br>(2) When we arrived at the school, many students were already there. A nice teacher met us at the door. She showed me where my classroom was. The classroom was big and had colorful pictures on the walls.<br><br>(3) At lunch time, I sat alone. I did not know anyone yet. Then a girl named Lisa came and sat next to me. She asked if I wanted to play with her and her friends. I was happy to say yes. We played a fun game in the schoolyard.<br><br>(4) By the end of the day, I had made three new friends. I learned where the library was and how to find the bathroom. When my mother came to pick me up, I told her all about my day. I am not nervous anymore. I think I will like my new school.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which form of the verb is correct? She ___ to school every day.",
+      "options": {
+        "A": "go",
+        "B": "goes",
+        "C": "going",
+        "D": "gone"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the correct sentence:",
+      "options": {
+        "A": "I have a apple.",
+        "B": "I have an apple.",
+        "C": "I have apple.",
+        "D": "I have the apple."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Choose the correct plural form: one child, two ___",
+      "options": {
+        "A": "childs",
+        "B": "childes",
+        "C": "childrens",
+        "D": "children"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which is the correct past tense of 'eat'?",
+      "options": {
+        "A": "eated",
+        "B": "ate",
+        "C": "eaten",
+        "D": "eating"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Select the correct possessive form: This is ___ book.",
+      "options": {
+        "A": "Johns",
+        "B": "John is",
+        "C": "John's",
+        "D": "Johns'"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Choose the correct option: ___ you like coffee?",
+      "options": {
+        "A": "Do",
+        "B": "Does",
+        "C": "Is",
+        "D": "Are"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which sentence is correct?",
+      "options": {
+        "A": "She very happy.",
+        "B": "She is very happy.",
+        "C": "She very is happy.",
+        "D": "She happy very is."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the correct preposition: The book is ___ the table.",
+      "options": {
+        "A": "on",
+        "B": "in",
+        "C": "at",
+        "D": "of"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct question form: '___?'  'I am 12 years old.'",
+      "options": {
+        "A": "How old are you",
+        "B": "What is your age",
+        "C": "How many years have you",
+        "D": "What years are you"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which is the correct negative form? She ___ like apples.",
+      "options": {
+        "A": "not",
+        "B": "don't",
+        "C": "doesn't",
+        "D": "isn't"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct form: We ___ to the park yesterday.",
+      "options": {
+        "A": "go",
+        "B": "went",
+        "C": "goes",
+        "D": "going"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the correct article: I saw ___ interesting movie last night.",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article needed"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Which sentence is in the present continuous tense?",
+      "options": {
+        "A": "I walk to school.",
+        "B": "I walked to school.",
+        "C": "I am walking to school.",
+        "D": "I will walk to school."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct sentence with 'and':",
+      "options": {
+        "A": "She likes coffee and she likes tea.",
+        "B": "She likes coffee but she likes tea.",
+        "C": "She likes coffee and tea.",
+        "D": "She likes coffee or she likes tea."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the correct form: This is ___ book.",
+      "options": {
+        "A": "I",
+        "B": "me",
+        "C": "my",
+        "D": "mine"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct phrase to complete the sentence: I need to ___ my homework.",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "take",
+        "D": "have"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the correct expression: Can you ___ me the salt, please?",
+      "options": {
+        "A": "pass",
+        "B": "give",
+        "C": "take",
+        "D": "bring"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the right expression: I ___ a shower every morning.",
+      "options": {
+        "A": "do",
+        "B": "make",
+        "C": "take",
+        "D": "have"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Which phrase correctly completes this sentence: Let's ___ a movie tonight.",
+      "options": {
+        "A": "see",
+        "B": "look",
+        "C": "watch",
+        "D": "view"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the right expression: She ___ a bike to school.",
+      "options": {
+        "A": "goes",
+        "B": "drives",
+        "C": "rides",
+        "D": "walks"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the appropriate response to 'How are you?'",
+      "options": {
+        "A": "I am John.",
+        "B": "I am fine, thank you.",
+        "C": "I am from Spain.",
+        "D": "I am a student."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Which is the correct greeting in the morning?",
+      "options": {
+        "A": "Good night",
+        "B": "Good evening",
+        "C": "Good afternoon",
+        "D": "Good morning"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the correct response to 'Thank you':",
+      "options": {
+        "A": "Please",
+        "B": "Good",
+        "C": "You're welcome",
+        "D": "Hello"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct phrase: She ___ coffee every morning.",
+      "options": {
+        "A": "drinks",
+        "B": "eats",
+        "C": "takes",
+        "D": "makes"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Which phrase is correct? I need to ___ my teeth before bed.",
+      "options": {
+        "A": "wash",
+        "B": "clean",
+        "C": "brush",
+        "D": "make"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Which word means the period between the start and end of a day?",
+      "options": {
+        "A": "clock",
+        "B": "time",
+        "C": "hour",
+        "D": "minute"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Which word means 'from your area'?",
+      "options": {
+        "A": "national",
+        "B": "global",
+        "C": "regional",
+        "D": "local"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What do you use to call someone who is far away?",
+      "options": {
+        "A": "television",
+        "B": "radio",
+        "C": "telephone",
+        "D": "computer"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which word is the opposite of 'hard'?",
+      "options": {
+        "A": "strong",
+        "B": "weak",
+        "C": "soft",
+        "D": "difficult"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "What word relates to money and business?",
+      "options": {
+        "A": "politic",
+        "B": "economic",
+        "C": "academic",
+        "D": "scientific"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "What do we call parents and children who live together?",
+      "options": {
+        "A": "team",
+        "B": "group",
+        "C": "family",
+        "D": "class"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Which word means 'important to what you are doing'?",
+      "options": {
+        "A": "relevant",
+        "B": "different",
+        "C": "special",
+        "D": "certain"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "What do you say when you make a mistake?",
+      "options": {
+        "A": "excuse me",
+        "B": "thank you",
+        "C": "please",
+        "D": "sorry"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Which word means 'to be all around something'?",
+      "options": {
+        "A": "cover",
+        "B": "surround",
+        "C": "touch",
+        "D": "hold"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "In sports, what is the field where you play football called?",
+      "options": {
+        "A": "court",
+        "B": "ring",
+        "C": "pitch",
+        "D": "track"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What do you wear to a formal meeting or party?",
+      "options": {
+        "A": "uniform",
+        "B": "costume",
+        "C": "suit",
+        "D": "robe"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Which word means 'to have something inside'?",
+      "options": {
+        "A": "cover",
+        "B": "contain",
+        "C": "carry",
+        "D": "hold"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "What do you sleep on at night?",
+      "options": {
+        "A": "sofa",
+        "B": "chair",
+        "C": "bed",
+        "D": "desk"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Which word means 'before now' or 'previously'?",
+      "options": {
+        "A": "soon",
+        "B": "still",
+        "C": "yet",
+        "D": "already"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "What word describes spaces or services that everyone can use?",
+      "options": {
+        "A": "private",
+        "B": "personal",
+        "C": "public",
+        "D": "special"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, how did the author feel on the first day?",
+      "options": {
+        "A": "Happy",
+        "B": "Excited",
+        "C": "Nervous",
+        "D": "Angry"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Who helped the author get ready for school?",
+      "options": {
+        "A": "Father",
+        "B": "Mother",
+        "C": "Teacher",
+        "D": "Friend"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 2, what was the classroom like?",
+      "options": {
+        "A": "Small and dark",
+        "B": "Big with colorful pictures",
+        "C": "Old and dirty",
+        "D": "New and empty"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Who showed the author where the classroom was?",
+      "options": {
+        "A": "Mother",
+        "B": "Lisa",
+        "C": "A teacher",
+        "D": "A student"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to paragraph 3, what did the author do at lunch time?",
+      "options": {
+        "A": "Played with friends",
+        "B": "Sat alone",
+        "C": "Ate with teachers",
+        "D": "Went to the library"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "Who is Lisa?",
+      "options": {
+        "A": "The author's mother",
+        "B": "The author's teacher",
+        "C": "A girl at school",
+        "D": "The author's sister"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to paragraph 3, where did the author play with Lisa?",
+      "options": {
+        "A": "In the classroom",
+        "B": "In the library",
+        "C": "In the schoolyard",
+        "D": "In the bathroom"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "By the end of the day, how many new friends did the author make?",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to paragraph 4, what did the author learn?",
+      "options": {
+        "A": "How to read and write",
+        "B": "Where the library and bathroom were",
+        "C": "How to play new games",
+        "D": "How to make friends"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "How does the author feel about the new school at the end of the passage?",
+      "options": {
+        "A": "Still nervous",
+        "B": "Sad and lonely",
+        "C": "Tired and bored",
+        "D": "Positive and happy"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    }
+  ]
+}
