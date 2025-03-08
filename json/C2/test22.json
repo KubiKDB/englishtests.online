@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Intersectionality, a term coined by legal scholar Kimberlé Crenshaw in 1989, fundamentally transformed our understanding of how multiple social identities interact to create unique experiences of privilege and marginalization. Originally developed to articulate the distinct challenges faced by Black women—whose experiences could not be fully captured by examining either racial discrimination or gender discrimination in isolation—the concept has since expanded to encompass the complex interplay of numerous social dimensions including class, sexuality, ability, nationality, and religion. Rather than viewing these categories as separate or additive, intersectionality recognizes them as mutually constitutive, creating qualitatively distinct experiences at various points of overlap that cannot be understood through single-axis frameworks.<br><br>(2) The formation of social identity within intersectional frameworks challenges linear developmental models. Individuals navigate multiple, sometimes contradictory, identity positions simultaneously, engaging in continuous negotiation rather than progressing through discrete stages. For instance, a working-class immigrant woman may experience privilege through educational attainment while simultaneously encountering marginalization based on accent, citizenship status, and gender. This complex positioning necessitates sophisticated identity work that traditional psychological models—often developed from studying socially dominant groups—fail to adequately capture. Significantly, intersectional identity formation typically involves reconciling identities that mainstream society positions as incompatible or hierarchical.<br><br>(3) Power dynamics fundamentally shape intersectional identity development, as social institutions systematically privilege certain identity combinations while disadvantaging others. Educational systems, for example, frequently reward behaviors and communication styles associated with middle-class, white cultural norms, creating implicit barriers for students whose intersectional identities include different cultural repertoires. These institutional arrangements create what Patricia Hill Collins terms a 'matrix of domination'—interlocking systems of advantage and disadvantage that extend beyond individual prejudice to structure social opportunities systematically. The psychological burden of navigating these systems falls disproportionately on those with marginalized intersectional identities, requiring additional cognitive and emotional resources.<br><br>(4) Crucially, intersectionality illuminates how privilege and oppression operate contextually rather than absolutely. An individual may experience privilege in one setting while facing discrimination in another, depending on which aspects of their intersectional identity become salient or valued in particular environments. This contextual fluidity explains why simplistic approaches to diversity that merely count representation without addressing structural power dynamics often fail to create meaningful inclusion. The complexity of intersectional experiences requires nuanced institutional responses that recognize how organizational policies and practices may inadvertently reproduce inequality by privileging normative identity expressions.<br><br>(5) Recent scholarship has increasingly focused on intersectionality as not merely descriptive but transformative—offering both analytical frameworks and activist methodologies for challenging interlocking systems of inequality. By centering the experiences of those at neglected intersections, this approach reveals otherwise invisible aspects of social structures, generating more comprehensive understandings of how power operates across multiple dimensions simultaneously. This transformative potential extends beyond academic discourse into social movements, policy development, and institutional change efforts, offering pathways toward more equitable systems that accommodate the full complexity of human identity rather than requiring assimilation to dominant norms. The continued evolution of intersectional theory and practice represents one of the most significant developments in contemporary social thought, with profound implications for how we conceptualize both individual identity formation and collective social justice.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following sentences correctly demonstrates 'future in the past'?",
+      "options": {
+        "A": "She will have completed the assignment by tomorrow.",
+        "B": "They said they would attend the conference the following week.",
+        "C": "He has been working on this project for three years.",
+        "D": "We are planning to visit Paris next summer."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Identify the participle clause in the following sentence: 'Worried about the exam results, the student checked her email hourly.'",
+      "options": {
+        "A": "the student checked her email hourly",
+        "B": "Worried about the exam results",
+        "C": "checked her email hourly",
+        "D": "about the exam results"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence contains nominalization?",
+      "options": {
+        "A": "The scientists investigated the phenomenon thoroughly.",
+        "B": "They decided to postpone the meeting until next week.",
+        "C": "The investigation of the phenomenon yielded surprising results.",
+        "D": "She spoke eloquently about the challenges we face."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence demonstrates the perfect aspect to express an action continuing up to the present with current relevance?",
+      "options": {
+        "A": "They were working on the project when I called.",
+        "B": "She has lived in London for ten years and still loves it.",
+        "C": "We had finished dinner before they arrived.",
+        "D": "He will have graduated by this time next year."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Identify the nominal relative clause in this sentence: 'What they discovered changed the field of medicine forever.'",
+      "options": {
+        "A": "changed the field of medicine forever",
+        "B": "the field of medicine",
+        "C": "What they discovered",
+        "D": "they discovered changed"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which sentence correctly uses 'what' or 'such' for emphasis?",
+      "options": {
+        "A": "What time do we need to leave?",
+        "B": "I wonder what she meant by that remark.",
+        "C": "What an extraordinary achievement that was!",
+        "D": "That's what I've been trying to tell you."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which sentence contains a non-defining relative clause?",
+      "options": {
+        "A": "The woman who lives next door is a doctor.",
+        "B": "The book that you recommended was fascinating.",
+        "C": "Paris, which is the capital of France, attracts millions of tourists.",
+        "D": "The reason why he left early remains a mystery."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "In which sentence does the phrasal verb 'pick up' have a different meaning from the others?",
+      "options": {
+        "A": "She picked up French very quickly during her year abroad.",
+        "B": "Could you pick up some milk on your way home?",
+        "C": "Business usually picks up during the holiday season.",
+        "D": "He picked up the package from the post office."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Identify the sentence with a prepositional phrase functioning as an adverbial:",
+      "options": {
+        "A": "The book on the table belongs to me.",
+        "B": "She spoke with great eloquence.",
+        "C": "The director of the company announced his retirement.",
+        "D": "His fear of heights prevented him from enjoying the view."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence is an example of a mixed conditional?",
+      "options": {
+        "A": "If I had studied harder, I would have passed the exam.",
+        "B": "If I won the lottery, I would buy a house.",
+        "C": "If I hadn't missed the train, I wouldn't be late now.",
+        "D": "If she speaks English, she can apply for the job."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Identify the cleft sentence:",
+      "options": {
+        "A": "She gave him the book yesterday.",
+        "B": "It was yesterday that she gave him the book.",
+        "C": "The book was given to him by her yesterday.",
+        "D": "Yesterday she gave him the book."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence correctly uses a hypothetical structure with 'wish' or 'if only'?",
+      "options": {
+        "A": "I hope I had more time to finish this project.",
+        "B": "If only I would have known about the meeting earlier.",
+        "C": "She wishes she could have attended the conference.",
+        "D": "We wish that she will arrive soon."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Which sentence is an example of the impersonal passive?",
+      "options": {
+        "A": "The window was broken during the storm.",
+        "B": "It is widely believed that the economy will improve next year.",
+        "C": "They were instructed to arrive early.",
+        "D": "The report was completed ahead of schedule."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence uses past modal verbs to express criticism?",
+      "options": {
+        "A": "She might have missed the train.",
+        "B": "They could have won the match if they had played better.",
+        "C": "He must have been very tired after the long journey.",
+        "D": "We should have informed you about the change in plans."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Which sentence demonstrates distancing language?",
+      "options": {
+        "A": "I think the proposal needs revision.",
+        "B": "The report indicates that further research may be necessary.",
+        "C": "We know this approach will succeed.",
+        "D": "You should definitely implement these changes immediately."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Which word best completes this sentence? 'The critic described the experimental music as _____, noting how it clashed with traditional harmonic structures.'",
+      "options": {
+        "A": "melodious",
+        "B": "harmonic",
+        "C": "discordant",
+        "D": "rhythmic"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 17,
+      "question": "Choose the word that means 'of doubtful authenticity, although widely circulated as being true':",
+      "options": {
+        "A": "apocryphal",
+        "B": "verifiable",
+        "C": "factual",
+        "D": "canonical"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 18,
+      "question": "Which word describes someone who is exceedingly idealistic and impractical?",
+      "options": {
+        "A": "pragmatic",
+        "B": "quixotic",
+        "C": "methodical",
+        "D": "judicious"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 19,
+      "question": "Select the word that means 'flexible and graceful in movement':",
+      "options": {
+        "A": "robust",
+        "B": "cumbersome",
+        "C": "rigid",
+        "D": "lithe"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 20,
+      "question": "Which definition correctly describes a 'potentate'?",
+      "options": {
+        "A": "A chemical compound with high reactive properties",
+        "B": "A person who possesses great power, especially a ruler or monarch",
+        "C": "A philosophical concept regarding potential outcomes",
+        "D": "A medical professional specializing in pediatric care"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 21,
+      "question": "Which word means 'not candid or sincere, typically by pretending that one knows less about something than one actually does'?",
+      "options": {
+        "A": "forthright",
+        "B": "disingenuous",
+        "C": "transparent",
+        "D": "earnest"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 22,
+      "question": "What does 'gibberish' refer to?",
+      "options": {
+        "A": "A rare tropical fruit",
+        "B": "An ancient architectural style",
+        "C": "Unintelligible or meaningless speech",
+        "D": "A type of mathematical equation"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 23,
+      "question": "Choose the word that means 'clear and transparent':",
+      "options": {
+        "A": "opaque",
+        "B": "murky",
+        "C": "limpid",
+        "D": "turbid"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 24,
+      "question": "Which definition best matches the word 'sublime'?",
+      "options": {
+        "A": "Of such excellence or beauty as to inspire great admiration or awe",
+        "B": "Beneath the surface or hidden from view",
+        "C": "Extremely disappointing or underwhelming",
+        "D": "Having a sour or bitter taste"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 25,
+      "question": "What does 'invective' mean?",
+      "options": {
+        "A": "A medical procedure involving injections",
+        "B": "A formal invitation to an event",
+        "C": "Insulting, abusive, or highly critical language",
+        "D": "A legal document confirming ownership"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 26,
+      "question": "Which word means 'to predict or forecast, especially by or as if by supernatural means'?",
+      "options": {
+        "A": "reminisce",
+        "B": "prognosticate",
+        "C": "pontificate",
+        "D": "ruminate"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the correct definition for 'virulent':",
+      "options": {
+        "A": "Full of virtue or moral excellence",
+        "B": "Extremely green in color",
+        "C": "Bitterly hostile or antagonistic; severely harmful or poisonous",
+        "D": "Characterized by rapid growth or development"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What does 'grandiloquent' describe?",
+      "options": {
+        "A": "Someone extremely wealthy or lavish",
+        "B": "A style of architecture characterized by grand columns",
+        "C": "Speech or writing that is pompous or extravagant in style",
+        "D": "A person of noble or aristocratic lineage"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Choose the word that means 'extremely unpleasant or repulsive':",
+      "options": {
+        "A": "ambiguous",
+        "B": "odious",
+        "C": "tenuous",
+        "D": "nebulous"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "What is the meaning of 'sanguine'?",
+      "options": {
+        "A": "Related to blood or bloodshed",
+        "B": "Pessimistic or gloomy in outlook",
+        "C": "Optimistic or cheerful, especially in a difficult situation",
+        "D": "Mournful or expressing grief"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Select the most appropriate linking device to complete this academic text: 'The research clearly indicates a correlation between the variables; _____, further studies are needed to establish causation.'",
+      "options": {
+        "A": "as a result",
+        "B": "consequently",
+        "C": "nevertheless",
+        "D": "therefore"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 32,
+      "question": "Choose the most suitable academic collocation to complete this sentence: 'The researchers _____ data from over 5,000 participants.'",
+      "options": {
+        "A": "collected",
+        "B": "gathered",
+        "C": "accumulated",
+        "D": "harvested"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 33,
+      "question": "Which phrasal verb best completes this sentence in a formal context? 'The committee has decided to _____ the proposal until more information is available.'",
+      "options": {
+        "A": "put off",
+        "B": "hold back",
+        "C": "defer consideration of",
+        "D": "hang onto"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 34,
+      "question": "Select the most appropriate idiom to replace the italicized phrase in this business context: 'After the merger, we need to ensure that all team members are *working together effectively and communicating well*.'",
+      "options": {
+        "A": "pulling their weight",
+        "B": "on the same page",
+        "C": "keeping their heads down",
+        "D": "burning the midnight oil"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 35,
+      "question": "Which sentence demonstrates the most effective hedging in academic writing?",
+      "options": {
+        "A": "This treatment absolutely cures the disease in all cases.",
+        "B": "This treatment seems to work sometimes, but not always.",
+        "C": "The data suggest that this treatment may be effective for certain patients under specific conditions.",
+        "D": "I think this treatment works pretty well in most cases."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 36,
+      "question": "Choose the most appropriate binomial expression to complete this legal text: 'The contract shall be null and _____ if any party fails to fulfill the stated obligations.'",
+      "options": {
+        "A": "invalid",
+        "B": "void",
+        "C": "canceled",
+        "D": "unenforceable"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 37,
+      "question": "Which sentence demonstrates the correct use of an intensifier in academic writing?",
+      "options": {
+        "A": "The results were totally unexpected.",
+        "B": "The results were seriously unexpected.",
+        "C": "The results were highly unexpected.",
+        "D": "The results were super unexpected."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 38,
+      "question": "Select the most appropriate euphemism for a professional context: 'Due to budget constraints, the company will need to _____ several positions.'",
+      "options": {
+        "A": "axe",
+        "B": "eliminate",
+        "C": "get rid of",
+        "D": "kill off"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 39,
+      "question": "Which sentence demonstrates the most effective use of nominalisation in academic writing?",
+      "options": {
+        "A": "They analyzed the data and found significant differences between the groups.",
+        "B": "Analysis of the data revealed significant differences between the groups.",
+        "C": "When they analyzed the data, they found the groups were significantly different.",
+        "D": "The data was analyzed and they found the groups had significant differences."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 40,
+      "question": "Choose the most appropriate formal alternative to this informal expression: 'The project was put on the back burner due to funding issues.'",
+      "options": {
+        "A": "The project was delayed indefinitely due to funding constraints.",
+        "B": "The project was ignored because of money problems.",
+        "C": "The project was forgotten about when the money ran out.",
+        "D": "The project was abandoned when we couldn't afford it anymore."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, the concept of intersectionality was originally developed to address:",
+      "options": {
+        "A": "The experiences of all marginalized groups",
+        "B": "The specific challenges faced by Black women",
+        "C": "Religious discrimination in legal contexts",
+        "D": "Class differences within racial groups"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Based on paragraph 2, what challenge does intersectionality pose to traditional psychological models of identity development?",
+      "options": {
+        "A": "It suggests that identity formation is entirely predetermined by social structures",
+        "B": "It shows that identity development always follows predictable stages",
+        "C": "It demonstrates that multiple identities create complex, non-linear development patterns",
+        "D": "It proves that psychological models are completely irrelevant to identity formation"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "The term 'matrix of domination' in paragraph 3 refers to:",
+      "options": {
+        "A": "A mathematical model for calculating social advantage",
+        "B": "Interlocking systems of advantage and disadvantage that structure social opportunities",
+        "C": "The dominance hierarchy that exists within marginalized communities",
+        "D": "Individual prejudice that people experience in daily interactions"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to paragraph 4, why do simplistic approaches to diversity often fail?",
+      "options": {
+        "A": "They focus too much on representation without addressing structural power dynamics",
+        "B": "They require too much effort from organizations to implement effectively",
+        "C": "They overemphasize the importance of cultural differences",
+        "D": "They create too many categories of identity to manage efficiently"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "The author suggests that recent scholarship views intersectionality as:",
+      "options": {
+        "A": "Primarily a theoretical concept with limited practical applications",
+        "B": "Both an analytical framework and an activist methodology for challenging inequality",
+        "C": "A historical approach that has been supplanted by newer theories",
+        "D": "Mainly relevant to academic discourse rather than real-world problems"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "Based on the passage, which statement best describes how privilege and oppression operate in an intersectional framework?",
+      "options": {
+        "A": "They are fixed characteristics that remain constant across all contexts",
+        "B": "They operate contextually, with the same individual experiencing both in different settings",
+        "C": "They are determined solely by visible identity markers",
+        "D": "They affect all individuals equally regardless of their social position"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Which sentence best summarizes the main idea of the passage?",
+      "options": {
+        "A": "Intersectionality is a controversial concept with limited applications.",
+        "B": "Social identity is formed exclusively through individual choices rather than social structures.",
+        "C": "Intersectionality reveals how overlapping social categories create complex systems of advantage and disadvantage.",
+        "D": "Traditional psychological models are superior to intersectional approaches in explaining identity formation."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The word 'salient' in paragraph 4 most closely means:",
+      "options": {
+        "A": "hidden",
+        "B": "prominent",
+        "C": "irrelevant",
+        "D": "distorted"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to the passage, what additional burden do individuals with marginalized intersectional identities typically face?",
+      "options": {
+        "A": "The need to choose which aspect of their identity to prioritize",
+        "B": "The requirement to conceal certain aspects of their identity",
+        "C": "The psychological burden of navigating systems not designed for them",
+        "D": "The inability to form cohesive identities"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What does the author suggest is a key benefit of centering the experiences of those at neglected intersections?",
+      "options": {
+        "A": "It simplifies complex social problems",
+        "B": "It reveals otherwise invisible aspects of social structures",
+        "C": "It eliminates the need for policy reform",
+        "D": "It reduces the importance of individual identity formation"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
