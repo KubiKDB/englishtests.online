@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Many people have different jobs. Some people work in offices, while others work outside. Teachers work in schools and help students learn new things. Doctors work in hospitals and help sick people get better. Some people drive buses or taxis to take others where they need to go.<br><br>(2) Some jobs are in shops and restaurants. Shop assistants help customers find what they want to buy. Chefs make food in restaurants. Waiters bring food to people's tables. Farmers grow food on farms. They grow vegetables and fruit, or they keep animals like cows and chickens.<br><br>(3) Some people have jobs where they make things. Builders make houses and other buildings. Carpenters make things from wood, like tables and chairs. Tailors make clothes. Artists make paintings, and musicians make music. Writers write books and stories for others to read.<br><br>(4) Today, many people work with computers. They write programs or help fix computer problems. Some people work from home using the internet. Other people travel for their jobs and visit different places. Some jobs are difficult and dangerous, like being a firefighter or a police officer. All jobs are important because they help our communities work well.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which form of the verb is correct? She ____ to school every day.",
+      "options": {
+        "A": "go",
+        "B": "goes",
+        "C": "going",
+        "D": "gone"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct preposition. I usually have breakfast ____ 7 o'clock.",
+      "options": {
+        "A": "in",
+        "B": "on",
+        "C": "at",
+        "D": "for"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence is correct?",
+      "options": {
+        "A": "They not are going to the party.",
+        "B": "They are not going to the party.",
+        "C": "They going not to the party.",
+        "D": "Not they are going to the party."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct past form. Yesterday, I ____ a new book.",
+      "options": {
+        "A": "buy",
+        "B": "buys",
+        "C": "buying",
+        "D": "bought"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Which is the correct plural form?",
+      "options": {
+        "A": "childs",
+        "B": "childes",
+        "C": "childrens",
+        "D": "children"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the correct comparative form. This book is ____ than that one.",
+      "options": {
+        "A": "more good",
+        "B": "better",
+        "C": "gooder",
+        "D": "best"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct sentence.",
+      "options": {
+        "A": "She have three sisters.",
+        "B": "She has three sister.",
+        "C": "She has three sisters.",
+        "D": "She having three sisters."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the correct answer. ____ he like chocolate?",
+      "options": {
+        "A": "Do",
+        "B": "Does",
+        "C": "Is",
+        "D": "Are"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct question. ____ is your birthday?",
+      "options": {
+        "A": "Where",
+        "B": "What",
+        "C": "When",
+        "D": "Who"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence uses the past continuous correctly?",
+      "options": {
+        "A": "I was read a book when she called.",
+        "B": "I reading a book when she called.",
+        "C": "I was reading a book when she called.",
+        "D": "I read a book when she called."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Select the correct article. She bought ____ orange.",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article needed"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence is in the future tense?",
+      "options": {
+        "A": "I go to the park tomorrow.",
+        "B": "I went to the park yesterday.",
+        "C": "I am going to the park now.",
+        "D": "I will go to the park tomorrow."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct possessive form. This is my friend's house. The house is ____.",
+      "options": {
+        "A": "her",
+        "B": "hers",
+        "C": "she",
+        "D": "she's"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which is the correct order of adjectives? She has a ____ car.",
+      "options": {
+        "A": "red new big",
+        "B": "big red new",
+        "C": "big new red",
+        "D": "new big red"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the correct modal verb. You ____ smoke in hospitals.",
+      "options": {
+        "A": "don't have to",
+        "B": "mustn't",
+        "C": "couldn't",
+        "D": "wouldn't"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct word to complete the sentence. I need to ____ a form to apply for the job.",
+      "options": {
+        "A": "fill out",
+        "B": "fill in",
+        "C": "fill up",
+        "D": "fill over"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the correct phrase. Can you ____ the dog while I'm away?",
+      "options": {
+        "A": "look at",
+        "B": "look after",
+        "C": "look up",
+        "D": "look for"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Which option best completes the sentence? She ____ a lot of homework last night.",
+      "options": {
+        "A": "made",
+        "B": "did",
+        "C": "took",
+        "D": "gave"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct expression. What time do you usually ____?",
+      "options": {
+        "A": "get up",
+        "B": "stand up",
+        "C": "wake in",
+        "D": "rise on"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the correct response to 'How are you?'",
+      "options": {
+        "A": "I'm 25 years old.",
+        "B": "I'm fine, thank you.",
+        "C": "I'm from Spain.",
+        "D": "I'm a teacher."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Which is the correct response? 'Would you like some tea?' '____'",
+      "options": {
+        "A": "Yes, I like.",
+        "B": "Yes, I'd love some.",
+        "C": "Yes, I am.",
+        "D": "Yes, please some."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct word to complete the sentence. I'm going to ____ a shower.",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "take",
+        "D": "have"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the correct phrase. Can you ____ the light? It's too dark.",
+      "options": {
+        "A": "turn in",
+        "B": "turn off",
+        "C": "turn on",
+        "D": "turn out"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Which is the correct expression? I need to ____ some money from the bank.",
+      "options": {
+        "A": "take out",
+        "B": "take off",
+        "C": "take in",
+        "D": "take on"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct option. I ____ tennis every Saturday.",
+      "options": {
+        "A": "do",
+        "B": "make",
+        "C": "play",
+        "D": "go"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Which sentence uses the word 'second' correctly?",
+      "options": {
+        "A": "My second is very tasty.",
+        "B": "She finished second in the race.",
+        "C": "I have three seconds in my bag.",
+        "D": "The second is very expensive."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "What does 'furniture' refer to?",
+      "options": {
+        "A": "Food you can buy in a shop",
+        "B": "Clothes you wear",
+        "C": "Things like tables and chairs",
+        "D": "Different kinds of cars"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Which sentence uses the word 'problem' correctly?",
+      "options": {
+        "A": "I have a problem with my computer. It doesn't work.",
+        "B": "My problem is very delicious.",
+        "C": "She bought a new problem yesterday.",
+        "D": "The problem is sunny today."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "What does a 'clock' do?",
+      "options": {
+        "A": "It shows the weather",
+        "B": "It shows the time",
+        "C": "It cooks food",
+        "D": "It cleans the house"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Where would you go to a 'supermarket'?",
+      "options": {
+        "A": "To buy food and household items",
+        "B": "To see a doctor",
+        "C": "To watch a film",
+        "D": "To swim"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Which sentence uses the word 'full' correctly?",
+      "options": {
+        "A": "I am full happy today.",
+        "B": "The bus is full of people.",
+        "C": "She full to school every day.",
+        "D": "They full a new car last week."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "What does 'truth' mean?",
+      "options": {
+        "A": "Something that is not false",
+        "B": "A type of fruit",
+        "C": "A color",
+        "D": "A place to visit"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Which is the best definition of 'land'?",
+      "options": {
+        "A": "Water that falls from the sky",
+        "B": "The part of Earth's surface that is not covered by water",
+        "C": "A type of transport",
+        "D": "A small animal"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What does 'country' refer to?",
+      "options": {
+        "A": "A type of food",
+        "B": "A place where you can buy things",
+        "C": "A nation, like France or Japan",
+        "D": "A part of a house"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Which sentence uses the word 'house' correctly?",
+      "options": {
+        "A": "I house my breakfast at 8 o'clock.",
+        "B": "They house to the park yesterday.",
+        "C": "We live in a big house with a garden.",
+        "D": "She house very tired after work."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Which sentence uses the word 'close' correctly?",
+      "options": {
+        "A": "Please close the door.",
+        "B": "I close some new shoes yesterday.",
+        "C": "They close to school by bus.",
+        "D": "She close breakfast every morning."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "What does 'behind' indicate?",
+      "options": {
+        "A": "In front of something",
+        "B": "Next to something",
+        "C": "At the back of something",
+        "D": "Inside something"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "What does 'people' refer to?",
+      "options": {
+        "A": "One person",
+        "B": "Many persons",
+        "C": "A type of animal",
+        "D": "A place to visit"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Which sentence uses the word 'color' correctly?",
+      "options": {
+        "A": "I color to work by bus.",
+        "B": "She color dinner at 7 o'clock.",
+        "C": "They color very happy about the news.",
+        "D": "My favorite color is blue."
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "What is a 'basket' used for?",
+      "options": {
+        "A": "To drive on roads",
+        "B": "To carry things",
+        "C": "To cook food",
+        "D": "To clean clothes"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, where do teachers work?",
+      "options": {
+        "A": "In hospitals",
+        "B": "In offices",
+        "C": "In schools",
+        "D": "Outside"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Based on paragraph 1, what do doctors do?",
+      "options": {
+        "A": "They help students learn",
+        "B": "They help sick people get better",
+        "C": "They drive buses",
+        "D": "They work in offices"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 2, what do shop assistants do?",
+      "options": {
+        "A": "They make food",
+        "B": "They bring food to tables",
+        "C": "They grow vegetables",
+        "D": "They help customers find what they want to buy"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Based on paragraph 2, where do farmers work?",
+      "options": {
+        "A": "In shops",
+        "B": "In restaurants",
+        "C": "On farms",
+        "D": "In hospitals"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to paragraph 3, who makes things from wood?",
+      "options": {
+        "A": "Builders",
+        "B": "Carpenters",
+        "C": "Tailors",
+        "D": "Artists"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "Based on paragraph 3, what do writers do?",
+      "options": {
+        "A": "They make houses",
+        "B": "They make paintings",
+        "C": "They make music",
+        "D": "They write books and stories"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to paragraph 4, what do many people use for work today?",
+      "options": {
+        "A": "Telephones",
+        "B": "Computers",
+        "C": "Cars",
+        "D": "Books"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "Based on paragraph 4, which jobs are described as difficult and dangerous?",
+      "options": {
+        "A": "Working with computers",
+        "B": "Working from home",
+        "C": "Being a firefighter or police officer",
+        "D": "Traveling for work"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What is the main topic of this passage?",
+      "options": {
+        "A": "How to get a good job",
+        "B": "Different jobs and what people do in them",
+        "C": "Why some jobs are better than others",
+        "D": "How jobs have changed over time"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "According to the passage, why are all jobs important?",
+      "options": {
+        "A": "Because they help our communities work well",
+        "B": "Because they all pay well",
+        "C": "Because they are all easy to do",
+        "D": "Because they all require special training"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    }
+  ]
+}
