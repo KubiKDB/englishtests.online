@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Cognitive and emotional resilience—the ability to adapt to adversity and recover from setbacks—varies considerably across cultural contexts, with some societies fostering exceptional mental fortitude while others prioritize different psychological strengths. Eastern philosophical traditions, particularly those rooted in Buddhism and Taoism, emphasize acceptance of life's impermanence and detachment from outcomes, cultivating resilience through mindfulness practices that allow individuals to observe suffering without becoming overwhelmed by it. This stands in contrast to Western approaches that often emphasize active problem-solving, cognitive reframing, and individual agency in overcoming obstacles.<br><br>(2) Collectivist cultures, predominant in East Asia, parts of Africa, and Latin America, derive resilience from tight-knit social bonds and mutual obligations. When faced with hardship, individuals in these societies readily seek support from family networks and community structures, distributing the psychological burden across the collective. The Japanese concept of 'gaman' (enduring the seemingly unbearable with patience and dignity) exemplifies this cultural approach to resilience that prioritizes group harmony over individual expression of distress. Conversely, individualistic societies often celebrate narratives of personal triumph over adversity, potentially creating isolation for those struggling to embody this cultural ideal.<br><br>(3) Cultural variations in emotional expression further shape resilience manifestations. Research indicates that cultures with greater emotional restraint norms, such as those found in Finland and South Korea, develop distinctive coping mechanisms compared to more emotionally expressive societies like Italy or Brazil. The Finnish concept of 'sisu'—extraordinary determination in the face of extreme adversity—reflects a cultural value of stoic perseverance that has historically helped this population weather harsh conditions. Meanwhile, Mediterranean and Latin American cultures often process adversity through communal emotional catharsis, deriving resilience through shared emotional release rather than emotional containment.<br><br>(4) Religious and spiritual frameworks provide another dimension of cross-cultural variation in resilience building. Islamic teachings on sabr (patience) and tawakkul (trust in divine wisdom) offer believers cognitive frameworks that recontextualize suffering as spiritually meaningful. Similarly, Hindu philosophical concepts like karma provide explanatory frameworks for adversity that can enhance perceived control and meaning-making. These spiritual dimensions of resilience often transcend the purely psychological approaches dominant in secular societies, offering existential comfort during life's inevitable challenges.<br><br>(5) The implications of these cultural variations extend beyond academic interest—they directly influence mental health interventions and resilience-building programs. Western therapeutic approaches emphasizing individual cognitive restructuring may prove less effective in collectivist contexts where resilience is fundamentally understood as a communal rather than individual attribute. As global challenges from climate disasters to economic instability increasingly test human resilience, culturally sensitive approaches that acknowledge these diverse resilience pathways become increasingly vital. The most effective resilience-building strategies will likely integrate insights from multiple cultural frameworks, recognizing that mental fortitude manifests through diverse psychological, social, and spiritual dimensions across human societies.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The sentence 'I've never been to Paris, but my sister has.' is an example of:",
+      "options": {
+        "A": "Ellipsis and substitution",
+        "B": "Nominalization",
+        "C": "Cleft sentence",
+        "D": "Emphatic structure"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Which sentence uses the perfect aspect to express a future action that will be completed by a certain point in time?",
+      "options": {
+        "A": "I am going to study all night.",
+        "B": "She will be studying when we arrive.",
+        "C": "By tomorrow, they will have submitted their applications.",
+        "D": "We have been waiting for three hours."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Identify the reduced relative clause in this sentence: 'The document containing the sensitive information was shredded immediately.'",
+      "options": {
+        "A": "was shredded immediately",
+        "B": "containing the sensitive information",
+        "C": "The document containing",
+        "D": "information was shredded"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence contains an alternative conditional form?",
+      "options": {
+        "A": "If you practice daily, you will improve.",
+        "B": "Should you require assistance, please don't hesitate to ask.",
+        "C": "She would have succeeded if she had tried harder.",
+        "D": "Unless you leave now, you'll miss the train."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is a formulaic expression?",
+      "options": {
+        "A": "The cat sat on the mat.",
+        "B": "That being said, we should consider other options.",
+        "C": "She walked quickly down the street.",
+        "D": "They bought a new car last week."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Identify the cleft sentence:",
+      "options": {
+        "A": "What surprised me was his reaction to the news.",
+        "B": "His reaction to the news surprised me.",
+        "C": "I was surprised by his reaction to the news.",
+        "D": "Surprisingly, he reacted to the news."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which sentence demonstrates nominalization?",
+      "options": {
+        "A": "They disagreed about the proposal.",
+        "B": "Their disagreement about the proposal led to a heated debate.",
+        "C": "They were disagreeable during the meeting.",
+        "D": "The proposal was disagreeable to many."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Which sentence uses the impersonal passive structure?",
+      "options": {
+        "A": "The window was broken by someone.",
+        "B": "Someone broke the window.",
+        "C": "It is believed that the artifact dates back to 3000 BCE.",
+        "D": "They believe the artifact dates back to 3000 BCE."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence demonstrates emphasis using 'what' or 'such'?",
+      "options": {
+        "A": "What time does the meeting start?",
+        "B": "I don't know what to do next.",
+        "C": "Such dedication deserves recognition!",
+        "D": "She told me such a long story."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Identify the sentence with an emphatic structure using 'do/did':",
+      "options": {
+        "A": "She did the work yesterday.",
+        "B": "I do wonder why he left so abruptly.",
+        "C": "Do you know the answer?",
+        "D": "They didn't arrive on time."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Which phrase is an example of a collocation?",
+      "options": {
+        "A": "Take a bath",
+        "B": "Do a mistake",
+        "C": "Make a decision",
+        "D": "Have a day"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence correctly uses a quantifier with an uncountable noun?",
+      "options": {
+        "A": "There are less people here than expected.",
+        "B": "She has a few knowledge about the subject.",
+        "C": "They need more equipments for the project.",
+        "D": "He has little experience in this field."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Which sentence contains a past modal verb expressing criticism or regret?",
+      "options": {
+        "A": "You must have been tired after your journey.",
+        "B": "She could speak three languages by age ten.",
+        "C": "They might have arrived by now.",
+        "D": "We shouldn't have ignored the warning signs."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Identify the mixed conditional in the following sentences:",
+      "options": {
+        "A": "If it rains tomorrow, we'll cancel the picnic.",
+        "B": "If you had listened to me, you wouldn't be in this situation now.",
+        "C": "If I were you, I would apply for that job.",
+        "D": "If they practiced more, they would have won the match."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Which sentence demonstrates 'future in the past'?",
+      "options": {
+        "A": "She said she was going to the store.",
+        "B": "He promised that he would finish the project by Friday.",
+        "C": "They are planning to visit next summer.",
+        "D": "We will have completed the assignment by tomorrow."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Which word best completes this sentence? 'The committee's decision to reject the proposal was based on several _____ arguments presented by the opposition.'",
+      "options": {
+        "A": "mundane",
+        "B": "spurious",
+        "C": "cogent",
+        "D": "tepid"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 17,
+      "question": "Choose the word that means 'too indescribable for words':",
+      "options": {
+        "A": "ineffable",
+        "B": "indelible",
+        "C": "infallible",
+        "D": "inexorable"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 18,
+      "question": "Select the correct definition for 'exegesis':",
+      "options": {
+        "A": "A formal retraction or disavowal",
+        "B": "Critical explanation or interpretation of a text",
+        "C": "The act of expelling someone from a country",
+        "D": "A scientific investigation of organic compounds"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 19,
+      "question": "Which word describes someone who changes their mind frequently and unpredictably?",
+      "options": {
+        "A": "stoic",
+        "B": "steadfast",
+        "C": "sanctimonious",
+        "D": "capricious"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 20,
+      "question": "Which word means 'to reach the highest point or climax'?",
+      "options": {
+        "A": "culminate",
+        "B": "castigate",
+        "C": "capitulate",
+        "D": "circumnavigate"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 21,
+      "question": "What is a 'wraith'?",
+      "options": {
+        "A": "A small, decorative piece of fabric",
+        "B": "A ghostly apparition or specter",
+        "C": "A type of musical instrument",
+        "D": "A legal document granting rights"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 22,
+      "question": "Choose the word that means 'susceptible to physical or emotional harm':",
+      "options": {
+        "A": "voluble",
+        "B": "vigilant",
+        "C": "vindictive",
+        "D": "vulnerable"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 23,
+      "question": "Which definition best describes 'fulsome'?",
+      "options": {
+        "A": "Lacking in originality or freshness",
+        "B": "Excessively flattering or insincere in praise",
+        "C": "Entirely filled or well-supplied",
+        "D": "Slow to understand or respond"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 24,
+      "question": "What does 'demarcation' refer to?",
+      "options": {
+        "A": "A type of ancient Greek pottery",
+        "B": "The act of separating something from something else",
+        "C": "The process of removing marks or stains",
+        "D": "A ceremonial parade or procession"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 25,
+      "question": "Which word describes something that is brilliant, gorgeous, or magnificent in appearance?",
+      "options": {
+        "A": "resplendent",
+        "B": "recalcitrant",
+        "C": "redundant",
+        "D": "resilient"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 26,
+      "question": "What is the meaning of 'abnegation'?",
+      "options": {
+        "A": "The act of moving abnormally",
+        "B": "A mathematical calculation",
+        "C": "Self-denial or renunciation",
+        "D": "Excessive pride or self-confidence"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the definition that matches 'wallow':",
+      "options": {
+        "A": "To indulge oneself in an unrestrained way",
+        "B": "To whisper or speak quietly",
+        "C": "To unite or form an alliance",
+        "D": "To cut off or separate"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What does 'trepidation' mean?",
+      "options": {
+        "A": "A medical procedure",
+        "B": "Fearful apprehension or anxiety",
+        "C": "The act of trespassing",
+        "D": "A type of tropical tree"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which word refers to a lack of seriousness or lightness in manner?",
+      "options": {
+        "A": "levity",
+        "B": "longevity",
+        "C": "leniency",
+        "D": "literacy"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "What does 'camaraderie' refer to?",
+      "options": {
+        "A": "A type of military strategy",
+        "B": "A mutual trust and friendship among people who spend time together",
+        "C": "An ornate piece of furniture",
+        "D": "A formal diplomatic agreement"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Complete the sentence with the most appropriate phrasal verb: 'The CEO has decided to _____ the launch of the new product due to technical issues.'",
+      "options": {
+        "A": "put off",
+        "B": "put up",
+        "C": "put down",
+        "D": "put through"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 32,
+      "question": "Choose the correct idiomatic expression to complete this sentence: 'After working tirelessly for months on the project, the team was finally able to _____.'",
+      "options": {
+        "A": "hit the roof",
+        "B": "hit the nail on the head",
+        "C": "hit the sack",
+        "D": "hit the ground running"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 33,
+      "question": "Which option best maintains the formal register in this sentence? 'The results of the experiment _____.'",
+      "options": {
+        "A": "were totally mind-blowing",
+        "B": "exceeded our wildest expectations",
+        "C": "were significantly beyond anticipated parameters",
+        "D": "knocked our socks off"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 34,
+      "question": "Select the most appropriate binomial phrase to complete this sentence: 'The agreement is legally binding for all intents and _____.'",
+      "options": {
+        "A": "considerations",
+        "B": "objectives",
+        "C": "purposes",
+        "D": "functions"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 35,
+      "question": "Choose the correct option to maintain cohesion in this text: 'The researchers published their findings last month. _____, they have been invited to present at three international conferences.'",
+      "options": {
+        "A": "However",
+        "B": "Nevertheless",
+        "C": "Subsequently",
+        "D": "Otherwise"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 36,
+      "question": "Which sentence demonstrates the most effective use of hedging language in academic writing?",
+      "options": {
+        "A": "This treatment definitely cures the disease.",
+        "B": "The evidence suggests that the treatment may be effective for certain patients.",
+        "C": "I think this treatment works well most of the time.",
+        "D": "This treatment works sometimes, but not always."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 37,
+      "question": "Identify the sentence with correct parallel structure:",
+      "options": {
+        "A": "The CEO likes swimming, to run, and cycling.",
+        "B": "The CEO likes swimming, running, and to cycle.",
+        "C": "The CEO likes to swim, running, and cycling.",
+        "D": "The CEO likes swimming, running, and cycling."
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 38,
+      "question": "Which sentence contains a split infinitive that should be avoided in very formal writing?",
+      "options": {
+        "A": "She decided to carefully examine all the evidence.",
+        "B": "She decided to examine all the evidence carefully.",
+        "C": "She decided carefully to examine all the evidence.",
+        "D": "She carefully decided to examine all the evidence."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 39,
+      "question": "Select the most appropriate euphemism for this professional context: 'Unfortunately, due to economic challenges, the company will need to _____.'",
+      "options": {
+        "A": "kick people out",
+        "B": "downsize its workforce",
+        "C": "get rid of workers",
+        "D": "fire a bunch of people"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 40,
+      "question": "Choose the sentence with the most appropriate use of subjunctive mood:",
+      "options": {
+        "A": "I suggested that he goes to the conference.",
+        "B": "The committee insists that she will attend all meetings.",
+        "C": "It is essential that all participants submit their papers by Friday.",
+        "D": "The professor recommended that the student should revise his thesis."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, how do Eastern and Western approaches to resilience differ?",
+      "options": {
+        "A": "Eastern approaches prioritize individual triumph while Western approaches focus on collective harmony.",
+        "B": "Eastern traditions emphasize acceptance and detachment while Western approaches focus on active problem-solving.",
+        "C": "Eastern approaches reject the concept of resilience while Western societies embrace it.",
+        "D": "Eastern traditions promote emotional expression while Western approaches advocate emotional restraint."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following best exemplifies the Japanese concept of 'gaman' as described in paragraph 2?",
+      "options": {
+        "A": "Expressing one's feelings openly to relieve psychological distress",
+        "B": "Actively seeking professional help when facing mental health challenges",
+        "C": "Enduring hardship stoically to maintain social harmony",
+        "D": "Celebrating personal achievements over collective well-being"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "Based on paragraph 3, which statement about cultural variations in emotional expression is true?",
+      "options": {
+        "A": "All cultures develop identical coping mechanisms regardless of emotional expression norms.",
+        "B": "Cultures with emotional restraint norms like Finland develop resilience through stoic perseverance.",
+        "C": "Mediterranean cultures typically suppress emotional expression during adversity.",
+        "D": "Emotional containment is universally more effective than emotional release."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "The author mentions 'sabr' and 'tawakkul' in paragraph 4 primarily to illustrate:",
+      "options": {
+        "A": "How religious practices can hinder psychological resilience",
+        "B": "The superiority of spiritual approaches over secular ones",
+        "C": "How religious frameworks provide cognitive structures that reframe suffering",
+        "D": "The universal nature of religious concepts across all cultures"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Which conclusion can be drawn from paragraph 5?",
+      "options": {
+        "A": "Western therapeutic approaches are universally effective regardless of cultural context.",
+        "B": "Culturally sensitive approaches to resilience-building are becoming increasingly important.",
+        "C": "Individual cognitive restructuring is the most effective approach in all cultural contexts.",
+        "D": "Mental health interventions should ignore cultural variations in resilience."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "The passage as a whole primarily focuses on:",
+      "options": {
+        "A": "Arguing for the superiority of Eastern approaches to resilience",
+        "B": "Describing how resilience manifests differently across cultural contexts",
+        "C": "Criticizing Western psychological approaches to mental health",
+        "D": "Promoting religious frameworks as the best solution for building resilience"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "The word 'transcend' as used in paragraph 4 most nearly means:",
+      "options": {
+        "A": "contradict",
+        "B": "undermine",
+        "C": "go beyond",
+        "D": "simplify"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What relationship does the passage establish between collectivist cultures and resilience?",
+      "options": {
+        "A": "Collectivist cultures generally have lower resilience than individualistic societies.",
+        "B": "Resilience in collectivist cultures comes from tight social bonds and shared burdens.",
+        "C": "Collectivist cultures view resilience as unnecessary due to their social support systems.",
+        "D": "There is no meaningful difference in resilience between collectivist and individualistic cultures."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Which of the following would LEAST align with the author's perspective on resilience-building?",
+      "options": {
+        "A": "Developing culturally sensitive mental health interventions",
+        "B": "Recognizing diverse pathways to psychological fortitude",
+        "C": "Applying identical therapeutic approaches across all cultural contexts",
+        "D": "Integrating insights from multiple cultural frameworks"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What does the author imply about the relationship between religion and resilience?",
+      "options": {
+        "A": "Religious frameworks provide unique resilience resources not found in secular approaches.",
+        "B": "Religious approaches to resilience are outdated and should be replaced by scientific methods.",
+        "C": "Religion plays no significant role in building emotional or cognitive resilience.",
+        "D": "Religious practices universally diminish an individual's capacity for resilience."
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    }
+  ]
+}
