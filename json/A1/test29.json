@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Brushing your teeth is very important for your health. When you eat food, small pieces stay on your teeth. These food pieces mix with bacteria in your mouth and form plaque. Plaque can damage your teeth and make holes in them. These holes are called cavities.<br><br>(2) You should brush your teeth two times every day. Brush in the morning after breakfast and at night before you go to sleep. Use a toothbrush with soft bristles and toothpaste with fluoride. Fluoride helps make your teeth strong.<br><br>(3) When you brush your teeth, move the toothbrush in small circles. Brush all parts of your teeth - the front, the back, and the top. Don't forget to brush your tongue too. Brushing your tongue helps remove bacteria and keeps your breath fresh.<br><br>(4) If you don't brush your teeth, you can get many problems. Your teeth can become yellow and ugly. You can get bad breath. You can also get pain in your teeth and gums. Going to the dentist can be expensive. It is better to brush your teeth every day and prevent these problems.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which word is a verb?",
+      "options": {
+        "A": "nice",
+        "B": "book",
+        "C": "walk",
+        "D": "happy"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "_____ is she? She is my teacher.",
+      "options": {
+        "A": "What",
+        "B": "Who",
+        "C": "Where",
+        "D": "When"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "I _____ breakfast every morning.",
+      "options": {
+        "A": "eat",
+        "B": "eats",
+        "C": "eating",
+        "D": "ate"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "She _____ TV now.",
+      "options": {
+        "A": "watch",
+        "B": "watches",
+        "C": "is watching",
+        "D": "are watching"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "They _____ to school yesterday.",
+      "options": {
+        "A": "go",
+        "B": "goes",
+        "C": "going",
+        "D": "went"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "_____ there any milk in the fridge?",
+      "options": {
+        "A": "Is",
+        "B": "Are",
+        "C": "Do",
+        "D": "Does"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "This is _____ book.",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "–"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "He doesn't like _____ coffee.",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "–"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "The cat is sleeping _____ the bed.",
+      "options": {
+        "A": "on",
+        "B": "in",
+        "C": "at",
+        "D": "under"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "She is _____ than her brother.",
+      "options": {
+        "A": "tall",
+        "B": "taller",
+        "C": "tallest",
+        "D": "more tall"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "We _____ like spicy food.",
+      "options": {
+        "A": "don't",
+        "B": "doesn't",
+        "C": "isn't",
+        "D": "aren't"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "_____ you have a pen?",
+      "options": {
+        "A": "Are",
+        "B": "Is",
+        "C": "Do",
+        "D": "Does"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "I _____ understand the question.",
+      "options": {
+        "A": "don't",
+        "B": "doesn't",
+        "C": "am not",
+        "D": "not"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "My friend _____ in a big house.",
+      "options": {
+        "A": "live",
+        "B": "lives",
+        "C": "living",
+        "D": "is live"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "We _____ dinner at 7 PM yesterday.",
+      "options": {
+        "A": "have",
+        "B": "has",
+        "C": "had",
+        "D": "having"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Can you _____ the door, please?",
+      "options": {
+        "A": "open",
+        "B": "to open",
+        "C": "opening",
+        "D": "opened"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "I need _____ to the supermarket.",
+      "options": {
+        "A": "go",
+        "B": "to go",
+        "C": "going",
+        "D": "goes"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "_____ cold today.",
+      "options": {
+        "A": "It's",
+        "B": "Its",
+        "C": "There's",
+        "D": "There"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "She _____ like spiders.",
+      "options": {
+        "A": "does",
+        "B": "doesn't",
+        "C": "don't",
+        "D": "isn't"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "_____ your name?",
+      "options": {
+        "A": "What's",
+        "B": "What",
+        "C": "How's",
+        "D": "Who's"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "I'm sorry, I _____ understand.",
+      "options": {
+        "A": "not",
+        "B": "no",
+        "C": "don't",
+        "D": "am not"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "_____ do you live? In London.",
+      "options": {
+        "A": "What",
+        "B": "Where",
+        "C": "When",
+        "D": "Who"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "This is my friend. _____ name is John.",
+      "options": {
+        "A": "He",
+        "B": "His",
+        "C": "Him",
+        "D": "He's"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "There _____ five people in my family.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "be",
+        "D": "am"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "I like _____ music.",
+      "options": {
+        "A": "listen",
+        "B": "listening",
+        "C": "to listen",
+        "D": "listens"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "The chair is _____. It doesn't move.",
+      "options": {
+        "A": "loud",
+        "B": "stable",
+        "C": "perfect",
+        "D": "complete"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "The music is very _____. I can't hear you.",
+      "options": {
+        "A": "loud",
+        "B": "perfect",
+        "C": "stable",
+        "D": "very"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "There are _____ chairs around the table.",
+      "options": {
+        "A": "three",
+        "B": "two",
+        "C": "four",
+        "D": "five"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "I like to _____ hands when I meet someone.",
+      "options": {
+        "A": "shake",
+        "B": "part",
+        "C": "include",
+        "D": "grade"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Please _____ your name on the form.",
+      "options": {
+        "A": "part",
+        "B": "include",
+        "C": "shake",
+        "D": "grade"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "The table has four _____.",
+      "options": {
+        "A": "legs",
+        "B": "parts",
+        "C": "platforms",
+        "D": "grades"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "This is my favorite _____ of the movie.",
+      "options": {
+        "A": "grade",
+        "B": "part",
+        "C": "situation",
+        "D": "platform"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Your work is _____. There are no mistakes.",
+      "options": {
+        "A": "stable",
+        "B": "complete",
+        "C": "perfect",
+        "D": "loud"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "This is a difficult _____. I don't know what to do.",
+      "options": {
+        "A": "platform",
+        "B": "grade",
+        "C": "situation",
+        "D": "part"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "I got a good _____ on my test.",
+      "options": {
+        "A": "situation",
+        "B": "grade",
+        "C": "platform",
+        "D": "part"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "The task is _____ easy.",
+      "options": {
+        "A": "perfect",
+        "B": "complete",
+        "C": "simply",
+        "D": "loud"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "My _____ is cooking dinner.",
+      "options": {
+        "A": "platform",
+        "B": "mother",
+        "C": "grade",
+        "D": "situation"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "The food is _____ good.",
+      "options": {
+        "A": "complete",
+        "B": "stable",
+        "C": "very",
+        "D": "simply"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "The train arrives at the _____.",
+      "options": {
+        "A": "situation",
+        "B": "grade",
+        "C": "platform",
+        "D": "mother"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "The work is _____. There is nothing more to do.",
+      "options": {
+        "A": "complete",
+        "B": "stable",
+        "C": "perfect",
+        "D": "simply"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what can damage your teeth?",
+      "options": {
+        "A": "Brushing too hard",
+        "B": "Plaque",
+        "C": "Fluoride",
+        "D": "Toothpaste"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "How many times should you brush your teeth every day?",
+      "options": {
+        "A": "One time",
+        "B": "Two times",
+        "C": "Three times",
+        "D": "Four times"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 2, what helps make your teeth strong?",
+      "options": {
+        "A": "Soft bristles",
+        "B": "Brushing at night",
+        "C": "Fluoride",
+        "D": "Breakfast"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "How should you move your toothbrush when brushing?",
+      "options": {
+        "A": "In small circles",
+        "B": "Up and down",
+        "C": "Side to side",
+        "D": "In big circles"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to paragraph 3, why should you brush your tongue?",
+      "options": {
+        "A": "To make it clean",
+        "B": "To remove bacteria and keep breath fresh",
+        "C": "To prevent cavities",
+        "D": "To make it strong"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What can happen if you don't brush your teeth?",
+      "options": {
+        "A": "You will need to eat less food",
+        "B": "Your teeth will become stronger",
+        "C": "Your teeth can become yellow",
+        "D": "You will sleep better"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to paragraph 4, what can be expensive?",
+      "options": {
+        "A": "Toothpaste",
+        "B": "Toothbrushes",
+        "C": "Going to the dentist",
+        "D": "Brushing your teeth"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The word 'bristles' in paragraph 2 refers to:",
+      "options": {
+        "A": "a type of toothpaste",
+        "B": "the small hairs on a toothbrush",
+        "C": "a brand of toothbrush",
+        "D": "a brushing technique"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What is the main idea of this passage?",
+      "options": {
+        "A": "How to make your teeth white",
+        "B": "The importance of brushing your teeth",
+        "C": "How to see a dentist",
+        "D": "Different types of toothbrushes"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "The word 'prevent' in paragraph 4 is closest in meaning to:",
+      "options": {
+        "A": "cause",
+        "B": "stop",
+        "C": "create",
+        "D": "find"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
