@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The process of forming habits is a fascinating aspect of human psychology that has garnered significant attention from researchers in recent decades. Habits, by definition, are behaviors performed automatically with minimal conscious thought, developed through consistent repetition in stable contexts. Neurologically, habit formation involves the basal ganglia, a region of the brain responsible for pattern recognition and automatic behavior execution, which allows routine actions to be performed efficiently while conserving cognitive resources for more demanding tasks.<br><br>(2) Understanding the mechanics of habit formation is crucial for anyone seeking personal change. Research by psychologists suggests that habits develop through a three-stage loop: cue, routine, and reward. The cue triggers the behavior, the routine is the behavior itself, and the reward is the benefit gained from performing the behavior. Over time, as this loop is repeatedly experienced, the brain begins to anticipate the reward upon encountering the cue, thus cementing the habit. This neurological pathway becomes increasingly automatic with repetition, explaining why longstanding habits can be particularly difficult to break.<br><br>(3) The timeline for habit formation varies considerably among individuals and behaviors. Contrary to the popular myth that habits form in exactly 21 days, research conducted at University College London found that the process can take anywhere from 18 to 254 days, with an average of about 66 days. More complex behaviors generally require more time to become automatic, while simpler actions may become habitual more quickly. Additionally, individual factors such as personality traits, motivation levels, and environmental consistency play significant roles in determining how rapidly habits form.<br><br>(4) When attempting to change established habits, understanding the underlying cue-routine-reward structure becomes invaluable. Successful habit modification typically involves keeping the same cue and reward while altering the routine. This approach, known as habit substitution, leverages existing neurological pathways rather than attempting to eliminate them entirely. For instance, if stress (cue) leads to unhealthy snacking (routine) for comfort (reward), one might substitute deep breathing exercises for snacking while maintaining the same cue and reward relationship.<br><br>(5) Furthermore, environment design represents a powerful tool in habit formation and modification. By deliberately structuring one's surroundings to make desired behaviors easier and undesired behaviors more difficult, individuals can significantly influence their habit development. This might involve placing healthy snacks at eye level in the refrigerator while storing less nutritious options out of sight, or keeping a yoga mat visible as a reminder to exercise. Such environmental adjustments effectively manipulate the cue portion of the habit loop, either highlighting beneficial cues or minimizing detrimental ones, thereby facilitating positive behavior change with less reliance on willpower alone.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which form is correct in the following sentence? 'By the time they arrived at the theater, the movie _____ for twenty minutes.'",
+      "options": {
+        "A": "has been running",
+        "B": "had been running",
+        "C": "was running",
+        "D": "would be running"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct option: 'Neither the CEO nor her assistants _____ willing to comment on the allegations.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "was",
+        "D": "were"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the grammatically correct sentence:",
+      "options": {
+        "A": "Having finished the experiment, the results were analyzed by the research team.",
+        "B": "Having finished the experiment, the research team analyzed the results.",
+        "C": "The results were analyzed by the research team, having finished the experiment.",
+        "D": "The research team, having finished the experiment, they analyzed the results."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Identify the correct conditional form: 'If I _____ earlier, I wouldn't have missed the flight.'",
+      "options": {
+        "A": "would leave",
+        "B": "had left",
+        "C": "have left",
+        "D": "would have left"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the sentence with the correct subjunctive mood:",
+      "options": {
+        "A": "The professor insisted that the student completes the assignment by Friday.",
+        "B": "The professor insisted that the student completed the assignment by Friday.",
+        "C": "The professor insisted that the student complete the assignment by Friday.",
+        "D": "The professor insisted that the student will complete the assignment by Friday."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the sentence with the correct use of modifiers:",
+      "options": {
+        "A": "Almost the entire audience was moved by the heartfelt speech.",
+        "B": "The audience was almost moved by the entire heartfelt speech.",
+        "C": "The audience was moved by the heartfelt almost entire speech.",
+        "D": "The entire audience was moved by the almost heartfelt speech."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the sentence with the correct use of the gerund:",
+      "options": {
+        "A": "The scientist avoided to discuss his controversial findings at the conference.",
+        "B": "The scientist avoided discussing his controversial findings at the conference.",
+        "C": "The scientist avoided discuss his controversial findings at the conference.",
+        "D": "The scientist avoided that he discussed his controversial findings at the conference."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Identify the sentence with the correct use of the past perfect continuous:",
+      "options": {
+        "A": "They have been negotiating the contract for months before reaching an agreement yesterday.",
+        "B": "They had negotiating the contract for months before reaching an agreement yesterday.",
+        "C": "They had been negotiating the contract for months before reaching an agreement yesterday.",
+        "D": "They were negotiating the contract for months before reaching an agreement yesterday."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Select the correct relative clause: 'The painting, _____ was recently restored, dates back to the 16th century.'",
+      "options": {
+        "A": "that",
+        "B": "whose",
+        "C": "whom",
+        "D": "which"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the grammatically correct sentence:",
+      "options": {
+        "A": "Not only did she excel in mathematics, but also in physics.",
+        "B": "Not only she excelled in mathematics, but also in physics.",
+        "C": "Not only did she excel in mathematics, but also she excelled in physics.",
+        "D": "Not only she did excel in mathematics, but also in physics."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Identify the correct use of a participle clause:",
+      "options": {
+        "A": "While crossing the street, the bus nearly hit the pedestrian.",
+        "B": "Crossing the street, the pedestrian was nearly hit by the bus.",
+        "C": "The pedestrian crossing the street, the bus nearly hit him.",
+        "D": "The pedestrian was crossing the street, nearly hit by the bus."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the correct passive construction: 'The new policy _____ by the board of directors next week.'",
+      "options": {
+        "A": "will approve",
+        "B": "will be approving",
+        "C": "will have approved",
+        "D": "will be approved"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct inversion structure:",
+      "options": {
+        "A": "Rarely I have encountered such profound insight in a debut novel.",
+        "B": "Rarely have I encountered such profound insight in a debut novel.",
+        "C": "I have rarely encountered such profound insight in a debut novel.",
+        "D": "I rarely have encountered such profound insight in a debut novel."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Identify the sentence with correct subject-verb agreement:",
+      "options": {
+        "A": "The committee disagree about how to proceed with the investigation.",
+        "B": "The committee disagrees about how to proceed with the investigation.",
+        "C": "The committee are disagreeing about how to proceed with the investigation.",
+        "D": "The committee have disagreed about how to proceed with the investigation."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the sentence with correct use of articles:",
+      "options": {
+        "A": "She gave me an useful advice about applying to the universities in United Kingdom.",
+        "B": "She gave me a useful advice about applying to universities in the United Kingdom.",
+        "C": "She gave me useful advice about applying to the universities in United Kingdom.",
+        "D": "She gave me useful advice about applying to universities in the United Kingdom."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct collocation: 'The government needs to _____ immediate action to address the housing crisis.'",
+      "options": {
+        "A": "do",
+        "B": "make",
+        "C": "take",
+        "D": "have"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the appropriate phrasal verb: 'We need to _____ a solution before the deadline.'",
+      "options": {
+        "A": "come up with",
+        "B": "come across with",
+        "C": "come about with",
+        "D": "come around with"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct preposition: 'The professor elaborated _____ the theory during her lecture.'",
+      "options": {
+        "A": "with",
+        "B": "about",
+        "C": "for",
+        "D": "on"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Select the appropriate idiomatic expression: 'The new employee is very enthusiastic but still needs to learn the _____.'",
+      "options": {
+        "A": "nuts and bolts",
+        "B": "ins and outs",
+        "C": "bits and pieces",
+        "D": "ups and downs"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct word form: 'Their argument was based on a fundamental _____ of how the system works.'",
+      "options": {
+        "A": "miscomprehension",
+        "B": "misunderstanding",
+        "C": "misknowledge",
+        "D": "misinformation"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Identify the correct use of a linking expression: 'The results were inconclusive; _____, further research is necessary.'",
+      "options": {
+        "A": "nevertheless",
+        "B": "consequently",
+        "C": "meanwhile",
+        "D": "thereafter"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Select the appropriate fixed expression: 'The witness statement was taken _____ face value by the jury.'",
+      "options": {
+        "A": "in",
+        "B": "at",
+        "C": "on",
+        "D": "by"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct binomial pair: 'The negotiations were long and difficult, but the two parties finally reached an agreement after much _____.'",
+      "options": {
+        "A": "back and forth",
+        "B": "ups and downs",
+        "C": "give and take",
+        "D": "hit and miss"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Identify the correct nominalization: 'Scientists need to _____ the experiment under different conditions.'",
+      "options": {
+        "A": "conduct",
+        "B": "make",
+        "C": "do",
+        "D": "perform"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the correct hedging expression for academic writing: 'These findings _____ suggest a correlation between the variables.'",
+      "options": {
+        "A": "definitely",
+        "B": "appear to",
+        "C": "absolutely",
+        "D": "certainly"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the word that means 'to copy or attempt to equal, especially through imitation':",
+      "options": {
+        "A": "emulate",
+        "B": "simulate",
+        "C": "fabricate",
+        "D": "insinuate"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Which word best describes an action that is 'conspicuously offensive, especially when deliberately so'?",
+      "options": {
+        "A": "tenuous",
+        "B": "flagrant",
+        "C": "ambiguous",
+        "D": "circumspect"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Select the word that means 'the quality or fact of being greater in number, quantity, or importance':",
+      "options": {
+        "A": "audacity",
+        "B": "tenacity",
+        "C": "preponderance",
+        "D": "significance"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which word means 'causing harm or damage'?",
+      "options": {
+        "A": "ambivalent",
+        "B": "meticulous",
+        "C": "transient",
+        "D": "deleterious"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the word that means 'never having been done or known before':",
+      "options": {
+        "A": "unparalleled",
+        "B": "unprecedented",
+        "C": "unmitigated",
+        "D": "unwarranted"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Select the word that describes something 'completely clear and transparent':",
+      "options": {
+        "A": "limpid",
+        "B": "lucent",
+        "C": "luminous",
+        "D": "lustrous"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Which word describes someone who is 'excessively compliant or submissive'?",
+      "options": {
+        "A": "obdurate",
+        "B": "obstinate",
+        "C": "obsequious",
+        "D": "obstreperous"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Choose the word that means 'a person or thing that is a perfect example of a particular quality or type':",
+      "options": {
+        "A": "paradigm",
+        "B": "paragon",
+        "C": "epitome",
+        "D": "exemplar"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Select the word that means 'threatening harm; menacing':",
+      "options": {
+        "A": "baleful",
+        "B": "benign",
+        "C": "banal",
+        "D": "beatific"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Which word describes something 'remarkably great in size, amount, or degree'?",
+      "options": {
+        "A": "prodigal",
+        "B": "prodigious",
+        "C": "prolific",
+        "D": "prominent"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Choose the word that means 'having knowledge or awareness':",
+      "options": {
+        "A": "coherent",
+        "B": "complacent",
+        "C": "cognizant",
+        "D": "circumspect"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Select the word that describes someone who is 'inclined to fight or be aggressive':",
+      "options": {
+        "A": "benevolent",
+        "B": "beneficent",
+        "C": "bellicose",
+        "D": "benign"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Which word describes someone who is 'showing great attention to detail or correct behavior'?",
+      "options": {
+        "A": "perspicacious",
+        "B": "perfunctory",
+        "C": "punctilious",
+        "D": "precarious"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Choose the word that means 'to make a forcefully reproachful protest':",
+      "options": {
+        "A": "recapitulate",
+        "B": "remonstrate",
+        "C": "reverberate",
+        "D": "ruminate"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Select the word that describes something 'lacking a plan, purpose, or enthusiasm':",
+      "options": {
+        "A": "diligent",
+        "B": "deliberate",
+        "C": "desultory",
+        "D": "diaphanous"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what is the primary function of the basal ganglia in habit formation?",
+      "options": {
+        "A": "Developing new neural connections",
+        "B": "Processing emotional responses to habits",
+        "C": "Enabling pattern recognition and automatic behavior execution",
+        "D": "Storing memories related to habit formation"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following is NOT mentioned as a component of the three-stage habit loop in paragraph 2?",
+      "options": {
+        "A": "Cue",
+        "B": "Routine",
+        "C": "Reinforcement",
+        "D": "Reward"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, what was found by the research at University College London regarding habit formation?",
+      "options": {
+        "A": "All habits take exactly 21 days to form",
+        "B": "The process can take between 18 and 254 days",
+        "C": "Complex behaviors form habits faster than simple ones",
+        "D": "Personality has no effect on habit formation speed"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "The passage states that habit substitution works by:",
+      "options": {
+        "A": "Creating entirely new neurological pathways",
+        "B": "Eliminating the cue that triggers the habit",
+        "C": "Changing the routine while maintaining the same cue and reward",
+        "D": "Removing the reward associated with the habit"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What does the passage suggest about the role of willpower in habit change?",
+      "options": {
+        "A": "It is the most important factor in changing habits",
+        "B": "It is irrelevant to the habit formation process",
+        "C": "Environmental design can reduce reliance on willpower",
+        "D": "Willpower automatically increases with habit repetition"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "Which of the following best describes the main purpose of the passage?",
+      "options": {
+        "A": "To argue for a specific approach to breaking bad habits",
+        "B": "To explain the neurological and psychological aspects of habit formation and change",
+        "C": "To compare different scientific theories about habit development",
+        "D": "To provide a historical overview of habit research"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to the passage, what is the relationship between habits and cognitive resources?",
+      "options": {
+        "A": "Habits require significant cognitive resources to maintain",
+        "B": "Habits deplete cognitive resources over time",
+        "C": "Habits conserve cognitive resources for more demanding tasks",
+        "D": "Cognitive resources are unrelated to habit performance"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What can be inferred about the author's view on the 21-day habit formation rule?",
+      "options": {
+        "A": "It is scientifically proven and reliable",
+        "B": "It is a misconception not supported by research",
+        "C": "It applies only to simple habits",
+        "D": "It was established by the University College London study"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "In paragraph 5, what strategy does the author suggest for making habit change easier?",
+      "options": {
+        "A": "Relying primarily on willpower",
+        "B": "Deliberately manipulating one's environment",
+        "C": "Focusing solely on changing the reward",
+        "D": "Eliminating all cues that trigger habits"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "Based on the passage, which of the following would likely be most effective for changing a habit of checking social media immediately after waking up?",
+      "options": {
+        "A": "Attempting to use pure willpower to resist checking",
+        "B": "Keeping the phone in another room overnight",
+        "C": "Setting a specific time later in the day for social media use",
+        "D": "Deleting all social media accounts permanently"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
