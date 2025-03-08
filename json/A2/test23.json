@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Earth has different climate zones. Some places are hot, some are cold, and others are mild. The climate of a place depends on how close it is to the equator, how high it is above sea level, and how near it is to an ocean. Climate affects the plants and animals that can live in each area. It also affects how people live their lives.<br><br>(2) Hot climate zones are near the equator. In these places, it is warm all year. Many tropical rainforests are in hot zones. People who live in hot climates often have houses with good air flow to stay cool. They may wear light clothes and eat foods that grow well in warm weather. Some hot places get a lot of rain, while others are very dry.<br><br>(3) Cold climate zones are near the North and South Poles. These areas have long, cold winters and short, cool summers. Not many plants can grow in cold climates because of the low temperatures. People in cold areas need warm clothes and houses with good heating. They often eat foods that can be stored for a long time. Many cold places have snow for several months each year.<br><br>(4) Mild climate zones are between hot and cold zones. These areas have four seasons: spring, summer, fall, and winter. The temperature changes throughout the year, but it is rarely extremely hot or cold. Many different types of plants and animals can live in mild climates. People in these areas often change their activities based on the season. They may swim in summer and ski in winter.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "She don't like coffee.",
+        "B": "She doesn't likes coffee.",
+        "C": "She not like coffee.",
+        "D": "She doesn't like coffee."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct past tense form: 'Yesterday, I ___ to the store.'",
+      "options": {
+        "A": "go",
+        "B": "went",
+        "C": "going",
+        "D": "goes"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the correct preposition: 'The book is ___ the table.'",
+      "options": {
+        "A": "at",
+        "B": "on",
+        "C": "in",
+        "D": "from"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which is the correct question form?",
+      "options": {
+        "A": "What time you go to bed?",
+        "B": "What time go you to bed?",
+        "C": "What time do you go to bed?",
+        "D": "What time does you go to bed?"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct article: 'I saw ___ elephant at the zoo.'",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article needed"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which sentence uses the correct plural form?",
+      "options": {
+        "A": "They have three childs.",
+        "B": "They have three child.",
+        "C": "They have three children.",
+        "D": "They have three childrens."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Select the correct comparative form: 'This box is ___ than that one.'",
+      "options": {
+        "A": "heavy",
+        "B": "more heavy",
+        "C": "heavyer",
+        "D": "heavier"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct possessive form: 'That is ___ house.'",
+      "options": {
+        "A": "they",
+        "B": "them",
+        "C": "their",
+        "D": "theirs"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence is in the present continuous tense?",
+      "options": {
+        "A": "She walks to school every day.",
+        "B": "She walked to school yesterday.",
+        "C": "She is walking to school now.",
+        "D": "She will walk to school tomorrow."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct modal verb: 'You ___ brush your teeth twice a day.'",
+      "options": {
+        "A": "should",
+        "B": "would",
+        "C": "could",
+        "D": "might"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Select the correct future form: 'I ___ my grandmother next weekend.'",
+      "options": {
+        "A": "visit",
+        "B": "visiting",
+        "C": "am going to visit",
+        "D": "visits"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence has the correct word order?",
+      "options": {
+        "A": "Often they go to the beach in summer.",
+        "B": "They often go to the beach in summer.",
+        "C": "They go often to the beach in summer.",
+        "D": "They go to the beach often in summer."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct form: 'There ___ a book on the desk.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "be",
+        "D": "am"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence uses 'too' correctly?",
+      "options": {
+        "A": "The soup is too hot for drink.",
+        "B": "The soup is too hot to drinking.",
+        "C": "The soup is too hot to drink.",
+        "D": "The soup is hot too to drink."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the correct verb form: 'She ___ TV when I called her.'",
+      "options": {
+        "A": "watch",
+        "B": "watches",
+        "C": "watching",
+        "D": "was watching"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the best expression to complete the sentence: 'Can you ___ the light, please? It's dark in here.'",
+      "options": {
+        "A": "turn on",
+        "B": "turn off",
+        "C": "turn up",
+        "D": "turn down"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the best word to complete this sentence: 'I'm hungry. Let's ___ lunch.'",
+      "options": {
+        "A": "do",
+        "B": "make",
+        "C": "have",
+        "D": "take"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Which phrase best completes this sentence? 'She couldn't come to the party ___ she was sick.'",
+      "options": {
+        "A": "because",
+        "B": "so",
+        "C": "but",
+        "D": "or"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct response to the question 'How was your weekend?'",
+      "options": {
+        "A": "I am 30 years old.",
+        "B": "I am from Canada.",
+        "C": "It was great, thanks.",
+        "D": "I am a student."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the best option to complete this question: 'Would you like ___ water?'",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "some",
+        "D": "many"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Which is the correct expression? 'Let's ___ a movie tonight.'",
+      "options": {
+        "A": "look",
+        "B": "see",
+        "C": "watch",
+        "D": "view"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Select the correct preposition: 'The class starts ___ 9 o'clock.'",
+      "options": {
+        "A": "in",
+        "B": "on",
+        "C": "by",
+        "D": "at"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Which phrase best completes this sentence? 'She plays tennis ___ Saturdays.'",
+      "options": {
+        "A": "in",
+        "B": "at",
+        "C": "on",
+        "D": "by"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct option: 'I need to ___ this letter to my friend.'",
+      "options": {
+        "A": "say",
+        "B": "tell",
+        "C": "speak",
+        "D": "send"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the correct option: 'I don't have ___ free time today.'",
+      "options": {
+        "A": "some",
+        "B": "many",
+        "C": "a",
+        "D": "any"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the correct meaning of 'line' in this sentence: 'Please write your name on this line.'",
+      "options": {
+        "A": "a long queue of people",
+        "B": "a mark or stroke that is long and thin",
+        "C": "a row of words in a text",
+        "D": "a telephone connection"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "What does the word 'life' mean in this sentence? 'Plants and animals have life.'",
+      "options": {
+        "A": "the period between birth and death",
+        "B": "energy and excitement",
+        "C": "the condition that separates living things from non-living things",
+        "D": "a biography of someone"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Choose the meaning of 'catch' in this sentence: 'He tried to catch the ball but missed.'",
+      "options": {
+        "A": "to get an illness",
+        "B": "to understand something",
+        "C": "to grab and hold something moving",
+        "D": "to arrive in time for something"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Select the correct sentence using 'come':",
+      "options": {
+        "A": "Can you come to my house tomorrow?",
+        "B": "I come this book from the library.",
+        "C": "She come the test last week.",
+        "D": "They come very expensive shoes."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "What does 'drop' mean in this sentence? 'Be careful not to drop that glass.'",
+      "options": {
+        "A": "to decrease in amount",
+        "B": "to let something fall",
+        "C": "to visit someone briefly",
+        "D": "to stop doing something"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Choose the correct usage of 'because':",
+      "options": {
+        "A": "I am because tired.",
+        "B": "Because I am tired, I will go to bed early.",
+        "C": "I because am tired.",
+        "D": "I am tired because."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "What does 'less' mean in this sentence? 'I have less money than you.'",
+      "options": {
+        "A": "a smaller amount of",
+        "B": "not any",
+        "C": "a larger amount of",
+        "D": "all of"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Which sentence uses 'draw' correctly?",
+      "options": {
+        "A": "The child can draw beautiful pictures.",
+        "B": "I draw my lunch quickly.",
+        "C": "She draws to school every day.",
+        "D": "They drew the movie last night."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What does 'style' refer to in this sentence? 'I like your style of dress.'",
+      "options": {
+        "A": "color",
+        "B": "size",
+        "C": "manner or way of doing something",
+        "D": "speed"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Choose the correct meaning of 'soon' in this sentence: 'The train will arrive soon.'",
+      "options": {
+        "A": "in a long time",
+        "B": "in a short time",
+        "C": "tomorrow",
+        "D": "yesterday"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Which sentence uses 'clear' correctly?",
+      "options": {
+        "A": "The sky is clear today with no clouds.",
+        "B": "She clear her homework every day.",
+        "C": "They clear to the park yesterday.",
+        "D": "I am clear twenty years old."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "What does 'move' mean in this sentence? 'We will move to a new house next month.'",
+      "options": {
+        "A": "to change position",
+        "B": "to go from one place to live in another",
+        "C": "to feel emotion",
+        "D": "to sell"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Choose the correct meaning of 'normal' in this sentence: 'It's normal to feel nervous before a test.'",
+      "options": {
+        "A": "unusual",
+        "B": "typical or expected",
+        "C": "wrong",
+        "D": "perfect"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Select the sentence that uses 'finger' correctly:",
+      "options": {
+        "A": "She has five fingers on each hand.",
+        "B": "I finger my homework yesterday.",
+        "C": "They finger to school every day.",
+        "D": "He fingers the movie very interesting."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "What does 'dark' mean in this sentence? 'It gets dark early in winter.'",
+      "options": {
+        "A": "with little or no light",
+        "B": "a strong color",
+        "C": "difficult to understand",
+        "D": "unhappy or sad"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what determines the climate of a place?",
+      "options": {
+        "A": "Only its distance from the equator",
+        "B": "The types of plants that grow there",
+        "C": "Its population size",
+        "D": "Its location relative to the equator, sea level, and oceans"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Based on the passage, which of these is TRUE about hot climate zones?",
+      "options": {
+        "A": "They are located near the poles.",
+        "B": "They have cold winters.",
+        "C": "They are located near the equator.",
+        "D": "They all have dry weather."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 2, people in hot climates often have houses with:",
+      "options": {
+        "A": "thick walls",
+        "B": "good air flow",
+        "C": "no windows",
+        "D": "underground rooms"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "The passage states that cold climate zones are located:",
+      "options": {
+        "A": "near the equator",
+        "B": "in the middle of continents",
+        "C": "near the North and South Poles",
+        "D": "near oceans"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to paragraph 3, what do people in cold areas need?",
+      "options": {
+        "A": "Light clothes",
+        "B": "Warm clothes and good heating",
+        "C": "Houses with good air flow",
+        "D": "Fresh food only"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What does the passage say about plants in cold climates?",
+      "options": {
+        "A": "Many different types can grow there.",
+        "B": "They grow very tall.",
+        "C": "Not many can grow there because of low temperatures.",
+        "D": "They are the same as plants in hot climates."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Based on the passage, mild climate zones have:",
+      "options": {
+        "A": "two seasons",
+        "B": "extremely hot summers",
+        "C": "extremely cold winters",
+        "D": "four seasons"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to paragraph 4, people in mild climate zones:",
+      "options": {
+        "A": "never change their activities",
+        "B": "change their activities based on the season",
+        "C": "only enjoy summer activities",
+        "D": "move to different places each season"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "The word 'affect' in paragraph 1 is closest in meaning to:",
+      "options": {
+        "A": "improve",
+        "B": "damage",
+        "C": "influence",
+        "D": "create"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the main purpose of this passage?",
+      "options": {
+        "A": "To explain how climate affects plant growth",
+        "B": "To compare houses in different regions",
+        "C": "To describe different climate zones on Earth",
+        "D": "To explain why people move to different climate zones"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
