@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Elizabeth I, daughter of Henry VIII and Anne Boleyn, ascended to the English throne in 1558 during a period of religious turmoil and economic instability. Her forty-five-year reign, often referred to as the Elizabethan era, would transform England from a relatively minor European state into an emerging global power. Upon inheriting the crown, she faced a depleted treasury, religious factions threatening civil unrest, and hostile continental powers poised to exploit any sign of weakness. Yet, through a combination of shrewd diplomacy, calculated decisiveness, and remarkable charisma, Elizabeth managed to not only stabilize her realm but also foster conditions that would eventually enable British imperial expansion.<br><br>(2) Perhaps Elizabeth's most consequential early decision was the establishment of a moderate Protestant church that, while alienating extremists on both sides of the religious divide, ultimately created enough religious cohesion to prevent the devastating religious wars that ravaged continental Europe. This religious settlement, formalized in the Act of Supremacy and the Act of Uniformity of 1559, positioned Elizabeth as the Supreme Governor of the Church of England and established a distinctly English form of Protestantism. Though privately she may have held more conservative religious views, Elizabeth famously declared she had \"no desire to make windows into men's souls,\" preferring outward conformity to inquisitorial enforcement of doctrine, a pragmatic approach that gradually strengthened national unity.<br><br>(3) The defeat of the Spanish Armada in 1588 represents perhaps the most iconic moment of Elizabeth's reign. King Philip II of Spain, the most powerful monarch in Europe and a staunch Catholic, launched what he believed would be a decisive invasion to depose Elizabeth and restore Catholicism to England. The stunning English victory against overwhelming odds not only secured Protestant rule but also significantly damaged Spanish prestige while elevating England's international standing. This triumph against the premier European power emboldened English maritime ambitions and accelerated overseas ventures that had been cautiously developing throughout Elizabeth's reign.<br><br>(4) Throughout her rule, Elizabeth skillfully cultivated the growth of English naval capabilities and commercial enterprises that would later prove instrumental in empire-building. She encouraged seafarers like Sir Francis Drake, Sir Walter Raleigh, and Sir John Hawkins in their expeditions, which combined exploration, trade, and sometimes outright piracy against Spanish shipping. The Queen sanctioned early colonial ventures, including Raleigh's ill-fated Roanoke Colony in North America, and granted royal charters to trading companies that would later spearhead imperial expansion, most notably the East India Company founded in 1600, which would eventually conquer much of the Indian subcontinent.<br><br>(5) Beyond military and economic developments, Elizabeth fostered a cultural renaissance that strengthened English national identity and self-confidence. The flourishing of literature, theater, and the arts during this period—exemplified by the works of Shakespeare, Marlowe, and Spenser—celebrated English language and history while exploring themes of discovery, conquest, and national destiny. This cultural efflorescence complemented the growing martial and commercial prowess of Elizabethan England, creating a sense of exceptional national purpose that would later fuel imperial ambitions. When Elizabeth died in 1603, she left no direct heir, but bequeathed to her Stuart successors a nation transformed—unified, prosperous, increasingly powerful on the seas, and poised to embark upon centuries of colonial expansion that would ultimately create the largest empire in world history.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following correctly uses the present perfect continuous tense?",
+      "options": {
+        "A": "She studied for six hours yesterday.",
+        "B": "She has been studying for six hours.",
+        "C": "She is studying for six hours.",
+        "D": "She will have studied for six hours."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the sentence with the correct subject-verb agreement.",
+      "options": {
+        "A": "Neither the students nor the teacher are prepared for the exam.",
+        "B": "Either the Principal or his assistants is going to attend the ceremony.",
+        "C": "The committee have decided against the proposal.",
+        "D": "Neither of the candidates was able to answer the question correctly."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence demonstrates correct use of the subjunctive mood?",
+      "options": {
+        "A": "If I was you, I would accept the offer immediately.",
+        "B": "I wish I am able to attend the conference next week.",
+        "C": "The professor insisted that the student submits his thesis by Friday.",
+        "D": "The committee recommended that he be appointed to the position."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Identify the sentence containing an infinitive phrase used as an adverbial modifier.",
+      "options": {
+        "A": "To win the championship was his lifelong dream.",
+        "B": "The company needs to hire more staff immediately.",
+        "C": "She rushed to catch the last train home.",
+        "D": "The book to read is on the top shelf."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Which sentence employs the correct form of the conditional?",
+      "options": {
+        "A": "If she would have studied harder, she would have passed the exam.",
+        "B": "If they arrived early, they would get good seats.",
+        "C": "Had I known about the problem, I would have fixed it yesterday.",
+        "D": "Unless you will complete the assignment, you cannot pass the course."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the sentence with the correct use of parallel structure.",
+      "options": {
+        "A": "The professor not only praised the essay's structure but also its innovative argument.",
+        "B": "She enjoys swimming, hiking, and to ride her bicycle on weekends.",
+        "C": "The CEO demanded increased productivity, better quality, and that costs should be reduced.",
+        "D": "The ambassador was known for his eloquence, his diplomacy, and his commitment to peace."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Identify the sentence with correct punctuation of a non-restrictive clause.",
+      "options": {
+        "A": "My brother who lives in Seattle is visiting next month.",
+        "B": "The newest model, which features advanced safety systems is now available.",
+        "C": "The painting, which was recently restored, dates back to the 16th century.",
+        "D": "Students, who complete all assignments on time will receive extra credit."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the sentence that uses the passive voice correctly.",
+      "options": {
+        "A": "The essay must be submitted by midnight by all students.",
+        "B": "They were appreciated for their contributions to the project.",
+        "C": "The experiment being conducted by the scientists last week.",
+        "D": "The suspect was arrested and questioned him for hours."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence correctly uses a past participle as an adjective?",
+      "options": {
+        "A": "The breaking glass created a loud noise.",
+        "B": "We were surprise by the announcement.",
+        "C": "The stolen artifacts were eventually recovered.",
+        "D": "They writing a detailed report on the findings."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Select the sentence with the correct use of a gerund phrase as a subject.",
+      "options": {
+        "A": "To swim in cold water is invigorating.",
+        "B": "Practicing regularly improves performance significantly.",
+        "C": "She prefers dancing over singing in public.",
+        "D": "They decided going to the mountains instead."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Which sentence uses a prepositional phrase as an adjectival modifier?",
+      "options": {
+        "A": "They walked through the forest at a brisk pace.",
+        "B": "The book on the table belongs to my professor.",
+        "C": "Despite the rain, they continued their hike.",
+        "D": "By midnight, all guests had departed from the reception."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Identify the sentence with the correct use of the perfect infinitive.",
+      "options": {
+        "A": "She claims to been studying for hours.",
+        "B": "The director appears having left the meeting early.",
+        "C": "He is believed to have solved the complex equation.",
+        "D": "We hoped to had arrived before the ceremony began."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Which sentence demonstrates correct use of an adverbial clause of concession?",
+      "options": {
+        "A": "Because it was raining, we canceled the outdoor event.",
+        "B": "When the results were announced, everyone cheered loudly.",
+        "C": "Although he prepared thoroughly, he did not perform well on the exam.",
+        "D": "If you finish early, you may leave the room quietly."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Select the sentence with the correct use of a nominative absolute phrase.",
+      "options": {
+        "A": "Walking briskly, she managed to catch the bus.",
+        "B": "The project completed, the team celebrated their success.",
+        "C": "To finish on time, they worked through the weekend.",
+        "D": "She left the room, slamming the door behind her."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Which sentence correctly uses inversion for emphasis?",
+      "options": {
+        "A": "Never have I witnessed such an extraordinary performance.",
+        "B": "I have never witnessed such an extraordinary performance.",
+        "C": "Such an extraordinary performance I have never witnessed.",
+        "D": "Witnessed I have never such an extraordinary performance."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Select the most appropriate word to complete the sentence: 'The committee's decision to reject the proposal was _____ by financial constraints.'",
+      "options": {
+        "A": "influenced",
+        "B": "dictated",
+        "C": "demanded",
+        "D": "requested"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct phrasal verb to complete the sentence: 'After years of struggling with the problem, scientists finally _____ a solution.'",
+      "options": {
+        "A": "came across",
+        "B": "came up with",
+        "C": "came over",
+        "D": "came about"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the appropriate idiom to complete the sentence: 'The new employee is very enthusiastic but lacks experience; she'll have to _____ before taking on major responsibilities.'",
+      "options": {
+        "A": "face the music",
+        "B": "learn the ropes",
+        "C": "cut corners",
+        "D": "beat around the bush"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct expression to complete the sentence: 'The relationship between the two countries has deteriorated to such an extent that war seems _____ unless diplomatic efforts are redoubled.'",
+      "options": {
+        "A": "out of the question",
+        "B": "beyond the pale",
+        "C": "all but inevitable",
+        "D": "beside the point"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the most appropriate collocation to complete the sentence: 'The research team _____ an experiment to test their hypothesis.'",
+      "options": {
+        "A": "performed",
+        "B": "made",
+        "C": "conducted",
+        "D": "did"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the appropriate expression to complete the sentence: 'His arguments were so compelling that the opposition found it difficult to _____ his conclusions.'",
+      "options": {
+        "A": "refute",
+        "B": "refuse",
+        "C": "reject",
+        "D": "repel"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Select the most appropriate word to complete the sentence: 'Despite numerous _____ from local residents, the city council approved the controversial development project.'",
+      "options": {
+        "A": "complaints",
+        "B": "objections",
+        "C": "rejections",
+        "D": "denials"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct idiomatic expression to complete the sentence: 'The company needs to _____ if it wants to remain competitive in today's rapidly changing market.'",
+      "options": {
+        "A": "keep tabs on",
+        "B": "keep up with the times",
+        "C": "keep at bay",
+        "D": "keep in mind"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Select the most appropriate phrasal verb to complete the sentence: 'The newly appointed CEO plans to _____ significant changes to the company's organizational structure.'",
+      "options": {
+        "A": "bring about",
+        "B": "bring up",
+        "C": "bring in",
+        "D": "bring down"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct expression to complete the sentence: 'The government's decision to increase taxes has _____ criticism from various sectors of society.'",
+      "options": {
+        "A": "attracted",
+        "B": "drawn",
+        "C": "gained",
+        "D": "received"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What does the word 'latent' mean in the sentence: 'The researcher discovered latent fingerprints that had been overlooked during the initial investigation.'?",
+      "options": {
+        "A": "smudged",
+        "B": "faint",
+        "C": "hidden or dormant",
+        "D": "deliberate"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the word that best completes the sentence: 'Given the _____ circumstances, the emergency response team was deployed immediately to handle the crisis.'",
+      "options": {
+        "A": "nominal",
+        "B": "exigent",
+        "C": "ambiguous",
+        "D": "convoluted"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What is the meaning of 'tacit' in the sentence: 'There was a tacit understanding among the committee members about how to proceed with the controversial project.'?",
+      "options": {
+        "A": "formal",
+        "B": "explicit",
+        "C": "reluctant",
+        "D": "understood without being stated"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Select the definition that best matches the word 'impassive':",
+      "options": {
+        "A": "easily influenced",
+        "B": "showing no emotion",
+        "C": "impulsive",
+        "D": "passionate"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the word that best completes the sentence: 'The opposition leader began to _____ against the government's new policies during his speech at the rally.'",
+      "options": {
+        "A": "deliberate",
+        "B": "capitulate",
+        "C": "equivocate",
+        "D": "fulminate"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "What does 'ratiocination' refer to?",
+      "options": {
+        "A": "a form of meditation",
+        "B": "a logical reasoning process",
+        "C": "rapid calculation",
+        "D": "emotional decision-making"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Choose the word that best completes the sentence: 'Despite the serious nature of the meeting, his _____ remarks helped to lighten the mood.'",
+      "options": {
+        "A": "solemn",
+        "B": "jocular",
+        "C": "perfunctory",
+        "D": "acerbic"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "What is the meaning of 'bereft' in the sentence: 'After losing both parents in the accident, the children were bereft of any family support.'?",
+      "options": {
+        "A": "deprived of or lacking",
+        "B": "confused about",
+        "C": "grateful for",
+        "D": "uncertain of"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Select the definition that best matches the word 'sinecure':",
+      "options": {
+        "A": "a difficult position with many responsibilities",
+        "B": "a position requiring specialized knowledge",
+        "C": "a paid position requiring little or no work",
+        "D": "an honorary title without payment"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "What does the word 'infamous' mean?",
+      "options": {
+        "A": "unknown",
+        "B": "renowned for good qualities",
+        "C": "well-known for something bad",
+        "D": "mysterious"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Choose the word that best completes the sentence: 'The battlefield was a scene of _____ after the fierce fighting had ended.'",
+      "options": {
+        "A": "jubilation",
+        "B": "serenity",
+        "C": "carnage",
+        "D": "reconciliation"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "What is the meaning of 'subservient' in the sentence: 'The monarchy became increasingly subservient to the elected parliament throughout the 19th century.'?",
+      "options": {
+        "A": "dominant over",
+        "B": "subordinate or submissive to",
+        "C": "independent from",
+        "D": "antagonistic toward"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Select the definition that best matches the word 'complacent':",
+      "options": {
+        "A": "showing smug self-satisfaction",
+        "B": "exhibiting extreme anxiety",
+        "C": "demonstrating exceptional competence",
+        "D": "displaying genuine humility"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Choose the word that best completes the sentence: 'He hoped that his years of community service would _____ the mistakes of his youth.'",
+      "options": {
+        "A": "validate",
+        "B": "exacerbate",
+        "C": "exemplify",
+        "D": "expiate"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "What does the word 'levity' mean in the sentence: 'The chairman felt that too much levity during the crisis meeting was inappropriate given the gravity of the situation.'?",
+      "options": {
+        "A": "tension",
+        "B": "lightness or humor",
+        "C": "analysis",
+        "D": "formality"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, Elizabeth I came to power during a time of:",
+      "options": {
+        "A": "prosperity and religious harmony",
+        "B": "religious turmoil and economic instability",
+        "C": "military expansion and colonial growth",
+        "D": "cultural renaissance and artistic development"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "The passage suggests that Elizabeth's approach to religious governance was characterized by:",
+      "options": {
+        "A": "strict enforcement of Catholic doctrine",
+        "B": "aggressive persecution of religious minorities",
+        "C": "pragmatic moderation that valued outward conformity",
+        "D": "complete religious freedom for all denominations"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "The author implies that the defeat of the Spanish Armada was significant because it:",
+      "options": {
+        "A": "established England as the dominant European power",
+        "B": "led to immediate colonial acquisitions in the Americas",
+        "C": "restored Catholicism to England",
+        "D": "elevated England's international standing and emboldened maritime ambitions"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Based on paragraph 4, which of the following accurately describes Elizabeth's role in early English imperialism?",
+      "options": {
+        "A": "She personally led colonial expeditions to the Americas",
+        "B": "She discouraged overseas ventures as too risky",
+        "C": "She encouraged explorers and granted royal charters to trading companies",
+        "D": "She focused exclusively on European territorial expansion"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "The passage characterizes the cultural developments of Elizabeth's reign as:",
+      "options": {
+        "A": "primarily religious in nature",
+        "B": "contributing to a strengthened national identity",
+        "C": "focused mainly on scientific advancement",
+        "D": "detrimental to imperial ambitions"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "Which of the following is NOT mentioned as a challenge Elizabeth faced upon ascending to the throne?",
+      "options": {
+        "A": "A depleted treasury",
+        "B": "Religious factions threatening civil unrest",
+        "C": "Hostile continental powers",
+        "D": "Colonial rebellions"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to the passage, what distinguished Elizabeth's religious policy from those in continental Europe?",
+      "options": {
+        "A": "It imposed a single state religion with no tolerance for dissenters",
+        "B": "It prevented the devastating religious wars that affected other countries",
+        "C": "It established Catholicism as the only permitted faith",
+        "D": "It separated church governance entirely from state control"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The passage suggests that English maritime activities during Elizabeth's reign included:",
+      "options": {
+        "A": "exclusively peaceful trading missions",
+        "B": "primarily defensive naval operations",
+        "C": "a combination of exploration, trade, and piracy",
+        "D": "unsuccessful attempts at naval development"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "The author's primary purpose in this passage is to:",
+      "options": {
+        "A": "compare Elizabeth I's reign with other European monarchs of the period",
+        "B": "argue that Elizabeth I was England's most capable monarch",
+        "C": "explain how Elizabeth I's policies and achievements laid foundations for later imperial expansion",
+        "D": "detail the personal life and character of Elizabeth I"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "The passage indicates that when Elizabeth died in 1603, England was:",
+      "options": {
+        "A": "already the dominant global imperial power",
+        "B": "unified, increasingly powerful at sea, and poised for colonial expansion",
+        "C": "politically fragmented and economically weakened",
+        "D": "engaged in major conflicts with its European neighbors"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
