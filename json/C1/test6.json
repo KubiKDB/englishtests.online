@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Alexander III of Macedon, commonly known as Alexander the Great, was a military genius who, by the age of thirty, had created one of the largest empires in ancient history. His conquests, which spanned from Greece to northwestern India, were remarkable not only for their vast geographical scope but also for how they fundamentally altered the cultural landscape of the regions he subjugated. During his thirteen-year reign as king, Alexander's military prowess was matched only by his strategic vision for a unified empire where diverse cultures could thrive under a singular administrative framework.<br><br>(2) Alexander's approach to conquest differed significantly from his predecessors. Rather than merely imposing Macedonian rule and customs upon conquered territories, he implemented a sophisticated policy of cultural integration. This strategy involved maintaining local governance structures while simultaneously introducing Hellenistic elements, thereby creating a hybrid administrative system that respected indigenous traditions while promoting Greek ideals. In Persia, for instance, Alexander retained numerous Persian officials in their positions, adopted elements of Persian court ceremony, and even married Roxana, a Bactrian princess, to symbolize the fusion of Eastern and Western aristocracies.<br><br>(3) The establishment of cities was another cornerstone of Alexander's cultural integration policy. He founded approximately twenty cities bearing his name, with Alexandria in Egypt becoming the most prominent. These urban centers were strategically positioned along trade routes and designed to be cosmopolitan melting pots where Greek settlers, local inhabitants, and merchants from distant regions could interact and exchange ideas. Through these cities, Hellenistic culture—including Greek language, philosophy, architecture, and artistic conventions—spread throughout the conquered territories, creating a cultural koine or common framework that transcended regional boundaries.<br><br>(4) Alexander's educational initiatives further exemplified his commitment to cultural synthesis. He arranged for thousands of Persian youths to receive Greek education and military training, preparing them for future roles in his diversified army and administration. Simultaneously, he encouraged his Macedonian officers to learn Persian customs and languages, even adopting Persian dress himself on ceremonial occasions. This bilateral approach to cultural education fostered mutual respect and understanding between conquerors and conquered, diminishing potential resistance and facilitating smoother governance across the vast empire.<br><br>(5) The legacy of Alexander's cultural integration policies outlived his premature death in 323 BCE. The Hellenistic period that followed was characterized by an unprecedented intermingling of Greek, Egyptian, Persian, and Indian cultural elements in art, religion, philosophy, and science. While his empire fragmented politically under his successors, the cultural fusion he initiated persisted for centuries, laying the groundwork for future cross-cultural exchanges along the Silk Road and influencing the development of Byzantine, Islamic, and Western civilizations. In this respect, Alexander's most enduring conquest was not territorial but cultural—a testament to his vision that transcended mere military dominance.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is grammatically correct?",
+      "options": {
+        "A": "Neither of the students have completed their assignments yet.",
+        "B": "Neither of the students has completed their assignments yet.",
+        "C": "Neither of the students have completed his assignments yet.",
+        "D": "Neither of the students has completed his assignments yet."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the sentence with the correct use of the subjunctive mood:",
+      "options": {
+        "A": "I wish I was able to attend the conference last week.",
+        "B": "If I would have known about the meeting, I would have prepared a presentation.",
+        "C": "It is essential that he submits his application before Friday.",
+        "D": "The professor insisted that each student prepare a research proposal."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Choose the grammatically correct sentence:",
+      "options": {
+        "A": "Had I known about the changes in schedule, I would of arrived earlier.",
+        "B": "The data shows that consumer spending has decreased by fifteen percent.",
+        "C": "The number of participants are expected to exceed two hundred.",
+        "D": "A series of experiments was conducted to test the hypothesis."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence correctly uses inversion for emphasis?",
+      "options": {
+        "A": "Never I have seen such a spectacular performance.",
+        "B": "Seldom does the committee reach unanimous decisions.",
+        "C": "Rarely the professor cancels lectures without prior notice.",
+        "D": "Hardly she had arrived when the ceremony began."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Identify the correct use of the past perfect continuous tense:",
+      "options": {
+        "A": "She had been working on the project for six months before funding was cut.",
+        "B": "She has been working on the project for six months before funding was cut.",
+        "C": "She had worked on the project for six months before funding was cut.",
+        "D": "She was working on the project for six months before funding was cut."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Choose the sentence with the correct use of articles:",
+      "options": {
+        "A": "The professor gave a useful advice about writing thesis.",
+        "B": "She has made the significant progress in her research on the climate change.",
+        "C": "He's studying the history of art at an prestigious university in Europe.",
+        "D": "The committee reached a unanimous decision after an hour-long debate."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Select the sentence with the correct use of parallel structure:",
+      "options": {
+        "A": "The new policy aims to increase productivity, reduce costs, and employee satisfaction.",
+        "B": "The researcher not only analyzed the data but also was writing the conclusion.",
+        "C": "She enjoys swimming, hiking, and to read historical novels.",
+        "D": "The company is committed to developing innovative products, improving customer service, and reducing environmental impact."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Which sentence correctly uses a participle clause?",
+      "options": {
+        "A": "Having completed his presentation, the audience applauded enthusiastically.",
+        "B": "Walking through the campus, the architecture impressed the visitors.",
+        "C": "Recognized for her contributions to the field, the scientist was awarded a prestigious grant.",
+        "D": "While crossing the street, the bus nearly hit the pedestrian."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which of the following uses the correct form of the conditional?",
+      "options": {
+        "A": "If the government would have implemented stricter regulations, the crisis might have been averted.",
+        "B": "Had the government implemented stricter regulations, the crisis might have been averted.",
+        "C": "If the government had implemented stricter regulations, the crisis might had been averted.",
+        "D": "Unless the government implemented stricter regulations, the crisis might not have been averted."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Select the sentence with the correct use of gerunds and infinitives:",
+      "options": {
+        "A": "The committee decided postponing the vote until additional data becomes available.",
+        "B": "She remembered to lock the laboratory door before leaving the building.",
+        "C": "The participants agreed discussing the findings at the next conference.",
+        "D": "The professor encouraged to submit preliminary results before the deadline."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Which sentence demonstrates correct subject-verb agreement with collective nouns?",
+      "options": {
+        "A": "The faculty is divided in their opinions on the new curriculum.",
+        "B": "The orchestra have been practicing for the upcoming performance.",
+        "C": "The jury has reached its verdict after three days of deliberation.",
+        "D": "The committee are still debating the proposed amendments."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Choose the sentence with correct noun clause usage:",
+      "options": {
+        "A": "The professor explained that why the experiment had failed.",
+        "B": "Whether the hypothesis is valid remains to be determined.",
+        "C": "She couldn't remember where did she leave her research notes.",
+        "D": "They were uncertain that if the results were statistically significant."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Identify the sentence with the correct use of the passive voice:",
+      "options": {
+        "A": "The new laboratory equipment was delivering last week.",
+        "B": "The research findings have been publishing in several academic journals.",
+        "C": "It is widely believed that the theory will be proving incorrect.",
+        "D": "The data were collected over a six-month period and analyzed using statistical software."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence correctly uses reported speech?",
+      "options": {
+        "A": "The professor said that the exam will be postponed until next week.",
+        "B": "She asked me if I have completed the assignment yet.",
+        "C": "The researcher explained that the results might not be applicable to all populations.",
+        "D": "He told us that he is working on a new project since last month."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the sentence with the correct use of adverbial clauses:",
+      "options": {
+        "A": "Despite we had limited resources, the project was completed on schedule.",
+        "B": "The participants responded more positively than we had anticipated.",
+        "C": "Although having extensive experience, the candidate did not perform well in the interview.",
+        "D": "The committee will reconvene when the chairman will return from the conference."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the most appropriate phrase to complete the sentence: 'The researchers encountered several obstacles during the experiment, but they were determined to _____ with their investigation.'",
+      "options": {
+        "A": "press ahead",
+        "B": "come across",
+        "C": "bring about",
+        "D": "put off"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the correct phrasal verb to complete the sentence: 'After careful consideration, the committee decided to _____ the proposal until more data could be gathered.'",
+      "options": {
+        "A": "put up with",
+        "B": "turn down",
+        "C": "look into",
+        "D": "come up with"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Which expression best completes the sentence: 'The discovery of new evidence _____ serious doubts about the validity of the original hypothesis.'",
+      "options": {
+        "A": "took place",
+        "B": "made up",
+        "C": "cast doubt",
+        "D": "called into question"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the most appropriate idiom to complete the sentence: 'The conference presentation was _____ for the researcher, who had spent years developing the theory that was now being challenged.'",
+      "options": {
+        "A": "a blessing in disguise",
+        "B": "a piece of cake",
+        "C": "a bitter pill to swallow",
+        "D": "the best of both worlds"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the most appropriate collocation to complete the sentence: 'The professor _____ criticism of her methodology by providing additional evidence to support her conclusions.'",
+      "options": {
+        "A": "faced up",
+        "B": "addressed",
+        "C": "confronted with",
+        "D": "argued"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the correct expression to complete the sentence: 'Environmental concerns have _____ prominence in political discourse over the past decade.'",
+      "options": {
+        "A": "brought into",
+        "B": "taken on",
+        "C": "carried out",
+        "D": "put up"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Select the most appropriate phrasal verb to complete the sentence: 'The government has pledged to _____ new regulations to address the growing environmental crisis.'",
+      "options": {
+        "A": "bring in",
+        "B": "take after",
+        "C": "look up to",
+        "D": "get away with"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the most suitable expression to complete the sentence: 'The researchers were unable to _____ a conclusive explanation for the anomalous results.'",
+      "options": {
+        "A": "account for",
+        "B": "come across",
+        "C": "go through with",
+        "D": "bring about"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Select the most appropriate idiom to complete the sentence: 'Publishing the controversial findings was a _____ for the young scientist, but she believed in the importance of academic integrity.'",
+      "options": {
+        "A": "drop in the ocean",
+        "B": "blessing in disguise",
+        "C": "leap of faith",
+        "D": "wild goose chase"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct expression to complete the sentence: 'The ethical implications of the new technology _____ heated debate among experts in the field.'",
+      "options": {
+        "A": "stood for",
+        "B": "set off",
+        "C": "brought up",
+        "D": "took after"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "The word 'taciturn' most closely means:",
+      "options": {
+        "A": "eloquent and expressive",
+        "B": "reserved and uncommunicative",
+        "C": "optimistic and cheerful",
+        "D": "irritable and short-tempered"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the word that best completes the sentence: 'The committee's _____ approach to budget allocation led to inconsistent funding across departments.'",
+      "options": {
+        "A": "methodical",
+        "B": "haphazard",
+        "C": "deliberate",
+        "D": "equitable"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Select the word that most accurately completes the sentence: 'Researchers identified _____ signs of the disease before symptoms became apparent to patients.'",
+      "options": {
+        "A": "terminal",
+        "B": "chronic",
+        "C": "residual",
+        "D": "incipient"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "The term 'profligate' is best defined as:",
+      "options": {
+        "A": "careful and prudent with resources",
+        "B": "modest and restrained in behavior",
+        "C": "recklessly extravagant and wasteful",
+        "D": "intellectually rigorous and disciplined"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the word that best completes the sentence: 'Living in _____ poverty, the refugees had no access to basic necessities such as clean water and adequate shelter.'",
+      "options": {
+        "A": "relative",
+        "B": "abject",
+        "C": "occasional",
+        "D": "temporary"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Select the word that most accurately completes the sentence: 'Despite facing numerous challenges, the company maintained a _____ financial position throughout the economic downturn.'",
+      "options": {
+        "A": "tenuous",
+        "B": "precarious",
+        "C": "volatile",
+        "D": "robust"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "The word 'pariah' most closely means:",
+      "options": {
+        "A": "respected leader",
+        "B": "unwelcome outsider",
+        "C": "trusted advisor",
+        "D": "neutral mediator"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Choose the word that best completes the sentence: 'The critic's _____ toward contemporary art was evident in his scathing reviews of recent exhibitions.'",
+      "options": {
+        "A": "affinity",
+        "B": "indifference",
+        "C": "antipathy",
+        "D": "reverence"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Select the word that most accurately completes the sentence: 'The scholar argued that the novel was largely _____, borrowing heavily from earlier literary traditions without substantial innovation.'",
+      "options": {
+        "A": "authentic",
+        "B": "groundbreaking",
+        "C": "provocative",
+        "D": "derivative"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "The term 'banal' is best defined as:",
+      "options": {
+        "A": "thought-provoking and insightful",
+        "B": "so lacking in originality as to be obvious and boring",
+        "C": "obscure and difficult to understand",
+        "D": "controversial and provocative"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Choose the word that best completes the sentence: 'The investment advisor attempted to _____ elderly clients out of their retirement savings through an elaborate Ponzi scheme.'",
+      "options": {
+        "A": "reward",
+        "B": "compensate",
+        "C": "bilk",
+        "D": "educate"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Select the word that most accurately completes the sentence: 'The ancient _____ beneath the city contained a complex network of tunnels that archaeologists had yet to fully explore.'",
+      "options": {
+        "A": "sanctuary",
+        "B": "monument",
+        "C": "labyrinth",
+        "D": "citadel"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "The word 'subjugate' most closely means:",
+      "options": {
+        "A": "to elevate or promote",
+        "B": "to liberate or emancipate",
+        "C": "to bring under domination or control",
+        "D": "to analyze or examine critically"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Choose the word that best completes the sentence: 'The politician faced public _____ after the scandal revealed his misuse of campaign funds.'",
+      "options": {
+        "A": "acclaim",
+        "B": "indifference",
+        "C": "opprobrium",
+        "D": "endorsement"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Select the word that most accurately completes the sentence: 'Due to the drought, farmers harvested a _____ crop that was insufficient to meet local demand.'",
+      "options": {
+        "A": "bountiful",
+        "B": "substantial",
+        "C": "surplus",
+        "D": "meager"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what distinguished Alexander the Great besides his military conquests?",
+      "options": {
+        "A": "His unprecedented wealth and opulence",
+        "B": "His strategic vision for a unified empire",
+        "C": "His diplomatic relations with neighboring kingdoms",
+        "D": "His architectural contributions to Greek cities"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Which statement best describes Alexander's approach to governing conquered territories as mentioned in paragraph 2?",
+      "options": {
+        "A": "He completely replaced local governance with Macedonian officials",
+        "B": "He implemented a hybrid system that combined local traditions with Greek elements",
+        "C": "He allowed conquered territories complete autonomy in self-governance",
+        "D": "He instituted a purely Hellenistic administration across all regions"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "The word 'cosmopolitan' in paragraph 3 most nearly means:",
+      "options": {
+        "A": "Economically prosperous",
+        "B": "Militarily strategic",
+        "C": "Including people from many different countries",
+        "D": "Architecturally impressive"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "What purpose did the cities founded by Alexander serve according to the passage?",
+      "options": {
+        "A": "They were primarily military outposts to maintain control over conquered territories",
+        "B": "They served exclusively as trade centers to generate revenue for the empire",
+        "C": "They functioned as cultural melting pots strategically positioned along trade routes",
+        "D": "They were built as monuments to commemorate Alexander's military victories"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "The author uses the term 'bilateral approach' in paragraph 4 to refer to:",
+      "options": {
+        "A": "Alexander's diplomatic treaties with neighboring kingdoms",
+        "B": "The two-way cultural education between Macedonians and Persians",
+        "C": "The division of the empire into eastern and western regions",
+        "D": "The military strategy of attacking from two directions"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "Which of the following can be inferred from paragraph 4 about Alexander's educational initiatives?",
+      "options": {
+        "A": "They were primarily designed to spread Greek philosophy and science",
+        "B": "They focused exclusively on teaching Greek language to conquered peoples",
+        "C": "They aimed to create a unified military force with standardized training",
+        "D": "They fostered mutual respect that facilitated governance across the empire"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to the passage, what aspect of Alexander's legacy outlived his empire?",
+      "options": {
+        "A": "His military tactics and strategies",
+        "B": "His political administrative structures",
+        "C": "The cultural integration he initiated",
+        "D": "The economic systems he established"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The passage characterizes the Hellenistic period following Alexander's death as:",
+      "options": {
+        "A": "A time of political stability and centralized governance",
+        "B": "An era of unprecedented cultural intermingling despite political fragmentation",
+        "C": "A period of military expansion beyond Alexander's original conquests",
+        "D": "An age dominated by Persian cultural influence throughout the former empire"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Which of the following best expresses the main idea of the passage?",
+      "options": {
+        "A": "Alexander the Great's military conquests created the largest empire in ancient history",
+        "B": "Alexander's administrative systems were superior to those of previous rulers",
+        "C": "Alexander's cultural integration policies had a more lasting impact than his military conquests",
+        "D": "The cities founded by Alexander served as the foundation for modern urban planning"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "The author's attitude toward Alexander's cultural integration policies can best be described as:",
+      "options": {
+        "A": "Critical of their imposition of Greek culture on indigenous populations",
+        "B": "Impressed by their innovative approach and long-lasting influence",
+        "C": "Skeptical about their effectiveness in creating true cultural harmony",
+        "D": "Neutral in assessing their historical significance"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
