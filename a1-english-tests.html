@@ -406,9 +406,10 @@
         for (let i = 1; i <= 50; i++) {
             const square = document.createElement('div');
             square.classList.add('test-square');
+            // square.href = `https://kubikdb.github.io/test-english-level/b2?level=${i}`; // Set the link URL
             square.textContent = i;
             // You can add an onclick event to each square if needed
-            // square.onclick = function() { window.location.href = 'test' + i + '.html'; };
+            square.onclick = function() { window.location.href = `https://englishtests.online/test-page?diff=A1&level=${i}`; };
             gridContainer.appendChild(square);
         }
     </script>
