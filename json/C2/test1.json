@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The accelerating integration of automation technologies into economic systems has precipitated profound transformations in global labor markets, challenging conventional understandings of employment, compensation, and workforce development. While technological innovation has historically generated new employment opportunities even as it eliminated others, the contemporary wave of automation—characterized by advances in artificial intelligence, machine learning, and robotics—appears qualitatively different in both its pace and scope. These technologies increasingly demonstrate capabilities to perform not only routine physical tasks but also cognitive functions previously considered uniquely human, raising unprecedented questions about the future composition of labor markets.<br><br>(2) Economic analyses of automation's impact reveal complex and sometimes contradictory patterns that resist simplistic narratives of either technological utopianism or dystopian mass unemployment. Productivity gains from automation can generate wealth that theoretically benefits society broadly, yet empirical evidence suggests that such benefits have been distributed unevenly, with technological displacement disproportionately affecting middle-skill occupations. This 'hollowing out' of labor markets has contributed to wage polarization between high-skill knowledge workers and those in non-routine manual occupations resistant to automation, while simultaneously suppressing wage growth for workers competing directly with automated systems.<br><br>(3) The social implications of technological displacement extend beyond economic metrics to encompass profound questions of identity, purpose, and social cohesion. Work provides not merely income but also structure, meaning, and community for many individuals. The psychological impact of technological unemployment can manifest in diminished self-worth, increased social isolation, and political disillusionment. These consequences have already become visible in communities experiencing rapid deindustrialization, where the erosion of traditional employment opportunities has corresponded with increases in substance abuse, family instability, and populist political movements expressing economic grievances.<br><br>(4) Policy responses to automation-driven labor market disruption have emerged across ideological and geographical boundaries, though their efficacy remains contested. Educational initiatives emphasizing adaptability and lifelong learning seek to equip workers with skills complementary to automated systems rather than in competition with them. Labor market interventions including portable benefits systems, universal basic income proposals, and work-sharing arrangements attempt to distribute remaining employment opportunities more equitably while providing economic security. Regulatory approaches range from taxation of automated systems to incentives for human-complementary rather than human-replacement technologies.<br><br>(5) The trajectory of automation's impact on labor markets will ultimately be determined not by technological inevitability but through deliberate social and political choices. While technological development follows its own momentum, its implementation within economic systems remains subject to human agency expressed through corporate strategy, consumer preferences, worker organization, and democratic governance. The question is not whether automation will transform work—it already has and will continue to do so—but rather who will benefit from increased productivity, how transitions for displaced workers will be managed, and what social institutions might evolve to ensure that technological progress translates into broadly shared prosperity rather than concentrated advantage.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "His methodology differed significantly _____ conventional approaches in the field.",
+      "options": {
+        "A": "from",
+        "B": "to",
+        "C": "with",
+        "D": "by"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "_____ Amazon rainforest is experiencing unprecedented rates of deforestation.",
+      "options": {
+        "A": "A",
+        "B": "An",
+        "C": "The",
+        "D": "∅"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "The company has decided to put _____ the annual conference until next spring due to ongoing health concerns.",
+      "options": {
+        "A": "off",
+        "B": "up",
+        "C": "away",
+        "D": "out"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "_____ the results carefully, the scientist noticed a significant anomaly in the data set.",
+      "options": {
+        "A": "Examining",
+        "B": "Having examined",
+        "C": "To examine",
+        "D": "Examined"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "The participants _____ in the first phase of the experiment showed significant improvement in cognitive function.",
+      "options": {
+        "A": "included",
+        "B": "including",
+        "C": "who included",
+        "D": "to include"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "The professor claimed that the discovery _____ our understanding of quantum physics forever.",
+      "options": {
+        "A": "would change",
+        "B": "will change",
+        "C": "changes",
+        "D": "is changing"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "She _____ working on the project for over a decade before the breakthrough finally came.",
+      "options": {
+        "A": "has been",
+        "B": "had been",
+        "C": "was",
+        "D": "is"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "The first proposal was rejected, and the second _____ .",
+      "options": {
+        "A": "also",
+        "B": "too",
+        "C": "as well",
+        "D": "was too"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Not until the final results were published _____ the true significance of the discovery.",
+      "options": {
+        "A": "they realized",
+        "B": "did they realize",
+        "C": "realized they",
+        "D": "they did realize"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Based on the available evidence, the researchers _____ reached a different conclusion.",
+      "options": {
+        "A": "must have",
+        "B": "should have",
+        "C": "could have",
+        "D": "would have"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "She _____ believe that traditional methods are superior despite compelling evidence to the contrary.",
+      "options": {
+        "A": "does",
+        "B": "is",
+        "C": "has",
+        "D": "was"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "The researchers announced that by the end of the decade, they _____ a functioning prototype.",
+      "options": {
+        "A": "will develop",
+        "B": "would have developed",
+        "C": "will have developed",
+        "D": "would develop"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "_____ research indicates that genetics plays a significant role in predisposition to certain diseases.",
+      "options": {
+        "A": "A",
+        "B": "An",
+        "C": "The",
+        "D": "∅"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "The investigation revealed that _____ evidence had been tampered with prior to the trial.",
+      "options": {
+        "A": "much",
+        "B": "many",
+        "C": "a great deal",
+        "D": "several"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "_____ the committee found particularly concerning was the lack of transparency in the research methodology.",
+      "options": {
+        "A": "What",
+        "B": "That",
+        "C": "Which",
+        "D": "It was what"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Despite her reservations, she decided to _____ the challenge and take on the leadership role.",
+      "options": {
+        "A": "embrace",
+        "B": "undertake",
+        "C": "confront",
+        "D": "tackle"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "The archaeological discovery _____ light on previously unknown aspects of the ancient civilization.",
+      "options": {
+        "A": "shed",
+        "B": "cast",
+        "C": "threw",
+        "D": "brought"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "His argument, while initially persuasive, ultimately fails to _____ closer scrutiny.",
+      "options": {
+        "A": "endure",
+        "B": "survive",
+        "C": "withstand",
+        "D": "tolerate"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "The company's new strategy _____ stark contrast to its previous conservative approach.",
+      "options": {
+        "A": "stands in",
+        "B": "makes a",
+        "C": "forms a",
+        "D": "creates a"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "The discovery represents a significant _____ in our understanding of cellular regeneration.",
+      "options": {
+        "A": "advancement",
+        "B": "breakthrough",
+        "C": "progress",
+        "D": "development"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "The researcher's unorthodox methods have _____ considerable controversy within the scientific community.",
+      "options": {
+        "A": "generated",
+        "B": "produced",
+        "C": "created",
+        "D": "caused"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "After decades of research, scientists are still struggling to _____ a comprehensive theory that explains all the observed phenomena.",
+      "options": {
+        "A": "devise",
+        "B": "construct",
+        "C": "formulate",
+        "D": "develop"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "The journalist's investigation _____ serious questions about the integrity of the electoral process.",
+      "options": {
+        "A": "raised",
+        "B": "posed",
+        "C": "presented",
+        "D": "introduced"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "The government's new environmental policy has come under _____ criticism from conservation groups.",
+      "options": {
+        "A": "harsh",
+        "B": "strong",
+        "C": "fierce",
+        "D": "severe"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "The study's findings _____ significant implications for future research in the field.",
+      "options": {
+        "A": "carry",
+        "B": "hold",
+        "C": "bear",
+        "D": "contain"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Public interest in the controversial policy proposal began to _____ after the initial media coverage subsided.",
+      "options": {
+        "A": "diminish",
+        "B": "decline",
+        "C": "decrease",
+        "D": "wane"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "The prosecutor alleged that the witness had been _____ to provide false testimony in exchange for financial compensation.",
+      "options": {
+        "A": "bribed",
+        "B": "coerced",
+        "C": "persuaded",
+        "D": "suborn"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Environmental scientists have documented a gradual _____ in the region's biodiversity over the past three decades.",
+      "options": {
+        "A": "reduction",
+        "B": "decrease",
+        "C": "diminution",
+        "D": "depletion"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "The true motivations behind the historical figure's actions remain _____ despite extensive scholarly analysis.",
+      "options": {
+        "A": "inexplicable",
+        "B": "mysterious",
+        "C": "impenetrable",
+        "D": "unfathomable"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "The character in the novel was portrayed as a _____ aristocrat who squandered his fortune on gambling and extravagant living.",
+      "options": {
+        "A": "degenerate",
+        "B": "profligate",
+        "C": "dissolute",
+        "D": "debauched"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "The extensive _____ system implemented in the city center has raised concerns about privacy rights and civil liberties.",
+      "options": {
+        "A": "monitoring",
+        "B": "observation",
+        "C": "supervision",
+        "D": "surveillance"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "The aging professor would often _____ the day he declined the prestigious research position that could have defined his career.",
+      "options": {
+        "A": "regret",
+        "B": "lament",
+        "C": "bemoan",
+        "D": "rue"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "The organization's _____ approach to innovation has hindered its ability to adapt to rapidly changing market conditions.",
+      "options": {
+        "A": "conservative",
+        "B": "conventional",
+        "C": "staid",
+        "D": "traditional"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "The violin solo in the final movement had a _____ quality that evoked a profound sense of melancholy in the audience.",
+      "options": {
+        "A": "sorrowful",
+        "B": "mournful",
+        "C": "plaintive",
+        "D": "lamenting"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "The politician had to _____ her instinctive response to the provocative question during the televised debate.",
+      "options": {
+        "A": "restrain",
+        "B": "control",
+        "C": "suppress",
+        "D": "bridle"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "The gradual _____ of sediment over millennia eventually formed the distinctive limestone formations visible today.",
+      "options": {
+        "A": "accumulation",
+        "B": "build-up",
+        "C": "accretion",
+        "D": "deposition"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Despite his inner turmoil, the diplomat maintained a calm _____ throughout the tense negotiations.",
+      "options": {
+        "A": "appearance",
+        "B": "demeanor",
+        "C": "composure",
+        "D": "countenance"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "After years of litigation, the indigenous community was finally able to _____ control of their ancestral lands from the multinational corporation.",
+      "options": {
+        "A": "reclaim",
+        "B": "seize",
+        "C": "regain",
+        "D": "wrest"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "The expedition across the mountain range proved to be an _____ journey that tested the limits of human endurance.",
+      "options": {
+        "A": "strenuous",
+        "B": "laborious",
+        "C": "arduous",
+        "D": "demanding"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "The new regulatory framework will _____ all previous legislation concerning environmental protection in the region.",
+      "options": {
+        "A": "replace",
+        "B": "override",
+        "C": "supplant",
+        "D": "supersede"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what distinguishes contemporary automation from previous technological changes?",
+      "options": {
+        "A": "It only affects physical labor tasks",
+        "B": "It is slower and more limited in scope",
+        "C": "It can perform cognitive functions previously considered uniquely human",
+        "D": "It creates more jobs than it eliminates"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "The term 'hollowing out' in paragraph 2 refers to:",
+      "options": {
+        "A": "The complete elimination of all middle-skill jobs",
+        "B": "The disproportionate impact of automation on middle-skill occupations",
+        "C": "A decrease in productivity across all sectors",
+        "D": "The physical restructuring of workplaces to accommodate robots"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, which of the following is NOT mentioned as a consequence of technological unemployment?",
+      "options": {
+        "A": "Diminished self-worth",
+        "B": "Increased productivity",
+        "C": "Social isolation",
+        "D": "Political disillusionment"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Which policy approach mentioned in paragraph 4 aims to provide financial security regardless of employment status?",
+      "options": {
+        "A": "Educational initiatives focusing on adaptability",
+        "B": "Universal basic income proposals",
+        "C": "Taxation of automated systems",
+        "D": "Work-sharing arrangements"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "The author suggests that the future impact of automation on labor markets will be determined primarily by:",
+      "options": {
+        "A": "Technological inevitability",
+        "B": "The inherent momentum of technological development",
+        "C": "Social and political choices",
+        "D": "Consumer preferences alone"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What can be inferred about the author's view on the relationship between automation and economic benefit?",
+      "options": {
+        "A": "Automation inevitably leads to broadly shared economic benefits",
+        "B": "The distribution of economic benefits from automation is determined by policy choices",
+        "C": "Economic benefits of automation are entirely illusory",
+        "D": "Economic benefits are limited to those who own automated systems"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "The primary purpose of the passage is to:",
+      "options": {
+        "A": "Advocate for specific policy responses to automation",
+        "B": "Predict the exact percentage of jobs that will be lost to automation",
+        "C": "Examine the complex economic and social implications of automation",
+        "D": "Argue that automation should be restricted to preserve jobs"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to the passage, which of the following statements about work is true?",
+      "options": {
+        "A": "Work provides only economic benefits to individuals",
+        "B": "Work has no impact on social cohesion",
+        "C": "Work provides structure, meaning, and community for many individuals",
+        "D": "The psychological benefits of work have been exaggerated"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Based on the passage, which educational approach would likely be most effective in response to automation?",
+      "options": {
+        "A": "Training workers to compete directly with automated systems",
+        "B": "Focusing exclusively on traditional academic disciplines",
+        "C": "Emphasizing skills that complement rather than compete with automated systems",
+        "D": "Discouraging workers from pursuing education beyond basic levels"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "The passage indicates that which of the following factors has contributed to increasing wage polarization?",
+      "options": {
+        "A": "Equal distribution of automation benefits",
+        "B": "The elimination of high-skill knowledge work",
+        "C": "Technological displacement affecting middle-skill occupations",
+        "D": "Decreased productivity in automated sectors"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
