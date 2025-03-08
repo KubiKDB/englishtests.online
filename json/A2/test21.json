@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Reptiles are interesting animals that live in many parts of the world. They have scales instead of fur or feathers. Most reptiles lay eggs, but some give birth to live babies. Reptiles are cold-blooded, which means their body temperature changes with the environment. They like to sit in the sun to get warm. When it is too hot, they move to the shade to cool down.<br><br>(2) Snakes are reptiles with long bodies and no legs. They move by sliding their bodies from side to side. Many people are afraid of snakes, but most snakes are not dangerous to humans. Snakes eat other animals like mice, birds, and frogs. They can open their mouths very wide to swallow their food whole. Some snakes, like pythons, squeeze their prey before eating it.<br><br>(3) Lizards are reptiles that usually have four legs and a long tail. Most lizards are small, but some, like the Komodo dragon, can be very large. Lizards can be many different colors. Some can even change their color to match their surroundings. Many lizards can lose their tails when attacked by a predator. The tail will grow back over time, which helps the lizard survive.<br><br>(4) Turtles are reptiles with hard shells that protect their bodies. The shell is actually part of the turtle's skeleton. Turtles can pull their head and legs inside their shell when they feel threatened. Some turtles live on land, and others live in water. Sea turtles have flippers instead of feet, which helps them swim. Turtles can live for a very long time, with some species living more than 100 years.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "She have three brothers.",
+        "B": "She has three brothers.",
+        "C": "She having three brothers.",
+        "D": "She haves three brothers."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct form of the verb.",
+      "options": {
+        "A": "They doesn't like apples.",
+        "B": "They don't likes apples.",
+        "C": "They don't like apples.",
+        "D": "They not like apples."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the correct past tense form.",
+      "options": {
+        "A": "I buyed a new car last week.",
+        "B": "I buying a new car last week.",
+        "C": "I buy a new car last week.",
+        "D": "I bought a new car last week."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence uses the correct preposition?",
+      "options": {
+        "A": "We arrived to the airport early.",
+        "B": "We arrived at the airport early.",
+        "C": "We arrived in the airport early.",
+        "D": "We arrived on the airport early."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Select the correct plural form.",
+      "options": {
+        "A": "One woman, two womans",
+        "B": "One woman, two womens",
+        "C": "One woman, two woman",
+        "D": "One woman, two women"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which sentence has the correct word order?",
+      "options": {
+        "A": "My father never watches television in the morning.",
+        "B": "My father watches never television in the morning.",
+        "C": "My father watches television never in the morning.",
+        "D": "My father watches television in never the morning."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct question form.",
+      "options": {
+        "A": "What time you go to bed usually?",
+        "B": "What time usually you go to bed?",
+        "C": "What time do you usually go to bed?",
+        "D": "What time you do usually go to bed?"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the correct sentence with 'will'.",
+      "options": {
+        "A": "I will to visit my grandmother tomorrow.",
+        "B": "I will visiting my grandmother tomorrow.",
+        "C": "I will visit my grandmother tomorrow.",
+        "D": "I will visited my grandmother tomorrow."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence uses the correct comparative form?",
+      "options": {
+        "A": "This book is more interesting than that one.",
+        "B": "This book is interestinger than that one.",
+        "C": "This book is more interesting as that one.",
+        "D": "This book is interesting than that one."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct possessive form.",
+      "options": {
+        "A": "Those are the childrens toys.",
+        "B": "Those are the children's toys.",
+        "C": "Those are the childrens' toys.",
+        "D": "Those are the childs toys."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Which sentence uses the past continuous correctly?",
+      "options": {
+        "A": "I was reading when the phone rang.",
+        "B": "I were reading when the phone rang.",
+        "C": "I was read when the phone rang.",
+        "D": "I reading when the phone rang."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the correct imperative form.",
+      "options": {
+        "A": "Not talk during the movie.",
+        "B": "Don't talking during the movie.",
+        "C": "Don't talk during the movie.",
+        "D": "Don't to talk during the movie."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Which sentence uses 'should' correctly?",
+      "options": {
+        "A": "You should to see a doctor.",
+        "B": "You should seeing a doctor.",
+        "C": "You should see a doctor.",
+        "D": "You should saw a doctor."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct use of 'there is/there are'.",
+      "options": {
+        "A": "There is many people at the party.",
+        "B": "There are many people at the party.",
+        "C": "There many people at the party.",
+        "D": "There be many people at the party."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the sentence with the correct articles.",
+      "options": {
+        "A": "She has a apple and an banana.",
+        "B": "She has an apple and a banana.",
+        "C": "She has the apple and the banana.",
+        "D": "She has apple and banana."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Complete the sentence: 'He enjoys ___ soccer on weekends.'",
+      "options": {
+        "A": "play",
+        "B": "playing",
+        "C": "to playing",
+        "D": "plays"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct phrase: 'I'd like ___ to the manager, please.'",
+      "options": {
+        "A": "speak",
+        "B": "speaking",
+        "C": "to speaking",
+        "D": "to speak"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the correct response: 'Would you like to go to the movies?' '___'",
+      "options": {
+        "A": "Yes, I'd love to.",
+        "B": "Yes, I'd love.",
+        "C": "Yes, I love.",
+        "D": "Yes, I want."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Complete the sentence: 'There isn't ___ bread left.'",
+      "options": {
+        "A": "no",
+        "B": "some",
+        "C": "many",
+        "D": "any"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct collocation: 'Let's ___ a decision.'",
+      "options": {
+        "A": "do",
+        "B": "make",
+        "C": "take",
+        "D": "have"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the best way to end an email to a friend:",
+      "options": {
+        "A": "Yours sincerely,",
+        "B": "Best regards,",
+        "C": "Love,",
+        "D": "Regards,"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Complete the sentence: 'She ___ TV every evening.'",
+      "options": {
+        "A": "watches",
+        "B": "is watching",
+        "C": "watch",
+        "D": "watching"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct preposition: 'I'm interested ___ learning English.'",
+      "options": {
+        "A": "for",
+        "B": "at",
+        "C": "in",
+        "D": "by"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Select the correct linking word: 'I wanted to go out, ___ it started to rain.'",
+      "options": {
+        "A": "so",
+        "B": "because",
+        "C": "and",
+        "D": "but"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Complete the sentence: 'Can I ___ your pen, please?'",
+      "options": {
+        "A": "lend",
+        "B": "borrow",
+        "C": "use",
+        "D": "give"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What does 'support' mean?",
+      "options": {
+        "A": "To help or encourage",
+        "B": "To break or damage",
+        "C": "To hide or cover",
+        "D": "To finish or complete"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the correct meaning of 'land':",
+      "options": {
+        "A": "Water",
+        "B": "Sky",
+        "C": "Ground or soil",
+        "D": "Air"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What is the opposite of 'before'?",
+      "options": {
+        "A": "After",
+        "B": "During",
+        "C": "While",
+        "D": "Until"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Complete the sentence: 'The book is in the ___ of the shelf.'",
+      "options": {
+        "A": "end",
+        "B": "side",
+        "C": "corner",
+        "D": "middle"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the correct word: 'Is there ___ I can help you with?'",
+      "options": {
+        "A": "something",
+        "B": "anything",
+        "C": "everything",
+        "D": "nothing"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Complete the sentence: 'I don't have ___ time to finish this today.'",
+      "options": {
+        "A": "many",
+        "B": "few",
+        "C": "much",
+        "D": "little"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Choose the correct word: 'Can I ask you a ___?'",
+      "options": {
+        "A": "question",
+        "B": "ask",
+        "C": "query",
+        "D": "wonder"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Complete the sentence: 'Is this the correct ___ to the station?'",
+      "options": {
+        "A": "road",
+        "B": "path",
+        "C": "way",
+        "D": "street"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What does 'well' mean in this sentence: 'I'm not feeling very well today.'",
+      "options": {
+        "A": "Happy",
+        "B": "Healthy",
+        "C": "Angry",
+        "D": "Tired"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Complete the sentence: 'It might ___ tomorrow.'",
+      "options": {
+        "A": "snow",
+        "B": "wind",
+        "C": "sun",
+        "D": "rain"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Choose the correct preposition: 'She is ___ London.'",
+      "options": {
+        "A": "in",
+        "B": "at",
+        "C": "from",
+        "D": "to"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Which body part is between the eyes and mouth?",
+      "options": {
+        "A": "Ear",
+        "B": "Chin",
+        "C": "Nose",
+        "D": "Cheek"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "What is the meaning of 'clear' in 'The sky is clear today'?",
+      "options": {
+        "A": "Dirty",
+        "B": "Cloudy",
+        "C": "Blue",
+        "D": "Without clouds"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Complete the sentence: 'I'll ___ you tomorrow about the meeting.'",
+      "options": {
+        "A": "talk",
+        "B": "speak",
+        "C": "tell",
+        "D": "call"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Choose the correct word: 'Facebook is a ___ media platform.'",
+      "options": {
+        "A": "social",
+        "B": "society",
+        "C": "socialize",
+        "D": "socially"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what do reptiles have instead of fur or feathers?",
+      "options": {
+        "A": "Hair",
+        "B": "Skin",
+        "C": "Scales",
+        "D": "Wings"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "According to the passage, why do reptiles like to sit in the sun?",
+      "options": {
+        "A": "To sleep",
+        "B": "To eat",
+        "C": "To get warm",
+        "D": "To hide from predators"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "Based on paragraph 2, how do snakes move?",
+      "options": {
+        "A": "By jumping",
+        "B": "By sliding from side to side",
+        "C": "By flying",
+        "D": "By running"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to the passage, how do snakes eat their food?",
+      "options": {
+        "A": "They chew it into small pieces",
+        "B": "They cut it with their teeth",
+        "C": "They swallow it whole",
+        "D": "They share it with other snakes"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Based on paragraph 3, what happens when a lizard is attacked?",
+      "options": {
+        "A": "It runs away very fast",
+        "B": "It can lose its tail",
+        "C": "It changes color",
+        "D": "It bites the predator"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to the passage, what is special about a turtle's shell?",
+      "options": {
+        "A": "It is very colorful",
+        "B": "It is part of the turtle's skeleton",
+        "C": "It is made of metal",
+        "D": "It falls off every year"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What helps sea turtles swim well?",
+      "options": {
+        "A": "Their long tails",
+        "B": "Their shells",
+        "C": "Their flippers",
+        "D": "Their heads"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to paragraph 4, how long can some turtles live?",
+      "options": {
+        "A": "10 years",
+        "B": "50 years",
+        "C": "More than 100 years",
+        "D": "200 years"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What is the main topic of this passage?",
+      "options": {
+        "A": "How to take care of reptiles as pets",
+        "B": "Types of reptiles and their characteristics",
+        "C": "Why reptiles are dangerous",
+        "D": "Where to find reptiles in the wild"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What do turtles do when they feel threatened?",
+      "options": {
+        "A": "They run away quickly",
+        "B": "They attack their enemies",
+        "C": "They hide underwater",
+        "D": "They pull their head and legs inside their shell"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    }
+  ]
+}
