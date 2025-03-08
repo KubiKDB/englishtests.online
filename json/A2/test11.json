@@ -1,0 +1,355 @@
+{
+  "passage": "<br>(1) Humans have five main senses that help us understand the world around us. These senses are sight, hearing, smell, taste, and touch. Each sense works using different parts of our body. Our senses collect information and send it to our brain. Then, our brain helps us understand what we are experiencing.<br><br>(2) The eyes are for seeing. They let us see colors, shapes, and movement. The ears are for hearing. They help us listen to sounds like music, voices, and noises. Our nose is for smelling. It can detect many different smells in the air around us. Some smells are pleasant, like flowers or food, while others are not.<br><br>(3) Our tongue is for tasting. It can recognize four main tastes: sweet, sour, salty, and bitter. When we eat food, our tongue sends messages to our brain about how the food tastes. Our skin is for touching. It covers our whole body and helps us feel things like hot, cold, soft, hard, wet, or dry.<br><br>(4) All five senses work together to give us a complete picture of our world. Sometimes, one sense may not work well, and people learn to use their other senses more. For example, people who cannot see often have very good hearing. Our senses are always working, even when we are sleeping. They help keep us safe and make life more enjoyable.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct verb form: She _____ to music every day.",
+      "options": {"A": "listen", "B": "listening", "C": "listens", "D": "is listen"},
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Which sentence is grammatically correct?",
+      "options": {"A": "He don't like apples.", "B": "He doesn't likes apples.", "C": "He not like apples.", "D": "He doesn't like apples."},
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the correct past tense: We _____ to the beach last weekend.",
+      "options": {"A": "go", "B": "went", "C": "gone", "D": "going"},
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct preposition: I usually have breakfast _____ 8 o'clock.",
+      "options": {"A": "in", "B": "on", "C": "by", "D": "at"},
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Which option completes the sentence correctly? They _____ TV when the phone rang.",
+      "options": {"A": "watched", "B": "watching", "C": "were watching", "D": "are watching"},
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the correct question form:",
+      "options": {"A": "Where you live?", "B": "Where do you live?", "C": "Where living you?", "D": "Where are you live?"},
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which sentence uses the plural form correctly?",
+      "options": {"A": "There are three childs in the room.", "B": "There are three children in the room.", "C": "There are three childrens in the room.", "D": "There is three children in the room."},
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct sentence:",
+      "options": {"A": "The book is on table.", "B": "The book is the table.", "C": "The book is at table.", "D": "The book is on the table."},
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which comparative form is correct?",
+      "options": {"A": "This exercise is more easy than that one.", "B": "This exercise is easyer than that one.", "C": "This exercise is easier than that one.", "D": "This exercise is the easier than that one."},
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Select the correct possessive form:",
+      "options": {"A": "My sisters name is Anna.", "B": "My sister's name is Anna.", "C": "My sisters' name is Anna.", "D": "My sister name is Anna."},
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct form: I have _____ pizza before.",
+      "options": {"A": "never eat", "B": "never ate", "C": "never eaten", "D": "never eating"},
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence has the correct word order?",
+      "options": {"A": "Always she is happy.", "B": "She is happy always.", "C": "She always is happy.", "D": "She is always happy."},
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Select the correct modal verb: You _____ smoke in hospitals.",
+      "options": {"A": "don't have to", "B": "not must", "C": "mustn't", "D": "cannot to"},
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which is the correct future form? I _____ my grandmother next weekend.",
+      "options": {"A": "visit", "B": "am going to visit", "C": "visiting", "D": "am visit"},
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Choose the correct form: She told me _____ my homework.",
+      "options": {"A": "do", "B": "for doing", "C": "to do", "D": "that do"},
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Complete the phrase: Let's meet _____ lunch tomorrow.",
+      "options": {"A": "to", "B": "for", "C": "at", "D": "with"},
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct response to 'Would you like some cake?'",
+      "options": {"A": "Yes, I'd love to.", "B": "Yes, please.", "C": "Yes, I am.", "D": "Yes, I would."},
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the best phrase to complete: I'm not very good _____ cooking.",
+      "options": {"A": "at", "B": "in", "C": "on", "D": "with"},
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Which expression do you use to ask for help?",
+      "options": {"A": "Could you help me, please?", "B": "Do you want help?", "C": "I help you?", "D": "Do I help you?"},
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Complete the phrase: _____ is your birthday?",
+      "options": {"A": "When", "B": "Where", "C": "Who", "D": "What"},
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the correct time expression: My train arrives _____ 6:30.",
+      "options": {"A": "in", "B": "on", "C": "at", "D": "by"},
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct linking word: I like swimming _____ I don't like running.",
+      "options": {"A": "and", "B": "because", "C": "so", "D": "but"},
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Which phrase is used to make a suggestion?",
+      "options": {"A": "Let's go to the cinema.", "B": "I go to the cinema.", "C": "You must go to the cinema.", "D": "Going to the cinema."},
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct phrase to express agreement:",
+      "options": {"A": "I don't agree.", "B": "I think you're right.", "C": "I'm not sure.", "D": "Maybe."},
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the correct phrase to ask permission:",
+      "options": {"A": "May I use your phone?", "B": "I use your phone?", "C": "I will use your phone?", "D": "Using your phone?"},
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What does 'introduce' mean in this sentence? 'Let me introduce my friend Tom.'",
+      "options": {"A": "to show someone to others for the first time", "B": "to bring something new", "C": "to explain something", "D": "to invite someone"},
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the correct meaning of 'record' in 'I want to record this song.'",
+      "options": {"A": "to write down", "B": "to save sound or video", "C": "to remember", "D": "to play music"},
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Which sentence uses 'cold' correctly?",
+      "options": {"A": "I have a cold tea.", "B": "The winter is very cold.", "C": "She speaks in a cold.", "D": "They cold the food."},
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "What does 'home' mean in 'I'm going home now.'?",
+      "options": {"A": "a place where someone lives", "B": "a building", "C": "a country", "D": "a family"},
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Which sentence uses 'village' correctly?",
+      "options": {"A": "London is a big village.", "B": "They village in the mountains.", "C": "She lives in a small village.", "D": "I like to village with my friends."},
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "What does 'pair' mean?",
+      "options": {"A": "a group of three things", "B": "two things that go together", "C": "many similar things", "D": "a single item"},
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Choose the correct meaning of 'over' in 'The cat jumped over the wall.'",
+      "options": {"A": "above", "B": "inside", "C": "from one side to the other side", "D": "under"},
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Which sentence uses 'carry' correctly?",
+      "options": {"A": "She carries the bus to school.", "B": "They carry water in bottles.", "C": "He carries sleep every night.", "D": "I carry my age well."},
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What is 'salt' used for?",
+      "options": {"A": "to clean things", "B": "to add flavor to food", "C": "to make things sweet", "D": "to color food"},
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Choose the correct sentence with 'enjoy':",
+      "options": {"A": "I enjoy to swim.", "B": "She enjoy the party.", "C": "They enjoyed the movie.", "D": "He enjoying football."},
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What does 'outer' mean in 'the outer layer of clothing'?",
+      "options": {"A": "inner", "B": "outside", "C": "middle", "D": "under"},
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Which question uses 'time' correctly?",
+      "options": {"A": "What time is it?", "B": "How much time?", "C": "Where is the time?", "D": "Who is time?"},
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Select the correct sentence with 'five':",
+      "options": {"A": "There is five people in my family.", "B": "I have five fingers on each hand.", "C": "She five years old.", "D": "They finished the race in five."},
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "What is a 'forest'?",
+      "options": {"A": "a place with many trees", "B": "a large city", "C": "a small river", "D": "a type of animal"},
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Choose the correct meaning of 'miss' in 'I miss my family.'",
+      "options": {"A": "to fail to see", "B": "to feel sad because someone is not there", "C": "to not like", "D": "to forget"},
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, how many main senses do humans have?",
+      "options": {"A": "Three", "B": "Four", "C": "Five", "D": "Six"},
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "What do our senses do with information?",
+      "options": {"A": "Throw it away", "B": "Send it to our brain", "C": "Store it in our eyes", "D": "Share it with others"},
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 2, what do our eyes help us see?",
+      "options": {"A": "Tastes, smells, and sounds", "B": "Colors, shapes, and movement", "C": "Hot, cold, soft, and hard", "D": "Sweet, sour, salty, and bitter"},
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Which body part is used for hearing?",
+      "options": {"A": "Nose", "B": "Eyes", "C": "Tongue", "D": "Ears"},
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "How many main tastes can our tongue recognize?",
+      "options": {"A": "Two", "B": "Three", "C": "Four", "D": "Five"},
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What part of our body helps us feel things like hot, cold, soft, or hard?",
+      "options": {"A": "Brain", "B": "Skin", "C": "Nose", "D": "Tongue"},
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to the passage, what happens when one sense doesn't work well?",
+      "options": {"A": "People use their other senses more", "B": "People cannot understand the world", "C": "People need medicine", "D": "People sleep better"},
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to paragraph 4, people who cannot see often have very good:",
+      "options": {"A": "Taste", "B": "Smell", "C": "Hearing", "D": "Touch"},
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to the passage, when do our senses work?",
+      "options": {"A": "Only during the day", "B": "Only when we are awake", "C": "Always, even when we are sleeping", "D": "Only when we need them"},
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the main idea of this passage?",
+      "options": {"A": "How to improve your five senses", "B": "Why some people have better senses than others", "C": "How our five senses help us understand the world", "D": "The problems with human senses"},
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
