@@ -1,0 +1,606 @@
+{
+  "passage": "<br>(1) The Great Wall of China is one of the most famous buildings in the world. It is a very long wall that was built to protect China from its enemies. The wall is over 21,000 kilometers long and runs from east to west across northern China. Many parts of the wall are on mountains, which made it harder for enemies to attack.<br><br>(2) The Great Wall was not built all at once. The first parts were built more than 2,000 years ago, during the Qin Dynasty. Later, other rulers added more sections to the wall. Most of the wall that we can see today was built during the Ming Dynasty, about 600 years ago. The wall was made of stone, brick, wood, and earth.<br><br>(3) Today, the Great Wall is in different conditions in different places. Some parts are in very good condition, especially near Beijing, where many tourists visit. Other parts of the wall have been damaged by weather and time, and some sections have disappeared completely. The best time to visit the Great Wall is in spring or autumn when the weather is not too hot or cold.<br><br>(4) The Great Wall of China is important for many reasons. It shows how skilled the ancient Chinese were at building things. It also helps us understand Chinese history and culture. In 1987, the Great Wall became a UNESCO World Heritage Site. This means it is protected because it is so important to people all over the world.",
+  
+  "questions": [
+    {
+      "id": 1,
+      "question": "She _____ to school every day.",
+      "options": {
+        "A": "go",
+        "B": "goes",
+        "C": "going",
+        "D": "is go"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "We _____ dinner at 7:00 PM yesterday.",
+      "options": {
+        "A": "have",
+        "B": "having",
+        "C": "has",
+        "D": "had"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "_____ you like ice cream?",
+      "options": {
+        "A": "Do",
+        "B": "Are",
+        "C": "Does",
+        "D": "Is"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "They _____ watching a movie now.",
+      "options": {
+        "A": "is",
+        "B": "am",
+        "C": "be",
+        "D": "are"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "The dog _____ very loud.",
+      "options": {
+        "A": "barks",
+        "B": "barking",
+        "C": "bark",
+        "D": "is bark"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "I _____ my homework yet.",
+      "options": {
+        "A": "don't finish",
+        "B": "didn't finish",
+        "C": "not finish",
+        "D": "haven't finished"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "_____ there any milk in the fridge?",
+      "options": {
+        "A": "Is",
+        "B": "Are",
+        "C": "Does",
+        "D": "Do"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "She _____ blue eyes.",
+      "options": {
+        "A": "have",
+        "B": "having",
+        "C": "has",
+        "D": "is have"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "My father _____ in a hospital.",
+      "options": {
+        "A": "work",
+        "B": "works",
+        "C": "working",
+        "D": "is work"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "_____ your brother like sports?",
+      "options": {
+        "A": "Do",
+        "B": "Does",
+        "C": "Is",
+        "D": "Are"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "I _____ TV last night.",
+      "options": {
+        "A": "watch",
+        "B": "watches",
+        "C": "watched",
+        "D": "watching"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "_____ did you go to the park? With my friends.",
+      "options": {
+        "A": "Who",
+        "B": "When",
+        "C": "Where",
+        "D": "How"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "These are _____ books.",
+      "options": {
+        "A": "they",
+        "B": "them",
+        "C": "their",
+        "D": "theirs"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "She can _____ English very well.",
+      "options": {
+        "A": "speaks",
+        "B": "spoke",
+        "C": "speak",
+        "D": "speaking"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "We _____ to the beach last summer.",
+      "options": {
+        "A": "go",
+        "B": "goes",
+        "C": "went",
+        "D": "going"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Can you turn _____ the TV? I want to watch the news.",
+      "options": {
+        "A": "on",
+        "B": "off",
+        "C": "up",
+        "D": "down"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "She's looking _____ her keys. She can't find them.",
+      "options": {
+        "A": "at",
+        "B": "for",
+        "C": "to",
+        "D": "on"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Please wait _____ me. I'll be ready in five minutes.",
+      "options": {
+        "A": "to",
+        "B": "for",
+        "C": "with",
+        "D": "at"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "My birthday is _____ May 5th.",
+      "options": {
+        "A": "in",
+        "B": "on",
+        "C": "at",
+        "D": "by"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "She lives _____ a small apartment.",
+      "options": {
+        "A": "on",
+        "B": "at",
+        "C": "in",
+        "D": "to"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "We go to school _____ Monday to Friday.",
+      "options": {
+        "A": "from",
+        "B": "between",
+        "C": "in",
+        "D": "at"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "The book is _____ the table.",
+      "options": {
+        "A": "on",
+        "B": "in",
+        "C": "at",
+        "D": "to"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "She goes to work _____ bus.",
+      "options": {
+        "A": "by",
+        "B": "with",
+        "C": "on",
+        "D": "in"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "I need to _____ up early tomorrow.",
+      "options": {
+        "A": "get",
+        "B": "make",
+        "C": "do",
+        "D": "have"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Can you _____ me a favor, please?",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "give",
+        "D": "take"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "I like to listen to music on the _____.",
+      "options": {
+        "A": "television",
+        "B": "radio",
+        "C": "newspaper",
+        "D": "book"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "There are many trees in the _____.",
+      "options": {
+        "A": "city",
+        "B": "house",
+        "C": "forest",
+        "D": "sea"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "The waiter will _____ our food in a few minutes.",
+      "options": {
+        "A": "cook",
+        "B": "eat",
+        "C": "serve",
+        "D": "buy"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "I fell off my bike and _____ my knee.",
+      "options": {
+        "A": "hurt",
+        "B": "cut",
+        "C": "broke",
+        "D": "hit"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "He's wearing a blue _____ and black pants.",
+      "options": {
+        "A": "shoe",
+        "B": "hat",
+        "C": "shirt",
+        "D": "sock"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Scientists are working to _____ new medicines.",
+      "options": {
+        "A": "write",
+        "B": "develop",
+        "C": "find",
+        "D": "make"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Please put that _____ on the table.",
+      "options": {
+        "A": "thing",
+        "B": "stuff",
+        "C": "piece",
+        "D": "item"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "There are _____ people in my family.",
+      "options": {
+        "A": "eight",
+        "B": "ten",
+        "C": "nine",
+        "D": "seven"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "This food has a good _____.",
+      "options": {
+        "A": "smell",
+        "B": "taste",
+        "C": "look",
+        "D": "sound"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "You have three _____ for lunch: pizza, salad, or sandwich.",
+      "options": {
+        "A": "choices",
+        "B": "options",
+        "C": "ways",
+        "D": "ideas"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "In the play, he will _____ as the main character.",
+      "options": {
+        "A": "play",
+        "B": "do",
+        "C": "act",
+        "D": "make"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "The instructions are very _____. They're easy to follow.",
+      "options": {
+        "A": "difficult",
+        "B": "simple",
+        "C": "long",
+        "D": "complex"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "People from all over the _____ visit New York City.",
+      "options": {
+        "A": "country",
+        "B": "city",
+        "C": "world",
+        "D": "place"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "This is a _____ story. It really happened.",
+      "options": {
+        "A": "real",
+        "B": "fake",
+        "C": "false",
+        "D": "made-up"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "I like to put _____ in my coffee.",
+      "options": {
+        "A": "salt",
+        "B": "pepper",
+        "C": "sugar",
+        "D": "water"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, why was the Great Wall built?",
+      "options": {
+        "A": "To show how powerful China was",
+        "B": "To protect China from its enemies",
+        "C": "To connect the east and west parts of China",
+        "D": "To make it easier to travel across China"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "According to the passage, how long is the Great Wall?",
+      "options": {
+        "A": "2,000 kilometers",
+        "B": "600 kilometers",
+        "C": "21,000 kilometers",
+        "D": "The passage doesn't say"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 1, where is the Great Wall located?",
+      "options": {
+        "A": "In southern China",
+        "B": "In eastern China",
+        "C": "In western China",
+        "D": "In northern China"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to paragraph 2, when was the first part of the Great Wall built?",
+      "options": {
+        "A": "600 years ago",
+        "B": "During the Ming Dynasty",
+        "C": "More than 2,000 years ago",
+        "D": "The passage doesn't say"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to paragraph 2, what materials were used to build the Great Wall?",
+      "options": {
+        "A": "Only stone",
+        "B": "Stone, brick, wood, and earth",
+        "C": "Only brick and wood",
+        "D": "The passage doesn't say"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to paragraph 3, where can you find parts of the Great Wall in good condition?",
+      "options": {
+        "A": "Near Beijing",
+        "B": "In eastern China",
+        "C": "In western China",
+        "D": "The passage doesn't say"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to paragraph 3, what is the best time to visit the Great Wall?",
+      "options": {
+        "A": "Summer",
+        "B": "Winter",
+        "C": "Spring or autumn",
+        "D": "The passage doesn't say"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to paragraph 4, when did the Great Wall become a UNESCO World Heritage Site?",
+      "options": {
+        "A": "600 years ago",
+        "B": "2,000 years ago",
+        "C": "1987",
+        "D": "The passage doesn't say"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to the passage, most of the Great Wall that we see today was built during:",
+      "options": {
+        "A": "The Qin Dynasty",
+        "B": "The Ming Dynasty",
+        "C": "The UNESCO period",
+        "D": "The modern period"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "The main purpose of this passage is to:",
+      "options": {
+        "A": "Explain why the Great Wall is a popular tourist attraction",
+        "B": "Describe how to build large structures like the Great Wall",
+        "C": "Provide information about the Great Wall's history and location",
+        "D": "Compare the Great Wall to other famous buildings"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
