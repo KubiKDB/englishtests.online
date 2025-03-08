@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Neuroplasticity, the brain's remarkable ability to reorganize itself by forming new neural connections throughout life, represents one of neuroscience's most significant discoveries in recent decades. This phenomenon challenges the long-held belief that brain development occurs primarily during childhood and adolescence, revealing instead that our neural architecture remains malleable throughout our lifespan. Such plasticity enables the brain to compensate for injury and disease, adjust to new situations or environmental changes, and respond to novel experiences and learning opportunities with remarkable adaptability. The implications of neuroplasticity extend far beyond clinical rehabilitation settings into everyday learning contexts, suggesting that cognitive development need not be constrained by age-related boundaries previously considered insurmountable.<br><br>(2) At the cellular level, neuroplasticity manifests through several mechanisms that facilitate learning and memory formation. When we engage in deliberate practice or encounter novel stimuli, neurons that fire together strengthen their connections, a process known as Hebbian learning or long-term potentiation. Conversely, neural pathways that remain underutilized may undergo pruning, exemplifying the adage \"use it or lose it.\" This continuous restructuring occurs through dendritic sprouting, synaptogenesis, and even neurogenesis in specific brain regions such as the hippocampus, which plays a critical role in memory consolidation. These microscopic changes, occurring through molecular cascades involving neurotrophic factors and gene expression, ultimately translate into macroscopic alterations in cognitive function and behavior observable in everyday life.<br><br>(3) The educational implications of neuroplasticity have revolutionized approaches to lifelong learning. Traditional educational models that concentrate intensive learning primarily in early life are giving way to paradigms that recognize the brain's capacity for growth across the lifespan. Evidence suggests that intellectually stimulating activities, from learning a musical instrument to acquiring a second language, can enhance cognitive reserve and potentially mitigate age-related cognitive decline. Furthermore, the deliberate cultivation of growth mindsets—beliefs that abilities can be developed through dedication and hard work—has been shown to enhance neuroplastic responses to challenges, creating a virtuous cycle wherein positive attitudes toward learning facilitate the very neural changes that support skill acquisition and knowledge retention.<br><br>(4) Professional development domains have similarly embraced neuroplasticity principles to optimize workforce training and adaptation. Organizations increasingly recognize that employees at any career stage can develop new competencies when provided with appropriate scaffolding, feedback, and opportunities for deliberate practice. Multidisciplinary approaches that incorporate spaced repetition, interleaving of different but related skills, and retrieval practice have proven particularly effective in leveraging neuroplastic mechanisms to enhance learning outcomes. Additionally, the integration of cognitive and physical activities—such as embodied learning experiences or mindfulness practices—appears to synergistically promote neuroplasticity, suggesting that holistic approaches to professional development may yield superior results compared to purely cognitive interventions.<br><br>(5) Despite these promising implications, important caveats merit consideration when applying neuroplasticity principles to educational and professional contexts. Individual differences in neuroplastic capacity exist, influenced by genetic factors, prior experiences, and age-related changes in the brain's biochemical environment. Moreover, while the brain remains adaptable throughout life, certain critical periods during development establish neural architectures that may be challenging, though not impossible, to reconfigure later. Finally, maladaptive forms of neuroplasticity can reinforce negative patterns such as addiction or anxiety, reminding us that plasticity itself is neutral—its benefits depend on the specific neural circuits being strengthened or weakened. These nuances notwithstanding, neuroplasticity offers a compelling neurobiological foundation for optimism regarding human potential for growth and adaptation across the lifespan, informing educational practices that can maximize this remarkable capacity.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following verb forms correctly completes this sentence? 'If I _____ the consequences, I would never have made such a reckless decision.'",
+      "options": {
+        "A": "had known",
+        "B": "would know",
+        "C": "have known",
+        "D": "knew"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Identify the sentence that contains a grammatical error:",
+      "options": {
+        "A": "The committee members expressed their diverse opinions during the heated debate.",
+        "B": "Neither the CEO nor her assistants were available for comment after the announcement.",
+        "C": "The data indicates that consumer spending has decreased significantly this quarter.",
+        "D": "The exhibition, which features works by emerging artists, has attracted considerable attention."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Choose the correct relative clause to complete the sentence: 'The anthropologist presented her findings, _____ challenged several established theories.'",
+      "options": {
+        "A": "which",
+        "B": "who",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence demonstrates correct subject-verb agreement?",
+      "options": {
+        "A": "The flock of geese were flying in perfect formation across the autumn sky.",
+        "B": "A series of unexpected complications has delayed the project's completion.",
+        "C": "The majority of participants believes that the proposal should be rejected.",
+        "D": "The number of applications received this year have exceeded our expectations."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Select the sentence with the correct use of the subjunctive mood:",
+      "options": {
+        "A": "The professor insisted that her student follows the citation guidelines precisely.",
+        "B": "It is essential that he would submit his application before the deadline.",
+        "C": "I wish she was more forthcoming about her intentions.",
+        "D": "The committee recommended that the proposal be revised before resubmission."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Identify the sentence with correct parallel structure:",
+      "options": {
+        "A": "The diplomat not only secured a peace agreement but also was establishing long-term diplomatic relations.",
+        "B": "The study examined both the economic impact of the policy and how society's values were affected.",
+        "C": "The professor emphasized the importance of critical thinking, careful analysis, and synthesizing information.",
+        "D": "The company focuses on developing innovative products, building customer relationships, and to expand into new markets."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the sentence with the correct use of the past perfect tense:",
+      "options": {
+        "A": "By the time we arrived at the theater, the performance already began.",
+        "B": "She realized that she has left her passport at home when she reached the airport.",
+        "C": "The researchers had published their findings before the controversy erupted.",
+        "D": "When the professor entered the lecture hall, most students already left."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the correct form to complete this sentence: 'The sculpture, along with several paintings, _____ to be displayed in the new wing of the museum.'",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "have been"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence contains a misplaced modifier?",
+      "options": {
+        "A": "The professor distributed papers to the students that were due last week.",
+        "B": "Having completed the experiment, the results were analyzed by the research team.",
+        "C": "While reviewing the manuscript, the editor noticed several inconsistencies in the argument.",
+        "D": "After graduating with honors, her career in environmental science began to flourish."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Identify the sentence with the correct use of the passive voice:",
+      "options": {
+        "A": "The committee will be discussing your proposal during next week's meeting.",
+        "B": "The ancient manuscript was discovered by archaeologists in a previously unexplored cave.",
+        "C": "The experiment's unexpected results surprised the scientific community.",
+        "D": "The university has established a new research center focused on renewable energy."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the sentence with correct punctuation:",
+      "options": {
+        "A": "The proposal was well-researched nevertheless, the committee requested additional data.",
+        "B": "After hours of deliberation, the jury reached a verdict; they found the defendant not guilty.",
+        "C": "Several factors: economic instability, political uncertainty, and social unrest contributed to the crisis.",
+        "D": "The professor who specializes in quantum physics, will give a public lecture next month."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the correct verb form for this sentence: 'I wish the administration _____ more transparent about its long-term objectives.'",
+      "options": {
+        "A": "is",
+        "B": "was",
+        "C": "were",
+        "D": "would be"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Which sentence demonstrates correct use of articles?",
+      "options": {
+        "A": "The professor is considered authority on medieval literature in the academic community.",
+        "B": "We visited a Louvre during our trip to Paris last summer.",
+        "C": "She has earned reputation for being scrupulously honest in all her dealings.",
+        "D": "The research presents an intriguing hypothesis about the origins of language."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Identify the sentence with the correct use of gerunds and infinitives:",
+      "options": {
+        "A": "The researcher avoided to discuss the preliminary results before peer review.",
+        "B": "The professor suggested to submit the paper to a more specialized journal.",
+        "C": "The student remembered submitting her assignment before the deadline.",
+        "D": "The director decided establishing a new department despite budget constraints."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Choose the sentence with the correct conditional form:",
+      "options": {
+        "A": "If the experiment produces the expected results, the research team would publish their findings immediately.",
+        "B": "Had the government implemented stricter regulations, the financial crisis will have been averted.",
+        "C": "Unless additional funding is secured, the project would have to be abandoned.",
+        "D": "Were the evidence to be conclusive, it would revolutionize our understanding of the phenomenon."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the most appropriate phrase to replace the underlined portion: 'The professor's lecture was so abstruse that most students struggled to comprehend the core concepts.'",
+      "options": {
+        "A": "disingenuous",
+        "B": "recondite",
+        "C": "antiquated",
+        "D": "perfunctory"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the most appropriate word to complete the sentence: 'Despite the overwhelmingly negative reviews, the director remained _____ about the artistic merit of the film.'",
+      "options": {
+        "A": "adamant",
+        "B": "ambivalent",
+        "C": "reticent",
+        "D": "diffident"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Which of the following collocations is incorrect?",
+      "options": {
+        "A": "draw a conclusion",
+        "B": "reach a compromise",
+        "C": "make an appointment",
+        "D": "do a mistake"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Identify the sentence with the most appropriate use of an idiomatic expression:",
+      "options": {
+        "A": "After the scandalous revelation, the politician was in hot soup with the public.",
+        "B": "The new regulations have leveled the playing field for smaller companies in the industry.",
+        "C": "The prosecutor's argument had many holes in the water that the defense easily exploited.",
+        "D": "The CEO decided to take the bull by the horns and directly addressed the company's financial problems."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the word that best maintains the tone and meaning in this sentence: 'The critic's _____ review praised the author's nuanced exploration of complex ethical dilemmas.'",
+      "options": {
+        "A": "fulsome",
+        "B": "laudatory",
+        "C": "impartial",
+        "D": "scathing"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the most appropriate phrasal verb to complete this sentence: 'After years of procrastination, the government finally decided to _____ the controversial infrastructure project.'",
+      "options": {
+        "A": "go through with",
+        "B": "put up with",
+        "C": "bring about",
+        "D": "look down on"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Which sentence demonstrates the most effective use of concision without sacrificing clarity?",
+      "options": {
+        "A": "The research findings, which were unexpected and surprising to the scientific community, contradicted previously established theories that had been widely accepted for decades.",
+        "B": "The unexpected research findings contradicted long-established scientific theories.",
+        "C": "The research's findings were not expected and surprised scientists because they went against theories that had been established previously and accepted widely for many decades.",
+        "D": "Scientists were surprised when the findings of the research contradicted theories that had been established and accepted for decades in the scientific community."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Identify the sentence with the most appropriate register for an academic paper:",
+      "options": {
+        "A": "The experiment's results were totally mind-blowing and completely changed how we think about quantum physics.",
+        "B": "It is worth noting that the experimental outcomes significantly altered prevailing paradigms in quantum physics.",
+        "C": "The results of the experiment were really important and made everyone rethink what they knew about quantum physics.",
+        "D": "The experiment gave us some pretty interesting results that shake up our understanding of quantum physics quite a bit."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the most appropriate word to maintain the formal register in this sentence: 'The diplomat's _____ remarks at the press conference created an international incident.'",
+      "options": {
+        "A": "off-the-cuff",
+        "B": "impromptu",
+        "C": "injudicious",
+        "D": "ill-advised"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the most appropriate transition to complete this sentence: 'The economic forecast was overwhelmingly positive; _____, the stock market responded with unexpected volatility.'",
+      "options": {
+        "A": "consequently",
+        "B": "similarly",
+        "C": "thereafter",
+        "D": "nevertheless"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What does the word 'ephemeral' most closely mean?",
+      "options": {
+        "A": "Lasting for a very short time",
+        "B": "Extremely beautiful or delicate",
+        "C": "Causing strong disgust or hatred",
+        "D": "Occurring or existing throughout the world"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the word that best completes this sentence: 'The archaeologist's discovery of the ancient temple was _____, completely transforming our understanding of the civilization.'",
+      "options": {
+        "A": "paradigmatic",
+        "B": "superfluous",
+        "C": "seminal",
+        "D": "nominal"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What does the word 'obfuscate' most closely mean?",
+      "options": {
+        "A": "To make something clearer or more transparent",
+        "B": "To render something obscure, unclear, or unintelligible",
+        "C": "To strongly reject or deny something",
+        "D": "To enthusiastically support or advocate for something"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Choose the word that is most opposite in meaning to 'vacillate':",
+      "options": {
+        "A": "fluctuate",
+        "B": "waver",
+        "C": "resolve",
+        "D": "oscillate"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "What does the word 'perfidious' most closely mean?",
+      "options": {
+        "A": "Extremely precise or accurate",
+        "B": "Showing great attention to detail",
+        "C": "Disloyal and untrustworthy",
+        "D": "Excessively proud or arrogant"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Select the word that best completes this sentence: 'The professor's _____ analysis of the literary text revealed layers of meaning that had eluded previous scholars.'",
+      "options": {
+        "A": "cursory",
+        "B": "perspicacious",
+        "C": "nebulous",
+        "D": "quotidian"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "What does the word 'sycophant' most closely mean?",
+      "options": {
+        "A": "A person who acts impetuously without thinking",
+        "B": "A person who seeks to harm others through cruel criticism",
+        "C": "A person who excessively flatters others for personal gain",
+        "D": "A person who avoids social interaction due to extreme shyness"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Choose the word that best completes this sentence: 'Despite the overwhelming evidence against him, the defendant remained _____, refusing to acknowledge his guilt.'",
+      "options": {
+        "A": "contrite",
+        "B": "reticent",
+        "C": "acquiescent",
+        "D": "recalcitrant"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What does the word 'pellucid' most closely mean?",
+      "options": {
+        "A": "Transparent or crystal clear",
+        "B": "Extremely heavy or dense",
+        "C": "Highly ornate or decorated",
+        "D": "Eccentric or peculiar"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Select the word that is most similar in meaning to 'equivocate':",
+      "options": {
+        "A": "equalize",
+        "B": "prevaricate",
+        "C": "advocate",
+        "D": "capitulate"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What does the word 'ineffable' most closely mean?",
+      "options": {
+        "A": "Too great or extreme to be expressed in words",
+        "B": "Causing extreme disgust or horror",
+        "C": "Lacking any practical purpose or function",
+        "D": "Impossible to achieve or accomplish"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Choose the word that best completes this sentence: 'The politician's _____ comments during the debate alienated many moderate voters.'",
+      "options": {
+        "A": "temperate",
+        "B": "incendiary",
+        "C": "judicious",
+        "D": "circumspect"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "What does the word 'pusillanimous' most closely mean?",
+      "options": {
+        "A": "Showing a lack of courage or determination",
+        "B": "Excessively aggressive or combative",
+        "C": "Unwilling to spend money or resources",
+        "D": "Deliberately harmful or malicious"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Select the word that is most opposite in meaning to 'laconic':",
+      "options": {
+        "A": "terse",
+        "B": "succinct",
+        "C": "garrulous",
+        "D": "reticent"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "What does the word 'insidious' most closely mean?",
+      "options": {
+        "A": "Proceeding in a gradual, subtle way, but with harmful effects",
+        "B": "Showing great intelligence or mental acuity",
+        "C": "Extremely precise or accurate in detail",
+        "D": "Lacking any clear purpose or function"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, neuroplasticity challenges which previously held belief?",
+      "options": {
+        "A": "That the brain is capable of forming new neural connections",
+        "B": "That brain development occurs mainly during childhood and adolescence",
+        "C": "That neural architecture is entirely predetermined by genetics",
+        "D": "That the brain cannot compensate for injury or disease"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "The phrase 'use it or lose it' in paragraph 2 refers to which neuroplastic mechanism?",
+      "options": {
+        "A": "Neurogenesis in the hippocampus",
+        "B": "Long-term potentiation",
+        "C": "Neural pruning of underutilized pathways",
+        "D": "Dendritic sprouting"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "What can be inferred from paragraph 3 about traditional educational models?",
+      "options": {
+        "A": "They completely ignored the science of neuroplasticity",
+        "B": "They focused learning efforts primarily on early life stages",
+        "C": "They were ineffective at teaching basic skills",
+        "D": "They prioritized growth mindsets over fixed mindsets"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to paragraph 4, which approach to professional development appears to be most effective?",
+      "options": {
+        "A": "Intensive training concentrated in short periods",
+        "B": "Purely cognitive interventions without physical components",
+        "C": "Multidisciplinary approaches incorporating various techniques",
+        "D": "Self-directed learning without organizational support"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Which of the following is presented as a limitation of neuroplasticity in paragraph 5?",
+      "options": {
+        "A": "It only applies to cognitive but not physical learning",
+        "B": "It cannot reverse the aging process in the brain",
+        "C": "Individual differences exist in neuroplastic capacity",
+        "D": "It becomes entirely non-functional after middle age"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "The author uses the term 'virtuous cycle' in paragraph 3 to describe:",
+      "options": {
+        "A": "How traditional educational models reinforce learning",
+        "B": "The relationship between growth mindsets and neural changes",
+        "C": "The process of learning musical instruments",
+        "D": "The connection between intellectual stimulation and cognitive reserve"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Which of the following best describes the author's tone in this passage?",
+      "options": {
+        "A": "Highly critical of current educational practices",
+        "B": "Nostalgic about traditional learning approaches",
+        "C": "Cautiously optimistic about neuroplasticity's implications",
+        "D": "Dismissive of neuroplasticity's practical applications"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "Which cellular mechanism mentioned in paragraph 2 is specifically associated with memory consolidation?",
+      "options": {
+        "A": "Synaptogenesis",
+        "B": "Neurogenesis in the hippocampus",
+        "C": "Dendritic sprouting",
+        "D": "Molecular cascades"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to the passage, maladaptive forms of neuroplasticity can:",
+      "options": {
+        "A": "Only occur during critical periods of development",
+        "B": "Be easily reversed through cognitive interventions",
+        "C": "Reinforce negative patterns like addiction or anxiety",
+        "D": "Prevent any beneficial neuroplastic changes"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "The main purpose of this passage is to:",
+      "options": {
+        "A": "Compare traditional and modern educational approaches",
+        "B": "Advocate for specific neuroplasticity-based interventions",
+        "C": "Explain neuroplasticity and its implications for lifelong learning",
+        "D": "Critique current applications of neuroplasticity in professional development"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
