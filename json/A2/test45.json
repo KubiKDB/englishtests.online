@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Prices affect our daily lives in many ways. Every time we go shopping, we look at the prices of things we want to buy. Sometimes we decide not to buy something because it costs too much. Other times, we buy more of something because it is on sale. Prices help us decide what to buy and how much to spend.<br><br>(2) Food prices are especially important for most families. When the cost of basic foods like bread, milk, and eggs goes up, families have to spend more money on groceries. This means they might have less money for other things they need or want. Some people may change what they eat when prices increase. They might buy cheaper foods or eat at restaurants less often.<br><br>(3) Transportation costs also affect our daily choices. When the price of gas is high, people may drive less. They might take the bus, walk, or ride bicycles instead. Some families decide to buy cars that use less gas. Others may choose to live closer to their work or school to save money on transportation. Rising transportation costs can change how we travel and where we live.<br><br>(4) Housing is another area where prices matter a lot. When house prices or rent costs go up, people may need to live in smaller homes or move to different neighborhoods. Young adults might live with their parents longer because they cannot afford their own places. Some families share homes to save money. The cost of housing can determine where we live and with whom we live.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct verb form: 'She _____ TV every evening.'",
+      "options": {
+        "A": "watch",
+        "B": "watches",
+        "C": "watching",
+        "D": "watched"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the correct past tense: 'I _____ to the store yesterday.'",
+      "options": {
+        "A": "go",
+        "B": "goes",
+        "C": "going",
+        "D": "went"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "They don't has a car.",
+        "B": "They doesn't have a car.",
+        "C": "They don't have a car.",
+        "D": "They not have a car."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct preposition: 'The book is _____ the table.'",
+      "options": {
+        "A": "at",
+        "B": "in",
+        "C": "on",
+        "D": "to"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Select the correct form: 'She _____ dinner when I called.'",
+      "options": {
+        "A": "cook",
+        "B": "cooks",
+        "C": "cooked",
+        "D": "was cooking"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Choose the correct article: 'I saw _____ elephant at the zoo.'",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article needed"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which is the correct comparative form? 'This book is _____ than that one.'",
+      "options": {
+        "A": "more better",
+        "B": "better",
+        "C": "more good",
+        "D": "gooder"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the correct possessive form: 'That is _____ house.'",
+      "options": {
+        "A": "they",
+        "B": "them",
+        "C": "their",
+        "D": "theirs"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct form: 'We _____ to the beach tomorrow.'",
+      "options": {
+        "A": "go",
+        "B": "goes",
+        "C": "going",
+        "D": "are going"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Select the correct question form: '_____ you like coffee?'",
+      "options": {
+        "A": "Are",
+        "B": "Do",
+        "C": "Is",
+        "D": "Does"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Which is the correct plural form?",
+      "options": {
+        "A": "childs",
+        "B": "childrens",
+        "C": "children",
+        "D": "child"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Choose the correct past participle: 'She has _____ her homework.'",
+      "options": {
+        "A": "finish",
+        "B": "finishes",
+        "C": "finishing",
+        "D": "finished"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Select the correct form: 'There _____ many people at the party.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "be",
+        "D": "been"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence has the correct word order?",
+      "options": {
+        "A": "Where you are going?",
+        "B": "Where are you going?",
+        "C": "Where going are you?",
+        "D": "You are going where?"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Choose the correct negative form: 'He _____ like pizza.'",
+      "options": {
+        "A": "don't",
+        "B": "not",
+        "C": "doesn't",
+        "D": "no"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Complete the sentence: 'Can I _____ you a question?'",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "ask",
+        "D": "tell"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct response: 'Thank you.' '_____'",
+      "options": {
+        "A": "Please.",
+        "B": "You're welcome.",
+        "C": "Good luck.",
+        "D": "Excuse me."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the correct expression: 'I need to _____ a shower.'",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "have",
+        "D": "take"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Complete the sentence: 'What time do you usually _____ up in the morning?'",
+      "options": {
+        "A": "stand",
+        "B": "go",
+        "C": "get",
+        "D": "come"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the best option: 'He speaks English _____.'",
+      "options": {
+        "A": "good",
+        "B": "nice",
+        "C": "well",
+        "D": "fine"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the appropriate expression: 'Would you like _____ to the movies?'",
+      "options": {
+        "A": "going",
+        "B": "to go",
+        "C": "go",
+        "D": "goes"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Complete the sentence: 'I'm not feeling well. I think I'll _____ home.'",
+      "options": {
+        "A": "stay",
+        "B": "remain",
+        "C": "keep",
+        "D": "hold"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct phrase: 'She's _____ a blue shirt today.'",
+      "options": {
+        "A": "carrying",
+        "B": "wearing",
+        "C": "taking",
+        "D": "holding"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Select the appropriate word: 'Can you _____ me with my homework?'",
+      "options": {
+        "A": "help",
+        "B": "aid",
+        "C": "assist",
+        "D": "support"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Complete the sentence: 'What's the _____ like in your country?'",
+      "options": {
+        "A": "climate",
+        "B": "temperature",
+        "C": "weather",
+        "D": "sky"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What is an 'office'?",
+      "options": {
+        "A": "A place where people work",
+        "B": "A type of food",
+        "C": "A place to sleep",
+        "D": "A type of transportation"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the correct use of 'nothing':",
+      "options": {
+        "A": "I have nothing in my bag.",
+        "B": "She nothing to school every day.",
+        "C": "They nothing very happy.",
+        "D": "He can nothing speak English."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Which sentence uses 'already' correctly?",
+      "options": {
+        "A": "I already house in the city.",
+        "B": "She already finished her homework.",
+        "C": "They already the bus to work.",
+        "D": "He already happy all the time."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "What does 'between' mean in this sentence? 'The book is between the lamp and the computer.'",
+      "options": {
+        "A": "Under",
+        "B": "Behind",
+        "C": "In the middle of",
+        "D": "Far from"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the sentence where 'quiet' is used correctly:",
+      "options": {
+        "A": "Please be quiet in the library.",
+        "B": "She quiet to work every day.",
+        "C": "They quiet pizza for dinner.",
+        "D": "He quiet very tall."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "What does 'dangerous' mean?",
+      "options": {
+        "A": "Very nice",
+        "B": "Not safe",
+        "C": "Expensive",
+        "D": "Very big"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Which sentence uses 'order' correctly?",
+      "options": {
+        "A": "I would like to order a pizza, please.",
+        "B": "She order very beautiful today.",
+        "C": "They order to school by bus.",
+        "D": "He can order Spanish very well."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Choose the correct sentence with 'exercise':",
+      "options": {
+        "A": "I exercise to school every day.",
+        "B": "She exercise very nice and kind.",
+        "C": "I do exercise every morning.",
+        "D": "They exercise dinner at 7 PM."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What does 'little' mean in this sentence? 'I have little time to finish my work.'",
+      "options": {
+        "A": "A lot of",
+        "B": "No",
+        "C": "Not much",
+        "D": "Some"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Which sentence uses 'grandmother' correctly?",
+      "options": {
+        "A": "My grandmother lives in a small house.",
+        "B": "She grandmother to work by bus.",
+        "C": "They grandmother very delicious food.",
+        "D": "He can grandmother English very well."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What does 'ground' mean?",
+      "options": {
+        "A": "The sky",
+        "B": "The surface of the earth",
+        "C": "A tall building",
+        "D": "A type of food"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Choose the sentence that uses 'place' correctly:",
+      "options": {
+        "A": "This is a nice place to live.",
+        "B": "She place her homework last night.",
+        "C": "They place to school by car.",
+        "D": "He can place French very well."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Which sentence uses 'must' correctly?",
+      "options": {
+        "A": "She must home now.",
+        "B": "You must wear a helmet when riding a bike.",
+        "C": "They must dinner at 8 PM.",
+        "D": "He must Spanish very well."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "What is the correct use of 'them'?",
+      "options": {
+        "A": "Them is my brother.",
+        "B": "I gave them some money.",
+        "C": "Them car is blue.",
+        "D": "Them live in London."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Which sentence uses 'should' correctly?",
+      "options": {
+        "A": "You should your homework now.",
+        "B": "She should home at 5 PM.",
+        "C": "We should study for the test.",
+        "D": "They should dinner last night."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, how do prices affect our shopping decisions?",
+      "options": {
+        "A": "They make us buy everything we see.",
+        "B": "They help us decide what to buy and how much to spend.",
+        "C": "They force us to only buy expensive things.",
+        "D": "They don't affect our decisions at all."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "What happens when food prices increase, according to the passage?",
+      "options": {
+        "A": "People eat more food.",
+        "B": "Families have more money for other things.",
+        "C": "Families have less money for other things.",
+        "D": "All restaurants close."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 2, what might people do when food prices go up?",
+      "options": {
+        "A": "They might buy more expensive foods.",
+        "B": "They might buy cheaper foods or eat at restaurants less often.",
+        "C": "They stop buying food completely.",
+        "D": "They always eat at restaurants instead."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "What might people do when gas prices are high?",
+      "options": {
+        "A": "They might drive more.",
+        "B": "They might move far from work.",
+        "C": "They might take the bus or walk instead.",
+        "D": "They might buy bigger cars."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to paragraph 3, how can transportation costs affect where people live?",
+      "options": {
+        "A": "They may choose to live closer to work or school.",
+        "B": "They always live in expensive areas.",
+        "C": "They never move to new places.",
+        "D": "They always live far from work."
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What happens when housing prices increase?",
+      "options": {
+        "A": "People always buy bigger houses.",
+        "B": "People may need to live in smaller homes.",
+        "C": "Everyone moves to expensive neighborhoods.",
+        "D": "Housing becomes cheaper."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to paragraph 4, why might young adults live with their parents longer?",
+      "options": {
+        "A": "Because they prefer living with their parents",
+        "B": "Because houses are too big",
+        "C": "Because they cannot afford their own places",
+        "D": "Because they don't like living alone"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What is one way families save money on housing costs?",
+      "options": {
+        "A": "By buying many houses",
+        "B": "By sharing homes",
+        "C": "By living in expensive areas",
+        "D": "By moving every month"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to the passage, which of these prices affects most families?",
+      "options": {
+        "A": "Toy prices",
+        "B": "Movie ticket prices",
+        "C": "Food prices",
+        "D": "Clothing prices"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the main topic of this passage?",
+      "options": {
+        "A": "How to save money",
+        "B": "How prices affect our daily lives",
+        "C": "Why food is expensive",
+        "D": "Transportation problems"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
