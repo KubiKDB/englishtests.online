@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The sun is very important for all life on Earth. It gives us light during the day. Without the sun, our planet would be dark and cold. Plants need sunlight to grow. Animals need plants for food. Humans need both plants and animals to live.<br><br>(2) The sun helps us stay healthy. When our skin gets sunlight, our body makes vitamin D. Vitamin D helps make our bones strong. The sun also helps us sleep better. When we see sunlight in the morning, our body knows it is time to be awake. When it gets dark, our body knows it is time to sleep.<br><br>(3) The sun gives us energy. We can use solar panels to change sunlight into electricity. This is clean energy that does not make pollution. Many houses and buildings now use solar panels on their roofs. Some cars can also use energy from the sun.<br><br>(4) The sun makes the weather on Earth. It heats the air and the water. This creates wind and rain. Different places on Earth get different amounts of sunlight. This is why some places are hot and some are cold. The sun is the reason we have different seasons like summer and winter.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "She _____ to school every day.",
+      "options": {
+        "A": "go",
+        "B": "goes",
+        "C": "going",
+        "D": "is go"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "_____ is your name?",
+      "options": {
+        "A": "What",
+        "B": "Where",
+        "C": "When",
+        "D": "Why"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "They _____ watching TV now.",
+      "options": {
+        "A": "is",
+        "B": "am",
+        "C": "are",
+        "D": "be"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "I _____ like coffee.",
+      "options": {
+        "A": "don't",
+        "B": "doesn't",
+        "C": "am not",
+        "D": "not"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "We _____ dinner last night.",
+      "options": {
+        "A": "have",
+        "B": "has",
+        "C": "had",
+        "D": "having"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "There _____ a book on the table.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "be",
+        "D": "am"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "She _____ English very well.",
+      "options": {
+        "A": "speak",
+        "B": "speaks",
+        "C": "speaking",
+        "D": "is speak"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "I want _____ apple.",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "–"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "The cat is sleeping _____ the sofa.",
+      "options": {
+        "A": "on",
+        "B": "in",
+        "C": "at",
+        "D": "of"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "She is taller _____ her brother.",
+      "options": {
+        "A": "from",
+        "B": "as",
+        "C": "than",
+        "D": "that"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "He _____ like spicy food.",
+      "options": {
+        "A": "don't",
+        "B": "doesn't",
+        "C": "isn't",
+        "D": "not"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "_____ you have a pen?",
+      "options": {
+        "A": "Have",
+        "B": "Has",
+        "C": "Do",
+        "D": "Does"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "The children _____ playing in the park.",
+      "options": {
+        "A": "is",
+        "B": "am",
+        "C": "are",
+        "D": "be"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "I _____ to the movies yesterday.",
+      "options": {
+        "A": "go",
+        "B": "goes",
+        "C": "going",
+        "D": "went"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "These are _____ books.",
+      "options": {
+        "A": "I",
+        "B": "me",
+        "C": "my",
+        "D": "mine"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Can you _____ the window, please?",
+      "options": {
+        "A": "open",
+        "B": "to open",
+        "C": "opening",
+        "D": "opened"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "I want _____ to the park.",
+      "options": {
+        "A": "go",
+        "B": "to go",
+        "C": "going",
+        "D": "goes"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "_____ is your phone number?",
+      "options": {
+        "A": "What",
+        "B": "Where",
+        "C": "Who",
+        "D": "Why"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "She _____ have a car.",
+      "options": {
+        "A": "not",
+        "B": "don't",
+        "C": "doesn't",
+        "D": "no"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "I _____ like ice cream.",
+      "options": {
+        "A": "very",
+        "B": "much",
+        "C": "many",
+        "D": "really"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "_____ do you live? In New York.",
+      "options": {
+        "A": "What",
+        "B": "Where",
+        "C": "When",
+        "D": "Who"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "This is _____ friend Tom.",
+      "options": {
+        "A": "I",
+        "B": "me",
+        "C": "my",
+        "D": "mine"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "I'm sorry, I don't _____ .",
+      "options": {
+        "A": "know",
+        "B": "understanding",
+        "C": "understand",
+        "D": "understands"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "There _____ some milk in the fridge.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "be",
+        "D": "have"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "I like _____ music.",
+      "options": {
+        "A": "hear",
+        "B": "hearing",
+        "C": "to hear",
+        "D": "listen"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "The weather is very _____ today.",
+      "options": {
+        "A": "nice",
+        "B": "monkey",
+        "C": "sea",
+        "D": "kitchen"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "The _____ is jumping in the tree.",
+      "options": {
+        "A": "sea",
+        "B": "device",
+        "C": "monkey",
+        "D": "network"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "She has a _____ dress for the party.",
+      "options": {
+        "A": "personal",
+        "B": "pretty",
+        "C": "network",
+        "D": "center"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "I use the internet to connect to the _____.",
+      "options": {
+        "A": "kitchen",
+        "B": "row",
+        "C": "sea",
+        "D": "network"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "_____ pass me the salt.",
+      "options": {
+        "A": "Nice",
+        "B": "Sometimes",
+        "C": "Please",
+        "D": "Behind"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Can you _____ your feelings?",
+      "options": {
+        "A": "express",
+        "B": "join",
+        "C": "device",
+        "D": "center"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "This is my _____ computer.",
+      "options": {
+        "A": "sea",
+        "B": "personal",
+        "C": "sometimes",
+        "D": "kitchen"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "The dog is _____ the door.",
+      "options": {
+        "A": "center",
+        "B": "join",
+        "C": "behind",
+        "D": "please"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "The shopping mall is in the _____ of town.",
+      "options": {
+        "A": "please",
+        "B": "monkey",
+        "C": "center",
+        "D": "row"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "I _____ go to the movies on weekends.",
+      "options": {
+        "A": "behind",
+        "B": "sometimes",
+        "C": "express",
+        "D": "pretty"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Please _____ our team!",
+      "options": {
+        "A": "join",
+        "B": "device",
+        "C": "network",
+        "D": "nice"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "We went swimming in the _____.",
+      "options": {
+        "A": "kitchen",
+        "B": "device",
+        "C": "sea",
+        "D": "center"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Please sit in the front _____ of the classroom.",
+      "options": {
+        "A": "sea",
+        "B": "row",
+        "C": "network",
+        "D": "express"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "My mother is cooking in the _____.",
+      "options": {
+        "A": "network",
+        "B": "center",
+        "C": "row",
+        "D": "kitchen"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "I need a new _____ to connect to the internet.",
+      "options": {
+        "A": "device",
+        "B": "monkey",
+        "C": "sea",
+        "D": "center"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, why do humans need plants and animals?",
+      "options": {
+        "A": "For sunlight",
+        "B": "To stay warm",
+        "C": "To live",
+        "D": "To make vitamin D"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "According to the passage, what would happen without the sun?",
+      "options": {
+        "A": "Plants would grow faster",
+        "B": "The Earth would be dark and cold",
+        "C": "We would have better sleep",
+        "D": "We would have more energy"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 2, what helps make our bones strong?",
+      "options": {
+        "A": "Sunlight",
+        "B": "Plants",
+        "C": "Vitamin D",
+        "D": "Sleep"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "How does the sun help us sleep better?",
+      "options": {
+        "A": "It makes us tired",
+        "B": "It tells our body when to be awake and when to sleep",
+        "C": "It gives us energy",
+        "D": "It heats the air"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to paragraph 3, what is solar energy?",
+      "options": {
+        "A": "Energy that makes pollution",
+        "B": "Energy from the wind",
+        "C": "Energy from water",
+        "D": "Energy from the sun"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to the passage, what can use solar panels?",
+      "options": {
+        "A": "Only houses",
+        "B": "Only cars",
+        "C": "Houses, buildings, and cars",
+        "D": "Only buildings"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to paragraph 4, what does the sun create?",
+      "options": {
+        "A": "Vitamin D",
+        "B": "Wind and rain",
+        "C": "Solar panels",
+        "D": "Electricity"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "Why are some places hot and some places cold?",
+      "options": {
+        "A": "Because of wind and rain",
+        "B": "Because of the seasons",
+        "C": "Because of different amounts of sunlight",
+        "D": "Because of the weather"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What is the main idea of this passage?",
+      "options": {
+        "A": "The sun gives us light during the day",
+        "B": "The sun is important for life on Earth",
+        "C": "The sun creates different seasons",
+        "D": "The sun helps us make vitamin D"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "The word 'pollution' in paragraph 3 is closest in meaning to:",
+      "options": {
+        "A": "clean air",
+        "B": "dirty things in the air and water",
+        "C": "electricity",
+        "D": "energy"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
