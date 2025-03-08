@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Mountains are the highest places on Earth. They are large, natural formations that rise high above the surrounding land. Mountains can be found on every continent. Some mountains stand alone, while others form long chains called mountain ranges. The highest mountain on Earth is Mount Everest, which is 8,848 meters tall and located in Asia.<br><br>(2) Mountains form in different ways. Most mountains form when parts of the Earth's crust push together. This happens very slowly over millions of years. Some mountains form when hot magma from inside the Earth pushes up through the surface. Mountains can also form when land is pushed up by movements in the Earth's crust. These natural processes continue to create and change mountains today.<br><br>(3) The climate on mountains is different from the areas below. As you go higher up a mountain, the air gets colder and thinner. For every 1,000 meters you climb, the temperature drops about 6 degrees Celsius. Many mountains have snow at the top all year round. The weather on mountains can change very quickly. It might be sunny one moment and stormy the next. Living on mountains can be difficult because of these harsh conditions.<br><br>(4) Despite the harsh conditions, mountains are home to many plants and animals. These living things have adapted to survive in the cold, thin air. Mountains are also important to humans. They provide water, food, and shelter for many people around the world. Mountains are popular places for hiking, skiing, and other outdoor activities. Many people visit mountains to enjoy their beauty and peaceful environment.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct form: She _____ breakfast every morning.",
+      "options": {
+        "A": "have",
+        "B": "having",
+        "C": "has",
+        "D": "is have"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the correct sentence:",
+      "options": {
+        "A": "We not like pizza.",
+        "B": "We don't like pizza.",
+        "C": "We doesn't like pizza.",
+        "D": "We no like pizza."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Choose the correct past tense form: I _____ to the store yesterday.",
+      "options": {
+        "A": "go",
+        "B": "went",
+        "C": "going",
+        "D": "goed"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which is the correct question form?",
+      "options": {
+        "A": "Where you live?",
+        "B": "Where you are live?",
+        "C": "Where do you live?",
+        "D": "Where are you live?"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Select the correct form to complete the sentence: The book is _____ the table.",
+      "options": {
+        "A": "in",
+        "B": "on",
+        "C": "at",
+        "D": "by"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "A": "She is taller than me.",
+        "B": "She is more taller than me.",
+        "C": "She is tallest than me.",
+        "D": "She is the taller than me."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which is the correct form? Tom and Mary _____ at school now.",
+      "options": {
+        "A": "is",
+        "B": "am",
+        "C": "be",
+        "D": "are"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the correct form for the future: We _____ to the beach tomorrow.",
+      "options": {
+        "A": "go",
+        "B": "going",
+        "C": "goes",
+        "D": "are going"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct form: I have _____ apples.",
+      "options": {
+        "A": "much",
+        "B": "many",
+        "C": "lot",
+        "D": "any of"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence uses the present perfect correctly?",
+      "options": {
+        "A": "I have went to Paris.",
+        "B": "I have gone to Paris.",
+        "C": "I have go to Paris.",
+        "D": "I have going to Paris."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Select the correct form: If it rains, I _____ at home.",
+      "options": {
+        "A": "stay",
+        "B": "staying",
+        "C": "will stay",
+        "D": "am stay"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "A": "She cook dinner now.",
+        "B": "She cooking dinner now.",
+        "C": "She is cooking dinner now.",
+        "D": "She does cook dinner now."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Which is correct? They _____ here since 2010.",
+      "options": {
+        "A": "live",
+        "B": "living",
+        "C": "are living",
+        "D": "have lived"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct form: This is _____ car.",
+      "options": {
+        "A": "they",
+        "B": "them",
+        "C": "their",
+        "D": "theirs"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the correct sentence:",
+      "options": {
+        "A": "I like very much pizza.",
+        "B": "I very like pizza.",
+        "C": "I like pizza very much.",
+        "D": "I much like pizza very."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the best way to ask for help:",
+      "options": {
+        "A": "I need help.",
+        "B": "Help me now.",
+        "C": "Could you help me, please?",
+        "D": "You must help."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "What is the best response to 'Thank you'?",
+      "options": {
+        "A": "Yes, please.",
+        "B": "You're welcome.",
+        "C": "Good luck.",
+        "D": "No problem is there."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the best way to make a suggestion:",
+      "options": {
+        "A": "I want we go to the park.",
+        "B": "How about going to the park?",
+        "C": "You should park go.",
+        "D": "Can I suggest the park you?"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Select the best phrase to ask for directions:",
+      "options": {
+        "A": "Where is located the bank?",
+        "B": "I need to know the bank.",
+        "C": "Excuse me, could you tell me how to get to the bank?",
+        "D": "The bank where is it?"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Which is the most polite way to ask for something in a shop?",
+      "options": {
+        "A": "Give me that.",
+        "B": "I want that one.",
+        "C": "I would like this one, please.",
+        "D": "That one for me."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the best way to arrange a meeting:",
+      "options": {
+        "A": "We must meet tomorrow.",
+        "B": "Could we meet at 3 pm tomorrow?",
+        "C": "I order a meeting tomorrow.",
+        "D": "You will meet me tomorrow."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Which phrase shows agreement?",
+      "options": {
+        "A": "I'm not sure about that.",
+        "B": "I completely agree with you.",
+        "C": "Let me think about it.",
+        "D": "That's not how I see it."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "What is the best way to introduce yourself?",
+      "options": {
+        "A": "You can call me John.",
+        "B": "My name is difficult.",
+        "C": "I am a person called John.",
+        "D": "Hello, I'm John. Nice to meet you."
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the best way to end a formal email:",
+      "options": {
+        "A": "Love,",
+        "B": "See you,",
+        "C": "Yours sincerely,",
+        "D": "Bye now,"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Which phrase is best to check understanding?",
+      "options": {
+        "A": "You know this?",
+        "B": "Do you understand what I mean?",
+        "C": "Is clear?",
+        "D": "You have understood?"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What does the word 'child' mean?",
+      "options": {
+        "A": "A young person",
+        "B": "An adult",
+        "C": "A parent",
+        "D": "A teacher"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "An 'apartment' is:",
+      "options": {
+        "A": "A type of car",
+        "B": "A place to live in a building with other apartments",
+        "C": "A type of shop",
+        "D": "A large house with a garden"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What is the 'base' of something?",
+      "options": {
+        "A": "The top part",
+        "B": "The middle part",
+        "C": "The bottom part or foundation",
+        "D": "The outside part"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "When you 'hear' something, you:",
+      "options": {
+        "A": "See it with your eyes",
+        "B": "Touch it with your hands",
+        "C": "Smell it with your nose",
+        "D": "Listen to it with your ears"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "What does 'anyone' mean in the sentence 'Is anyone home?'",
+      "options": {
+        "A": "A specific person",
+        "B": "Any person at all",
+        "C": "Everyone",
+        "D": "No person"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "The word 'only' in 'I have only one brother' means:",
+      "options": {
+        "A": "More than one",
+        "B": "Not more than one",
+        "C": "Very few",
+        "D": "Almost none"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "When something 'continues', it:",
+      "options": {
+        "A": "Stops",
+        "B": "Starts",
+        "C": "Changes direction",
+        "D": "Keeps going"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "A 'brother' is a:",
+      "options": {
+        "A": "Male child of the same parents",
+        "B": "Female child of the same parents",
+        "C": "Child from another family",
+        "D": "Parent's brother"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "A 'bath' is a place where you:",
+      "options": {
+        "A": "Cook food",
+        "B": "Sleep",
+        "C": "Wash yourself",
+        "D": "Keep clothes"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "When you 'sing', you:",
+      "options": {
+        "A": "Make music with your voice",
+        "B": "Play a musical instrument",
+        "C": "Dance to music",
+        "D": "Write music"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "If something happens 'nearly', it happens:",
+      "options": {
+        "A": "Exactly",
+        "B": "Almost",
+        "C": "Far away",
+        "D": "Long ago"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "The word 'hers' shows that something belongs to:",
+      "options": {
+        "A": "A man",
+        "B": "A woman",
+        "C": "A group of people",
+        "D": "You and me"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "If something is 'cheap', it:",
+      "options": {
+        "A": "Costs a lot of money",
+        "B": "Doesn't cost much money",
+        "C": "Is of high quality",
+        "D": "Is very new"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "The word 'perhaps' means:",
+      "options": {
+        "A": "Definitely",
+        "B": "Never",
+        "C": "Maybe",
+        "D": "Always"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "When you 'believe' something, you:",
+      "options": {
+        "A": "Think it is true",
+        "B": "Know it is false",
+        "C": "Don't care about it",
+        "D": "Forget about it"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, mountains can be found:",
+      "options": {
+        "A": "Only in Asia",
+        "B": "Only on high continents",
+        "C": "On some continents",
+        "D": "On every continent"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "What is the highest mountain on Earth according to the passage?",
+      "options": {
+        "A": "A mountain range",
+        "B": "A mountain in Europe",
+        "C": "Mount Everest",
+        "D": "A mountain chain"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 2, how are most mountains formed?",
+      "options": {
+        "A": "By human activity",
+        "B": "When parts of the Earth's crust push together",
+        "C": "When rivers cut through the land",
+        "D": "When snow builds up on high ground"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "The passage states that mountains form:",
+      "options": {
+        "A": "Very quickly over a few years",
+        "B": "Within a human lifetime",
+        "C": "Very slowly over millions of years",
+        "D": "Only in the distant past"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to paragraph 3, what happens to the temperature as you go higher up a mountain?",
+      "options": {
+        "A": "It gets warmer",
+        "B": "It stays the same",
+        "C": "It gets colder",
+        "D": "It changes unpredictably"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "How much does the temperature drop for every 1,000 meters of altitude?",
+      "options": {
+        "A": "1 degree Celsius",
+        "B": "6 degrees Celsius",
+        "C": "10 degrees Celsius",
+        "D": "It doesn't change"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What does the passage say about weather on mountains?",
+      "options": {
+        "A": "It is always cold",
+        "B": "It is always sunny",
+        "C": "It changes very quickly",
+        "D": "It is the same as the weather below"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to paragraph 4, how have plants and animals on mountains adapted?",
+      "options": {
+        "A": "They cannot survive on mountains",
+        "B": "They have adapted to survive in cold, thin air",
+        "C": "They only live at the base of mountains",
+        "D": "They have not changed at all"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "The passage mentions that mountains provide all of the following EXCEPT:",
+      "options": {
+        "A": "Water",
+        "B": "Food",
+        "C": "Shelter",
+        "D": "Transportation"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "According to the passage, why do many people visit mountains?",
+      "options": {
+        "A": "To study geology",
+        "B": "To enjoy their beauty and peaceful environment",
+        "C": "To build houses",
+        "D": "To hunt animals"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
