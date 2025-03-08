@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Weather is what happens in the sky every day. It can be sunny, rainy, windy, or cloudy. Climate is the usual weather in a place over many years. Some places have hot climates, while others have cold climates. Weather can change quickly, but climate changes slowly over time.<br><br>(2) Rain is an important part of weather. Rain happens when water drops fall from clouds. But how does water get into clouds? Water from oceans, lakes, and rivers turns into vapor when it gets warm. This process is called evaporation. The water vapor goes up into the sky and forms clouds.<br><br>(3) When the air gets cold, the water vapor in clouds turns back into water drops. This process is called condensation. If the drops get big enough, they become too heavy to stay in the air. Then they fall to the ground as rain. If the air is very cold, the drops freeze and fall as snow or hail.<br><br>(4) Rain is important for all living things. Plants need rain to grow. Animals need plants for food, and they also need water to drink. People also need water for drinking, cooking, and washing. Without rain, life on Earth would not be possible. That is why understanding how rain forms is important for everyone.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which form of the verb is correct? 'She _____ to the cinema last weekend.'",
+      "options": {
+        "A": "go",
+        "B": "goes",
+        "C": "went",
+        "D": "going"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct option: 'There _____ some milk in the fridge.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "be",
+        "D": "being"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the correct preposition: 'I'm waiting _____ my friend.'",
+      "options": {
+        "A": "to",
+        "B": "for",
+        "C": "at",
+        "D": "with"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "I no like apples.",
+        "B": "I don't like apples.",
+        "C": "I not like apples.",
+        "D": "I don't likes apples."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct comparative form: 'This book is _____ than that one.'",
+      "options": {
+        "A": "more interesting",
+        "B": "interestinger",
+        "C": "more interest",
+        "D": "most interesting"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the correct pronoun: '_____ are my shoes.'",
+      "options": {
+        "A": "This",
+        "B": "That",
+        "C": "These",
+        "D": "It"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which sentence uses the past continuous correctly?",
+      "options": {
+        "A": "I was read a book yesterday.",
+        "B": "I reading a book yesterday.",
+        "C": "I was reading a book yesterday.",
+        "D": "I were reading a book yesterday."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct article: 'I need _____ umbrella because it's raining.'",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article needed"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Select the correct modal verb: 'You _____ smoke in the hospital.'",
+      "options": {
+        "A": "don't have to",
+        "B": "mustn't",
+        "C": "shouldn't to",
+        "D": "doesn't have to"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which question form is correct?",
+      "options": {
+        "A": "Where you are going?",
+        "B": "Where are you going?",
+        "C": "Where going you are?",
+        "D": "Where are going you?"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct future form: 'I _____ my grandmother next week.'",
+      "options": {
+        "A": "visit",
+        "B": "visited",
+        "C": "am visiting",
+        "D": "will visiting"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the correct possessive form: 'That is _____ car.'",
+      "options": {
+        "A": "they",
+        "B": "them",
+        "C": "their",
+        "D": "theirs"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Which sentence uses the present perfect correctly?",
+      "options": {
+        "A": "I have see that movie.",
+        "B": "I seen that movie.",
+        "C": "I have saw that movie.",
+        "D": "I have seen that movie."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct plural form: 'There are two _____ on the table.'",
+      "options": {
+        "A": "childs",
+        "B": "child",
+        "C": "childrens",
+        "D": "children"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the correct order of adjectives: 'She has a _____ bag.'",
+      "options": {
+        "A": "leather new black",
+        "B": "new black leather",
+        "C": "black leather new",
+        "D": "leather black new"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Complete the sentence: 'He always arrives _____ time for meetings.'",
+      "options": {
+        "A": "in",
+        "B": "on",
+        "C": "at",
+        "D": "by"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct expression: 'I'm tired. I think I'll _____ to bed early tonight.'",
+      "options": {
+        "A": "go",
+        "B": "do",
+        "C": "make",
+        "D": "take"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the correct phrasal verb: 'Can you _____ the TV, please? I want to watch the news.'",
+      "options": {
+        "A": "turn in",
+        "B": "turn on",
+        "C": "turn off",
+        "D": "turn over"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Complete the sentence: 'I need to _____ a doctor's appointment.'",
+      "options": {
+        "A": "do",
+        "B": "take",
+        "C": "make",
+        "D": "have"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct expression: 'She _____ a lot of time reading books.'",
+      "options": {
+        "A": "makes",
+        "B": "does",
+        "C": "spends",
+        "D": "has"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the correct option: 'Let's _____ a break. I'm tired.'",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "have",
+        "D": "take"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Complete the sentence: 'I don't _____ swimming in cold water.'",
+      "options": {
+        "A": "enjoy",
+        "B": "enjoying",
+        "C": "to enjoy",
+        "D": "enjoyed"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct expression: 'I need to _____ shopping for food.'",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "go",
+        "D": "have"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Select the correct option: 'She _____ a mistake in her homework.'",
+      "options": {
+        "A": "did",
+        "B": "made",
+        "C": "had",
+        "D": "took"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Complete the sentence: 'I'm looking _____ my keys. Have you seen them?'",
+      "options": {
+        "A": "at",
+        "B": "for",
+        "C": "to",
+        "D": "after"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Which word best completes the sentence? 'I drink water from a plastic _____ every day.'",
+      "options": {
+        "A": "bottle",
+        "B": "cup",
+        "C": "glass",
+        "D": "can"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the word that means 'correct' or 'opposite of left':",
+      "options": {
+        "A": "wrong",
+        "B": "right",
+        "C": "straight",
+        "D": "good"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Select the word that means 'equal' or 'level':",
+      "options": {
+        "A": "odd",
+        "B": "same",
+        "C": "even",
+        "D": "fair"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which word means 'information about recent events'?",
+      "options": {
+        "A": "story",
+        "B": "paper",
+        "C": "channel",
+        "D": "news"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the word that means 'a person who is not named':",
+      "options": {
+        "A": "someone",
+        "B": "anyone",
+        "C": "nobody",
+        "D": "everybody"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Which word means 'a picture taken with a camera'?",
+      "options": {
+        "A": "image",
+        "B": "picture",
+        "C": "snapshot",
+        "D": "photo"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Select the word that means 'drawings that show the layout of an area':",
+      "options": {
+        "A": "plans",
+        "B": "directions",
+        "C": "maps",
+        "D": "guides"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Which word means 'to become part of a group'?",
+      "options": {
+        "A": "enter",
+        "B": "join",
+        "C": "attend",
+        "D": "follow"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Choose the word that means 'the part of the body used for hearing':",
+      "options": {
+        "A": "eye",
+        "B": "nose",
+        "C": "ear",
+        "D": "mouth"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Select the word that means 'a journey or vacation':",
+      "options": {
+        "A": "visit",
+        "B": "travel",
+        "C": "tour",
+        "D": "trip"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Which word means 'energy or strength'?",
+      "options": {
+        "A": "force",
+        "B": "power",
+        "C": "might",
+        "D": "control"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Choose the word that means 'very interesting and fun':",
+      "options": {
+        "A": "boring",
+        "B": "exciting",
+        "C": "tiring",
+        "D": "relaxing"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Select the word that means 'a small piece of plastic or paper used for identification':",
+      "options": {
+        "A": "ticket",
+        "B": "note",
+        "C": "card",
+        "D": "pass"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Which word means 'steps inside a building that connect different floors'?",
+      "options": {
+        "A": "elevator",
+        "B": "ladder",
+        "C": "stairs",
+        "D": "escalator"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Choose the word that means 'a solid piece of material or area of land':",
+      "options": {
+        "A": "section",
+        "B": "piece",
+        "C": "part",
+        "D": "block"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, what is the difference between weather and climate?",
+      "options": {
+        "A": "Weather is always sunny, while climate can be rainy.",
+        "B": "Weather is what happens daily, while climate is the usual weather over many years.",
+        "C": "Weather changes slowly, while climate changes quickly.",
+        "D": "Weather is about temperature, while climate is about rain."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Based on the passage, what is evaporation?",
+      "options": {
+        "A": "When water drops fall from clouds",
+        "B": "When water vapor turns into water drops",
+        "C": "When water turns into vapor due to heat",
+        "D": "When drops freeze and fall as snow"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, what is condensation?",
+      "options": {
+        "A": "When water drops get too heavy",
+        "B": "When water vapor turns back into water drops",
+        "C": "When water drops fall as rain",
+        "D": "When water drops freeze into snow"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "When does rain fall to the ground, according to the passage?",
+      "options": {
+        "A": "When there is evaporation",
+        "B": "When the air is very cold",
+        "C": "When water drops become too heavy",
+        "D": "When clouds form in the sky"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What happens when the air is very cold, according to paragraph 3?",
+      "options": {
+        "A": "Water turns into vapor faster",
+        "B": "Water drops become rain",
+        "C": "Clouds cannot form",
+        "D": "Water drops freeze and fall as snow or hail"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "Based on the passage, why is rain important?",
+      "options": {
+        "A": "It helps clouds to form",
+        "B": "It makes the weather change quickly",
+        "C": "It is necessary for all living things",
+        "D": "It changes the climate slowly"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to the passage, which of the following needs rain to grow?",
+      "options": {
+        "A": "Animals",
+        "B": "Plants",
+        "C": "Clouds",
+        "D": "Oceans"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What is the main purpose of paragraph 4?",
+      "options": {
+        "A": "To explain how rain forms",
+        "B": "To describe the water cycle",
+        "C": "To explain why rain is important",
+        "D": "To compare weather and climate"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Where does water vapor come from, according to the passage?",
+      "options": {
+        "A": "From clouds in the sky",
+        "B": "From oceans, lakes, and rivers",
+        "C": "From plants and animals",
+        "D": "From rain and snow"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What would happen without rain, according to the passage?",
+      "options": {
+        "A": "Climate would change more quickly",
+        "B": "Weather would always be sunny",
+        "C": "There would be more clouds",
+        "D": "Life on Earth would not be possible"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    }
+  ]
+}
