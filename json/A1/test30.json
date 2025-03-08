@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The Amazon Rainforest is a beautiful place in South America. It is the largest rainforest in the world. Many plants and animals live there. The rainforest has tall trees, colorful birds, and interesting insects. People call it the 'lungs of the Earth' because it makes a lot of oxygen.<br><br>(2) Life in the Amazon is very busy. During the day, animals look for food and build homes. Birds sing in the trees, and monkeys jump from branch to branch. In the water, fish swim and play. At night, different animals come out. Some of them have special eyes to see in the dark.<br><br>(3) The Amazon River flows through the rainforest. It is one of the longest rivers in the world. Many people live near the river. They use boats to travel and to catch fish. The river is home to many animals too, like dolphins and turtles. Some of these animals cannot be found anywhere else in the world.<br><br>(4) The Amazon Rainforest is important, but it is in danger. People cut down trees to make farms and roads. This is called deforestation. When trees are cut down, animals lose their homes. The air also becomes less clean. Many people are working to protect the rainforest. They want to save this special place for the future.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "They goes to school every day.",
+        "B": "They go to school every day.",
+        "C": "They going to school every day.",
+        "D": "They goed to school every day."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct form of the verb:",
+      "options": {
+        "A": "I am eat breakfast now.",
+        "B": "I eating breakfast now.",
+        "C": "I eat breakfast now.",
+        "D": "I am eating breakfast now."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence has the correct word order?",
+      "options": {
+        "A": "She to the park goes.",
+        "B": "Goes she to the park.",
+        "C": "She goes to the park.",
+        "D": "To the park she goes."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Select the correct past tense form:",
+      "options": {
+        "A": "I see a movie last week.",
+        "B": "I saw a movie last week.",
+        "C": "I seen a movie last week.",
+        "D": "I sees a movie last week."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct article:",
+      "options": {
+        "A": "She is ___ doctor.",
+        "B": "She is a doctor.",
+        "C": "She is an doctor.",
+        "D": "She is the doctor."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the correct sentence:",
+      "options": {
+        "A": "There is three books on the table.",
+        "B": "There are three books on the table.",
+        "C": "There am three books on the table.",
+        "D": "There be three books on the table."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which sentence is correct?",
+      "options": {
+        "A": "I don't has a car.",
+        "B": "I doesn't have a car.",
+        "C": "I haven't a car.",
+        "D": "I don't have a car."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct sentence with 'but':",
+      "options": {
+        "A": "She is tall but he is short.",
+        "B": "She is tall, but short he is.",
+        "C": "She is tall, but is he short.",
+        "D": "She is tall but is short he."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Select the correct possessive form:",
+      "options": {
+        "A": "This is Johns book.",
+        "B": "This is John's book.",
+        "C": "This is the book of John.",
+        "D": "This is John book."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct plural form:",
+      "options": {
+        "A": "One child, two childs",
+        "B": "One child, two childrens",
+        "C": "One child, two children",
+        "D": "One child, two child"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Which sentence uses 'can' correctly?",
+      "options": {
+        "A": "He can to swim.",
+        "B": "He can swimming.",
+        "C": "He can swim.",
+        "D": "He can swims."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the correct preposition:",
+      "options": {
+        "A": "The cat is on the table.",
+        "B": "The cat is in the table.",
+        "C": "The cat is at the table.",
+        "D": "The cat is to the table."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct question form:",
+      "options": {
+        "A": "What time it is?",
+        "B": "What time is it?",
+        "C": "What is time it?",
+        "D": "What it is time?"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Select the correct form of the comparative:",
+      "options": {
+        "A": "This book is gooder than that one.",
+        "B": "This book is more good than that one.",
+        "C": "This book is better than that one.",
+        "D": "This book is goodest than that one."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Choose the correct sentence with 'very':",
+      "options": {
+        "A": "She very is happy.",
+        "B": "She is very happy.",
+        "C": "She is happy very.",
+        "D": "Very she is happy."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Complete the greeting: 'Good _____, how are you today?'",
+      "options": {
+        "A": "morning",
+        "B": "night",
+        "C": "time",
+        "D": "day"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the correct response to 'How are you?':",
+      "options": {
+        "A": "I am 30 years old.",
+        "B": "My name is Mark.",
+        "C": "I am fine, thanks.",
+        "D": "I am from Canada."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct phrase to ask for someone's name:",
+      "options": {
+        "A": "How do you name?",
+        "B": "What is your name?",
+        "C": "Who are you name?",
+        "D": "How are you name?"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Select the correct way to ask for help:",
+      "options": {
+        "A": "Can you help me, please?",
+        "B": "Help, you can me?",
+        "C": "You help me?",
+        "D": "Please, can help me you?"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct phrase to order food in a restaurant:",
+      "options": {
+        "A": "I take the fish, please.",
+        "B": "I would like the fish, please.",
+        "C": "I want fish, give me.",
+        "D": "Fish for me, please you."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the correct phrase to express likes:",
+      "options": {
+        "A": "I want pizza.",
+        "B": "I want to pizza.",
+        "C": "I like pizza.",
+        "D": "I liking pizza."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct phrase to ask about the weather:",
+      "options": {
+        "A": "How is the weather today?",
+        "B": "What is the weather?",
+        "C": "How does the weather?",
+        "D": "What weather is it?"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the correct way to ask for the time:",
+      "options": {
+        "A": "What is the hour?",
+        "B": "What time is it?",
+        "C": "How many time is it?",
+        "D": "When is the time?"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct way to make a suggestion:",
+      "options": {
+        "A": "Let's go to the park.",
+        "B": "We go to the park.",
+        "C": "Go to the park.",
+        "D": "Going to the park."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the correct response to 'Would you like some tea?':",
+      "options": {
+        "A": "Yes, I would.",
+        "B": "Yes, I like.",
+        "C": "Yes, I am.",
+        "D": "Yes, I will."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What does it mean to 'miss' something or someone?",
+      "options": {
+        "A": "To find something",
+        "B": "To feel sad because something or someone is not there",
+        "C": "To be late",
+        "D": "To break something"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "What is an 'instrument'?",
+      "options": {
+        "A": "A thing you use to make music",
+        "B": "A type of food",
+        "C": "A type of clothing",
+        "D": "A place where people work"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What is 'climate'?",
+      "options": {
+        "A": "A type of food",
+        "B": "The weather conditions in a place over a long time",
+        "C": "A part of a house",
+        "D": "A job"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "What does it mean to 'need' something?",
+      "options": {
+        "A": "To give something away",
+        "B": "To dislike something",
+        "C": "To want something that is necessary",
+        "D": "To put something away"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "What does 'further' mean?",
+      "options": {
+        "A": "More distant",
+        "B": "Very close",
+        "C": "Very fast",
+        "D": "Very tall"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "What is a 'story'?",
+      "options": {
+        "A": "A type of food",
+        "B": "A place to buy things",
+        "C": "An account of events or people",
+        "D": "A piece of furniture"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "What is the 'sky'?",
+      "options": {
+        "A": "The ground we walk on",
+        "B": "The space above the earth that you can see",
+        "C": "A type of food",
+        "D": "A place where people live"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "What is a 'mouth'?",
+      "options": {
+        "A": "A part of the body used for eating and speaking",
+        "B": "A type of animal",
+        "C": "A place to buy things",
+        "D": "A piece of clothing"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What does it mean to 'invite' someone?",
+      "options": {
+        "A": "To ask someone to leave",
+        "B": "To ask someone to come to an event",
+        "C": "To be angry with someone",
+        "D": "To give someone money"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "What does 'should' express?",
+      "options": {
+        "A": "Ability",
+        "B": "Permission",
+        "C": "Advice or recommendation",
+        "D": "Certainty"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What does 'without' mean?",
+      "options": {
+        "A": "With the help of",
+        "B": "Not having something",
+        "C": "Inside of",
+        "D": "Below something"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "What does 'outside' refer to?",
+      "options": {
+        "A": "The area beyond the walls of a building",
+        "B": "Inside a house",
+        "C": "Under something",
+        "D": "A type of food"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "What is a 'ball'?",
+      "options": {
+        "A": "A piece of clothing",
+        "B": "A round object used in games",
+        "C": "A type of food",
+        "D": "A place to live"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "What does 'yesterday' refer to?",
+      "options": {
+        "A": "The day before today",
+        "B": "The day after today",
+        "C": "Today",
+        "D": "Two days ago"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "What is a 'spoon'?",
+      "options": {
+        "A": "Something you sleep on",
+        "B": "Something you write with",
+        "C": "Something you eat with",
+        "D": "Something you wear"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "Where is the Amazon Rainforest located according to the passage?",
+      "options": {
+        "A": "In Africa",
+        "B": "In North America",
+        "C": "In South America",
+        "D": "In Asia"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Why is the Amazon Rainforest called the 'lungs of the Earth'?",
+      "options": {
+        "A": "Because it is shaped like lungs",
+        "B": "Because it makes a lot of oxygen",
+        "C": "Because it has many animals",
+        "D": "Because it has many rivers"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "What do animals in the Amazon do during the day?",
+      "options": {
+        "A": "They sleep",
+        "B": "They look for food and build homes",
+        "C": "They hide from people",
+        "D": "They swim in the river"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "What is special about some animals that come out at night?",
+      "options": {
+        "A": "They can fly",
+        "B": "They have special eyes to see in the dark",
+        "C": "They are very big",
+        "D": "They make loud noises"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to the passage, what is the Amazon River?",
+      "options": {
+        "A": "A small stream",
+        "B": "A lake",
+        "C": "One of the longest rivers in the world",
+        "D": "A waterfall"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "How do people who live near the river travel?",
+      "options": {
+        "A": "By car",
+        "B": "By train",
+        "C": "By boat",
+        "D": "By plane"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What is deforestation according to the passage?",
+      "options": {
+        "A": "Planting new trees",
+        "B": "Cutting down trees",
+        "C": "Building houses",
+        "D": "Finding new animals"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What happens when trees are cut down?",
+      "options": {
+        "A": "Animals lose their homes",
+        "B": "The river gets bigger",
+        "C": "More food is available",
+        "D": "More people can live there"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What is the main idea of the passage?",
+      "options": {
+        "A": "The Amazon River is dangerous",
+        "B": "The Amazon Rainforest is important but in danger",
+        "C": "People should not visit the Amazon",
+        "D": "Animals in the Amazon are dangerous"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "Which animals are mentioned as living in the Amazon River?",
+      "options": {
+        "A": "Lions and tigers",
+        "B": "Elephants and giraffes",
+        "C": "Dolphins and turtles",
+        "D": "Bears and wolves"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
