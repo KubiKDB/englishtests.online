@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Emotional intelligence, often abbreviated as EI, encompasses a range of skills that enable individuals to recognize, understand, and manage their own emotions while simultaneously comprehending and influencing the emotions of others. Unlike cognitive intelligence, which primarily focuses on analytical and logical reasoning capabilities, emotional intelligence centers on the nuanced interplay between emotions and interpersonal dynamics. Research increasingly suggests that individuals with high emotional intelligence tend to foster more meaningful connections with others and navigate social complexities with greater finesse.<br><br>(2) At its core, emotional intelligence comprises several interconnected competencies: self-awareness, self-regulation, motivation, empathy, and social skills. Self-awareness involves recognizing one's emotional states and understanding how they impact behavior and decision-making processes. Self-regulation refers to the ability to manage disruptive emotions and impulses, adapting to changing circumstances with appropriate emotional responses. These foundational aspects of emotional intelligence serve as the building blocks for developing healthier relationships across various contexts.<br><br>(3) Empathy, another crucial component of emotional intelligence, enables individuals to understand and share the feelings of others, facilitating more authentic connections. This capacity to perceive emotional cues and respond appropriately creates an atmosphere of mutual respect and validation within relationships. Individuals who exhibit high levels of empathy tend to be more attentive listeners, demonstrate greater sensitivity to cultural differences, and show genuine interest in others' perspectives—qualities that invariably strengthen interpersonal bonds.<br><br>(4) The impact of emotional intelligence on romantic relationships is particularly significant. Partners with well-developed emotional intelligence can effectively communicate their needs, navigate conflicts constructively, and provide emotional support during challenging times. They typically demonstrate greater flexibility in accommodating their partner's emotional needs while maintaining healthy boundaries. Studies consistently indicate that relationships wherein both partners possess high emotional intelligence experience lower levels of conflict and higher relationship satisfaction compared to those lacking these emotional competencies.<br><br>(5) In professional settings, emotional intelligence similarly influences the quality of workplace relationships and overall organizational dynamics. Leaders with strong emotional intelligence can motivate team members, mediate conflicts, and create inclusive environments where diverse perspectives are valued. Colleagues who demonstrate emotional intelligence tend to collaborate more effectively, show greater resilience during periods of stress, and contribute positively to workplace culture. As organizations increasingly recognize the importance of emotional intelligence, many have incorporated EI-focused training programs to enhance interpersonal relationships and productivity among employees.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is grammatically correct?",
+      "options": {
+        "A": "If I would have known about the meeting, I would have attended it.",
+        "B": "Had I known about the meeting, I would have attended it.",
+        "C": "If I had knew about the meeting, I would have attended it.",
+        "D": "Was I knowing about the meeting, I would have attended it."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the grammatically correct sentence:",
+      "options": {
+        "A": "The data shows that climate change is accelerating.",
+        "B": "The data show that climate change is accelerating.",
+        "C": "The data is showing that climate change is accelerating.",
+        "D": "The data are showing that climate change is accelerating."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Choose the sentence with the correct use of a participle:",
+      "options": {
+        "A": "Walking down the street, the rain started to fall heavily.",
+        "B": "Walking down the street, she noticed the rain starting to fall heavily.",
+        "C": "Walking down the street, heavy rain was falling.",
+        "D": "Walking down the street, it started to rain heavily."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence contains correct subject-verb agreement?",
+      "options": {
+        "A": "Neither the professor nor his assistants was able to explain the phenomenon.",
+        "B": "Either the students or the teacher are going to present at the conference.",
+        "C": "The jury have reached their verdict after lengthy deliberation.",
+        "D": "The committee disagrees about how to proceed with the investigation."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Identify the sentence with the correct use of articles:",
+      "options": {
+        "A": "The professor gave a useful advice about writing thesis.",
+        "B": "She has the bachelor's degree in chemistry from an prestigious university.",
+        "C": "We discussed the possibility of establishing a European headquarters in the Netherlands.",
+        "D": "He made the honest mistake when calculating the final results."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which sentence demonstrates correct usage of the past perfect tense?",
+      "options": {
+        "A": "By the time the ambulance arrived, the patient has stopped breathing.",
+        "B": "Before the recession began, the company had already implemented cost-cutting measures.",
+        "C": "The film started after we arrived at the cinema.",
+        "D": "She never has visited Paris before last summer."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Select the sentence with the correct use of a relative clause:",
+      "options": {
+        "A": "The woman who house was burgled last week has installed a security system.",
+        "B": "The experiment which results surprised the scientists was conducted under strict protocols.",
+        "C": "The professor whose research focuses on quantum physics delivered a compelling lecture.",
+        "D": "The documentary that the director he won an award for has been translated into fifteen languages."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Which of the following sentences contains a correct use of the subjunctive mood?",
+      "options": {
+        "A": "I suggest that he goes to the doctor immediately.",
+        "B": "It is essential that every student completes the assignment by Friday.",
+        "C": "The committee recommended that the proposal be reviewed again.",
+        "D": "If I was in your position, I would accept the offer."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Choose the sentence with the correct use of modifiers:",
+      "options": {
+        "A": "Nearly the entire audience was moved by the pianist's heartfelt performance.",
+        "B": "The professor only asked the students to read three chapters.",
+        "C": "She almost completed the marathon in under four hours.",
+        "D": "He merely earned a passing grade on the final examination."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Identify the grammatically correct sentence:",
+      "options": {
+        "A": "Despite of the challenges, the team completed the project on schedule.",
+        "B": "Not only did she excel in mathematics, but also in literature.",
+        "C": "The exhibit comprises of several rare artifacts from the Bronze Age.",
+        "D": "She is one of the few researchers who has published in this field."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Which sentence demonstrates correct parallel structure?",
+      "options": {
+        "A": "The CEO likes running, swimming, and to cycle on weekends.",
+        "B": "The professor emphasized the importance of careful reading, critical thinking, and to write clearly.",
+        "C": "The diplomat spoke persuasively, acted decisively, and negotiated skillfully.",
+        "D": "We must either increase our revenue or our expenses must be reduced."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the sentence with the correct use of gerunds and infinitives:",
+      "options": {
+        "A": "The researcher avoided to make definitive statements without sufficient evidence.",
+        "B": "They discussed investing in renewable energy technologies.",
+        "C": "The professor encouraged the students learning a second language.",
+        "D": "She stopped to smoke after her doctor's recommendation."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Which sentence contains correct subject-verb inversion?",
+      "options": {
+        "A": "Rarely I have encountered such an insightful analysis.",
+        "B": "Not only was the lecture informative, but it was also engaging.",
+        "C": "Never we should underestimate the power of education.",
+        "D": "Hardly she could contain her excitement about the discovery."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Identify the sentence with the correct use of a conditional structure:",
+      "options": {
+        "A": "If the government would have implemented stricter regulations, the crisis might have been averted.",
+        "B": "Unless you will complete the prerequisites, you cannot enroll in the advanced course.",
+        "C": "Had the experiment been conducted under different conditions, the results might have varied significantly.",
+        "D": "Provided that you would arrive on time, we can discuss your proposal in detail."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Choose the sentence with the correct use of reported speech:",
+      "options": {
+        "A": "The professor said that the exam will be postponed until next week.",
+        "B": "She asked me where did I find the reference material for my research.",
+        "C": "He told us that he had completed the analysis before the deadline.",
+        "D": "The director announced that the company has exceeded its annual targets."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the most appropriate word to complete the sentence: 'Despite the _____ nature of the task, the team managed to complete it ahead of schedule.'",
+      "options": {
+        "A": "onerous",
+        "B": "benevolent",
+        "C": "transient",
+        "D": "nominal"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 17,
+      "question": "Select the word that most closely matches the meaning of 'exuberant with enthusiasm and high spirits':",
+      "options": {
+        "A": "reticent",
+        "B": "ebullient",
+        "C": "laconic",
+        "D": "phlegmatic"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 18,
+      "question": "Which word best completes the sentence: 'The government's decision to _____ trade with tariffs was criticized by economists.'",
+      "options": {
+        "A": "enhance",
+        "B": "propagate",
+        "C": "liberate",
+        "D": "fetter"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 19,
+      "question": "Select the most appropriate definition for 'invidious':",
+      "options": {
+        "A": "likely to cause resentment or create ill will",
+        "B": "extremely clever or resourceful",
+        "C": "deliberately misleading or ambiguous",
+        "D": "lacking in strength or substance"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 20,
+      "question": "Choose the word that best fits the definition: 'to spread out over a wide area; not concentrated':",
+      "options": {
+        "A": "consolidate",
+        "B": "converge",
+        "C": "diffuse",
+        "D": "amalgamate"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 21,
+      "question": "Which word most closely matches the meaning of 'basic, elementary, or undeveloped'?",
+      "options": {
+        "A": "rudimentary",
+        "B": "meticulous",
+        "C": "elaborate",
+        "D": "intricate"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 22,
+      "question": "Select the word that means 'a deviation from what is normal or expected':",
+      "options": {
+        "A": "conformity",
+        "B": "regularity",
+        "C": "convention",
+        "D": "aberration"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 23,
+      "question": "Choose the word that best completes the sentence: 'The discovery of _____ spirits among different cultures led to comparative studies in anthropology.'",
+      "options": {
+        "A": "disparate",
+        "B": "kindred",
+        "C": "antithetical",
+        "D": "incongruous"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 24,
+      "question": "Which word means 'responsive to advice or suggestion; willing to comply'?",
+      "options": {
+        "A": "recalcitrant",
+        "B": "intransigent",
+        "C": "amenable",
+        "D": "obstinate"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 25,
+      "question": "Select the word that means 'based on observation or experience rather than theory or pure logic':",
+      "options": {
+        "A": "theoretical",
+        "B": "speculative",
+        "C": "conjectural",
+        "D": "empirical"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 26,
+      "question": "Choose the word that best fits this definition: 'the breaking up or termination of something':",
+      "options": {
+        "A": "synthesis",
+        "B": "coalescence",
+        "C": "dissolution",
+        "D": "integration"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Which word means 'to speak about or write about in an abusively disparaging manner'?",
+      "options": {
+        "A": "extol",
+        "B": "vilify",
+        "C": "venerate",
+        "D": "lionize"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Select the word that best completes the sentence: 'His _____ led him to amass wealth through questionable means, disregarding ethical considerations.'",
+      "options": {
+        "A": "philanthropy",
+        "B": "altruism",
+        "C": "magnanimity",
+        "D": "avarice"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Choose the word that means 'to persuade or coax with flattery or gentle urging':",
+      "options": {
+        "A": "intimidate",
+        "B": "coerce",
+        "C": "cajole",
+        "D": "antagonize"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Which word most closely matches the meaning of 'to publicly denounce or condemn'?",
+      "options": {
+        "A": "acclaim",
+        "B": "endorse",
+        "C": "commend",
+        "D": "decry"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Choose the most appropriate option to complete the sentence: 'The scientific community has expressed concerns about the _____ of research funding in recent years.'",
+      "options": {
+        "A": "abundance",
+        "B": "escalation",
+        "C": "diminution",
+        "D": "proliferation"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 32,
+      "question": "Select the most appropriate phrasal verb to complete the sentence: 'After years of deliberation, the committee finally _____ a decision on the controversial issue.'",
+      "options": {
+        "A": "came across",
+        "B": "came up with",
+        "C": "came around to",
+        "D": "came down with"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 33,
+      "question": "Choose the correct idiomatic expression to complete the sentence: 'Despite having all the necessary qualifications, he _____ when asked challenging questions during the interview.'",
+      "options": {
+        "A": "hit the nail on the head",
+        "B": "jumped the gun",
+        "C": "cut corners",
+        "D": "fell to pieces"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 34,
+      "question": "Select the appropriate collocation to complete the sentence: 'The study _____ significant differences between the control and experimental groups.'",
+      "options": {
+        "A": "raised",
+        "B": "revealed",
+        "C": "erected",
+        "D": "elevated"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 35,
+      "question": "Choose the most appropriate option to complete the sentence: 'The professor's lecture was so _____ that several students found it difficult to follow his reasoning.'",
+      "options": {
+        "A": "lucid",
+        "B": "abstruse",
+        "C": "perspicuous",
+        "D": "transparent"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 36,
+      "question": "Select the most appropriate fixed expression to complete the sentence: 'The new policy was implemented _____ concerns raised by various stakeholders.'",
+      "options": {
+        "A": "in accordance with",
+        "B": "in addition to",
+        "C": "in spite of",
+        "D": "in lieu of"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 37,
+      "question": "Choose the correct option to maintain the meaning of the original sentence: 'Had the researchers considered alternative explanations, they might have reached different conclusions.' This means that the researchers _____.",
+      "options": {
+        "A": "did consider alternative explanations and reached different conclusions",
+        "B": "did not consider alternative explanations and might have reached different conclusions if they had",
+        "C": "considered alternative explanations but still reached the same conclusions",
+        "D": "were required to consider alternative explanations before reaching conclusions"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 38,
+      "question": "Select the appropriate word to complete the sentence: 'The critics _____ the film for its innovative cinematography and compelling narrative.'",
+      "options": {
+        "A": "lambasted",
+        "B": "deprecated",
+        "C": "castigated",
+        "D": "lauded"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 39,
+      "question": "Choose the most appropriate option to complete the sentence: 'The investigation revealed that the financial discrepancies were not merely oversights but part of a _____ scheme to defraud investors.'",
+      "options": {
+        "A": "deliberate",
+        "B": "spontaneous",
+        "C": "haphazard",
+        "D": "fortuitous"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 40,
+      "question": "Select the correct form to complete the sentence: 'Despite numerous attempts to replicate the experiment, the original results remained _____.'",
+      "options": {
+        "A": "unsubstantiated",
+        "B": "unprecedented",
+        "C": "unmitigated",
+        "D": "unwarranted"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what distinguishes emotional intelligence from cognitive intelligence?",
+      "options": {
+        "A": "Emotional intelligence focuses exclusively on managing one's own emotions.",
+        "B": "Emotional intelligence centers on interpersonal dynamics and emotions rather than analytical reasoning.",
+        "C": "Cognitive intelligence is less effective for fostering meaningful connections.",
+        "D": "Emotional intelligence is more easily measured through standardized testing."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following is NOT mentioned in paragraph 2 as a component of emotional intelligence?",
+      "options": {
+        "A": "Self-awareness",
+        "B": "Self-regulation",
+        "C": "Problem-solving ability",
+        "D": "Motivation"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, individuals with high levels of empathy tend to:",
+      "options": {
+        "A": "prioritize their own emotional needs above others",
+        "B": "be less sensitive to cultural differences",
+        "C": "demonstrate genuine interest in others' perspectives",
+        "D": "avoid emotional situations that might be challenging"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Based on paragraph 4, which statement about romantic relationships is true?",
+      "options": {
+        "A": "Emotional intelligence is irrelevant to romantic relationship success.",
+        "B": "Partners with high emotional intelligence typically maintain rigid boundaries.",
+        "C": "Relationships where only one partner has high emotional intelligence are most successful.",
+        "D": "Couples with high emotional intelligence experience greater relationship satisfaction."
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What can be inferred from paragraph 5 about organizations?",
+      "options": {
+        "A": "They value technical skills more than emotional intelligence.",
+        "B": "They increasingly recognize the importance of emotional intelligence in workplace dynamics.",
+        "C": "They rarely offer training programs focused on emotional competencies.",
+        "D": "They find that emotional intelligence reduces productivity."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "The primary purpose of this passage is to:",
+      "options": {
+        "A": "compare and contrast different theories of emotional intelligence",
+        "B": "argue that emotional intelligence is more important than cognitive intelligence",
+        "C": "explain emotional intelligence and its impact on different types of relationships",
+        "D": "describe methods for measuring emotional intelligence in various contexts"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Which of the following best describes the organization of the passage?",
+      "options": {
+        "A": "A chronological history of emotional intelligence research",
+        "B": "A problem-solution structure addressing deficiencies in emotional intelligence",
+        "C": "A definition followed by components and applications in different relationship contexts",
+        "D": "A series of case studies illustrating the importance of emotional intelligence"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to the passage, which skill enables individuals to recognize their own emotional states?",
+      "options": {
+        "A": "Empathy",
+        "B": "Self-regulation",
+        "C": "Social skills",
+        "D": "Self-awareness"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "The passage suggests that leaders with strong emotional intelligence are able to:",
+      "options": {
+        "A": "eliminate all workplace conflicts",
+        "B": "prioritize productivity over employee well-being",
+        "C": "create inclusive environments valuing diverse perspectives",
+        "D": "focus exclusively on financial outcomes"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "Which of the following would be the most appropriate title for this passage?",
+      "options": {
+        "A": "Measuring Emotional Intelligence: Methods and Challenges",
+        "B": "The Superiority of Emotional Intelligence Over Cognitive Intelligence",
+        "C": "Emotional Intelligence: Understanding Its Components and Relational Impact",
+        "D": "Developing Emotional Intelligence: A Step-by-Step Guide"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
