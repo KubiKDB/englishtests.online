@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Neil Armstrong was the first person to walk on the moon. He was an American astronaut who went to space in 1969. The mission was called Apollo 11. Armstrong traveled with two other astronauts named Buzz Aldrin and Michael Collins.<br><br>(2) On July 20, 1969, Armstrong and Aldrin landed on the moon in a small spacecraft called the Eagle. Collins stayed in the main spacecraft and went around the moon. When Armstrong stepped onto the moon, he said the famous words: \"That's one small step for man, one giant leap for mankind.\"<br><br>(3) Armstrong spent about two and a half hours walking on the moon. He and Aldrin took pictures, collected moon rocks, and put up an American flag. Millions of people on Earth watched this historic event on television. It was the first time humans had ever been on another world.<br><br>(4) After the moon mission, Armstrong became a teacher and businessman. He did not like being famous. He was a quiet man who believed the Apollo 11 mission was important for all people, not just for him. Armstrong died in 2012, but his achievement will always be remembered in history.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which article should be used: 'I have ___ apple.'",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct form of the verb: 'She ___ TV every day.'",
+      "options": {
+        "A": "watch",
+        "B": "watches",
+        "C": "watching",
+        "D": "is watch"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the correct preposition: 'The book is ___ the table.'",
+      "options": {
+        "A": "on",
+        "B": "in",
+        "C": "at",
+        "D": "by"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which is the plural form of 'child'?",
+      "options": {
+        "A": "childs",
+        "B": "childes",
+        "C": "children",
+        "D": "childrens"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct form: 'They ___ to school yesterday.'",
+      "options": {
+        "A": "go",
+        "B": "goes",
+        "C": "went",
+        "D": "going"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which is the correct possessive form? 'This is ___ car.'",
+      "options": {
+        "A": "John",
+        "B": "Johns",
+        "C": "John's",
+        "D": "Johns'"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Select the correct option: 'There ___ some water in the glass.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "be",
+        "D": "am"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct form: 'We ___ lunch now.'",
+      "options": {
+        "A": "have",
+        "B": "having",
+        "C": "are having",
+        "D": "has"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence is correct?",
+      "options": {
+        "A": "She not like coffee.",
+        "B": "She doesn't likes coffee.",
+        "C": "She don't like coffee.",
+        "D": "She doesn't like coffee."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Select the correct question form: '_____ they live in London?'",
+      "options": {
+        "A": "Are",
+        "B": "Do",
+        "C": "Does",
+        "D": "Is"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct option: 'It is ___ cold today.'",
+      "options": {
+        "A": "very",
+        "B": "much",
+        "C": "so much",
+        "D": "too much"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the correct pronoun: '___ am a student.'",
+      "options": {
+        "A": "I",
+        "B": "You",
+        "C": "He",
+        "D": "She"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct option: 'My sister ___ play tennis.'",
+      "options": {
+        "A": "can to",
+        "B": "can",
+        "C": "cans",
+        "D": "is can"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Select the correct comparative form: 'This book is ___ than that one.'",
+      "options": {
+        "A": "big",
+        "B": "more big",
+        "C": "bigger",
+        "D": "the biggest"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Which is the correct past tense of 'eat'?",
+      "options": {
+        "A": "eated",
+        "B": "ate",
+        "C": "eaten",
+        "D": "eating"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Complete the sentence: 'You should turn off the lights when you leave ___ room.'",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the best response: 'How are you?' '_____'",
+      "options": {
+        "A": "I'm 25 years old.",
+        "B": "I'm fine, thank you.",
+        "C": "My name is John.",
+        "D": "I'm a teacher."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the correct option to complete the sentence: 'Would you like _____ coffee?'",
+      "options": {
+        "A": "some",
+        "B": "any",
+        "C": "a",
+        "D": "many"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct option: 'What time _____ the movie start?'",
+      "options": {
+        "A": "do",
+        "B": "does",
+        "C": "is",
+        "D": "are"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the best option to complete this common expression: 'Nice to _____ you.'",
+      "options": {
+        "A": "see",
+        "B": "look",
+        "C": "watch",
+        "D": "view"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Which option correctly completes the sentence: 'I usually have breakfast _____ 7 o'clock.'",
+      "options": {
+        "A": "in",
+        "B": "on",
+        "C": "at",
+        "D": "for"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct option to ask for the price: '_____?'",
+      "options": {
+        "A": "How many is it",
+        "B": "How much is it",
+        "C": "What is it",
+        "D": "Who is it"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the best response to: 'Thank you.'",
+      "options": {
+        "A": "You too.",
+        "B": "I'm fine.",
+        "C": "You're welcome.",
+        "D": "Good morning."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct option: 'I don't have _____ money.'",
+      "options": {
+        "A": "no",
+        "B": "some",
+        "C": "any",
+        "D": "a"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the correct option to complete the sentence: 'She lives _____ London.'",
+      "options": {
+        "A": "to",
+        "B": "at",
+        "C": "on",
+        "D": "in"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the meaning of the word 'inside':",
+      "options": {
+        "A": "outside of something",
+        "B": "above something",
+        "C": "within or in the inner part",
+        "D": "below something"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "An 'apple' is a type of:",
+      "options": {
+        "A": "vegetable",
+        "B": "fruit",
+        "C": "meat",
+        "D": "drink"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What is the meaning of 'hello'?",
+      "options": {
+        "A": "a way to say goodbye",
+        "B": "a way to greet someone",
+        "C": "a question word",
+        "D": "a type of food"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "The word 'support' means:",
+      "options": {
+        "A": "to help or assist",
+        "B": "to break something",
+        "C": "to move quickly",
+        "D": "to sleep deeply"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "What is 'paper'?",
+      "options": {
+        "A": "a type of food",
+        "B": "a liquid to drink",
+        "C": "a material to write on",
+        "D": "a piece of clothing"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "The word 'general' means:",
+      "options": {
+        "A": "specific or particular",
+        "B": "relating to most or all things",
+        "C": "very small",
+        "D": "very old"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "The meaning of 'pressure' is:",
+      "options": {
+        "A": "a state of relaxation",
+        "B": "a type of weather",
+        "C": "force or stress applied to something",
+        "D": "a kind of medication"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "The word 'forward' means:",
+      "options": {
+        "A": "toward the back",
+        "B": "toward the front or future",
+        "C": "toward the sides",
+        "D": "staying in place"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What does the word 'five' refer to?",
+      "options": {
+        "A": "a color",
+        "B": "a day of the week",
+        "C": "a number",
+        "D": "a type of food"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "The word 'business' refers to:",
+      "options": {
+        "A": "a place to sleep",
+        "B": "a commercial activity or company",
+        "C": "a type of sport",
+        "D": "a family member"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What does the word 'even' mean in this sentence: 'The number 10 is an even number.'?",
+      "options": {
+        "A": "odd",
+        "B": "divisible by 2",
+        "C": "greater than",
+        "D": "less than"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "A 'phone' is used to:",
+      "options": {
+        "A": "cook food",
+        "B": "clean clothes",
+        "C": "talk to people who are far away",
+        "D": "drive to work"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "What is a 'picture'?",
+      "options": {
+        "A": "a visual representation or image",
+        "B": "a type of music",
+        "C": "a place to eat",
+        "D": "a kind of vehicle"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "The word 'refer' means:",
+      "options": {
+        "A": "to eat quickly",
+        "B": "to sleep deeply",
+        "C": "to mention or direct attention to",
+        "D": "to run away"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "A 'man' is:",
+      "options": {
+        "A": "a female adult",
+        "B": "a male adult",
+        "C": "a young child",
+        "D": "an animal"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, who was the first person to walk on the moon?",
+      "options": {
+        "A": "Buzz Aldrin",
+        "B": "Michael Collins",
+        "C": "Neil Armstrong",
+        "D": "Apollo 11"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "When did the moon landing take place?",
+      "options": {
+        "A": "1968",
+        "B": "1969",
+        "C": "1970",
+        "D": "2012"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "What was the name of the mission to the moon?",
+      "options": {
+        "A": "Eagle",
+        "B": "Apollo 11",
+        "C": "Armstrong",
+        "D": "Apollo 12"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "How many astronauts went to the moon in the spacecraft?",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What was the name of the small spacecraft that landed on the moon?",
+      "options": {
+        "A": "Apollo 11",
+        "B": "Eagle",
+        "C": "Collins",
+        "D": "Armstrong"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "How long did Armstrong spend walking on the moon?",
+      "options": {
+        "A": "About one hour",
+        "B": "About two and a half hours",
+        "C": "About four hours",
+        "D": "One day"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to the passage, what did Armstrong and Aldrin do on the moon?",
+      "options": {
+        "A": "They slept there",
+        "B": "They built a house",
+        "C": "They took pictures and collected rocks",
+        "D": "They met aliens"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "Which famous words did Armstrong say when he stepped on the moon?",
+      "options": {
+        "A": "Hello from the moon!",
+        "B": "We made it to the moon!",
+        "C": "The moon is beautiful!",
+        "D": "That's one small step for man, one giant leap for mankind."
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What did Armstrong become after the moon mission?",
+      "options": {
+        "A": "A teacher and businessman",
+        "B": "A movie star",
+        "C": "The president",
+        "D": "An astronaut trainer"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "According to the passage, how did Armstrong feel about being famous?",
+      "options": {
+        "A": "He loved it",
+        "B": "He was proud of it",
+        "C": "He didn't like it",
+        "D": "He was afraid of it"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
