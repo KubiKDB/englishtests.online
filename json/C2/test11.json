@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The unprecedented proliferation of surveillance technologies in contemporary society has fundamentally transformed the relationship between citizens, states, and corporate entities. Omnipresent cameras equipped with facial recognition capabilities, algorithmic monitoring of digital communications, and the systematic collection of biometric data have collectively engendered an environment where privacy—once considered a fundamental right—increasingly appears to be an antiquated concept. This surveillance infrastructure, ostensibly implemented to enhance security and streamline service delivery, operates within an ambiguous ethical framework where the boundaries between protection and intrusion remain persistently nebulous.<br><br>(2) Proponents of expanded surveillance capabilities typically invoke the specter of existential threats—terrorism, organized crime, public health crises—to justify increasingly sophisticated monitoring systems. Their argument posits that individuals with benign intentions should have minimal concerns about observation, as the primary objective remains collective security rather than individual scrutiny. This security-centric paradigm has gained substantial traction in the aftermath of high-profile security breaches and public emergencies, leading to an incremental normalization of surveillance mechanisms that would have been considered egregiously invasive merely a generation ago. The gradual acclimatization to omnipresent monitoring has occurred with remarkably limited public discourse regarding its long-term implications for democratic governance.<br><br>(3) Critics of the surveillance society present compelling counterarguments centered on the chilling effect that pervasive monitoring exerts on fundamental liberties. Research demonstrates that awareness of potential observation significantly alters behavior, leading to self-censorship and conformity even in ostensibly free societies. The aggregation and algorithmic analysis of vast datasets further enables unprecedented capabilities for behavioral prediction and manipulation, creating asymmetrical power relationships between those who collect data and those who generate it. Privacy advocates consequently argue that the right to be unobserved constitutes not merely an individual preference but an essential prerequisite for authentic expression, intellectual exploration, and democratic participation.<br><br>(4) The dichotomy between security and privacy represents a false choice that obscures more nuanced approaches to balancing these legitimate concerns. Progressive policy frameworks emerging in various jurisdictions suggest viable alternatives that preserve core privacy protections while enabling targeted, accountable surveillance with robust oversight mechanisms. These approaches typically incorporate principles such as data minimization, purpose limitation, informed consent, and algorithmic transparency. Crucially, they recognize that privacy enhances rather than undermines security by fostering trust in institutions and protecting vulnerable populations from potential abuses of surveillance capabilities.<br><br>(5) As surveillance technologies continue their inexorable evolution toward greater sophistication and integration, societies face a decisive inflection point regarding the values that will guide their implementation and regulation. The fundamental challenge lies not in determining whether surveillance should exist—its utility in specific contexts remains undeniable—but rather in establishing democratic mechanisms to ensure that its deployment aligns with collective values and respects fundamental rights. This necessitates ongoing civic engagement, technological literacy, and regulatory frameworks that can adapt to emerging capabilities while preserving the essential privacy that allows individuals to develop autonomously within a democratic society. The surveillance society need not inevitably erode privacy if citizens actively participate in defining the appropriate equilibrium between security imperatives and individual freedoms.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "_____, the conference will proceed as scheduled despite the unexpected challenges.",
+      "options": {
+        "A": "Be as it may",
+        "B": "That being said",
+        "C": "Be it as it might",
+        "D": "Be that as it may"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "_____ I had started my own business right after graduation instead of taking that corporate job.",
+      "options": {
+        "A": "If only",
+        "B": "Supposing",
+        "C": "Provided that",
+        "D": "As though"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "The spokesperson _____ that the company would be implementing significant changes to its operational structure.",
+      "options": {
+        "A": "told",
+        "B": "said",
+        "C": "intimated",
+        "D": "spoke"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "There is _____ evidence to support this theory; most researchers remain skeptical of its validity.",
+      "options": {
+        "A": "few",
+        "B": "little",
+        "C": "a few",
+        "D": "the little"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "You _____ the authorities immediately after discovering the security breach.",
+      "options": {
+        "A": "must have contacted",
+        "B": "would have contacted",
+        "C": "could have contacted",
+        "D": "should have contacted"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "_____ extraordinary talent she possesses for translating complex scientific concepts into accessible language!",
+      "options": {
+        "A": "How",
+        "B": "What an",
+        "C": "Such an",
+        "D": "What"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "It was in the summer of 2010 _____ the company launched its most successful product to date.",
+      "options": {
+        "A": "when",
+        "B": "that",
+        "C": "which",
+        "D": "where"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "She offered to help with the project, but I assured her I could manage without _____.",
+      "options": {
+        "A": "her to help",
+        "B": "she helping",
+        "C": "her helping",
+        "D": "it"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "_____ that the ancient temple complex was constructed using advanced mathematical principles.",
+      "options": {
+        "A": "It was believed",
+        "B": "It is believed",
+        "C": "They believe",
+        "D": "Believing is"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "_____ the costs exceed the budget, we will need to reconsider the entire project scope.",
+      "options": {
+        "A": "Should",
+        "B": "Were",
+        "C": "Had",
+        "D": "Would"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "If they _____ the necessary precautions earlier, they _____ facing these legal challenges now.",
+      "options": {
+        "A": "took / wouldn't be",
+        "B": "had taken / wouldn't be",
+        "C": "would take / hadn't been",
+        "D": "have taken / weren't"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "_____ with the success of their initial campaign, the team immediately began planning their next project.",
+      "options": {
+        "A": "They were elated",
+        "B": "Elated",
+        "C": "Having elated",
+        "D": "To be elated"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Not until the final report was submitted _____ the full extent of the problem.",
+      "options": {
+        "A": "they realized",
+        "B": "did they realize",
+        "C": "they did realize",
+        "D": "realized they"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "The negotiation team needs to _____ some significant concessions if they hope to reach an agreement.",
+      "options": {
+        "A": "make out",
+        "B": "make up",
+        "C": "make for",
+        "D": "make"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "By the time the conference begins next month, they _____ the new research facility for three years.",
+      "options": {
+        "A": "will have been developing",
+        "B": "will develop",
+        "C": "have been developing",
+        "D": "have developed"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "The distinguished professor's lectures on quantum physics were characterized by a remarkable _____ that left even seasoned academics in awe.",
+      "options": {
+        "A": "simplicity",
+        "B": "banality",
+        "C": "accessibility",
+        "D": "profundity"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 17,
+      "question": "After several similar incidents in the neighborhood, residents have become increasingly _____ of strangers loitering near their homes.",
+      "options": {
+        "A": "wary",
+        "B": "indifferent",
+        "C": "enamored",
+        "D": "dismissive"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 18,
+      "question": "His _____ comments during the serious policy debate demonstrated both his insensitivity and his fundamental misunderstanding of the issues at hand.",
+      "options": {
+        "A": "astute",
+        "B": "sagacious",
+        "C": "fatuous",
+        "D": "perspicacious"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 19,
+      "question": "The humanitarian organization provided _____ to the victims of the natural disaster, delivering essential supplies and medical assistance.",
+      "options": {
+        "A": "impediment",
+        "B": "detriment",
+        "C": "obstruction",
+        "D": "succor"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 20,
+      "question": "Corruption was _____ throughout the administration, affecting virtually every department and undermining public trust in government institutions.",
+      "options": {
+        "A": "scarce",
+        "B": "rife",
+        "C": "extinct",
+        "D": "sporadic"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 21,
+      "question": "Despite facing significant financial setbacks, the philanthropist made a _____ donation to the children's hospital, enabling the construction of a new research wing.",
+      "options": {
+        "A": "magnanimous",
+        "B": "paltry",
+        "C": "meager",
+        "D": "grudging"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 22,
+      "question": "The author is remarkably _____, having published over thirty novels, hundreds of short stories, and several collections of poetry in a career spanning just two decades.",
+      "options": {
+        "A": "reticent",
+        "B": "prolific",
+        "C": "laconic",
+        "D": "lethargic"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 23,
+      "question": "The committee chair insisted on removing all _____ material from the report to maintain its focus on the core issues being investigated.",
+      "options": {
+        "A": "pertinent",
+        "B": "crucial",
+        "C": "extraneous",
+        "D": "fundamental"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 24,
+      "question": "The once-magnificent Victorian mansion now stands _____, its windows broken, its gardens overgrown, a shadow of its former glory.",
+      "options": {
+        "A": "pristine",
+        "B": "immaculate",
+        "C": "derelict",
+        "D": "opulent"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 25,
+      "question": "The governmental position was widely regarded as a _____, offering a substantial salary for minimal responsibilities, typically awarded to political allies.",
+      "options": {
+        "A": "hardship",
+        "B": "burden",
+        "C": "ordeal",
+        "D": "sinecure"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 26,
+      "question": "His _____ career has spanned multiple industries; he has been a successful attorney, tech entrepreneur, bestselling novelist, and documentary filmmaker.",
+      "options": {
+        "A": "monotonous",
+        "B": "protean",
+        "C": "stagnant",
+        "D": "predictable"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "The _____ approached the altar with head bowed, humbly requesting divine intervention for her family's troubles.",
+      "options": {
+        "A": "tyrant",
+        "B": "supplicant",
+        "C": "oppressor",
+        "D": "antagonist"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "The unexpected flight of ravens from the ancient tower was interpreted by the village elders as an _____ of impending hardship.",
+      "options": {
+        "A": "embellishment",
+        "B": "augury",
+        "C": "anomaly",
+        "D": "fabrication"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "The professor specialized in _____ philosophical texts that had been largely forgotten by contemporary scholars despite their historical significance.",
+      "options": {
+        "A": "mainstream",
+        "B": "pedestrian",
+        "C": "arcane",
+        "D": "rudimentary"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Her literary criticism is exceptional for its attention to _____, capturing subtle shades of meaning that less perceptive readers might overlook.",
+      "options": {
+        "A": "generality",
+        "B": "obviousness",
+        "C": "broadness",
+        "D": "nuance"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "The historian's research _____ the conventional narrative about the ancient civilization, revealing a much more complex social structure than previously understood.",
+      "options": {
+        "A": "undermined",
+        "B": "bolstered",
+        "C": "reiterated",
+        "D": "exemplified"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 32,
+      "question": "The novelist's latest work is a(n) _____ exploration of family dynamics, weaving together multiple perspectives across three generations.",
+      "options": {
+        "A": "superficial",
+        "B": "nuanced",
+        "C": "rudimentary",
+        "D": "cursory"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 33,
+      "question": "After decades of unchecked industrial activity, environmental regulations were finally _____ to address the severe pollution of local waterways.",
+      "options": {
+        "A": "implemented",
+        "B": "rescinded",
+        "C": "compromised",
+        "D": "neglected"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 34,
+      "question": "The diplomat's carefully worded statement _____ to the possibility of future negotiations while avoiding any firm commitments.",
+      "options": {
+        "A": "precluded",
+        "B": "negated",
+        "C": "alluded",
+        "D": "objected"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 35,
+      "question": "The council's decision to proceed with the controversial development project has _____ significant opposition from local residents and environmental groups.",
+      "options": {
+        "A": "placated",
+        "B": "galvanized",
+        "C": "suppressed",
+        "D": "diminished"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 36,
+      "question": "The research findings were deemed _____ due to methodological flaws and potential conflicts of interest among the study's authors.",
+      "options": {
+        "A": "incontrovertible",
+        "B": "dubious",
+        "C": "unassailable",
+        "D": "definitive"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 37,
+      "question": "Despite its initial reception as revolutionary, the theory has been largely _____ by subsequent research that contradicted its central claims.",
+      "options": {
+        "A": "vindicated",
+        "B": "corroborated",
+        "C": "validated",
+        "D": "discredited"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 38,
+      "question": "The concert hall's exceptional acoustics _____ even the subtlest nuances of the violin soloist's performance.",
+      "options": {
+        "A": "accentuated",
+        "B": "obscured",
+        "C": "diminished",
+        "D": "distorted"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 39,
+      "question": "The documentary presents a(n) _____ examination of the historical event, considering multiple perspectives and avoiding simplistic conclusions.",
+      "options": {
+        "A": "superficial",
+        "B": "comprehensive",
+        "C": "cursory",
+        "D": "perfunctory"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 40,
+      "question": "After months of tense negotiations, the disputing parties finally reached a(n) _____ that addressed the core concerns of all stakeholders.",
+      "options": {
+        "A": "impasse",
+        "B": "deadlock",
+        "C": "compromise",
+        "D": "stalemate"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, surveillance technologies in contemporary society have:",
+      "options": {
+        "A": "Been universally rejected by citizens",
+        "B": "Transformed relationships between citizens, states, and corporations",
+        "C": "Only been implemented in authoritarian regimes",
+        "D": "Failed to achieve their security objectives"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following best describes how surveillance systems have become normalized according to paragraph 2?",
+      "options": {
+        "A": "Through extensive public debate about their implications",
+        "B": "By government mandate despite public opposition",
+        "C": "Incrementally following security incidents with limited public discourse",
+        "D": "Through international agreements and standardized protocols"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to critics mentioned in paragraph 3, what effect does pervasive monitoring have on individuals?",
+      "options": {
+        "A": "It encourages greater civic participation",
+        "B": "It leads to self-censorship and behavioral conformity",
+        "C": "It has minimal impact on daily behavior",
+        "D": "It primarily affects those engaged in criminal activity"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "The passage characterizes the choice between security and privacy as:",
+      "options": {
+        "A": "An inevitable trade-off in modern society",
+        "B": "A politically motivated construct",
+        "C": "A false dichotomy that obscures more nuanced approaches",
+        "D": "A temporary concern that technology will eventually resolve"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What principles do progressive policy frameworks typically incorporate according to paragraph 4?",
+      "options": {
+        "A": "Unlimited data collection with strong security measures",
+        "B": "Data minimization, purpose limitation, and algorithmic transparency",
+        "C": "Prioritizing security interests over all privacy concerns",
+        "D": "Centralized control of all surveillance technologies"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "The author suggests that the fundamental challenge regarding surveillance technologies is:",
+      "options": {
+        "A": "Eliminating all forms of surveillance",
+        "B": "Maximizing security through comprehensive monitoring",
+        "C": "Establishing democratic mechanisms to ensure alignment with collective values",
+        "D": "Developing more sophisticated surveillance capabilities"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What does the passage suggest about the relationship between privacy and security?",
+      "options": {
+        "A": "They are inherently incompatible objectives",
+        "B": "Privacy enhances rather than undermines security",
+        "C": "Security always takes precedence over privacy concerns",
+        "D": "Privacy is an outdated concept in modern security frameworks"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The author's tone in discussing surveillance technologies can best be described as:",
+      "options": {
+        "A": "Alarmist and pessimistic",
+        "B": "Enthusiastically supportive",
+        "C": "Analytically balanced with concern for democratic values",
+        "D": "Technically focused without ethical considerations"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to the passage, what is necessary for preserving privacy in a surveillance society?",
+      "options": {
+        "A": "Complete rejection of all surveillance technologies",
+        "B": "Prioritizing security measures regardless of privacy impacts",
+        "C": "Civic engagement, technological literacy, and adaptive regulatory frameworks",
+        "D": "Allowing surveillance to evolve without public interference"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What theme does the conclusion of the passage emphasize?",
+      "options": {
+        "A": "The inevitable loss of privacy in modern society",
+        "B": "The need for stronger security measures regardless of privacy concerns",
+        "C": "The possibility of balancing security needs with privacy through active citizen participation",
+        "D": "The superiority of technological solutions over policy frameworks"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
