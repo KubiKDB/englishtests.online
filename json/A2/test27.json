@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The blue whale is the largest animal on Earth. It can grow up to 30 meters long and weigh as much as 200 tons. Blue whales are mammals, which means they breathe air, have hair, and feed their babies milk. They need to come to the surface of the water to breathe through their blowholes.<br><br>(2) These giant animals eat very small creatures called krill. A blue whale can eat up to 4 tons of krill in one day. They swim with their huge mouths open and filter the krill from the water. Despite their enormous size, blue whales cannot eat large fish or other large sea animals because their throats are too narrow.<br><br>(3) Blue whales are found in all of the world's oceans. They usually travel alone or in small groups. They communicate with each other using very loud sounds that can travel for hundreds of kilometers underwater. These sounds are too low for humans to hear without special equipment.<br><br>(4) Unfortunately, blue whales are an endangered species. Their numbers decreased greatly because of hunting in the past. Today, they are protected by international laws, but they still face dangers from ship strikes, getting caught in fishing nets, and water pollution. Scientists around the world are working to protect these amazing animals.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which verb form correctly completes this sentence? 'She _____ to the store yesterday.'",
+      "options": {
+        "A": "go",
+        "B": "goes",
+        "C": "went",
+        "D": "going"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct word to complete the sentence: 'There _____ some apples in the basket.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "be",
+        "D": "am"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "They doesn't like pizza.",
+        "B": "He don't like pizza.",
+        "C": "She don't like pizza.",
+        "D": "I don't like pizza."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct past tense form: 'Last week, I _____ a new car.'",
+      "options": {
+        "A": "buy",
+        "B": "buyed",
+        "C": "buying",
+        "D": "bought"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Select the correct preposition: 'The book is _____ the table.'",
+      "options": {
+        "A": "on",
+        "B": "in",
+        "C": "at",
+        "D": "by"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which is the correct question form?",
+      "options": {
+        "A": "Where you are going?",
+        "B": "Where are you going?",
+        "C": "Where going you are?",
+        "D": "Where going are you?"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct comparative form: 'This building is _____ than that one.'",
+      "options": {
+        "A": "more tall",
+        "B": "most tall",
+        "C": "taller",
+        "D": "tallest"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the correct article: 'I saw _____ elephant at the zoo.'",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article needed"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence uses the present perfect correctly?",
+      "options": {
+        "A": "I have went to Paris last year.",
+        "B": "I have gone to Paris last year.",
+        "C": "I have been to Paris three times.",
+        "D": "I have go to Paris tomorrow."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct plural form: 'There are three _____ on the farm.'",
+      "options": {
+        "A": "sheeps",
+        "B": "sheep",
+        "C": "sheepes",
+        "D": "sheps"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Which modal verb correctly completes this sentence? 'You _____ brush your teeth twice a day.'",
+      "options": {
+        "A": "can",
+        "B": "should",
+        "C": "might",
+        "D": "would"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Choose the correct possessive form: 'That is my _____ car.'",
+      "options": {
+        "A": "sister",
+        "B": "sisters",
+        "C": "sister's",
+        "D": "sisters'"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Which sentence uses the correct verb tense?",
+      "options": {
+        "A": "I am knowing the answer.",
+        "B": "I knowing the answer.",
+        "C": "I know the answer.",
+        "D": "I does know the answer."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Select the correct form: 'She _____ dinner when I called.'",
+      "options": {
+        "A": "cook",
+        "B": "cooks",
+        "C": "cooking",
+        "D": "was cooking"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Choose the correct adverb: 'He runs _____.'",
+      "options": {
+        "A": "quick",
+        "B": "quickest",
+        "C": "quickly",
+        "D": "more quickly"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct option to complete the sentence: 'I would like _____ some water, please.'",
+      "options": {
+        "A": "have",
+        "B": "having",
+        "C": "to have",
+        "D": "has"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the best word to complete this common expression: 'Make your _____ and lie in it.'",
+      "options": {
+        "A": "bed",
+        "B": "pillow",
+        "C": "blanket",
+        "D": "sleep"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Which phrase correctly completes this sentence? 'She's good _____ swimming.'",
+      "options": {
+        "A": "on",
+        "B": "at",
+        "C": "in",
+        "D": "for"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct phrase: 'We need to _____ a decision soon.'",
+      "options": {
+        "A": "do",
+        "B": "take",
+        "C": "make",
+        "D": "have"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the correct response to 'How are you?'",
+      "options": {
+        "A": "I'm 25 years old.",
+        "B": "I'm a teacher.",
+        "C": "I'm fine, thank you.",
+        "D": "I'm from Spain."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Which is the correct way to ask for someone's name?",
+      "options": {
+        "A": "How do you call?",
+        "B": "What is your name?",
+        "C": "How do you name?",
+        "D": "What you are called?"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct response to 'Thank you.'",
+      "options": {
+        "A": "You're welcome.",
+        "B": "It's well.",
+        "C": "Not problem.",
+        "D": "That's nice."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the best word to complete this sentence: 'Excuse me, could you _____ me the way to the station?'",
+      "options": {
+        "A": "say",
+        "B": "speak",
+        "C": "talk",
+        "D": "tell"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Which phrase correctly completes this sentence? 'I usually go to work _____ bus.'",
+      "options": {
+        "A": "with",
+        "B": "on",
+        "C": "by",
+        "D": "in"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct phrase to offer help:",
+      "options": {
+        "A": "Can I help you?",
+        "B": "Do I help you?",
+        "C": "May I to help you?",
+        "D": "Will I help you?"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What does 'standard' mean in this sentence? 'This is the standard way to do it.'",
+      "options": {
+        "A": "unusual",
+        "B": "normal",
+        "C": "difficult",
+        "D": "exciting"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Which sentence uses the word 'park' correctly?",
+      "options": {
+        "A": "I park my breakfast every morning.",
+        "B": "Children like to play in the park.",
+        "C": "The park is very hot today.",
+        "D": "She parks her friends at school."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What is an 'office'?",
+      "options": {
+        "A": "A place where people sleep",
+        "B": "A place where people eat",
+        "C": "A place where people work",
+        "D": "A place where people play"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which word best completes this sentence? 'I'm tired. I want to go to _____.'",
+      "options": {
+        "A": "coffee",
+        "B": "office",
+        "C": "bed",
+        "D": "park"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "What does 'light' mean in this sentence? 'Please turn on the light.'",
+      "options": {
+        "A": "Something that makes things visible",
+        "B": "Something heavy",
+        "C": "A type of food",
+        "D": "A large building"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Which sentence uses the word 'coffee' correctly?",
+      "options": {
+        "A": "I coffee my car every day.",
+        "B": "The coffee is singing loudly.",
+        "C": "I drink coffee every morning.",
+        "D": "She coffees to work."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "What does 'turn' mean in this sentence? 'It's your turn to play.'",
+      "options": {
+        "A": "Your time to do something",
+        "B": "To move in a circle",
+        "C": "To change direction",
+        "D": "To be late"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Which sentence uses the word 'study' correctly?",
+      "options": {
+        "A": "I study the TV yesterday.",
+        "B": "She studies English at school.",
+        "C": "They study the bus every day.",
+        "D": "He studies very tall."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What is a 'grandfather'?",
+      "options": {
+        "A": "A young boy",
+        "B": "Your mother's or father's father",
+        "C": "A type of food",
+        "D": "A small animal"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Which sentence uses 'TV' correctly?",
+      "options": {
+        "A": "I TV to school every day.",
+        "B": "She TVs very well.",
+        "C": "They watched TV last night.",
+        "D": "He TVs his dinner."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What does 'maybe' express?",
+      "options": {
+        "A": "Certainty",
+        "B": "Possibility",
+        "C": "Refusal",
+        "D": "Agreement"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Which sentence uses 'every' correctly?",
+      "options": {
+        "A": "She goes to work every.",
+        "B": "I eat every breakfast.",
+        "C": "Every student has a book.",
+        "D": "They every like pizza."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "What does 'always' mean?",
+      "options": {
+        "A": "Sometimes",
+        "B": "Never",
+        "C": "At all times",
+        "D": "Once"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Which sentence uses 'card' correctly?",
+      "options": {
+        "A": "I card to my friend yesterday.",
+        "B": "She sent me a birthday card.",
+        "C": "They card very well.",
+        "D": "He cards to school."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "What is a 'face'?",
+      "options": {
+        "A": "A part of the body with eyes, nose, and mouth",
+        "B": "A type of food",
+        "C": "A piece of furniture",
+        "D": "A place where people work"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, how much can a blue whale weigh?",
+      "options": {
+        "A": "Up to 30 meters",
+        "B": "Up to 4 tons",
+        "C": "Up to 200 tons",
+        "D": "Up to 100 tons"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "What do blue whales eat?",
+      "options": {
+        "A": "Large fish",
+        "B": "Krill",
+        "C": "Other whales",
+        "D": "Seaweed"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "Why can't blue whales eat large fish?",
+      "options": {
+        "A": "They don't like the taste",
+        "B": "They prefer krill",
+        "C": "Their throats are too narrow",
+        "D": "They are too slow to catch them"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "How do blue whales catch their food?",
+      "options": {
+        "A": "They use their teeth",
+        "B": "They hunt in large groups",
+        "C": "They swim with their mouths open and filter food",
+        "D": "They wait for food to come to them"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Where can blue whales be found?",
+      "options": {
+        "A": "Only in the Atlantic Ocean",
+        "B": "Only in warm waters",
+        "C": "In freshwater lakes",
+        "D": "In all of the world's oceans"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "How do blue whales communicate?",
+      "options": {
+        "A": "By making loud sounds",
+        "B": "By changing colors",
+        "C": "By jumping out of the water",
+        "D": "By touching each other"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Why are blue whales endangered?",
+      "options": {
+        "A": "Because they don't have enough food",
+        "B": "Because of hunting in the past",
+        "C": "Because they can't adapt to warm water",
+        "D": "Because they have too many natural predators"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What dangers do blue whales face today?",
+      "options": {
+        "A": "Only hunting",
+        "B": "Only water pollution",
+        "C": "Ship strikes, fishing nets, and pollution",
+        "D": "Competition with other whales"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What is meant by 'blowholes' in paragraph 1?",
+      "options": {
+        "A": "The whales' ears",
+        "B": "The whales' eyes",
+        "C": "Breathing holes",
+        "D": "Holes in the ocean"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the main idea of the passage?",
+      "options": {
+        "A": "How blue whales eat",
+        "B": "Why blue whales are endangered",
+        "C": "General information about blue whales",
+        "D": "How scientists study blue whales"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
