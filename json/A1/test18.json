@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) School lunch is an important part of the day for students around the world. In Japan, students eat in their classroom. They have rice, fish, soup, and vegetables. Teachers eat with the students and teach them about healthy food choices.<br><br>(2) In France, school lunch is very different. Students go to a cafeteria and sit at tables. They eat a full meal with several courses. First, they have a salad. Then, they eat a main dish like chicken or pasta. After that, they have cheese and fruit for dessert.<br><br>(3) In Brazil, school lunch often includes beans and rice. This is a common food in Brazil. Students also eat fruit and vegetables from local farms. The food is simple but healthy. Many schools in Brazil grow some of their own food in school gardens.<br><br>(4) In India, school lunch programs help many children. The meals often have rice or bread with lentils. Some schools serve different foods each day of the week. These meals give students energy to learn and play. For some children, school lunch is their most important meal of the day.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which sentence is correct?",
+      "options": {
+        "A": "She don't like pizza.",
+        "B": "She doesn't likes pizza.",
+        "C": "She doesn't like pizza.",
+        "D": "She not like pizza."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the correct plural form of 'man'.",
+      "options": {
+        "A": "Mans",
+        "B": "Men",
+        "C": "Manes",
+        "D": "Mens"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence has the correct word order?",
+      "options": {
+        "A": "Yesterday went I to the store.",
+        "B": "I yesterday went to the store.",
+        "C": "I went to the store yesterday.",
+        "D": "Went I to the store yesterday."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct form of the verb.",
+      "options": {
+        "A": "She play tennis every Sunday.",
+        "B": "She playing tennis every Sunday.",
+        "C": "She plays tennis every Sunday.",
+        "D": "She is play tennis every Sunday."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Which sentence uses 'a' and 'an' correctly?",
+      "options": {
+        "A": "She has a apple and an banana.",
+        "B": "She has an apple and a banana.",
+        "C": "She has an apple and an banana.",
+        "D": "She has a apple and a banana."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Choose the correct past tense form of 'swim'.",
+      "options": {
+        "A": "Swim",
+        "B": "Swam",
+        "C": "Swum",
+        "D": "Swimming"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which sentence has the correct preposition?",
+      "options": {
+        "A": "The book is in the table.",
+        "B": "The book is on the table.",
+        "C": "The book is at the table.",
+        "D": "The book is of the table."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the sentence with the correct possessive form.",
+      "options": {
+        "A": "That is Johns book.",
+        "B": "That is John's book.",
+        "C": "That is Johns' book.",
+        "D": "That is John book."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which question is correctly formed?",
+      "options": {
+        "A": "Where you are going?",
+        "B": "Where going you are?",
+        "C": "Where are you going?",
+        "D": "You are going where?"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct comparative form.",
+      "options": {
+        "A": "This car is more cheap than that one.",
+        "B": "This car is cheapest than that one.",
+        "C": "This car is cheaper than that one.",
+        "D": "This car is more cheaper than that one."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Which sentence uses the present continuous correctly?",
+      "options": {
+        "A": "I am eat dinner now.",
+        "B": "I eating dinner now.",
+        "C": "I am eating dinner now.",
+        "D": "I eat dinner now."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the correct sentence.",
+      "options": {
+        "A": "We went to school yesterday.",
+        "B": "We go to school yesterday.",
+        "C": "We going to school yesterday.",
+        "D": "We are go to school yesterday."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Which sentence uses 'there is' correctly?",
+      "options": {
+        "A": "There is three books on the shelf.",
+        "B": "There is a book on the shelf.",
+        "C": "There is the books on the shelf.",
+        "D": "There is some books on the shelf."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct form of the adjective.",
+      "options": {
+        "A": "This is the most tall building in the city.",
+        "B": "This is the tallest building in the city.",
+        "C": "This is the more tall building in the city.",
+        "D": "This is the taller building in the city."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the sentence with the correct form of 'to be'.",
+      "options": {
+        "A": "They is happy to see you.",
+        "B": "They am happy to see you.",
+        "C": "They are happy to see you.",
+        "D": "They be happy to see you."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Complete the sentence: 'Can you ___ me with my homework?'",
+      "options": {
+        "A": "help",
+        "B": "helps",
+        "C": "helping",
+        "D": "to help"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the best response to 'How are you?'",
+      "options": {
+        "A": "I am John.",
+        "B": "I am at school.",
+        "C": "I am fine, thank you.",
+        "D": "I am 25 years old."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the correct word to complete the sentence: 'She ___ up at 7 o'clock every morning.'",
+      "options": {
+        "A": "gets",
+        "B": "takes",
+        "C": "does",
+        "D": "makes"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Complete the sentence: 'I want ___ to the beach this weekend.'",
+      "options": {
+        "A": "go",
+        "B": "going",
+        "C": "to go",
+        "D": "goes"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct phrase: 'Would you like ___ coffee?'",
+      "options": {
+        "A": "a",
+        "B": "some",
+        "C": "any",
+        "D": "the"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the best response to 'Thank you'.",
+      "options": {
+        "A": "Please.",
+        "B": "You're welcome.",
+        "C": "Good morning.",
+        "D": "Goodbye."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Complete the sentence: 'She ___ three languages: English, Spanish, and French.'",
+      "options": {
+        "A": "talk",
+        "B": "tells",
+        "C": "says",
+        "D": "speaks"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct phrase: 'My birthday is ___ May.'",
+      "options": {
+        "A": "in",
+        "B": "on",
+        "C": "at",
+        "D": "by"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Select the best word to complete the sentence: 'There aren't ___ apples left in the fridge.'",
+      "options": {
+        "A": "much",
+        "B": "many",
+        "C": "lot",
+        "D": "little"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Complete the sentence: 'I ___ TV every evening.'",
+      "options": {
+        "A": "look",
+        "B": "see",
+        "C": "watch",
+        "D": "view"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What is a 'bus'?",
+      "options": {
+        "A": "A place to buy food",
+        "B": "A large vehicle that carries many people",
+        "C": "A type of train",
+        "D": "A building where people work"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "What does 'list' mean?",
+      "options": {
+        "A": "A set of items written one after another",
+        "B": "A small book",
+        "C": "A type of car",
+        "D": "A part of a house"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What does 'weather' refer to?",
+      "options": {
+        "A": "The time of day",
+        "B": "The condition outside (rain, sun, etc.)",
+        "C": "A type of clothing",
+        "D": "A season of the year"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "What does 'stand' mean in this sentence: 'Please stand in line.'?",
+      "options": {
+        "A": "To sit",
+        "B": "To be on your feet",
+        "C": "To walk",
+        "D": "To run"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "What does 'similar' mean?",
+      "options": {
+        "A": "Different",
+        "B": "Like each other",
+        "C": "Opposite",
+        "D": "Strange"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "What is a 'portrait'?",
+      "options": {
+        "A": "A picture of a person",
+        "B": "A type of food",
+        "C": "A musical instrument",
+        "D": "A kind of animal"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "What does 'grow' mean?",
+      "options": {
+        "A": "To become smaller",
+        "B": "To become bigger",
+        "C": "To break",
+        "D": "To stop"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "What does 'see' mean in this sentence: 'I can see a bird in the tree.'?",
+      "options": {
+        "A": "To hear",
+        "B": "To look at and notice",
+        "C": "To touch",
+        "D": "To smell"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What is 'water'?",
+      "options": {
+        "A": "A type of food",
+        "B": "A clear liquid that we drink",
+        "C": "A kind of clothing",
+        "D": "A color"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "What does 'secure' mean?",
+      "options": {
+        "A": "Fast",
+        "B": "Slow",
+        "C": "Safe",
+        "D": "Dangerous"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What does 'measure' mean?",
+      "options": {
+        "A": "To find the size or amount of something",
+        "B": "To lose something",
+        "C": "To break something",
+        "D": "To clean something"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "What is a 'couple'?",
+      "options": {
+        "A": "One person",
+        "B": "Two people",
+        "C": "Many people",
+        "D": "No people"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "What is a 'session'?",
+      "options": {
+        "A": "A long break",
+        "B": "A type of food",
+        "C": "A period of time used for a particular activity",
+        "D": "A place to sit"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "What is 'earth'?",
+      "options": {
+        "A": "A star",
+        "B": "The planet we live on",
+        "C": "A type of animal",
+        "D": "A building"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "What does 'hit' mean?",
+      "options": {
+        "A": "To touch something hard with your hand or an object",
+        "B": "To walk slowly",
+        "C": "To speak quietly",
+        "D": "To sleep"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what do teachers do during lunch in Japan?",
+      "options": {
+        "A": "They prepare the food.",
+        "B": "They eat with students and teach about healthy food.",
+        "C": "They watch the students eat.",
+        "D": "They clean the classroom."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Based on paragraph 2, how many courses do French students eat for lunch?",
+      "options": {
+        "A": "One course",
+        "B": "Two courses",
+        "C": "Three courses",
+        "D": "Several courses"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 2, what do French students eat first?",
+      "options": {
+        "A": "A main dish",
+        "B": "Cheese",
+        "C": "A salad",
+        "D": "Fruit"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Based on paragraph 3, what is a common food in Brazil?",
+      "options": {
+        "A": "Pasta",
+        "B": "Beans and rice",
+        "C": "Fish",
+        "D": "Cheese"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to paragraph 3, where do some Brazilian schools get their food?",
+      "options": {
+        "A": "From school gardens",
+        "B": "From other countries",
+        "C": "From restaurants",
+        "D": "From parents"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "Based on paragraph 4, what do school lunches in India often include?",
+      "options": {
+        "A": "Pizza and pasta",
+        "B": "Rice or bread with lentils",
+        "C": "Fish and vegetables",
+        "D": "Salad and fruit"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to paragraph 4, how do school meals help students?",
+      "options": {
+        "A": "They help students sleep better.",
+        "B": "They give students energy to learn and play.",
+        "C": "They teach students how to cook.",
+        "D": "They make students happy."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What is the main idea of the passage?",
+      "options": {
+        "A": "Japanese food is the healthiest.",
+        "B": "All school lunches are the same around the world.",
+        "C": "School lunches differ around the world but are all important.",
+        "D": "Schools should improve their lunch programs."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "In which country do students eat lunch in their classroom?",
+      "options": {
+        "A": "France",
+        "B": "Brazil",
+        "C": "India",
+        "D": "Japan"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "According to the passage, for which students is school lunch especially important?",
+      "options": {
+        "A": "Japanese students",
+        "B": "French students",
+        "C": "Brazilian students",
+        "D": "Some Indian students"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    }
+  ]
+}
