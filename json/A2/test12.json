@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Flowers are beautiful plants that we can see in gardens, parks, and forests. They have different colors, shapes, and sizes. People like flowers because they look pretty and smell nice. Flowers are also important for nature because they help plants make seeds and fruits.<br><br>(2) The life of a flower begins as a seed. When a seed gets water and sunlight, it starts to grow. First, a small root grows down into the soil to get water and nutrients. Then, a stem grows up from the ground. The stem gets taller and leaves start to grow on it. The plant needs leaves to make food from sunlight.<br><br>(3) After the plant grows strong, it starts to form a bud. The bud is a small, closed part where the flower is developing. When the bud is ready, it opens and becomes a flower. The flower has colorful petals that attract insects like bees and butterflies. The insects help the flower by moving pollen from one flower to another. This process is called pollination.<br><br>(4) When pollination happens, the flower can make seeds. The petals fall off, and the middle part of the flower grows into a fruit with seeds inside. When the seeds are ready, they fall to the ground or are carried away by wind, water, or animals. If the seeds find a good place with soil, water, and sunlight, they can grow into new plants, and the life cycle begins again.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct form of the verb: 'My brother _____ TV every evening.'",
+      "options": {
+        "A": "watch",
+        "B": "watches",
+        "C": "watching",
+        "D": "is watch"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the correct past form: 'We _____ to the beach last weekend.'",
+      "options": {
+        "A": "go",
+        "B": "goes",
+        "C": "went",
+        "D": "going"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence is in the present continuous tense?",
+      "options": {
+        "A": "She works in a hospital.",
+        "B": "She worked in a hospital.",
+        "C": "She is working in a hospital.",
+        "D": "She will work in a hospital."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct preposition: 'The book is _____ the table.'",
+      "options": {
+        "A": "on",
+        "B": "in",
+        "C": "at",
+        "D": "by"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Which sentence has the correct word order?",
+      "options": {
+        "A": "Where you are going?",
+        "B": "Where are going you?",
+        "C": "Where are you going?",
+        "D": "Where going are you?"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the correct article: 'I saw _____ elephant at the zoo.'",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article needed"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct comparative form: 'This exercise is _____ than the last one.'",
+      "options": {
+        "A": "easy",
+        "B": "easier",
+        "C": "easiest",
+        "D": "more easy"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Which is the correct plural form?",
+      "options": {
+        "A": "childs",
+        "B": "childes",
+        "C": "childs's",
+        "D": "children"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Select the correct form: 'There _____ some milk in the fridge.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "be",
+        "D": "am"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct possessive form: '_____ car is very old.'",
+      "options": {
+        "A": "Mine",
+        "B": "My",
+        "C": "Me",
+        "D": "I"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Which sentence uses the present perfect correctly?",
+      "options": {
+        "A": "I have went to Paris.",
+        "B": "I have gone to Paris.",
+        "C": "I have goed to Paris.",
+        "D": "I have go to Paris."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the correct modal verb: 'You _____ smoke in the hospital.'",
+      "options": {
+        "A": "don't have to",
+        "B": "must not",
+        "C": "should not to",
+        "D": "aren't"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct future form: 'I _____ my friend tomorrow.'",
+      "options": {
+        "A": "see",
+        "B": "am seeing",
+        "C": "will see",
+        "D": "sees"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence uses the past simple correctly?",
+      "options": {
+        "A": "She not went to school yesterday.",
+        "B": "She didn't went to school yesterday.",
+        "C": "She didn't go to school yesterday.",
+        "D": "She no go to school yesterday."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the correct relative pronoun: 'The man _____ lives next door is a doctor.'",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "what",
+        "D": "where"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Complete the sentence: 'What time do you usually _____ up in the morning?'",
+      "options": {
+        "A": "stand",
+        "B": "wake",
+        "C": "raise",
+        "D": "rise"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct expression: 'Can you _____ me a favor, please?'",
+      "options": {
+        "A": "make",
+        "B": "give",
+        "C": "do",
+        "D": "take"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the correct phrase: 'I need to _____ the dog for a walk.'",
+      "options": {
+        "A": "bring",
+        "B": "take",
+        "C": "carry",
+        "D": "move"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Complete the sentence: 'She's very busy, so she doesn't have much free _____.'",
+      "options": {
+        "A": "hour",
+        "B": "duration",
+        "C": "time",
+        "D": "period"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct expression: 'Let's _____ a coffee and talk about it.'",
+      "options": {
+        "A": "drink",
+        "B": "take",
+        "C": "make",
+        "D": "have"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the correct phrasal verb: 'Please _____ the lights when you leave the room.'",
+      "options": {
+        "A": "turn off",
+        "B": "turn on",
+        "C": "turn down",
+        "D": "turn over"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Complete the sentence: 'I'm going to _____ a shower now.'",
+      "options": {
+        "A": "do",
+        "B": "make",
+        "C": "take",
+        "D": "get"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct collocation: 'I need to _____ an appointment with the doctor.'",
+      "options": {
+        "A": "do",
+        "B": "make",
+        "C": "take",
+        "D": "have"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Select the correct expression: 'My sister _____ three languages.'",
+      "options": {
+        "A": "talks",
+        "B": "tells",
+        "C": "says",
+        "D": "speaks"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Complete the sentence: 'I don't _____ swimming in cold water.'",
+      "options": {
+        "A": "enjoy",
+        "B": "like",
+        "C": "prefer",
+        "D": "want"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Which word means 'an ability to do something well'?",
+      "options": {
+        "A": "talent",
+        "B": "hobby",
+        "C": "skill",
+        "D": "job"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the word that means 'a person who belongs to a group':",
+      "options": {
+        "A": "friend",
+        "B": "member",
+        "C": "partner",
+        "D": "guest"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Which word means 'costing a lot of money'?",
+      "options": {
+        "A": "cheap",
+        "B": "free",
+        "C": "valuable",
+        "D": "expensive"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Select the word that means 'how much something is worth':",
+      "options": {
+        "A": "cost",
+        "B": "price",
+        "C": "value",
+        "D": "money"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the word that is the opposite of 'north':",
+      "options": {
+        "A": "east",
+        "B": "west",
+        "C": "down",
+        "D": "south"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Which word means 'a human being'?",
+      "options": {
+        "A": "people",
+        "B": "body",
+        "C": "person",
+        "D": "individual"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Select the word that is a sport played with a racket:",
+      "options": {
+        "A": "football",
+        "B": "tennis",
+        "C": "swimming",
+        "D": "cycling"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Choose the word that means 'not far away':",
+      "options": {
+        "A": "close",
+        "B": "next",
+        "C": "near",
+        "D": "beside"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Which word means 'animals that people keep at home'?",
+      "options": {
+        "A": "farm",
+        "B": "wild",
+        "C": "zoo",
+        "D": "pets"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Select the word that means 'something that can happen or be done':",
+      "options": {
+        "A": "probable",
+        "B": "likely",
+        "C": "potential",
+        "D": "possible"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Choose the word for a sweet food made from cocoa:",
+      "options": {
+        "A": "candy",
+        "B": "chocolate",
+        "C": "cookie",
+        "D": "cake"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Which word is the opposite of 'low'?",
+      "options": {
+        "A": "tall",
+        "B": "big",
+        "C": "high",
+        "D": "top"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Select the word that means 'a very large hill':",
+      "options": {
+        "A": "mountain",
+        "B": "valley",
+        "C": "rock",
+        "D": "forest"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Choose the word for frozen water that falls from the sky:",
+      "options": {
+        "A": "rain",
+        "B": "ice",
+        "C": "hail",
+        "D": "snow"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Which word means 'something that asks for information'?",
+      "options": {
+        "A": "answer",
+        "B": "problem",
+        "C": "question",
+        "D": "reply"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, why are flowers important for nature?",
+      "options": {
+        "A": "Because they are colorful",
+        "B": "Because they smell nice",
+        "C": "Because they help plants make seeds and fruits",
+        "D": "Because they look pretty in gardens"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Based on the passage, what does a seed need to start growing?",
+      "options": {
+        "A": "Insects and pollen",
+        "B": "Water and sunlight",
+        "C": "Petals and stems",
+        "D": "Fruits and flowers"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 2, what grows first from a seed?",
+      "options": {
+        "A": "A leaf",
+        "B": "A stem",
+        "C": "A root",
+        "D": "A bud"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Based on the passage, what is a bud?",
+      "options": {
+        "A": "A small seed",
+        "B": "A closed part where the flower is developing",
+        "C": "A type of insect",
+        "D": "A root that grows down"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to the passage, what attracts insects to flowers?",
+      "options": {
+        "A": "Fruits",
+        "B": "Seeds",
+        "C": "Stems",
+        "D": "Colorful petals"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to paragraph 3, what is pollination?",
+      "options": {
+        "A": "When a seed starts to grow",
+        "B": "When a bud opens and becomes a flower",
+        "C": "When insects move pollen from one flower to another",
+        "D": "When petals fall off a flower"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Based on the passage, what happens after pollination?",
+      "options": {
+        "A": "The flower can make seeds",
+        "B": "The flower dies immediately",
+        "C": "The flower attracts more insects",
+        "D": "The flower grows bigger petals"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to paragraph 4, what happens to the petals after pollination?",
+      "options": {
+        "A": "They turn into seeds",
+        "B": "They fall off",
+        "C": "They change color",
+        "D": "They grow bigger"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Based on the passage, how are seeds spread to new places?",
+      "options": {
+        "A": "Only by the wind",
+        "B": "Only by animals",
+        "C": "By wind, water, or animals",
+        "D": "Only by insects like bees"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "According to the passage, what happens when seeds find a good place with soil, water, and sunlight?",
+      "options": {
+        "A": "They turn into petals",
+        "B": "They form a bud",
+        "C": "They become pollen",
+        "D": "They grow into new plants"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    }
+  ]
+}
