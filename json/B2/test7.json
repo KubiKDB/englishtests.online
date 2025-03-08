@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Marine biology, the scientific study of organisms that inhabit oceans and other saltwater environments, reveals a fascinating underwater world that remains largely unexplored. Scientists estimate that more than 80 percent of the ocean is unmapped and unobserved, meaning countless species have yet to be discovered. The deep ocean, typically defined as depths below 200 meters, presents unique challenges for research due to extreme pressure, cold temperatures, and absence of sunlight, yet it teems with remarkable life forms that have adapted to these harsh conditions.<br><br>(2) One of the most intriguing aspects of deep-sea ecosystems is their reliance on alternative energy sources. Unlike surface ecosystems that depend primarily on photosynthesis, many deep-sea communities cluster around hydrothermal vents, where superheated water rich in minerals erupts from the ocean floor. These vents support chemosynthetic bacteria that convert chemicals such as hydrogen sulfide into energy, forming the foundation of a unique food web. This discovery in the late 1970s revolutionized our understanding of where and how life can exist, suggesting possibilities for life on other planets with similar environments.<br><br>(3) The diversity of deep-ocean species demonstrates remarkable evolutionary adaptations. Bioluminescence, the ability to produce light through chemical reactions, is particularly common, with an estimated 90 percent of deep-sea creatures possessing this capability. This adaptation serves various purposes, including attracting prey, confusing predators, and finding mates in the perpetual darkness. Other adaptations include transparent bodies, enormous mouths capable of consuming prey larger than the predator itself, and extremely efficient metabolisms that allow some species to go months or even years between meals.<br><br>(4) Deep-sea ecosystems play crucial roles in global processes despite their remoteness. They contribute significantly to carbon sequestration, as organic material from surface waters sinks and becomes trapped in deep-sea sediments. Additionally, deep-ocean currents regulate global climate patterns by distributing heat around the planet. The biodiversity of these ecosystems also represents potential resources for medical and biotechnological applications, with unique compounds from deep-sea organisms already being studied for anti-cancer properties and industrial processes.<br><br>(5) Unfortunately, human activities increasingly threaten these delicate ecosystems before we fully understand them. Deep-sea mining for valuable minerals, bottom trawling that destroys seafloor habitats, plastic pollution, and climate change all pose significant risks. Conservation efforts face challenges due to the international nature of ocean governance and limited public awareness of deep-sea environments. However, new technologies like remotely operated vehicles and environmental DNA sampling are improving our ability to study and monitor these ecosystems, providing hope for their protection as we continue to uncover the mysteries of the deep.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which verb form correctly completes the sentence? 'She _____ to the conference last week.'",
+      "options": {
+        "A": "has gone",
+        "B": "had gone",
+        "C": "went",
+        "D": "was going"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct relative pronoun: 'The researcher _____ work we studied has published a new paper.'",
+      "options": {
+        "A": "who",
+        "B": "whose",
+        "C": "whom",
+        "D": "which"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Complete the conditional sentence: 'If the experiment _____ successful, we would have published the results.'",
+      "options": {
+        "A": "would be",
+        "B": "was",
+        "C": "had been",
+        "D": "would have been"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence contains a correct passive construction?",
+      "options": {
+        "A": "The results verified by the independent laboratory.",
+        "B": "The samples have been analyzing in the lab.",
+        "C": "The theory was proposed by a graduate student.",
+        "D": "The article will publishing next month."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Select the correct form: 'Neither the professor nor his assistants _____ able to explain the anomaly.'",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "is",
+        "D": "are"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which sentence uses the present perfect continuous correctly?",
+      "options": {
+        "A": "She has been working on this project since graduated.",
+        "B": "They have been conducting research for the last three years.",
+        "C": "We have been complete the analysis yesterday.",
+        "D": "He has been write the paper for two weeks."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct modal verb: 'You _____ submit your application by Friday; it's the absolute deadline.'",
+      "options": {
+        "A": "should",
+        "B": "might",
+        "C": "could",
+        "D": "must"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Identify the correct reported speech: He said, 'I will present my findings tomorrow.'",
+      "options": {
+        "A": "He said that he will present his findings the next day.",
+        "B": "He said that he would present his findings the next day.",
+        "C": "He said that he presents his findings tomorrow.",
+        "D": "He said that he presented his findings the next day."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence contains a correctly used gerund?",
+      "options": {
+        "A": "She avoided to speak at the conference.",
+        "B": "They admitted stealing the research data.",
+        "C": "We enjoy to collaborate with other departments.",
+        "D": "He suggested to implement a new protocol."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Select the correct comparative form: 'The results of the second experiment were _____ than we expected.'",
+      "options": {
+        "A": "more significant",
+        "B": "significanter",
+        "C": "more significanter",
+        "D": "the most significant"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct future perfect form: 'By next year, they _____ the construction of the new laboratory.'",
+      "options": {
+        "A": "will complete",
+        "B": "will have completed",
+        "C": "are completing",
+        "D": "will be completing"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence contains correct subject-verb agreement?",
+      "options": {
+        "A": "Each of the students have their own project.",
+        "B": "The committee are meeting to discuss the proposal.",
+        "C": "The data collected from various sources indicates a trend.",
+        "D": "A number of issues has been raised."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Select the appropriate article: 'The researchers published _____ interesting paper on quantum physics.'",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article needed"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct preposition: 'She's been responsible _____ managing the research team since January.'",
+      "options": {
+        "A": "of",
+        "B": "with",
+        "C": "for",
+        "D": "on"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Identify the sentence with the correct use of the past perfect tense:",
+      "options": {
+        "A": "Before the professor arrived, the students already started the experiment.",
+        "B": "After she had submitted her thesis, she took a long vacation.",
+        "C": "We have finished the project before the deadline approached.",
+        "D": "They were completed the assignment when I called."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the option that best completes the sentence: 'Despite _____ for hours, the team couldn't solve the problem.'",
+      "options": {
+        "A": "to work",
+        "B": "working",
+        "C": "they worked",
+        "D": "they were working"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the correct phrasal verb: 'Scientists need to _____ new theories when presented with contradictory evidence.'",
+      "options": {
+        "A": "come up with",
+        "B": "look up to",
+        "C": "get away with",
+        "D": "break down"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct collocation: 'The discovery _____ significant implications for future research.'",
+      "options": {
+        "A": "makes",
+        "B": "does",
+        "C": "has",
+        "D": "takes"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Select the correct idiomatic expression: 'The presentation was going well until the projector failed, and then everything went _____.'",
+      "options": {
+        "A": "off the hook",
+        "B": "under the weather",
+        "C": "south",
+        "D": "out of the blue"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Complete the sentence with the correct expression: 'The research team worked _____ to complete the project before the deadline.'",
+      "options": {
+        "A": "around the clock",
+        "B": "under the table",
+        "C": "behind the scenes",
+        "D": "against the grain"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the word that best completes the sentence: 'The professor's lecture was so _____ that several students fell asleep.'",
+      "options": {
+        "A": "fascinating",
+        "B": "stimulating",
+        "C": "monotonous",
+        "D": "innovative"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Select the appropriate connector: 'The experiment failed; _____, the researchers decided to modify their approach.'",
+      "options": {
+        "A": "therefore",
+        "B": "otherwise",
+        "C": "meanwhile",
+        "D": "whereas"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct fixed expression: 'After careful consideration, we've decided to proceed with the project, _____ the high costs involved.'",
+      "options": {
+        "A": "in favor of",
+        "B": "in terms of",
+        "C": "in spite of",
+        "D": "in case of"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Select the word that best completes the text: 'The study's findings _____ previous research on the subject.'",
+      "options": {
+        "A": "contradict",
+        "B": "comply",
+        "C": "confide",
+        "D": "condemn"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct phrase to complete the sentence: 'The board will _____ a decision at the next meeting.'",
+      "options": {
+        "A": "arrive at",
+        "B": "arrive to",
+        "C": "reach at",
+        "D": "reach on"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What is the most accurate definition of 'retirement'?",
+      "options": {
+        "A": "The process of leaving a job or occupation permanently, especially upon reaching a certain age",
+        "B": "A temporary break from professional activities",
+        "C": "The act of changing careers in mid-life",
+        "D": "A promotion to a higher position within an organization"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Which word is closest in meaning to 'extraordinary'?",
+      "options": {
+        "A": "Common",
+        "B": "Exceptional",
+        "C": "Ordinary",
+        "D": "Predictable"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "In which sentence is 'elimination' used correctly?",
+      "options": {
+        "A": "The elimination of errors improved the experiment's accuracy.",
+        "B": "She received an elimination for her outstanding work.",
+        "C": "The students requested an elimination of the difficult material.",
+        "D": "The teacher gave an elimination to help students understand."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "What does 'specialist' mean in the context of professions?",
+      "options": {
+        "A": "Someone who knows a little about many subjects",
+        "B": "A person who supervises others in a workplace",
+        "C": "An expert who concentrates on a particular field or activity",
+        "D": "Someone who works exclusively in theoretical research"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the sentence that uses 'society' correctly:",
+      "options": {
+        "A": "The scientist societied his findings in the journal.",
+        "B": "Modern society relies heavily on digital technology.",
+        "C": "She societied with her colleagues after work.",
+        "D": "The professor societied the students about the theory."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "What is a 'qualification' in the context of employment?",
+      "options": {
+        "A": "A personal opinion about job requirements",
+        "B": "The location where someone works",
+        "C": "An official record of achievement issued after completing education, training, or passing exams",
+        "D": "The act of dismissing an employee"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Which word is an antonym of 'intensive'?",
+      "options": {
+        "A": "Extensive",
+        "B": "Moderate",
+        "C": "Superficial",
+        "D": "Comprehensive"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "In which sentence is 'reflection' used correctly?",
+      "options": {
+        "A": "The scientist reflectioned the experiment three times.",
+        "B": "Upon reflection, the committee decided to change their approach.",
+        "C": "The students reflection their essays before submitting them.",
+        "D": "She reflection the mirror to see her appearance."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What is the most accurate definition of 'expression'?",
+      "options": {
+        "A": "A mathematical calculation",
+        "B": "The act of forcing someone to leave a place",
+        "C": "The action of making known one's thoughts or feelings",
+        "D": "A formal meeting to discuss business"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Choose the sentence that uses 'competence' correctly:",
+      "options": {
+        "A": "The new employee showed great competence in handling the complex project.",
+        "B": "She competenced the task quickly and efficiently.",
+        "C": "The manager competenced all the workers on their performance.",
+        "D": "The company competenced its products in the international market."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Which word is closest in meaning to 'innocent'?",
+      "options": {
+        "A": "Guilty",
+        "B": "Experienced",
+        "C": "Knowledgeable",
+        "D": "Blameless"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "What does 'modification' mean?",
+      "options": {
+        "A": "The complete replacement of something",
+        "B": "The process of making changes to something to improve it or make it less extreme",
+        "C": "The act of creating something entirely new",
+        "D": "The classification of objects into categories"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "In which sentence is 'component' used correctly?",
+      "options": {
+        "A": "She componented her friends to join the project.",
+        "B": "The engineer identified the faulty component in the machine.",
+        "C": "The teacher componented the students for their good work.",
+        "D": "They component every Tuesday for team meetings."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "What is the meaning of 'representation'?",
+      "options": {
+        "A": "The action of speaking or acting on behalf of someone",
+        "B": "The act of presenting something again",
+        "C": "The refusal to accept an idea or proposal",
+        "D": "The process of solving a mathematical problem"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Choose the sentence that uses 'heritage' correctly:",
+      "options": {
+        "A": "The company heritaged its products to appeal to younger customers.",
+        "B": "The students heritaged their papers before the deadline.",
+        "C": "The museum displayed artifacts representing the country's rich cultural heritage.",
+        "D": "She heritaged the information to her colleagues."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what percentage of the ocean remains largely unexplored?",
+      "options": {
+        "A": "50 percent",
+        "B": "70 percent",
+        "C": "80 percent",
+        "D": "95 percent"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "The word 'teems' in paragraph 1 is closest in meaning to:",
+      "options": {
+        "A": "lacks",
+        "B": "abounds",
+        "C": "struggles",
+        "D": "deteriorates"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 2, what was revolutionary about the discovery of hydrothermal vent ecosystems?",
+      "options": {
+        "A": "They proved that sunlight is necessary for all forms of life",
+        "B": "They showed that life can exist in extremely harsh conditions",
+        "C": "They demonstrated that bacteria cannot survive in deep oceans",
+        "D": "They confirmed that all deep-sea organisms rely on photosynthesis"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "What can be inferred from paragraph 2 about the possibility of life on other planets?",
+      "options": {
+        "A": "Life on other planets would look exactly like deep-sea creatures",
+        "B": "Life cannot exist on planets without oceans",
+        "C": "Environments similar to deep-sea vents might support life on other planets",
+        "D": "Scientists have confirmed the existence of hydrothermal vents on other planets"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to paragraph 3, approximately what percentage of deep-sea creatures can produce light through chemical reactions?",
+      "options": {
+        "A": "10 percent",
+        "B": "50 percent",
+        "C": "75 percent",
+        "D": "90 percent"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "The word 'perpetual' in paragraph 3 is closest in meaning to:",
+      "options": {
+        "A": "occasional",
+        "B": "moderate",
+        "C": "constant",
+        "D": "periodic"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Which of the following is NOT mentioned in paragraph 4 as a role of deep-sea ecosystems?",
+      "options": {
+        "A": "Carbon sequestration",
+        "B": "Climate regulation",
+        "C": "Oxygen production",
+        "D": "Providing compounds for medical applications"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to paragraph 5, which of the following is a challenge for deep-sea conservation efforts?",
+      "options": {
+        "A": "Lack of suitable technology for research",
+        "B": "The international nature of ocean governance",
+        "C": "Resistance from marine biologists",
+        "D": "Excessive government regulations"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "The author's tone in the passage can best be described as:",
+      "options": {
+        "A": "Highly critical",
+        "B": "Emotionally charged",
+        "C": "Informative and concerned",
+        "D": "Overly optimistic"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the main purpose of this passage?",
+      "options": {
+        "A": "To argue against deep-sea mining operations",
+        "B": "To provide an overview of deep-sea ecosystems and their significance",
+        "C": "To explain the technical challenges of marine biology research",
+        "D": "To compare surface and deep-water ecosystems"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
