@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Family dynamics in modern society have undergone profound transformations in recent decades, reflecting broader social, economic, and technological shifts. The traditional nuclear family model—consisting of a married heterosexual couple with biological children—while still present, now exists alongside diverse family structures including single-parent households, blended families, same-sex parent families, and multigenerational living arrangements. These evolving configurations challenge conventional definitions of family while simultaneously enriching our understanding of the fundamental human need for close, supportive relationships regardless of their precise form or legal status.<br><br>(2) Economic factors have significantly reshaped family interactions and responsibilities. The widespread necessity of dual-income households has redistributed domestic labor and childcare duties, often leading to more egalitarian partnerships but also creating new tensions around work-life balance. Meanwhile, financial pressures have extended the period of economic dependence for young adults, with many remaining in their parents' homes well into their twenties or even thirties—a phenomenon that has created the so-called "boomerang generation" and fundamentally altered the traditional timeline of family development and independence.<br><br>(3) Technology has simultaneously connected and disconnected family members in unprecedented ways. Digital communication tools enable constant contact between geographically dispersed relatives, allowing grandparents to witness their grandchildren's milestones virtually and siblings to maintain close bonds despite physical distance. Conversely, these same technologies can create barriers to meaningful engagement when family members occupying the same physical space retreat into separate digital worlds, diminishing opportunities for the spontaneous interactions and shared experiences that traditionally cemented family bonds.<br><br>(4) Cultural diversity increasingly characterizes family life in many societies, whether through immigration, intermarriage, or transnational adoption. These multicultural families often navigate complex issues of identity, tradition, and belonging, negotiating which cultural practices to maintain and which to adapt. Children raised in such environments frequently develop remarkable cultural flexibility, moving seamlessly between different linguistic and cultural frameworks. However, these families may also experience unique stresses when faced with conflicting value systems or external prejudice that questions their legitimacy or cohesion.<br><br>(5) Despite these transformations, the essential functions of family remain remarkably consistent across different arrangements and cultures: providing emotional support, economic cooperation, socialization of children, and a sense of belonging and identity. Research consistently demonstrates that family well-being depends less on conformity to traditional structures than on the quality of relationships—characterized by effective communication, mutual respect, appropriate boundaries, and adaptability to change. As society continues to evolve, successful families will likely be those that maintain these core relational strengths while remaining flexible enough to adapt to shifting social contexts and individual needs.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct form to complete the sentence: 'I wish I ________ to the conference last week, but I was ill.'",
+      "options": {
+        "A": "have gone",
+        "B": "could go",
+        "C": "had gone",
+        "D": "went"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the correct sentence:",
+      "options": {
+        "A": "The committee has made their decision.",
+        "B": "The committee have made its decision.",
+        "C": "The committee has made its decision.",
+        "D": "The committee have made their decision."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Choose the correct form of the reported speech: She said, 'I will finish the project tomorrow.'",
+      "options": {
+        "A": "She said that she will finish the project tomorrow.",
+        "B": "She said that she would finish the project tomorrow.",
+        "C": "She said that she would finish the project the next day.",
+        "D": "She said that she will finish the project the next day."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Select the sentence with the correct use of articles:",
+      "options": {
+        "A": "She gave me an useful advice about the university application.",
+        "B": "She gave me a useful advice about the university application.",
+        "C": "She gave me useful advice about the university application.",
+        "D": "She gave me the useful advice about university application."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Identify the sentence with the correct conditional form:",
+      "options": {
+        "A": "If I would have known about the problem, I would have fixed it.",
+        "B": "If I had knew about the problem, I would have fixed it.",
+        "C": "If I had known about the problem, I would have fixed it.",
+        "D": "If I have known about the problem, I would have fixed it."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Choose the sentence with the correct passive construction:",
+      "options": {
+        "A": "The results of the experiment were announcing yesterday.",
+        "B": "The results of the experiment announced yesterday.",
+        "C": "The results of the experiment was announced yesterday.",
+        "D": "The results of the experiment were announced yesterday."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Select the correct relative clause:",
+      "options": {
+        "A": "The woman which car was stolen reported it to the police.",
+        "B": "The woman who car was stolen reported it to the police.",
+        "C": "The woman whose car was stolen reported it to the police.",
+        "D": "The woman whom car was stolen reported it to the police."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the sentence with the correct verb form:",
+      "options": {
+        "A": "Neither of the candidates have withdrawn from the race.",
+        "B": "Neither of the candidates has withdrawn from the race.",
+        "C": "Neither of the candidates is withdrawn from the race.",
+        "D": "Neither of the candidates was withdrawn from the race."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Identify the correct sentence structure:",
+      "options": {
+        "A": "Having finished the assignment, the television was switched on.",
+        "B": "Having finished the assignment, she switched on the television.",
+        "C": "Having finished the assignment, the television switched on.",
+        "D": "Having been finished the assignment, she switched on the television."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Select the sentence with the correct use of the gerund:",
+      "options": {
+        "A": "She avoided to speak to him after their argument.",
+        "B": "She avoided speaking to him after their argument.",
+        "C": "She avoided speak to him after their argument.",
+        "D": "She avoided to speaking to him after their argument."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the sentence with the correct use of modals:",
+      "options": {
+        "A": "You needn't to submit the application today.",
+        "B": "You don't need submit the application today.",
+        "C": "You needn't submit the application today.",
+        "D": "You don't need to submitting the application today."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Identify the sentence with the correct use of prepositions:",
+      "options": {
+        "A": "The professor insisted in discussing the matter further.",
+        "B": "The professor insisted at discussing the matter further.",
+        "C": "The professor insisted for discussing the matter further.",
+        "D": "The professor insisted on discussing the matter further."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "A": "The number of students attending the lecture are increasing.",
+        "B": "The number of students attending the lecture is increasing.",
+        "C": "The number of students attending the lecture have increased.",
+        "D": "The number of students attending the lecture has been increase."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Select the sentence with the correct use of adverbs:",
+      "options": {
+        "A": "She speaks very fluently English after living abroad.",
+        "B": "She speaks English very fluent after living abroad.",
+        "C": "She speaks English very fluently after living abroad.",
+        "D": "She speaks fluently very English after living abroad."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Identify the sentence with the correct use of the past perfect:",
+      "options": {
+        "A": "By the time we arrived, the lecture already started.",
+        "B": "By the time we arrived, the lecture has already started.",
+        "C": "By the time we arrived, the lecture had already started.",
+        "D": "By the time we arrived, the lecture was already starting."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the word that best completes the sentence: 'The ancient temple remains in a ________ condition, virtually untouched by modern pollution or development.'",
+      "options": {
+        "A": "flawless",
+        "B": "pristine",
+        "C": "unspoiled",
+        "D": "immaculate"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 17,
+      "question": "Select the word that best matches the definition: 'To devise or plan with ingenuity; to invent artificially'",
+      "options": {
+        "A": "fabricate",
+        "B": "concoct",
+        "C": "contrive",
+        "D": "orchestrate"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 18,
+      "question": "Choose the word that best completes the sentence: 'The debate quickly deteriorated into an ________ exchange of insults between the two political candidates.'",
+      "options": {
+        "A": "antagonistic",
+        "B": "hostile",
+        "C": "virulent",
+        "D": "acrimonious"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 19,
+      "question": "Select the word that best matches the definition: 'Touching along a boundary or at a point; adjacent or adjoining'",
+      "options": {
+        "A": "proximate",
+        "B": "contiguous",
+        "C": "adjoining",
+        "D": "bordering"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 20,
+      "question": "Choose the word that best completes the sentence: 'Finding a balance between career ambitions and family responsibilities presents a ________ that many working parents struggle to solve.'",
+      "options": {
+        "A": "predicament",
+        "B": "dilemma",
+        "C": "conundrum",
+        "D": "quandary"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 21,
+      "question": "Identify the word that best completes the sentence: 'The team's success was largely due to the strong sense of ________ that developed among the players during their training camp.'",
+      "options": {
+        "A": "solidarity",
+        "B": "fellowship",
+        "C": "camaraderie",
+        "D": "fraternity"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 22,
+      "question": "Choose the word that best matches the definition: 'Unchangeable; not capable of being altered'",
+      "options": {
+        "A": "permanent",
+        "B": "invariable",
+        "C": "immutable",
+        "D": "constant"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 23,
+      "question": "Select the word that best completes the sentence: 'At the funeral, her brother delivered a moving ________ that celebrated her life and accomplishments.'",
+      "options": {
+        "A": "tribute",
+        "B": "encomium",
+        "C": "oration",
+        "D": "eulogy"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 24,
+      "question": "Identify the word that best matches the definition: 'To make known by open declaration; announce officially'",
+      "options": {
+        "A": "declare",
+        "B": "disseminate",
+        "C": "promulgate",
+        "D": "proclaim"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 25,
+      "question": "Choose the word that best completes the sentence: 'After examining the available evidence, the detective could only ________ that the suspect had left the country.'",
+      "options": {
+        "A": "deduce",
+        "B": "infer",
+        "C": "surmise",
+        "D": "conjecture"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 26,
+      "question": "Select the word that best matches the definition: 'To anticipate and prevent; to make unnecessary'",
+      "options": {
+        "A": "prevent",
+        "B": "preclude",
+        "C": "obviate",
+        "D": "forestall"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the word that best completes the sentence: 'The accountant discovered a significant ________ between the reported income and the actual bank deposits.'",
+      "options": {
+        "A": "inconsistency",
+        "B": "deviation",
+        "C": "discrepancy",
+        "D": "disparity"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Identify the word that best matches the definition: 'A standard or example against which others may be measured'",
+      "options": {
+        "A": "model",
+        "B": "exemplar",
+        "C": "archetype",
+        "D": "paradigm"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Select the word that best completes the sentence: 'Despite his initial shyness, he proved to be an ________ host who made everyone feel welcome at the party.'",
+      "options": {
+        "A": "amiable",
+        "B": "convivial",
+        "C": "affable",
+        "D": "genial"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the word that best matches the definition: 'Eager or quick to argue or fight; aggressively defiant'",
+      "options": {
+        "A": "belligerent",
+        "B": "pugnacious",
+        "C": "combative",
+        "D": "truculent"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Choose the appropriate phrasal verb to complete the sentence: 'We need to ________ this issue at the next meeting.'",
+      "options": {
+        "A": "bring up",
+        "B": "bring about",
+        "C": "bring down",
+        "D": "bring in"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 32,
+      "question": "Select the correct idiom to complete the sentence: 'The new marketing strategy has really ________ for the company, with sales increasing by 30%.'",
+      "options": {
+        "A": "turned the tables",
+        "B": "paid off",
+        "C": "hit the roof",
+        "D": "missed the boat"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 33,
+      "question": "Choose the correct collocation: 'The investigation ________ serious concerns about safety protocols.'",
+      "options": {
+        "A": "lifted",
+        "B": "pulled",
+        "C": "raised",
+        "D": "heightened"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 34,
+      "question": "Select the appropriate connector to complete the sentence: 'He continued working ________ his illness.'",
+      "options": {
+        "A": "in spite",
+        "B": "although",
+        "C": "despite",
+        "D": "even"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 35,
+      "question": "Choose the correct formal alternative to the underlined phrase: 'The committee will look into the matter thoroughly.'",
+      "options": {
+        "A": "scrutinize",
+        "B": "investigate",
+        "C": "examine",
+        "D": "survey"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 36,
+      "question": "Select the appropriate expression for hedging in academic writing: '________, the results suggest a correlation between the two variables.'",
+      "options": {
+        "A": "Without a doubt",
+        "B": "It is certain that",
+        "C": "It would appear that",
+        "D": "Obviously"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 37,
+      "question": "Choose the correct preposition: 'The changes in policy are not ________ line with our expectations.'",
+      "options": {
+        "A": "on",
+        "B": "by",
+        "C": "at",
+        "D": "in"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 38,
+      "question": "Select the most appropriate discourse marker: 'The cost of production increased. ________, the company had to raise its prices.'",
+      "options": {
+        "A": "However",
+        "B": "Nevertheless",
+        "C": "Consequently",
+        "D": "Meanwhile"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 39,
+      "question": "Choose the correct option to maintain register in a formal email: 'I am writing to ________ my interest in the position advertised.'",
+      "options": {
+        "A": "tell you about",
+        "B": "let you know",
+        "C": "express",
+        "D": "say"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 40,
+      "question": "Select the appropriate fixed expression: 'The presentation was informative and, ________, very engaging.'",
+      "options": {
+        "A": "above all",
+        "B": "after all",
+        "C": "in particular",
+        "D": "in addition"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what characterizes family structures in modern society?",
+      "options": {
+        "A": "A return to traditional nuclear family models",
+        "B": "A decline in the importance of close relationships",
+        "C": "Increased diversity in family arrangements",
+        "D": "Universal acceptance of all family forms"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "What does the passage identify as a consequence of dual-income households?",
+      "options": {
+        "A": "Strengthened traditional gender roles",
+        "B": "More egalitarian partnerships with new tensions",
+        "C": "Decreased financial pressure on families",
+        "D": "Earlier independence for young adults"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "The term 'boomerang generation' in paragraph 2 refers to:",
+      "options": {
+        "A": "Parents who return to work after raising children",
+        "B": "Young adults who remain in or return to their parents' homes",
+        "C": "Grandparents who help raise their grandchildren",
+        "D": "Children who frequently change their career aspirations"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to paragraph 3, what paradoxical effect does technology have on families?",
+      "options": {
+        "A": "It exclusively strengthens family bonds",
+        "B": "It only creates barriers between family members",
+        "C": "It both connects distant members and creates barriers between those physically together",
+        "D": "It has no significant impact on family dynamics"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What challenge do multicultural families face according to paragraph 4?",
+      "options": {
+        "A": "Children's inability to adapt to multiple cultures",
+        "B": "Negotiating which cultural practices to maintain or adapt",
+        "C": "Legal barriers to family formation",
+        "D": "Limited geographic mobility"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "Based on paragraph 5, what does the passage suggest is most important for family well-being?",
+      "options": {
+        "A": "Adhering to traditional family structures",
+        "B": "Having a large extended family network",
+        "C": "Financial stability and economic resources",
+        "D": "The quality of relationships within the family"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What can be inferred about the author's view of family transformations?",
+      "options": {
+        "A": "The author believes traditional structures are superior",
+        "B": "The author sees these changes as primarily negative",
+        "C": "The author views these changes as a complex mix of challenges and opportunities",
+        "D": "The author suggests government intervention to support families"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "Which statement best summarizes the passage's main idea?",
+      "options": {
+        "A": "Technology has fundamentally damaged family relationships.",
+        "B": "Family structures have changed but their essential functions remain consistent.",
+        "C": "Economic factors are the primary driver of all family changes.",
+        "D": "Cultural diversity threatens traditional family values."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "The passage describes children in multicultural families as developing:",
+      "options": {
+        "A": "Confusion about their cultural identity",
+        "B": "Resistance to their parents' cultural backgrounds",
+        "C": "Cultural flexibility and the ability to navigate different frameworks",
+        "D": "Strong preference for one culture over others"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "According to the passage, which quality is NOT mentioned as important for successful family relationships?",
+      "options": {
+        "A": "Effective communication",
+        "B": "Financial prosperity",
+        "C": "Mutual respect",
+        "D": "Adaptability to change"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
