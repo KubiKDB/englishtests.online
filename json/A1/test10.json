@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Many schools in the United States have sports teams. These teams let students play games like basketball, football, and soccer. Students who join these teams practice after school. They learn to work together and have fun.<br><br>(2) Sports teams help students in many ways. First, they help students stay healthy. When students run, jump, and play, they make their bodies stronger. Second, sports teach students how to be part of a team. They learn to help each other and work together to win games.<br><br>(3) Being on a sports team also teaches students important life skills. They learn to manage their time between school work and practice. They also learn that hard work helps them get better at sports. These skills help students do well in school and later in life.<br><br>(4) Finally, sports teams bring the school together. Other students, teachers, and parents come to watch games. They cheer for their team and feel proud of their school. This helps create a strong school community where everyone feels they belong.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which word is a verb?",
+      "options": {
+        "A": "Table",
+        "B": "Book",
+        "C": "Walk",
+        "D": "Home"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct sentence.",
+      "options": {
+        "A": "She go to school every day.",
+        "B": "She goes to school every day.",
+        "C": "She going to school every day.",
+        "D": "She to school go every day."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "What is the past tense of 'eat'?",
+      "options": {
+        "A": "Eated",
+        "B": "Eating",
+        "C": "Ate",
+        "D": "Eat"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence uses the correct article?",
+      "options": {
+        "A": "He is an doctor.",
+        "B": "He is a doctor.",
+        "C": "He is the doctor.",
+        "D": "He is doctor."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct plural form of 'child'.",
+      "options": {
+        "A": "Childs",
+        "B": "Childen",
+        "C": "Childs'",
+        "D": "Children"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which sentence is correct?",
+      "options": {
+        "A": "I have two sister.",
+        "B": "I has two sisters.",
+        "C": "I have two sisters.",
+        "D": "I having two sisters."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Select the correct possessive form.",
+      "options": {
+        "A": "The dog's tail",
+        "B": "The dogs tail",
+        "C": "The dog tail",
+        "D": "The tail of dog"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Which is the correct order of adjectives?",
+      "options": {
+        "A": "A red big ball",
+        "B": "A big red ball",
+        "C": "A ball big red",
+        "D": "A ball red big"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct negative form.",
+      "options": {
+        "A": "I not like apples.",
+        "B": "I don't like apples.",
+        "C": "I no like apples.",
+        "D": "I like not apples."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which question is formed correctly?",
+      "options": {
+        "A": "Where you are going?",
+        "B": "Where are you going?",
+        "C": "Where going you are?",
+        "D": "You are going where?"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Select the sentence with the correct word order.",
+      "options": {
+        "A": "She always is happy.",
+        "B": "She is always happy.",
+        "C": "Always she is happy.",
+        "D": "She is happy always."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Choose the correct preposition.",
+      "options": {
+        "A": "The book is in the table.",
+        "B": "The book is on the table.",
+        "C": "The book is at the table.",
+        "D": "The book is by the table."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Which sentence uses the correct form of 'be'?",
+      "options": {
+        "A": "They is happy.",
+        "B": "They am happy.",
+        "C": "They are happy.",
+        "D": "They be happy."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Select the correct conjunction.",
+      "options": {
+        "A": "I like tea but coffee.",
+        "B": "I like tea and coffee.",
+        "C": "I like tea or coffee.",
+        "D": "I like tea so coffee."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Which sentence uses the present continuous correctly?",
+      "options": {
+        "A": "She reading a book now.",
+        "B": "She is read a book now.",
+        "C": "She is reading a book now.",
+        "D": "She reads a book now."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Complete the sentence: 'Please turn off the lights when you ___ the room.'",
+      "options": {
+        "A": "leave",
+        "B": "left",
+        "C": "leaving",
+        "D": "will leave"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct response: 'How are you?' '___'",
+      "options": {
+        "A": "I am 25 years old.",
+        "B": "I'm fine, thank you.",
+        "C": "I'm John.",
+        "D": "I'm at school."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the best word to complete the sentence: 'He ___ breakfast every morning at 7 AM.'",
+      "options": {
+        "A": "does",
+        "B": "makes",
+        "C": "has",
+        "D": "takes"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct phrase: 'Can you ___ a photo of us?'",
+      "options": {
+        "A": "do",
+        "B": "make",
+        "C": "take",
+        "D": "give"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Complete the sentence: 'What time ___ you usually go to bed?'",
+      "options": {
+        "A": "are",
+        "B": "do",
+        "C": "have",
+        "D": "can"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the correct sentence:",
+      "options": {
+        "A": "I live in London since 2010.",
+        "B": "I am living in London since 2010.",
+        "C": "I have lived in London since 2010.",
+        "D": "I living in London since 2010."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the best response: 'Would you like some coffee?' '___'",
+      "options": {
+        "A": "Yes, I like.",
+        "B": "Yes, please.",
+        "C": "Yes, I do.",
+        "D": "Yes, I would."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Complete the sentence: 'She ___ to the gym twice a week.'",
+      "options": {
+        "A": "go",
+        "B": "goes",
+        "C": "going",
+        "D": "is go"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct phrase: 'I need ___ some new clothes.'",
+      "options": {
+        "A": "buy",
+        "B": "to buy",
+        "C": "buying",
+        "D": "buys"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the best word to complete the sentence: 'There aren't ___ people at the party.'",
+      "options": {
+        "A": "much",
+        "B": "many",
+        "C": "a lot",
+        "D": "few"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What is the meaning of 'base' in this sentence: 'The military base is near the city.'?",
+      "options": {
+        "A": "A place where soldiers live",
+        "B": "The bottom part",
+        "C": "A starting point",
+        "D": "A foundation"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the correct meaning of 'degree' in this context: 'He has a degree in chemistry.'",
+      "options": {
+        "A": "Temperature measurement",
+        "B": "Level or amount",
+        "C": "University qualification",
+        "D": "Position or rank"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What does 'minute' mean in this sentence: 'Please wait a minute.'?",
+      "options": {
+        "A": "Very small",
+        "B": "A short period of time",
+        "C": "60 seconds exactly",
+        "D": "A meeting note"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Select the correct meaning of 'mostly' in this sentence: 'The students are mostly from Asia.'",
+      "options": {
+        "A": "All",
+        "B": "Many",
+        "C": "Some",
+        "D": "The majority"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "What does 'knowledge' mean?",
+      "options": {
+        "A": "Things that you learn",
+        "B": "Books and papers",
+        "C": "School subjects",
+        "D": "University courses"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Choose the correct meaning of 'bring' in this sentence: 'Please bring your book to class.'",
+      "options": {
+        "A": "Carry something with you",
+        "B": "Take something away",
+        "C": "Buy something new",
+        "D": "Find something"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "What is a 'toilet'?",
+      "options": {
+        "A": "A place to wash hands",
+        "B": "A room with a bath",
+        "C": "A place to sleep",
+        "D": "A bathroom facility"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "What does 'wish' mean in this sentence: 'I wish you good luck.'?",
+      "options": {
+        "A": "To want something to happen",
+        "B": "To give something",
+        "C": "To help someone",
+        "D": "To need something"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Choose the correct meaning of 'huge' in this sentence: 'They live in a huge house.'",
+      "options": {
+        "A": "Beautiful",
+        "B": "Old",
+        "C": "Very big",
+        "D": "Expensive"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "What does 'connect' mean?",
+      "options": {
+        "A": "To join or link things",
+        "B": "To break something",
+        "C": "To find something",
+        "D": "To lose something"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What is a 'club'?",
+      "options": {
+        "A": "A type of food",
+        "B": "A group of people with the same interest",
+        "C": "A kind of shoe",
+        "D": "A school subject"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Choose the correct meaning of 'gate' in this context: 'Please close the gate when you leave.'",
+      "options": {
+        "A": "A door in a fence",
+        "B": "A window",
+        "C": "A key",
+        "D": "A lock"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "What does 'under' mean in this sentence: 'The cat is under the table.'?",
+      "options": {
+        "A": "Behind",
+        "B": "Next to",
+        "C": "Below",
+        "D": "Above"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Choose the correct meaning of 'thick' in this sentence: 'This is a thick book.'",
+      "options": {
+        "A": "Heavy",
+        "B": "Old",
+        "C": "Not thin",
+        "D": "Difficult"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "What is a 'road'?",
+      "options": {
+        "A": "A place where cars drive",
+        "B": "A building",
+        "C": "A type of vehicle",
+        "D": "A person who drives"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what do students who join sports teams do?",
+      "options": {
+        "A": "They study after school.",
+        "B": "They practice after school.",
+        "C": "They play only basketball.",
+        "D": "They teach other students."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Based on paragraph 2, how do sports teams help students stay healthy?",
+      "options": {
+        "A": "By eating good food",
+        "B": "By sleeping more",
+        "C": "By running, jumping, and playing",
+        "D": "By visiting doctors"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 2, what do students learn when they are part of a team?",
+      "options": {
+        "A": "To be alone",
+        "B": "To help each other",
+        "C": "To be the best player",
+        "D": "To win all games"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Based on paragraph 3, which life skill do students learn from being on a sports team?",
+      "options": {
+        "A": "How to make friends",
+        "B": "How to cook healthy meals",
+        "C": "How to manage their time",
+        "D": "How to teach others"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to paragraph 3, what helps students get better at sports?",
+      "options": {
+        "A": "Natural talent",
+        "B": "Hard work",
+        "C": "Good equipment",
+        "D": "Good coaches"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "Based on paragraph 4, who comes to watch school games?",
+      "options": {
+        "A": "Only students",
+        "B": "Only teachers",
+        "C": "Only parents",
+        "D": "Students, teachers, and parents"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to paragraph 4, what do people do at games?",
+      "options": {
+        "A": "They sleep",
+        "B": "They study",
+        "C": "They cheer for their team",
+        "D": "They play sports"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What is the main idea of the passage?",
+      "options": {
+        "A": "Sports are fun to play.",
+        "B": "Schools need more sports teams.",
+        "C": "Sports teams benefit students and schools.",
+        "D": "All students should play sports."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Which word in paragraph 3 means the same as 'important'?",
+      "options": {
+        "A": "skills",
+        "B": "manage",
+        "C": "practice",
+        "D": "life"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What does the passage suggest about school sports teams?",
+      "options": {
+        "A": "They are only for the best students.",
+        "B": "They are good for students and the school community.",
+        "C": "They are more important than studying.",
+        "D": "They are too difficult for many students."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
