@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Globalization, the process of increased interconnectedness and interdependence of markets, societies, and cultures, has dramatically transformed local communities worldwide over the past few decades. As multinational corporations expand their reach and digital technology erases geographical boundaries, traditional ways of life are being challenged and reshaped at an unprecedented pace. While proponents argue that globalization brings economic growth and cultural exchange, critics point to the homogenization of unique local identities and widening inequality gaps that often accompany this global integration.<br><br>(2) One of the most visible impacts of globalization on local communities is economic transformation. The influx of international businesses can create employment opportunities and stimulate economic growth in previously isolated regions. However, this economic shift often disrupts traditional livelihoods and creates dependency on global market forces that are beyond local control. Small businesses may struggle to compete with multinational corporations, leading to economic vulnerability and the loss of traditional production methods that have sustained communities for generations.<br><br>(3) Cultural identity, too, faces significant challenges in the globalized world. As international media, brands, and entertainment become ubiquitous, local cultural practices and languages risk being relegated to the periphery. Young people increasingly adopt global trends and consumer habits, sometimes at the expense of traditional customs and values. Nevertheless, some communities have responded by reinvigorating local traditions, effectively using global platforms to showcase and preserve their unique cultural heritage in the face of homogenizing influences.<br><br>(4) Environmental consequences present another dimension of globalization's impact on local communities. The increased production and consumption patterns encouraged by global market integration have accelerated resource extraction and pollution in many regions. Local ecosystems that once sustained communities through traditional, often more sustainable practices, now face degradation from industrial activity. Paradoxically, global environmental awareness has also fostered international cooperation on conservation efforts, potentially benefiting local environments through sustainable development initiatives.<br><br>(5) The future relationship between globalization and local communities will largely depend on how the process is managed and negotiated. Communities that can selectively adapt to global forces while maintaining their core values and identity may find a sustainable balance. Policies that protect local industries, cultural practices, and environments while still allowing beneficial aspects of global integration could help mitigate negative impacts. Ultimately, the challenge lies in harnessing the economic and cultural opportunities of globalization while preserving the unique character and sustainability of local communities worldwide.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which form correctly completes the sentence? She _____ in this department for over fifteen years now.",
+      "options": {
+        "A": "has worked",
+        "B": "is working",
+        "C": "works",
+        "D": "had worked"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct option: If I _____ earlier, I wouldn't have missed the train.",
+      "options": {
+        "A": "would leave",
+        "B": "had left",
+        "C": "have left",
+        "D": "would have left"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence contains a grammatical error?",
+      "options": {
+        "A": "The professor, along with his students, is attending the conference.",
+        "B": "Neither the manager nor his assistants were available for comment.",
+        "C": "Every employee and visitor are required to wear an identification badge.",
+        "D": "Not only the director but also the actors have received awards."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Select the correct form to complete the sentence: By the time the ambulance arrived, the patient _____ consciousness.",
+      "options": {
+        "A": "has lost",
+        "B": "had lost",
+        "C": "was losing",
+        "D": "lost"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct conditional form: If the climate continues to change at this rate, many species _____ extinct by 2100.",
+      "options": {
+        "A": "will become",
+        "B": "would become",
+        "C": "would have become",
+        "D": "will have become"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Identify the sentence with correct use of articles:",
+      "options": {
+        "A": "He is best player on team.",
+        "B": "She bought a unique painting at an auction last week.",
+        "C": "We need the oxygen to breathe.",
+        "D": "They visited the France last summer."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which sentence demonstrates correct subject-verb agreement?",
+      "options": {
+        "A": "The committee have reached their decision.",
+        "B": "A number of issues was raised during the meeting.",
+        "C": "Each of the candidates have submitted their applications.",
+        "D": "The quality of these products has improved significantly."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the sentence with the correct use of the past perfect tense:",
+      "options": {
+        "A": "After the storm has passed, we assessed the damage.",
+        "B": "Before I arrived, everyone left the party.",
+        "C": "By the time we reached the theater, the movie had already started.",
+        "D": "When she graduated, she has completed three internships."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct relative clause: The scientist _____ theory revolutionized physics received the Nobel Prize.",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence uses the passive voice correctly?",
+      "options": {
+        "A": "The novel has written by the professor last year.",
+        "B": "The experiment was conducting by the research team.",
+        "C": "The decision will be made by the board tomorrow.",
+        "D": "The building is renovating since January."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Identify the sentence with the correct use of modals:",
+      "options": {
+        "A": "You must not to leave before signing the documents.",
+        "B": "She might to have forgotten about our appointment.",
+        "C": "We should been more careful with our investments.",
+        "D": "They may not be able to attend the conference."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Choose the sentence with correct use of gerunds and infinitives:",
+      "options": {
+        "A": "She avoided to speak in public whenever possible.",
+        "B": "They enjoy traveling to different countries every summer.",
+        "C": "He promised completing the project by Friday.",
+        "D": "We finished to work on the proposal yesterday."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Which sentence uses reported speech correctly?",
+      "options": {
+        "A": "He said that he will come tomorrow.",
+        "B": "She told me that she has finished the report.",
+        "C": "They announced that the new policy had been implemented the previous month.",
+        "D": "The professor explained that the exam is difficult."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Select the sentence with correct use of prepositions:",
+      "options": {
+        "A": "We arrived to the airport in time for our flight.",
+        "B": "The article was written from an expert in the field.",
+        "C": "She has been working on this project since March.",
+        "D": "They were worried of the potential consequences."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Identify the sentence that uses parallel structure correctly:",
+      "options": {
+        "A": "The company focuses on developing new products, market research, and to increase sales.",
+        "B": "She enjoys swimming, hiking, and to read novels.",
+        "C": "The presentation was informative, engaging, and convinced the audience.",
+        "D": "The CEO demanded accountability, transparency, and innovative thinking."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the appropriate phrasal verb: The flight was _____ due to severe weather conditions.",
+      "options": {
+        "A": "called off",
+        "B": "put away",
+        "C": "taken over",
+        "D": "brought up"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the correct idiom to complete the sentence: The new software update is still _____, so expect some technical issues.",
+      "options": {
+        "A": "under the weather",
+        "B": "in the red",
+        "C": "on thin ice",
+        "D": "in its infancy"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Which expression best completes this sentence? Despite all the evidence against him, he continues to _____ his innocence.",
+      "options": {
+        "A": "insist on",
+        "B": "maintain",
+        "C": "persist",
+        "D": "uphold"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct collocation: The discovery _____ significant implications for future research.",
+      "options": {
+        "A": "makes",
+        "B": "does",
+        "C": "has",
+        "D": "takes"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the most appropriate connector: The experiment failed; _____, the researchers decided to modify their approach.",
+      "options": {
+        "A": "otherwise",
+        "B": "consequently",
+        "C": "meanwhile",
+        "D": "similarly"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Which word best completes this sentence? The lawyer presented a(n) _____ argument that left no room for doubt.",
+      "options": {
+        "A": "cautious",
+        "B": "incisive",
+        "C": "tentative",
+        "D": "ambiguous"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 22,
+      "question": "Identify the correct meaning of 'deride':",
+      "options": {
+        "A": "to praise enthusiastically",
+        "B": "to consider carefully",
+        "C": "to mock or ridicule",
+        "D": "to explain thoroughly"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct definition of 'prospectus':",
+      "options": {
+        "A": "a medical examination",
+        "B": "a document describing a commercial offering to potential investors",
+        "C": "a scientific hypothesis",
+        "D": "a future outlook or prediction"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 24,
+      "question": "Select the most appropriate word: Despite his _____ manner, no one trusted the salesman because his insincerity was obvious.",
+      "options": {
+        "A": "candid",
+        "B": "abrasive",
+        "C": "forthright",
+        "D": "unctuous"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 25,
+      "question": "Which of these words means 'to steal money that you have been trusted with'?",
+      "options": {
+        "A": "embezzle",
+        "B": "pilfer",
+        "C": "swindle",
+        "D": "plagiarize"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 26,
+      "question": "Choose the word that means 'formidable and inspiring fear or respect':",
+      "options": {
+        "A": "timorous",
+        "B": "innocuous",
+        "C": "redoubtable",
+        "D": "malleable"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "What does 'scathing' mean?",
+      "options": {
+        "A": "mildly critical",
+        "B": "severely critical",
+        "C": "thoughtfully analytical",
+        "D": "cautiously optimistic"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Select the appropriate meaning of 'credulous':",
+      "options": {
+        "A": "skeptical and doubtful",
+        "B": "too ready to believe things",
+        "C": "deliberately deceptive",
+        "D": "highly intelligent"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Choose the definition that best describes 'dilapidated':",
+      "options": {
+        "A": "newly renovated",
+        "B": "carefully organized",
+        "C": "in a state of disrepair due to age or neglect",
+        "D": "deliberately destroyed"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "The project manager's decision to include cartoon characters in the corporate presentation seemed entirely _____.",
+      "options": {
+        "A": "appropriate",
+        "B": "predictable",
+        "C": "incongruous",
+        "D": "innovative"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Which word means 'to force someone out of a position of power'?",
+      "options": {
+        "A": "elevate",
+        "B": "endorse",
+        "C": "establish",
+        "D": "oust"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Choose the word that means 'a person who spends money freely and wastefully':",
+      "options": {
+        "A": "miser",
+        "B": "philanthropist",
+        "C": "spendthrift",
+        "D": "investor"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Select the correct definition of 'sinister':",
+      "options": {
+        "A": "straightforward and honest",
+        "B": "giving the impression of evil or harm",
+        "C": "mysterious but benevolent",
+        "D": "confusing but harmless"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What does 'iniquity' mean?",
+      "options": {
+        "A": "a minor oversight",
+        "B": "a modest achievement",
+        "C": "gross injustice or wickedness",
+        "D": "an ancient artifact"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Choose the correct form: She attempted to _____ the company by falsifying expense reports.",
+      "options": {
+        "A": "persuade",
+        "B": "conciliate",
+        "C": "embezzle from",
+        "D": "advance"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 36,
+      "question": "Select the best option to complete this sentence: Her remarks during the debate were so _____ that her opponent was visibly shaken and unable to respond effectively.",
+      "options": {
+        "A": "vague",
+        "B": "ambiguous",
+        "C": "diplomatic",
+        "D": "scathing"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 37,
+      "question": "Choose the correct register for this formal email: 'I am writing to _____ a meeting to discuss the quarterly financial results.'",
+      "options": {
+        "A": "set up",
+        "B": "request",
+        "C": "fix",
+        "D": "grab"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 38,
+      "question": "Select the most appropriate discourse marker: The company's financial situation was dire; _____, they managed to secure additional funding and avoid bankruptcy.",
+      "options": {
+        "A": "therefore",
+        "B": "nevertheless",
+        "C": "likewise",
+        "D": "subsequently"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 39,
+      "question": "Which phrase best completes this sentence? Despite their superior qualifications, the board decided to _____ the CEO and appoint someone with less experience but better connections.",
+      "options": {
+        "A": "promote",
+        "B": "commend",
+        "C": "oust",
+        "D": "nominate"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 40,
+      "question": "Which word means 'to add decorative details to something'?",
+      "options": {
+        "A": "diminish",
+        "B": "embellish",
+        "C": "simplify",
+        "D": "criticize"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "Which expression is NOT used in paragraph 1?",
+      "options": {
+        "A": "unprecedented pace",
+        "B": "homogenization of unique local identities",
+        "C": "digital technology erases geographical boundaries",
+        "D": "sustainable development initiatives"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "According to paragraph 2, what can happen to small businesses as a result of globalization?",
+      "options": {
+        "A": "They typically expand into international markets.",
+        "B": "They adapt quickly to global market forces.",
+        "C": "They struggle to compete with multinational corporations.",
+        "D": "They benefit from increased local customer loyalty."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "Which statement best reflects the passage's view on the relationship between globalization and cultural identity?",
+      "options": {
+        "A": "Globalization inevitably leads to the total loss of local cultural identities.",
+        "B": "Globalization poses challenges to cultural identity but some communities have found ways to preserve their heritage.",
+        "C": "Young people completely reject global trends in favor of traditional customs.",
+        "D": "Local cultural practices are unaffected by global influences."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "What paradox does paragraph 4 identify regarding globalization's environmental impact?",
+      "options": {
+        "A": "Local ecosystems benefit from increased production.",
+        "B": "Industrial activity improves environmental conditions.",
+        "C": "Global awareness has reduced all forms of pollution.",
+        "D": "Global environmental awareness can foster conservation efforts despite increased pollution."
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Based on the passage, which approach would most likely help communities thrive in a globalized world?",
+      "options": {
+        "A": "Completely rejecting all aspects of global integration",
+        "B": "Fully embracing global market forces without reservation",
+        "C": "Selectively adapting to global forces while maintaining core values",
+        "D": "Focusing exclusively on economic growth opportunities"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What is the main tone of the passage?",
+      "options": {
+        "A": "Highly critical of globalization",
+        "B": "Enthusiastically supportive of globalization",
+        "C": "Balanced, presenting both positive and negative aspects",
+        "D": "Primarily nostalgic for pre-globalization communities"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to the passage, what is one way communities have responded to cultural challenges of globalization?",
+      "options": {
+        "A": "By completely isolating themselves from outside influences",
+        "B": "By using global platforms to showcase their cultural heritage",
+        "C": "By legally prohibiting international media",
+        "D": "By focusing exclusively on economic development"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What does the passage suggest about traditional production methods?",
+      "options": {
+        "A": "They are always more efficient than modern methods.",
+        "B": "They have sustained communities for generations but are now threatened.",
+        "C": "They are completely incompatible with global market integration.",
+        "D": "They are rapidly being adopted by multinational corporations."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Which of the following is NOT mentioned as a potential impact of globalization on local communities?",
+      "options": {
+        "A": "Economic transformation",
+        "B": "Cultural identity challenges",
+        "C": "Environmental consequences",
+        "D": "Improved healthcare outcomes"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What does the passage suggest is necessary for mitigating the negative impacts of globalization?",
+      "options": {
+        "A": "Complete rejection of multinational corporations",
+        "B": "Policies that protect local industries while allowing beneficial aspects of global integration",
+        "C": "Immediate return to traditional production methods",
+        "D": "Unlimited economic growth regardless of environmental impacts"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
