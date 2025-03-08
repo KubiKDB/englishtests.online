@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Water can be a solid, a liquid, or a gas. As a solid, water is called ice. When the temperature rises above 0 degrees Celsius, ice starts to melt. This change from a solid to a liquid is called melting.<br><br>(2) When ice melts, it absorbs heat from its surroundings. This heat energy makes the water molecules move faster and break free from their fixed positions. The ice becomes smaller as it turns into liquid water. The shape and volume of the water change, but its weight stays the same.<br><br>(3) Melting ice affects our planet in many ways. In cold places like the Arctic and Antarctica, large areas of ice are melting because of global warming. When this ice melts, the sea level rises. This can cause flooding in coastal areas around the world.<br><br>(4) Melting ice is also important in everyday life. We use ice to keep our drinks cold. As the ice melts, it takes heat from the drink, making the drink cooler. We also see ice melting on roads and sidewalks when winter ends and spring begins.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which form is correct?",
+      "options": {
+        "A": "She don't like coffee.",
+        "B": "She doesn't likes coffee.",
+        "C": "She doesn't like coffee.",
+        "D": "She not like coffee."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "_____ you have a pen?",
+      "options": {
+        "A": "Are",
+        "B": "Do",
+        "C": "Is",
+        "D": "Have"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "My brother _____ in London.",
+      "options": {
+        "A": "live",
+        "B": "living",
+        "C": "lives",
+        "D": "is live"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "We _____ watching TV now.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "am",
+        "D": "be"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "She _____ breakfast every morning.",
+      "options": {
+        "A": "eat",
+        "B": "eats",
+        "C": "eating",
+        "D": "is eat"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "_____ they at school yesterday?",
+      "options": {
+        "A": "Was",
+        "B": "Were",
+        "C": "Did",
+        "D": "Are"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "I _____ a new car last week.",
+      "options": {
+        "A": "buy",
+        "B": "buys",
+        "C": "buying",
+        "D": "bought"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "She _____ TV when I called.",
+      "options": {
+        "A": "watched",
+        "B": "watches",
+        "C": "was watching",
+        "D": "is watching"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "_____ you like ice cream?",
+      "options": {
+        "A": "Are",
+        "B": "Do",
+        "C": "Does",
+        "D": "Is"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "There _____ a book on the table.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "be",
+        "D": "have"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "I _____ never been to Paris.",
+      "options": {
+        "A": "have",
+        "B": "has",
+        "C": "had",
+        "D": "am"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "The book is _____ the shelf.",
+      "options": {
+        "A": "in",
+        "B": "on",
+        "C": "at",
+        "D": "between"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "She goes to work _____ bus.",
+      "options": {
+        "A": "with",
+        "B": "in",
+        "C": "by",
+        "D": "on"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "We _____ shopping every Saturday.",
+      "options": {
+        "A": "go",
+        "B": "goes",
+        "C": "going",
+        "D": "went"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "He _____ speak French very well.",
+      "options": {
+        "A": "can",
+        "B": "cans",
+        "C": "could to",
+        "D": "is can"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "I need to _____ my homework tonight.",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "does",
+        "D": "making"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Can you _____ me with this problem?",
+      "options": {
+        "A": "help",
+        "B": "assisting",
+        "C": "helps",
+        "D": "to help"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Please _____ off your phone during the meeting.",
+      "options": {
+        "A": "put",
+        "B": "set",
+        "C": "turn",
+        "D": "change"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "I'm going to _____ a shower.",
+      "options": {
+        "A": "have",
+        "B": "do",
+        "C": "make",
+        "D": "take"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "She _____ a mistake in her test.",
+      "options": {
+        "A": "did",
+        "B": "made",
+        "C": "had",
+        "D": "took"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "I _____ TV every evening.",
+      "options": {
+        "A": "look",
+        "B": "see",
+        "C": "watch",
+        "D": "view"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "I need to _____ my teeth before bed.",
+      "options": {
+        "A": "wash",
+        "B": "brush",
+        "C": "clean",
+        "D": "scrub"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "We're going to _____ a party on Saturday.",
+      "options": {
+        "A": "do",
+        "B": "make",
+        "C": "have",
+        "D": "take"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Can you _____ me a favor?",
+      "options": {
+        "A": "make",
+        "B": "give",
+        "C": "do",
+        "D": "have"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "I _____ a lot of fun at the party last night.",
+      "options": {
+        "A": "did",
+        "B": "made",
+        "C": "had",
+        "D": "took"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What's the opposite of 'empty'?",
+      "options": {
+        "A": "open",
+        "B": "heavy",
+        "C": "full",
+        "D": "closed"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "I need to pay _____ for my new car.",
+      "options": {
+        "A": "tax",
+        "B": "bill",
+        "C": "price",
+        "D": "cost"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "The _____ of the page has the page number.",
+      "options": {
+        "A": "edge",
+        "B": "bottom",
+        "C": "corner",
+        "D": "side"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "I live on a busy _____ in the city center.",
+      "options": {
+        "A": "road",
+        "B": "way",
+        "C": "avenue",
+        "D": "street"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "My father has a new _____ at the hospital.",
+      "options": {
+        "A": "work",
+        "B": "job",
+        "C": "career",
+        "D": "business"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "I drink _____ with my breakfast every morning.",
+      "options": {
+        "A": "tea",
+        "B": "water",
+        "C": "juice",
+        "D": "milk"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "I'm _____ that she will come to the party.",
+      "options": {
+        "A": "sure",
+        "B": "certain",
+        "C": "know",
+        "D": "definite"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "We work in a _____ of five people.",
+      "options": {
+        "A": "crowd",
+        "B": "set",
+        "C": "group",
+        "D": "collection"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What's your phone _____?",
+      "options": {
+        "A": "code",
+        "B": "number",
+        "C": "digit",
+        "D": "count"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "I live in a quiet residential _____.",
+      "options": {
+        "A": "zone",
+        "B": "place",
+        "C": "region",
+        "D": "area"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "She has a positive _____ and always sees the best in people.",
+      "options": {
+        "A": "soul",
+        "B": "mind",
+        "C": "spirit",
+        "D": "attitude"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "What do you _____ about this idea?",
+      "options": {
+        "A": "say",
+        "B": "believe",
+        "C": "think",
+        "D": "consider"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Would you like an _____ piece of cake?",
+      "options": {
+        "A": "another",
+        "B": "more",
+        "C": "added",
+        "D": "extra"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "The sun will _____ from behind the clouds soon.",
+      "options": {
+        "A": "come",
+        "B": "show",
+        "C": "appear",
+        "D": "emerge"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "This washing _____ cleans clothes automatically.",
+      "options": {
+        "A": "device",
+        "B": "tool",
+        "C": "machine",
+        "D": "appliance"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, ice melts when the temperature is:",
+      "options": {
+        "A": "below 0 degrees Celsius",
+        "B": "at 0 degrees Celsius",
+        "C": "above 0 degrees Celsius",
+        "D": "at any temperature"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "What happens to water molecules when ice melts?",
+      "options": {
+        "A": "They become heavier",
+        "B": "They move faster",
+        "C": "They disappear",
+        "D": "They cool down"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 2, when ice melts:",
+      "options": {
+        "A": "its weight changes",
+        "B": "its shape stays the same",
+        "C": "it releases heat",
+        "D": "its shape changes"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "What is causing ice to melt in the Arctic and Antarctica?",
+      "options": {
+        "A": "Normal seasonal changes",
+        "B": "Rising sea levels",
+        "C": "Global warming",
+        "D": "Human activity directly"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to the passage, what happens when ice in polar regions melts?",
+      "options": {
+        "A": "Temperatures decrease",
+        "B": "Sea levels rise",
+        "C": "More ice forms",
+        "D": "Drinking water increases"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "Why do we use ice in drinks according to paragraph 4?",
+      "options": {
+        "A": "To add water to the drink",
+        "B": "To make the drink look better",
+        "C": "To keep the drink cold",
+        "D": "To add flavor to the drink"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What is melting described as in paragraph 1?",
+      "options": {
+        "A": "A change from solid to gas",
+        "B": "A change from liquid to solid",
+        "C": "A change from solid to liquid",
+        "D": "A change from gas to liquid"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The word 'surroundings' in paragraph 2 most likely means:",
+      "options": {
+        "A": "nearby objects and environment",
+        "B": "other ice pieces",
+        "C": "water molecules",
+        "D": "temperature gauges"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "When does ice on roads and sidewalks melt according to paragraph 4?",
+      "options": {
+        "A": "During summer",
+        "B": "When winter ends and spring begins",
+        "C": "When it rains",
+        "D": "During fall"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "The main purpose of this passage is to:",
+      "options": {
+        "A": "warn about the dangers of global warming",
+        "B": "explain what happens when ice melts and its effects",
+        "C": "describe how to use ice in everyday life",
+        "D": "teach about the water cycle"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
