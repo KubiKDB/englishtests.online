@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The human eye is a remarkable organ that allows us to see the world in color. When light enters our eyes, it passes through the cornea and lens before reaching the retina at the back of our eye. The retina contains two types of light-sensitive cells: rods and cones. While rods help us see in dim light, cones are responsible for color vision.<br><br>(2) There are three types of cone cells in our eyes, and each type responds to different wavelengths of light. Some cones are most sensitive to red light, others to green light, and the third type to blue light. When light hits these cones, they send signals to our brain through the optic nerve. Our brain then interprets these signals as different colors, allowing us to perceive the vibrant world around us.<br><br>(3) The colors we see depend on the wavelengths of light that objects reflect. For example, a red apple appears red because it absorbs all wavelengths of light except red, which it reflects back to our eyes. Black objects absorb all wavelengths of light, while white objects reflect all wavelengths. This is why wearing black clothes on a sunny day makes you feel hotter than wearing white clothes, as black absorbs more light energy.<br><br>(4) Sometimes, people have difficulty distinguishing between certain colors, a condition known as color blindness. This usually happens when one or more types of cone cells don't work properly. The most common form of color blindness makes it hard to tell the difference between red and green. Color blindness is often inherited and is more common in males than females.<br><br>(5) Our perception of color can also be influenced by surrounding colors and lighting conditions. For instance, a gray object might appear slightly bluish when placed next to something yellow. Additionally, the same object may look different under natural sunlight compared to artificial indoor lighting. This is why interior designers and artists pay careful attention to lighting when working with colors.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which form of the verb is correct? She _____ to the store yesterday.",
+      "options": {
+        "A": "go",
+        "B": "goes",
+        "C": "went",
+        "D": "going"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct preposition: The book is _____ the table.",
+      "options": {
+        "A": "in",
+        "B": "on",
+        "C": "at",
+        "D": "by"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the correct form: If it _____ tomorrow, we will cancel the picnic.",
+      "options": {
+        "A": "rains",
+        "B": "will rain",
+        "C": "would rain",
+        "D": "is raining"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "She don't like coffee.",
+        "B": "She doesn't likes coffee.",
+        "C": "She doesn't like coffee.",
+        "D": "She not like coffee."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct past participle: He has _____ many books.",
+      "options": {
+        "A": "wrote",
+        "B": "written",
+        "C": "write",
+        "D": "writing"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the correct article: I saw _____ interesting movie last night.",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article needed"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which is the correct comparative form? This book is _____ than that one.",
+      "options": {
+        "A": "more better",
+        "B": "more good",
+        "C": "better",
+        "D": "gooder"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct modal verb: You _____ brush your teeth twice a day.",
+      "options": {
+        "A": "should",
+        "B": "would",
+        "C": "could",
+        "D": "might"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Select the correct tense: They _____ dinner when I called.",
+      "options": {
+        "A": "are having",
+        "B": "were having",
+        "C": "have",
+        "D": "has"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence uses the correct verb form?",
+      "options": {
+        "A": "The news are interesting.",
+        "B": "The news is interesting.",
+        "C": "The news be interesting.",
+        "D": "The news were interesting."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct question form: _____ do you go to the gym?",
+      "options": {
+        "A": "How often",
+        "B": "How time",
+        "C": "What often",
+        "D": "What frequency"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the correct passive form: The window _____ by the storm last night.",
+      "options": {
+        "A": "breaks",
+        "B": "broke",
+        "C": "was broken",
+        "D": "is breaking"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Which form is correct? She _____ here since 2010.",
+      "options": {
+        "A": "is living",
+        "B": "lives",
+        "C": "has lived",
+        "D": "lived"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "A": "I always late for work.",
+        "B": "I always am late for work.",
+        "C": "I am always late for work.",
+        "D": "I late always am for work."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the correct relative pronoun: The man _____ lives next door is a doctor.",
+      "options": {
+        "A": "which",
+        "B": "who",
+        "C": "whom",
+        "D": "whose"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct phrasal verb: Can you _____ your jacket? It's getting hot in here.",
+      "options": {
+        "A": "take off",
+        "B": "take away",
+        "C": "take in",
+        "D": "take up"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Complete the expression: It's raining _____ and dogs.",
+      "options": {
+        "A": "cats",
+        "B": "horses",
+        "C": "birds",
+        "D": "mice"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the correct collocation: She made a difficult _____.",
+      "options": {
+        "A": "choice",
+        "B": "decide",
+        "C": "selection",
+        "D": "picking"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Which word completes the sentence? I need to _____ an appointment with the dentist.",
+      "options": {
+        "A": "do",
+        "B": "make",
+        "C": "have",
+        "D": "take"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct preposition: He's been working on this project _____ January.",
+      "options": {
+        "A": "since",
+        "B": "for",
+        "C": "from",
+        "D": "during"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the correct connector: I like coffee, _____ my sister prefers tea.",
+      "options": {
+        "A": "so",
+        "B": "because",
+        "C": "therefore",
+        "D": "while"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Complete the idiom: She passed the exam with flying _____.",
+      "options": {
+        "A": "marks",
+        "B": "colors",
+        "C": "grades",
+        "D": "points"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Which is the correct response to 'Thank you'?",
+      "options": {
+        "A": "With pleasure",
+        "B": "You're welcome",
+        "C": "It doesn't matter",
+        "D": "Not at all bad"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct word to complete this request: Could you please _____ me your pen?",
+      "options": {
+        "A": "borrow",
+        "B": "lend",
+        "C": "rent",
+        "D": "lease"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the correct expression: She's feeling under the _____.",
+      "options": {
+        "A": "cloud",
+        "B": "rain",
+        "C": "weather",
+        "D": "sky"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "The word 'graphic' in 'graphic design' means:",
+      "options": {
+        "A": "difficult to understand",
+        "B": "relating to visual art",
+        "C": "very small details",
+        "D": "extremely bright"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Which sentence uses the word 'chemical' correctly?",
+      "options": {
+        "A": "We need to chemical the solution.",
+        "B": "The laboratory has many chemical substances.",
+        "C": "Please chemical this experiment carefully.",
+        "D": "I don't like when people chemical."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "The word 'penalty' most closely means:",
+      "options": {
+        "A": "reward",
+        "B": "punishment",
+        "C": "advantage",
+        "D": "victory"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "An 'eruption' is most likely to come from a:",
+      "options": {
+        "A": "river",
+        "B": "mountain",
+        "C": "volcano",
+        "D": "cloud"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Which sentence uses 'involve' correctly?",
+      "options": {
+        "A": "We should involve more sugar in the recipe.",
+        "B": "They will involve to the party later.",
+        "C": "The project will involve several team members.",
+        "D": "Please involve your coat before leaving."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "The word 'impact' in the sentence 'The new law will have a significant impact on businesses' means:",
+      "options": {
+        "A": "cost",
+        "B": "effect",
+        "C": "duration",
+        "D": "appearance"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "The term 'yielding' is best described as:",
+      "options": {
+        "A": "refusing to give up",
+        "B": "giving way to pressure",
+        "C": "moving quickly",
+        "D": "looking attractive"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "A 'branch' of a bank is:",
+      "options": {
+        "A": "the main headquarters",
+        "B": "a separate location of the same bank",
+        "C": "a type of account",
+        "D": "a security system"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "The word 'perhaps' indicates:",
+      "options": {
+        "A": "certainty",
+        "B": "denial",
+        "C": "possibility",
+        "D": "enthusiasm"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "The word 'largest' is the superlative form of:",
+      "options": {
+        "A": "large",
+        "B": "larger",
+        "C": "largely",
+        "D": "enlarge"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Choose the sentence where 'instead' is used correctly:",
+      "options": {
+        "A": "She instead going to the party.",
+        "B": "Instead of going to the party, she stayed home.",
+        "C": "She went to the party instead of.",
+        "D": "She instead of went to the party."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "At the 'counter' of a cafe, you can:",
+      "options": {
+        "A": "sit and eat your meal",
+        "B": "wash your hands",
+        "C": "order and pay for food",
+        "D": "cook your own food"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "An 'outdoor' activity is one that takes place:",
+      "options": {
+        "A": "inside a building",
+        "B": "outside in the open air",
+        "C": "in a shopping mall",
+        "D": "at night time"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "The word 'exactly' is most similar in meaning to:",
+      "options": {
+        "A": "approximately",
+        "B": "precisely",
+        "C": "generally",
+        "D": "roughly"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "When something includes the 'entire' group, it includes:",
+      "options": {
+        "A": "most members",
+        "B": "half the members",
+        "C": "all members",
+        "D": "some members"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, which cells are responsible for color vision?",
+      "options": {
+        "A": "Cornea cells",
+        "B": "Lens cells",
+        "C": "Rod cells",
+        "D": "Cone cells"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Based on paragraph 2, how many types of cone cells are there in the human eye?",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, why does a red apple appear red?",
+      "options": {
+        "A": "It absorbs red light.",
+        "B": "It reflects red light.",
+        "C": "It produces red light.",
+        "D": "It changes light to red."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Based on the passage, why do black clothes make you feel hotter on a sunny day?",
+      "options": {
+        "A": "They reflect all wavelengths of light.",
+        "B": "They absorb all wavelengths of light.",
+        "C": "They only reflect black light.",
+        "D": "They create more light energy."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to paragraph 4, which is the most common form of color blindness?",
+      "options": {
+        "A": "Difficulty distinguishing between blue and yellow",
+        "B": "Difficulty distinguishing between red and green",
+        "C": "Inability to see any colors at all",
+        "D": "Difficulty seeing in bright light"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to the passage, color blindness is:",
+      "options": {
+        "A": "More common in females than males",
+        "B": "Always present at birth",
+        "C": "Often inherited",
+        "D": "Easily curable"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Based on paragraph 5, which statement is true?",
+      "options": {
+        "A": "Our perception of color is always accurate.",
+        "B": "Colors look the same under all lighting conditions.",
+        "C": "Surrounding colors can influence how we perceive a color.",
+        "D": "Interior designers don't need to consider lighting."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What is the main purpose of this passage?",
+      "options": {
+        "A": "To explain how the human eye perceives color",
+        "B": "To describe different types of color blindness",
+        "C": "To discuss the physics of light",
+        "D": "To explain why some people need glasses"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Which part of the eye does light pass through first?",
+      "options": {
+        "A": "Retina",
+        "B": "Lens",
+        "C": "Cornea",
+        "D": "Optic nerve"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "According to the passage, which of the following would appear white?",
+      "options": {
+        "A": "An object that absorbs all wavelengths of light",
+        "B": "An object that reflects no wavelengths of light",
+        "C": "An object that reflects all wavelengths of light",
+        "D": "An object that only reflects red light"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
