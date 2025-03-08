@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) People have created simple inventions throughout history that changed our daily lives. One of the most important inventions was paper. The ancient Egyptians made paper from a plant called papyrus more than 5,000 years ago. Later, the Chinese created paper similar to what we use today around 105 CE. This invention helped people share information and ideas more easily.<br><br>(2) Another important invention was the pencil. In the 1500s, people discovered that graphite could make marks on paper. Early pencils were just pieces of graphite wrapped in string or sheep skin. In 1795, Nicholas-Jacques Conté created the modern pencil by mixing graphite with clay and putting it in a wooden case. Pencils made writing and drawing much simpler for everyone.<br><br>(3) The umbrella is another useful invention with a long history. People in ancient Egypt, China, and Greece all used umbrellas to protect themselves from the sun. These early umbrellas were made from leaves, feathers, or paper. In the 1700s, people in Europe started using umbrellas for rain protection. Today, umbrellas help millions of people stay dry when it rains.<br><br>(4) The zipper is a more recent invention that we use every day. Elias Howe patented an early version called the \"automatic continuous clothing closure\" in 1851. However, it wasn't very practical. In 1913, Gideon Sundback created the modern zipper with metal teeth that lock together. The zipper made it much easier to close clothing, bags, and many other items. These simple inventions show how creative ideas can make our lives better.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "She ___ TV every evening.",
+      "options": {
+        "A": "watches",
+        "B": "watch",
+        "C": "watching",
+        "D": "is watch"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "They ___ to the beach last weekend.",
+      "options": {
+        "A": "goes",
+        "B": "go",
+        "C": "went",
+        "D": "going"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "___ you like to drink some coffee?",
+      "options": {
+        "A": "Do",
+        "B": "Would",
+        "C": "Are",
+        "D": "Have"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "He ___ born in 2010.",
+      "options": {
+        "A": "is",
+        "B": "was",
+        "C": "were",
+        "D": "has"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "I ___ to the cinema twice this month.",
+      "options": {
+        "A": "go",
+        "B": "went",
+        "C": "have been",
+        "D": "going"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "The book is ___ the table.",
+      "options": {
+        "A": "in",
+        "B": "at",
+        "C": "on",
+        "D": "by"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "She ___ to school by bus.",
+      "options": {
+        "A": "go",
+        "B": "goes",
+        "C": "going",
+        "D": "gone"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "We ___ dinner when the phone rang.",
+      "options": {
+        "A": "are having",
+        "B": "have",
+        "C": "had",
+        "D": "were having"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "She ___ play tennis when she was younger.",
+      "options": {
+        "A": "can",
+        "B": "could",
+        "C": "is able to",
+        "D": "may"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "___ your homework yet?",
+      "options": {
+        "A": "Did you finish",
+        "B": "Have you finished",
+        "C": "Are you finishing",
+        "D": "Do you finish"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "My sister ___ older than me.",
+      "options": {
+        "A": "am",
+        "B": "are",
+        "C": "is",
+        "D": "be"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "This is ___ interesting book.",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "-"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "If it ___ tomorrow, we will stay home.",
+      "options": {
+        "A": "rain",
+        "B": "rains",
+        "C": "will rain",
+        "D": "raining"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "She ___ him since 2019.",
+      "options": {
+        "A": "knows",
+        "B": "knew",
+        "C": "has known",
+        "D": "know"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "I don't have ___ money.",
+      "options": {
+        "A": "many",
+        "B": "few",
+        "C": "much",
+        "D": "little"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "He ___ to the store to buy milk.",
+      "options": {
+        "A": "went",
+        "B": "walked",
+        "C": "reached",
+        "D": "arrived"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Please ___ on the door before entering.",
+      "options": {
+        "A": "hit",
+        "B": "knock",
+        "C": "push",
+        "D": "touch"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "She ___ a shower every morning.",
+      "options": {
+        "A": "has",
+        "B": "takes",
+        "C": "makes",
+        "D": "does"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "I need to ___ the bus to get to work.",
+      "options": {
+        "A": "ride",
+        "B": "drive",
+        "C": "catch",
+        "D": "hold"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Can you ___ me a favor?",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "give",
+        "D": "take"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Let's ___ a break now.",
+      "options": {
+        "A": "do",
+        "B": "make",
+        "C": "have",
+        "D": "take"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "She ___ a cold last week.",
+      "options": {
+        "A": "caught",
+        "B": "took",
+        "C": "made",
+        "D": "felt"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "I'm going to ___ my teeth before bed.",
+      "options": {
+        "A": "wash",
+        "B": "clean",
+        "C": "brush",
+        "D": "scrub"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "They ___ a party last Saturday.",
+      "options": {
+        "A": "did",
+        "B": "had",
+        "C": "made",
+        "D": "took"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Can you ___ the TV, please? It's too loud.",
+      "options": {
+        "A": "close",
+        "B": "stop",
+        "C": "shut",
+        "D": "turn down"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "We buy ___ at the bakery.",
+      "options": {
+        "A": "bread",
+        "B": "cake",
+        "C": "rice",
+        "D": "milk"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "To ___ means to use force to move something toward yourself.",
+      "options": {
+        "A": "push",
+        "B": "pull",
+        "C": "lift",
+        "D": "throw"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "There are ___ days in a week.",
+      "options": {
+        "A": "six",
+        "B": "seven",
+        "C": "eight",
+        "D": "nine"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Young children are also called ___.",
+      "options": {
+        "A": "adults",
+        "B": "teens",
+        "C": "kids",
+        "D": "babies"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "A fruit that is often red or green is an ___.",
+      "options": {
+        "A": "orange",
+        "B": "apple",
+        "C": "banana",
+        "D": "grape"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Cigarettes produce ___ when people use them.",
+      "options": {
+        "A": "water",
+        "B": "light",
+        "C": "smoke",
+        "D": "dust"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "When something burns, there is ___.",
+      "options": {
+        "A": "ice",
+        "B": "fire",
+        "C": "water",
+        "D": "wind"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "When you are ___ about something, you have no doubts.",
+      "options": {
+        "A": "happy",
+        "B": "worried",
+        "C": "sure",
+        "D": "angry"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "A ___ is something that gives information or directions.",
+      "options": {
+        "A": "book",
+        "B": "sign",
+        "C": "chair",
+        "D": "bag"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "If you ___ something, you must have it.",
+      "options": {
+        "A": "want",
+        "B": "like",
+        "C": "enjoy",
+        "D": "need"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "A ___ has four equal sides.",
+      "options": {
+        "A": "circle",
+        "B": "rectangle",
+        "C": "square",
+        "D": "triangle"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "People who do not have much money are ___.",
+      "options": {
+        "A": "rich",
+        "B": "poor",
+        "C": "young",
+        "D": "old"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "To ___ something means to keep it in your hands.",
+      "options": {
+        "A": "throw",
+        "B": "kick",
+        "C": "hold",
+        "D": "drop"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "A ___ is a vehicle that runs on tracks.",
+      "options": {
+        "A": "bus",
+        "B": "car",
+        "C": "bicycle",
+        "D": "train"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Your father's daughter is your ___.",
+      "options": {
+        "A": "mother",
+        "B": "aunt",
+        "C": "sister",
+        "D": "cousin"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, who created paper similar to what we use today?",
+      "options": {
+        "A": "The Egyptians",
+        "B": "The Chinese",
+        "C": "The Greeks",
+        "D": "The Romans"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "In what year did Nicholas-Jacques Conté create the modern pencil?",
+      "options": {
+        "A": "1500",
+        "B": "1705",
+        "C": "1795",
+        "D": "1851"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to the passage, early umbrellas were used for protection from:",
+      "options": {
+        "A": "Rain",
+        "B": "Wind",
+        "C": "The sun",
+        "D": "Snow"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "When did Europeans start using umbrellas for rain protection?",
+      "options": {
+        "A": "In ancient times",
+        "B": "In the 1500s",
+        "C": "In the 1700s",
+        "D": "In the 1900s"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Who invented the early version of the zipper?",
+      "options": {
+        "A": "Nicholas-Jacques Conté",
+        "B": "Elias Howe",
+        "C": "Gideon Sundback",
+        "D": "The Chinese"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What was the early version of the zipper called?",
+      "options": {
+        "A": "Automatic continuous clothing closure",
+        "B": "Metal teeth lock",
+        "C": "Modern zipper",
+        "D": "Clothing fastener"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to the passage, what material were early pencils wrapped in?",
+      "options": {
+        "A": "Paper",
+        "B": "Wood",
+        "C": "Metal",
+        "D": "String or sheep skin"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What did Gideon Sundback create in 1913?",
+      "options": {
+        "A": "The paper",
+        "B": "The pencil",
+        "C": "The umbrella",
+        "D": "The modern zipper"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to the passage, what helped people share information and ideas more easily?",
+      "options": {
+        "A": "The pencil",
+        "B": "The paper",
+        "C": "The umbrella",
+        "D": "The zipper"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the main idea of the passage?",
+      "options": {
+        "A": "How to make paper and pencils",
+        "B": "The history of Egyptian inventions",
+        "C": "How simple inventions changed our daily lives",
+        "D": "Why zippers are better than buttons"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
