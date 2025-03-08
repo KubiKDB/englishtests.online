@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The relationship between research and development (R&D) investment and economic productivity represents one of the most complex yet crucial aspects of modern economic theory. Unlike traditional capital investments that yield relatively predictable returns, R&D expenditures entail substantial uncertainty—both in terms of technological feasibility and market acceptance. Nevertheless, empirical evidence consistently demonstrates that nations and industries maintaining robust R&D commitments generally exhibit superior long-term productivity growth. This correlation proves particularly pronounced in knowledge-intensive sectors where intellectual property, rather than physical assets, constitutes the primary source of competitive advantage. The resultant innovations frequently generate positive externalities that extend well beyond the investing firm, creating spillover effects that enhance productivity across multiple economic domains.<br><br>(2) The mechanisms through which R&D drives productivity improvements operate along several distinct pathways. Process innovations typically enhance operational efficiency, enabling firms to produce existing goods or services with fewer inputs, thereby reducing marginal costs and potentially expanding market access. Product innovations, conversely, introduce entirely new offerings or significantly improve existing ones, potentially creating premium market segments or entirely new industries. Organizational innovations—often overlooked in traditional analyses—transform management practices, corporate structures, and institutional frameworks, facilitating more effective resource deployment. Critically, these innovation categories frequently interact synergistically; advanced manufacturing processes may enable previously infeasible product designs, while novel organizational approaches can accelerate both process and product development cycles.<br><br>(3) Despite its demonstrable significance, measuring R&D's economic impact presents formidable methodological challenges. Traditional productivity metrics inadequately capture intangible value creation, particularly during early innovation phases when returns remain unrealized. The temporal lag between investment and observable economic outcomes—often spanning years or even decades—complicates attribution and obscures causality. Furthermore, innovation frequently manifests as quality improvements rather than price reductions, rendering conventional productivity measures insufficiently sensitive. These measurement difficulties have prompted economists to develop sophisticated econometric approaches incorporating patent data, bibliometric indicators, and innovation surveys to more accurately assess R&D's contribution to economic performance.<br><br>(4) The relationship between R&D investment and productivity exhibits substantial variation across national innovation systems. Countries with well-developed scientific infrastructure, robust intellectual property protections, flexible labor markets, and deep capital reserves typically derive greater economic benefits from comparable R&D expenditures. Institutional factors—including educational quality, regulatory environments, and cultural attitudes toward entrepreneurship—significantly influence innovation efficiency. This institutional heterogeneity helps explain why seemingly similar R&D investments produce dramatically different productivity outcomes across various economic contexts. Consequently, policymakers increasingly recognize that optimizing innovation-driven growth requires not merely increasing raw R&D expenditures, but cultivating supportive institutional ecosystems that maximize innovation translation into economic value.<br><br>(5) Looking forward, several emerging trends promise to reshape the R&D-productivity nexus. The growing prominence of collaborative innovation models—including university-industry partnerships, open innovation platforms, and international research consortia—suggests that future productivity gains may increasingly derive from knowledge network effects rather than isolated corporate research. Concurrently, digitalization dramatically reduces information costs while accelerating experimental iterations, potentially shortening the lag between investment and economic impact. Advanced computing capabilities, particularly artificial intelligence applications in research, may substantially enhance innovation productivity across scientific domains. These developments suggest not merely a continuation but an acceleration of innovation-driven productivity growth, provided appropriate institutional frameworks evolve to support these emerging innovation paradigms.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which sentence demonstrates the correct use of a phrasal verb with multiple meanings?",
+      "options": {
+        "A": "We need to pick up the pace if we want to finish on time.",
+        "B": "She looked at the painting with interest.",
+        "C": "They walked slowly through the museum.",
+        "D": "The students stood outside the classroom."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the sentence with the correct use of a prepositional phrase:",
+      "options": {
+        "A": "With regards of your inquiry, we will respond soon.",
+        "B": "In accordance to the rules, all participants must register.",
+        "C": "With respect to the previous agreement, some changes have been made.",
+        "D": "In spite the difficulties, they completed the project."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence demonstrates the correct use of an advanced reporting verb?",
+      "options": {
+        "A": "He said that the proposal was interesting.",
+        "B": "She told that she would be late.",
+        "C": "The professor intimated that the theory had significant flaws.",
+        "D": "They spoke the meeting would be postponed."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Identify the sentence with the advanced use of 'the':",
+      "options": {
+        "A": "I bought the book you recommended.",
+        "B": "The rich should help the poor.",
+        "C": "She lives in the house on the corner.",
+        "D": "The dogs are mammals."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Select the sentence that best demonstrates nominalization and adjectival structures:",
+      "options": {
+        "A": "They quickly responded to the emergency situation.",
+        "B": "Their quick response to the emergency situation saved lives.",
+        "C": "They were quick to respond to the emergency.",
+        "D": "The emergency was responded to quickly."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which sentence is an example of a cleft sentence?",
+      "options": {
+        "A": "Jane gave Tom the book yesterday.",
+        "B": "It was Jane who gave Tom the book yesterday.",
+        "C": "The book was given to Tom by Jane yesterday.",
+        "D": "Yesterday, Jane gave the book to Tom."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the sentence containing a nominal relative clause:",
+      "options": {
+        "A": "The book that I bought yesterday is fascinating.",
+        "B": "The man, who is standing over there, is my professor.",
+        "C": "What you're suggesting makes no sense at all.",
+        "D": "She knows why he left the company."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Identify the sentence that correctly uses the subjunctive mood:",
+      "options": {
+        "A": "I wish I was taller.",
+        "B": "If I was you, I would accept the offer.",
+        "C": "It is essential that he attends the meeting.",
+        "D": "The committee suggested that the policy be implemented immediately."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence contains a correctly used dependent preposition?",
+      "options": {
+        "A": "She was accused for stealing the documents.",
+        "B": "He is very capable to solve complex problems.",
+        "C": "They are concerned about the environmental impact.",
+        "D": "The results comply to the international standards."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which example correctly demonstrates ellipsis?",
+      "options": {
+        "A": "Some people prefer tea; others prefer coffee.",
+        "B": "He wanted to attend the conference but he couldn't attend the conference.",
+        "C": "She likes swimming and he likes running.",
+        "D": "They visited Paris last year and they visited Rome this year."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Select the sentence that correctly uses a hypothetical structure with 'wish' or 'if only':",
+      "options": {
+        "A": "I wish I can speak French fluently.",
+        "B": "If only he would have arrived earlier.",
+        "C": "If only we had known about the change in schedule.",
+        "D": "She wishes that she attends the conference next month."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence best illustrates nominalization?",
+      "options": {
+        "A": "The scientists analyzed the data thoroughly.",
+        "B": "A thorough analysis of the data was conducted by the scientists.",
+        "C": "The data was thoroughly analyzed.",
+        "D": "Analyzing the data thoroughly was their task."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the sentence with the correct use of compound adjectives:",
+      "options": {
+        "A": "We implemented a five years plan for the company.",
+        "B": "The well-known professor gave an insightful lecture.",
+        "C": "She bought a red big car last week.",
+        "D": "They have a old fashioned approach to management."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Identify the sentence containing a reduced relative clause:",
+      "options": {
+        "A": "The woman who is sitting in the corner is my colleague.",
+        "B": "The woman sitting in the corner is my colleague.",
+        "C": "The woman, who is sitting in the corner, is my colleague.",
+        "D": "My colleague is the woman who sits in the corner."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Which sentence correctly uses past modal verbs?",
+      "options": {
+        "A": "You must finish this report by tomorrow.",
+        "B": "She could swim when she was five years old.",
+        "C": "They might arrive late to the meeting.",
+        "D": "He must have forgotten our appointment yesterday."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the sentence with the correct word order:",
+      "options": {
+        "A": "She carefully and quietly entered the room.",
+        "B": "She entered quietly and carefully the room.",
+        "C": "She the room entered quietly and carefully.",
+        "D": "Quietly and carefully she the room entered."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the sentence with the appropriate formal academic register:",
+      "options": {
+        "A": "The results are really good and super important for future research.",
+        "B": "The findings suggest significant implications for subsequent investigations.",
+        "C": "The results are kinda surprising and pretty meaningful.",
+        "D": "The findings are awesome and totally change everything we know."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Identify the sentence with the correct use of an idiom:",
+      "options": {
+        "A": "The new regulations are a hot potato for the industry.",
+        "B": "The new regulations are a warm potato for the industry.",
+        "C": "The new regulations are a heated potato for the industry.",
+        "D": "The new regulations are a burning potato for the industry."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Which sentence contains appropriate hedging language for academic writing?",
+      "options": {
+        "A": "This theory definitely explains all aspects of the phenomenon.",
+        "B": "This theory seems to account for several aspects of the phenomenon.",
+        "C": "This theory maybe explains the phenomenon kind of well.",
+        "D": "This theory without doubt is the only explanation for the phenomenon."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the sentence with the correct collocation:",
+      "options": {
+        "A": "She did a serious mistake in her calculations.",
+        "B": "He took a quick decision without consulting anyone.",
+        "C": "We conducted comprehensive research on the subject.",
+        "D": "They performed significant progress in the negotiations."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the sentence with correct parallel structure:",
+      "options": {
+        "A": "The conference offers opportunities for learning, networking, and to develop new skills.",
+        "B": "The conference offers opportunities for learning, for networking, and for developing new skills.",
+        "C": "The conference offers opportunities for learning, networking, and skill development.",
+        "D": "The conference offers opportunities for learning, to network, and developing new skills."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Which sentence demonstrates the correct use of a binomial expression?",
+      "options": {
+        "A": "The agreement is null but void following the disclosure.",
+        "B": "The agreement is null and void following the disclosure.",
+        "C": "The agreement is void and null following the disclosure.",
+        "D": "The agreement is null or void following the disclosure."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Identify the sentence with the appropriate use of a discourse marker:",
+      "options": {
+        "A": "Nevertheless we encountered problems, the project was completed on time.",
+        "B": "We encountered problems. However the project was completed on time.",
+        "C": "We encountered problems; nevertheless, the project was completed on time.",
+        "D": "We encountered problems, nevertheless the project was completed on time."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the sentence with the correct use of inversion for emphasis:",
+      "options": {
+        "A": "Never I have seen such an impressive performance.",
+        "B": "Seldom has the committee reached a unanimous decision so quickly.",
+        "C": "Rarely they consider external applications for senior positions.",
+        "D": "Hardly she had arrived when the meeting began."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Which sentence contains appropriate connotation for formal writing?",
+      "options": {
+        "A": "The politician's speech was full of empty rhetoric and misleading claims.",
+        "B": "The politician's address contained numerous unsubstantiated assertions.",
+        "C": "The politician's talk was total nonsense and packed with lies.",
+        "D": "The politician's words were garbage and completely false."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "His _____ reminiscences about his childhood became tiresome after he had a few drinks.",
+      "options": {
+        "A": "nostalgic",
+        "B": "sentimental",
+        "C": "maudlin",
+        "D": "wistful"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Her _____ pride and excessive self-confidence alienated many of her colleagues.",
+      "options": {
+        "A": "arrogant",
+        "B": "presumptuous",
+        "C": "haughty",
+        "D": "overweening"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "The CEO is known for his _____ communication style, using few words but conveying exactly what he means.",
+      "options": {
+        "A": "concise",
+        "B": "succinct",
+        "C": "terse",
+        "D": "brief"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "The unexpected question left him _____, as he struggled to formulate a coherent response.",
+      "options": {
+        "A": "bewildered",
+        "B": "confused",
+        "C": "nonplussed",
+        "D": "perplexed"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Environmental activists continue to _____ the government's inadequate response to climate change.",
+      "options": {
+        "A": "criticize",
+        "B": "condemn",
+        "C": "censure",
+        "D": "decry"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "The industrial accident released _____ chemicals into the nearby river, killing thousands of fish.",
+      "options": {
+        "A": "toxic",
+        "B": "harmful",
+        "C": "poisonous",
+        "D": "noxious"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "The trading floor maintained a _____ pace during the market crisis, with traders shouting and rushing between desks.",
+      "options": {
+        "A": "hectic",
+        "B": "chaotic",
+        "C": "frantic",
+        "D": "frenetic"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "She wanted to _____ at the unreasonable request but felt she couldn't refuse her supervisor.",
+      "options": {
+        "A": "object",
+        "B": "protest",
+        "C": "demur",
+        "D": "refuse"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "The professor's reputation as a _____ lecturer meant that his classes often ran well beyond their scheduled end time.",
+      "options": {
+        "A": "verbose",
+        "B": "talkative",
+        "C": "loquacious",
+        "D": "garrulous"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "The salesman tried to _____ customers into purchasing expensive extended warranties they didn't need.",
+      "options": {
+        "A": "persuade",
+        "B": "trick",
+        "C": "coax",
+        "D": "inveigle"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "She was considered a _____ of academic excellence, maintaining perfect grades while participating in numerous extracurricular activities.",
+      "options": {
+        "A": "model",
+        "B": "exemplar",
+        "C": "paragon",
+        "D": "epitome"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "The dictator cast a _____ glare at the diplomat who had questioned his human rights record.",
+      "options": {
+        "A": "threatening",
+        "B": "menacing",
+        "C": "ominous",
+        "D": "baleful"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "The volcano had been _____ for centuries before suddenly erupting and devastating the surrounding area.",
+      "options": {
+        "A": "inactive",
+        "B": "passive",
+        "C": "dormant",
+        "D": "latent"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "His _____ manner and sophisticated wit made him the perfect host for the international diplomatic reception.",
+      "options": {
+        "A": "polished",
+        "B": "refined",
+        "C": "elegant",
+        "D": "urbane"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "The theory is based on the _____ that economic growth always leads to improved living standards.",
+      "options": {
+        "A": "assumption",
+        "B": "hypothesis",
+        "C": "presumption",
+        "D": "supposition"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, why do R&D expenditures differ from traditional capital investments?",
+      "options": {
+        "A": "They yield lower returns",
+        "B": "They involve substantial uncertainty",
+        "C": "They are less important for economic growth",
+        "D": "They require less financial commitment"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Based on paragraph 1, in which sectors is the correlation between R&D and productivity growth most pronounced?",
+      "options": {
+        "A": "Manufacturing sectors",
+        "B": "Agricultural sectors",
+        "C": "Knowledge-intensive sectors",
+        "D": "Service sectors"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 2, which innovation type typically enhances operational efficiency?",
+      "options": {
+        "A": "Process innovations",
+        "B": "Product innovations",
+        "C": "Organizational innovations",
+        "D": "Market innovations"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Paragraph 3 suggests that measuring R&D's economic impact is challenging because:",
+      "options": {
+        "A": "R&D investments are typically small",
+        "B": "Traditional metrics adequately capture value creation",
+        "C": "There is often a significant time lag between investment and outcomes",
+        "D": "Economic outcomes are always predictable"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "The term 'spillover effects' in paragraph 1 most likely refers to:",
+      "options": {
+        "A": "Negative consequences of innovation",
+        "B": "Benefits extending beyond the investing firm",
+        "C": "Financial losses from failed research",
+        "D": "Environmental impacts of R&D"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to paragraph 4, why do similar R&D investments produce different outcomes across countries?",
+      "options": {
+        "A": "Due to variations in workforce size",
+        "B": "Because of differences in technological equipment",
+        "C": "Due to institutional heterogeneity",
+        "D": "Because some countries invest more in total"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Based on paragraph 5, what is changing about the future of innovation?",
+      "options": {
+        "A": "Innovation will become less important",
+        "B": "Innovation will rely more on collaborative models",
+        "C": "Companies will reduce R&D investments",
+        "D": "Government funding will eliminate private R&D"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The author's purpose in writing this passage is primarily to:",
+      "options": {
+        "A": "Advocate for increased government funding for R&D",
+        "B": "Criticize current approaches to innovation measurement",
+        "C": "Analyze the relationship between R&D investment and economic productivity",
+        "D": "Compare innovation strategies across different countries"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Which factor is mentioned in paragraph 4 as influencing innovation efficiency?",
+      "options": {
+        "A": "Natural resources",
+        "B": "Population size",
+        "C": "Cultural attitudes toward entrepreneurship",
+        "D": "Military strength"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "The word 'synergistically' in paragraph 2 most nearly means:",
+      "options": {
+        "A": "Independently",
+        "B": "Sequentially",
+        "C": "Competitively",
+        "D": "Cooperatively"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    }
+  ]
+}
