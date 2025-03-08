@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Implicit bias, a phenomenon wherein unconscious attitudes and stereotypes influence human cognition and behavior, has emerged as a pivotal construct in understanding how individuals perceive, interpret, and recollect social experiences. Unlike explicit prejudice, which manifests as conscious and deliberate discrimination, implicit bias operates beneath the threshold of conscious awareness, subtly shaping perceptions without the individual's recognition of its influence. Cognitive psychologists have demonstrated through various experimental paradigms—most notably the Implicit Association Test—that these unconscious biases permeate human cognition regardless of an individual's explicit commitments to egalitarianism or fairness. The insidious nature of implicit bias lies precisely in its invisibility to introspection; one cannot simply examine one's thoughts to identify these biases, as they remain obscured from self-perception while nevertheless exerting substantial influence on cognitive processes, including the encoding and retrieval of memories.<br><br>(2) The relationship between implicit bias and memory processes represents a particularly consequential domain of investigation. Research has consistently demonstrated that memory does not function as a passive recording device but rather as a reconstructive process significantly influenced by existing schemas, expectations, and biases. When individuals encode experiences into memory, implicit biases can systematically distort perception, selectively directing attention toward stereotype-consistent information while diminishing attention to counter-stereotypical details. Similarly, during memory retrieval, these same biases can color recollections, leading individuals to unintentionally fabricate details aligned with stereotypical expectations or to systematically omit information that contradicts preexisting biases. This phenomenon has profound implications across numerous contexts, from eyewitness testimony in legal proceedings to clinical assessment in healthcare settings, where biased recollections can lead to consequential errors in judgment and decision-making.<br><br>(3) The neurobiological underpinnings of implicit bias and its effects on memory have been increasingly elucidated through advances in cognitive neuroscience. Functional magnetic resonance imaging (fMRI) studies have revealed increased amygdala activation—a region associated with emotional processing—when individuals encounter stimuli that trigger implicit biases, even when they report no conscious prejudice. This heightened emotional arousal during encoding can strengthen memory for stereotype-congruent information while simultaneously undermining accurate encoding of counter-stereotypical details. Furthermore, research has demonstrated that the prefrontal cortex, responsible for executive function and cognitive control, can modulate these automatic biased responses, suggesting potential neurological mechanisms for bias reduction. The plastic nature of these neural pathways offers promising evidence that implicit biases, despite their automatic nature, remain potentially malleable through targeted interventions.<br><br>(4) Various methodologies have been developed to measure and mitigate the effects of implicit bias on memory processes. The aforementioned Implicit Association Test represents one prominent approach, assessing the strength of automatic associations between concepts through reaction time measurements that bypass conscious control. Beyond measurement, interventions designed to reduce implicit bias have demonstrated variable efficacy. Counter-stereotypical exposure paradigms, wherein individuals are repeatedly presented with examples that contradict stereotypical expectations, have shown some promise in temporarily reducing bias effects on memory. Implementation intentions—specific plans for responding to bias-triggering situations—have similarly demonstrated effectiveness in mitigating the influence of implicit bias on memory and behavior. However, the durability of these effects remains questionable, with most interventions showing only temporary reductions in bias that decay over time, suggesting that more sustained and multifaceted approaches may be necessary.<br><br>(5) The implications of implicit bias for social cognition extend beyond individual memory processes to broader societal concerns regarding fairness, justice, and equity. In educational settings, teachers' implicit biases can influence their memory of student behavior, potentially leading to discriminatory disciplinary practices. Within healthcare, clinicians' unconscious biases can distort their memory of patient symptoms and behavior, contributing to well-documented disparities in treatment quality and outcomes. The justice system perhaps faces the most severe consequences, as eyewitness testimony—deeply vulnerable to bias-induced memory distortions—can determine the outcome of legal proceedings with life-altering ramifications. Addressing these wide-ranging consequences requires a multidisciplinary approach combining insights from cognitive psychology, neuroscience, education, and legal scholarship. By acknowledging the profound influence of implicit bias on memory processes, researchers and practitioners across diverse fields can develop more effective strategies for promoting accurate perception, unbiased recollection, and equitable decision-making in consequential social contexts.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Identify the sentence that contains a grammatical error:",
+      "options": {
+        "A": "The architect, along with her creative team, has designed an innovative structure that harmonizes with the natural landscape.",
+        "B": "Neither the CEO nor the board members was willing to approve the controversial merger without further analysis.",
+        "C": "The documentary, which premiered at the film festival last month, has received widespread critical acclaim.",
+        "D": "A large number of international students have enrolled in the university's prestigious linguistics program this year."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct verb form to complete this sentence: 'Had we _____ about the storm warning earlier, we would have postponed our sailing trip.'",
+      "options": {
+        "A": "known",
+        "B": "had known",
+        "C": "would know",
+        "D": "were knowing"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the sentence with the correct use of the subjunctive mood:",
+      "options": {
+        "A": "The professor insisted that her student attends all laboratory sessions without exception.",
+        "B": "It is imperative that the manuscript is submitted before the deadline next week.",
+        "C": "The board suggested that the CEO considers alternative approaches to the expansion plan.",
+        "D": "The committee recommended that the proposal be revised to address ethical concerns."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence demonstrates correct parallel structure?",
+      "options": {
+        "A": "The expedition involved climbing treacherous mountains, navigating dense jungles, and to cross raging rivers.",
+        "B": "The workshop focused on developing critical thinking skills, enhancing problem-solving abilities, and the fostering of creative expression.",
+        "C": "The diplomat not only negotiated the treaty skillfully but also secured favorable terms for future trade agreements.",
+        "D": "The museum curator was responsible for acquiring new artifacts, the preservation of historical items, and planning special exhibitions."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Identify the sentence with correct punctuation:",
+      "options": {
+        "A": "Despite the inclement weather, the archaeological team continued their excavation, they were determined to uncover the ancient artifacts before the funding expired.",
+        "B": "The renowned physicist, Dr. Elizabeth Chen, presented her groundbreaking research at the international conference last week.",
+        "C": "After reviewing the contract the legal team identified several ambiguities which required immediate clarification.",
+        "D": "The exhibition features works from three prominent artists: Maya Lin, James Turrell and Anish Kapoor."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Choose the sentence with the correct use of articles:",
+      "options": {
+        "A": "The entrepreneur presented an innovative solution to the persistent problem facing urban transportation systems.",
+        "B": "The researcher published her findings in prestigious journal last month, attracting attention from scientific community.",
+        "C": "The expedition to Himalayas required extensive preparation and specialized equipment.",
+        "D": "The university offers a MBA program that emphasizes entrepreneurship and innovation."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Select the sentence with correct subject-verb agreement:",
+      "options": {
+        "A": "The collection of ancient manuscripts have been carefully preserved in the university's climate-controlled archive.",
+        "B": "Each of the participating countries have submitted their proposals for reducing carbon emissions.",
+        "C": "The quality of the ingredients significantly affects the flavor profile of the final dish.",
+        "D": "The committee, together with their external advisors, were unable to reach a consensus on the controversial issue."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Which sentence contains a misplaced modifier?",
+      "options": {
+        "A": "Having completed the marathon, the medal was presented to the exhausted runner.",
+        "B": "The professor explained the complex concept to the students who had extensive experience in the field.",
+        "C": "While conducting the experiment, the researchers observed an unexpected chemical reaction.",
+        "D": "After reviewing all the evidence, the jury reached a unanimous verdict."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Identify the sentence with the correct use of past perfect tense:",
+      "options": {
+        "A": "Before the diplomatic negotiations began, both nations already established their key positions.",
+        "B": "The author finished writing her novel after she secured a publishing contract.",
+        "C": "When the storm hit the coastal region, many residents have already evacuated their homes.",
+        "D": "The archaeological team had unearthed several artifacts before the heavy rainfall halted their excavation."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the sentence with correct pronoun usage:",
+      "options": {
+        "A": "The corporation announced it's plan to expand operations in emerging markets next quarter.",
+        "B": "Neither of the proposals were deemed satisfactory by the committee.",
+        "C": "The researcher published her findings, which contradicted previous studies in the field.",
+        "D": "The university, whom had received substantial funding, established a new research center."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Select the sentence with the correct conditional form:",
+      "options": {
+        "A": "If the archaeological expedition had discovered the ancient tomb, they would receive international recognition.",
+        "B": "Unless the diplomat apologizes for his remarks, the negotiations will had broken down completely.",
+        "C": "Had the environmental regulations been implemented sooner, the ecosystem might have been preserved.",
+        "D": "If the company would invest in renewable energy, they could reduce their carbon footprint significantly."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence correctly uses gerunds and infinitives?",
+      "options": {
+        "A": "The mountaineers decided climbing the north face despite the adverse weather conditions.",
+        "B": "The committee recommends to implement the proposed changes immediately.",
+        "C": "The artist recalled seeing similar architectural features during her travels in Southeast Asia.",
+        "D": "The diplomat avoided to comment on the controversial bilateral agreement."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Identify the sentence with the correct use of passive voice:",
+      "options": {
+        "A": "The innovative architectural design was criticized by leading experts in sustainable construction.",
+        "B": "The ancient manuscript translated into several languages by scholars from various universities.",
+        "C": "The diplomatic agreement signed by both nations after months of negotiation.",
+        "D": "The archaeological findings documented in a comprehensive report for future reference."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the sentence with the correct comparative form:",
+      "options": {
+        "A": "The presentation at this year's conference was more comprehensive than any other presentation I have attended.",
+        "B": "This architectural design is the most unique proposal submitted for the international competition.",
+        "C": "The latest economic report is more detailed and more thorougher than previous analyses.",
+        "D": "The diplomat's approach to the negotiations was more effective than his predecessor."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the sentence with correct use of adverbs:",
+      "options": {
+        "A": "The researchers worked diligent to complete the study before the funding expired.",
+        "B": "The architectural firm has designed some of the most innovative and sustainable buildings globally.",
+        "C": "The diplomat spoke confident about the prospects for a peaceful resolution to the conflict.",
+        "D": "The artist creates her sculptures careful using traditional techniques and sustainable materials."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the most appropriate word to complete this sentence: 'Despite facing numerous setbacks, the explorer maintained a(n) _____ determination to reach the remote archaeological site.'",
+      "options": {
+        "A": "tenuous",
+        "B": "ambivalent",
+        "C": "indefatigable",
+        "D": "perfunctory"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the most appropriate phrasal verb to complete this sentence: 'After carefully examining all the evidence, the detective managed to _____ the truth about the mysterious disappearance.'",
+      "options": {
+        "A": "come across",
+        "B": "figure out",
+        "C": "put up with",
+        "D": "take after"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Which collocation is incorrect in formal English?",
+      "options": {
+        "A": "conduct research",
+        "B": "implement strategies",
+        "C": "do a conclusion",
+        "D": "reach a consensus"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the most appropriate transition to complete this sentence: 'Renewable energy technologies have become increasingly affordable in recent years; _____, many countries still rely predominantly on fossil fuels.'",
+      "options": {
+        "A": "consequently",
+        "B": "furthermore",
+        "C": "nevertheless",
+        "D": "similarly"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Identify the sentence with the most appropriate register for an academic research paper:",
+      "options": {
+        "A": "The experiment was a total success and showed some really amazing results that nobody expected.",
+        "B": "The empirical investigation yielded statistically significant results that contradicted prevailing theoretical models.",
+        "C": "We did the study and found out that our hypothesis was right, which was pretty interesting.",
+        "D": "The researchers got some good data from their experiment that kind of proves their theory."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the most precise and appropriate term to complete this sentence: 'The critic's _____ analysis of the novel revealed subtle thematic elements that most readers had overlooked.'",
+      "options": {
+        "A": "nice",
+        "B": "deep",
+        "C": "incisive",
+        "D": "good"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the most appropriate expression to replace the underlined phrase: 'The innovative startup has been MAKING WAVES in the technology sector with its groundbreaking artificial intelligence applications.'",
+      "options": {
+        "A": "causing disruption",
+        "B": "creating controversies",
+        "C": "generating significant impact",
+        "D": "producing ocean currents"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the option that best maintains stylistic consistency with diplomatic correspondence:",
+      "options": {
+        "A": "We appreciate your cooperation and look forward to further collaboration on matters of mutual interest.",
+        "B": "Thanks so much for your help, and we'd love to work with you guys again sometime soon!",
+        "C": "Your assistance is acknowledged, and additional cooperative ventures might be possible in the future.",
+        "D": "We want to thank you for helping us out, and hopefully we can do more stuff together down the road."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Which sentence demonstrates the most effective use of hedging in academic writing?",
+      "options": {
+        "A": "This treatment definitely cures the disease in all patients.",
+        "B": "The findings suggest that the intervention may be effective for certain populations under specific conditions.",
+        "C": "It is absolutely clear that this theory explains all observed phenomena without exception.",
+        "D": "The results prove that our hypothesis is completely correct."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the most concise and clear option to express this idea:",
+      "options": {
+        "A": "The architectural firm designed a building that incorporated numerous sustainable features such as solar panels, rainwater harvesting systems, natural ventilation, and energy-efficient lighting to reduce environmental impact.",
+        "B": "The architectural firm designed an environmentally sustainable building with integrated renewable energy and resource conservation systems.",
+        "C": "The architectural firm made a building that was good for the environment because it had things like solar panels to create energy from the sun and systems to collect rainwater and also ways to let air move naturally through the building without using air conditioning too much.",
+        "D": "The architectural firm's building design featured various environmentally-friendly elements that were incorporated into the structure to ensure its sustainability and reduce its carbon footprint through the use of various systems and design features."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What does the word 'ephemeral' most closely mean?",
+      "options": {
+        "A": "Lasting for a very short time",
+        "B": "Extremely beautiful or delicate",
+        "C": "Growing or developing rapidly",
+        "D": "Existing in multiple forms"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the word that most closely matches the meaning of 'ubiquitous':",
+      "options": {
+        "A": "Extremely rare or scarce",
+        "B": "Present or found everywhere",
+        "C": "Unusually large or expansive",
+        "D": "Highly controversial or disputed"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Select the most appropriate definition for 'surreptitious':",
+      "options": {
+        "A": "Openly defiant or rebellious",
+        "B": "Done in a way that attempts to avoid notice; secretive",
+        "C": "Extremely persuasive or convincing",
+        "D": "Deliberately offensive or provocative"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "What does the word 'perfidious' mean when describing a person?",
+      "options": {
+        "A": "Excessively perfectionist or meticulous",
+        "B": "Deceitful and untrustworthy",
+        "C": "Excessively confident or arrogant",
+        "D": "Extremely knowledgeable or erudite"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the word that most closely matches the meaning of 'aplomb':",
+      "options": {
+        "A": "A state of extreme agitation or distress",
+        "B": "Self-confidence or assurance, especially under pressure",
+        "C": "A profound feeling of regret or remorse",
+        "D": "An overwhelming sense of dread or apprehension"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "What does 'equivocal' mean when describing a statement?",
+      "options": {
+        "A": "Highly accurate or precise",
+        "B": "Open to multiple interpretations; ambiguous",
+        "C": "Extremely concise or brief",
+        "D": "Logically sound and well-reasoned"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Select the word that best completes this sentence: 'The diplomat's _____ response carefully acknowledged the concerns without making any specific commitments.'",
+      "options": {
+        "A": "candid",
+        "B": "trenchant",
+        "C": "forthright",
+        "D": "circumspect"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Choose the best definition for 'obfuscate':",
+      "options": {
+        "A": "To make something unclear or difficult to understand",
+        "B": "To strongly oppose or resist something",
+        "C": "To carefully analyze and explain something",
+        "D": "To formally apologize or express regret"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What does 'inexorable' mean when describing a process?",
+      "options": {
+        "A": "Extremely rapid or sudden",
+        "B": "Easily reversible or changeable",
+        "C": "Continuing without possibility of being stopped",
+        "D": "Highly unpredictable or erratic"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Select the closest meaning of 'perspicacious':",
+      "options": {
+        "A": "Having keen mental perception and understanding",
+        "B": "Showing excessive pride or self-confidence",
+        "C": "Prone to excessive sweating or perspiration",
+        "D": "Demonstrating great physical strength or endurance"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Choose the most appropriate definition for 'quixotic':",
+      "options": {
+        "A": "Exceedingly practical and realistic",
+        "B": "Extremely quick-tempered or irritable",
+        "C": "Guided by unrealistic idealism; impractical",
+        "D": "Characterized by cleverness and quick wit"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "What does 'taciturn' mean when describing a person?",
+      "options": {
+        "A": "Reserved and uncommunicative in speech",
+        "B": "Artificially polite or excessively formal",
+        "C": "Extremely talkative or verbose",
+        "D": "Prone to sudden changes in mood"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Select the word that is most opposite in meaning to 'bellicose':",
+      "options": {
+        "A": "aggressive",
+        "B": "warlike",
+        "C": "hostile",
+        "D": "pacifistic"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "What does 'insidious' mean?",
+      "options": {
+        "A": "Proceeding in a subtle way but with harmful effects",
+        "B": "Extremely helpful or beneficial",
+        "C": "Immediately obvious or apparent",
+        "D": "Unintentionally amusing or humorous"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Choose the word that best completes this sentence: 'The critic's _____ review systematically exposed the fundamental flaws in the author's reasoning.'",
+      "options": {
+        "A": "obtuse",
+        "B": "trenchant",
+        "C": "fawning",
+        "D": "nebulous"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, how does implicit bias differ from explicit prejudice?",
+      "options": {
+        "A": "Implicit bias is more harmful than explicit prejudice",
+        "B": "Implicit bias operates unconsciously while explicit prejudice is conscious",
+        "C": "Implicit bias can be easily identified through introspection",
+        "D": "Implicit bias affects only certain individuals with prejudiced beliefs"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Based on paragraph 2, which statement best describes how implicit bias affects memory?",
+      "options": {
+        "A": "It has no significant effect on how memories are formed",
+        "B": "It only affects the retrieval but not the encoding of memories",
+        "C": "It can distort both the encoding and retrieval of memories",
+        "D": "It improves memory accuracy by enhancing attention to details"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, what brain region shows increased activation when implicit biases are triggered?",
+      "options": {
+        "A": "Prefrontal cortex",
+        "B": "Hippocampus",
+        "C": "Amygdala",
+        "D": "Cerebellum"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Based on paragraph 4, which statement about interventions to reduce implicit bias is accurate?",
+      "options": {
+        "A": "Most interventions produce permanent reductions in implicit bias",
+        "B": "The Implicit Association Test is primarily used as an intervention technique",
+        "C": "Implementation intentions have proven completely ineffective",
+        "D": "Most interventions show only temporary effects that diminish over time"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to paragraph 5, in which setting might the consequences of implicit bias on memory be most severe?",
+      "options": {
+        "A": "Corporate workplaces",
+        "B": "The justice system",
+        "C": "Family relationships",
+        "D": "Scientific research"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "The author's primary purpose in writing this passage is to:",
+      "options": {
+        "A": "Argue that implicit bias cannot be measured accurately",
+        "B": "Explain how implicit bias influences memory and its broader implications",
+        "C": "Demonstrate that memory functions as a perfect recording of events",
+        "D": "Criticize current approaches to reducing implicit bias"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Which of the following is mentioned in the passage as a potential approach for mitigating the effects of implicit bias?",
+      "options": {
+        "A": "Complete isolation from diverse social groups",
+        "B": "Exposure to counter-stereotypical examples",
+        "C": "Deliberately reinforcing existing stereotypes",
+        "D": "Avoiding situations where bias might be triggered"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to the passage, why is implicit bias particularly problematic?",
+      "options": {
+        "A": "It affects only certain professions like healthcare and education",
+        "B": "It manifests as conscious and deliberate discrimination",
+        "C": "It remains invisible to introspection while influencing cognition",
+        "D": "It is impossible to measure or study scientifically"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Based on the passage, what role does the prefrontal cortex play regarding implicit bias?",
+      "options": {
+        "A": "It generates and strengthens implicit biases",
+        "B": "It can modulate automatic biased responses",
+        "C": "It prevents the formation of counter-stereotypical memories",
+        "D": "It has no relationship to implicit bias processing"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "The passage suggests that addressing the effects of implicit bias on memory requires:",
+      "options": {
+        "A": "A single, standardized approach applicable in all contexts",
+        "B": "Complete elimination of all stereotypes from society",
+        "C": "Accepting that bias is unchangeable and adapting accordingly",
+        "D": "A multidisciplinary approach drawing from various fields"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    }
+  ]
+}
