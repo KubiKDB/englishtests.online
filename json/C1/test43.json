@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Childhood attachment, a concept meticulously developed by British psychologist John Bowlby in the mid-20th century, refers to the emotional bond formed between an infant and their primary caregiver. This bond, established through consistent and responsive caregiving, provides the child with a secure base from which to explore the world. According to attachment theory, children develop internal working models—mental representations of themselves, others, and relationships—based on these early experiences with caregivers, which subsequently influence their approach to relationships throughout their lives.<br><br>(2) Researchers have identified four primary attachment styles that emerge in childhood: secure, anxious-ambivalent, anxious-avoidant, and disorganized. Secure attachment, characterized by a child's confidence in the caregiver's availability and responsiveness, develops when caregivers consistently meet the child's physical and emotional needs. Conversely, inconsistent or neglectful caregiving may lead to insecure attachment patterns, wherein children develop strategies to cope with unreliable or rejecting caregivers, such as becoming overly dependent or emotionally distant.<br><br>(3) Longitudinal studies have demonstrated remarkable continuity between childhood attachment patterns and adult relationship dynamics. Adults who experienced secure attachment in childhood typically exhibit greater emotional intelligence, healthier communication patterns, and more satisfying intimate relationships. They are generally comfortable with both closeness and independence, maintain a positive view of themselves and others, and demonstrate resilience in the face of relationship challenges. By contrast, individuals with insecure attachment histories often struggle with intimacy, trust, or emotional regulation, which can significantly impair relationship functioning.<br><br>(4) The influence of early attachment extends beyond romantic relationships to encompass friendships, workplace dynamics, and even parenting styles. Intriguingly, research indicates that individuals tend to perpetuate their attachment patterns intergenerationally, with securely attached adults more likely to foster secure attachment in their own children. However, this cycle can be interrupted through self-awareness, therapeutic intervention, or positive relationship experiences that contradict negative expectations formed in childhood. Indeed, while early attachment patterns demonstrate remarkable persistence, they are not immutable determinants of relationship outcomes.<br><br>(5) Contemporary attachment research has expanded to explore neurobiological underpinnings, cultural variations, and clinical applications. Neuroimaging studies reveal that early caregiving experiences significantly influence brain development, particularly in regions associated with stress regulation and social cognition. Meanwhile, cross-cultural research challenges universal assumptions about optimal attachment, highlighting how different childcare practices may serve adaptive functions within specific cultural contexts. Therapeutically, attachment theory has informed numerous interventions designed to heal relational trauma and foster secure connections across the lifespan, underscoring the enduring significance of our earliest bonds for psychological wellbeing.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct form: 'Had I known about the traffic jam, I _____ earlier.'",
+      "options": {
+        "A": "would leave",
+        "B": "would have left",
+        "C": "had left",
+        "D": "will have left"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Identify the sentence with correct subject-verb agreement:",
+      "options": {
+        "A": "The number of participants in the study are increasing every year.",
+        "B": "A number of participants is chosen for the control group.",
+        "C": "The number of participants in the study is increasing every year.",
+        "D": "A number of participants are chosen for the control group."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the grammatically correct sentence:",
+      "options": {
+        "A": "Having completed the research, the paper was submitted to the journal.",
+        "B": "Having completed the research, the team submitted the paper to the journal.",
+        "C": "The team having completed the research, the paper was submitted to the journal.",
+        "D": "The paper was submitted to the journal, having completed the research."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct passive construction: 'The novel _____ by the end of next month.'",
+      "options": {
+        "A": "will be completed",
+        "B": "will have been completed",
+        "C": "is being completed",
+        "D": "has been completed"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Select the sentence with correct use of the subjunctive mood:",
+      "options": {
+        "A": "The professor suggested that we will review the material before the exam.",
+        "B": "The professor suggested that we review the material before the exam.",
+        "C": "The professor suggested that we reviewed the material before the exam.",
+        "D": "The professor suggested that we should review the material before the exam."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Identify the sentence with the correct use of articles:",
+      "options": {
+        "A": "She's studying at an university in Netherlands.",
+        "B": "She's studying at an university in the Netherlands.",
+        "C": "She's studying at a university in Netherlands.",
+        "D": "She's studying at a university in the Netherlands."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct relative clause: 'The research paper, _____ was published last month, has received significant attention.'",
+      "options": {
+        "A": "that",
+        "B": "whom",
+        "C": "whose",
+        "D": "which"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the sentence with correct use of modifiers:",
+      "options": {
+        "A": "He almost read all the assigned chapters for the seminar.",
+        "B": "He read almost all the assigned chapters for the seminar.",
+        "C": "He read all almost the assigned chapters for the seminar.",
+        "D": "All he read almost the assigned chapters for the seminar."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Identify the correct inversion structure:",
+      "options": {
+        "A": "Not only she passed the exam, but also she received the highest score.",
+        "B": "Not only passed she the exam, but also received she the highest score.",
+        "C": "Not only did she pass the exam, but also she received the highest score.",
+        "D": "Not only she did pass the exam, but also received the highest score."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the sentence with the correct use of the gerund:",
+      "options": {
+        "A": "The researchers postponed to publish their findings until further verification.",
+        "B": "The researchers postponed publishing their findings until further verification.",
+        "C": "The researchers postponed publish their findings until further verification.",
+        "D": "The researchers postponed they published their findings until further verification."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Select the correct conditional form: 'If the experiment _____ as planned, we would have obtained different results.'",
+      "options": {
+        "A": "proceeded",
+        "B": "would proceed",
+        "C": "had proceeded",
+        "D": "proceeding"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Identify the sentence with the correct use of reported speech:",
+      "options": {
+        "A": "The director said that the project will be completed by December.",
+        "B": "The director said that the project would be completed by December.",
+        "C": "The director said that the project has been completed by December.",
+        "D": "The director said that the project is being completed by December."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the grammatically correct sentence:",
+      "options": {
+        "A": "Neither the participants nor the researcher were aware of the experimental conditions.",
+        "B": "Neither the participants nor the researcher was aware of the experimental conditions.",
+        "C": "Neither the participants nor the researcher have been aware of the experimental conditions.",
+        "D": "Neither the participants nor the researcher has been aware of the experimental conditions."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Select the sentence with correct parallel structure:",
+      "options": {
+        "A": "The study focuses on analyzing data, developing theories, and the testing of hypotheses.",
+        "B": "The study focuses on analyzing data, developing theories, and testing hypotheses.",
+        "C": "The study focuses on the analysis of data, developing theories, and to test hypotheses.",
+        "D": "The study focuses on data analysis, theory development, and the testing of hypotheses."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Identify the sentence with correct use of the past perfect continuous:",
+      "options": {
+        "A": "They had been debating the issue for hours before reaching a consensus.",
+        "B": "They have been debating the issue for hours before reaching a consensus.",
+        "C": "They had debated the issue for hours before reaching a consensus.",
+        "D": "They were debating the issue for hours before reaching a consensus."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct collocation: 'The committee needs to _____ a decision before the deadline.'",
+      "options": {
+        "A": "do",
+        "B": "have",
+        "C": "make",
+        "D": "get"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the appropriate idiom: 'After months of negotiation, the two companies finally _____ and signed the agreement.'",
+      "options": {
+        "A": "hit the road",
+        "B": "broke the ice",
+        "C": "cut corners",
+        "D": "found common ground"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Identify the correct phrasal verb: 'Scientists are working to _____ a solution to this environmental problem.'",
+      "options": {
+        "A": "come up with",
+        "B": "come across",
+        "C": "come about",
+        "D": "come around"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct preposition: 'The research was conducted _____ accordance _____ ethical guidelines.'",
+      "options": {
+        "A": "in ... with",
+        "B": "by ... to",
+        "C": "under ... of",
+        "D": "on ... for"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the appropriate hedging expression for academic writing: 'These findings _____ indicate a correlation between the variables.'",
+      "options": {
+        "A": "definitely",
+        "B": "appear to",
+        "C": "absolutely",
+        "D": "obviously"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Identify the correct formal expression to present an argument: 'The study was flawed; _____, the conclusions should be questioned.'",
+      "options": {
+        "A": "consequently",
+        "B": "anyway",
+        "C": "plus",
+        "D": "so"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the appropriate fixed expression: 'The validity of the experimental results is _____ question due to methodological issues.'",
+      "options": {
+        "A": "in",
+        "B": "on",
+        "C": "at",
+        "D": "under"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the correct binomial pair: 'The relationship between genetics and environment is complex and requires careful analysis of cause and _____.'",
+      "options": {
+        "A": "result",
+        "B": "consequence",
+        "C": "effect",
+        "D": "outcome"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Identify the correct word form to complete the sentence: 'There has been significant _____ in treatment outcomes over the past decade.'",
+      "options": {
+        "A": "improve",
+        "B": "improving",
+        "C": "improvement",
+        "D": "improved"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct expression for comparing research findings: 'The results of the second experiment were _____ to those of the first study.'",
+      "options": {
+        "A": "compatible",
+        "B": "comparable",
+        "C": "competent",
+        "D": "compelling"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the word that means 'fearlessly bold or daring':",
+      "options": {
+        "A": "audacious",
+        "B": "ambiguous",
+        "C": "amenable",
+        "D": "altruistic"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Select the word that means 'so delicate and translucent as to appear transparent':",
+      "options": {
+        "A": "dilatory",
+        "B": "diaphanous",
+        "C": "discordant",
+        "D": "discerning"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Identify the word that describes someone who is 'thorough and extremely attentive to details':",
+      "options": {
+        "A": "spurious",
+        "B": "sagacious",
+        "C": "scrupulous",
+        "D": "sententious"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Choose the word that means 'a scarcity or lack of something':",
+      "options": {
+        "A": "detriment",
+        "B": "deluge",
+        "C": "dexterity",
+        "D": "dearth"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Select the word that describes views or interests that are 'limited in scope or of local concern':",
+      "options": {
+        "A": "pernicious",
+        "B": "parochial",
+        "C": "pragmatic",
+        "D": "pedantic"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Identify the word that means 'denial or renunciation of one's own interests or desires':",
+      "options": {
+        "A": "abrogation",
+        "B": "absolution",
+        "C": "abnegation",
+        "D": "aberration"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Choose the word that refers to 'clever, witty conversation or quick, sharp replies':",
+      "options": {
+        "A": "repertoire",
+        "B": "repartee",
+        "C": "rejoinder",
+        "D": "recreation"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Select the word that means 'to place or deal with close together for contrasting effect':",
+      "options": {
+        "A": "jubilate",
+        "B": "justify",
+        "C": "juxtapose",
+        "D": "jeopardize"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Identify the word that describes someone who is 'deceitful and untrustworthy':",
+      "options": {
+        "A": "perdurable",
+        "B": "perfidious",
+        "C": "pervasive",
+        "D": "perspicacious"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Choose the word that means 'done or shown openly; not secret or hidden':",
+      "options": {
+        "A": "obtuse",
+        "B": "obscure",
+        "C": "overt",
+        "D": "oblique"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Select the word that means 'to describe or portray something precisely':",
+      "options": {
+        "A": "deliberate",
+        "B": "delegate",
+        "C": "delineate",
+        "D": "deprecate"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Identify the word that refers to 'the end or death of a person, institution, or activity':",
+      "options": {
+        "A": "demise",
+        "B": "delusion",
+        "C": "denouement",
+        "D": "deviation"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Choose the word that describes something 'lacking sense or meaning; silly':",
+      "options": {
+        "A": "ineffable",
+        "B": "inexorable",
+        "C": "inane",
+        "D": "ingenuous"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Select the word that means 'tearfully or weakly emotional; foolishly sentimental':",
+      "options": {
+        "A": "mundane",
+        "B": "maudlin",
+        "C": "morose",
+        "D": "mordant"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Identify the word that refers to 'a person's inherent qualities of mind and character':",
+      "options": {
+        "A": "dissemination",
+        "B": "discernment",
+        "C": "disposition",
+        "D": "discretion"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what are internal working models?",
+      "options": {
+        "A": "Physical representations that children create through play",
+        "B": "Mental representations of self, others, and relationships",
+        "C": "Theoretical frameworks developed by attachment researchers",
+        "D": "Patterns of emotional expression in early childhood"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following is NOT mentioned as one of the four primary attachment styles in paragraph 2?",
+      "options": {
+        "A": "Secure attachment",
+        "B": "Anxious-ambivalent attachment",
+        "C": "Resistant attachment",
+        "D": "Disorganized attachment"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "Based on paragraph 3, which characteristic is typical of adults who experienced secure attachment in childhood?",
+      "options": {
+        "A": "Difficulty maintaining healthy boundaries",
+        "B": "Overdependence on relationship partners",
+        "C": "Greater emotional intelligence",
+        "D": "Avoidance of close relationships"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to paragraph 4, how can the intergenerational transmission of attachment patterns be interrupted?",
+      "options": {
+        "A": "Through isolation from negative influences",
+        "B": "By completely avoiding close relationships",
+        "C": "Through self-awareness and therapeutic intervention",
+        "D": "By having fewer children to focus more attention on each child"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What does the passage suggest about the relationship between early attachment and brain development?",
+      "options": {
+        "A": "They are completely unrelated processes",
+        "B": "Early caregiving experiences influence brain development",
+        "C": "Brain development determines attachment styles",
+        "D": "Neuroimaging cannot detect attachment-related brain differences"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What challenge to attachment theory is mentioned in paragraph 5?",
+      "options": {
+        "A": "The theory lacks empirical support",
+        "B": "The theory only applies to Western cultural contexts",
+        "C": "Cross-cultural research questions universal assumptions about optimal attachment",
+        "D": "Neuroimaging studies have disproven the theory's basic premises"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Based on the passage, what can be inferred about the relationship between secure attachment and parenting?",
+      "options": {
+        "A": "Securely attached individuals automatically become perfect parents",
+        "B": "Securely attached individuals are more likely to foster secure attachment in their children",
+        "C": "Parenting skills are unrelated to childhood attachment experiences",
+        "D": "Insecurely attached individuals cannot become effective parents"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "Which of the following best describes how the passage characterizes early attachment patterns?",
+      "options": {
+        "A": "As completely unchangeable determinants of adult functioning",
+        "B": "As irrelevant to later relationship functioning",
+        "C": "As persistent but not immutable influences on relationships",
+        "D": "As temporary adaptations that disappear in adulthood"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What is the main purpose of the passage?",
+      "options": {
+        "A": "To criticize traditional approaches to child development",
+        "B": "To explain attachment theory and its implications for adult relationships",
+        "C": "To provide parenting advice for fostering secure attachment",
+        "D": "To compare different therapeutic approaches to relationship issues"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "According to the passage, what is required for secure attachment to develop?",
+      "options": {
+        "A": "Genetic predisposition to emotional stability",
+        "B": "Consistent and responsive caregiving",
+        "C": "Cultural practices that prioritize independence",
+        "D": "Limited exposure to multiple caregivers"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
