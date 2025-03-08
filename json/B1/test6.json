@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Mountain ranges play a crucial role in shaping weather patterns around the world. When air encounters a mountain range, it is forced to rise, cool, and often release moisture in the form of rain or snow. This phenomenon, known as orographic lifting, creates distinct weather conditions on different sides of mountains. The side facing the prevailing winds, called the windward side, typically receives heavy precipitation as moisture-laden air rises and cools. This explains why many mountain slopes feature lush forests and abundant vegetation.<br><br>(2) In contrast, the opposite side of a mountain range, known as the leeward side, often experiences much drier conditions. After releasing moisture on the windward side, the air descends, warms, and becomes relatively dry. This creates what meteorologists call a rain shadow effect. Some of the world's most notable deserts, including the Gobi Desert in Asia and parts of Nevada and Utah in the United States, exist primarily because nearby mountain ranges block moisture from reaching these areas.<br><br>(3) Mountain ranges also influence temperature patterns in significant ways. Air temperature typically decreases with elevation, with average temperatures dropping about 6.5°C for every 1,000 meters of height. This creates vertical climate zones where different types of vegetation and wildlife thrive at various elevations. Additionally, mountains can block cold air masses, protecting regions from severe winter conditions. For example, the Alps shield parts of southern Europe from cold Arctic air masses, helping to maintain milder winter temperatures.<br><br>(4) The impact of mountains on wind patterns is equally important. Mountain ranges can channel winds in specific directions, creating corridor effects where winds are accelerated between peaks or through valleys. These localized wind patterns often have specific names in different regions, such as the Mistral in southern France or the Santa Ana winds in California. Such winds can significantly influence local temperatures, humidity levels, and even air quality in nearby communities.<br><br>(5) On a larger scale, major mountain ranges can affect global atmospheric circulation patterns. The Himalayas, the world's highest mountain range, influence the South Asian monsoon system that brings seasonal rainfall to millions of people. Similarly, the Rocky Mountains in North America affect continental weather systems by redirecting air masses and storm tracks. As climate change continues to alter temperature and precipitation patterns worldwide, understanding how mountains influence weather becomes increasingly important for predicting future climate conditions and preparing for environmental changes.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which verb form correctly completes the sentence? She _____ in London for five years.",
+      "options": {
+        "A": "live",
+        "B": "lives",
+        "C": "has lived",
+        "D": "living"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct preposition: The conference will take place _____ March 15th.",
+      "options": {
+        "A": "in",
+        "B": "at",
+        "C": "on",
+        "D": "during"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "She don't know the answer.",
+        "B": "He don't like chocolate.",
+        "C": "They doesn't work here.",
+        "D": "I didn't see them yesterday."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Select the correct relative pronoun: The book _____ I bought yesterday is very interesting.",
+      "options": {
+        "A": "who",
+        "B": "whom",
+        "C": "whose",
+        "D": "that"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct conditional form: If I _____ more time, I would learn another language.",
+      "options": {
+        "A": "have",
+        "B": "had",
+        "C": "will have",
+        "D": "would have"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the correct modal verb for advice: You _____ see a doctor about that cough.",
+      "options": {
+        "A": "should",
+        "B": "would",
+        "C": "could",
+        "D": "might"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which sentence uses the present perfect correctly?",
+      "options": {
+        "A": "I have gone to Paris last summer.",
+        "B": "She has visited her grandmother yesterday.",
+        "C": "They have never been to Australia.",
+        "D": "He has finished his homework two hours ago."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct past continuous form: When the phone rang, I _____ dinner.",
+      "options": {
+        "A": "was cook",
+        "B": "was cooking",
+        "C": "were cooking",
+        "D": "cooked"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Select the correct article: My father is _____ engineer.",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article needed"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence has the correct passive voice construction?",
+      "options": {
+        "A": "The letter written by my friend.",
+        "B": "The window was broke during the storm.",
+        "C": "The meal is being prepared by the chef.",
+        "D": "The book has wrote by a famous author."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct comparative form: This exercise is _____ than the previous one.",
+      "options": {
+        "A": "more easy",
+        "B": "more easier",
+        "C": "easyer",
+        "D": "easier"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the correct future form: This time next week, I _____ on a beach in Hawaii.",
+      "options": {
+        "A": "will lie",
+        "B": "am lying",
+        "C": "will be lying",
+        "D": "lie"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Identify the correct question tag: You like pizza, _____?",
+      "options": {
+        "A": "don't you",
+        "B": "aren't you",
+        "C": "do you",
+        "D": "didn't you"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct form of the reported speech: She said, \"I am tired.\" = She said _____.",
+      "options": {
+        "A": "I am tired",
+        "B": "she was tired",
+        "C": "she is tired",
+        "D": "I was tired"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the correct quantifier: _____ of the students passed the exam.",
+      "options": {
+        "A": "Much",
+        "B": "Most",
+        "C": "Many",
+        "D": "More"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct phrasal verb: Could you please _____ the volume? I can't hear the TV.",
+      "options": {
+        "A": "turn up",
+        "B": "turn down",
+        "C": "turn in",
+        "D": "turn off"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the appropriate expression for making a suggestion:",
+      "options": {
+        "A": "Why don't we go to the cinema?",
+        "B": "I'm afraid I can't join you.",
+        "C": "That's a great idea.",
+        "D": "I'd rather stay at home."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct collocation: _____ a mistake",
+      "options": {
+        "A": "do",
+        "B": "make",
+        "C": "have",
+        "D": "take"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Select the appropriate expression to show agreement:",
+      "options": {
+        "A": "I don't think so.",
+        "B": "That's not right.",
+        "C": "I couldn't agree more.",
+        "D": "I'm not sure about that."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct linking word: I wanted to go to the party, _____ I had to study for my exam.",
+      "options": {
+        "A": "so",
+        "B": "and",
+        "C": "but",
+        "D": "or"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the appropriate idiom: After three years of hard work, Sarah finally _____ her degree.",
+      "options": {
+        "A": "took up",
+        "B": "came across",
+        "C": "looked after",
+        "D": "earned"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct preposition: The movie is based _____ a true story.",
+      "options": {
+        "A": "in",
+        "B": "at",
+        "C": "on",
+        "D": "by"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the appropriate expression to politely disagree:",
+      "options": {
+        "A": "You're completely wrong!",
+        "B": "I'm afraid I don't agree with you.",
+        "C": "That's nonsense.",
+        "D": "You must be joking."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct word to complete the expression: Mary is feeling under the _____.",
+      "options": {
+        "A": "cloud",
+        "B": "weather",
+        "C": "rain",
+        "D": "sun"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the appropriate response to the question 'How are you?'",
+      "options": {
+        "A": "I'm 25 years old.",
+        "B": "I'm an engineer.",
+        "C": "I'm doing well, thanks.",
+        "D": "I'm from Spain."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the correct meaning of 'document':",
+      "options": {
+        "A": "to prove something is true",
+        "B": "a piece of paper with official information written on it",
+        "C": "to organize files in a folder",
+        "D": "a type of computer program"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "What does 'receive' mean?",
+      "options": {
+        "A": "to get or be given something",
+        "B": "to send something to someone",
+        "C": "to look for something",
+        "D": "to reject something"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Select the correct definition of 'nuclear':",
+      "options": {
+        "A": "related to space exploration",
+        "B": "relating to the nucleus of an atom",
+        "C": "a type of renewable energy",
+        "D": "connected to computer technology"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Choose the sentence that uses 'fifteen' correctly:",
+      "options": {
+        "A": "She has fifteen years old.",
+        "B": "I need fifteen dollars to buy this book.",
+        "C": "The movie starts in fifteen.",
+        "D": "They fifteen the competition."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "What does 'embassy' refer to?",
+      "options": {
+        "A": "a type of historical building",
+        "B": "an official residence or offices of an ambassador",
+        "C": "a company that organizes international travel",
+        "D": "a government department that deals with taxation"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Choose the correct definition of 'criminal':",
+      "options": {
+        "A": "a person who studies law",
+        "B": "a police officer",
+        "C": "a person who has committed a crime",
+        "D": "a person who works in a court"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "What does 'profile' mean in the following sentence? 'She has created a new profile on the social media platform.'",
+      "options": {
+        "A": "a short description of someone's life, work, interests, etc.",
+        "B": "a side view of someone's face",
+        "C": "a type of photograph",
+        "D": "a secure password"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Select the sentence that uses 'working' correctly:",
+      "options": {
+        "A": "The machine isn't working properly.",
+        "B": "She working in a hospital.",
+        "C": "They working hard yesterday.",
+        "D": "I working on a new project."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Choose the correct definition of 'attempt':",
+      "options": {
+        "A": "to finish something successfully",
+        "B": "to try to do something, especially something difficult",
+        "C": "to avoid doing something",
+        "D": "to explain why something happened"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "What does 'spoken' refer to in the phrase 'spoken English'?",
+      "options": {
+        "A": "English that is written down",
+        "B": "English that is used in formal situations",
+        "C": "English that is said rather than written",
+        "D": "English that is taught in schools"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Choose the correct definition of 'ceremony':",
+      "options": {
+        "A": "a formal event celebrating an important occasion",
+        "B": "a type of religious building",
+        "C": "a series of meetings",
+        "D": "a kind of traditional dance"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Select the sentence that uses 'tonight' correctly:",
+      "options": {
+        "A": "I went to the cinema tonight.",
+        "B": "We are going to a concert tonight.",
+        "C": "She visited her grandmother tonight.",
+        "D": "They had dinner tonight."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "What does 'convert' mean?",
+      "options": {
+        "A": "to keep something in its original form",
+        "B": "to change something from one form or use to another",
+        "C": "to throw something away",
+        "D": "to buy something new"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Choose the correct definition of 'officer':",
+      "options": {
+        "A": "a person who works in a shop",
+        "B": "a person with a high position in an organization, especially the police or military",
+        "C": "a person who delivers mail",
+        "D": "a person who teaches in a school"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "What does 'strongly' mean?",
+      "options": {
+        "A": "in a weak or gentle way",
+        "B": "in a physically powerful way",
+        "C": "in a way that shows great feeling or belief",
+        "D": "in a surprising manner"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what happens when air encounters a mountain range?",
+      "options": {
+        "A": "It becomes warmer and drier",
+        "B": "It is forced to rise, cool, and often release moisture",
+        "C": "It changes direction but maintains its temperature",
+        "D": "It immediately forms clouds regardless of conditions"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Based on paragraph 1, which side of a mountain range typically receives heavy precipitation?",
+      "options": {
+        "A": "The leeward side",
+        "B": "The windward side",
+        "C": "Both sides equally",
+        "D": "Neither side receives precipitation"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "What is the 'rain shadow effect' mentioned in paragraph 2?",
+      "options": {
+        "A": "Heavy rainfall on both sides of a mountain",
+        "B": "The shadow created by rain clouds over mountains",
+        "C": "Dry conditions on the leeward side of mountains",
+        "D": "A special type of rainfall that occurs in mountain regions"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to paragraph 3, how much does air temperature typically decrease for every 1,000 meters of elevation?",
+      "options": {
+        "A": "3.5°C",
+        "B": "5.0°C",
+        "C": "6.5°C",
+        "D": "10.0°C"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What example does paragraph 3 give of mountains protecting regions from severe weather?",
+      "options": {
+        "A": "The Himalayas protecting India from monsoons",
+        "B": "The Alps shielding southern Europe from cold Arctic air",
+        "C": "The Rocky Mountains blocking rainfall in North America",
+        "D": "The Andes creating rainfall in South America"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to paragraph 4, what is the 'corridor effect' related to mountains?",
+      "options": {
+        "A": "The creation of wildlife migration paths",
+        "B": "The blocking of sunlight in mountain valleys",
+        "C": "The acceleration of winds between peaks or through valleys",
+        "D": "The formation of rivers between mountain ranges"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Which of the following is an example of a local wind pattern mentioned in paragraph 4?",
+      "options": {
+        "A": "Trade winds",
+        "B": "The Gulf Stream",
+        "C": "The Mistral",
+        "D": "Hurricanes"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to paragraph 5, how do the Himalayas affect weather patterns?",
+      "options": {
+        "A": "They create year-round cold conditions",
+        "B": "They influence the South Asian monsoon system",
+        "C": "They prevent rainfall throughout Asia",
+        "D": "They produce hurricanes in the Indian Ocean"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What does the passage suggest about the relationship between mountains and climate change?",
+      "options": {
+        "A": "Mountains are unaffected by climate change",
+        "B": "Mountains can prevent climate change effects",
+        "C": "Understanding mountain effects on weather is important for predicting future climate",
+        "D": "Climate change will eliminate the influence of mountains on weather"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the main purpose of this passage?",
+      "options": {
+        "A": "To warn about the dangers of mountain climbing",
+        "B": "To explain how mountain ranges influence weather patterns",
+        "C": "To describe the formation of mountain ranges",
+        "D": "To discuss the impact of climate change on mountains"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
