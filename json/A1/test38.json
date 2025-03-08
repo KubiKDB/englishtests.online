@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Teachers play an important role in helping students learn. They create lesson plans that make learning fun and easy. Teachers explain difficult ideas in simple ways. They use books, pictures, and games to help students understand new things.<br><br>(2) Good teachers know that all students learn in different ways. Some students learn by seeing things. Other students learn by doing activities. Teachers try to use many different methods in class. This helps all students learn in the way that is best for them.<br><br>(3) Teachers also give students feedback on their work. They tell students what they did well and what they need to improve. This helps students understand their mistakes and learn from them. Teachers ask questions to check if students understand the lessons.<br><br>(4) Another important way teachers help students is by encouraging them. They celebrate when students do well and support them when they have problems. Teachers create a positive classroom where students feel safe to try new things. When students feel supported, they learn better and enjoy school more.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which word describes a person who works?",
+      "options": {
+        "A": "resource",
+        "B": "labor",
+        "C": "social",
+        "D": "agency"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 2,
+      "question": "The opposite of 'single' is _____.",
+      "options": {
+        "A": "double",
+        "B": "series",
+        "C": "social",
+        "D": "land"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 3,
+      "question": "What do we call a large wild cat with brown-yellow fur?",
+      "options": {
+        "A": "resource",
+        "B": "launch",
+        "C": "lion",
+        "D": "labor"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 4,
+      "question": "When you _____ for someone, you stay in one place until they arrive.",
+      "options": {
+        "A": "launch",
+        "B": "wait",
+        "C": "sleep",
+        "D": "happen"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 5,
+      "question": "Which word means 'to start' something new?",
+      "options": {
+        "A": "land",
+        "B": "labor",
+        "C": "launch",
+        "D": "wait"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 6,
+      "question": "A _____ is a group of things that come one after another.",
+      "options": {
+        "A": "resource",
+        "B": "launch",
+        "C": "series",
+        "D": "double"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 7,
+      "question": "Which word means 'to rest' with your eyes closed?",
+      "options": {
+        "A": "wait",
+        "B": "sleep",
+        "C": "answer",
+        "D": "happen"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 8,
+      "question": "An _____ is an organization that provides a service.",
+      "options": {
+        "A": "agency",
+        "B": "resource",
+        "C": "answer",
+        "D": "labor"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 9,
+      "question": "Which word means 'to occur' or 'to take place'?",
+      "options": {
+        "A": "launch",
+        "B": "wait",
+        "C": "happen",
+        "D": "could"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 10,
+      "question": "Something that is _____ relates to life in groups or communities.",
+      "options": {
+        "A": "resource",
+        "B": "social",
+        "C": "series",
+        "D": "land"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 11,
+      "question": "A _____ is something useful that we can use when needed.",
+      "options": {
+        "A": "resource",
+        "B": "agency",
+        "C": "launch",
+        "D": "series"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 12,
+      "question": "Which word describes the ground or soil?",
+      "options": {
+        "A": "labor",
+        "B": "resource",
+        "C": "land",
+        "D": "agency"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 13,
+      "question": "_____ is the past form of 'can'.",
+      "options": {
+        "A": "happen",
+        "B": "could",
+        "C": "wait",
+        "D": "answer"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 14,
+      "question": "A _____ checks your knowledge or ability.",
+      "options": {
+        "A": "test",
+        "B": "resource",
+        "C": "launch",
+        "D": "series"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 15,
+      "question": "When someone asks a question, you give an _____.",
+      "options": {
+        "A": "agency",
+        "B": "labor",
+        "C": "resource",
+        "D": "answer"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 16,
+      "question": "I _____ a student.",
+      "options": {
+        "A": "is",
+        "B": "am",
+        "C": "are",
+        "D": "be"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 17,
+      "question": "She _____ to school every day.",
+      "options": {
+        "A": "go",
+        "B": "going",
+        "C": "goes",
+        "D": "gone"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 18,
+      "question": "They _____ watching TV now.",
+      "options": {
+        "A": "is",
+        "B": "am",
+        "C": "be",
+        "D": "are"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 19,
+      "question": "_____ you like coffee?",
+      "options": {
+        "A": "Do",
+        "B": "Are",
+        "C": "Is",
+        "D": "Does"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 20,
+      "question": "I _____ have a brother.",
+      "options": {
+        "A": "not",
+        "B": "don't",
+        "C": "am not",
+        "D": "doesn't"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 21,
+      "question": "_____ are you from?",
+      "options": {
+        "A": "What",
+        "B": "Who",
+        "C": "Where",
+        "D": "How"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 22,
+      "question": "These are _____ books.",
+      "options": {
+        "A": "they",
+        "B": "them",
+        "C": "their",
+        "D": "theirs"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 23,
+      "question": "He _____ breakfast at 7 AM yesterday.",
+      "options": {
+        "A": "has",
+        "B": "having",
+        "C": "have",
+        "D": "had"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 24,
+      "question": "There _____ a book on the table.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "be",
+        "D": "am"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 25,
+      "question": "We _____ going to the park tomorrow.",
+      "options": {
+        "A": "is",
+        "B": "am",
+        "C": "are",
+        "D": "be"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 26,
+      "question": "This is _____ easy test.",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 27,
+      "question": "My birthday is _____ May.",
+      "options": {
+        "A": "in",
+        "B": "on",
+        "C": "at",
+        "D": "of"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 28,
+      "question": "_____ she like music?",
+      "options": {
+        "A": "Do",
+        "B": "Does",
+        "C": "Is",
+        "D": "Are"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 29,
+      "question": "I can _____ English.",
+      "options": {
+        "A": "speak",
+        "B": "speaking",
+        "C": "speaks",
+        "D": "spoke"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 30,
+      "question": "She is _____ than her brother.",
+      "options": {
+        "A": "tall",
+        "B": "taller",
+        "C": "tallest",
+        "D": "more tall"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 31,
+      "question": "Can you help me _____?",
+      "options": {
+        "A": "with homework my",
+        "B": "homework with my",
+        "C": "with my homework",
+        "D": "my with homework"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 32,
+      "question": "I'm sorry, I don't _____ what you're saying.",
+      "options": {
+        "A": "understand",
+        "B": "know",
+        "C": "listen",
+        "D": "hear"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 33,
+      "question": "Can I _____ your pen, please?",
+      "options": {
+        "A": "use",
+        "B": "get",
+        "C": "have",
+        "D": "borrow"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 34,
+      "question": "_____ name is John. He's my brother.",
+      "options": {
+        "A": "His",
+        "B": "Her",
+        "C": "My",
+        "D": "Your"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 35,
+      "question": "I usually _____ breakfast at 7 AM.",
+      "options": {
+        "A": "do",
+        "B": "make",
+        "C": "have",
+        "D": "eat"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 36,
+      "question": "Let's _____ a coffee together sometime.",
+      "options": {
+        "A": "drink",
+        "B": "have",
+        "C": "take",
+        "D": "make"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 37,
+      "question": "What time do you _____ up in the morning?",
+      "options": {
+        "A": "stand",
+        "B": "go",
+        "C": "get",
+        "D": "wake"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 38,
+      "question": "Can you _____ me the way to the station?",
+      "options": {
+        "A": "say",
+        "B": "tell",
+        "C": "speak",
+        "D": "talk"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 39,
+      "question": "I'm going _____ a walk in the park.",
+      "options": {
+        "A": "for",
+        "B": "to",
+        "C": "at",
+        "D": "in"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 40,
+      "question": "Would you like something _____ drink?",
+      "options": {
+        "A": "for",
+        "B": "to",
+        "C": "at",
+        "D": "in"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, teachers use all of the following EXCEPT:",
+      "options": {
+        "A": "books",
+        "B": "pictures",
+        "C": "computers",
+        "D": "games"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "The main idea of paragraph 2 is that teachers:",
+      "options": {
+        "A": "like all students equally",
+        "B": "use different teaching methods",
+        "C": "only teach one way",
+        "D": "think all students learn the same way"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to the passage, feedback helps students to:",
+      "options": {
+        "A": "make more mistakes",
+        "B": "feel bad about their work",
+        "C": "understand their mistakes",
+        "D": "avoid difficult lessons"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "The word 'they' in paragraph 3 refers to:",
+      "options": {
+        "A": "students",
+        "B": "teachers",
+        "C": "lessons",
+        "D": "mistakes"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "In paragraph 4, the word 'encouraging' is closest in meaning to:",
+      "options": {
+        "A": "teaching",
+        "B": "helping",
+        "C": "supporting",
+        "D": "watching"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to the passage, students learn better when they:",
+      "options": {
+        "A": "feel safe",
+        "B": "are afraid",
+        "C": "work alone",
+        "D": "compete with others"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Which is NOT mentioned as a way teachers help students?",
+      "options": {
+        "A": "giving homework",
+        "B": "creating lesson plans",
+        "C": "giving feedback",
+        "D": "encouraging students"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The passage suggests that good teachers:",
+      "options": {
+        "A": "only focus on smart students",
+        "B": "recognize different learning styles",
+        "C": "prefer quiet classrooms",
+        "D": "avoid asking questions"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to the passage, which statement is TRUE?",
+      "options": {
+        "A": "All students learn the same way",
+        "B": "Teachers only use books to teach",
+        "C": "Teachers create positive classrooms",
+        "D": "Students should never make mistakes"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the main purpose of this passage?",
+      "options": {
+        "A": "To explain why teachers are important",
+        "B": "To describe how teachers help students learn",
+        "C": "To compare different teaching methods",
+        "D": "To explain how to become a teacher"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
