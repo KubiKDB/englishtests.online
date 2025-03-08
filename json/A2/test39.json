@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Animals live in many different places around the world. These places are called habitats. A habitat is a natural home where animals find the food, water, and shelter they need to survive. Some animals live in forests, while others prefer deserts, mountains, or oceans. Each animal has special features that help it live in its particular habitat.<br><br>(2) Forests are home to many kinds of animals. Squirrels climb trees to find nuts and build nests high above the ground. Bears find berries to eat and caves for shelter. Birds make nests in tree branches and catch insects. The thick trees in forests provide protection from bad weather and places to hide from danger.<br><br>(3) Desert habitats are very hot and dry. Animals that live in deserts, like camels and lizards, have special ways to save water. Camels can go for long periods without drinking. Many desert animals stay underground during the day when it is very hot and come out at night when it is cooler. They find food and water in desert plants or by eating other animals.<br><br>(4) Ocean habitats cover most of our planet. Fish have fins that help them swim through water. Whales and dolphins come to the surface to breathe air. Crabs and starfish live on the ocean floor. Some ocean animals, like sharks, swim constantly, while others, like coral, stay in one place their whole lives. Each animal is perfectly suited to its habitat.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which form of the verb is correct? She ___ to the store yesterday.",
+      "options": {
+        "A": "go",
+        "B": "goes",
+        "C": "went",
+        "D": "going"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct option: They ___ watching TV right now.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "am",
+        "D": "be"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the correct preposition: The book is ___ the table.",
+      "options": {
+        "A": "in",
+        "B": "at",
+        "C": "on",
+        "D": "of"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct form: There ___ some milk in the fridge.",
+      "options": {
+        "A": "have",
+        "B": "has",
+        "C": "is",
+        "D": "are"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Which sentence is correct?",
+      "options": {
+        "A": "He don't like apples.",
+        "B": "He doesn't likes apples.",
+        "C": "He doesn't like apples.",
+        "D": "He not like apples."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Choose the correct past tense: She ___ breakfast at 8 AM.",
+      "options": {
+        "A": "eat",
+        "B": "eats",
+        "C": "eating",
+        "D": "ate"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Select the correct form: My sister ___ a doctor.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "am",
+        "D": "be"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Which is correct? I ___ my homework last night.",
+      "options": {
+        "A": "do",
+        "B": "did",
+        "C": "done",
+        "D": "doing"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct option: We ___ to the park tomorrow.",
+      "options": {
+        "A": "go",
+        "B": "will go",
+        "C": "goes",
+        "D": "going"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Select the correct article: I saw ___ elephant at the zoo.",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Which is the correct plural form? The ___ are singing.",
+      "options": {
+        "A": "childs",
+        "B": "childes",
+        "C": "children",
+        "D": "child"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Choose the correct possessive form: This is ___ car.",
+      "options": {
+        "A": "they",
+        "B": "them",
+        "C": "their",
+        "D": "theirs"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Select the correct comparative form: This house is ___ than that one.",
+      "options": {
+        "A": "big",
+        "B": "bigger",
+        "C": "biggest",
+        "D": "more big"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "She have been to Paris.",
+        "B": "She has been to Paris.",
+        "C": "She been to Paris.",
+        "D": "She did been to Paris."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Choose the correct question form: ___ you like coffee?",
+      "options": {
+        "A": "Do",
+        "B": "Does",
+        "C": "Are",
+        "D": "Is"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Complete the sentence: I couldn't find my keys ___ I looked everywhere.",
+      "options": {
+        "A": "because",
+        "B": "so",
+        "C": "although",
+        "D": "unless"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct phrase: My teacher asked me ___ the homework.",
+      "options": {
+        "A": "to finish",
+        "B": "finishing",
+        "C": "finish",
+        "D": "for finish"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the best option: She speaks English very ___.",
+      "options": {
+        "A": "good",
+        "B": "well",
+        "C": "nice",
+        "D": "fine"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Complete the sentence: ___ do you usually get up in the morning?",
+      "options": {
+        "A": "What time",
+        "B": "Which time",
+        "C": "How time",
+        "D": "When time"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct response: 'Would you like some tea?' '___'",
+      "options": {
+        "A": "Yes, I would.",
+        "B": "Yes, I like.",
+        "C": "Yes, I do.",
+        "D": "Yes, I am."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the best option: There aren't ___ eggs left in the fridge.",
+      "options": {
+        "A": "much",
+        "B": "any",
+        "C": "no",
+        "D": "little"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Complete the sentence: She's good ___ playing the piano.",
+      "options": {
+        "A": "at",
+        "B": "in",
+        "C": "for",
+        "D": "with"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct expression: I'm sorry, I don't ___ what you mean.",
+      "options": {
+        "A": "know",
+        "B": "understand",
+        "C": "listen",
+        "D": "hear"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Select the best phrase: Don't worry, I'll be ___ soon.",
+      "options": {
+        "A": "back",
+        "B": "return",
+        "C": "again",
+        "D": "arrive"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Complete the sentence: You ___ take an umbrella. It might rain.",
+      "options": {
+        "A": "must",
+        "B": "can",
+        "C": "should",
+        "D": "need"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What does 'interesting' mean?",
+      "options": {
+        "A": "Boring",
+        "B": "Exciting or holding attention",
+        "C": "Difficult",
+        "D": "Colorful"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the correct meaning of 'far':",
+      "options": {
+        "A": "Close by",
+        "B": "At a great distance",
+        "C": "Easy to reach",
+        "D": "Above"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What does the verb 'lay' mean?",
+      "options": {
+        "A": "To sit down",
+        "B": "To put or place something down",
+        "C": "To stand up",
+        "D": "To pick something up"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Choose the sentence that correctly uses 'agree':",
+      "options": {
+        "A": "I agree the movie.",
+        "B": "I agree with you.",
+        "C": "I agree for the plan.",
+        "D": "I agree of your idea."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "What is a 'room'?",
+      "options": {
+        "A": "A separate space in a building with walls",
+        "B": "A type of furniture",
+        "C": "A door",
+        "D": "A window"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "What does 'tonight' refer to?",
+      "options": {
+        "A": "Yesterday evening",
+        "B": "This evening",
+        "C": "Tomorrow evening",
+        "D": "Every evening"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "What does 'respect' mean?",
+      "options": {
+        "A": "To dislike someone",
+        "B": "To admire or value someone",
+        "C": "To ignore someone",
+        "D": "To laugh at someone"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Choose the correct meaning of 'say':",
+      "options": {
+        "A": "To listen",
+        "B": "To write",
+        "C": "To speak words",
+        "D": "To read"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What does 'instead' mean?",
+      "options": {
+        "A": "As well as",
+        "B": "In place of something else",
+        "C": "Together with",
+        "D": "Before"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "What is 'blood'?",
+      "options": {
+        "A": "A part of the brain",
+        "B": "A type of food",
+        "C": "Red liquid in the body",
+        "D": "A medicine"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What is a 'meeting'?",
+      "options": {
+        "A": "A gathering of people",
+        "B": "A type of food",
+        "C": "A building",
+        "D": "A kind of transportation"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Choose the opposite of 'big':",
+      "options": {
+        "A": "Large",
+        "B": "Huge",
+        "C": "Small",
+        "D": "Heavy"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "What is a 'gun'?",
+      "options": {
+        "A": "A type of food",
+        "B": "A weapon that shoots bullets",
+        "C": "A musical instrument",
+        "D": "A type of clothing"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "What does it mean to 'go'?",
+      "options": {
+        "A": "To stay in one place",
+        "B": "To move from one place to another",
+        "C": "To sleep",
+        "D": "To eat"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "What does 'draw' mean?",
+      "options": {
+        "A": "To make a picture with a pen or pencil",
+        "B": "To swim",
+        "C": "To eat quickly",
+        "D": "To sleep"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what is a habitat?",
+      "options": {
+        "A": "A type of animal",
+        "B": "A forest or desert",
+        "C": "A natural home where animals find what they need",
+        "D": "A special feature of animals"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "In paragraph 2, where do squirrels build their nests?",
+      "options": {
+        "A": "On the ground",
+        "B": "In caves",
+        "C": "High above the ground",
+        "D": "In deserts"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, when do many desert animals come out?",
+      "options": {
+        "A": "During the day",
+        "B": "At night",
+        "C": "In the morning",
+        "D": "In the afternoon"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "What helps fish swim through water according to paragraph 4?",
+      "options": {
+        "A": "Their tails",
+        "B": "Their fins",
+        "C": "Their gills",
+        "D": "Their scales"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What do bears find in forests according to paragraph 2?",
+      "options": {
+        "A": "Nuts and nests",
+        "B": "Berries and caves",
+        "C": "Birds and insects",
+        "D": "Trees and protection"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to the passage, which animals can go for long periods without drinking?",
+      "options": {
+        "A": "Bears",
+        "B": "Squirrels",
+        "C": "Camels",
+        "D": "Whales"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What is the main topic of this passage?",
+      "options": {
+        "A": "How animals eat and drink",
+        "B": "Where animals live and how they adapt",
+        "C": "The danger animals face",
+        "D": "How humans affect animal habitats"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to paragraph 4, what covers most of our planet?",
+      "options": {
+        "A": "Forests",
+        "B": "Deserts",
+        "C": "Mountains",
+        "D": "Ocean habitats"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to the passage, why do animals have special features?",
+      "options": {
+        "A": "To look beautiful",
+        "B": "To fight other animals",
+        "C": "To help them live in their habitat",
+        "D": "To attract humans"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "Which statement is NOT true according to the passage?",
+      "options": {
+        "A": "Birds make nests in tree branches.",
+        "B": "All ocean animals swim constantly.",
+        "C": "Desert animals have special ways to save water.",
+        "D": "Animals need food, water, and shelter to survive."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
