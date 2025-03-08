@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The relationship between stress and cognitive function has been the subject of extensive research in recent decades, with findings suggesting that stress can significantly impact various aspects of brain performance. Acute stress, characterized by short-term exposure to stressors, may initially enhance certain cognitive functions as part of the body's natural 'fight or flight' response. This evolutionary mechanism temporarily heightens alertness and focuses attention on immediate threats, potentially improving short-term memory and processing speed in urgent situations.<br><br>(2) However, prolonged or chronic stress presents a markedly different effect on cognitive capabilities. When the stress response persists over extended periods, elevated cortisol levels can adversely affect the hippocampus, a brain region crucial for memory formation and retrieval. Studies have demonstrated that individuals experiencing chronic stress often exhibit impaired performance on tasks requiring working memory, attention, and executive functions such as planning, organization, and cognitive flexibility. These deficits can manifest in everyday challenges like difficulty concentrating, forgetfulness, and reduced problem-solving abilities.<br><br>(3) The impact of stress on cognition appears to follow an inverted U-shaped curve, known as the Yerkes-Dodson law. This principle suggests that moderate levels of stress may optimize cognitive performance, whereas either very low or very high stress levels tend to diminish cognitive capabilities. This relationship varies considerably depending on task complexity, with complex cognitive tasks being more vulnerable to stress-induced impairments than simpler, well-practiced activities. Individual differences in stress resilience also play a significant role in determining how cognitive function responds to stressful circumstances.<br><br>(4) Age represents another critical factor in the stress-cognition relationship. Developing brains, particularly during childhood and adolescence, show heightened sensitivity to stress effects, potentially leading to long-term alterations in cognitive development. Similarly, older adults may experience more pronounced cognitive impairments under stress due to age-related changes in stress hormone regulation and neuroplasticity. These findings highlight the importance of considering developmental stages when assessing stress impacts on cognitive function.<br><br>(5) Recent advances in neuroimaging have provided deeper insights into the neural mechanisms underlying stress-induced cognitive changes. Functional MRI studies reveal that stress alters activity patterns in the prefrontal cortex, which governs higher-order cognitive processes. Additionally, stress appears to shift brain activity from deliberative cognitive systems toward more habitual, reflexive response networks. Understanding these mechanisms offers promising avenues for developing interventions to mitigate stress effects on cognition, including mindfulness practices, cognitive-behavioral techniques, and targeted pharmacological approaches, all of which may help preserve cognitive function in the face of inevitable life stressors.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which form is correct?",
+      "options": {
+        "A": "Neither of the students have completed the assignment.",
+        "B": "Neither of the students has completed the assignment.",
+        "C": "Neither of the students are completing the assignment.",
+        "D": "Neither of the students is completing the assignments."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the grammatically correct sentence:",
+      "options": {
+        "A": "Had I known about the traffic, I would have left earlier.",
+        "B": "If I would have known about the traffic, I would have left earlier.",
+        "C": "Had I knew about the traffic, I would left earlier.",
+        "D": "If I had knew about the traffic, I would have left earlier."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence contains a correctly used participle clause?",
+      "options": {
+        "A": "Walking along the beach, the sunset was admired by us.",
+        "B": "Having finished the project, the deadline was no longer a concern.",
+        "C": "Having read the instructions carefully, I was able to assemble the furniture without difficulty.",
+        "D": "Driving to work, the car suddenly broke down by me."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Select the correct form for this sentence: 'The team ___ working on the project for three months before they realized they needed additional resources.'",
+      "options": {
+        "A": "has been",
+        "B": "have been",
+        "C": "had been",
+        "D": "were"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Which sentence demonstrates correct use of the subjunctive mood?",
+      "options": {
+        "A": "I wish I was able to attend the conference next week.",
+        "B": "The professor insisted that the student submits his paper by Friday.",
+        "C": "If I was you, I would reconsider that decision.",
+        "D": "The committee recommended that he be appointed to the position immediately."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Identify the sentence with the correct use of articles:",
+      "options": {
+        "A": "She is the best player in team and deserves an MVP award.",
+        "B": "The research conducted at university was published in a prestigious journal.",
+        "C": "He gave me an useful advice about applying to the graduate program.",
+        "D": "The professor provided a comprehensive overview of the economic theories discussed in class."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the sentence that uses parallel structure correctly:",
+      "options": {
+        "A": "The candidate promised to increase funding for education, creating more jobs, and to improve healthcare.",
+        "B": "She enjoys swimming, hiking, and to ride her bicycle on weekends.",
+        "C": "The report emphasized the need for better communication, stronger leadership, and innovative solutions.",
+        "D": "We must either reconsider our approach or we should abandon the project entirely."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the sentence with the correct use of gerunds and infinitives:",
+      "options": {
+        "A": "The company decided investing in new technology to improve efficiency.",
+        "B": "She avoided to speak about her experiences during the war.",
+        "C": "They acknowledged to make several critical mistakes in their analysis.",
+        "D": "The professor encouraged us to think critically and to question established theories."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence contains a correctly placed adverb?",
+      "options": {
+        "A": "She almost has completed all the requirements for graduation.",
+        "B": "They have been carefully examining the evidence for inconsistencies.",
+        "C": "The team barely was prepared for the sudden change in circumstances.",
+        "D": "I nearly have never seen such an impressive performance before."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Identify the sentence with the correct use of relative clauses:",
+      "options": {
+        "A": "The research which findings were published last month has received significant attention.",
+        "B": "The students who completed the extra credit assignment were granted additional points.",
+        "C": "The city which we visited last summer is known for its historical architecture.",
+        "D": "The professor who's expertise is in quantum physics will be giving the lecture."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Which sentence demonstrates correct subject-verb agreement with collective nouns?",
+      "options": {
+        "A": "The faculty are divided on whether to implement the new curriculum.",
+        "B": "The committee has submitted their recommendation to the board.",
+        "C": "The jury was deliberating for three days before they reached a verdict.",
+        "D": "The orchestra have been practicing the new piece for weeks."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the sentence with the correct use of conditionals:",
+      "options": {
+        "A": "If the weather would have been better, we would have gone hiking.",
+        "B": "If I will finish early, I will meet you at the restaurant.",
+        "C": "Had they arrived on time, they wouldn't have missed the keynote speech.",
+        "D": "Unless you would study harder, you won't pass the examination."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Which sentence demonstrates the correct use of a modal verb?",
+      "options": {
+        "A": "By the time the rescue team arrived, the hikers must have been waiting for hours.",
+        "B": "You need not to worry about the presentation; I've already prepared it.",
+        "C": "The students might to prepare more thoroughly for the upcoming examination.",
+        "D": "She must studying now if she wants to pass the final exam."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Select the sentence that correctly uses a nominalization:",
+      "options": {
+        "A": "The discover of the new vaccine was announced last week.",
+        "B": "Their argue about the project's direction lasted for hours.",
+        "C": "The implementation of the new policy led to significant improvements in efficiency.",
+        "D": "The decide to postpone the meeting was made unanimously."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Identify the sentence with the correct use of reported speech:",
+      "options": {
+        "A": "The professor said that the exam will be postponed until next week.",
+        "B": "She asked me where did I find such detailed information about the topic.",
+        "C": "He told us that he had been researching the subject for several years.",
+        "D": "They announced they are going to implement the changes immediately."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Complete the sentence with the appropriate phrase: 'Despite the government's efforts to stimulate economic growth, unemployment rates continue to ___.'",
+      "options": {
+        "A": "run out of steam",
+        "B": "break new ground",
+        "C": "remain at bay",
+        "D": "show no signs of abating"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct phrasal verb: 'The new management team has decided to ___ unnecessary expenses to improve the company's financial stability.'",
+      "options": {
+        "A": "cut down on",
+        "B": "bring up",
+        "C": "look out for",
+        "D": "take after"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the most appropriate way to complete this sentence: 'The findings of the study ___ the researchers' initial hypothesis.'",
+      "options": {
+        "A": "put forward",
+        "B": "called into question",
+        "C": "came across",
+        "D": "broke through"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct idiomatic expression: 'After years of hard work and dedication, she finally ___ in her career as a renowned surgeon.'",
+      "options": {
+        "A": "came of age",
+        "B": "hit the ground running",
+        "C": "came into her own",
+        "D": "beat around the bush"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Complete the sentence with the appropriate collocation: 'The journalist conducted a(n) ___ investigation into the allegations of corruption within the government.'",
+      "options": {
+        "A": "in-depth",
+        "B": "highly-powered",
+        "C": "strong-willed",
+        "D": "sharp-edged"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the most appropriate linking expression: 'The company reported significant losses; ___, they're planning to expand into new markets next year.'",
+      "options": {
+        "A": "as a result",
+        "B": "nevertheless",
+        "C": "for this reason",
+        "D": "similarly"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct phrasal verb for this context: 'The university will ___ a new scholarship program for international students next semester.'",
+      "options": {
+        "A": "put off",
+        "B": "look up to",
+        "C": "roll out",
+        "D": "come across"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the most appropriate expression to complete the sentence: 'The new policy is intended to ___ the gap between the wealthy and the disadvantaged.'",
+      "options": {
+        "A": "bridge",
+        "B": "cement",
+        "C": "flatten",
+        "D": "sharpen"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct expression: 'The negotiations reached a ___ after both parties refused to compromise on key issues.'",
+      "options": {
+        "A": "turning point",
+        "B": "closing time",
+        "C": "stalemate",
+        "D": "crossroads"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the appropriate phrase to complete this sentence: 'Despite the initial setbacks, the team managed to ___ and deliver the project ahead of schedule.'",
+      "options": {
+        "A": "throw in the towel",
+        "B": "beat around the bush",
+        "C": "turn the tide",
+        "D": "hit the wall"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Which word best describes market conditions that are subject to rapid and extreme fluctuations?",
+      "options": {
+        "A": "volatile",
+        "B": "precarious",
+        "C": "turbulent",
+        "D": "erratic"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Which verb means 'to draw out or bring forth a response or reaction'?",
+      "options": {
+        "A": "provoke",
+        "B": "incite",
+        "C": "elicit",
+        "D": "extract"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Which word describes sounds or opinions that are in disagreement or lacking harmony?",
+      "options": {
+        "A": "cacophonous",
+        "B": "discordant",
+        "C": "dissonant",
+        "D": "jarring"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which verb means 'to make larger or increase in size, amount, or degree'?",
+      "options": {
+        "A": "amplify",
+        "B": "enhance",
+        "C": "intensify",
+        "D": "augment"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Which verb means 'to show or demonstrate clearly'?",
+      "options": {
+        "A": "manifest",
+        "B": "evince",
+        "C": "exhibit",
+        "D": "display"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Which word describes a person who is boldly rude, disrespectful, or lacking proper respect for authority?",
+      "options": {
+        "A": "impudent",
+        "B": "insolent",
+        "C": "impertinent",
+        "D": "audacious"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Which word describes someone who shows fearlessness and courage in facing danger or difficulty?",
+      "options": {
+        "A": "dauntless",
+        "B": "valiant",
+        "C": "intrepid",
+        "D": "audacious"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Which adjective describes intense or passionate enthusiasm or devotion?",
+      "options": {
+        "A": "zealous",
+        "B": "ardent",
+        "C": "fervent",
+        "D": "vehement"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Which adjective describes something composed of elements drawn from various sources or styles?",
+      "options": {
+        "A": "diverse",
+        "B": "heterogeneous",
+        "C": "multifarious",
+        "D": "eclectic"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Which word means 'to express oneself fluently and coherently'?",
+      "options": {
+        "A": "enunciate",
+        "B": "articulate",
+        "C": "elucidate",
+        "D": "expound"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Which adjective describes someone who is sluggish, showing a lack of energy or enthusiasm?",
+      "options": {
+        "A": "torpid",
+        "B": "languid",
+        "C": "lethargic",
+        "D": "somnolent"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Which word describes evidence or an argument that is impossible to dispute or deny?",
+      "options": {
+        "A": "irrefutable",
+        "B": "indisputable",
+        "C": "unequivocal",
+        "D": "incontrovertible"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Which adjective describes something that is boring or tiresome due to length or dullness?",
+      "options": {
+        "A": "monotonous",
+        "B": "mundane",
+        "C": "tedious",
+        "D": "prosaic"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Which adjective describes a disease or condition that is regularly found in a particular region or population?",
+      "options": {
+        "A": "prevalent",
+        "B": "indigenous",
+        "C": "pervasive",
+        "D": "endemic"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Which word refers to something that deviates from what is standard, normal, or expected?",
+      "options": {
+        "A": "aberration",
+        "B": "deviation",
+        "C": "anomaly",
+        "D": "irregularity"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, what is the immediate effect of acute stress on cognitive functions?",
+      "options": {
+        "A": "It always impairs memory formation and retrieval.",
+        "B": "It may initially enhance certain cognitive functions.",
+        "C": "It has no significant impact on brain performance.",
+        "D": "It leads to permanent damage to the hippocampus."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "What does the passage suggest about the relationship between stress levels and cognitive performance?",
+      "options": {
+        "A": "Higher stress always leads to better cognitive performance.",
+        "B": "There is no clear relationship between stress and cognition.",
+        "C": "Very low and very high stress levels tend to diminish cognitive capabilities.",
+        "D": "Stress affects only memory, not other cognitive functions."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to the passage, which brain region is particularly affected by elevated cortisol levels during chronic stress?",
+      "options": {
+        "A": "The amygdala",
+        "B": "The hippocampus",
+        "C": "The cerebellum",
+        "D": "The temporal lobe"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "What principle does the passage mention that explains the relationship between stress and cognitive performance?",
+      "options": {
+        "A": "The cognitive dissonance theory",
+        "B": "The Yerkes-Dodson law",
+        "C": "The Hebbian theory",
+        "D": "The cognitive load theory"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Based on the passage, which age groups are particularly vulnerable to stress-induced cognitive effects?",
+      "options": {
+        "A": "Only middle-aged adults",
+        "B": "Only older adults",
+        "C": "Children, adolescents, and older adults",
+        "D": "Only young adults"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to the passage, what happens to brain activity patterns during stress?",
+      "options": {
+        "A": "Activity shifts from habitual networks to deliberative systems.",
+        "B": "All brain activity decreases significantly.",
+        "C": "Activity shifts from deliberative systems to more habitual networks.",
+        "D": "Only the hippocampus shows changes in activity patterns."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Which cognitive functions are specifically mentioned in the passage as being impaired by chronic stress?",
+      "options": {
+        "A": "Only long-term memory",
+        "B": "Working memory, attention, and executive functions",
+        "C": "Only visual-spatial abilities",
+        "D": "Only language processing"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What does the passage suggest about the impact of stress on simple versus complex cognitive tasks?",
+      "options": {
+        "A": "Simple and complex tasks are equally affected by stress.",
+        "B": "Complex cognitive tasks are more vulnerable to stress-induced impairments.",
+        "C": "Simple tasks are more negatively affected by stress than complex ones.",
+        "D": "Stress has no effect on task performance regardless of complexity."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to the passage, which of the following is a potential intervention to mitigate stress effects on cognition?",
+      "options": {
+        "A": "Complete avoidance of all stressors",
+        "B": "Exclusive focus on pharmacological treatments",
+        "C": "Mindfulness practices and cognitive-behavioral techniques",
+        "D": "Permanent reduction in all cognitive activities"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What technology does the passage mention as providing deeper insights into stress-induced cognitive changes?",
+      "options": {
+        "A": "Electroencephalography (EEG)",
+        "B": "Positron emission tomography (PET)",
+        "C": "Functional magnetic resonance imaging (fMRI)",
+        "D": "Computed tomography (CT)"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
