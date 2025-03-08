@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Our Solar System is our home in space. At the center is the Sun. The Sun is a star. It is very hot and gives us light and heat. Without the Sun, there would be no life on Earth. The Sun is much bigger than any planet.<br><br>(2) There are eight planets in our Solar System. The planets closest to the Sun are Mercury, Venus, Earth, and Mars. These are called the inner planets. They are made mostly of rock. Earth is where we live. It is the only planet we know that has life.<br><br>(3) The outer planets are Jupiter, Saturn, Uranus, and Neptune. They are much bigger than the inner planets and are made mostly of gas. Jupiter is the biggest planet. Saturn is famous for its beautiful rings. Uranus and Neptune look blue because of the gases in their atmospheres.<br><br>(4) All planets move around the Sun in paths called orbits. The time a planet takes to go around the Sun once is called a year. Mercury is closest to the Sun and takes only 88 Earth days to orbit. Neptune is the farthest planet and takes 165 Earth years to go around the Sun once.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which form of the verb is correct? She ____ to school every day.",
+      "options": {
+        "A": "go",
+        "B": "goes",
+        "C": "going",
+        "D": "gone"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct sentence.",
+      "options": {
+        "A": "They doesn't like coffee.",
+        "B": "They don't likes coffee.",
+        "C": "They don't like coffee.",
+        "D": "They doesn't likes coffee."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "What is the past tense of 'eat'?",
+      "options": {
+        "A": "eat",
+        "B": "eated",
+        "C": "eating",
+        "D": "ate"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Select the correct sentence.",
+      "options": {
+        "A": "I am student.",
+        "B": "I am a student.",
+        "C": "I am an student.",
+        "D": "I a student am."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct form. My brother ____ playing soccer right now.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "am",
+        "D": "be"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which sentence is correct?",
+      "options": {
+        "A": "She have a new car.",
+        "B": "She has a new car.",
+        "C": "She having a new car.",
+        "D": "She haves a new car."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Select the correct preposition. The book is ____ the table.",
+      "options": {
+        "A": "on",
+        "B": "in",
+        "C": "at",
+        "D": "by"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct plural form of 'child'.",
+      "options": {
+        "A": "childs",
+        "B": "childes",
+        "C": "children",
+        "D": "childrens"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "What is the comparative form of 'good'?",
+      "options": {
+        "A": "gooder",
+        "B": "better",
+        "C": "goodest",
+        "D": "more good"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct question form. '____ they going to the party?'",
+      "options": {
+        "A": "Is",
+        "B": "Am",
+        "C": "Are",
+        "D": "Do"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Select the correct possessive form. That is ____ book.",
+      "options": {
+        "A": "John",
+        "B": "Johns",
+        "C": "John's",
+        "D": "Johns'"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Choose the correct sentence.",
+      "options": {
+        "A": "I not like pizza.",
+        "B": "I don't like pizza.",
+        "C": "I no like pizza.",
+        "D": "I doesn't like pizza."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Which sentence uses the correct article?",
+      "options": {
+        "A": "She is a honest person.",
+        "B": "She is an honest person.",
+        "C": "She is the honest person.",
+        "D": "She is honest person."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct past tense form. They ____ to the park yesterday.",
+      "options": {
+        "A": "go",
+        "B": "goes",
+        "C": "going",
+        "D": "went"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the correct sentence with 'must'.",
+      "options": {
+        "A": "You must to call your mother.",
+        "B": "You must calling your mother.",
+        "C": "You must call your mother.",
+        "D": "You must called your mother."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct sentence to complete the conversation. 'Would you like some tea?' '____'",
+      "options": {
+        "A": "Yes, I would.",
+        "B": "Yes, I like.",
+        "C": "Yes, I am.",
+        "D": "Yes, I want."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the best response. 'How are you?' '____'",
+      "options": {
+        "A": "I'm John.",
+        "B": "I'm fine, thank you.",
+        "C": "I'm 30 years old.",
+        "D": "I'm a teacher."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct phrase to offer help.",
+      "options": {
+        "A": "Can I help you?",
+        "B": "Do I help you?",
+        "C": "Will I help you?",
+        "D": "Help I you?"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Select the correct expression for suggesting. '____'",
+      "options": {
+        "A": "Let's go to the movies.",
+        "B": "We go to the movies.",
+        "C": "Going to the movies.",
+        "D": "Movies are good."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Which expression is used to apologize?",
+      "options": {
+        "A": "Thank you.",
+        "B": "You're welcome.",
+        "C": "I'm sorry.",
+        "D": "Congratulations."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the correct expression for asking for permission.",
+      "options": {
+        "A": "Can I use your phone?",
+        "B": "I use your phone.",
+        "C": "I will use your phone.",
+        "D": "Using your phone."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Select the correct response to 'Thank you.'",
+      "options": {
+        "A": "Thank you too.",
+        "B": "You're welcome.",
+        "C": "Yes, please.",
+        "D": "No problem you."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct way to ask for the time.",
+      "options": {
+        "A": "What is hour?",
+        "B": "What time is?",
+        "C": "What time is it?",
+        "D": "What is the hour of now?"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Select the correct expression for making a request.",
+      "options": {
+        "A": "Please help me.",
+        "B": "Help me please?",
+        "C": "You help me.",
+        "D": "Help please me."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct way to introduce yourself.",
+      "options": {
+        "A": "I am call John.",
+        "B": "I call John.",
+        "C": "My name is John.",
+        "D": "Name I John."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "The statement 'The sun rises in the east' is a ____.",
+      "options": {
+        "A": "fact",
+        "B": "danger",
+        "C": "situation",
+        "D": "type"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Swimming alone in deep water can be a ____.",
+      "options": {
+        "A": "music",
+        "B": "danger",
+        "C": "dance",
+        "D": "shower"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "There are ____ cookies left in the jar. We ate them all.",
+      "options": {
+        "A": "none",
+        "B": "bad",
+        "C": "other",
+        "D": "similar"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "I need to take a ____ after playing sports.",
+      "options": {
+        "A": "horse",
+        "B": "music",
+        "C": "shower",
+        "D": "situation"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "I like to listen to ____ when I'm studying.",
+      "options": {
+        "A": "dance",
+        "B": "music",
+        "C": "horse",
+        "D": "shower"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Do you have any ____ questions?",
+      "options": {
+        "A": "long",
+        "B": "other",
+        "C": "sell",
+        "D": "bad"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "We need to talk about this difficult ____.",
+      "options": {
+        "A": "situation",
+        "B": "before",
+        "C": "type",
+        "D": "horse"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "She loves to ____ at parties.",
+      "options": {
+        "A": "fact",
+        "B": "danger",
+        "C": "dance",
+        "D": "long"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What ____ of movie do you like?",
+      "options": {
+        "A": "sell",
+        "B": "type",
+        "C": "similar",
+        "D": "other"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "This milk smells ____. Don't drink it.",
+      "options": {
+        "A": "before",
+        "B": "none",
+        "C": "bad",
+        "D": "fact"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "The river is very ____ and takes many days to travel from end to end.",
+      "options": {
+        "A": "long",
+        "B": "music",
+        "C": "situation",
+        "D": "fact"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "The shop will ____ these products at a discount next week.",
+      "options": {
+        "A": "dance",
+        "B": "sell",
+        "C": "shower",
+        "D": "none"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "You need to finish your homework ____ dinner.",
+      "options": {
+        "A": "music",
+        "B": "bad",
+        "C": "before",
+        "D": "similar"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "These two phones look very ____.",
+      "options": {
+        "A": "other",
+        "B": "none",
+        "C": "similar",
+        "D": "type"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "The ____ is a strong animal that people can ride.",
+      "options": {
+        "A": "shower",
+        "B": "dance",
+        "C": "fact",
+        "D": "horse"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, the Sun is:",
+      "options": {
+        "A": "a planet",
+        "B": "a star",
+        "C": "a moon",
+        "D": "an asteroid"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "How many planets are in our Solar System?",
+      "options": {
+        "A": "seven",
+        "B": "eight",
+        "C": "nine",
+        "D": "ten"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "Which planets are called the inner planets?",
+      "options": {
+        "A": "Jupiter, Saturn, Uranus, and Neptune",
+        "B": "Mercury, Venus, Earth, and Mars",
+        "C": "Earth, Mars, Jupiter, and Saturn",
+        "D": "Venus, Earth, Mars, and Jupiter"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to the passage, Earth is special because:",
+      "options": {
+        "A": "it is the biggest planet",
+        "B": "it is the only planet with life",
+        "C": "it has beautiful rings",
+        "D": "it is closest to the Sun"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Which planet is the biggest?",
+      "options": {
+        "A": "Earth",
+        "B": "Saturn",
+        "C": "Jupiter",
+        "D": "Neptune"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What makes Saturn famous, according to the passage?",
+      "options": {
+        "A": "its size",
+        "B": "its moons",
+        "C": "its rings",
+        "D": "its blue color"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Why do Uranus and Neptune look blue?",
+      "options": {
+        "A": "because of water on their surface",
+        "B": "because of the gases in their atmospheres",
+        "C": "because they are cold",
+        "D": "because they are far from the Sun"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What is an orbit?",
+      "options": {
+        "A": "a type of planet",
+        "B": "the distance between planets",
+        "C": "the path a planet takes around the Sun",
+        "D": "the time it takes to go around the Sun"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Which planet takes the shortest time to orbit the Sun?",
+      "options": {
+        "A": "Earth",
+        "B": "Mars",
+        "C": "Mercury",
+        "D": "Venus"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "How long does Neptune take to orbit the Sun?",
+      "options": {
+        "A": "88 Earth days",
+        "B": "1 Earth year",
+        "C": "88 Earth years",
+        "D": "165 Earth years"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    }
+  ]
+}
