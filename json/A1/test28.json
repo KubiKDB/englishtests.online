@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Art classes are very important in schools today. They help students learn how to express themselves in different ways. When children draw, paint, or make things with their hands, they develop important skills. Art gives students a chance to be creative and use their imagination.<br><br>(2) Many studies show that art education improves other school subjects too. Students who take art classes often do better in math, reading, and science. This is because art teaches children how to solve problems and think in new ways. Art activities also help students learn to focus and pay attention to details.<br><br>(3) Art classes are also good for emotional development. Creating art helps students understand and express their feelings. In art class, there are no wrong answers, which helps build confidence. Students learn that it is okay to make mistakes and try again. They also learn how to give and receive feedback about their work.<br><br>(4) Finally, art education teaches important life skills. Students learn how to work together on group projects. They practice how to plan and finish tasks. Art classes also help students understand different cultures and traditions through studying artists from around the world. These skills are useful for many jobs and situations in adult life.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "She ___ TV every evening.",
+      "options": {
+        "A": "watch",
+        "B": "watching",
+        "C": "watches",
+        "D": "watched"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "We ___ to the park yesterday.",
+      "options": {
+        "A": "go",
+        "B": "went",
+        "C": "goes",
+        "D": "going"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "They ___ studying right now.",
+      "options": {
+        "A": "is",
+        "B": "am",
+        "C": "be",
+        "D": "are"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "___ you like coffee?",
+      "options": {
+        "A": "Do",
+        "B": "Does",
+        "C": "Are",
+        "D": "Is"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "This book is ___ than that one.",
+      "options": {
+        "A": "more interesting",
+        "B": "interestinger",
+        "C": "most interesting",
+        "D": "the most interesting"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "He ___ not have a car.",
+      "options": {
+        "A": "do",
+        "B": "does",
+        "C": "is",
+        "D": "are"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "She ___ to the cinema tomorrow.",
+      "options": {
+        "A": "go",
+        "B": "goes",
+        "C": "going",
+        "D": "will go"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "The cat is ___ the table.",
+      "options": {
+        "A": "in",
+        "B": "on",
+        "C": "at",
+        "D": "by"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "I ___ my homework last night.",
+      "options": {
+        "A": "do",
+        "B": "does",
+        "C": "did",
+        "D": "done"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "There ___ some water in the bottle.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "be",
+        "D": "being"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "I ___ breakfast at 7:00 this morning.",
+      "options": {
+        "A": "have",
+        "B": "has",
+        "C": "had",
+        "D": "having"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "She ___ to music while studying.",
+      "options": {
+        "A": "listen",
+        "B": "listening",
+        "C": "listens",
+        "D": "listened"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "We have ___ milk in the fridge.",
+      "options": {
+        "A": "any",
+        "B": "some",
+        "C": "many",
+        "D": "much"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "How ___ friends do you have?",
+      "options": {
+        "A": "much",
+        "B": "many",
+        "C": "any",
+        "D": "some"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "I ___ never been to Paris.",
+      "options": {
+        "A": "have",
+        "B": "has",
+        "C": "had",
+        "D": "am"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Can you ___ me with this exercise, please?",
+      "options": {
+        "A": "help",
+        "B": "make",
+        "C": "do",
+        "D": "give"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "I need to ___ a shower before dinner.",
+      "options": {
+        "A": "make",
+        "B": "get",
+        "C": "have",
+        "D": "take"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "She ___ her homework every evening after school.",
+      "options": {
+        "A": "takes",
+        "B": "makes",
+        "C": "gets",
+        "D": "does"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Let's ___ a pizza for dinner tonight.",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "take",
+        "D": "order"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "I usually ___ up at 7 o'clock in the morning.",
+      "options": {
+        "A": "get",
+        "B": "stand",
+        "C": "wake",
+        "D": "rise"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Can you ___ me a favor?",
+      "options": {
+        "A": "do",
+        "B": "make",
+        "C": "give",
+        "D": "take"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "I need to ___ a phone call to my mother.",
+      "options": {
+        "A": "do",
+        "B": "make",
+        "C": "have",
+        "D": "give"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "We should ___ a break now. We've been studying for hours.",
+      "options": {
+        "A": "make",
+        "B": "have",
+        "C": "do",
+        "D": "take"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Can I ___ a question?",
+      "options": {
+        "A": "make",
+        "B": "tell",
+        "C": "ask",
+        "D": "say"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "They ___ a lot of money on their new house.",
+      "options": {
+        "A": "cost",
+        "B": "paid",
+        "C": "spent",
+        "D": "bought"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "My favorite fruit is an ___.",
+      "options": {
+        "A": "apple",
+        "B": "orange",
+        "C": "banana",
+        "D": "pear"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "The students put their books on the ___.",
+      "options": {
+        "A": "chair",
+        "B": "floor",
+        "C": "desk",
+        "D": "wall"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "This book has five chapters, or ___.",
+      "options": {
+        "A": "sections",
+        "B": "parts",
+        "C": "groups",
+        "D": "units"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "___ in the class must complete the homework.",
+      "options": {
+        "A": "Someone",
+        "B": "Anyone",
+        "C": "Everyone",
+        "D": "No one"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "In winter, there is a lot of ___ on the mountains.",
+      "options": {
+        "A": "snow",
+        "B": "rain",
+        "C": "ice",
+        "D": "water"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "There are twelve months in a ___.",
+      "options": {
+        "A": "week",
+        "B": "month",
+        "C": "day",
+        "D": "year"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "My favorite ___ is soccer. I play it every weekend.",
+      "options": {
+        "A": "sport",
+        "B": "play",
+        "C": "game",
+        "D": "fun"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "The entrance to the museum is ___ on Sundays.",
+      "options": {
+        "A": "open",
+        "B": "free",
+        "C": "closed",
+        "D": "cheap"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "___ books on the shelf are mine.",
+      "options": {
+        "A": "This",
+        "B": "These",
+        "C": "That",
+        "D": "Those"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "I have ___ brothers and sisters.",
+      "options": {
+        "A": "eight",
+        "B": "eighteen",
+        "C": "eighty",
+        "D": "eighth"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "The students forgot ___ books at school.",
+      "options": {
+        "A": "they",
+        "B": "them",
+        "C": "their",
+        "D": "theirs"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "We usually have dinner in the ___.",
+      "options": {
+        "A": "morning",
+        "B": "afternoon",
+        "C": "evening",
+        "D": "night"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "I need to drink coffee to have more ___.",
+      "options": {
+        "A": "power",
+        "B": "strength",
+        "C": "force",
+        "D": "energy"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "My sister likes to sing this ___ in the shower.",
+      "options": {
+        "A": "music",
+        "B": "sound",
+        "C": "song",
+        "D": "voice"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "She has many green ___ in her garden.",
+      "options": {
+        "A": "flowers",
+        "B": "trees",
+        "C": "plants",
+        "D": "grass"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what do art classes help students develop?",
+      "options": {
+        "A": "Language skills",
+        "B": "Important skills",
+        "C": "Computer skills",
+        "D": "Reading skills"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Why are art classes considered important in schools?",
+      "options": {
+        "A": "They are easy subjects",
+        "B": "They help students express themselves",
+        "C": "They don't require homework",
+        "D": "They are required by law"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 2, how does art education help with other subjects?",
+      "options": {
+        "A": "It gives students extra time to study",
+        "B": "It teaches problem-solving skills",
+        "C": "It makes other subjects easier",
+        "D": "It replaces difficult subjects"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Which subjects do students do better in when they take art classes?",
+      "options": {
+        "A": "History, geography, and languages",
+        "B": "Sports, music, and drama",
+        "C": "Math, reading, and science",
+        "D": "Only reading and writing"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to paragraph 3, why is there no wrong answer in art class?",
+      "options": {
+        "A": "Because teachers don't grade art",
+        "B": "Because it helps build confidence",
+        "C": "Because art is not important",
+        "D": "Because everyone gets the same grade"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "How does art help with emotional development?",
+      "options": {
+        "A": "It teaches students to be happy",
+        "B": "It helps students understand and express feelings",
+        "C": "It makes students less emotional",
+        "D": "It prevents emotional problems"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to paragraph 4, what life skill do students learn through group projects in art class?",
+      "options": {
+        "A": "How to work alone",
+        "B": "How to be the leader",
+        "C": "How to work together",
+        "D": "How to avoid work"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "How do art classes help students understand different cultures?",
+      "options": {
+        "A": "By traveling to other countries",
+        "B": "By reading about other cultures",
+        "C": "By studying artists from around the world",
+        "D": "By learning different languages"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What is the main idea of this passage?",
+      "options": {
+        "A": "Art classes are fun",
+        "B": "Art classes are easy",
+        "C": "The importance of art education",
+        "D": "How to teach art classes"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "According to the passage, which of these is NOT a benefit of art education?",
+      "options": {
+        "A": "Better grades in other subjects",
+        "B": "Learning to work together",
+        "C": "Higher paying jobs after school",
+        "D": "Emotional development"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
