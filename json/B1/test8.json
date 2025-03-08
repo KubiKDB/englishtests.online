@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The Earth's atmosphere is a complex layer of gases that surrounds our planet and makes life possible. This protective blanket extends from the Earth's surface to approximately 10,000 kilometers above, gradually thinning with increasing altitude until it eventually merges with outer space. The atmosphere is held in place by Earth's gravity and is composed primarily of nitrogen (78%) and oxygen (21%), with the remaining 1% consisting of argon, carbon dioxide, water vapor, and trace gases. This composition has evolved over billions of years and plays a crucial role in maintaining the temperatures and conditions necessary for life.<br><br>(2) Scientists divide the atmosphere into five distinct layers based on temperature variations and composition. The troposphere is the lowest layer, extending from the Earth's surface to approximately 8-15 kilometers up, depending on location and season. This is where we live and where nearly all weather phenomena occur. The troposphere contains about 75% of the atmosphere's mass and almost all of its water vapor. One of its defining characteristics is that temperature decreases with height, dropping about 6.5°C for every kilometer of altitude, until reaching the tropopause, which marks the boundary with the next layer.<br><br>(3) Above the troposphere lies the stratosphere, which extends to about 50 kilometers above Earth. Unlike the troposphere, temperature in this layer actually increases with altitude due to the absorption of ultraviolet radiation by the ozone layer. This ozone concentration, found primarily within the stratosphere, shields Earth's surface from harmful solar radiation. The steady temperature gradient and lack of vertical air movement make the stratosphere ideal for aircraft to fly in, as it offers much less turbulence than the troposphere below.<br><br>(4) The mesosphere extends from the stratosphere to approximately 85 kilometers above Earth and is characterized by extremely low temperatures, reaching as cold as -90°C at its upper boundary. In this layer, temperature once again decreases with altitude. The mesosphere is where most meteors burn up upon entering Earth's atmosphere, creating the streaks of light we call shooting stars. Despite its importance, the mesosphere remains one of the least understood layers because it is too high for aircraft but too low for satellites to operate in, making it difficult to study directly.<br><br>(5) The final two layers are the thermosphere and the exosphere. The thermosphere extends from about 85 to 600 kilometers above Earth and experiences a rapid temperature increase with altitude, potentially reaching 2,000°C. However, this heat would not feel hot to humans because the air molecules are so far apart. The International Space Station orbits within this layer. Beyond the thermosphere lies the exosphere, the outermost layer where the atmosphere gradually thins and transitions into outer space. This boundary region is where many weather and communication satellites orbit Earth. Together, these five atmospheric layers protect our planet from harmful radiation, regulate temperature, and make Earth the habitable planet we know today.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Select the correct form of the verb: 'If I _____ more time, I would finish this project today.'",
+      "options": {
+        "A": "have",
+        "B": "had",
+        "C": "will have",
+        "D": "would have"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct passive voice form: 'The book _____ by many students.'",
+      "options": {
+        "A": "was read",
+        "B": "is reading",
+        "C": "has been reading",
+        "D": "is read"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence contains the correct use of the present perfect?",
+      "options": {
+        "A": "I have seen this movie last week.",
+        "B": "She has lived here since three years.",
+        "C": "They have visited Paris twice.",
+        "D": "We have ate lunch already."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct comparative form: 'The blue shirt is _____ the red one.'",
+      "options": {
+        "A": "more cheaper than",
+        "B": "cheaper than",
+        "C": "cheapest than",
+        "D": "the cheaper than"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Select the correct article: 'My father works as _____ engineer.'",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article needed"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which sentence has the correct use of the past continuous?",
+      "options": {
+        "A": "I was cook dinner when the phone rang.",
+        "B": "She was watching TV when I called.",
+        "C": "They were ate lunch when we arrived.",
+        "D": "He was study when I saw him."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct modal verb: 'You _____ take an umbrella. It's going to rain.'",
+      "options": {
+        "A": "would",
+        "B": "must",
+        "C": "should",
+        "D": "will"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the correct relative pronoun: 'The woman _____ car was stolen called the police.'",
+      "options": {
+        "A": "who",
+        "B": "whom",
+        "C": "which",
+        "D": "whose"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Identify the correct future form: 'We _____ dinner at 8 pm tomorrow.'",
+      "options": {
+        "A": "are having",
+        "B": "will have",
+        "C": "have",
+        "D": "had"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence uses the correct preposition?",
+      "options": {
+        "A": "I'm looking forward to see you.",
+        "B": "She's afraid from spiders.",
+        "C": "He's good at playing tennis.",
+        "D": "They're interested of history."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct reported speech: 'I will call you tomorrow,' she said.",
+      "options": {
+        "A": "She said she will call me tomorrow.",
+        "B": "She said she would call me the next day.",
+        "C": "She said I will call you tomorrow.",
+        "D": "She said she will call me the next day."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the correct conditional form: 'If it rains tomorrow, we _____ to the museum.'",
+      "options": {
+        "A": "go",
+        "B": "will go",
+        "C": "would go",
+        "D": "went"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct question form: '_____ do you go to the gym?'",
+      "options": {
+        "A": "How often",
+        "B": "How long",
+        "C": "How much",
+        "D": "How many"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence uses the correct verb pattern?",
+      "options": {
+        "A": "She suggested to go to the beach.",
+        "B": "They enjoy to play tennis.",
+        "C": "He decided going home early.",
+        "D": "I promised to help him with his homework."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the correct form for this sentence: 'By the time we arrived, the movie _____.'",
+      "options": {
+        "A": "started",
+        "B": "had started",
+        "C": "has started",
+        "D": "was starting"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct phrasal verb to complete the sentence: 'Could you _____ the children while I go shopping?'",
+      "options": {
+        "A": "look at",
+        "B": "look for",
+        "C": "look after",
+        "D": "look up"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the appropriate response to the question 'How are you?'",
+      "options": {
+        "A": "I'm 25 years old.",
+        "B": "I'm fine, thanks.",
+        "C": "I'm a teacher.",
+        "D": "I'm at home."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct collocation: 'James _____ a mistake in his calculations.'",
+      "options": {
+        "A": "did",
+        "B": "made",
+        "C": "took",
+        "D": "had"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Select the correct linking expression: 'I was tired. _____, I decided to go to bed early.'",
+      "options": {
+        "A": "Although",
+        "B": "However",
+        "C": "Therefore",
+        "D": "Even though"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the appropriate expression for making a suggestion:",
+      "options": {
+        "A": "Why don't we go to the cinema?",
+        "B": "I don't mind going to the cinema.",
+        "C": "I'd rather go to the cinema.",
+        "D": "I went to the cinema."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the correct idiom to complete the sentence: 'The exam was really difficult. It wasn't _____.'",
+      "options": {
+        "A": "a piece of cake",
+        "B": "a cup of tea",
+        "C": "a slice of pie",
+        "D": "a box of chocolates"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct expression for agreeing with someone:",
+      "options": {
+        "A": "I don't think so.",
+        "B": "That's not right.",
+        "C": "I couldn't agree more.",
+        "D": "I'm not sure about that."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the appropriate response to 'Would you like some coffee?'",
+      "options": {
+        "A": "Yes, I'd love some.",
+        "B": "Yes, I'd love one.",
+        "C": "Yes, I'm liking some.",
+        "D": "Yes, I love it."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct preposition in this fixed expression: 'The meeting will start _____ time.'",
+      "options": {
+        "A": "in",
+        "B": "on",
+        "C": "at",
+        "D": "by"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the correct expression used to ask for clarification:",
+      "options": {
+        "A": "What do you mean?",
+        "B": "How do you do?",
+        "C": "What are you doing?",
+        "D": "How is it going?"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What is the correct meaning of the word 'change'?",
+      "options": {
+        "A": "to stay the same",
+        "B": "to become different",
+        "C": "to move backward",
+        "D": "to find something"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Which sentence uses the word 'keep' correctly?",
+      "options": {
+        "A": "She kept to the store yesterday.",
+        "B": "They kept the book at home after reading it.",
+        "C": "He kept swimming in the lake.",
+        "D": "We kept the money from the bank."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What does 'lose' mean?",
+      "options": {
+        "A": "to be unable to find something",
+        "B": "to gain something",
+        "C": "to win a game",
+        "D": "to keep something safe"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Choose the sentence that uses 'find' correctly:",
+      "options": {
+        "A": "I found my keys are on the table.",
+        "B": "She found to the cinema alone.",
+        "C": "They found my wallet in the park.",
+        "D": "He found about the news."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "What is the best definition of 'search'?",
+      "options": {
+        "A": "to look for something",
+        "B": "to hide something",
+        "C": "to forget something",
+        "D": "to break something"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Select the correct definition of 'wait':",
+      "options": {
+        "A": "to move quickly",
+        "B": "to leave a place",
+        "C": "to stay in one place until something happens",
+        "D": "to arrive somewhere"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Which sentence uses 'hurry' correctly?",
+      "options": {
+        "A": "We hurry the book from the library.",
+        "B": "She hurried to catch the bus.",
+        "C": "They hurry at home all day.",
+        "D": "He hurried the window."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "What does 'carry' mean?",
+      "options": {
+        "A": "to drop something",
+        "B": "to throw something away",
+        "C": "to hold and move something",
+        "D": "to leave something behind"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Choose the sentence that uses 'drop' correctly:",
+      "options": {
+        "A": "I dropped my friend at the airport.",
+        "B": "She dropped the book for her birthday.",
+        "C": "They dropped to school this morning.",
+        "D": "He dropped with his parents."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "What is the correct meaning of 'pick'?",
+      "options": {
+        "A": "to choose or select",
+        "B": "to throw away",
+        "C": "to hide",
+        "D": "to break"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Select the correct definition of 'throw':",
+      "options": {
+        "A": "to catch something",
+        "B": "to move something through the air",
+        "C": "to hold something",
+        "D": "to drop something"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Which sentence uses 'catch' correctly?",
+      "options": {
+        "A": "I caught the bus to work.",
+        "B": "She caught her book on the shelf.",
+        "C": "They caught home early.",
+        "D": "He caught the weather forecast."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "What does 'move' mean?",
+      "options": {
+        "A": "to stay in the same place",
+        "B": "to change position or location",
+        "C": "to stop an activity",
+        "D": "to visit a place"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Choose the sentence that uses 'stay' correctly:",
+      "options": {
+        "A": "I stayed the door open.",
+        "B": "She stayed the book on the table.",
+        "C": "They stayed at a hotel during their vacation.",
+        "D": "He stayed the car in the garage."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "What is the best definition of 'visit'?",
+      "options": {
+        "A": "to live in a place permanently",
+        "B": "to go and see a person or place for a short time",
+        "C": "to avoid a place",
+        "D": "to move to a new home"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what percentage of the Earth's atmosphere is composed of nitrogen and oxygen combined?",
+      "options": {
+        "A": "78%",
+        "B": "21%",
+        "C": "99%",
+        "D": "1%"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "According to the passage, which atmospheric layer contains most of the ozone?",
+      "options": {
+        "A": "Troposphere",
+        "B": "Stratosphere",
+        "C": "Mesosphere",
+        "D": "Thermosphere"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "In which layer does temperature decrease with altitude?",
+      "options": {
+        "A": "Troposphere and mesosphere only",
+        "B": "Stratosphere only",
+        "C": "Thermosphere only",
+        "D": "Exosphere only"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to paragraph 2, what percentage of the atmosphere's mass is in the troposphere?",
+      "options": {
+        "A": "21%",
+        "B": "50%",
+        "C": "75%",
+        "D": "100%"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Based on the passage, why is the stratosphere ideal for aircraft to fly in?",
+      "options": {
+        "A": "It has the most oxygen",
+        "B": "It has very high temperatures",
+        "C": "It offers less turbulence",
+        "D": "It has more water vapor"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to paragraph 4, why is the mesosphere difficult to study?",
+      "options": {
+        "A": "It's too cold for instruments to function",
+        "B": "It's too high for aircraft but too low for satellites",
+        "C": "It contains harmful radiation",
+        "D": "It has too many meteors"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What natural phenomenon occurs when meteors burn up in the mesosphere?",
+      "options": {
+        "A": "Auroras",
+        "B": "Hurricanes",
+        "C": "Lightning",
+        "D": "Shooting stars"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to the passage, in which layer does the International Space Station orbit?",
+      "options": {
+        "A": "Stratosphere",
+        "B": "Mesosphere",
+        "C": "Thermosphere",
+        "D": "Exosphere"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What would happen if you were in the thermosphere, according to the passage?",
+      "options": {
+        "A": "You would feel extremely hot",
+        "B": "You would not feel hot despite high temperatures",
+        "C": "You would freeze immediately",
+        "D": "You would be protected from radiation"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the main purpose of this passage?",
+      "options": {
+        "A": "To explain climate change",
+        "B": "To describe weather patterns",
+        "C": "To explain the structure of Earth's atmosphere",
+        "D": "To discuss space exploration"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
