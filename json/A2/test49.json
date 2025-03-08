@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Energy is very important in our daily lives. We use energy to cook food, to drive cars, and to power our homes. There are many different sources of energy. Three of the most common natural sources are the sun, wind, and water.<br><br>(2) The sun gives us solar energy. Solar panels can change sunlight into electricity. This kind of energy is clean and does not run out. Many homes now have solar panels on their roofs. In sunny places like deserts, large solar farms can make electricity for thousands of homes.<br><br>(3) Wind is another clean source of energy. Wind turbines are tall machines with big blades. When the wind blows, it turns these blades to make electricity. Wind farms can be built on land or in the sea. Countries like Denmark and Germany use a lot of wind energy.<br><br>(4) Water can also create energy. This is called hydroelectric power. Fast-moving water from rivers or waterfalls turns special wheels called turbines. These turbines then make electricity. Big dams like the Hoover Dam in the United States create a lot of electricity this way. Water energy is powerful and does not cause pollution.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which form of the verb is correct? 'She ___ to the store yesterday.'",
+      "options": {
+        "A": "go",
+        "B": "went",
+        "C": "goes",
+        "D": "going"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct preposition: 'I'm waiting ___ my friend.'",
+      "options": {
+        "A": "at",
+        "B": "to",
+        "C": "for",
+        "D": "with"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "They doesn't like coffee.",
+        "B": "They not like coffee.",
+        "C": "They don't like coffee.",
+        "D": "They don't likes coffee."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Select the correct form: 'There ___ many people at the party.'",
+      "options": {
+        "A": "was",
+        "B": "is",
+        "C": "were",
+        "D": "be"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Which is the correct comparative form? 'This book is ___ than that one.'",
+      "options": {
+        "A": "more better",
+        "B": "gooder",
+        "C": "more good",
+        "D": "better"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Choose the correct past tense: 'I ___ a movie last night.'",
+      "options": {
+        "A": "watch",
+        "B": "watching",
+        "C": "watched",
+        "D": "watches"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Select the correct article: 'She's ___ university student.'",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article needed"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Which sentence uses the correct form of the verb?",
+      "options": {
+        "A": "He play tennis every Sunday.",
+        "B": "He playing tennis every Sunday.",
+        "C": "He plays tennis every Sunday.",
+        "D": "He is play tennis every Sunday."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct modal verb: 'You ___ talk in the library.'",
+      "options": {
+        "A": "not",
+        "B": "don't have to",
+        "C": "shouldn't",
+        "D": "aren't"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which is the correct pronoun? 'This is ___ book.'",
+      "options": {
+        "A": "I",
+        "B": "me",
+        "C": "my",
+        "D": "mine"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Select the correct adverb: 'She sings ___ well.'",
+      "options": {
+        "A": "real",
+        "B": "really",
+        "C": "much",
+        "D": "very much"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which is the correct plural form?",
+      "options": {
+        "A": "childs",
+        "B": "childrens",
+        "C": "childs'",
+        "D": "children"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct form: 'I ___ TV when she called.'",
+      "options": {
+        "A": "watched",
+        "B": "was watching",
+        "C": "watching",
+        "D": "am watching"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which is correct? 'She ___ here since Monday.'",
+      "options": {
+        "A": "is",
+        "B": "was",
+        "C": "has been",
+        "D": "have been"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the correct word order:",
+      "options": {
+        "A": "She well speaks English.",
+        "B": "She speaks English well.",
+        "C": "She English speaks well.",
+        "D": "Well she speaks English."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct option to complete the sentence: 'Would you like ___ coffee?'",
+      "options": {
+        "A": "some",
+        "B": "a",
+        "C": "any",
+        "D": "many"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the correct phrasal verb: 'Please ___ your shoes before entering.'",
+      "options": {
+        "A": "put on",
+        "B": "take off",
+        "C": "put away",
+        "D": "take up"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct expression: 'I need to ___ some money from the bank.'",
+      "options": {
+        "A": "take out",
+        "B": "take off",
+        "C": "take up",
+        "D": "take over"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Select the correct collocation: 'Can you ___ me a favor?'",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "give",
+        "D": "have"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Which expression is correct when answering the phone?",
+      "options": {
+        "A": "I'm listening.",
+        "B": "Hello?",
+        "C": "I hear you.",
+        "D": "Yes?"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the correct expression: 'I don't feel well. I think I'm coming ___ with a cold.'",
+      "options": {
+        "A": "down",
+        "B": "up",
+        "C": "over",
+        "D": "around"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Select the correct expression: 'Let's ___ in touch by email.'",
+      "options": {
+        "A": "stay",
+        "B": "keep",
+        "C": "hold",
+        "D": "make"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Which is the correct way to ask for the time?",
+      "options": {
+        "A": "What is it?",
+        "B": "How much is it?",
+        "C": "What time is it?",
+        "D": "How long is it?"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct expression: 'We need to ___ a decision soon.'",
+      "options": {
+        "A": "do",
+        "B": "take",
+        "C": "make",
+        "D": "have"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the correct response to 'Thank you.'",
+      "options": {
+        "A": "Please.",
+        "B": "It's nothing.",
+        "C": "You're welcome.",
+        "D": "Not at all."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Which sentence uses the word 'teach' correctly?",
+      "options": {
+        "A": "My brother teach me how to swim.",
+        "B": "She teaches English at our school.",
+        "C": "They teaching us math every day.",
+        "D": "I will taught you tomorrow."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "What is the correct meaning of 'left' in this sentence: 'I left my book at home.'?",
+      "options": {
+        "A": "The opposite of right",
+        "B": "Remaining",
+        "C": "Did not bring",
+        "D": "Departed"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Which sentence uses 'direction' correctly?",
+      "options": {
+        "A": "Can you give me directions to the station?",
+        "B": "I like the direction of my new shoes.",
+        "C": "She has three directions in her family.",
+        "D": "We bought a new direction for our living room."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "What does 'glass' refer to in this sentence: 'I need a glass of water.'?",
+      "options": {
+        "A": "A material windows are made of",
+        "B": "A drinking container",
+        "C": "A pair of eyeglasses",
+        "D": "A mirror"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Which sentence uses 'cut' correctly?",
+      "options": {
+        "A": "She cut her hair last week.",
+        "B": "I cut the TV to watch a show.",
+        "C": "They cut a song about their vacation.",
+        "D": "He cuts his breakfast every morning."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Choose the sentence with the correct use of 'become':",
+      "options": {
+        "A": "I will become to the party later.",
+        "B": "She wants to become a doctor.",
+        "C": "They became the music very loudly.",
+        "D": "He becomes his homework every day."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Which sentence uses 'runs' correctly?",
+      "options": {
+        "A": "My father runs a small business.",
+        "B": "She runs the coffee every morning.",
+        "C": "The cat runs a lot of food.",
+        "D": "They run their books on the shelf."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Choose the correct usage of 'complete':",
+      "options": {
+        "A": "I need to complete my teeth after eating.",
+        "B": "Please complete your phone during the movie.",
+        "C": "Did you complete your homework?",
+        "D": "We will complete some friends for dinner."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What does 'skin' refer to in this sentence: 'The skin on her hands was dry.'?",
+      "options": {
+        "A": "A type of clothing",
+        "B": "The outer covering of the human body",
+        "C": "A skinny person",
+        "D": "A layer of paint"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Which sentence uses 'game' correctly?",
+      "options": {
+        "A": "We played a game of chess yesterday.",
+        "B": "I game my friend a present.",
+        "C": "She games to school every day.",
+        "D": "They game their homework on time."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Choose the sentence with the correct use of 'also':",
+      "options": {
+        "A": "He also to swim in the ocean.",
+        "B": "She likes tea and also coffee.",
+        "C": "They also me to help them.",
+        "D": "I also the door after leaving."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "What does 'pool' refer to in this sentence: 'The children were swimming in the pool.'?",
+      "options": {
+        "A": "A game with balls and a table",
+        "B": "A small body of water for swimming",
+        "C": "A group of people working together",
+        "D": "A collection of money"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Which sentence uses 'could' correctly?",
+      "options": {
+        "A": "I could my homework yesterday.",
+        "B": "She could swimming very well.",
+        "C": "Could you help me, please?",
+        "D": "They could the music louder."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Choose the sentence with the correct use of 'oils':",
+      "options": {
+        "A": "She oils to work every day.",
+        "B": "I need some cooking oils for this recipe.",
+        "C": "They oils their homework on time.",
+        "D": "He oils a new car last week."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Which sentence uses 'foreign' correctly?",
+      "options": {
+        "A": "I foreign to the store yesterday.",
+        "B": "She speaks three foreign languages.",
+        "C": "They foreign their homework quickly.",
+        "D": "He foreign his dinner at 7 PM."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, which of these is NOT mentioned as a source of energy?",
+      "options": {
+        "A": "Wind",
+        "B": "Coal",
+        "C": "Water",
+        "D": "Sun"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "What do solar panels do?",
+      "options": {
+        "A": "Create wind",
+        "B": "Store water",
+        "C": "Change sunlight into electricity",
+        "D": "Turn wind into water"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to the passage, where can wind farms be built?",
+      "options": {
+        "A": "Only on land",
+        "B": "Only in the sea",
+        "C": "On land or in the sea",
+        "D": "Only in deserts"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Which countries are mentioned as using a lot of wind energy?",
+      "options": {
+        "A": "United States and Canada",
+        "B": "Denmark and Germany",
+        "C": "China and Japan",
+        "D": "France and Spain"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What is hydroelectric power created from?",
+      "options": {
+        "A": "Sunlight",
+        "B": "Wind",
+        "C": "Water",
+        "D": "Heat"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What do turbines do in hydroelectric power plants?",
+      "options": {
+        "A": "Collect sunlight",
+        "B": "Make electricity",
+        "C": "Store water",
+        "D": "Create wind"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Which is an example of a big dam mentioned in the passage?",
+      "options": {
+        "A": "The Thames Dam",
+        "B": "The Nile Dam",
+        "C": "The Hoover Dam",
+        "D": "The Seine Dam"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to the passage, what is true about water energy?",
+      "options": {
+        "A": "It is weak and causes pollution",
+        "B": "It is powerful and causes pollution",
+        "C": "It is weak but does not cause pollution",
+        "D": "It is powerful and does not cause pollution"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to paragraph 1, why is energy important?",
+      "options": {
+        "A": "To create water",
+        "B": "To build cars",
+        "C": "For daily activities like cooking",
+        "D": "To make solar panels"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What does the passage say about solar energy?",
+      "options": {
+        "A": "It is expensive and runs out quickly",
+        "B": "It is clean and does not run out",
+        "C": "It can only be used in cold places",
+        "D": "It is difficult to collect"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
