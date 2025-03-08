@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Nelson Mandela, who would ultimately lead South Africa into a new era of democracy, spent twenty-seven years imprisoned for his resistance to the oppressive apartheid regime. During his incarceration on Robben Island, Mandela underwent a profound transformation, evolving from a militant anti-apartheid activist into a sagacious statesman committed to reconciliation and equality. His resilience and unwavering principles earned him international respect, even while he remained physically confined to a small prison cell.<br><br>(2) Upon his release in February 1990, Mandela immediately plunged into negotiations with then-President F.W. de Klerk to dismantle the apartheid system. These discussions were frequently characterized by tension and mistrust, with intermittent breakdowns threatening the fragile progress. Nevertheless, both leaders recognized that peaceful transition was the only feasible path forward for a nation teetering on the brink of civil war. Their shared commitment to dialogue, despite their vastly different backgrounds and constituencies, ultimately earned them the Nobel Peace Prize in 1993.<br><br>(3) The road to South Africa's first democratic elections in 1994 was fraught with multifarious challenges, including outbreaks of political violence that claimed thousands of lives. Mandela's judicious leadership during this volatile period was crucial in preventing further bloodshed. Rather than seeking retribution against former oppressors, he advocated for the establishment of the Truth and Reconciliation Commission, allowing the country to confront its painful past while fostering national healing. This approach, though controversial among some of his supporters who demanded stronger punitive measures, demonstrated Mandela's sophisticated understanding of the delicate balance required for successful nation-building.<br><br>(4) Upon assuming the presidency, Mandela faced the daunting task of reforming a nation divided by decades of institutionalized racism. His government prioritized the development of a new constitution that would repudiate the discriminatory laws of the past while establishing robust protections for all citizens, regardless of race. Economic reforms aimed at addressing the vast disparities in wealth and opportunity were implemented, though progress was inevitably slower than many had hoped. Mandela's administration also focused on improving access to education, healthcare, and housing for millions of South Africans who had been systematically marginalized under apartheid.<br><br>(5) Mandela's leadership style during this transformative period was characterized by an extraordinary capacity to unite diverse constituencies. He recognized that symbolic gestures could be as powerful as legislative changes in healing national wounds. His decision to don the jersey of the previously all-white South African rugby team during the 1995 World Cup final became an iconic moment of reconciliation. Though his presidency lasted only five years, Mandela established a foundation for ongoing reforms that would continue to reshape South African society. His legacy transcends national boundaries, providing a blueprint for peaceful transition and reconciliation in societies emerging from conflict around the world.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is grammatically correct?",
+      "options": {
+        "A": "Neither of the students have completed their assignments.",
+        "B": "Neither of the students has completed their assignments.",
+        "C": "Neither of the students have completed his assignments.",
+        "D": "Neither of the students has completed his assignment."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the correct sentence:",
+      "options": {
+        "A": "The committee are divided on this issue.",
+        "B": "The committee is divided on this issue.",
+        "C": "The committee have been divided on this issue.",
+        "D": "The committee were divided on this issue."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Choose the sentence with the correct use of the subjunctive mood:",
+      "options": {
+        "A": "The professor insisted that the student submits his paper by Friday.",
+        "B": "The professor insisted that the student submitted his paper by Friday.",
+        "C": "The professor insisted that the student submit his paper by Friday.",
+        "D": "The professor insisted that the student would submit his paper by Friday."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Identify the sentence with the correct parallel structure:",
+      "options": {
+        "A": "The CEO likes running, swimming, and to ride bicycles.",
+        "B": "The CEO likes to run, to swim, and riding bicycles.",
+        "C": "The CEO likes running, swimming, and riding bicycles.",
+        "D": "The CEO likes to run, swim, and to ride bicycles."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Which sentence correctly uses the past perfect tense?",
+      "options": {
+        "A": "By the time the ambulance arrived, the patient dies.",
+        "B": "By the time the ambulance arrived, the patient had died.",
+        "C": "By the time the ambulance arrived, the patient was dying.",
+        "D": "By the time the ambulance arrived, the patient would die."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the grammatically correct sentence:",
+      "options": {
+        "A": "The data shows a significant increase in online shopping.",
+        "B": "The data show a significant increase in online shopping.",
+        "C": "The data is showing a significant increase in online shopping.",
+        "D": "The data were showing a significant increase in online shopping."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the sentence with correct subject-verb agreement:",
+      "options": {
+        "A": "Either my sister or my brothers is going to help with the move.",
+        "B": "Either my sister or my brothers are going to help with the move.",
+        "C": "Either my brothers or my sister are going to help with the move.",
+        "D": "Either my brothers or my sister is going to help with the move."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Identify the sentence with the correct use of articles:",
+      "options": {
+        "A": "She is an university professor specializing in a history of medieval Europe.",
+        "B": "She is a university professor specializing in the history of medieval Europe.",
+        "C": "She is an university professor specializing in the history of medieval Europe.",
+        "D": "She is a university professor specializing in a history of medieval Europe."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence uses the correct form of the comparative adjective?",
+      "options": {
+        "A": "This year's conference was more successful than last year.",
+        "B": "This year's conference was more successfuler than last year.",
+        "C": "This year's conference was successfuler than last year.",
+        "D": "This year's conference was more more successful than last year."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which of the following uses the correct form of the conditional?",
+      "options": {
+        "A": "If he would have arrived earlier, he would have seen the presentation.",
+        "B": "If he had arrived earlier, he would see the presentation.",
+        "C": "If he had arrived earlier, he would have seen the presentation.",
+        "D": "If he would arrive earlier, he would have seen the presentation."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct passive construction:",
+      "options": {
+        "A": "The novel was written by Jane Austen in 1813.",
+        "B": "The novel had written by Jane Austen in 1813.",
+        "C": "The novel has been writing by Jane Austen in 1813.",
+        "D": "The novel was being written from Jane Austen in 1813."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence correctly uses a gerund?",
+      "options": {
+        "A": "She avoided to speak about her experience.",
+        "B": "She avoided speaking about her experience.",
+        "C": "She avoided speak about her experience.",
+        "D": "She avoided to speaking about her experience."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Select the sentence with the correct use of reported speech:",
+      "options": {
+        "A": "He said that he is attending the conference next week.",
+        "B": "He said that he was attending the conference the following week.",
+        "C": "He said that he will attend the conference next week.",
+        "D": "He said that he attended the conference the following week."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Identify the sentence with the correct use of the past participle:",
+      "options": {
+        "A": "Having wrote the email, she immediately sent it to the client.",
+        "B": "Having written the email, she immediately sent it to the client.",
+        "C": "Having been wrote the email, she immediately sent it to the client.",
+        "D": "Having been writing the email, she immediately sent it to the client."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Which sentence correctly uses a relative clause?",
+      "options": {
+        "A": "The professor whom lectures on quantum physics has published a new book.",
+        "B": "The professor whose lectures on quantum physics has published a new book.",
+        "C": "The professor who lectures on quantum physics has published a new book.",
+        "D": "The professor which lectures on quantum physics has published a new book."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct use of the word 'despite':",
+      "options": {
+        "A": "Despite of the rain, the match continued as scheduled.",
+        "B": "Despite the rain, the match continued as scheduled.",
+        "C": "Despite for the rain, the match continued as scheduled.",
+        "D": "Despite to the rain, the match continued as scheduled."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the correct phrasal verb to complete the sentence: 'After considering all options, they decided to _____ the proposal.'",
+      "options": {
+        "A": "go through with",
+        "B": "go away with",
+        "C": "go down with",
+        "D": "go out with"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct preposition: 'The professor is an authority _____ medieval literature.'",
+      "options": {
+        "A": "about",
+        "B": "for",
+        "C": "with",
+        "D": "on"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Which word best completes the sentence: 'The detective's investigation was _____ by the lack of evidence.'",
+      "options": {
+        "A": "hampered",
+        "B": "dampened",
+        "C": "shortened",
+        "D": "reduced"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the appropriate idiom: 'After the scandal, the politician decided to _____ and admit his mistakes.'",
+      "options": {
+        "A": "face the music",
+        "B": "pull strings",
+        "C": "beat around the bush",
+        "D": "jump the gun"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the correct collocation: 'The government has implemented strict measures in an attempt to _____ inflation.'",
+      "options": {
+        "A": "reduce",
+        "B": "curb",
+        "C": "minimize",
+        "D": "lower"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Which word correctly completes this formal expression: 'We would like to extend our _____ gratitude for your generous donation.'",
+      "options": {
+        "A": "deepest",
+        "B": "highest",
+        "C": "strongest",
+        "D": "greatest"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the appropriate connector to join these two sentences: 'The company faced severe financial difficulties. They managed to avoid bankruptcy.'",
+      "options": {
+        "A": "Because",
+        "B": "Nevertheless",
+        "C": "Therefore",
+        "D": "Furthermore"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the word that best completes the sentence: 'Her argument was so _____ that even her opponents had to acknowledge its merit.'",
+      "options": {
+        "A": "compelling",
+        "B": "interesting",
+        "C": "curious",
+        "D": "notable"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Which phrase correctly completes the sentence: 'The negotiations have reached a stalemate, and both parties need to _____ to find a solution.'",
+      "options": {
+        "A": "meet halfway",
+        "B": "come across",
+        "C": "break down",
+        "D": "turn around"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Which word means 'showing good judgment or wisdom'?",
+      "options": {
+        "A": "prudent",
+        "B": "sagacious",
+        "C": "cordial",
+        "D": "pragmatic"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Which word describes something 'complex or intricate, showing refined knowledge or taste'?",
+      "options": {
+        "A": "convoluted",
+        "B": "erudite",
+        "C": "sophisticated",
+        "D": "embellished"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Which word refers to 'punishment inflicted as vengeance for a wrong or criminal act'?",
+      "options": {
+        "A": "conviction",
+        "B": "penance",
+        "C": "atonement",
+        "D": "retribution"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which word means 'to wander aimlessly or take an indirect course'?",
+      "options": {
+        "A": "meander",
+        "B": "ramble",
+        "C": "saunter",
+        "D": "dawdle"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Which word describes 'a person highly skilled in music or another artistic pursuit'?",
+      "options": {
+        "A": "maven",
+        "B": "prodigy",
+        "C": "virtuoso",
+        "D": "savant"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Which word means 'having great variety; diverse'?",
+      "options": {
+        "A": "heterogeneous",
+        "B": "multifarious",
+        "C": "variegated",
+        "D": "eclectic"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Which word means 'having, showing, or done with good judgment or sense'?",
+      "options": {
+        "A": "astute",
+        "B": "perspicacious",
+        "C": "judicious",
+        "D": "discerning"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Which word describes something that 'stops and starts at irregular intervals'?",
+      "options": {
+        "A": "sporadic",
+        "B": "intermittent",
+        "C": "periodic",
+        "D": "fluctuating"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Which word means 'possible to do easily or conveniently'?",
+      "options": {
+        "A": "plausible",
+        "B": "viable",
+        "C": "practicable",
+        "D": "feasible"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Which word describes someone or something 'looking or sounding sad and dismal'?",
+      "options": {
+        "A": "melancholic",
+        "B": "doleful",
+        "C": "lugubrious",
+        "D": "mournful"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Which word means 'extremely wicked or villainous'?",
+      "options": {
+        "A": "malevolent",
+        "B": "nefarious",
+        "C": "insidious",
+        "D": "pernicious"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Which word means 'money paid for work or a service'?",
+      "options": {
+        "A": "compensation",
+        "B": "stipend",
+        "C": "honorarium",
+        "D": "remuneration"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Which word means 'extremely old-fashioned or ancient'?",
+      "options": {
+        "A": "primordial",
+        "B": "archaic",
+        "C": "antediluvian",
+        "D": "obsolete"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Which word describes something 'relating to or characteristic of the countryside'?",
+      "options": {
+        "A": "pastoral",
+        "B": "rustic",
+        "C": "idyllic",
+        "D": "bucolic"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Which word means 'to refuse to accept or be associated with'?",
+      "options": {
+        "A": "disavow",
+        "B": "denounce",
+        "C": "repudiate",
+        "D": "recant"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, during his imprisonment Mandela:",
+      "options": {
+        "A": "Led South Africa from prison",
+        "B": "Transformed from an activist to a statesman",
+        "C": "Lost international respect",
+        "D": "Maintained militant anti-apartheid views"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "The word 'plunged' in paragraph 2, is closest in meaning to:",
+      "options": {
+        "A": "gradually entered",
+        "B": "reluctantly participated in",
+        "C": "immediately immersed himself in",
+        "D": "carefully considered"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "Which statement best reflects why Mandela and de Klerk received the Nobel Peace Prize?",
+      "options": {
+        "A": "For dismantling the apartheid system",
+        "B": "For preventing a civil war",
+        "C": "For their shared commitment to dialogue despite differences",
+        "D": "For organizing South Africa's first democratic elections"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Based on paragraph 3, what was controversial about Mandela's approach to national healing?",
+      "options": {
+        "A": "His establishment of the Truth and Reconciliation Commission",
+        "B": "His choice to avoid seeking revenge against former oppressors",
+        "C": "His decision to permit political violence",
+        "D": "His focus on sophisticated nation-building techniques"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "The word 'daunting' in paragraph 4 is closest in meaning to:",
+      "options": {
+        "A": "exciting",
+        "B": "intimidating",
+        "C": "straightforward",
+        "D": "rewarding"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to the passage, Mandela's government prioritized all of the following EXCEPT:",
+      "options": {
+        "A": "Developing a new constitution",
+        "B": "Eliminating all economic disparities",
+        "C": "Improving access to education and healthcare",
+        "D": "Addressing housing inequalities"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What does the passage suggest about symbolic gestures in Mandela's leadership?",
+      "options": {
+        "A": "They were less important than legislative changes",
+        "B": "They were as powerful as legislative changes in healing national wounds",
+        "C": "They were mostly directed at the international community",
+        "D": "They were ineffective in promoting reconciliation"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "Which of the following best describes the main purpose of the passage?",
+      "options": {
+        "A": "To compare Mandela's leadership style with other world leaders",
+        "B": "To criticize the slow pace of reforms in post-apartheid South Africa",
+        "C": "To describe Mandela's journey and approach to post-apartheid reforms",
+        "D": "To analyze the failures of the Truth and Reconciliation Commission"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "The author suggests that Mandela's legacy:",
+      "options": {
+        "A": "Is limited to South Africa",
+        "B": "Ended with his five-year presidency",
+        "C": "Was primarily based on economic reforms",
+        "D": "Provides a model for peaceful transitions globally"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "Which of these was NOT mentioned as a challenge during South Africa's transition to democracy?",
+      "options": {
+        "A": "Political violence",
+        "B": "International sanctions",
+        "C": "Tension in negotiations",
+        "D": "Demands for punitive measures"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
