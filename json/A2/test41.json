@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The Industrial Revolution began in Britain in the late 1700s and soon spread to other parts of Europe and North America. This period marked a major turning point in history as people started using machines to make goods instead of making them by hand. Before this time, most people worked at home or in small workshops, but the Industrial Revolution changed where and how people worked. New factories opened in cities, and many people moved from the countryside to find jobs in these factories.<br><br>(2) One of the most important inventions of this time was the steam engine. Steam engines used coal to produce power for machines in factories and later for trains and ships. This made it possible to transport goods and people much faster than before. Another key invention was the spinning jenny, which allowed workers to make cloth much more quickly. These and other machines helped businesses produce more goods at lower costs, which meant more people could afford to buy them.<br><br>(3) While the Industrial Revolution brought many benefits, it also created problems. Working conditions in early factories were often dangerous and unhealthy. People worked long hours for little pay, and even young children had to work. Cities grew quickly as people moved to find factory jobs, but there wasn't enough housing for everyone. This led to overcrowded and dirty living conditions where diseases spread easily. The air and water also became polluted from factory smoke and waste.<br><br>(4) Despite these problems, the Industrial Revolution changed the world forever. It led to new inventions and scientific discoveries that improved people's lives in many ways. Products that were once luxury items became affordable for ordinary people. The revolution also created new types of jobs and opportunities. Today, many countries around the world are still going through their own industrial revolutions, as they build factories and develop their economies.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct form of the verb: 'He _____ breakfast every morning.'",
+      "options": {
+        "A": "eat",
+        "B": "eats",
+        "C": "eating",
+        "D": "to eat"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the correct past tense: 'Last week, we _____ to the museum.'",
+      "options": {
+        "A": "go",
+        "B": "goes",
+        "C": "went",
+        "D": "going"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Choose the correct article: 'I saw _____ bird in the tree.'",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "—"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Select the correct preposition: 'The book is _____ the table.'",
+      "options": {
+        "A": "in",
+        "B": "on",
+        "C": "at",
+        "D": "to"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "She don't like apples.",
+        "B": "She doesn't likes apples.",
+        "C": "She not like apples.",
+        "D": "She doesn't like apples."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Choose the correct comparative form: 'This book is _____ than that one.'",
+      "options": {
+        "A": "more interesting",
+        "B": "interestinger",
+        "C": "most interesting",
+        "D": "the most interesting"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Select the correct form of 'to be': 'They _____ students last year.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "were",
+        "D": "was"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct possessive adjective: 'Mary is talking to _____ mother.'",
+      "options": {
+        "A": "she",
+        "B": "her",
+        "C": "hers",
+        "D": "herself"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Select the correct plural form: 'There are five _____ on the table.'",
+      "options": {
+        "A": "tomato",
+        "B": "tomatos",
+        "C": "tomatoes",
+        "D": "tomatoes"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence uses the present perfect correctly?",
+      "options": {
+        "A": "I have went to Paris.",
+        "B": "I have gone to Paris.",
+        "C": "I have goed to Paris.",
+        "D": "I have going to Paris."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct question form: '_____ you like tea?'",
+      "options": {
+        "A": "Are",
+        "B": "Do",
+        "C": "Is",
+        "D": "Does"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the correct modal verb: 'You _____ smoke in this building. It's not allowed.'",
+      "options": {
+        "A": "don't have to",
+        "B": "must not",
+        "C": "shouldn't",
+        "D": "can't"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct adverb form: 'She sings _____.'",
+      "options": {
+        "A": "beautiful",
+        "B": "more beautiful",
+        "C": "beautifully",
+        "D": "beautifuly"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Select the correct order of adjectives: 'She has a _____ bag.'",
+      "options": {
+        "A": "leather new brown",
+        "B": "new brown leather",
+        "C": "brown new leather",
+        "D": "leather brown new"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Choose the correct future form: 'I _____ my grandmother next weekend.'",
+      "options": {
+        "A": "visit",
+        "B": "am visiting",
+        "C": "visited",
+        "D": "will visit"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Complete the sentence: 'I don't have _____ money.'",
+      "options": {
+        "A": "some",
+        "B": "any",
+        "C": "many",
+        "D": "few"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct word to complete the sentence: 'I need to _____ my shoes.'",
+      "options": {
+        "A": "put on",
+        "B": "put in",
+        "C": "put to",
+        "D": "put with"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the best response to 'How was your weekend?'",
+      "options": {
+        "A": "I'm fine, thanks.",
+        "B": "It was great, thank you.",
+        "C": "Yes, I did.",
+        "D": "No problem."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct word to complete the sentence: 'Would you like _____ tea?'",
+      "options": {
+        "A": "some",
+        "B": "a",
+        "C": "many",
+        "D": "any"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the best word to complete the sentence: 'My brother _____ soccer every Saturday.'",
+      "options": {
+        "A": "makes",
+        "B": "does",
+        "C": "plays",
+        "D": "goes"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the correct phrase to ask about time.",
+      "options": {
+        "A": "What is time?",
+        "B": "What time is it?",
+        "C": "How is the time?",
+        "D": "What does the time?"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Select the best word to complete the sentence: 'I usually _____ dinner at 7:00.'",
+      "options": {
+        "A": "do",
+        "B": "make",
+        "C": "cook",
+        "D": "have"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct expression to offer help.",
+      "options": {
+        "A": "Could you help me?",
+        "B": "Do you want help?",
+        "C": "Can I help you?",
+        "D": "Would you like to help?"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Select the best word to complete the sentence: 'I don't _____ how to swim.'",
+      "options": {
+        "A": "know",
+        "B": "understand",
+        "C": "learn",
+        "D": "make"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct expression to show agreement.",
+      "options": {
+        "A": "I don't think so.",
+        "B": "I'm not sure.",
+        "C": "I disagree.",
+        "D": "That's right."
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "White _____ is often added to coffee or tea to make it taste sweet.",
+      "options": {
+        "A": "rice",
+        "B": "sugar",
+        "C": "street",
+        "D": "example"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "If you say 'I will _____ do that again,' it means you will not repeat it.",
+      "options": {
+        "A": "never",
+        "B": "sometimes",
+        "C": "anything",
+        "D": "some"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "An _____ is something that helps explain an idea.",
+      "options": {
+        "A": "anything",
+        "B": "night",
+        "C": "example",
+        "D": "school"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "A _____ is a road in a city or town with houses or buildings on one or both sides.",
+      "options": {
+        "A": "school",
+        "B": "moment",
+        "C": "street",
+        "D": "sugar"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "_____ is a white grain that many people eat with vegetables or meat.",
+      "options": {
+        "A": "Sugar",
+        "B": "Rice",
+        "C": "Quarter",
+        "D": "Sorry"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "If someone asks 'Do you want _____?' they are offering you something to choose.",
+      "options": {
+        "A": "anything",
+        "B": "sorry",
+        "C": "never",
+        "D": "moment"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "You say '_____ ' when you want to apologize to someone.",
+      "options": {
+        "A": "Never",
+        "B": "Sorry",
+        "C": "Follow",
+        "D": "Example"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "When you _____ a place, you go away from it.",
+      "options": {
+        "A": "follow",
+        "B": "night",
+        "C": "leave",
+        "D": "quarter"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "The time when it is dark and people usually sleep is called _____.",
+      "options": {
+        "A": "night",
+        "B": "moment",
+        "C": "quarter",
+        "D": "sometimes"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "To _____ someone means to go in the same direction behind them.",
+      "options": {
+        "A": "sorry",
+        "B": "follow",
+        "C": "leave",
+        "D": "sugar"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "A very short period of time is called a _____.",
+      "options": {
+        "A": "quarter",
+        "B": "sometimes",
+        "C": "moment",
+        "D": "school"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "A _____ is fifteen minutes, or one fourth of an hour.",
+      "options": {
+        "A": "moment",
+        "B": "example",
+        "C": "never",
+        "D": "quarter"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "When something happens not always but not rarely, it happens _____.",
+      "options": {
+        "A": "never",
+        "B": "some",
+        "C": "anything",
+        "D": "sometimes"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Children go to _____ to learn.",
+      "options": {
+        "A": "street",
+        "B": "night",
+        "C": "school",
+        "D": "rice"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "If you want a small amount but not all, you want _____.",
+      "options": {
+        "A": "some",
+        "B": "anything",
+        "C": "never",
+        "D": "sorry"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, when did the Industrial Revolution begin?",
+      "options": {
+        "A": "In the early 1700s",
+        "B": "In the late 1700s",
+        "C": "In the mid-1800s",
+        "D": "In the early 1900s"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Based on paragraph 1, where did many people move during the Industrial Revolution?",
+      "options": {
+        "A": "From cities to small workshops",
+        "B": "From factories to homes",
+        "C": "From the countryside to cities",
+        "D": "From Europe to North America"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 2, what powered the steam engine?",
+      "options": {
+        "A": "Water",
+        "B": "Coal",
+        "C": "Electricity",
+        "D": "Oil"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Based on paragraph 2, why could more people afford to buy goods during the Industrial Revolution?",
+      "options": {
+        "A": "Because people earned more money",
+        "B": "Because goods were produced at lower costs",
+        "C": "Because steam engines were cheaper",
+        "D": "Because they worked in factories"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to paragraph 3, which of the following was NOT a problem during the Industrial Revolution?",
+      "options": {
+        "A": "Dangerous working conditions",
+        "B": "Lack of transportation options",
+        "C": "Pollution from factories",
+        "D": "Child labor"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "Based on paragraph 3, why did diseases spread easily in industrial cities?",
+      "options": {
+        "A": "Because there weren't enough doctors",
+        "B": "Because the weather was bad",
+        "C": "Because people worked long hours",
+        "D": "Because living conditions were overcrowded and dirty"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to paragraph 4, what happened to luxury items during the Industrial Revolution?",
+      "options": {
+        "A": "They disappeared",
+        "B": "They became more expensive",
+        "C": "They became affordable for ordinary people",
+        "D": "They were only sold in cities"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What is the main idea of the passage?",
+      "options": {
+        "A": "The Industrial Revolution created many problems in cities",
+        "B": "Steam engines were the most important invention in history",
+        "C": "The Industrial Revolution changed how and where people worked and lived",
+        "D": "Britain was the most powerful country during the Industrial Revolution"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to the passage, where did the Industrial Revolution start?",
+      "options": {
+        "A": "In North America",
+        "B": "In Britain",
+        "C": "In many European countries at the same time",
+        "D": "The passage doesn't say"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "Based on the last paragraph, what is happening in many countries today?",
+      "options": {
+        "A": "They are experiencing their own industrial revolutions",
+        "B": "They are solving the problems caused by the Industrial Revolution",
+        "C": "They are inventing new steam engines",
+        "D": "They are moving away from using machines"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    }
+  ]
+}
