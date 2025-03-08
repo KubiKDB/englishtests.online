@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The rapid transformation of rural landscapes into urban centers represents one of the most significant demographic shifts in modern history. Urbanization, characterized by the concentration of populations in city environments, has fundamentally altered not only physical infrastructures but also the intricate social fabrics that bind communities together. What was once a gradual process has accelerated dramatically in the past century, with over half of the world's population now residing in urban areas—a figure projected to reach nearly 70 percent by 2050.<br><br>(2) This mass migration toward cities has produced complex and often contradictory effects on community structures. On one hand, urbanization has fostered unprecedented opportunities for social connectivity, bringing together diverse populations and creating dynamic cultural exchanges. The density of urban environments can facilitate chance encounters, collaborative innovations, and the formation of communities based on shared interests rather than mere geographic proximity. Digital technologies further amplify these connections, allowing urban dwellers to maintain extensive social networks that transcend physical boundaries.<br><br>(3) Conversely, the same forces that enable these new forms of community can simultaneously undermine traditional social bonds. The anonymity of city life, combined with the transient nature of urban populations, often results in the weakening of extended family ties and neighborhood relationships that historically provided social support systems. Economic pressures within cities, particularly housing affordability and long commute times, further strain residents' capacity to invest in community building. Many sociologists have documented the paradoxical isolation that can occur amid urban density—a phenomenon where individuals experience profound loneliness despite being physically surrounded by millions.<br><br>(4) The architectural and planning decisions that shape urban environments play a crucial role in either facilitating or hindering community formation. Cities designed primarily around vehicular transportation, with limited public spaces and segregated residential zones, tend to discourage spontaneous social interactions. Conversely, urban designs that prioritize walkability, mixed-use development, and accessible public gathering places can nurture vibrant community life. The concept of "third places"—locations separate from home and work where people can regularly congregate—has become increasingly important in understanding how urban spaces can support meaningful social connections.<br><br>(5) As urbanization continues its global advance, policymakers and community leaders face the challenge of preserving social cohesion while embracing the inevitable evolution of community structures. Successful approaches often involve integrating technology with physical space design, supporting both traditional community institutions and emerging social networks, and ensuring that economic development does not come at the expense of human connection. The future of urban communities likely lies not in resisting change but in thoughtfully shaping environments that allow both new and traditional forms of human connection to flourish simultaneously.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "If I _____ to the meeting on time, I would have had the opportunity to present my proposal.",
+      "options": {
+        "A": "had arrived",
+        "B": "would arrive",
+        "C": "arrived",
+        "D": "have arrived"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "The researcher, along with her team of assistants, _____ investigating the newly discovered phenomenon.",
+      "options": {
+        "A": "were",
+        "B": "are",
+        "C": "is",
+        "D": "have been"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Having _____ the manuscript several times, the editor was confident that it was ready for publication.",
+      "options": {
+        "A": "reviewed",
+        "B": "reviewing",
+        "C": "review",
+        "D": "to review"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Not only _____ the award for best director, but she also received recognition for her screenplay.",
+      "options": {
+        "A": "she won",
+        "B": "did she win",
+        "C": "she did win",
+        "D": "winning"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "By the time we reach the summit, we _____ for more than six hours.",
+      "options": {
+        "A": "will hike",
+        "B": "are hiking",
+        "C": "will have been hiking",
+        "D": "have hiked"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "The documentary _____ next month is expected to reveal previously undisclosed information about the incident.",
+      "options": {
+        "A": "released",
+        "B": "being released",
+        "C": "to be released",
+        "D": "having released"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "She _____ to reconsider her decision, but ultimately stayed with her original plan.",
+      "options": {
+        "A": "was tempted",
+        "B": "has tempted",
+        "C": "had tempting",
+        "D": "tempted"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "_____ we had more time to explore the ancient ruins, we could have learned more about the civilization.",
+      "options": {
+        "A": "If",
+        "B": "Unless",
+        "C": "Had",
+        "D": "Would"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "The professor emphasized that all students _____ their research proposals by the end of the semester.",
+      "options": {
+        "A": "submit",
+        "B": "submitted",
+        "C": "submitting",
+        "D": "should submit"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Rarely _____ such an impressive display of artistic talent in a newcomer to the field.",
+      "options": {
+        "A": "we have seen",
+        "B": "we saw",
+        "C": "have we seen",
+        "D": "did we see"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "_____ her extensive preparation, she still felt nervous before giving the keynote address.",
+      "options": {
+        "A": "Despite",
+        "B": "Although",
+        "C": "However",
+        "D": "Even"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "The historical artifacts, _____ were discovered during the excavation, have been transported to the national museum.",
+      "options": {
+        "A": "which",
+        "B": "they",
+        "C": "those",
+        "D": "what"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "The government has implemented several policies _____ at reducing carbon emissions over the next decade.",
+      "options": {
+        "A": "aiming",
+        "B": "aimed",
+        "C": "to aim",
+        "D": "aims"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "_____ completing the marathon, she felt a profound sense of accomplishment and relief.",
+      "options": {
+        "A": "Upon",
+        "B": "While",
+        "C": "During",
+        "D": "Since"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "The correlation between the two variables was found to be stronger than _____ predicted by previous studies.",
+      "options": {
+        "A": "it was",
+        "B": "had been",
+        "C": "that",
+        "D": "what"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "The committee reached a consensus after hours of debate, _____ achieving a resolution that satisfied all parties.",
+      "options": {
+        "A": "eventually",
+        "B": "thereby",
+        "C": "nevertheless",
+        "D": "conversely"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "His criticism, though _____ with good intentions, caused considerable offense among his colleagues.",
+      "options": {
+        "A": "presented",
+        "B": "established",
+        "C": "offered",
+        "D": "conveyed"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "The archaeological discovery _____ light on previously unknown aspects of the ancient civilization.",
+      "options": {
+        "A": "threw",
+        "B": "shed",
+        "C": "cast",
+        "D": "brought"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Despite the economic downturn, the company managed to _____ a profit for the third consecutive quarter.",
+      "options": {
+        "A": "turn",
+        "B": "make",
+        "C": "bring",
+        "D": "generate"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "The legislation has been _____ criticism from both sides of the political spectrum.",
+      "options": {
+        "A": "under",
+        "B": "subject to",
+        "C": "facing",
+        "D": "receiving"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "The professor's lecture was so engaging that it _____ the audience's attention for the entire three hours.",
+      "options": {
+        "A": "held",
+        "B": "kept",
+        "C": "maintained",
+        "D": "sustained"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "The company decided to _____ its resources toward developing more sustainable production methods.",
+      "options": {
+        "A": "devote",
+        "B": "direct",
+        "C": "channel",
+        "D": "funnel"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "After careful deliberation, the jury _____ a unanimous verdict of not guilty.",
+      "options": {
+        "A": "arrived at",
+        "B": "came to",
+        "C": "reached",
+        "D": "concluded"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "The report _____ attention to the growing disparity between urban and rural educational opportunities.",
+      "options": {
+        "A": "draws",
+        "B": "calls",
+        "C": "brings",
+        "D": "pulls"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "The documentary film _____ awareness about the environmental crisis facing the planet.",
+      "options": {
+        "A": "promotes",
+        "B": "spreads",
+        "C": "raises",
+        "D": "lifts"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Her _____ handling of the complex negotiation impressed even her most seasoned colleagues.",
+      "options": {
+        "A": "skillful",
+        "B": "dexterous",
+        "C": "expert",
+        "D": "adroit"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "The government provided only a _____ of funding for the arts program, forcing it to seek additional private donations.",
+      "options": {
+        "A": "fraction",
+        "B": "modicum",
+        "C": "pittance",
+        "D": "particle"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "The investor made a _____ decision to sell her stocks just before the market crashed.",
+      "options": {
+        "A": "clever",
+        "B": "astute",
+        "C": "shrewd",
+        "D": "wise"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "The charismatic speaker managed to _____ the audience into supporting his controversial proposal.",
+      "options": {
+        "A": "persuade",
+        "B": "convince",
+        "C": "entice",
+        "D": "inveigle"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "The region has experienced _____ outbreaks of violence over the past decade, making it difficult to establish lasting peace.",
+      "options": {
+        "A": "occasional",
+        "B": "intermittent",
+        "C": "sporadic",
+        "D": "infrequent"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "The project presented the team with a _____ of challenges that required innovative solutions.",
+      "options": {
+        "A": "multitude",
+        "B": "abundance",
+        "C": "plethora",
+        "D": "myriad"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "The unexpected announcement caused _____ among the employees, who feared for their job security.",
+      "options": {
+        "A": "anxiety",
+        "B": "consternation",
+        "C": "distress",
+        "D": "alarm"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "His _____ response to the complex question impressed the panel with its precision and efficiency.",
+      "options": {
+        "A": "concise",
+        "B": "terse",
+        "C": "laconic",
+        "D": "brief"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "The volcano has been _____ for centuries but scientists warn that it could become active again at any time.",
+      "options": {
+        "A": "inactive",
+        "B": "dormant",
+        "C": "quiescent",
+        "D": "latent"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Her musical compositions _____ the boundaries between classical and contemporary styles.",
+      "options": {
+        "A": "surpass",
+        "B": "exceed",
+        "C": "overcome",
+        "D": "transcend"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "The remote community has remained largely _____, governing itself according to traditions passed down through generations.",
+      "options": {
+        "A": "independent",
+        "B": "self-sufficient",
+        "C": "autonomous",
+        "D": "sovereign"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "The company's hasty expansion resulted in a financial _____ that took years to recover from.",
+      "options": {
+        "A": "catastrophe",
+        "B": "disaster",
+        "C": "failure",
+        "D": "debacle"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "The committee needed to _____ limited resources among various departments with competing priorities.",
+      "options": {
+        "A": "distribute",
+        "B": "assign",
+        "C": "allocate",
+        "D": "divide"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "The philanthropist was known for his _____ donations to educational institutions and humanitarian causes.",
+      "options": {
+        "A": "generous",
+        "B": "bountiful",
+        "C": "lavish",
+        "D": "munificent"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "The speaker's eloquent presentation managed to _____ even the most skeptical members of the audience.",
+      "options": {
+        "A": "enchant",
+        "B": "fascinate",
+        "C": "captivate",
+        "D": "enthrall"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, what percentage of the global population is expected to live in urban areas by 2050?",
+      "options": {
+        "A": "50 percent",
+        "B": "60 percent",
+        "C": "70 percent",
+        "D": "80 percent"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following is described in the passage as a potential negative consequence of urbanization?",
+      "options": {
+        "A": "Increased cultural exchanges",
+        "B": "Formation of interest-based communities",
+        "C": "Weakening of traditional social bonds",
+        "D": "Enhanced social connectivity"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "The term 'third places' in paragraph 4 refers to:",
+      "options": {
+        "A": "Urban centers separate from rural areas",
+        "B": "Locations distinct from both home and workplace",
+        "C": "Digital spaces for community interaction",
+        "D": "Segregated residential zones"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "The author's attitude toward the future of urban communities can best be described as:",
+      "options": {
+        "A": "Deeply pessimistic",
+        "B": "Cautiously optimistic",
+        "C": "Strongly opposed",
+        "D": "Completely neutral"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Which of the following urban design features is presented as beneficial for community formation?",
+      "options": {
+        "A": "Segregated residential zones",
+        "B": "Vehicle-centered transportation",
+        "C": "Limited public spaces",
+        "D": "Mixed-use development"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "The passage suggests that digital technologies in urban environments:",
+      "options": {
+        "A": "Always undermine traditional social bonds",
+        "B": "Have no effect on community structures",
+        "C": "Can help maintain extensive social networks",
+        "D": "Are primarily responsible for urban isolation"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to the passage, what is one factor that strains urban residents' ability to build community?",
+      "options": {
+        "A": "Excessive public gathering spaces",
+        "B": "Housing affordability issues",
+        "C": "Too many walkable areas",
+        "D": "Excessive community institutions"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The paradox described in paragraph 3 refers to:",
+      "options": {
+        "A": "The contrast between physical proximity and social isolation",
+        "B": "The balance between economic development and community building",
+        "C": "The conflict between traditional and new forms of social connection",
+        "D": "The relationship between urban design and community formation"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What does the author suggest is a key challenge for policymakers regarding urbanization?",
+      "options": {
+        "A": "Preventing further urbanization globally",
+        "B": "Eliminating digital technologies from urban spaces",
+        "C": "Maintaining social cohesion amid changing community structures",
+        "D": "Returning to traditional community models exclusively"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "The primary purpose of this passage is to:",
+      "options": {
+        "A": "Argue against the continued growth of urban areas",
+        "B": "Analyze the complex effects of urbanization on community structures",
+        "C": "Compare rural and urban social interactions",
+        "D": "Propose specific policy solutions for urban planning"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
