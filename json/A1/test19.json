@@ -1,0 +1,606 @@
+32
+{
+  "passage": "<br>(1) Kangaroos are special animals from Australia. They are famous for the way they carry their babies. A baby kangaroo is called a joey. When a joey is born, it is very tiny, about the size of a bean. It is not fully developed and cannot survive outside its mother's body.<br><br>(2) After birth, the joey moves to its mother's pouch. The pouch is like a pocket on the mother's stomach. The joey uses its small front legs to climb into the pouch. This journey is difficult and takes about three minutes. Inside the pouch, the joey drinks milk and continues to grow.<br><br>(3) The joey stays in the pouch for about six to eight months. At first, it never leaves the pouch. Later, it puts its head out to see the world. After some time, the joey starts to come out of the pouch for short periods. It jumps back into the pouch when it feels danger or needs food.<br><br>(4) Eventually, the joey becomes too big for the pouch. It starts spending more time outside but still returns to the pouch for safety and milk. By the time the joey is about 10 months old, it no longer fits in the pouch. However, it stays close to its mother and drinks milk for several more months. This special way of carrying babies helps kangaroos protect their young.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "She ___ not like coffee.",
+      "options": {
+        "A": "do",
+        "B": "does",
+        "C": "is",
+        "D": "are"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "We ___ dinner at 7 PM yesterday.",
+      "options": {
+        "A": "have",
+        "B": "having",
+        "C": "had",
+        "D": "has"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "___ there any milk in the fridge?",
+      "options": {
+        "A": "Is",
+        "B": "Are",
+        "C": "Do",
+        "D": "Does"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "My brother ___ in London.",
+      "options": {
+        "A": "live",
+        "B": "lives",
+        "C": "living",
+        "D": "to live"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "I ___ TV every evening.",
+      "options": {
+        "A": "watching",
+        "B": "watch",
+        "C": "watches",
+        "D": "am watch"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "They ___ playing soccer now.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "be",
+        "D": "am"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "She ___ her homework yesterday.",
+      "options": {
+        "A": "completes",
+        "B": "completing",
+        "C": "complete",
+        "D": "completed"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "___ you like apples?",
+      "options": {
+        "A": "Are",
+        "B": "Is",
+        "C": "Do",
+        "D": "Does"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "He ___ to school by bus.",
+      "options": {
+        "A": "go",
+        "B": "goes",
+        "C": "going",
+        "D": "is go"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "My parents ___ in that house for 20 years.",
+      "options": {
+        "A": "live",
+        "B": "lives",
+        "C": "living",
+        "D": "lived"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "The book ___ on the table.",
+      "options": {
+        "A": "are",
+        "B": "am",
+        "C": "is",
+        "D": "be"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "___ your brother like sports?",
+      "options": {
+        "A": "Do",
+        "B": "Does",
+        "C": "Is",
+        "D": "Are"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "We ___ to the beach last summer.",
+      "options": {
+        "A": "go",
+        "B": "went",
+        "C": "going",
+        "D": "goes"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "I ___ not hungry now.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "am",
+        "D": "be"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "They ___ breakfast at 8 AM every day.",
+      "options": {
+        "A": "have",
+        "B": "has",
+        "C": "having",
+        "D": "had"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "What's the correct response to 'How are you?'",
+      "options": {
+        "A": "I'm 25 years old.",
+        "B": "I'm from Spain.",
+        "C": "I'm fine, thank you.",
+        "D": "I'm a student."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "___ is your favorite color?",
+      "options": {
+        "A": "What",
+        "B": "Where",
+        "C": "When",
+        "D": "Who"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Can I ___ this chair?",
+      "options": {
+        "A": "use",
+        "B": "using",
+        "C": "used",
+        "D": "to use"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Would you like ___ tea?",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "some"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Can you ___ me with my homework?",
+      "options": {
+        "A": "helping",
+        "B": "help",
+        "C": "to help",
+        "D": "helps"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "What time ___ it?",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "do",
+        "D": "does"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "We're ___ to the park this afternoon.",
+      "options": {
+        "A": "go",
+        "B": "went",
+        "C": "going",
+        "D": "goes"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Excuse me, where is the ___ room?",
+      "options": {
+        "A": "bath",
+        "B": "bathing",
+        "C": "bathroom",
+        "D": "bathed"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "This coffee is ___ hot to drink.",
+      "options": {
+        "A": "too",
+        "B": "very",
+        "C": "so",
+        "D": "much"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "I'd like ___ apple, please.",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "some"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Come ___ from the window, it's cold outside.",
+      "options": {
+        "A": "back",
+        "B": "front",
+        "C": "up",
+        "D": "down"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "I have ___ brothers and one sister.",
+      "options": {
+        "A": "one",
+        "B": "three",
+        "C": "two",
+        "D": "four"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "I ___ eat breakfast in the morning.",
+      "options": {
+        "A": "always",
+        "B": "never",
+        "C": "sometimes",
+        "D": "usually"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "We go to school every ___.",
+      "options": {
+        "A": "week",
+        "B": "night",
+        "C": "morning",
+        "D": "day"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "I like to listen to ___ on my phone.",
+      "options": {
+        "A": "news",
+        "B": "books",
+        "C": "music",
+        "D": "games"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Birds can ___ in the sky.",
+      "options": {
+        "A": "swim",
+        "B": "walk",
+        "C": "run",
+        "D": "fly"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "My ___ is three years older than me.",
+      "options": {
+        "A": "sister",
+        "B": "brother",
+        "C": "friend",
+        "D": "father"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "I don't ___ what you're saying.",
+      "options": {
+        "A": "know",
+        "B": "hear",
+        "C": "understand",
+        "D": "listen"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "The hero in the movie performs an ___ to save the city.",
+      "options": {
+        "A": "idea",
+        "B": "action",
+        "C": "thought",
+        "D": "plan"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "He wants to ___ a doctor when he grows up.",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "have",
+        "D": "become"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "The dog ran ___ when it saw the cat.",
+      "options": {
+        "A": "away",
+        "B": "out",
+        "C": "in",
+        "D": "over"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Please ___ off the light before you leave the room.",
+      "options": {
+        "A": "put",
+        "B": "turn",
+        "C": "switch",
+        "D": "close"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Please fill out this ___ with your personal information.",
+      "options": {
+        "A": "paper",
+        "B": "form",
+        "C": "note",
+        "D": "book"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "This fabric feels very ___ to touch.",
+      "options": {
+        "A": "hard",
+        "B": "rough",
+        "C": "soft",
+        "D": "smooth"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "The story teaches children an important ___ lesson.",
+      "options": {
+        "A": "moral",
+        "B": "physical",
+        "C": "scientific",
+        "D": "historical"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, a joey is:",
+      "options": {
+        "A": "an adult kangaroo",
+        "B": "a baby kangaroo",
+        "C": "a type of pouch",
+        "D": "an animal from Australia"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "When a joey is born, it is the size of:",
+      "options": {
+        "A": "an apple",
+        "B": "a bean",
+        "C": "a mouse",
+        "D": "a hand"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 2, what is a pouch?",
+      "options": {
+        "A": "a small baby",
+        "B": "a type of milk",
+        "C": "a pocket on the mother's stomach",
+        "D": "a journey"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "How long does it take for a joey to climb into the pouch?",
+      "options": {
+        "A": "one minute",
+        "B": "three minutes",
+        "C": "ten minutes",
+        "D": "thirty minutes"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to paragraph 3, how long does the joey stay in the pouch?",
+      "options": {
+        "A": "one to two months",
+        "B": "three to four months",
+        "C": "six to eight months",
+        "D": "ten to twelve months"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "In paragraph 3, when does the joey jump back into the pouch?",
+      "options": {
+        "A": "when it feels danger or needs food",
+        "B": "when it wants to sleep",
+        "C": "when it sees other kangaroos",
+        "D": "when it wants to play"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to paragraph 4, why does the joey eventually leave the pouch?",
+      "options": {
+        "A": "it doesn't like the pouch",
+        "B": "the mother pushes it out",
+        "C": "it becomes too big",
+        "D": "it wants to find food"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "At what age does the joey no longer fit in the pouch?",
+      "options": {
+        "A": "about 5 months",
+        "B": "about 10 months",
+        "C": "about 15 months",
+        "D": "about 20 months"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to the passage, what does the joey drink inside the pouch?",
+      "options": {
+        "A": "water",
+        "B": "juice",
+        "C": "milk",
+        "D": "tea"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the main idea of this passage?",
+      "options": {
+        "A": "Kangaroos are the fastest animals in Australia.",
+        "B": "How kangaroo mothers carry and protect their babies.",
+        "C": "Why kangaroos are endangered animals.",
+        "D": "The different types of kangaroos in Australia."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
