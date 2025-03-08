@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Throughout history, social movements have emerged as powerful catalysts for societal transformation, particularly in their capacity to influence public policy. These collective efforts, often initiated by marginalized groups seeking redress for systemic inequities, have repeatedly demonstrated their ability to reshape legislative priorities and institutional frameworks. What begins as grassroots activism frequently evolves into sophisticated campaigns capable of altering the trajectory of governance at local, national, and international levels.<br><br>(2) The pathway through which social movements impact policy typically follows a recognizable pattern, though variations exist depending on political contexts. Initially, movements articulate grievances and frame them within broader social justice narratives to gain public attention. As momentum builds, they employ diverse tactics ranging from peaceful demonstrations and civil disobedience to strategic litigation and electoral engagement. The media plays a crucial role in this phase, either amplifying or diminishing movement messages depending on coverage patterns. Eventually, sustained pressure forces political actors to acknowledge movement demands, leading to formal policy deliberations where movement representatives may secure direct participation or exert influence through proxies.<br><br>(3) The effectiveness of social movements in achieving policy reforms depends on multiple factors. Movements that present coherent, achievable objectives typically gain traction more readily than those with diffuse or radical agendas. Timing also proves critical—movements that emerge during periods of existing institutional instability or align with shifting public sentiment often achieve disproportionate impact. Additionally, coalition-building across demographic and ideological lines generally strengthens policy influence, as does the development of counter-expertise that challenges establishment narratives with credible alternative frameworks. Perhaps most fundamentally, movements must maintain sufficient longevity to navigate the inherently incremental nature of policy development.<br><br>(4) The historical record reveals varying degrees of policy impact across different movement categories. Environmental movements have successfully advocated for regulatory frameworks governing pollution, resource management, and more recently, climate change mitigation. Civil rights movements have secured landmark legislation prohibiting discrimination and establishing protected status for vulnerable populations. Labor movements have institutionalized workplace protections and collective bargaining rights, while feminist movements have achieved reforms in family law, reproductive rights, and gender-based violence prevention. More recently, movements focused on economic inequality, indigenous rights, and digital privacy have begun influencing policy agendas across multiple jurisdictions.<br><br>(5) Despite their demonstrable influence, social movements face significant challenges in translating activism into lasting policy change. Powerful interests often mobilize counter-movements to preserve the status quo, while institutions themselves possess inherent resistance to structural reforms. Moreover, policy victories frequently face implementation barriers or incremental dilution through administrative processes. Consequently, successful movements typically maintain vigilance long after formal policy adoption, shifting focus toward monitoring compliance, defending against retrenchment, and pursuing further reforms. This dynamic relationship between social movements and public policy represents an essential mechanism through which democratic societies evolve, balancing institutional stability with necessary adaptation to changing social conditions and emerging conceptions of justice.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Had the government _____ more stringent environmental regulations, the ecological disaster might have been prevented.",
+      "options": {
+        "A": "implemented",
+        "B": "would implement",
+        "C": "implements",
+        "D": "implementing"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Neither the CEO nor the board members _____ willing to address the ethical concerns raised by shareholders.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "was",
+        "D": "were"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "The research paper, along with its accompanying datasets, _____ to be submitted by the end of the month.",
+      "options": {
+        "A": "need",
+        "B": "needs",
+        "C": "are needed",
+        "D": "is needing"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Not until she had thoroughly reviewed the contract _____ to sign the agreement.",
+      "options": {
+        "A": "she agreed",
+        "B": "agreed she",
+        "C": "did she agree",
+        "D": "she did agree"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "_____ the importance of biodiversity conservation, the committee proposed several protective measures.",
+      "options": {
+        "A": "Recognizing",
+        "B": "Having recognized",
+        "C": "To recognize",
+        "D": "Recognized"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "The archaeological findings _____ next month are expected to revolutionize our understanding of ancient civilizations.",
+      "options": {
+        "A": "being published",
+        "B": "to be published",
+        "C": "publishing",
+        "D": "published"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "By the time the emergency response team arrives, the fire _____ for more than three hours.",
+      "options": {
+        "A": "will have been burning",
+        "B": "will be burning",
+        "C": "is burning",
+        "D": "has burned"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "_____ we had anticipated the market volatility, we would have diversified our investment portfolio.",
+      "options": {
+        "A": "Unless",
+        "B": "If only",
+        "C": "Although",
+        "D": "Even if"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "The professor insisted that each student _____ their research findings with empirical evidence.",
+      "options": {
+        "A": "supports",
+        "B": "supporting",
+        "C": "support",
+        "D": "to support"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Seldom _____ such an innovative approach to solving urban housing challenges.",
+      "options": {
+        "A": "I have encountered",
+        "B": "have I encountered",
+        "C": "I encountered",
+        "D": "encountered I"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "The manuscript, _____ was discovered in the monastery archives, contains previously unknown historical information.",
+      "options": {
+        "A": "which",
+        "B": "it",
+        "C": "that it",
+        "D": "what"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "_____ completing his doctoral dissertation, he plans to publish several articles based on his research.",
+      "options": {
+        "A": "While",
+        "B": "During",
+        "C": "After",
+        "D": "Since"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "The exhibition features artwork _____ by indigenous artists from across the continent.",
+      "options": {
+        "A": "creating",
+        "B": "created",
+        "C": "having created",
+        "D": "to create"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "The data collected from the experiment _____ conclusive evidence for the researcher's hypothesis.",
+      "options": {
+        "A": "provides",
+        "B": "provide",
+        "C": "is providing",
+        "D": "has provided"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "The impact of climate change on biodiversity is far more severe than _____ initially predicted by scientists.",
+      "options": {
+        "A": "that",
+        "B": "it was",
+        "C": "what was",
+        "D": "which was"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "The implementation of the new policy has _____ significant improvements in public service delivery.",
+      "options": {
+        "A": "brought in",
+        "B": "resulted in",
+        "C": "led to",
+        "D": "given rise to"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "The diplomatic negotiations reached a _____ after both parties refused to compromise on key issues.",
+      "options": {
+        "A": "deadlock",
+        "B": "standstill",
+        "C": "stalemate",
+        "D": "impasse"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "His contribution to the project has been _____ recognition by industry experts worldwide.",
+      "options": {
+        "A": "given",
+        "B": "awarded",
+        "C": "accorded",
+        "D": "granted"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "The company's decision to diversify its product range _____ from extensive market research and consumer feedback.",
+      "options": {
+        "A": "stemmed",
+        "B": "originated",
+        "C": "derived",
+        "D": "emerged"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "The government has pledged to _____ action against businesses that violate environmental regulations.",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "take",
+        "D": "put"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "The research findings _____ light on previously misunderstood aspects of cognitive development in early childhood.",
+      "options": {
+        "A": "throw",
+        "B": "cast",
+        "C": "shed",
+        "D": "bring"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "The committee has decided to _____ the proposal until more comprehensive data becomes available.",
+      "options": {
+        "A": "put off",
+        "B": "hold over",
+        "C": "call off",
+        "D": "set aside"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Despite facing numerous challenges, the team managed to _____ the project deadline by working additional hours.",
+      "options": {
+        "A": "fulfill",
+        "B": "achieve",
+        "C": "reach",
+        "D": "meet"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "The organization aims to _____ awareness about sustainable development practices among corporate leaders.",
+      "options": {
+        "A": "heighten",
+        "B": "raise",
+        "C": "lift",
+        "D": "elevate"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "The historical analysis _____ parallels between current sociopolitical dynamics and those of previous centuries.",
+      "options": {
+        "A": "creates",
+        "B": "establishes",
+        "C": "forms",
+        "D": "draws"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "The professor's _____ attitude toward his students' questions made them reluctant to participate in class discussions.",
+      "options": {
+        "A": "arrogant",
+        "B": "haughty",
+        "C": "supercilious",
+        "D": "contemptuous"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "The humanitarian organization warned of _____ consequences if international aid did not reach the drought-stricken region soon.",
+      "options": {
+        "A": "severe",
+        "B": "dire",
+        "C": "catastrophic",
+        "D": "grave"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "The company was found liable for damages due to its _____ maintenance of safety equipment, which directly contributed to the accident.",
+      "options": {
+        "A": "careless",
+        "B": "inadequate",
+        "C": "negligent",
+        "D": "deficient"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "The technological innovation offers _____ benefits across various sectors, from healthcare to transportation and communication.",
+      "options": {
+        "A": "numerous",
+        "B": "diverse",
+        "C": "multiple",
+        "D": "manifold"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "The nation's cultural and economic _____ in the region has been established through decades of strategic diplomacy and trade agreements.",
+      "options": {
+        "A": "dominance",
+        "B": "supremacy",
+        "C": "hegemony",
+        "D": "authority"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Rapid industrialization and its _____ environmental impacts have prompted calls for more sustainable development practices.",
+      "options": {
+        "A": "associated",
+        "B": "related",
+        "C": "concomitant",
+        "D": "consequent"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "The _____ artist traveled from city to city, displaying his work at various galleries and cultural festivals.",
+      "options": {
+        "A": "nomadic",
+        "B": "wandering",
+        "C": "itinerant",
+        "D": "roving"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Despite economic challenges, the company remained _____ through strategic cost-cutting measures and diversification of revenue streams.",
+      "options": {
+        "A": "profitable",
+        "B": "viable",
+        "C": "solvent",
+        "D": "sustainable"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "The politician delivered a lengthy _____ against his opponents, criticizing their policies with increasingly aggressive rhetoric.",
+      "options": {
+        "A": "speech",
+        "B": "tirade",
+        "C": "harangue",
+        "D": "lecture"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "The traditional herbal remedy proved surprisingly _____ in treating common respiratory infections, according to recent clinical studies.",
+      "options": {
+        "A": "effective",
+        "B": "beneficial",
+        "C": "potent",
+        "D": "efficacious"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "The commencement speaker's eloquent _____ brought tears to the eyes of many graduating students and their families.",
+      "options": {
+        "A": "farewell",
+        "B": "address",
+        "C": "valediction",
+        "D": "oration"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Several countries have enacted legislation to _____ the use of certain chemicals known to cause environmental degradation.",
+      "options": {
+        "A": "forbid",
+        "B": "prohibit",
+        "C": "ban",
+        "D": "proscribe"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "The regulations _____ the authority of local officials, preventing them from making decisions beyond their designated jurisdiction.",
+      "options": {
+        "A": "limit",
+        "B": "restrict",
+        "C": "circumscribe",
+        "D": "confine"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "The manager's _____ disregard for employee concerns led to widespread dissatisfaction and eventually a formal complaint to human resources.",
+      "options": {
+        "A": "insensitive",
+        "B": "indifferent",
+        "C": "callous",
+        "D": "heartless"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "After the storm, the region experienced a _____ of support from neighboring communities offering supplies and volunteer assistance.",
+      "options": {
+        "A": "flood",
+        "B": "surge",
+        "C": "influx",
+        "D": "deluge"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, what typically happens during the initial phase of a social movement's development?",
+      "options": {
+        "A": "Movement representatives secure direct participation in policy deliberations",
+        "B": "Political actors formally acknowledge movement demands",
+        "C": "Movements articulate grievances within broader social justice narratives",
+        "D": "Sustained pressure results in concrete policy reforms"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following factors does the author identify as strengthening a social movement's policy influence?",
+      "options": {
+        "A": "Presenting radical and transformative agendas",
+        "B": "Building coalitions across demographic and ideological lines",
+        "C": "Focusing exclusively on short-term victories",
+        "D": "Accepting institutional narratives without challenge"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "The passage suggests that successful social movements typically do which of the following after achieving formal policy adoption?",
+      "options": {
+        "A": "Disband their organizational structures",
+        "B": "Shift focus toward monitoring compliance and defending against retrenchment",
+        "C": "Immediately begin pursuing more radical objectives",
+        "D": "Merge with institutional power structures"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Which of the following best describes the author's view of the relationship between social movements and public policy?",
+      "options": {
+        "A": "Social movements rarely achieve meaningful policy impact due to institutional resistance",
+        "B": "Social movements represent an essential mechanism through which democratic societies evolve",
+        "C": "Social movements are most effective when they avoid challenging established power structures",
+        "D": "Social movements should focus exclusively on incremental reforms rather than structural changes"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to the passage, which factor is particularly important for the timing of social movements?",
+      "options": {
+        "A": "Alignment with periods of institutional instability or shifting public sentiment",
+        "B": "Coordination with electoral cycles",
+        "C": "Synchronization with international diplomatic events",
+        "D": "Avoidance of periods with competing social movements"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "The author mentions all of the following as challenges to translating activism into lasting policy change EXCEPT:",
+      "options": {
+        "A": "Powerful interests mobilizing counter-movements",
+        "B": "Implementation barriers for policy victories",
+        "C": "Inherent institutional resistance to structural reforms",
+        "D": "Excessive media coverage diluting movement messages"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Based on the passage, which category of social movement has focused on issues of discrimination and protected status for vulnerable populations?",
+      "options": {
+        "A": "Environmental movements",
+        "B": "Labor movements",
+        "C": "Civil rights movements",
+        "D": "Feminist movements"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The passage characterizes the development of social movements as:",
+      "options": {
+        "A": "Typically starting with elite-driven initiatives that later gain mass support",
+        "B": "Often beginning with grassroots activism that evolves into sophisticated campaigns",
+        "C": "Usually emerging from government institutions seeking public legitimacy",
+        "D": "Primarily driven by international organizations rather than local concerns"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What role does the passage attribute to the media in social movements?",
+      "options": {
+        "A": "Consistently amplifying movement messages regardless of content",
+        "B": "Serving primarily as a barrier to movement success",
+        "C": "Either amplifying or diminishing movement messages depending on coverage patterns",
+        "D": "Having minimal impact on movement outcomes compared to other factors"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "Which of the following best describes the tactics employed by social movements according to the passage?",
+      "options": {
+        "A": "Exclusively peaceful demonstrations and awareness campaigns",
+        "B": "Primarily electoral engagement and institutional reform",
+        "C": "A diverse range including demonstrations, civil disobedience, litigation, and electoral engagement",
+        "D": "Mainly strategic litigation and formal policy lobbying"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
