@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The convergence of neuroscience and computer technology has precipitated unprecedented advancements in brain-computer interfaces (BCIs), systems that establish direct communication pathways between the brain and external devices. While these innovations promise revolutionary applications in medicine, communication, and human enhancement, they simultaneously engender profound ethical quandaries that warrant meticulous examination. The capacity to access, interpret, and potentially manipulate neural processes raises fundamental questions about cognitive liberty, mental privacy, and the sanctity of human consciousness—considerations that transcend conventional bioethical frameworks and necessitate novel paradigms for ethical analysis.<br><br>(2) The psychological implications of BCIs extend beyond mere technological considerations, penetrating the essence of human identity and autonomy. As individuals integrate these technologies into their cognitive processes, they may experience alterations in their perception of self, agency, and authenticity. The question arises: does a thought mediated through a neural implant retain the same ontological status as one generated through unaugmented cognition? Moreover, the potential for dependency on these technologies introduces vulnerabilities related to psychological resilience, cognitive integrity, and emotional well-being. Users might confront existential uncertainties regarding the boundaries between their natural cognitive capabilities and technologically enhanced functions.<br><br>(3) From a moral perspective, the equitable distribution of BCI technologies presents formidable challenges. As with many cutting-edge innovations, there exists a substantive risk that access will be disproportionately allocated to privileged socioeconomic demographics, potentially exacerbating existing social disparities and creating unprecedented forms of cognitive inequality. Furthermore, the commercial development of these technologies raises concerns about the commodification of human cognition and the subordination of neurological processes to market forces. The prospect of cognitive enhancement through BCIs may inadvertently establish new hierarchies based on neural capabilities, undermining principles of inherent human dignity and worth.<br><br>(4) The regulatory landscape for BCIs remains largely inchoate, characterized by fragmented approaches across jurisdictions and disciplines. This regulatory ambiguity complicates efforts to establish comprehensive ethical standards for research, development, and implementation. Questions of informed consent become particularly intricate when technologies directly interface with neural structures that govern decision-making capacities. Additionally, the potential for surveillance, coercion, or manipulation through BCIs necessitates robust safeguards against misuse—safeguards that must be predicated on a nuanced understanding of both neuroscience and ethical theory.<br><br>(5) Navigating these complexities requires a multidisciplinary approach that integrates insights from neuroscience, psychology, philosophy, law, and sociology. The development of ethical frameworks for BCIs must be iterative and responsive, evolving in tandem with technological advancements and emerging empirical evidence regarding their psychological effects. Central to this endeavor is maintaining a balance between fostering innovation and protecting fundamental human values—a balance that can only be achieved through sustained dialogue among researchers, clinicians, ethicists, policymakers, and potential users. Ultimately, the ethical implementation of BCIs depends not merely on technological feasibility but on our collective capacity to honor the profound relationship between cognition, identity, and human flourishing.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Only after completing the experiment __________ the significance of their findings.",
+      "options": {
+        "A": "the scientists realized",
+        "B": "did the scientists realize",
+        "C": "the scientists did realize",
+        "D": "realized the scientists"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "The professor informed us that the deadline __________ to the following week.",
+      "options": {
+        "A": "has been extended",
+        "B": "is extended",
+        "C": "had been extended",
+        "D": "was extending"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "__________ of the agreement resulted in severe financial penalties.",
+      "options": {
+        "A": "They breached",
+        "B": "The breaching",
+        "C": "That they breached",
+        "D": "Breach"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "The Nobel laureate, __________ groundbreaking research transformed quantum physics, delivered an inspiring lecture yesterday.",
+      "options": {
+        "A": "whom",
+        "B": "which",
+        "C": "whose",
+        "D": "that"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Many homeless people have been sleeping in __________ since the shelter closed.",
+      "options": {
+        "A": "the street",
+        "B": "a street",
+        "C": "streets",
+        "D": "street"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "__________ the opportunity arise, I would gladly relocate to Japan.",
+      "options": {
+        "A": "Would",
+        "B": "If",
+        "C": "Should",
+        "D": "Unless"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "__________ that the economic recovery will be slower than initially projected.",
+      "options": {
+        "A": "Economists are suggesting",
+        "B": "It is suggested by economists",
+        "C": "The suggestion of economists is",
+        "D": "It would seem"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "__________ concerns us most is the lack of transparency in the decision-making process.",
+      "options": {
+        "A": "That",
+        "B": "What",
+        "C": "Which",
+        "D": "This"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "The article discussed the implementation of __________ regulations in the financial sector.",
+      "options": {
+        "A": "far reaching",
+        "B": "far-reach",
+        "C": "far-reaching",
+        "D": "far reached"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "__________ research has been conducted on this rare medical condition.",
+      "options": {
+        "A": "Little",
+        "B": "A little",
+        "C": "Few",
+        "D": "A few"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "If the government __________ stricter environmental policies years ago, we __________ with such severe climate issues now.",
+      "options": {
+        "A": "implemented / wouldn't be dealing",
+        "B": "had implemented / wouldn't be dealing",
+        "C": "would implement / hadn't dealt",
+        "D": "would have implemented / weren't dealing"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "The painting __________ in the corner was recently authenticated as a genuine Rembrandt.",
+      "options": {
+        "A": "hanging",
+        "B": "hanged",
+        "C": "that hangs",
+        "D": "which it hangs"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "__________ I practice my presentation, __________ confident I become.",
+      "options": {
+        "A": "The more / the most",
+        "B": "More / more",
+        "C": "The more / the more",
+        "D": "More / the more"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "By the time the conference begins next month, I __________ my research for over two years.",
+      "options": {
+        "A": "will conduct",
+        "B": "will have conducted",
+        "C": "will have been conducting",
+        "D": "will be conducting"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "__________, we cannot ignore the significant ethical implications of this technology.",
+      "options": {
+        "A": "As it may be",
+        "B": "Be it as it may",
+        "C": "May it be",
+        "D": "Be that as it may"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "The exhibition succeeded in __________ the complex relationship between art and politics.",
+      "options": {
+        "A": "throwing light on",
+        "B": "coming to light",
+        "C": "bringing to light",
+        "D": "shedding light on"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Her argument, though compelling on the surface, doesn't really __________ scrutiny.",
+      "options": {
+        "A": "hold up to",
+        "B": "stand for",
+        "C": "keep under",
+        "D": "bear with"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "The government's new policy has __________ criticism from various stakeholders.",
+      "options": {
+        "A": "come under",
+        "B": "fallen into",
+        "C": "gone through",
+        "D": "moved beyond"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "After months of negotiation, the two parties finally __________ an agreement that satisfied both sides.",
+      "options": {
+        "A": "came around to",
+        "B": "arrived at",
+        "C": "went into",
+        "D": "pushed through"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "The professor's lecture __________ ancient philosophical traditions with contemporary ethical dilemmas.",
+      "options": {
+        "A": "joined together",
+        "B": "brought along",
+        "C": "pulled apart",
+        "D": "drew parallels between"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "The CEO's refusal to acknowledge the company's mistakes has __________ his reputation considerably.",
+      "options": {
+        "A": "taken down",
+        "B": "damaged",
+        "C": "undermined",
+        "D": "decreased"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "The research findings __________ the widely held belief that personality traits remain stable throughout adulthood.",
+      "options": {
+        "A": "call into question",
+        "B": "bring up",
+        "C": "put forward",
+        "D": "take after"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Despite facing numerous obstacles, the team __________ with their original plan and achieved remarkable results.",
+      "options": {
+        "A": "went ahead",
+        "B": "moved along",
+        "C": "pressed on",
+        "D": "carried forward"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "The novel's protagonist gradually __________ the truth about her family's mysterious past.",
+      "options": {
+        "A": "comes across",
+        "B": "breaks into",
+        "C": "takes up",
+        "D": "pieces together"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "The documentary __________ light on previously unknown aspects of the historical event.",
+      "options": {
+        "A": "throws",
+        "B": "sheds",
+        "C": "casts",
+        "D": "brings"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Despite the importance of her research, the scientist maintained a __________ approach to her daily work, focusing on methodical routines and consistent practices.",
+      "options": {
+        "A": "mundane",
+        "B": "quotidian",
+        "C": "sporadic",
+        "D": "perpetual"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "The publisher's decision to __________ the classic novel by removing all controversial language and scenes has been heavily criticized by literary scholars.",
+      "options": {
+        "A": "censor",
+        "B": "abridge",
+        "C": "bowdlerize",
+        "D": "sanitize"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Many believe that his imprisonment was a __________ punishment for the severity of his crimes against humanity.",
+      "options": {
+        "A": "lenient",
+        "B": "condign",
+        "C": "excessive",
+        "D": "nominal"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "The laws of physics are considered __________, regardless of time, place, or circumstance.",
+      "options": {
+        "A": "immutable",
+        "B": "flexible",
+        "C": "transient",
+        "D": "provisional"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "The __________ shopkeeper, with his deeply lined face and hunched posture, had been running the neighborhood store for over fifty years.",
+      "options": {
+        "A": "robust",
+        "B": "wizened",
+        "C": "corpulent",
+        "D": "vigorous"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "The film adaptation was such a __________ of the original novel that even the author disavowed any connection to it.",
+      "options": {
+        "A": "homage",
+        "B": "rendition",
+        "C": "travesty",
+        "D": "tribute"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "The host's natural __________ made even the most anxious guests feel welcome and at ease during the elaborate dinner party.",
+      "options": {
+        "A": "reticence",
+        "B": "bonhomie",
+        "C": "diffidence",
+        "D": "formality"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Critics argue that the politician is a dangerous __________ who manipulates public fears rather than addressing complex issues with rational solutions.",
+      "options": {
+        "A": "diplomat",
+        "B": "statesman",
+        "C": "bureaucrat",
+        "D": "demagogue"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Without regular reform and innovation, even the most dynamic organizations tend to __________ over time, becoming rigid and resistant to change.",
+      "options": {
+        "A": "liquefy",
+        "B": "fluctuate",
+        "C": "ossify",
+        "D": "rejuvenate"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "The scholar spent her career in the __________ intellectual atmosphere of elite academic institutions, exploring theoretical concepts far removed from everyday concerns.",
+      "options": {
+        "A": "mundane",
+        "B": "pragmatic",
+        "C": "accessible",
+        "D": "rarefied"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "The suspect cast a __________ glance over his shoulder before slipping the stolen documents into his coat pocket.",
+      "options": {
+        "A": "brazen",
+        "B": "candid",
+        "C": "furtive",
+        "D": "nonchalant"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "After years of __________ across five continents, the travel writer finally settled in a small coastal village to document her experiences.",
+      "options": {
+        "A": "hibernation",
+        "B": "peregrination",
+        "C": "stagnation",
+        "D": "procrastination"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "The hypnotic music caused the dancers' bodies to __________ in perfect synchrony with the rhythm.",
+      "options": {
+        "A": "oscillate",
+        "B": "gyrate",
+        "C": "pulsate",
+        "D": "undulate"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "The charismatic storyteller would __________ his audience with tales of his extraordinary adventures in the Amazon rainforest.",
+      "options": {
+        "A": "bore",
+        "B": "regale",
+        "C": "admonish",
+        "D": "dissuade"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "The composer's final symphony served as a __________ for an era of classical music that was rapidly giving way to more experimental forms.",
+      "options": {
+        "A": "celebration",
+        "B": "revival",
+        "C": "dirge",
+        "D": "overture"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, brain-computer interfaces:",
+      "options": {
+        "A": "Have been fully integrated into existing bioethical frameworks",
+        "B": "Present ethical questions that require new approaches to analysis",
+        "C": "Are primarily limited to applications in the medical field",
+        "D": "Have been developed without consideration of ethical implications"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "The author suggests in paragraph 2 that the use of BCIs may lead to:",
+      "options": {
+        "A": "Enhanced emotional resilience in all users",
+        "B": "Confusion about the boundaries of natural and enhanced cognition",
+        "C": "Complete replacement of natural cognitive processes",
+        "D": "Immediate recognition of altered self-perception"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "The phrase \"commodification of human cognition\" in paragraph 3 refers to:",
+      "options": {
+        "A": "Making cognitive enhancement affordable for everyone",
+        "B": "Creating standardized cognitive abilities across populations",
+        "C": "Treating human thinking processes as products that can be bought and sold",
+        "D": "Developing more efficient cognitive training programs"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Which of the following best describes the current regulatory environment for BCIs according to paragraph 4?",
+      "options": {
+        "A": "Comprehensive and consistent across all jurisdictions",
+        "B": "Underdeveloped and inconsistent across different regions",
+        "C": "Primarily focused on research applications only",
+        "D": "Overly restrictive of technological innovation"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "The word \"inchoate\" in paragraph 4 most nearly means:",
+      "options": {
+        "A": "Rigorous",
+        "B": "Transparent",
+        "C": "Undeveloped",
+        "D": "Comprehensive"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to paragraph 5, the development of ethical frameworks for BCIs should be:",
+      "options": {
+        "A": "Primarily driven by technological considerations",
+        "B": "Responsive and evolving alongside technological advancements",
+        "C": "Focused exclusively on protecting human values",
+        "D": "Determined by a single disciplinary perspective"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "The passage as a whole suggests that the successful implementation of BCIs ultimately depends on:",
+      "options": {
+        "A": "Achieving technological perfection",
+        "B": "Prohibiting certain types of neural enhancement",
+        "C": "Balancing innovation with protection of human values",
+        "D": "Limiting access to medical applications only"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "Which concern about BCIs is NOT mentioned in the passage?",
+      "options": {
+        "A": "Privacy of neural data",
+        "B": "Environmental impact of manufacturing neural implants",
+        "C": "Potential for cognitive inequality",
+        "D": "Questions about identity and authenticity"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "The author's tone in discussing the ethical challenges of BCIs can best be described as:",
+      "options": {
+        "A": "Alarmist and condemning",
+        "B": "Enthusiastic and promotional",
+        "C": "Analytical and measured",
+        "D": "Dismissive and skeptical"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "The primary purpose of this passage is to:",
+      "options": {
+        "A": "Promote wider adoption of brain-computer interfaces",
+        "B": "Explain the technical functionality of neural implants",
+        "C": "Advocate for stricter regulation of brain enhancement technologies",
+        "D": "Examine the ethical complexities associated with brain-computer interfaces"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    }
+  ]
+}
