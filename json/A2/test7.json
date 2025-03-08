@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) On a farm, there are many different animals that live and work together. Cows are large animals that give us milk. Farmers milk the cows twice a day, in the morning and in the evening. Chickens are smaller birds that give us eggs. They live in a special house called a chicken coop, where they lay eggs almost every day. Pigs live in a pen and eat almost anything, including leftover food.<br><br>(2) Sheep are animals with thick, woolly coats. Farmers cut the wool from sheep once a year in the spring, and this wool is used to make clothes. Horses are strong animals that help farmers with heavy work. In the past, horses pulled plows to prepare fields for planting. Today, many farms use tractors instead, but some farmers still keep horses for riding or for fun.<br><br>(3) Dogs and cats also live on farms. Farm dogs help to protect the farm and sometimes help to move animals from one place to another. Cats catch mice and rats that might eat the grain that is stored on the farm. Ducks and geese are birds that swim in farm ponds. They give eggs and meat, and some people also keep them as pets.<br><br>(4) Farm animals need good care. Farmers feed them every day and make sure they have clean water to drink. They clean the places where the animals live and check that the animals are healthy. When the weather is very cold or hot, farmers make sure the animals have shelter. Working with farm animals is hard work, but many farmers say they enjoy taking care of their animals.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct form of the verb. She ____ breakfast every morning.",
+      "options": {
+        "A": "have",
+        "B": "having",
+        "C": "has",
+        "D": "had"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "They doesn't like coffee.",
+        "B": "They don't likes coffee.",
+        "C": "They don't like coffee.",
+        "D": "They not like coffee."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the correct past tense form. Last weekend, I ____ to the beach.",
+      "options": {
+        "A": "go",
+        "B": "goes",
+        "C": "going",
+        "D": "went"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct preposition. The book is ____ the table.",
+      "options": {
+        "A": "on",
+        "B": "in",
+        "C": "at",
+        "D": "by"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Which is the correct plural form?",
+      "options": {
+        "A": "womans",
+        "B": "womens",
+        "C": "women",
+        "D": "womanies"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the correct comparative form. This exercise is ____ than the last one.",
+      "options": {
+        "A": "easy",
+        "B": "more easy",
+        "C": "easier",
+        "D": "easiest"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct form. ____ any milk in the fridge?",
+      "options": {
+        "A": "Is there",
+        "B": "Are there",
+        "C": "Have there",
+        "D": "Does there"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Which question form is correct?",
+      "options": {
+        "A": "What time you wake up?",
+        "B": "What time do you wake up?",
+        "C": "What time does you wake up?",
+        "D": "What time are you wake up?"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Select the correct future form. I ____ my friend tomorrow.",
+      "options": {
+        "A": "visit",
+        "B": "visiting",
+        "C": "am going to visit",
+        "D": "visited"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct article. Please give me ____ apple.",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article needed"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Which sentence uses the past continuous correctly?",
+      "options": {
+        "A": "I was cook dinner when the phone rang.",
+        "B": "I were cooking dinner when the phone rang.",
+        "C": "I cooking dinner when the phone rang.",
+        "D": "I was cooking dinner when the phone rang."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the correct possessive form.",
+      "options": {
+        "A": "That's Johns book.",
+        "B": "That's John's book.",
+        "C": "That's Johns' book.",
+        "D": "That's John book."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct modal verb. You ____ smoke in this building.",
+      "options": {
+        "A": "don't have to",
+        "B": "shouldn't",
+        "C": "mustn't",
+        "D": "might not"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence uses adverbs correctly?",
+      "options": {
+        "A": "She speaks English good.",
+        "B": "She speaks English well.",
+        "C": "She speaks English goodly.",
+        "D": "She speaks English more good."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the correct form. If it ____ tomorrow, we'll go to the beach.",
+      "options": {
+        "A": "rains",
+        "B": "will rain",
+        "C": "rain",
+        "D": "is raining"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct phrase. Can you please ____ the lights when you leave?",
+      "options": {
+        "A": "turn on",
+        "B": "turn off",
+        "C": "turn over",
+        "D": "turn down"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Which phrase completes the sentence correctly? I need to ____ at the bank.",
+      "options": {
+        "A": "get money",
+        "B": "make money",
+        "C": "take money",
+        "D": "find money"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the correct collocation. She likes to ____ time with her family.",
+      "options": {
+        "A": "spend",
+        "B": "make",
+        "C": "do",
+        "D": "have"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Which word correctly completes the phrase? I usually ____ a shower in the morning.",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "have",
+        "D": "take"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct response to 'Thank you.'",
+      "options": {
+        "A": "Thank you too.",
+        "B": "You're welcome.",
+        "C": "Not at all.",
+        "D": "Both B and C are correct."
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the correct phrase. I need to ____ for tomorrow's test.",
+      "options": {
+        "A": "prepare",
+        "B": "study",
+        "C": "learn",
+        "D": "All of the above are correct."
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Which phrase is correct? She ____ her homework every evening.",
+      "options": {
+        "A": "makes",
+        "B": "does",
+        "C": "works",
+        "D": "creates"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct expression. What time does the shop ____?",
+      "options": {
+        "A": "go",
+        "B": "close",
+        "C": "finish",
+        "D": "end"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Select the correct phrasal verb. I need to ____ this form before I can apply.",
+      "options": {
+        "A": "fill out",
+        "B": "fill in",
+        "C": "fill up",
+        "D": "Both A and B are correct."
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Which is the correct expression? I'm not feeling well. I think I'm ____ a cold.",
+      "options": {
+        "A": "catching",
+        "B": "taking",
+        "C": "having",
+        "D": "getting"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Which sentence uses the word 'food' correctly?",
+      "options": {
+        "A": "I food to school every day.",
+        "B": "The food in this restaurant is delicious.",
+        "C": "She food her homework yesterday.",
+        "D": "They food very happy about the news."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "What does the word 'rock' refer to in this sentence: 'There are many rocks on the beach.'?",
+      "options": {
+        "A": "A type of music",
+        "B": "A hard, stone-like material",
+        "C": "A movement back and forth",
+        "D": "A type of dance"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Which sentence uses 'hair' correctly?",
+      "options": {
+        "A": "She has long, brown hair.",
+        "B": "I hair to the store yesterday.",
+        "C": "They hair a new car last week.",
+        "D": "We hair dinner at 7 o'clock."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "What is a 'river'?",
+      "options": {
+        "A": "A large building",
+        "B": "A type of food",
+        "C": "A natural flow of water across land",
+        "D": "A place to buy things"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Which definition best describes a 'shop'?",
+      "options": {
+        "A": "A place where people live",
+        "B": "A place where people work with tools",
+        "C": "A place where you can buy things",
+        "D": "A place where people study"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Which sentence uses the word 'seem' correctly?",
+      "options": {
+        "A": "She seem the TV last night.",
+        "B": "They seem happy with their new house.",
+        "C": "I seem my breakfast at 8 o'clock.",
+        "D": "We seem to school by bus."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "What does the word 'however' indicate?",
+      "options": {
+        "A": "Addition",
+        "B": "Contrast",
+        "C": "Result",
+        "D": "Time"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "What is a 'city'?",
+      "options": {
+        "A": "A small village with few people",
+        "B": "A large area of land with trees",
+        "C": "A large town with many people and buildings",
+        "D": "A place in the countryside"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Which sentence uses 'journey' correctly?",
+      "options": {
+        "A": "I journey some bread at the store.",
+        "B": "The journey from London to Paris takes about 2 hours by train.",
+        "C": "She journey very tall and thin.",
+        "D": "They journey dinner at a restaurant."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "What is a 'pocket'?",
+      "options": {
+        "A": "A small space in clothing for carrying things",
+        "B": "A type of fruit",
+        "C": "A small animal",
+        "D": "A special kind of shoe"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Which sentence uses 'hundred' correctly?",
+      "options": {
+        "A": "There are a hundred students in our school.",
+        "B": "I hundred my homework last night.",
+        "C": "She hundred to work every morning.",
+        "D": "They hundred very excited about the party."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "What is 'summer'?",
+      "options": {
+        "A": "A day of the week",
+        "B": "A warm season of the year",
+        "C": "A type of food",
+        "D": "A piece of furniture"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Which sentence uses 'true' correctly?",
+      "options": {
+        "A": "I true to the park yesterday.",
+        "B": "She true her hair every morning.",
+        "C": "Is this story true or false?",
+        "D": "They true dinner at 6 o'clock."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "What does 'seven' refer to?",
+      "options": {
+        "A": "A day of the week",
+        "B": "A month of the year",
+        "C": "A color",
+        "D": "A number"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Which sentence uses 'ever' correctly?",
+      "options": {
+        "A": "Have you ever been to Paris?",
+        "B": "I ever a new car last year.",
+        "C": "She ever breakfast at 7 o'clock.",
+        "D": "They ever to school by bus."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, how often do farmers milk the cows?",
+      "options": {
+        "A": "Once a day",
+        "B": "Twice a day",
+        "C": "Three times a day",
+        "D": "Every hour"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Based on paragraph 1, which animals give us eggs?",
+      "options": {
+        "A": "Cows",
+        "B": "Pigs",
+        "C": "Chickens",
+        "D": "Sheep"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 2, when do farmers cut wool from sheep?",
+      "options": {
+        "A": "Every day",
+        "B": "Every month",
+        "C": "Once a year in spring",
+        "D": "Twice a year"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Based on paragraph 2, what did horses do in the past?",
+      "options": {
+        "A": "They gave milk",
+        "B": "They pulled plows",
+        "C": "They caught mice",
+        "D": "They gave eggs"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to paragraph 3, what do farm dogs help with?",
+      "options": {
+        "A": "Giving milk",
+        "B": "Giving eggs",
+        "C": "Protecting the farm",
+        "D": "Giving wool"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "Based on paragraph 3, what do cats do on farms?",
+      "options": {
+        "A": "They help move animals",
+        "B": "They catch mice and rats",
+        "C": "They swim in ponds",
+        "D": "They give eggs"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to paragraph 4, what do farmers do for their animals every day?",
+      "options": {
+        "A": "They check if the animals are healthy",
+        "B": "They clean the places where animals live",
+        "C": "They feed them and give them water",
+        "D": "They provide shelter"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "Based on paragraph 4, when do farmers make sure animals have shelter?",
+      "options": {
+        "A": "Every day",
+        "B": "Only in winter",
+        "C": "When the weather is very cold or hot",
+        "D": "When animals are sick"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What is the main topic of this passage?",
+      "options": {
+        "A": "How to become a farmer",
+        "B": "The food that farm animals eat",
+        "C": "Farm animals and their roles on the farm",
+        "D": "The history of farming"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "According to the passage, what do many farmers say about working with animals?",
+      "options": {
+        "A": "It is always easy",
+        "B": "They enjoy taking care of their animals",
+        "C": "It is too difficult",
+        "D": "It is not important work"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
