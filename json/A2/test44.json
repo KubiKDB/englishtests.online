@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Small businesses are an important part of our economy. They provide jobs for many people and offer different services to customers in their communities. Unlike large companies, small businesses are usually owned by one person or a small group of people. These businesses can be found in almost every town and city around the world.<br><br>(2) Starting a small business can be both exciting and challenging. The owner must find a good location, buy necessary equipment, and hire workers. They also need to create a plan for how to make money. Many small business owners work long hours, especially when they first open their shops. They often have to do many different jobs themselves.<br><br>(3) There are many types of small businesses. Some sell food, like bakeries and restaurants. Others provide services, such as hair salons and repair shops. Some small businesses sell handmade products or specialty items that cannot be found in big stores. Today, many small businesses also sell their products online to reach more customers.<br><br>(4) Small businesses face many challenges. They must compete with large companies that can often sell products at lower prices. They also need to find ways to attract customers and keep them coming back. However, small businesses have advantages too. They can offer personal service and build strong relationships with their customers. Many people prefer to support local small businesses because they feel connected to their community.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which verb form correctly completes the sentence? 'She _____ to the store yesterday.'",
+      "options": {
+        "A": "go",
+        "B": "went",
+        "C": "goes",
+        "D": "going"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct article: 'She has _____ umbrella.'",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article needed"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the correct preposition: 'The book is _____ the table.'",
+      "options": {
+        "A": "in",
+        "B": "at",
+        "C": "on",
+        "D": "with"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which is the correct plural form of 'child'?",
+      "options": {
+        "A": "childs",
+        "B": "childen",
+        "C": "childrens",
+        "D": "children"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct form: 'They _____ TV when I called.'",
+      "options": {
+        "A": "watch",
+        "B": "watching",
+        "C": "were watching",
+        "D": "are watching"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the correct possessive form: 'This is _____ car.'",
+      "options": {
+        "A": "they",
+        "B": "them",
+        "C": "their",
+        "D": "theirs"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which is the correct comparative form? 'This book is _____ than that one.'",
+      "options": {
+        "A": "more interesting",
+        "B": "interestinger",
+        "C": "most interesting",
+        "D": "the interesting"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct modal verb: 'You _____ brush your teeth twice a day.'",
+      "options": {
+        "A": "must",
+        "B": "could",
+        "C": "might",
+        "D": "would"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Select the correct verb form: 'I _____ here since Monday.'",
+      "options": {
+        "A": "am",
+        "B": "was",
+        "C": "have been",
+        "D": "will be"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "She don't like coffee.",
+        "B": "She doesn't likes coffee.",
+        "C": "She doesn't like coffee.",
+        "D": "She not like coffee."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct question form: '_____ you like some tea?'",
+      "options": {
+        "A": "Do",
+        "B": "Are",
+        "C": "Would",
+        "D": "Can"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the correct conjunction: 'I want to go out, _____ it's raining.'",
+      "options": {
+        "A": "so",
+        "B": "but",
+        "C": "or",
+        "D": "because"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Which is the correct past participle of 'eat'?",
+      "options": {
+        "A": "ate",
+        "B": "eaten",
+        "C": "eated",
+        "D": "eating"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct sentence with future meaning:",
+      "options": {
+        "A": "I will going to the store tomorrow.",
+        "B": "I going to the store tomorrow.",
+        "C": "I am going to the store tomorrow.",
+        "D": "I go to the store tomorrow."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the correct negative form: 'She _____ to the party last night.'",
+      "options": {
+        "A": "didn't went",
+        "B": "didn't go",
+        "C": "don't go",
+        "D": "not went"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Complete the sentence: 'Can you _____ the window, please? It's cold.'",
+      "options": {
+        "A": "open",
+        "B": "close",
+        "C": "break",
+        "D": "wash"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct expression: 'I need to _____ a shower before work.'",
+      "options": {
+        "A": "do",
+        "B": "make",
+        "C": "take",
+        "D": "get"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the appropriate response: 'How are you?' '_____.'"",
+      "options": {
+        "A": "I'm 25 years old.",
+        "B": "I'm from Spain.",
+        "C": "I'm fine, thanks.",
+        "D": "I'm a teacher."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Complete the sentence: 'What time _____ the movie start?'",
+      "options": {
+        "A": "do",
+        "B": "does",
+        "C": "is",
+        "D": "are"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the best option: 'She speaks English _____.'",
+      "options": {
+        "A": "good",
+        "B": "well",
+        "C": "goodly",
+        "D": "nice"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the appropriate expression: 'Can I _____ your pen, please?'",
+      "options": {
+        "A": "lend",
+        "B": "give",
+        "C": "borrow",
+        "D": "take"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Complete the sentence: 'There aren't _____ people at the party.'",
+      "options": {
+        "A": "much",
+        "B": "many",
+        "C": "a lot",
+        "D": "little"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct phrase: 'I'm really _____ forward to the weekend.'",
+      "options": {
+        "A": "looking",
+        "B": "waiting",
+        "C": "seeing",
+        "D": "watching"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Select the appropriate word: 'I need to _____ some groceries for dinner.'",
+      "options": {
+        "A": "do",
+        "B": "make",
+        "C": "buy",
+        "D": "sell"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Complete the sentence: 'What's the _____ like today?'",
+      "options": {
+        "A": "weather",
+        "B": "day",
+        "C": "sky",
+        "D": "temperature"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What is the closest meaning of 'dinner'?",
+      "options": {
+        "A": "a morning meal",
+        "B": "a midday meal",
+        "C": "an evening meal",
+        "D": "a snack"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Which word is most similar to 'great'?",
+      "options": {
+        "A": "excellent",
+        "B": "small",
+        "C": "bad",
+        "D": "average"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Choose the sentence that uses 'rule' correctly:",
+      "options": {
+        "A": "The rule is very tall.",
+        "B": "Students must follow the school rules.",
+        "C": "I rule my sandwich for lunch.",
+        "D": "The rule is very cold today."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which sentence uses 'machine' correctly?",
+      "options": {
+        "A": "I machine to the store yesterday.",
+        "B": "The coffee machine makes delicious coffee.",
+        "C": "She machine her homework well.",
+        "D": "The weather is machine today."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "What is the meaning of 'copy'?",
+      "options": {
+        "A": "to make something exactly the same",
+        "B": "to throw something away",
+        "C": "to eat something quickly",
+        "D": "to speak loudly"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Choose the sentence where 'quite' is used correctly:",
+      "options": {
+        "A": "She is quite to school every day.",
+        "B": "The movie was quite interesting.",
+        "C": "I quite my keys on the table.",
+        "D": "They quite dinner at 7 PM."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Which sentence uses 'throw' correctly?",
+      "options": {
+        "A": "She will throw a party for her birthday.",
+        "B": "I throw my coffee every morning.",
+        "C": "They throw to school by bus.",
+        "D": "He throw very tall and strong."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "What does 'care' mean in this sentence? 'I care about my family.'",
+      "options": {
+        "A": "to dislike",
+        "B": "to be concerned about",
+        "C": "to cook for",
+        "D": "to forget about"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Which sentence uses 'birthday' correctly?",
+      "options": {
+        "A": "I birthday to the park yesterday.",
+        "B": "She birthday her homework quickly.",
+        "C": "We celebrated his birthday with a cake.",
+        "D": "The birthday is sunny today."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "What is the meaning of 'hope'?",
+      "options": {
+        "A": "to want something to happen",
+        "B": "to be afraid of something",
+        "C": "to forget something",
+        "D": "to dislike something"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Choose the sentence that uses 'there' correctly:",
+      "options": {
+        "A": "There is a book on the table.",
+        "B": "I there my keys yesterday.",
+        "C": "She there very happy today.",
+        "D": "They there to the store."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "What does 'matter' mean in this sentence? 'What's the matter with you?'",
+      "options": {
+        "A": "What's wrong",
+        "B": "What's good",
+        "C": "What's funny",
+        "D": "What's expensive"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Which of these is the number 'nine'?",
+      "options": {
+        "A": "6",
+        "B": "7",
+        "C": "8",
+        "D": "9"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "What does 'single' mean?",
+      "options": {
+        "A": "married",
+        "B": "not married",
+        "C": "happy",
+        "D": "sad"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Choose the sentence that uses 'answer' correctly:",
+      "options": {
+        "A": "She answer very tall and pretty.",
+        "B": "I don't know the answer to this question.",
+        "C": "They answer to the beach last weekend.",
+        "D": "He answer dinner at 8 PM."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, who usually owns small businesses?",
+      "options": {
+        "A": "Large companies",
+        "B": "The government",
+        "C": "One person or a small group of people",
+        "D": "International corporations"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "What must a small business owner do when starting a business?",
+      "options": {
+        "A": "Close other competing businesses",
+        "B": "Find a location and buy equipment",
+        "C": "Work only a few hours a week",
+        "D": "Hire many employees immediately"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, what types of small businesses are mentioned?",
+      "options": {
+        "A": "Only online businesses",
+        "B": "Only restaurants and bakeries",
+        "C": "Food businesses, service providers, and specialty shops",
+        "D": "Only repair shops"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "How do many small businesses reach more customers today?",
+      "options": {
+        "A": "By lowering their prices",
+        "B": "By selling online",
+        "C": "By hiring more workers",
+        "D": "By competing with large companies"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What is one advantage small businesses have over large companies?",
+      "options": {
+        "A": "They can sell products at lower prices",
+        "B": "They have more employees",
+        "C": "They can offer personal service",
+        "D": "They have bigger locations"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to the passage, why do many people prefer small businesses?",
+      "options": {
+        "A": "Because they are cheaper",
+        "B": "Because they feel connected to their community",
+        "C": "Because they have more products",
+        "D": "Because they are always open"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What is one challenge small businesses face?",
+      "options": {
+        "A": "Having too many customers",
+        "B": "Hiring too many workers",
+        "C": "Competing with large companies",
+        "D": "Working too few hours"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "In paragraph 2, what does the passage say about small business owners when they first open?",
+      "options": {
+        "A": "They work long hours",
+        "B": "They take vacations",
+        "C": "They hire many employees",
+        "D": "They make a lot of money"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to the passage, where can small businesses be found?",
+      "options": {
+        "A": "Only in big cities",
+        "B": "Only in small towns",
+        "C": "Only in rich communities",
+        "D": "In almost every town and city"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the main topic of this passage?",
+      "options": {
+        "A": "How to start a restaurant",
+        "B": "The importance and challenges of small businesses",
+        "C": "Why large companies are better than small businesses",
+        "D": "The history of business in the world"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
