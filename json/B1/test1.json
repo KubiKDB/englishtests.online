@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The Roman Empire, one of history's most influential civilizations, began as a small village in central Italy around 753 BCE. Over several centuries, Rome transformed from a monarchy to a republic and finally to an empire that dominated the Mediterranean world. At its height in the 2nd century CE under Emperor Trajan, the Roman Empire stretched from Britain to Egypt and from Spain to Mesopotamia, encompassing approximately 70 million people. This vast territory allowed for unprecedented cultural exchange, economic prosperity, and technological advancement across three continents.<br><br>(2) The success of the Roman Empire can be attributed to several factors. Roman engineering marvels, such as aqueducts, roads, and public buildings, facilitated trade and communication across vast distances. The famous Roman road system, extending over 250,000 miles, connected the empire and allowed for rapid movement of armies, goods, and information. Additionally, the Romans developed a sophisticated legal system that influenced many modern legal codes. Perhaps most importantly, the Romans generally practiced religious tolerance and allowed conquered peoples to maintain their customs and beliefs as long as they acknowledged Roman authority and paid taxes.<br><br>(3) Despite its strengths, the Roman Empire faced numerous challenges beginning in the 3rd century CE. Economic problems, including inflation and excessive taxation, strained the empire's resources. Political instability became a serious issue as the imperial throne frequently changed hands through assassination and civil war. Moreover, constant pressure from Germanic tribes along the northern borders required significant military resources. The empire attempted to address these challenges through reforms, including Emperor Diocletian's division of the empire into eastern and western halves in 285 CE and Constantine's establishment of Constantinople as a new capital in 330 CE.<br><br>(4) These efforts prolonged the empire's existence but did not prevent its eventual collapse. The Western Roman Empire gradually lost territory to invading tribes and finally fell in 476 CE when the Germanic leader Odoacer deposed the last Western Roman Emperor, Romulus Augustulus. However, the Eastern Roman Empire, later known as the Byzantine Empire, continued to thrive for nearly a thousand more years until Constantinople fell to the Ottoman Turks in 1453 CE. This division in the empire's fate highlights the differing economic, political, and geographic challenges faced by its eastern and western regions.<br><br>(5) The legacy of the Roman Empire extends far beyond its political boundaries and timeframe. Roman achievements in architecture, engineering, language, law, and administration continue to influence modern society. Latin, the language of Rome, evolved into Romance languages such as Italian, French, Spanish, Portuguese, and Romanian, while also contributing countless words to English. Roman architectural principles are evident in government buildings worldwide. Furthermore, concepts of citizenship, legal rights, and governance pioneered by the Romans shaped the development of modern democracies. Even after its political collapse, the cultural and intellectual heritage of Rome survived, deeply influencing the Renaissance and, by extension, the modern world.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "She have been studying for three hours.",
+        "B": "She has been studying for three hours.",
+        "C": "She having been studying for three hours.",
+        "D": "She been studying for three hours."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct form of the verb in this sentence: 'If I _____ more time, I would travel more.'",
+      "options": {
+        "A": "have",
+        "B": "had",
+        "C": "would have",
+        "D": "will have"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the correct relative pronoun: 'This is the woman _____ helped me yesterday.'",
+      "options": {
+        "A": "which",
+        "B": "whose",
+        "C": "who",
+        "D": "whom"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence uses the correct form of the comparative?",
+      "options": {
+        "A": "This book is more interesting than that one.",
+        "B": "This book is interestinger than that one.",
+        "C": "This book is more interestinger than that one.",
+        "D": "This book is the more interesting than that one."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct preposition: 'I'm really looking forward _____ the weekend.'",
+      "options": {
+        "A": "for",
+        "B": "to",
+        "C": "at",
+        "D": "on"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which sentence has the correct subject-verb agreement?",
+      "options": {
+        "A": "The number of students in the class are increasing.",
+        "B": "The number of students in the class is increasing.",
+        "C": "The number of students in the class were increasing.",
+        "D": "The number of students in the class increasing."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Select the correct tense for this sentence: 'By the time we arrived, the movie _____.'",
+      "options": {
+        "A": "already started",
+        "B": "has already started",
+        "C": "had already started",
+        "D": "was already starting"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct article: 'She is _____ university student.'",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "No article is needed"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence uses the modal verb correctly?",
+      "options": {
+        "A": "You must to arrive by 9 o'clock.",
+        "B": "You should arriving by 9 o'clock.",
+        "C": "You might to be late if you don't hurry.",
+        "D": "You ought to leave now if you want to arrive on time."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Select the correct passive form: 'The house _____ last year.'",
+      "options": {
+        "A": "was build",
+        "B": "was built",
+        "C": "is built",
+        "D": "has build"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct verb form: 'I _____ TV when the phone rang.'",
+      "options": {
+        "A": "watched",
+        "B": "was watching",
+        "C": "have watched",
+        "D": "had watched"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence has the correct word order?",
+      "options": {
+        "A": "Always she goes to bed early.",
+        "B": "She goes always to bed early.",
+        "C": "She always goes to bed early.",
+        "D": "She goes to bed always early."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Select the correct form: 'There _____ a lot of people at the concert last night.'",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "is",
+        "D": "are"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct conjunction: 'We wanted to go swimming, _____ the weather was too cold.'",
+      "options": {
+        "A": "so",
+        "B": "and",
+        "C": "because",
+        "D": "but"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Which question form is grammatically correct?",
+      "options": {
+        "A": "Where you are going?",
+        "B": "Where are you going?",
+        "C": "Where going you are?",
+        "D": "Where you going?"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct expression to make a polite request.",
+      "options": {
+        "A": "I want you to help me.",
+        "B": "Help me, please.",
+        "C": "Would you mind helping me?",
+        "D": "You should help me."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the appropriate response to: 'Would you like to come to dinner on Saturday?'",
+      "options": {
+        "A": "Yes, I'd love to.",
+        "B": "Yes, I'd love.",
+        "C": "Yes, I like.",
+        "D": "Yes, I want."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct expression to offer help.",
+      "options": {
+        "A": "Would you like I help you?",
+        "B": "Would you like me to help you?",
+        "C": "Do you want I help you?",
+        "D": "Shall you help me?"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Select the appropriate phrase to begin an informal email to a friend.",
+      "options": {
+        "A": "Dear Sir or Madam,",
+        "B": "To whom it may concern,",
+        "C": "Hi Mark,",
+        "D": "Respected Mark,"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct expression for giving advice.",
+      "options": {
+        "A": "You must go to the doctor.",
+        "B": "You better go to the doctor.",
+        "C": "You should go to the doctor.",
+        "D": "You can go to the doctor."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the appropriate phrasal verb: 'Can you _____ your jacket? It's getting hot in here.'",
+      "options": {
+        "A": "take off",
+        "B": "take away",
+        "C": "take up",
+        "D": "take over"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct expression to show agreement.",
+      "options": {
+        "A": "I'm not sure about that.",
+        "B": "I couldn't agree more.",
+        "C": "I don't think so.",
+        "D": "Maybe you're right."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the correct expression for making arrangements.",
+      "options": {
+        "A": "Why don't we meeting tomorrow?",
+        "B": "How about we meet tomorrow?",
+        "C": "Let's to meet tomorrow?",
+        "D": "What about we will meet tomorrow?"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the appropriate response to: 'Thanks for your help.'",
+      "options": {
+        "A": "Don't mention it.",
+        "B": "It's nothing.",
+        "C": "Never mind.",
+        "D": "Not at all."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the correct connector for this sentence: 'He was tired, _____ he decided to go to bed early.'",
+      "options": {
+        "A": "because",
+        "B": "although",
+        "C": "so",
+        "D": "despite"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What does 'treat' mean in the sentence: 'The doctor will treat your illness with antibiotics.'?",
+      "options": {
+        "A": "to give medical care to cure an illness",
+        "B": "to behave toward someone in a particular way",
+        "C": "to provide food or entertainment for someone",
+        "D": "to consider something in a specific way"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the correct meaning of 'inform' in the sentence: 'I'll inform you when the meeting is rescheduled.'",
+      "options": {
+        "A": "to ask someone about something",
+        "B": "to tell someone about something",
+        "C": "to remind someone about something",
+        "D": "to warn someone about something"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What does 'feel' mean in the context: 'I feel that we should leave early tomorrow.'?",
+      "options": {
+        "A": "to experience through touch",
+        "B": "to be aware of a physical sensation",
+        "C": "to believe or think something",
+        "D": "to experience an emotion"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Select the correct meaning of 'affect' in the sentence: 'The new policy will affect all employees.'",
+      "options": {
+        "A": "to pretend or act in a way that is not natural",
+        "B": "to like or prefer something",
+        "C": "to have an influence on something or someone",
+        "D": "to change something completely"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the correct meaning of 'hope' in the context: 'I hope to visit Japan next year.'",
+      "options": {
+        "A": "to wish for something to happen",
+        "B": "to expect something will definitely happen",
+        "C": "to plan for something to happen",
+        "D": "to dream about something impossible"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "What does 'require' mean in the sentence: 'This job requires excellent communication skills.'?",
+      "options": {
+        "A": "to suggest something is useful",
+        "B": "to need something as necessary",
+        "C": "to ask for something formally",
+        "D": "to demand something forcefully"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Select the correct meaning of 'support' in the context: 'My family supported me through the difficult times.'",
+      "options": {
+        "A": "to hold something up",
+        "B": "to provide financial help",
+        "C": "to help and encourage someone",
+        "D": "to agree with someone's opinion"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Choose the correct meaning of 'listen' in the sentence: 'You should listen to your doctor's advice.'",
+      "options": {
+        "A": "to hear something",
+        "B": "to pay attention to what someone says and follow their advice",
+        "C": "to agree with something",
+        "D": "to understand something"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What does 'establish' mean in the context: 'They want to establish a new business in the city center.'?",
+      "options": {
+        "A": "to create or start something that will last",
+        "B": "to find something that was lost",
+        "C": "to move something to a new location",
+        "D": "to improve something that already exists"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Select the correct meaning of 'course' in the sentence: 'She's taking a course in photography.'",
+      "options": {
+        "A": "a route or direction",
+        "B": "a series of lessons or lectures on a particular subject",
+        "C": "a part of a meal",
+        "D": "a path or track for racing"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Choose the correct meaning of 'ability' in the context: 'He has the ability to speak five languages.'",
+      "options": {
+        "A": "the desire to do something",
+        "B": "the power to do something",
+        "C": "the experience of doing something",
+        "D": "the knowledge about something"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "What does 'face' mean in the sentence: 'We need to face the problem directly.'?",
+      "options": {
+        "A": "to have your face turned toward something",
+        "B": "to deal with or confront something difficult",
+        "C": "to recognize someone",
+        "D": "to appear or be present"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Select the correct meaning of 'regard' in the context: 'They regard him as the best player on the team.'",
+      "options": {
+        "A": "to look at someone",
+        "B": "to consider or think of someone in a particular way",
+        "C": "to respect someone",
+        "D": "to like someone"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Choose the correct meaning of 'agree' in the sentence: 'I don't agree with your opinion on this matter.'",
+      "options": {
+        "A": "to have the same opinion as someone",
+        "B": "to approve of something",
+        "C": "to say yes to something",
+        "D": "to accept a suggestion"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "What does 'abroad' mean in the context: 'Many students study abroad for a year during college.'?",
+      "options": {
+        "A": "in a broad or wide area",
+        "B": "outside in the open air",
+        "C": "in or to a foreign country",
+        "D": "across a wide distance"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, when did the Roman Empire begin?",
+      "options": {
+        "A": "Around 753 BCE",
+        "B": "In the 2nd century CE",
+        "C": "In 476 CE",
+        "D": "In 285 CE"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "At its height, how many people lived in the Roman Empire according to the passage?",
+      "options": {
+        "A": "About 50 million",
+        "B": "About 60 million",
+        "C": "About 70 million",
+        "D": "About 80 million"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "Which of the following was NOT mentioned as a factor in Rome's success?",
+      "options": {
+        "A": "Engineering achievements",
+        "B": "Military conquests",
+        "C": "Legal system",
+        "D": "Religious tolerance"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to paragraph 3, what problem did the Roman Empire face in the 3rd century CE?",
+      "options": {
+        "A": "Natural disasters",
+        "B": "Religious conflicts",
+        "C": "Political instability",
+        "D": "Lack of natural resources"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Who divided the Roman Empire into eastern and western halves?",
+      "options": {
+        "A": "Constantine",
+        "B": "Diocletian",
+        "C": "Trajan",
+        "D": "Romulus Augustulus"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "When did the Western Roman Empire fall?",
+      "options": {
+        "A": "330 CE",
+        "B": "476 CE",
+        "C": "753 BCE",
+        "D": "1453 CE"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to the passage, how long did the Eastern Roman Empire survive after the fall of the Western Empire?",
+      "options": {
+        "A": "About 500 years",
+        "B": "About 700 years",
+        "C": "About 900 years",
+        "D": "About 1000 years"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "Which of the following is NOT mentioned as part of the Roman legacy?",
+      "options": {
+        "A": "Architecture",
+        "B": "Democracy",
+        "C": "Language",
+        "D": "Law"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to the passage, which of these modern languages evolved from Latin?",
+      "options": {
+        "A": "German",
+        "B": "Russian",
+        "C": "Greek",
+        "D": "Romanian"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What does the passage suggest influenced the different fates of the Eastern and Western Roman Empires?",
+      "options": {
+        "A": "Different religious beliefs",
+        "B": "Different economic, political, and geographic challenges",
+        "C": "Different military technologies",
+        "D": "Different cultural traditions"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
