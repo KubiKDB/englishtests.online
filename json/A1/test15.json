@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The giraffe is the tallest animal in the world. It can grow up to six meters tall. Most of this height comes from its very long neck and legs. Giraffes use their long necks to eat leaves from tall trees that other animals cannot reach.<br><br>(2) Giraffes have beautiful yellow and brown spotted coats. No two giraffes have the same pattern of spots, just like no two people have the same fingerprints. Giraffes live in Africa, in open areas with trees. They eat leaves, fruits, and flowers from tall trees.<br><br>(3) A giraffe's heart is very big and strong. It needs to pump blood all the way up its long neck to its brain. Giraffes sleep very little, only about two hours each day. They can sleep standing up. When they drink water, they must spread their front legs wide to reach the ground with their mouth.<br><br>(4) Baby giraffes are already very tall when they are born. A baby giraffe is about two meters tall at birth! Young giraffes stay with their mothers for about one and a half years. Sadly, the number of giraffes in the world is getting smaller. People need to help protect these amazing animals.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which sentence is in the present simple tense?",
+      "options": {
+        "A": "I am playing football.",
+        "B": "She was reading a book.",
+        "C": "They walk to school every day.",
+        "D": "He will visit his grandmother."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct form of 'to be'.",
+      "options": {
+        "A": "He are a teacher.",
+        "B": "She is happy.",
+        "C": "I is from Spain.",
+        "D": "They am students."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence has the correct word order?",
+      "options": {
+        "A": "Red I like apples.",
+        "B": "She to the store goes.",
+        "C": "Where you are from?",
+        "D": "My brother plays football."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct plural form.",
+      "options": {
+        "A": "Childs",
+        "B": "Men",
+        "C": "Foots",
+        "D": "Mouses"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Which sentence uses 'has' correctly?",
+      "options": {
+        "A": "I has a dog.",
+        "B": "You has two brothers.",
+        "C": "She have a new car.",
+        "D": "He has blue eyes."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Choose the correct sentence with 'there is' or 'there are'.",
+      "options": {
+        "A": "There is three books on the table.",
+        "B": "There are a cat under the chair.",
+        "C": "There is an apple in the bag.",
+        "D": "There are one student in the class."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which sentence uses the past simple correctly?",
+      "options": {
+        "A": "They goed to the park yesterday.",
+        "B": "She buyed a new dress last week.",
+        "C": "He played tennis on Sunday.",
+        "D": "I writed a letter to my friend."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct negative form.",
+      "options": {
+        "A": "I not like coffee.",
+        "B": "She don't eat meat.",
+        "C": "We doesn't understand.",
+        "D": "They don't want to go."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which question form is correct?",
+      "options": {
+        "A": "What your name is?",
+        "B": "Where do you live?",
+        "C": "How old you are?",
+        "D": "Why she is sad?"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct preposition.",
+      "options": {
+        "A": "I go to school by foot.",
+        "B": "She lives at London.",
+        "C": "The book is on the chair.",
+        "D": "They are in vacation."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Which sentence uses 'a' or 'an' correctly?",
+      "options": {
+        "A": "He is an doctor.",
+        "B": "I need a umbrella.",
+        "C": "She has an orange.",
+        "D": "They have a hour."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Choose the correct sentence.",
+      "options": {
+        "A": "She like pizza.",
+        "B": "I doesn't know.",
+        "C": "We are happy.",
+        "D": "They plays tennis."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Which sentence uses 'some' correctly?",
+      "options": {
+        "A": "I have some water.",
+        "B": "There is some students.",
+        "C": "She has some pen.",
+        "D": "Do you have some money?"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct comparative form.",
+      "options": {
+        "A": "She is more tall than her sister.",
+        "B": "This book is more interesting than that one.",
+        "C": "He runs more fast than me.",
+        "D": "My house is more bigger than yours."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Which sentence uses the future tense correctly?",
+      "options": {
+        "A": "I will goes to the party tomorrow.",
+        "B": "She will eating dinner later.",
+        "C": "They going to play football.",
+        "D": "He will help you next week."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct way to greet someone in the morning.",
+      "options": {
+        "A": "Good night!",
+        "B": "Good evening!",
+        "C": "Good morning!",
+        "D": "Good afternoon!"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Which is the correct response to 'Thank you'?",
+      "options": {
+        "A": "You're welcome.",
+        "B": "I'm fine, thanks.",
+        "C": "Good luck!",
+        "D": "Excuse me."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct way to ask for permission.",
+      "options": {
+        "A": "I can use your pen?",
+        "B": "Can I use your pen?",
+        "C": "I use your pen?",
+        "D": "Using your pen?"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Which is the correct way to introduce yourself?",
+      "options": {
+        "A": "How are you?",
+        "B": "What's your name?",
+        "C": "My name is John.",
+        "D": "Nice to meet you."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct way to ask for the price.",
+      "options": {
+        "A": "How many is this?",
+        "B": "How much is this?",
+        "C": "What number is this?",
+        "D": "How cost is this?"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Which phrase is used to say goodbye?",
+      "options": {
+        "A": "Hello!",
+        "B": "Thank you!",
+        "C": "See you later!",
+        "D": "Good morning!"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct way to ask about time.",
+      "options": {
+        "A": "What is time?",
+        "B": "When is the time?",
+        "C": "What time is it?",
+        "D": "How is the time?"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Which is the correct response to 'How are you?'",
+      "options": {
+        "A": "I am John.",
+        "B": "I am from London.",
+        "C": "I am fine, thank you.",
+        "D": "I am 25 years old."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct way to ask for help.",
+      "options": {
+        "A": "You help me?",
+        "B": "Can you help me, please?",
+        "C": "Help, you?",
+        "D": "Help me, can?"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Which is the correct way to order food in a restaurant?",
+      "options": {
+        "A": "I eating fish, please.",
+        "B": "Give me fish.",
+        "C": "I would like the fish, please.",
+        "D": "Fish for me."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What do animals do to find food?",
+      "options": {
+        "A": "Hunt",
+        "B": "Sleep",
+        "C": "Read",
+        "D": "Write"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Which word means 'close to'?",
+      "options": {
+        "A": "Far",
+        "B": "Next",
+        "C": "Near",
+        "D": "Away"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What is a regular pattern of sounds or movements called?",
+      "options": {
+        "A": "Color",
+        "B": "Rhythm",
+        "C": "Size",
+        "D": "Weight"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which word means 'a result of something'?",
+      "options": {
+        "A": "Effect",
+        "B": "Cause",
+        "C": "Reason",
+        "D": "Start"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "What do you drink tea from?",
+      "options": {
+        "A": "Plate",
+        "B": "Cup",
+        "C": "Bowl",
+        "D": "Fork"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Which insect makes honey?",
+      "options": {
+        "A": "Ant",
+        "B": "Fly",
+        "C": "Bee",
+        "D": "Spider"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "What do you feel when the temperature is high?",
+      "options": {
+        "A": "Cold",
+        "B": "Wind",
+        "C": "Rain",
+        "D": "Heat"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Which word means 'many times'?",
+      "options": {
+        "A": "Never",
+        "B": "Rarely",
+        "C": "Often",
+        "D": "Seldom"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What is a container with flat sides called?",
+      "options": {
+        "A": "Ball",
+        "B": "Circle",
+        "C": "Box",
+        "D": "Tube"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "What covers the outside of your body?",
+      "options": {
+        "A": "Bone",
+        "B": "Muscle",
+        "C": "Hair",
+        "D": "Skin"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Which word means 'to complete'?",
+      "options": {
+        "A": "Start",
+        "B": "Finish",
+        "C": "Middle",
+        "D": "Begin"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "What do you do when you present someone new to others?",
+      "options": {
+        "A": "Introduce",
+        "B": "Forget",
+        "C": "Remember",
+        "D": "Hide"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Which word means 'the smallest amount'?",
+      "options": {
+        "A": "Most",
+        "B": "Many",
+        "C": "More",
+        "D": "Least"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "What do you use to write with that has lead inside?",
+      "options": {
+        "A": "Pen",
+        "B": "Pencil",
+        "C": "Marker",
+        "D": "Brush"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "What is the place where two walls meet called?",
+      "options": {
+        "A": "Middle",
+        "B": "Edge",
+        "C": "Corner",
+        "D": "Center"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "How tall can a giraffe grow?",
+      "options": {
+        "A": "Up to three meters",
+        "B": "Up to four meters",
+        "C": "Up to five meters",
+        "D": "Up to six meters"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "According to the passage, what makes giraffes so tall?",
+      "options": {
+        "A": "Their heads",
+        "B": "Their bodies",
+        "C": "Their long necks and legs",
+        "D": "Their feet"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "What color are giraffes?",
+      "options": {
+        "A": "Brown",
+        "B": "Yellow",
+        "C": "Yellow and brown spotted",
+        "D": "White and black"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "What do giraffes eat?",
+      "options": {
+        "A": "Only leaves",
+        "B": "Leaves, fruits, and flowers",
+        "C": "Only fruits",
+        "D": "Grass and plants"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Why do giraffes need a strong heart?",
+      "options": {
+        "A": "Because they run fast",
+        "B": "Because they are very heavy",
+        "C": "Because they need to pump blood to their brain",
+        "D": "Because they eat a lot"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "How many hours do giraffes sleep each day?",
+      "options": {
+        "A": "About one hour",
+        "B": "About two hours",
+        "C": "About four hours",
+        "D": "About eight hours"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What do giraffes do when they drink water?",
+      "options": {
+        "A": "They bend their necks",
+        "B": "They sit down",
+        "C": "They spread their front legs wide",
+        "D": "They use their tongues"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "How tall is a baby giraffe when it is born?",
+      "options": {
+        "A": "One meter",
+        "B": "Two meters",
+        "C": "Three meters",
+        "D": "Half a meter"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "How long do young giraffes stay with their mothers?",
+      "options": {
+        "A": "Six months",
+        "B": "One year",
+        "C": "About one and a half years",
+        "D": "Two years"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is happening to the number of giraffes in the world?",
+      "options": {
+        "A": "It is getting bigger",
+        "B": "It is staying the same",
+        "C": "It is getting smaller",
+        "D": "The passage doesn't say"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
