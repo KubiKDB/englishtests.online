@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The phenomenon of globalization has fundamentally altered the socioeconomic landscape of the modern world, facilitating unprecedented levels of cultural exchange while simultaneously introducing complex challenges to traditional ways of life. Indigenous communities, which have historically maintained distinct cultural identities through relative isolation, now find themselves increasingly integrated into global networks of commerce, communication, and cultural production. This integration has precipitated profound transformations in indigenous social structures, economic practices, and cultural expressions, generating both opportunities for revitalization and threats of irreversible change.<br><br>(2) The economic dimensions of globalization have perhaps most visibly impacted indigenous communities through the incorporation of traditional territories into global markets. Extractive industries, tourism developments, and agricultural enterprises have encroached upon ancestral lands, often disrupting subsistence patterns that sustained communities for generations. Concurrently, these economic shifts have introduced wage labor and consumer goods into previously self-sufficient communities, fundamentally altering material culture and creating complex dependencies on external markets. While these changes have in some cases alleviated material poverty, they have simultaneously undermined traditional knowledge systems centered on sustainable resource management and local production.<br><br>(3) Equally significant has been the impact of global communication technologies on indigenous cultural transmission. The proliferation of digital media has exposed younger generations to external cultural influences that frequently overshadow traditional knowledge and practices. Indigenous languages, which embody unique worldviews and ecological understandings, face accelerated decline as global languages dominate educational systems and media platforms. Nevertheless, these same technologies have paradoxically provided tools for cultural preservation, enabling communities to document oral traditions, revitalize endangered languages, and forge transnational alliances with other indigenous peoples facing similar challenges.<br><br>(4) The relationship between indigenous communities and nation-states has also been reconfigured in the globalized era. International legal frameworks, such as the United Nations Declaration on the Rights of Indigenous Peoples, have established new standards for indigenous rights recognition, providing leverage for communities to assert claims to self-determination and cultural protection. These developments reflect a gradual shift in global discourse toward acknowledging the value of cultural diversity and indigenous knowledge systems, particularly in relation to environmental conservation and sustainable development. However, implementation of these principles remains inconsistent, constrained by competing economic interests and persistent colonial attitudes within national governance structures.<br><br>(5) As indigenous communities navigate these complex transformations, many have adopted strategic approaches to globalization that seek to harness its potential benefits while mitigating its disruptive effects. Some communities have developed cultural tourism initiatives that provide economic opportunities while maintaining control over representations of their heritage. Others have formed partnerships with academic institutions and conservation organizations to document traditional knowledge while advocating for its protection from commercial exploitation. These adaptive responses demonstrate that indigenous peoples are not merely passive recipients of globalization but active agents in determining how their cultures will evolve in an increasingly interconnected world. The long-term viability of indigenous cultural systems will likely depend on this capacity for selective engagement with global processes – incorporating beneficial elements while preserving the core values and practices that sustain distinct cultural identities.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct form to complete the sentence: Had the researchers considered all variables, they _____ different results.",
+      "options": {
+        "A": "would obtain",
+        "B": "will have obtained",
+        "C": "would have obtained",
+        "D": "had obtained"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the correct form: By the time the conference begins, the delegates _____ for over eight hours.",
+      "options": {
+        "A": "will be traveling",
+        "B": "will have been traveling",
+        "C": "will travel",
+        "D": "are traveling"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Choose the sentence with correct subject-verb agreement:",
+      "options": {
+        "A": "Either the professor or his assistants is going to present the findings.",
+        "B": "Either the professor or his assistants are going to present the findings.",
+        "C": "Neither the professor nor his assistants is going to present the findings.",
+        "D": "Neither the professor nor his assistants have going to present the findings."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Select the sentence with the correct use of the subjunctive mood:",
+      "options": {
+        "A": "The committee insists that he follows the established protocols.",
+        "B": "The committee insists that he followed the established protocols.",
+        "C": "The committee insists that he follow the established protocols.",
+        "D": "The committee insists that he will follow the established protocols."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct form of the infinitive: The researcher claims _____ a significant discovery in the field of quantum physics.",
+      "options": {
+        "A": "to making",
+        "B": "to have made",
+        "C": "to be making",
+        "D": "to made"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the sentence with the correct use of inversion:",
+      "options": {
+        "A": "Never I have witnessed such an extraordinary phenomenon.",
+        "B": "Never have I witnessed such an extraordinary phenomenon.",
+        "C": "Never did I have witnessed such an extraordinary phenomenon.",
+        "D": "Never I had witnessed such an extraordinary phenomenon."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct form: The manuscript _____ by several experts before its publication.",
+      "options": {
+        "A": "is reviewing",
+        "B": "will review",
+        "C": "was reviewed",
+        "D": "has reviewing"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the correct use of articles:",
+      "options": {
+        "A": "The professor gave the fascinating lecture on a history of quantum mechanics.",
+        "B": "Professor gave fascinating lecture on the history of quantum mechanics.",
+        "C": "A professor gave a fascinating lecture on the history of quantum mechanics.",
+        "D": "The professor gave a fascinating lecture on history of quantum mechanics."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct form: Despite _____ for the exam, she failed to achieve a passing grade.",
+      "options": {
+        "A": "having prepared thoroughly",
+        "B": "she prepared thoroughly",
+        "C": "to prepare thoroughly",
+        "D": "she has prepared thoroughly"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Select the correctly punctuated sentence:",
+      "options": {
+        "A": "The study which was published in a prestigious journal presented contradictory findings.",
+        "B": "The study, which was published in a prestigious journal, presented contradictory findings.",
+        "C": "The study which was published in a prestigious journal, presented contradictory findings.",
+        "D": "The study, which was published in a prestigious journal presented contradictory findings."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the sentence with correct parallel structure:",
+      "options": {
+        "A": "The conference focused on analyzing data, developing theories, and how to implement solutions.",
+        "B": "The conference focused on analyzing data, developing theories, and implementing solutions.",
+        "C": "The conference focused on data analysis, theory development, and to implement solutions.",
+        "D": "The conference focused on analyzing data, to develop theories, and implementation of solutions."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the correct conditional form: If the government _____ stricter regulations, the environmental crisis might have been averted.",
+      "options": {
+        "A": "had implemented",
+        "B": "would implement",
+        "C": "has implemented",
+        "D": "would have implemented"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct relative pronoun: The theory _____ he proposed has revolutionized the field of cognitive science.",
+      "options": {
+        "A": "which",
+        "B": "what",
+        "C": "whom",
+        "D": "that"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Select the correct use of reported speech: The professor said that the results _____ the following week.",
+      "options": {
+        "A": "will be published",
+        "B": "would be published",
+        "C": "are published",
+        "D": "had published"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Choose the sentence with the correct use of modals: The researchers _____ have considered alternative explanations for their findings.",
+      "options": {
+        "A": "should to",
+        "B": "ought",
+        "C": "must to",
+        "D": "should"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the most appropriate word to complete the sentence: The discovery of new evidence led to a complete _____ of the historical narrative.",
+      "options": {
+        "A": "revision",
+        "B": "refusal",
+        "C": "reversion",
+        "D": "reversal"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the correct phrasal verb: The committee decided to _____ the proposal until additional data could be collected.",
+      "options": {
+        "A": "put up",
+        "B": "put off",
+        "C": "put out",
+        "D": "put down"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct collocation: The researcher made a compelling _____ for additional funding.",
+      "options": {
+        "A": "case",
+        "B": "point",
+        "C": "view",
+        "D": "opinion"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Select the appropriate idiom: During the negotiation, the CEO refused to _____ on the key terms of the agreement.",
+      "options": {
+        "A": "bend over backwards",
+        "B": "beat around the bush",
+        "C": "give ground",
+        "D": "pull strings"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct form of the fixed expression: The research was conducted _____ the ethical guidelines established by the committee.",
+      "options": {
+        "A": "in accordance to",
+        "B": "in accordance with",
+        "C": "in accordance of",
+        "D": "in accordance by"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the most appropriate linking device: The experiment yielded unexpected results; _____, it raised several important questions for future research.",
+      "options": {
+        "A": "therefore",
+        "B": "nevertheless",
+        "C": "moreover",
+        "D": "whereas"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct register for an academic paper: The findings _____ that the relationship between the variables is more complex than previously thought.",
+      "options": {
+        "A": "show",
+        "B": "suggest",
+        "C": "tell us",
+        "D": "kind of indicate"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the most appropriate preposition: The research focuses _____ the environmental impact of industrial agriculture.",
+      "options": {
+        "A": "in",
+        "B": "for",
+        "C": "with",
+        "D": "on"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct form of the hedging expression: The data _____ indicate a correlation between the two variables.",
+      "options": {
+        "A": "definitely",
+        "B": "appears to",
+        "C": "obviously",
+        "D": "without doubt"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the correct option to complete this academic phrase: The literature review will _____ several theoretical frameworks relevant to the research question.",
+      "options": {
+        "A": "look at",
+        "B": "talk about",
+        "C": "examine",
+        "D": "go over"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the word that best completes the sentence: The poet attempted to describe the sunset, but found its beauty was truly _____, beyond the capacity of language to capture.",
+      "options": {
+        "A": "expressible",
+        "B": "describable",
+        "C": "ineffable",
+        "D": "articulate"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Select the word that best fits the context: The judge was known for her unquestionable _____, making decisions based strictly on legal principles rather than personal gain.",
+      "options": {
+        "A": "partiality",
+        "B": "venality",
+        "C": "duplicity",
+        "D": "probity"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Which word best completes the sentence? The professor was known for his _____ temperament, often losing his temper when students arrived late to class.",
+      "options": {
+        "A": "placid",
+        "B": "equable",
+        "C": "irascible",
+        "D": "composed"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Choose the word that best fits the context: After numerous failed attempts, he realized that trying to change the committee's decision was entirely _____.",
+      "options": {
+        "A": "productive",
+        "B": "futile",
+        "C": "beneficial",
+        "D": "advantageous"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Select the word that best completes the sentence: The extensive buffet was sufficient to _____ even the most voracious appetite.",
+      "options": {
+        "A": "aggravate",
+        "B": "intensify",
+        "C": "diminish",
+        "D": "satiate"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Which word best fits the context? Though brilliant in writing, the physicist was surprisingly _____ when attempting to explain his theories in public lectures.",
+      "options": {
+        "A": "eloquent",
+        "B": "fluent",
+        "C": "inarticulate",
+        "D": "expressive"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Choose the word that best completes the sentence: The critic dismissed the film as _____, lacking any substantive ideas beneath its stylish visuals.",
+      "options": {
+        "A": "profound",
+        "B": "substantive",
+        "C": "vacuous",
+        "D": "meaningful"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Select the word that best fits the context: The artist's _____ installation challenged conventional notions of beauty and deliberately elicited strong reactions from viewers.",
+      "options": {
+        "A": "innocuous",
+        "B": "provocative",
+        "C": "conventional",
+        "D": "pedestrian"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Which word best completes the sentence? Archaeologists found only a _____ of the ancient civilization that once thrived in the region.",
+      "options": {
+        "A": "fabrication",
+        "B": "culmination",
+        "C": "vestige",
+        "D": "fabrication"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Choose the word that best fits the context: Rather than addressing the controversy directly, the politician made only _____ references to the scandal in his speech.",
+      "options": {
+        "A": "explicit",
+        "B": "direct",
+        "C": "unambiguous",
+        "D": "oblique"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Select the word that best completes the sentence: Managing the _____ members of the committee proved challenging, as they frequently engaged in heated disagreements.",
+      "options": {
+        "A": "harmonious",
+        "B": "cooperative",
+        "C": "compliant",
+        "D": "fractious"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Which word best fits the context? The palace interior was _____ with gold leaf, intricate mosaics, and crystal chandeliers that dazzled all visitors.",
+      "options": {
+        "A": "austere",
+        "B": "mundane",
+        "C": "resplendent",
+        "D": "spartan"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Choose the word that best completes the sentence: The election victory gave the party a clear _____ to implement its proposed reforms.",
+      "options": {
+        "A": "restriction",
+        "B": "mandate",
+        "C": "prohibition",
+        "D": "limitation"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Select the word that best fits the context: The doctor offered a cautiously optimistic _____ for the patient's recovery following the experimental treatment.",
+      "options": {
+        "A": "diagnosis",
+        "B": "prescription",
+        "C": "treatment",
+        "D": "prognosis"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Which word best completes the sentence? The darkening sky and sudden drop in temperature were _____ signs of the approaching storm.",
+      "options": {
+        "A": "insignificant",
+        "B": "trivial",
+        "C": "portentous",
+        "D": "inconsequential"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what has been the primary historical factor in maintaining indigenous cultural identities?",
+      "options": {
+        "A": "Government protection",
+        "B": "Relative isolation",
+        "C": "Religious practices",
+        "D": "Strong leadership"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following is identified in paragraph 2 as a consequence of economic globalization for indigenous communities?",
+      "options": {
+        "A": "Strengthened traditional knowledge systems",
+        "B": "Increased political autonomy",
+        "C": "Enhanced cultural isolation",
+        "D": "Disruption of subsistence patterns"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "The word 'paradoxically' in paragraph 3 indicates that:",
+      "options": {
+        "A": "Global communication technologies have had no effect on indigenous cultures",
+        "B": "The relationship between technology and cultural preservation is contradictory",
+        "C": "Digital media has only negative impacts on indigenous communities",
+        "D": "Indigenous peoples have rejected modern technologies"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to paragraph 3, what is one way indigenous communities are using modern technology?",
+      "options": {
+        "A": "To replace traditional knowledge systems",
+        "B": "To isolate themselves from global influences",
+        "C": "To document oral traditions",
+        "D": "To eliminate endangered languages"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Based on paragraph 4, what has been a positive development for indigenous rights in the globalized era?",
+      "options": {
+        "A": "Consistent implementation of indigenous rights protections",
+        "B": "The elimination of colonial attitudes",
+        "C": "New international legal frameworks",
+        "D": "Prioritization of indigenous interests over economic development"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "The word 'leverage' in paragraph 4 is closest in meaning to:",
+      "options": {
+        "A": "Financial support",
+        "B": "Strategic advantage",
+        "C": "Legal requirement",
+        "D": "Military force"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to paragraph 5, how are some indigenous communities responding to globalization?",
+      "options": {
+        "A": "By completely rejecting all outside influences",
+        "B": "By developing cultural tourism initiatives",
+        "C": "By relocating to more isolated regions",
+        "D": "By assimilating entirely into dominant cultures"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What does the passage suggest about the role of indigenous peoples in the process of globalization?",
+      "options": {
+        "A": "They are passive victims of external forces",
+        "B": "They have successfully halted the effects of globalization",
+        "C": "They are active agents in determining how their cultures evolve",
+        "D": "They universally benefit from global economic integration"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Based on the passage as a whole, which of the following best describes the author's view of the relationship between globalization and indigenous cultures?",
+      "options": {
+        "A": "Globalization inevitably leads to the destruction of indigenous cultures",
+        "B": "Globalization provides only benefits for indigenous communities",
+        "C": "The impact of globalization on indigenous cultures is complex, with both opportunities and challenges",
+        "D": "Indigenous cultures remain completely unchanged by globalization"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What does the author suggest will be crucial for the long-term survival of indigenous cultural systems?",
+      "options": {
+        "A": "Complete rejection of global influences",
+        "B": "Government protection and subsidies",
+        "C": "Full integration into the global economy",
+        "D": "Selective engagement with global processes"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    }
+  ]
+}
