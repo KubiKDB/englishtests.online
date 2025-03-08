@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Cultural diversity has become an intrinsic feature of many contemporary societies as global migration patterns continue to reshape demographic landscapes worldwide. This phenomenon, characterized by the coexistence of various ethnic, religious, and linguistic groups within a single social framework, presents both enriching opportunities and complex challenges. The mosaic of traditions, perspectives, and customs that emerges from such diversity offers societies unprecedented access to varied forms of human creativity and innovation, potentially fostering more dynamic and adaptable social structures capable of meeting the demands of our rapidly evolving global environment.<br><br>(2) Social integration, the process by which diverse groups maintain their cultural distinctiveness while simultaneously participating fully in the broader society, represents a delicate balancing act for both immigrants and host communities. Successful integration requires mutual accommodation, wherein newcomers adapt to certain aspects of the dominant culture while the receiving society creates space for cultural expression and acknowledges the valuable contributions of immigrant populations. This bidirectional process stands in contrast to assimilation, which typically demands that minority groups abandon their cultural identities in favor of adopting the prevailing cultural norms of the majority.<br><br>(3) The integration process unfolds across multiple dimensions, including economic, social, cultural, and political spheres. Economic integration involves securing employment that corresponds with one's qualifications and achieving financial self-sufficiency. Social integration encompasses forming meaningful relationships with members of different cultural backgrounds and participating in community activities. Cultural integration involves navigating between maintaining one's heritage while adopting certain practices of the host society, whereas political integration relates to civic engagement and representation in decision-making processes. These dimensions are interconnected, with progress or challenges in one area often affecting outcomes in others.<br><br>(4) Numerous factors influence the trajectory and success of integration efforts. Language proficiency often emerges as a critical determinant, functioning as both a practical tool for daily functioning and a symbolic indicator of one's willingness to adapt to the new environment. Educational institutions serve as crucial sites for intercultural contact, potentially facilitating mutual understanding or, conversely, reinforcing stereotypes and social divisions. Housing patterns significantly impact integration, with high levels of residential segregation frequently hindering meaningful cross-cultural interactions. Legal frameworks governing citizenship, voting rights, and antidiscrimination protections establish the fundamental parameters within which integration occurs.<br><br>(5) The cultivation of genuinely inclusive societies represents one of the defining challenges of the twenty-first century. Policies promoting integration must balance respect for diversity with the maintenance of social cohesion through shared values and norms. Educational initiatives that foster intercultural competence, community programs that facilitate meaningful dialogue, and legal frameworks that ensure equal opportunities regardless of cultural background all contribute to successful integration processes. Ultimately, the goal remains creating societies where diversity is not merely tolerated but valued as a source of collective strength, resilience, and innovation in an increasingly interconnected world.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which sentence contains a grammatical error?",
+      "options": {
+        "A": "The team has been working on this project since last month.",
+        "B": "Neither the professor nor the students was able to solve the equation.",
+        "C": "If I had known about the change in schedule, I would have arrived earlier.",
+        "D": "The data collected from multiple sources indicate a significant trend."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Identify the sentence with correct use of the subjunctive mood.",
+      "options": {
+        "A": "I wish I was able to attend the conference yesterday.",
+        "B": "The committee suggested that he will submit his proposal by Friday.",
+        "C": "It is essential that every applicant completes the form accurately.",
+        "D": "The professor insisted that the research be conducted according to ethical guidelines."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence demonstrates the correct use of a participle clause?",
+      "options": {
+        "A": "While crossing the street, the car almost hit the pedestrian.",
+        "B": "Having completed the experiment, the results were analyzed by the scientist.",
+        "C": "Exhausted from the long journey, the travelers decided to rest for a day.",
+        "D": "Regardless of trying several times, the problem remained unsolved."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence contains an error in the use of articles?",
+      "options": {
+        "A": "The professor gave us an useful advice about preparing for the examination.",
+        "B": "The Smithsonian Museum in Washington attracts millions of visitors annually.",
+        "C": "An honest approach to problem-solving often yields the best results.",
+        "D": "The United Nations has been addressing this issue for several decades."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Select the sentence with the correct use of parallel structure.",
+      "options": {
+        "A": "The course focuses on developing critical thinking, problem solving, and how to communicate effectively.",
+        "B": "The company not only expanded its product line but also was improving its customer service.",
+        "C": "She enjoys hiking in the mountains, swimming in the lake, and to cycle along forest trails.",
+        "D": "The report analyzes market trends, identifies potential challenges, and recommends strategic solutions."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which sentence demonstrates correct use of the past perfect tense?",
+      "options": {
+        "A": "By the time he arrived, the meeting already started.",
+        "B": "After she had submitted her application, she received an interview invitation.",
+        "C": "The storm has damaged several buildings before it subsided.",
+        "D": "When we reached the theater, the movie was beginning."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which sentence contains an error in verb form?",
+      "options": {
+        "A": "The number of international students attending the university has increased significantly.",
+        "B": "Each of the participants were asked to complete a feedback form.",
+        "C": "A series of lectures on quantum physics is scheduled for next month.",
+        "D": "The quality of these products exceeds our expectations."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Identify the sentence with correct use of relative clauses.",
+      "options": {
+        "A": "The professor which teaches linguistics has published several books.",
+        "B": "The book that won the award was written by a first-time author.",
+        "C": "The woman who's house we visited is a renowned scientist.",
+        "D": "The conference, that was held in Berlin, attracted experts from around the world."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence contains an error in the use of conditional structures?",
+      "options": {
+        "A": "If I would have known about the deadline, I would have submitted my application earlier.",
+        "B": "Had she arrived on time, she would have heard the entire presentation.",
+        "C": "If the weather improves, we will proceed with the outdoor activities as planned.",
+        "D": "Unless you follow the instructions carefully, the experiment might fail."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Select the sentence with correct use of reported speech.",
+      "options": {
+        "A": "The professor said that the exam will be postponed until next week.",
+        "B": "She told me that she has already submitted her application.",
+        "C": "He asked whether I can attend the meeting tomorrow.",
+        "D": "The director announced that the deadline had been extended by one week."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Which sentence demonstrates correct use of inversion for emphasis?",
+      "options": {
+        "A": "Never I have seen such a magnificent performance.",
+        "B": "Rarely does the committee reach a unanimous decision so quickly.",
+        "C": "Not only she solved the problem, but she also explained the solution clearly.",
+        "D": "Seldom they acknowledge the contributions of junior researchers."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Identify the sentence with the correct use of gerunds and infinitives.",
+      "options": {
+        "A": "She admitted to steal the confidential documents.",
+        "B": "The company decided investing in renewable energy sources.",
+        "C": "They denied having taken part in the unauthorized experiment.",
+        "D": "We look forward to meet you at the upcoming conference."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Which sentence contains an error in the use of modifiers?",
+      "options": {
+        "A": "Barely sixteen, her parents allowed her to drive the family car.",
+        "B": "Walking through the forest, numerous bird species could be observed.",
+        "C": "Having studied diligently all semester, the final exam posed no difficulties for the student.",
+        "D": "After reviewing the data carefully, the researcher identified several patterns."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence demonstrates correct use of quantifiers?",
+      "options": {
+        "A": "There are less people attending the conference this year than last year.",
+        "B": "The recipe requires fewer sugar than the original version.",
+        "C": "She has less time to complete the project than initially anticipated.",
+        "D": "The library has acquired fewer books this year due to budget constraints."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Identify the sentence with correct use of passive voice.",
+      "options": {
+        "A": "The experiment was conducting by the research team for three months.",
+        "B": "The novel has been written by a renowned author.",
+        "C": "The conference will held in Geneva next year.",
+        "D": "The results have being analyzed by independent experts."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the most appropriate word to complete the sentence: 'Despite the complexity of the task, she remained ________ throughout the process, methodically working through each step.'",
+      "options": {
+        "A": "systematic",
+        "B": "methodical",
+        "C": "resolute",
+        "D": "tenacious"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the correct phrasal verb to complete the sentence: 'The committee decided to ________ the proposal until more data becomes available.'",
+      "options": {
+        "A": "put up",
+        "B": "put off",
+        "C": "put down",
+        "D": "put through"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the appropriate idiom to complete the sentence: 'The negotiations were difficult, but we finally ________ and reached an agreement.'",
+      "options": {
+        "A": "found common ground",
+        "B": "hit the nail on the head",
+        "C": "faced the music",
+        "D": "cut corners"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Select the most appropriate collocation to complete the sentence: 'The discovery of new evidence ________ doubt on the reliability of the witness testimony.'",
+      "options": {
+        "A": "puts",
+        "B": "casts",
+        "C": "throws",
+        "D": "sets"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct option to complete the sentence: 'The professor's lecture was so ________ that many students struggled to follow his complex arguments.'",
+      "options": {
+        "A": "articulate",
+        "B": "eloquent",
+        "C": "lucid",
+        "D": "abstruse"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the appropriate fixed expression to complete the sentence: 'The company's new environmental policy is just window dressing; ________, they continue to pollute the river.'",
+      "options": {
+        "A": "in reality",
+        "B": "by all means",
+        "C": "in a nutshell",
+        "D": "for the record"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the most appropriate linking device to complete the sentence: 'The research had methodological flaws; ________, the results should be interpreted with caution.'",
+      "options": {
+        "A": "otherwise",
+        "B": "consequently",
+        "C": "meanwhile",
+        "D": "thereafter"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the most appropriate formal alternative to the underlined phrase: 'The committee decided to cancel the event due to low attendance.'",
+      "options": {
+        "A": "call off",
+        "B": "do away with",
+        "C": "abandoned",
+        "D": "terminated"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct option to complete the sentence: 'The government implemented measures to ________ import restrictions and facilitate international trade.'",
+      "options": {
+        "A": "evade",
+        "B": "circumvent",
+        "C": "avoid",
+        "D": "bypass"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the word that best completes the sentence: 'His ________ attention to minor details sometimes annoyed his colleagues, who preferred focusing on the broader picture.'",
+      "options": {
+        "A": "meticulous",
+        "B": "scrupulous",
+        "C": "pedantic",
+        "D": "fastidious"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Which word describes reasoning that is based on a mistaken belief or that uses faulty logic?",
+      "options": {
+        "A": "specious",
+        "B": "erroneous",
+        "C": "fallacious",
+        "D": "spurious"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Which word describes something that is only slightly connected or relevant to the main subject?",
+      "options": {
+        "A": "peripheral",
+        "B": "tangential",
+        "C": "incidental",
+        "D": "marginal"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Which word describes something that is difficult to understand because of its complexity or obscurity?",
+      "options": {
+        "A": "recondite",
+        "B": "esoteric",
+        "C": "abstruse",
+        "D": "arcane"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which word refers to a person who openly criticizes and disagrees with an established government, system, or doctrine?",
+      "options": {
+        "A": "insurgent",
+        "B": "dissident",
+        "C": "subversive",
+        "D": "iconoclast"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Which adjective describes something or someone serving as a desirable model, representing the best of its kind?",
+      "options": {
+        "A": "illustrious",
+        "B": "exemplary",
+        "C": "sterling",
+        "D": "consummate"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Which adjective describes someone who is excessively concerned with minor details, formal rules, or displaying academic learning?",
+      "options": {
+        "A": "fastidious",
+        "B": "pedantic",
+        "C": "punctilious",
+        "D": "meticulous"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Which word refers to the direct opposite or contrast of something?",
+      "options": {
+        "A": "contradiction",
+        "B": "antithesis",
+        "C": "antipode",
+        "D": "antagonist"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Which adjective describes something that is excessive or unreasonable in amount or degree?",
+      "options": {
+        "A": "exorbitant",
+        "B": "inordinate",
+        "C": "disproportionate",
+        "D": "extravagant"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Which verb means to find a way around an obstacle, restriction, or law, especially in a clever or indirect way?",
+      "options": {
+        "A": "evade",
+        "B": "circumvent",
+        "C": "elude",
+        "D": "subvert"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Which adjective describes behavior that is excessively dramatic or emotional, often to attract attention?",
+      "options": {
+        "A": "melodramatic",
+        "B": "histrionic",
+        "C": "theatrical",
+        "D": "flamboyant"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Which verb means to reveal private or sensitive information, especially information that was previously secret?",
+      "options": {
+        "A": "disclose",
+        "B": "divulge",
+        "C": "unveil",
+        "D": "expose"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Which adjective describes something that is not affected by or unable to be penetrated by something else?",
+      "options": {
+        "A": "impenetrable",
+        "B": "impervious",
+        "C": "impregnable",
+        "D": "invulnerable"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Which adjective describes someone who complains a lot or in a whining manner?",
+      "options": {
+        "A": "cantankerous",
+        "B": "querulous",
+        "C": "petulant",
+        "D": "fractious"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Which adjective describes something that is unnecessary, especially through being more than enough?",
+      "options": {
+        "A": "redundant",
+        "B": "superfluous",
+        "C": "extraneous",
+        "D": "gratuitous"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Which verb means to express an opinion or belief without firm evidence or certainty?",
+      "options": {
+        "A": "postulate",
+        "B": "opine",
+        "C": "conjecture",
+        "D": "surmise"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what is one potential benefit of cultural diversity in contemporary societies?",
+      "options": {
+        "A": "It reduces global migration patterns",
+        "B": "It eliminates cultural differences between groups",
+        "C": "It fosters more dynamic and adaptable social structures",
+        "D": "It simplifies the demographic landscape"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "How does the passage define social integration in paragraph 2?",
+      "options": {
+        "A": "A process requiring minority groups to abandon their cultural identities",
+        "B": "A one-way process of adaptation by immigrant populations",
+        "C": "A process by which diverse groups maintain cultural distinctiveness while participating fully in society",
+        "D": "The complete assimilation of minority cultures into the dominant culture"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, what is the relationship between the different dimensions of integration?",
+      "options": {
+        "A": "They operate independently of each other",
+        "B": "They are interconnected, with progress in one area affecting outcomes in others",
+        "C": "Economic integration always precedes other forms of integration",
+        "D": "Political integration is more important than other dimensions"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Which of the following is NOT mentioned in paragraph 4 as a factor influencing integration?",
+      "options": {
+        "A": "Language proficiency",
+        "B": "Housing patterns",
+        "C": "Religious institutions",
+        "D": "Educational institutions"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What does the passage suggest is a key difference between integration and assimilation?",
+      "options": {
+        "A": "Integration involves maintaining cultural distinctiveness, while assimilation requires abandoning it",
+        "B": "Integration is mandatory, while assimilation is voluntary",
+        "C": "Integration applies to economic aspects, while assimilation applies to cultural aspects",
+        "D": "Integration is a modern concept, while assimilation is outdated"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to the passage, what role does language proficiency play in the integration process?",
+      "options": {
+        "A": "It is relevant only for political integration",
+        "B": "It functions as both a practical tool and a symbolic indicator of adaptation",
+        "C": "It is less important than housing patterns",
+        "D": "It is primarily important for economic integration"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What does the passage identify as the ultimate goal of integration policies?",
+      "options": {
+        "A": "Creating societies where diversity is merely tolerated",
+        "B": "Eliminating cultural differences between groups",
+        "C": "Creating societies where diversity is valued as a source of strength",
+        "D": "Reducing global migration patterns"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What is the main idea of paragraph 5?",
+      "options": {
+        "A": "Legal frameworks are the most important factor in integration",
+        "B": "Creating inclusive societies requires balancing diversity and social cohesion",
+        "C": "Educational initiatives alone can solve integration challenges",
+        "D": "The twenty-first century has seen significant improvements in integration policies"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Based on the passage, what can be inferred about residential segregation?",
+      "options": {
+        "A": "It promotes cultural preservation",
+        "B": "It facilitates political integration",
+        "C": "It is beneficial for maintaining cultural identity",
+        "D": "It hinders meaningful cross-cultural interactions"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What tone does the author adopt in discussing cultural diversity and integration?",
+      "options": {
+        "A": "Critical and pessimistic",
+        "B": "Analytical and balanced",
+        "C": "Dismissive and skeptical",
+        "D": "Nostalgic and sentimental"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
