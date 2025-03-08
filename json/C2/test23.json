@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Fiscal austerity, characterized by government spending cuts and tax increases designed to reduce budget deficits, has emerged as a contentious policy approach during economic downturns. Proponents argue that such measures restore market confidence, reduce sovereign debt burdens, and create conditions for sustainable economic growth. The theoretical underpinning of austerity rests on the premise that excessive government debt crowds out private investment and that fiscal discipline signals governmental responsibility, thereby attracting investment and stimulating economic recovery. This perspective gained particular prominence following the 2008 global financial crisis, when several European nations, including Greece, Spain, and Portugal, implemented stringent austerity programs under pressure from international financial institutions and creditor nations.<br><br>(2) However, critics of austerity policies contend that government spending reductions during recessions exacerbate economic contractions, creating a vicious cycle that deepens unemployment and diminishes tax revenues. Drawing on Keynesian economic principles, they maintain that public expenditure serves as a crucial economic stabilizer during downturns, and its reduction precisely when private spending contracts leads to amplified negative consequences. Empirical evidence from countries that implemented austerity measures has frequently demonstrated that reductions in government spending resulted in higher-than-projected unemployment rates, prolonged economic stagnation, and debt-to-GDP ratios that increased rather than decreased—directly contradicting the outcomes predicted by austerity advocates.<br><br>(3) Beyond macroeconomic indicators, the societal impact of austerity has been profound and multifaceted. Public services, including healthcare, education, and social welfare programs, typically bear the brunt of spending cuts, which disproportionately affects vulnerable populations such as the elderly, children, and low-income households. Research across multiple countries has documented increased homelessness, food insecurity, and deteriorating public health metrics during periods of fiscal retrenchment. Moreover, austerity has been associated with diminished social mobility and widening inequality, as reduced educational opportunities and social support systems limit pathways out of poverty while simultaneously preserving advantages for those with greater resources.<br><br>(4) The distributional dimension of austerity raises fundamental questions about social equity and democratic governance. Critics argue that the burden of economic adjustment falls disproportionately on those with the least political influence, while more powerful constituencies remain relatively protected. This dynamic manifests in policy choices such as reducing welfare payments while maintaining tax advantages that predominantly benefit corporations and wealthy individuals. The implementation of austerity measures has frequently triggered social unrest and political polarization, evidenced by protests and the rise of populist movements in countries subject to severe fiscal contraction. These developments suggest that austerity policies, beyond their economic implications, may undermine social cohesion and democratic stability.<br><br>(5) A more nuanced approach to fiscal policy during economic downturns might balance multiple imperatives: addressing sovereign debt concerns, maintaining essential public services, and pursuing equitable burden-sharing. Alternatives to strict austerity include targeted rather than across-the-board spending reductions, progressive taxation that generates revenue while minimizing economic harm, and phased implementation that responds to economic conditions rather than adhering to rigid deficit targets. The debate over fiscal austerity ultimately transcends purely economic considerations to encompass broader questions about the social contract between governments and citizens, the distribution of economic sacrifice during crises, and the type of society envisioned in the aftermath of economic recovery.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which sentence demonstrates the correct use of a phrasal verb with multiple meanings?",
+      "options": {
+        "A": "The researchers carried out the experiment according to protocol.",
+        "B": "The professor looked up the reference before responding to the question.",
+        "C": "The committee members turned down the controversial proposal.",
+        "D": "The scientist put forward a compelling new theory at the conference."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Which sentence correctly demonstrates zero article usage?",
+      "options": {
+        "A": "The professor gave insightful feedback on our research proposals.",
+        "B": "The students submitted the assignments before deadline.",
+        "C": "The researchers published their findings in prestigious journal.",
+        "D": "The university has implemented the new policy this semester."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Identify the sentence with a properly formed nominal relative clause.",
+      "options": {
+        "A": "They carefully analyzed which they considered to be the most significant findings.",
+        "B": "What the researchers discovered has profound implications for the field.",
+        "C": "The committee will review that the scientists have submitted by Friday.",
+        "D": "The professor explained how the experiment was conducted during lecture."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Select the sentence that correctly uses a hypothetical structure with 'wish' or 'if only'.",
+      "options": {
+        "A": "If only we would have anticipated these complications, we could have adjusted our methodology.",
+        "B": "I wish I can attend the conference next month, but my schedule is already full.",
+        "C": "If only the researchers had access to more advanced equipment, their results might have been conclusive.",
+        "D": "She wishes that she has chosen a different research focus for her dissertation."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Which sentence correctly uses a formulaic expression?",
+      "options": {
+        "A": "Taking everything into consideration, the committee decided to approve the proposal.",
+        "B": "The research team conducted the experiment despite of the limited resources.",
+        "C": "The findings were significant in spite they contradicted previous studies.",
+        "D": "With regards of the recent developments, the strategy needs to be reconsidered."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which sentence demonstrates the correct use of a dependent preposition?",
+      "options": {
+        "A": "The theory differs from what the scientists had originally hypothesized.",
+        "B": "The researchers were interested about the unexpected results.",
+        "C": "The discovery was attributed of a series of fortuitous circumstances.",
+        "D": "Their analysis corresponds with the preliminary findings of the study."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Select the sentence that correctly uses a mixed conditional.",
+      "options": {
+        "A": "If they would have invested in that technology, they would be market leaders now.",
+        "B": "If she had taken the medication regularly, she would not be experiencing complications now.",
+        "C": "If we studied harder, we would have passed the examination last week.",
+        "D": "If the experiment was successful, the researchers would have published their findings."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Which sentence correctly uses an advanced reporting verb?",
+      "options": {
+        "A": "The scientist informed that his discovery would revolutionize the field.",
+        "B": "The professor insisted the students to complete the assignments by Friday.",
+        "C": "The researcher acknowledged that further studies were necessary to validate the findings.",
+        "D": "The expert told about the potential applications of the new technology."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Identify the sentence that correctly uses an impersonal passive construction.",
+      "options": {
+        "A": "The manuscript was believed to have been written in the 15th century.",
+        "B": "They were surprised by the unexpected results of the experiment.",
+        "C": "The committee decided that the policy should be implemented gradually.",
+        "D": "The researchers have suggested that the methodology was flawed."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence contains a properly constructed non-defining relative clause?",
+      "options": {
+        "A": "The theory that the professor proposed has been widely debated.",
+        "B": "The research paper, which was published last month, has received significant attention.",
+        "C": "The experiment which was conducted under controlled conditions yielded surprising results.",
+        "D": "The scientists who participated in the study have extensive experience in the field."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Select the sentence that demonstrates correct nominalization and adjectival structure.",
+      "options": {
+        "A": "Their quickly analysis of the data led to several unexpected discoveries.",
+        "B": "The scientific community responded with skepticism to the controversial claim.",
+        "C": "The researcher's careful examination of the specimens revealed anomalies.",
+        "D": "The gradually implementation of the policy has minimized disruption."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence demonstrates the correct use of a collocation or idiomatic expression?",
+      "options": {
+        "A": "The researchers made a breakthrough discovery in quantum physics.",
+        "B": "The committee took a decision to revise the proposal.",
+        "C": "The scientists did significant progress in their investigation.",
+        "D": "The experts gave attention to the anomalous results."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Identify the sentence with a correctly formed participle clause.",
+      "options": {
+        "A": "Having analyzed the data, the researchers identified several patterns.",
+        "B": "While analyzing the data, the patterns were identified by the researchers.",
+        "C": "The data analyzed carefully, the researchers proceeded to the next phase.",
+        "D": "By analyzing the data, several patterns identified by the researchers."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence demonstrates the advanced use of 'the'?",
+      "options": {
+        "A": "The researchers from the university conducted the experiment last month.",
+        "B": "The wealthy often have different perspectives on taxation than the poor.",
+        "C": "The students who attended the lecture found it informative.",
+        "D": "The professor cited the studies that supported his hypothesis."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the sentence that correctly demonstrates a cleft structure.",
+      "options": {
+        "A": "It was in the laboratory where the discovery was made.",
+        "B": "What makes this finding significant is its potential application in medicine.",
+        "C": "It was the unexpected results that has challenged the existing theory.",
+        "D": "It is the researcher conducted the experiment under controlled conditions."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Select the most appropriate academic collocation to complete the sentence: 'The research team __________ a comprehensive analysis of the experimental data.'",
+      "options": {
+        "A": "made",
+        "B": "did",
+        "C": "conducted",
+        "D": "performed"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the option that best completes the sentence with appropriate hedging language: 'Based on the preliminary findings, it __________ that the intervention has therapeutic benefits.'",
+      "options": {
+        "A": "is proven",
+        "B": "appears",
+        "C": "is obvious",
+        "D": "definitely shows"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Identify the sentence with the most appropriate academic register.",
+      "options": {
+        "A": "The experiment's results totally contradicted what we thought would happen.",
+        "B": "The empirical evidence obtained from the study appears to refute the initial hypothesis.",
+        "C": "The data we got from our tests didn't match up with our expectations at all.",
+        "D": "Our experiment showed the hypothesis was wrong, which was a big surprise."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Select the most precise and concise revision of the following sentence: 'The fact that there were contaminants present in the samples that were being analyzed resulted in the production of results that were unreliable and inconclusive.'",
+      "options": {
+        "A": "The fact that contaminants were present in the analyzed samples resulted in unreliable and inconclusive results.",
+        "B": "Sample contamination produced unreliable and inconclusive results.",
+        "C": "The samples had contaminants present in them, so the results that were produced were not reliable or conclusive.",
+        "D": "The results were unreliable and inconclusive because of the fact that the samples being analyzed had contaminants present in them."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the sentence that demonstrates parallel structure.",
+      "options": {
+        "A": "The research involved collecting data, analyzing results, and the formulation of conclusions.",
+        "B": "The conference included presentations, workshops, and participants networked during breaks.",
+        "C": "The professor's responsibilities include teaching undergraduate courses, conducting research, and mentoring graduate students.",
+        "D": "The committee must review the proposal, evaluate its feasibility, and then they will make recommendations."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the most appropriate transition to connect these two sentences: 'The initial results were promising. __________ further testing revealed significant limitations in the methodology.'",
+      "options": {
+        "A": "Therefore,",
+        "B": "Nevertheless,",
+        "C": "Furthermore,",
+        "D": "Similarly,"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Identify the sentence with correct punctuation.",
+      "options": {
+        "A": "The manuscript which was discovered in the archive dates back to the 16th century.",
+        "B": "After collecting the data, the researchers analyzed the results, and published their findings.",
+        "C": "The symposium featured three keynote speakers: Dr. Chen, an expert in quantum physics; Professor Smith, a renowned mathematician; and Dr. Garcia, a pioneer in computational linguistics.",
+        "D": "Although the hypothesis was well-formulated it lacked sufficient empirical support."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the sentence with the most precise and specific vocabulary.",
+      "options": {
+        "A": "The study looked at how different things affect how plants grow.",
+        "B": "The investigation assessed the impact of various environmental factors on plant development rates.",
+        "C": "The scientists wanted to see what makes plants grow better or worse in different conditions.",
+        "D": "The researchers checked how several variables changed plant growth in their experiment."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Select the sentence that demonstrates the correct use of an adverbial connector.",
+      "options": {
+        "A": "The researchers conducted multiple trials; however, the results remained inconsistent.",
+        "B": "The scientists analyzed the data, consequently, they revised their hypothesis.",
+        "C": "The experiment failed to produce conclusive results, despite the team revised the methodology several times.",
+        "D": "The findings contradicted previous studies, although, the researchers defended their methodology."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the option that best completes the sentence: 'The manuscript, along with its accompanying notes and diagrams, __________ to the university archive.'",
+      "options": {
+        "A": "have been donated",
+        "B": "has been donated",
+        "C": "were donated",
+        "D": "are being donated"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Which definition best describes the term 'preeminent'?",
+      "options": {
+        "A": "Characterized by exceptional speed or urgency",
+        "B": "Superior to or notable above all others; outstanding",
+        "C": "Occurring before a significant event",
+        "D": "Related to the preliminary stages of a process"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "The verb 'aver' most accurately means to:",
+      "options": {
+        "A": "Dodge or evade a direct question",
+        "B": "Analyze thoroughly and methodically",
+        "C": "State or assert to be the case",
+        "D": "Change direction or course suddenly"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Which definition best describes 'alacrity'?",
+      "options": {
+        "A": "A state of extreme anger or agitation",
+        "B": "Brisk and cheerful readiness",
+        "C": "Excessive pride or self-confidence",
+        "D": "Careful attention to detail"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "The term 'miscreant' most accurately refers to:",
+      "options": {
+        "A": "A misunderstood concept or theory",
+        "B": "A minor mistake or error in judgment",
+        "C": "A person who behaves badly or breaks the law",
+        "D": "A misinterpreted signal or message"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Which of the following best defines 'soliloquy'?",
+      "options": {
+        "A": "A formal speech delivered to a large audience",
+        "B": "An act of speaking one's thoughts aloud when alone or regardless of any hearers",
+        "C": "A philosophical discussion between two learned individuals",
+        "D": "A written message or letter to a close friend"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "The term 'profligate' most accurately describes someone who is:",
+      "options": {
+        "A": "Highly skilled or accomplished in a particular field",
+        "B": "Recklessly extravagant or wasteful",
+        "C": "Extremely cautious or conservative",
+        "D": "Influential or respected in society"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Which definition best describes the adjective 'noisome'?",
+      "options": {
+        "A": "Excessively noisy or loud",
+        "B": "Having a pleasant or melodious sound",
+        "C": "Having an extremely offensive smell",
+        "D": "Relating to or causing excessive noise pollution"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "The term 'mendacious' most accurately describes something that is:",
+      "options": {
+        "A": "Carefully repaired or mended",
+        "B": "Not truthful; lying or false",
+        "C": "Easily fixed or remedied",
+        "D": "Requiring careful handling or treatment"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Which definition best describes the term 'protracted'?",
+      "options": {
+        "A": "Protected or safeguarded against harm",
+        "B": "Promoted or advanced to a higher position",
+        "C": "Lasting for a long time or longer than expected",
+        "D": "Projected or forecasted with great accuracy"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "The term 'efficacious' most accurately means:",
+      "options": {
+        "A": "Harmful or destructive in effect",
+        "B": "Efficient in terms of resource utilization",
+        "C": "Successful in producing a desired or intended result",
+        "D": "Easy to implement or put into practice"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Which definition best describes the adjective 'soporific'?",
+      "options": {
+        "A": "Related to sophisticated philosophical concepts",
+        "B": "Tending to induce drowsiness or sleep",
+        "C": "Causing intense physical pain or discomfort",
+        "D": "Characterized by excessive detail or complexity"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "The term 'valediction' most accurately refers to:",
+      "options": {
+        "A": "A formal validation or authentication process",
+        "B": "A farewell address or a bidding farewell",
+        "C": "A victory celebration or triumphant proclamation",
+        "D": "A verdict or judgment in a legal proceeding"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Which definition best describes the adjective 'doughty'?",
+      "options": {
+        "A": "Characterized by excessive weight or heaviness",
+        "B": "Brave and persistent",
+        "C": "Unclear or ambiguous in meaning",
+        "D": "Lacking in physical strength or mental acuity"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "The term 'surreptitious' most accurately describes something that is:",
+      "options": {
+        "A": "Excessively or unpleasantly sweet",
+        "B": "Done in a way that attempts to avoid notice; secretive",
+        "C": "Surprisingly effective or efficient",
+        "D": "Relating to surgical procedures or operations"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "The adjective 'saturnine' most accurately describes someone who is:",
+      "options": {
+        "A": "Optimistic and cheerful in disposition",
+        "B": "Slow to react or respond to stimuli",
+        "C": "Sluggish, gloomy, or taciturn in temperament",
+        "D": "Unpredictable or volatile in behavior"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what is the theoretical underpinning of fiscal austerity?",
+      "options": {
+        "A": "That government spending is always inefficient compared to private investment",
+        "B": "That excessive government debt crowds out private investment",
+        "C": "That international financial institutions must control national economic policies",
+        "D": "That tax increases are more effective than spending cuts"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "According to the passage, critics of austerity policies argue that government spending cuts during recessions:",
+      "options": {
+        "A": "Are necessary despite short-term pain",
+        "B": "Should be targeted rather than across-the-board",
+        "C": "Exacerbate economic contractions",
+        "D": "Benefit wealthy constituencies disproportionately"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "Which of the following is cited in the passage as empirical evidence contradicting claims made by austerity advocates?",
+      "options": {
+        "A": "Increased market confidence in countries implementing austerity",
+        "B": "Higher-than-projected unemployment rates in countries that implemented austerity",
+        "C": "Successful reduction of sovereign debt in European economies",
+        "D": "Increased private investment following government spending cuts"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to paragraph 3, which groups are most affected by austerity measures?",
+      "options": {
+        "A": "Government employees and civil servants",
+        "B": "Middle-class taxpayers and small business owners",
+        "C": "The elderly, children, and low-income households",
+        "D": "International investors and financial institutions"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "The passage suggests that austerity has been associated with:",
+      "options": {
+        "A": "Increased social mobility",
+        "B": "Widening inequality",
+        "C": "Reduced political polarization",
+        "D": "Strengthening of democratic institutions"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to paragraph 4, what political consequence has frequently resulted from severe fiscal contraction?",
+      "options": {
+        "A": "Greater civic engagement and voter participation",
+        "B": "Increased trust in government institutions",
+        "C": "Social unrest and political polarization",
+        "D": "More effective democratic governance"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Which of the following is presented in the passage as an alternative to strict austerity?",
+      "options": {
+        "A": "Complete abandonment of deficit reduction goals",
+        "B": "Targeted rather than across-the-board spending reductions",
+        "C": "Exclusively relying on tax increases rather than spending cuts",
+        "D": "Rejecting international financial assistance"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The author suggests that the debate over fiscal austerity ultimately:",
+      "options": {
+        "A": "Is primarily a technical economic question",
+        "B": "Has been resolved in favor of austerity advocates",
+        "C": "Transcends purely economic considerations",
+        "D": "Should be left to financial experts rather than politicians"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Based on the passage, what policy choice demonstrates the disproportionate burden of austerity on those with less political influence?",
+      "options": {
+        "A": "Reducing welfare payments while maintaining tax advantages for corporations",
+        "B": "Implementing progressive taxation",
+        "C": "Phased implementation of deficit reduction",
+        "D": "Targeted spending reductions"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "Which of the following best captures the author's stance on fiscal austerity?",
+      "options": {
+        "A": "Fiscal austerity is always counterproductive during economic downturns.",
+        "B": "A balanced approach considering multiple factors is preferable to strict austerity.",
+        "C": "Fiscal discipline is the most important factor in economic recovery.",
+        "D": "Democratic governments should prioritize debt reduction above all other concerns."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
