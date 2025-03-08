@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The governance of society through algorithmic and data-driven technologies represents one of the most profound transformations in modern public administration and private sector decision-making. As artificial intelligence systems increasingly determine who receives loans, which neighborhoods receive policing resources, how education is allocated, and who qualifies for various social benefits, these technologies exert tremendous influence over social stratification and mobility. While proponents argue that algorithmic governance offers greater efficiency, consistency, and objectivity than human decision-makers, mounting evidence suggests these systems frequently reproduce—and sometimes amplify—existing social inequalities through mechanisms that are less visible and therefore more resistant to democratic oversight than traditional governance approaches.<br><br>(2) The stratifying potential of algorithmic governance stems partially from what scholars term 'data shadows'—the systematic underrepresentation of marginalized populations in the datasets that train AI systems. When predictive algorithms are developed using historical data that reflects past discriminatory practices, they inevitably perpetuate those biases in their predictions and recommendations. For instance, predictive policing systems trained on historically biased arrest data disproportionately direct surveillance toward already over-policed communities, creating feedback loops that mathematically justify increased scrutiny of disadvantaged neighborhoods while rendering privileged communities' infractions statistically invisible. Similarly, lending algorithms trained on historical approval patterns may penalize applicants from neighborhoods that experienced historical redlining, regardless of their actual creditworthiness.<br><br>(3) Compounding these 'garbage-in, garbage-out' problems are technical choices that appear neutral but have profoundly stratifying consequences. The selection of optimization targets, for instance, fundamentally shapes how algorithms distribute resources and opportunities. When healthcare systems optimize for cost reduction rather than equitable outcomes, they may systematically underserve populations with complex health needs. Similarly, proxy variables that appear innocuous—such as zip codes in lending decisions or employment gaps in hiring—often function as de facto encodings of protected characteristics like race, gender, or disability status. These technical choices create what legal scholar Deborah Hellman terms 'algorithmic discrimination by proxy,' where systems replicate discriminatory outcomes without explicitly using prohibited classifications.<br><br>(4) The opacity of algorithmic decision systems further exacerbates inequality by shielding them from accountability mechanisms. Unlike human decision-makers who can be questioned about their reasoning, many advanced AI systems function as 'black boxes' whose internal logic remains inscrutable even to their designers. This opacity creates significant barriers to contesting algorithmic determinations, particularly for marginalized individuals who may lack resources to challenge automated denials of benefits, opportunities, or services. The proprietary nature of many algorithmic systems compounds this problem, as commercial algorithms often remain protected as trade secrets, rendering their internal workings immune from public scrutiny despite their profound social consequences.<br><br>(5) Addressing algorithmic stratification requires multifaceted interventions spanning technical design, policy innovation, and democratic oversight. Technically, developers can implement equity-aware design practices that proactively test for disparate impacts across demographic groups, employing techniques like algorithmic impact assessments and fairness constraints. Policy approaches include mandatory transparency requirements, explainability standards, and data protection frameworks that safeguard against misuse of personal information. Perhaps most fundamentally, greater democratization of algorithmic governance is essential, incorporating diverse stakeholder perspectives into every stage from problem formulation to implementation and evaluation. Without such interventions, the algorithmic revolution risks deepening existing social divisions under the misleading veneer of technological neutrality—substituting human bias not with objective decision-making, but with automated systems that render inequality mathematically precise and increasingly resistant to democratic challenge.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which sentence contains nominalization?",
+      "options": {
+        "A": "They decided quickly to cancel the event.",
+        "B": "The scientists analyzed the data thoroughly.",
+        "C": "Their quick decision to cancel the event surprised everyone.",
+        "D": "She speaks fluently about complex topics."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Which sentence demonstrates ellipsis?",
+      "options": {
+        "A": "Mary enjoys classical music, but John doesn't.",
+        "B": "Although tired, she continued working on the project.",
+        "C": "The man who is standing by the door is my uncle.",
+        "D": "Despite the rain, they decided to go for a walk."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Identify the formulaic expression in the following options:",
+      "options": {
+        "A": "She walked slowly across the room.",
+        "B": "That being said, we should consider other alternatives.",
+        "C": "The cat jumped onto the table.",
+        "D": "They finished the project ahead of schedule."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence correctly demonstrates zero article usage?",
+      "options": {
+        "A": "The gold is a precious metal.",
+        "B": "I had a dinner with friends last night.",
+        "C": "Life is too short to hold grudges.",
+        "D": "The patience is a virtue in difficult situations."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Which sentence uses a hypothetical structure with 'wish' or 'if only' correctly?",
+      "options": {
+        "A": "I wish I will go to the conference next week.",
+        "B": "If only she has told me earlier about the problem.",
+        "C": "I wish I had known about the opportunity sooner.",
+        "D": "If only we will arrive on time for the meeting."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which sentence correctly employs the subjunctive mood?",
+      "options": {
+        "A": "I suggested that he goes to the doctor immediately.",
+        "B": "The committee demands that she attends all meetings.",
+        "C": "It is essential that every student submits the assignment on time.",
+        "D": "The professor insisted that the student be given another opportunity."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Identify the sentence with an impersonal passive construction:",
+      "options": {
+        "A": "The window was broken during the storm.",
+        "B": "It is believed that the manuscript dates back to the 15th century.",
+        "C": "They were informed about the change in schedule.",
+        "D": "The book was written by a renowned author."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Which sentence contains a participle clause?",
+      "options": {
+        "A": "Although it was raining, they continued with the outdoor event.",
+        "B": "When they arrived at the station, the train had already left.",
+        "C": "Having finished the report, she submitted it to her supervisor.",
+        "D": "Since he started working here, the company's profits have increased."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Identify the reduced relative clause in this sentence: 'The documents submitted by the applicant must be verified.'",
+      "options": {
+        "A": "The documents",
+        "B": "submitted by the applicant",
+        "C": "must be verified",
+        "D": "The documents submitted"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence contains a non-defining relative clause?",
+      "options": {
+        "A": "The woman who called earlier left a message for you.",
+        "B": "The book that you recommended was fascinating.",
+        "C": "Dr. Smith, who has been practicing medicine for 30 years, is retiring next month.",
+        "D": "The car which crashed into the tree was completely destroyed."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Which sentence demonstrates an advanced use of 'the'?",
+      "options": {
+        "A": "The moon orbits around the Earth.",
+        "B": "I bought a book and a pen. The book was expensive.",
+        "C": "The wealthy often have different perspectives from the poor.",
+        "D": "The car in the garage belongs to my neighbor."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence correctly uses 'what' or 'such' for emphasis?",
+      "options": {
+        "A": "What time does the train leave?",
+        "B": "I don't know what to do next.",
+        "C": "Such incredible talent deserves recognition!",
+        "D": "She told me what happened yesterday."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Identify the cleft sentence:",
+      "options": {
+        "A": "She gave him the present on his birthday.",
+        "B": "It was on his birthday that she gave him the present.",
+        "C": "The present was given to him by her on his birthday.",
+        "D": "On his birthday, she gave him the present."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence demonstrates a mixed conditional?",
+      "options": {
+        "A": "If I had studied harder, I would have passed the exam.",
+        "B": "If I won the lottery, I would buy a house.",
+        "C": "If I hadn't missed the train, I wouldn't be late now.",
+        "D": "If it rains tomorrow, we will cancel the picnic."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Which sentence correctly uses quantifiers with uncountable nouns?",
+      "options": {
+        "A": "There are many furnitures in the room.",
+        "B": "She gave me a few advices about the project.",
+        "C": "They need more equipments for the expedition.",
+        "D": "He has little experience in this field."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Which word best completes this sentence? 'The saint's _____ smile radiated peace and serenity to everyone in the temple.'",
+      "options": {
+        "A": "stoic",
+        "B": "beatific",
+        "C": "sardonic",
+        "D": "pensive"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 17,
+      "question": "Choose the word that means 'fundamentally different or distinct in quality or kind':",
+      "options": {
+        "A": "disparate",
+        "B": "congruent",
+        "C": "homogeneous",
+        "D": "analogous"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 18,
+      "question": "What does 'chicanery' refer to?",
+      "options": {
+        "A": "A type of Mexican restaurant",
+        "B": "A method of cooking chicken",
+        "C": "The use of trickery to achieve a political, financial, or legal purpose",
+        "D": "A traditional dance form from Latin America"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 19,
+      "question": "Which word means 'to protest, object, or argue against'?",
+      "options": {
+        "A": "acquiesce",
+        "B": "capitulate",
+        "C": "endorse",
+        "D": "remonstrate"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 20,
+      "question": "Choose the word that refers to 'injustice or unfairness':",
+      "options": {
+        "A": "equilibrium",
+        "B": "parity",
+        "C": "inequity",
+        "D": "impartiality"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 21,
+      "question": "What does 'adumbrate' mean?",
+      "options": {
+        "A": "To simplify or clarify",
+        "B": "To outline or foreshadow vaguely",
+        "C": "To fully illuminate or explain in detail",
+        "D": "To categorize or classify systematically"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 22,
+      "question": "Which word means 'to rob or plunder, especially in war'?",
+      "options": {
+        "A": "salvage",
+        "B": "preserve",
+        "C": "pillage",
+        "D": "renovate"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 23,
+      "question": "Choose the word that describes someone who is 'overconfident or showing too much liberty':",
+      "options": {
+        "A": "reticent",
+        "B": "deferential",
+        "C": "diffident",
+        "D": "presumptuous"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 24,
+      "question": "What is a 'misanthrope'?",
+      "options": {
+        "A": "A person who helps others selflessly",
+        "B": "Someone who hates or distrusts humankind",
+        "C": "An expert in ancient manuscripts",
+        "D": "A collector of rare artifacts"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 25,
+      "question": "Which word describes something 'able to perceive or feel things'?",
+      "options": {
+        "A": "dormant",
+        "B": "inert",
+        "C": "sentient",
+        "D": "inanimate"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 26,
+      "question": "Choose the definition that matches 'guile':",
+      "options": {
+        "A": "Innocent honesty",
+        "B": "Cunning or deceitful behavior",
+        "C": "Tremendous courage",
+        "D": "Physical strength"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Which word describes someone who 'shows good judgment and taste'?",
+      "options": {
+        "A": "impulsive",
+        "B": "discerning",
+        "C": "haphazard",
+        "D": "indiscriminate"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What does 'verisimilitude' refer to?",
+      "options": {
+        "A": "A mathematical formula",
+        "B": "A medical procedure",
+        "C": "The appearance of being true or real",
+        "D": "An ancient philosophical concept"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Choose the word that means 'the quality of being careful with one's actions or speech':",
+      "options": {
+        "A": "imprudence",
+        "B": "recklessness",
+        "C": "indiscretion",
+        "D": "discretion"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Which definition best matches 'substantiate'?",
+      "options": {
+        "A": "To contradict or disprove",
+        "B": "To provide evidence to support or prove the truth of",
+        "C": "To reduce or diminish in importance",
+        "D": "To create a substitute or replacement"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Which of the following cohesive devices would best fill the gap in this academic text? 'The research indicates a correlation between sleep and academic performance; _____, further studies are needed to establish causation.'",
+      "options": {
+        "A": "consequently",
+        "B": "therefore",
+        "C": "nevertheless",
+        "D": "hence"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 32,
+      "question": "Choose the most appropriate reporting verb for an academic context: 'Smith (2018) _____ that economic factors were the primary drivers of the policy change.'",
+      "options": {
+        "A": "goes on about",
+        "B": "argues",
+        "C": "chatters",
+        "D": "thinks"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 33,
+      "question": "Select the option that maintains the most appropriate academic register:",
+      "options": {
+        "A": "The experiment results were totally amazing and blew our minds.",
+        "B": "The experiment yielded unexpected results that contradicted our initial hypothesis.",
+        "C": "We got some pretty weird results from the experiment that we didn't see coming.",
+        "D": "The experiment gave us results that were way off from what we thought we'd get."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 34,
+      "question": "Which phrase would be most appropriate in a formal email to a professor?",
+      "options": {
+        "A": "I'm just dropping a line to ask about...",
+        "B": "I am writing to inquire about...",
+        "C": "Just wanted to check if...",
+        "D": "Hey there, I was wondering..."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 35,
+      "question": "Which hedging expression would be most appropriate in academic writing?",
+      "options": {
+        "A": "It is absolutely certain that...",
+        "B": "The evidence seems to suggest that...",
+        "C": "I think that...",
+        "D": "It's kind of like..."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 36,
+      "question": "Select the most appropriate formal alternative to the underlined phrase: 'The company decided to *put off* the product launch until next quarter.'",
+      "options": {
+        "A": "delay",
+        "B": "hang fire on",
+        "C": "push back",
+        "D": "kick down the road"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 37,
+      "question": "Which sentence demonstrates the most effective use of parallelism?",
+      "options": {
+        "A": "The research focuses on analyzing data, interpreting results, and the formulation of conclusions.",
+        "B": "The research focuses on data analysis, result interpretation, and conclusion formulation.",
+        "C": "The research focuses on analyzing data, interpreting results, and formulating conclusions.",
+        "D": "The research focuses on data analysis, interpreting results, and to formulate conclusions."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 38,
+      "question": "Choose the most appropriate binomial expression to complete this sentence: 'The terms and _____ of the agreement must be reviewed by legal counsel.'",
+      "options": {
+        "A": "details",
+        "B": "conditions",
+        "C": "specifics",
+        "D": "particulars"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 39,
+      "question": "Select the most appropriate euphemism for a professional context: 'Due to financial constraints, the company will need to _____ several positions.'",
+      "options": {
+        "A": "axe",
+        "B": "streamline operations by eliminating",
+        "C": "get rid of",
+        "D": "cut"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 40,
+      "question": "Which sentence demonstrates the most effective use of hedging and boosting in academic writing?",
+      "options": {
+        "A": "This treatment definitely cures the disease in all cases.",
+        "B": "This treatment might work for some patients, but I'm not really sure.",
+        "C": "While the evidence strongly suggests efficacy in most cases, certain limitations must be acknowledged.",
+        "D": "The treatment works pretty well usually, though not always."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what is one of the main criticisms of algorithmic governance?",
+      "options": {
+        "A": "It is less efficient than human decision-making",
+        "B": "It reproduces existing social inequalities",
+        "C": "It is too transparent and open to manipulation",
+        "D": "It is not sufficiently technologically advanced"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "The term 'data shadows' in paragraph 2 refers to:",
+      "options": {
+        "A": "The digital footprints left by individuals online",
+        "B": "The systematic underrepresentation of marginalized populations in training datasets",
+        "C": "The hidden algorithms used in data processing",
+        "D": "The encrypted data that cannot be accessed by users"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "Based on paragraph 2, what creates a feedback loop in predictive policing systems?",
+      "options": {
+        "A": "The lack of technical expertise among police officers",
+        "B": "The use of recent crime statistics for future predictions",
+        "C": "Directing surveillance toward already over-policed communities based on biased historical data",
+        "D": "The resistance of communities to police presence"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to paragraph 3, what is 'algorithmic discrimination by proxy'?",
+      "options": {
+        "A": "When algorithms explicitly use prohibited classifications",
+        "B": "When seemingly neutral variables actually function as encodings of protected characteristics",
+        "C": "When humans use algorithms to make discriminatory decisions",
+        "D": "When machine learning systems completely replace human judgment"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Why does the opacity of algorithmic systems exacerbate inequality, according to paragraph 4?",
+      "options": {
+        "A": "It makes the systems too complex for ordinary users",
+        "B": "It creates barriers to contesting algorithmic determinations, particularly for marginalized individuals",
+        "C": "It allows developers to intentionally program biased algorithms",
+        "D": "It prevents technical improvements to the systems"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "Which of the following is NOT mentioned in paragraph 5 as an approach to address algorithmic stratification?",
+      "options": {
+        "A": "Equity-aware design practices",
+        "B": "Completely abandoning algorithmic systems",
+        "C": "Mandatory transparency requirements",
+        "D": "Greater democratization of algorithmic governance"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "The passage suggests that without proper interventions, algorithmic governance might:",
+      "options": {
+        "A": "Become too expensive to implement widely",
+        "B": "Make inequality mathematically precise and resistant to challenge",
+        "C": "Be rejected by the majority of citizens",
+        "D": "Slow down technological progress"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What does the author mean by 'garbage-in, garbage-out' problems in paragraph 3?",
+      "options": {
+        "A": "Environmental issues caused by data centers",
+        "B": "The poor quality of data storage systems",
+        "C": "When biased input data leads to biased algorithmic outputs",
+        "D": "The disposal of outdated computer systems"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to the passage, which statement best characterizes the relationship between technology and social inequality?",
+      "options": {
+        "A": "Technology is inherently neutral and only reflects user intentions",
+        "B": "Technology always increases social inequality regardless of design",
+        "C": "Technological systems can reproduce and amplify existing social inequalities",
+        "D": "Social inequality only exists in the human interpretation of algorithmic outputs"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "The main purpose of this passage is to:",
+      "options": {
+        "A": "Celebrate the efficiency gains made possible by algorithmic governance",
+        "B": "Analyze how algorithmic systems may affect social stratification and propose solutions",
+        "C": "Argue that all algorithmic governance systems should be abandoned",
+        "D": "Explain the technical functioning of artificial intelligence systems"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
