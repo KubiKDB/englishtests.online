@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Decision making is a complex cognitive process governed by intricate neural mechanisms that neuroscientists have increasingly illuminated in recent decades. At its core, decision making involves the evaluation of available options, the assessment of potential outcomes, and the selection of an action path that optimizes reward while minimizing potential risks. This multifaceted process engages numerous brain regions, with the prefrontal cortex playing a central role in executive functions, including the ability to weigh alternatives, anticipate consequences, and inhibit impulsive responses that might lead to suboptimal outcomes.<br><br>(2) The interplay between the brain's emotional and rational systems significantly influences our decisions. The amygdala and limbic structures rapidly process emotional information, often generating intuitive responses before conscious deliberation occurs. Meanwhile, the prefrontal cortex implements more analytical processing, attempting to regulate emotional impulses and incorporate logical considerations. This dual-processing model helps explain why individuals sometimes make choices that appear to contradict their stated goals or values—emotional responses may override rational analysis, particularly under conditions of stress, time pressure, or when decisions involve potential threats.<br><br>(3) Neurotransmitters exert profound effects on decision-making processes, with dopamine being particularly influential in reward-based choices. The dopaminergic system responds not only to immediate rewards but also to the anticipation of future rewards, creating prediction signals that drive learning and motivate behavior. Disruptions in dopamine signaling, whether due to neurological conditions, pharmacological interventions, or substance use, can significantly alter risk assessment and reward valuation, potentially leading to impulsive or maladaptive decision patterns. Other neurotransmitters, including serotonin and norepinephrine, further modulate aspects of decision making such as patience, attention, and response to uncertainty.<br><br>(4) Individual differences in decision-making tendencies can be partially attributed to neuroanatomical variations and genetic factors. Neuroimaging studies reveal that people who consistently make more deliberative choices show greater activation in the lateral prefrontal cortex, while those prone to impulsivity often exhibit heightened responses in subcortical reward regions. Furthermore, genetic polymorphisms affecting neurotransmitter systems contribute to stable differences in risk tolerance, exploration versus exploitation tendencies, and susceptibility to decision biases. These biological predispositions interact with developmental experiences and environmental contexts to shape each individual's characteristic decision-making profile.<br><br>(5) Recent advances in computational neuroscience have led to increasingly sophisticated models of how the brain evaluates options and selects actions. These models conceptualize decision making as a process of evidence accumulation, where neural circuits integrate information until a decision threshold is reached. This framework helps explain how factors such as prior beliefs, sensory evidence quality, and time constraints influence both the speed and accuracy of decisions. By combining neuroimaging techniques with computational modeling, researchers continue to refine our understanding of the neural algorithms underlying human decision processes, potentially offering insights that could improve both individual decision making and institutional decision frameworks.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the sentence with correct subject-verb agreement:",
+      "options": {
+        "A": "The number of participants in the study have increased significantly this year.",
+        "B": "A series of experiments were conducted to test the hypothesis.",
+        "C": "Each of the students in the advanced class has completed the assignment.",
+        "D": "The committee disagree about how to proceed with the project."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Identify the sentence with the correct use of articles:",
+      "options": {
+        "A": "She's studying to become an university professor specializing in the quantum physics.",
+        "B": "The research conducted at MIT provides an interesting perspective on the climate change.",
+        "C": "He gave a fascinating lecture about the evolution of human consciousness.",
+        "D": "We visited historical site during our tour of ancient civilization."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the sentence with the correct use of verb tenses:",
+      "options": {
+        "A": "By the time the professor arrives, the students will completed the experiment.",
+        "B": "She will graduate next year after she has been studying for five years.",
+        "C": "We will have been living in this city for ten years by next month.",
+        "D": "When he returned home, he realized that someone has broken into his apartment."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence demonstrates correct use of parallel structure?",
+      "options": {
+        "A": "The researcher not only collected the data but also analyzing it thoroughly.",
+        "B": "She enjoys reading scientific journals, solving complex equations, and to program computers.",
+        "C": "The conference focused on innovation, sustainability, and developing new technologies.",
+        "D": "His interests include molecular biology, quantum physics, and environmental science."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the sentence with the correct use of relative clauses:",
+      "options": {
+        "A": "The scientist which discovered the new element received the Nobel Prize.",
+        "B": "The research paper that conclusions were questioned has been retracted.",
+        "C": "The professor whose lecture I attended yesterday is a renowned expert in neuroscience.",
+        "D": "The laboratory where it contains advanced equipment is open to graduate students."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Identify the sentence with correct use of conditionals:",
+      "options": {
+        "A": "If I would have known about the conference, I would have submitted a paper.",
+        "B": "Had the experiment been successful, the team would received additional funding.",
+        "C": "Unless you will complete the prerequisites, you cannot enroll in the advanced course.",
+        "D": "If the hypothesis proves correct, it will revolutionize our understanding of the phenomenon."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which sentence contains a correctly formed passive construction?",
+      "options": {
+        "A": "The research was conducting by a team of international scientists.",
+        "B": "An innovative solution to the problem has been developed by the engineering department.",
+        "C": "The results of the experiment will publishing in next month's journal.",
+        "D": "The theory been challenged by several prominent scholars in the field."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the sentence with correct use of reported speech:",
+      "options": {
+        "A": "The professor announced that the final exam will be comprehensive.",
+        "B": "She asked me where did I find the reference materials for my research.",
+        "C": "He told us that he had been working on the project for three years.",
+        "D": "The researcher explained that she has discovered a new compound yesterday."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Identify the sentence with correct use of gerunds and infinitives:",
+      "options": {
+        "A": "The scientist avoided to discuss the controversial aspects of her research.",
+        "B": "The professor recommended to read several articles before the lecture.",
+        "C": "They denied having manipulated the experimental data.",
+        "D": "She stopped taking notes because to listen more carefully to the presentation."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the sentence with correct use of modal verbs:",
+      "options": {
+        "A": "According to the professor, all students must to submit their proposals by Friday.",
+        "B": "The researchers must have overlooked an important variable in their analysis.",
+        "C": "You should considering applying for the research grant before the deadline.",
+        "D": "They may not attended the conference due to funding constraints."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Which sentence demonstrates correct use of a participle clause?",
+      "options": {
+        "A": "Having completed the experiment, the results were analyzed by the research team.",
+        "B": "Walking through the laboratory, several ongoing experiments caught my attention.",
+        "C": "Recognized for his groundbreaking research, the scientist received numerous awards.",
+        "D": "While conducting the survey, the power outage occurred unexpectedly."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the sentence with the correct use of articles and prepositions:",
+      "options": {
+        "A": "The professor referred to an unique theory in his latest publication.",
+        "B": "They conducted the research in collaboration with an university in Germany.",
+        "C": "She is an expert on the quantum mechanics and its applications in computing.",
+        "D": "The study was conducted by researchers at the University of Cambridge."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Identify the sentence with correct subject-verb agreement with collective nouns:",
+      "options": {
+        "A": "The faculty are divided on whether to approve the new curriculum.",
+        "B": "The committee have reached their decision regarding the grant application.",
+        "C": "The staff is expressing their concerns about the proposed changes.",
+        "D": "The board of directors have scheduled their next meeting for June."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the sentence with correct use of the subjunctive mood:",
+      "options": {
+        "A": "The professor insisted that the student follows the laboratory protocols.",
+        "B": "It is essential that every researcher maintains detailed records of their experiments.",
+        "C": "The committee recommended that he is appointed as the new department chair.",
+        "D": "The director suggested that all participants be notified of the schedule change."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the sentence with correct placement of adverbs:",
+      "options": {
+        "A": "She almost has finished analyzing all the experimental data.",
+        "B": "They completely were satisfied with the results of the study.",
+        "C": "The researchers carefully documented each stage of the experiment.",
+        "D": "The professor only was interested in the practical applications of the theory."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the appropriate phrasal verb: 'After considering all the evidence, the researchers decided to ___ their original hypothesis.'",
+      "options": {
+        "A": "look into",
+        "B": "come across",
+        "C": "take after",
+        "D": "rule out"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the most appropriate collocation: 'The study's findings ___ significant implications for future research in this field.'",
+      "options": {
+        "A": "have",
+        "B": "make",
+        "C": "do",
+        "D": "give"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the appropriate expression: 'Despite initial skepticism, the revolutionary theory has gradually ___ acceptance in the scientific community.'",
+      "options": {
+        "A": "taken up",
+        "B": "brought about",
+        "C": "gained",
+        "D": "made off"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Select the most appropriate idiom: 'The unexpected experimental results ___ the research team, forcing them to reconsider their fundamental assumptions.'",
+      "options": {
+        "A": "took the wind out of the sails of",
+        "B": "hit the nail on the head for",
+        "C": "cut corners for",
+        "D": "broke the ice with"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the most appropriate linking expression: 'The initial data seemed promising; ___, further analysis revealed significant methodological flaws.'",
+      "options": {
+        "A": "therefore",
+        "B": "similarly",
+        "C": "consequently",
+        "D": "however"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the appropriate phrase: 'The conference presentation ___ intense debate among the attending scientists.'",
+      "options": {
+        "A": "came up with",
+        "B": "sparked",
+        "C": "took place",
+        "D": "broke down"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the most appropriate collocation: 'The researcher conducted a(n) ___ analysis of the experimental data before publishing the results.'",
+      "options": {
+        "A": "thorough",
+        "B": "strong",
+        "C": "heavy",
+        "D": "deep"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the appropriate phrasal verb: 'The research team decided to ___ the project due to insufficient funding.'",
+      "options": {
+        "A": "call off",
+        "B": "take up",
+        "C": "bring about",
+        "D": "look into"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the most appropriate expression: 'After years of dedicated research, the scientist finally ___ a breakthrough in understanding the mechanism.'",
+      "options": {
+        "A": "arrived at",
+        "B": "took after",
+        "C": "achieved",
+        "D": "made off"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the appropriate fixed expression: 'The implications of this discovery are significant, ___ for our understanding of cognitive processes.'",
+      "options": {
+        "A": "by all means",
+        "B": "on the contrary",
+        "C": "all in all",
+        "D": "particularly"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Which word best describes someone who refuses to follow orders or who defies authority?",
+      "options": {
+        "A": "insubordinate",
+        "B": "rebellious",
+        "C": "mutinous",
+        "D": "defiant"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Which word best describes a person or thing that is loyal, reliable, and hardworking?",
+      "options": {
+        "A": "tenacious",
+        "B": "resolute",
+        "C": "stalwart",
+        "D": "steadfast"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Which adjective relates to war or military affairs?",
+      "options": {
+        "A": "militant",
+        "B": "bellicose",
+        "C": "martial",
+        "D": "combative"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which word describes something that is most noticeable or important?",
+      "options": {
+        "A": "prominent",
+        "B": "conspicuous",
+        "C": "paramount",
+        "D": "salient"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Which verb means to destroy completely, leaving no trace?",
+      "options": {
+        "A": "devastate",
+        "B": "eradicate",
+        "C": "annihilate",
+        "D": "obliterate"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Which noun refers to a person who humbly asks or begs for something?",
+      "options": {
+        "A": "petitioner",
+        "B": "supplicant",
+        "C": "solicitor",
+        "D": "appellant"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Which verb means to appease or win over someone by doing something that pleases them?",
+      "options": {
+        "A": "placate",
+        "B": "mollify",
+        "C": "propitiate",
+        "D": "pacify"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Which adjective describes something that is clear, definite, and leaves no doubt?",
+      "options": {
+        "A": "explicit",
+        "B": "absolute",
+        "C": "unequivocal",
+        "D": "indisputable"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Which noun refers to complete agreement among all members of a group?",
+      "options": {
+        "A": "consensus",
+        "B": "concord",
+        "C": "harmony",
+        "D": "unanimity"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Which adjective describes something harmful that develops gradually and in a way that is not easily noticed?",
+      "options": {
+        "A": "pernicious",
+        "B": "insidious",
+        "C": "malevolent",
+        "D": "surreptitious"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Which adjective describes something brilliantly and impressively clever or skillful?",
+      "options": {
+        "A": "resplendent",
+        "B": "luminous",
+        "C": "scintillating",
+        "D": "effulgent"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Which adjective describes someone who is extremely poor or lacking in resources?",
+      "options": {
+        "A": "indigent",
+        "B": "destitute",
+        "C": "impecunious",
+        "D": "penurious"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Which verb means to deliberately avoid or keep away from something?",
+      "options": {
+        "A": "evade",
+        "B": "elude",
+        "C": "eschew",
+        "D": "shun"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Which adjective describes something that is thinly scattered or distributed; not dense?",
+      "options": {
+        "A": "scant",
+        "B": "meager",
+        "C": "sparse",
+        "D": "infrequent"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Which adjective describes an approach that focuses on practical considerations rather than theoretical ideals?",
+      "options": {
+        "A": "utilitarian",
+        "B": "pragmatic",
+        "C": "functional",
+        "D": "empirical"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, what is the primary role of the prefrontal cortex in decision making?",
+      "options": {
+        "A": "Processing emotional responses",
+        "B": "Executing motor commands",
+        "C": "Executive functions including weighing alternatives",
+        "D": "Generating intuitive reactions"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "The passage suggests that emotional responses sometimes override rational analysis primarily when:",
+      "options": {
+        "A": "The amygdala is damaged",
+        "B": "Under conditions like stress or time pressure",
+        "C": "The prefrontal cortex is more active than usual",
+        "D": "Dopamine levels are perfectly balanced"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "Which neurotransmitter does the passage identify as being particularly influential in reward-based choices?",
+      "options": {
+        "A": "Serotonin",
+        "B": "Norepinephrine",
+        "C": "Dopamine",
+        "D": "Acetylcholine"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to the passage, what contributes to individual differences in decision-making tendencies?",
+      "options": {
+        "A": "Only environmental factors",
+        "B": "Neuroanatomical variations and genetic factors",
+        "C": "Age and gender exclusively",
+        "D": "Educational background"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Based on the passage, individuals who make more deliberative choices typically show:",
+      "options": {
+        "A": "Greater activation in subcortical reward regions",
+        "B": "Reduced activity in all brain regions",
+        "C": "Greater activation in the lateral prefrontal cortex",
+        "D": "Exclusive reliance on the limbic system"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What does the passage describe as a key advancement in computational neuroscience related to decision making?",
+      "options": {
+        "A": "Models of evidence accumulation",
+        "B": "Techniques to eliminate emotional influences",
+        "C": "Methods to bypass the prefrontal cortex",
+        "D": "Surgical interventions for decision enhancement"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to the passage, the dopaminergic system responds to:",
+      "options": {
+        "A": "Only immediate rewards",
+        "B": "Only future rewards",
+        "C": "Both immediate rewards and the anticipation of future rewards",
+        "D": "Neither immediate nor future rewards"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What does the passage suggest about the relationship between the brain's emotional and rational systems?",
+      "options": {
+        "A": "They function completely independently",
+        "B": "The rational system always dominates",
+        "C": "They are in significant interplay during decision making",
+        "D": "The emotional system only activates in emergency situations"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to the passage, what factors influence both the speed and accuracy of decisions in computational models?",
+      "options": {
+        "A": "Only the quality of sensory evidence",
+        "B": "Prior beliefs, sensory evidence quality, and time constraints",
+        "C": "Only time constraints",
+        "D": "Only prior experiences"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What does the passage identify as a potential outcome of disruptions in dopamine signaling?",
+      "options": {
+        "A": "Enhanced rational decision making",
+        "B": "Improved risk assessment",
+        "C": "Impulsive or maladaptive decision patterns",
+        "D": "Complete inability to make any decisions"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
