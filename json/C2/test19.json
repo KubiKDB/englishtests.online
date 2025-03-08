@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Behavioral finance represents a paradigm shift in economic theory, challenging the long-established assumption that financial markets operate with perfect rationality. Traditional financial theories, such as the Efficient Market Hypothesis, posit that investors consistently make decisions to maximize their expected utility and that asset prices fully reflect all available information. However, the field of behavioral finance, which emerged in the 1970s through the pioneering work of psychologists Daniel Kahneman and Amos Tversky, offers compelling evidence that psychological factors significantly influence investment decisions, often leading to systematic deviations from theoretical efficiency—phenomena known as market anomalies.<br><br>(2) One of the most documented anomalies is loss aversion, whereby investors experience the psychological impact of losses more acutely than equivalent gains. Studies consistently demonstrate that the negative emotional response to losing $1,000 substantially outweighs the positive feelings associated with gaining the same amount. This asymmetry frequently manifests in investment behavior through the disposition effect—the tendency for investors to prematurely sell assets that have appreciated in value while retaining depreciated investments in the hope of eventual recovery. Such behavior directly contradicts rational decision-making models, which suggest that tax considerations should incentivize precisely the opposite approach.<br><br>(3) Another significant psychological factor driving market anomalies is confirmation bias, which describes investors' propensity to seek out, interpret, and prioritize information that validates their preexisting beliefs while minimizing contradictory evidence. This cognitive distortion can perpetuate market inefficiencies by creating information bubbles where investors collectively reinforce flawed assessments. Relatedly, herding behavior—the tendency to mimic the investment actions of others rather than conducting independent analysis—can amplify market movements beyond fundamentally justified levels, contributing to phenomena such as speculative bubbles and their subsequent dramatic corrections.<br><br>(4) Overconfidence represents yet another psychological bias with profound implications for financial markets. Research indicates that investors systematically overestimate both their knowledge and predictive capabilities, leading to excessive trading activity and risk-taking. This overconfidence manifests in various forms: illusion of control (believing one can influence random outcomes), hindsight bias (the tendency to perceive past events as having been predictable), and self-attribution bias (attributing successful outcomes to skill while blaming failures on external factors). Collectively, these cognitive distortions can lead to market inefficiencies through mispriced securities and enhanced volatility.<br><br>(5) The recognition of these psychological influences has profound implications for financial theory and practice. Asset pricing models increasingly incorporate behavioral factors alongside traditional variables, while investment professionals develop strategies specifically designed to capitalize on predictable cognitive biases. Regulatory approaches have evolved to account for psychological vulnerabilities, implementing measures such as cooling-off periods for significant financial decisions and enhanced disclosure requirements. As our understanding of the intersection between psychology and finance deepens, both individual investors and institutional participants stand to benefit from heightened awareness of how cognitive limitations shape market dynamics—potentially leading to more informed decision-making and ultimately more efficient markets.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following sentences demonstrates correct nominalization?",
+      "options": {
+        "A": "The researchers quickly analyzed the data and presented their findings.",
+        "B": "Their promptly arrangement of the conference details impressed the committee.",
+        "C": "The rapid deterioration of environmental conditions demands immediate action.",
+        "D": "The scientists were surprising by the unexpected results of the experiment."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the sentence that correctly uses the subjunctive mood.",
+      "options": {
+        "A": "The committee recommends that the proposal is approved immediately.",
+        "B": "It is essential that each participant submits their application by Friday.",
+        "C": "The professor insisted that the student attends all remaining lectures.",
+        "D": "The committee demanded that the policy be implemented without delay."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence contains the correct dependent preposition?",
+      "options": {
+        "A": "The research team is comprised from experts in various fields.",
+        "B": "The discovery was attributed to a series of fortuitous circumstances.",
+        "C": "The phenomenon is different from what the scientists had predicted.",
+        "D": "Their analysis corresponds with the preliminary findings of the study."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Identify the sentence with a correctly formed nominal relative clause.",
+      "options": {
+        "A": "What they discovered in the excavation has revolutionized our understanding of ancient civilizations.",
+        "B": "The archeologists were excited about that they found in the tomb.",
+        "C": "Whatever artifacts they uncovered were immediately sent to the laboratory.",
+        "D": "The researchers carefully documented which they considered significant findings."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the sentence that demonstrates the correct use of hypothetical structures with 'wish' or 'if only'.",
+      "options": {
+        "A": "I wish I can attend the conference next month, but my schedule is already full.",
+        "B": "If only we would have arrived earlier, we might have secured better seats.",
+        "C": "I wish that I have studied more diligently during my undergraduate years.",
+        "D": "If only the researchers had access to more advanced equipment, their results might have been more conclusive."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the sentence that uses an advanced reporting verb correctly.",
+      "options": {
+        "A": "The scientist claimed that his discovery would revolutionize the field.",
+        "B": "The expert acknowledged that further research was necessary to validate the preliminary findings.",
+        "C": "The professor explained the students about the complex theory during the lecture.",
+        "D": "The researcher insisted the importance of methodological rigor in experimental design."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which sentence correctly demonstrates emphasis using 'what' or 'such'?",
+      "options": {
+        "A": "The presentation was such informative that the audience requested additional sessions.",
+        "B": "What a groundbreaking discovery the team has made in quantum physics!",
+        "C": "Such a researchers who dedicated their careers to this field deserve recognition.",
+        "D": "What the committee decided was postpone the vote until the next meeting."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Which sentence correctly demonstrates the perfect aspect in depth?",
+      "options": {
+        "A": "By the time the conference begins, the researchers will have been analyzing the data for three months.",
+        "B": "The scientists have been working on this project since two years.",
+        "C": "When the funding was approved, the team already completed the preliminary research.",
+        "D": "The professor has been taught at this institution before he retired last year."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Identify the sentence that correctly uses an alternative conditional form.",
+      "options": {
+        "A": "Were the findings to be confirmed, it would revolutionize our understanding of cellular biology.",
+        "B": "If the experiment would succeed, the team will publish their results next month.",
+        "C": "Should the hypothesis was proven correct, it will have significant implications.",
+        "D": "Had they would have followed the protocol precisely, the results might be more consistent."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the sentence with the correctly used prepositional phrase.",
+      "options": {
+        "A": "The researchers arrived to an unexpected conclusion after reviewing the data.",
+        "B": "In accordance with international protocols, all specimens were properly documented.",
+        "C": "The team proceeded with the experiment despite of the limited resources available.",
+        "D": "The study was conducted by accordance to established methodological principles."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Select the sentence that demonstrates the correct use of a phrasal verb with multiple meanings.",
+      "options": {
+        "A": "The research team set up the laboratory equipment before beginning the experiment.",
+        "B": "The conference organizers put off the event until more participants could attend.",
+        "C": "The scientists carried out extensive analysis before publishing their findings.",
+        "D": "The committee members held up the controversial proposal for further discussion."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence demonstrates the advanced use of 'the'?",
+      "options": {
+        "A": "The historical records indicate a significant climate shift during that period.",
+        "B": "The wealthy often have different perspectives on taxation than the poor.",
+        "C": "The researchers from the university conducted the experiment last month.",
+        "D": "The government announced the new policy regarding renewable energy."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Identify the sentence with a correctly formed conditional sentence of mixed type.",
+      "options": {
+        "A": "If the researchers had more time, they would conduct additional experiments.",
+        "B": "If the theory will be proven correct, it would revolutionize the field.",
+        "C": "If the data had been analyzed correctly, the conclusion would be different.",
+        "D": "If the team had secured adequate funding, they would be conducting field research now."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Select the sentence that correctly uses a mixed conditional.",
+      "options": {
+        "A": "If I studied harder, I would have passed the examination last semester.",
+        "B": "If she had taken the medication regularly, she would not be experiencing complications now.",
+        "C": "If they would have invested in that company, they would be wealthy today.",
+        "D": "If he would be more careful, he would not have made that mistake."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Which sentence correctly uses a formulaic expression?",
+      "options": {
+        "A": "The committee, despite the controversy, approved the proposal.",
+        "B": "Taking all factors into consideration, the researchers concluded that further investigation was warranted.",
+        "C": "The scientific community with a view to advance knowledge continued to explore alternative hypotheses.",
+        "D": "The experts in spite of their disagreements recognized the significance of the findings."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Select the most appropriate academic collocation to complete the sentence: 'The research team __________ a thorough analysis of the experimental data.'",
+      "options": {
+        "A": "made",
+        "B": "did",
+        "C": "conducted",
+        "D": "performed"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the option that best completes the sentence with appropriate hedging language: 'Based on the preliminary findings, it __________ that the treatment has potential therapeutic benefits.'",
+      "options": {
+        "A": "is proven",
+        "B": "appears",
+        "C": "is obvious",
+        "D": "undoubtedly shows"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Identify the sentence with the most appropriate academic register.",
+      "options": {
+        "A": "The experiment's results totally contradicted what we thought would happen.",
+        "B": "The empirical evidence obtained from the study appears to refute the initial hypothesis.",
+        "C": "The data we got from our tests didn't match up with our expectations at all.",
+        "D": "Our experiment showed the hypothesis was wrong, which was a big surprise."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Select the most precise and concise revision of the following sentence: 'Due to the fact that there were contamination issues with the samples that were being tested, the results that the researchers obtained were inconclusive and unreliable.'",
+      "options": {
+        "A": "Because there were contamination issues with the samples being tested, the results the researchers obtained were inconclusive and unreliable.",
+        "B": "Sample contamination rendered the research results inconclusive and unreliable.",
+        "C": "The samples had contamination issues, so the results that the researchers got were not conclusive or reliable.",
+        "D": "The researchers got unreliable and inconclusive results because of the fact that the samples they were testing had contamination issues."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the sentence that demonstrates parallel structure.",
+      "options": {
+        "A": "The research involved collecting data, analyzing results, and the formulation of conclusions.",
+        "B": "The conference included presentations, workshops, and participants networked during breaks.",
+        "C": "The professor's responsibilities include teaching undergraduate courses, conducting research, and mentoring graduate students.",
+        "D": "The committee must review the proposal, evaluate its feasibility, and then they will make recommendations."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the most appropriate transition to connect these two sentences: 'The initial results were promising. __________ further testing revealed significant limitations in the methodology.'",
+      "options": {
+        "A": "Therefore,",
+        "B": "Nevertheless,",
+        "C": "Furthermore,",
+        "D": "Similarly,"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Identify the sentence with the most precise and specific vocabulary.",
+      "options": {
+        "A": "The study looked at how different things affect how plants grow.",
+        "B": "The investigation assessed the impact of various environmental factors on plant development rates.",
+        "C": "The scientists wanted to see what makes plants grow better or worse in different conditions.",
+        "D": "The researchers checked how several variables changed plant growth in their experiment."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the sentence with correct punctuation.",
+      "options": {
+        "A": "The manuscript which was discovered in the archive dates back to the 16th century.",
+        "B": "After collecting the data, the researchers analyzed the results, and published their findings.",
+        "C": "The symposium featured three keynote speakers: Dr. Chen, an expert in quantum physics; Professor Smith, a renowned mathematician; and Dr. Garcia, a pioneer in computational linguistics.",
+        "D": "Although the hypothesis was well-formulated it lacked sufficient empirical support."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Select the sentence that demonstrates the correct use of an adverbial connector.",
+      "options": {
+        "A": "The researchers conducted multiple trials; however, the results remained inconsistent.",
+        "B": "The scientists analyzed the data, consequently, they revised their hypothesis.",
+        "C": "The experiment failed to produce conclusive results, despite the team revised the methodology several times.",
+        "D": "The findings contradicted previous studies, although, the researchers defended their methodology."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the option that completes the sentence with the most appropriate idiomatic expression: 'After years of painstaking research, the discovery of the new compound was __________.'",
+      "options": {
+        "A": "a shot in the dark",
+        "B": "a blessing in disguise",
+        "C": "a drop in the bucket",
+        "D": "a breakthrough"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "The term 'sobriety' most accurately refers to:",
+      "options": {
+        "A": "A state of excessive enthusiasm or excitement",
+        "B": "The quality of being sober, temperate, or sparing in the use of alcoholic beverages",
+        "C": "The process of gradual recovery from illness",
+        "D": "A formal method of addressing dignitaries"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "The term 'confluence' most precisely means:",
+      "options": {
+        "A": "A state of conflict or disagreement",
+        "B": "The process of developing self-confidence",
+        "C": "The junction of two or more rivers or streams",
+        "D": "A formal agreement between disputing parties"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Which definition best describes a 'shard'?",
+      "options": {
+        "A": "A small aquatic reptile",
+        "B": "A fragment of a brittle substance, such as pottery or glass",
+        "C": "A traditional musical instrument from East Asia",
+        "D": "A hereditary title of nobility"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "The term 'calumny' most accurately refers to:",
+      "options": {
+        "A": "A type of ceremonial gathering in ancient Rome",
+        "B": "A mathematical formula used to calculate geometric volumes",
+        "C": "The deliberate making of false statements about someone to damage their reputation",
+        "D": "A rare astronomical phenomenon"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "The verb 'ruminate' most precisely means to:",
+      "options": {
+        "A": "Move quickly from one place to another",
+        "B": "Think deeply about something",
+        "C": "Speak angrily or forcefully",
+        "D": "Organize items systematically"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "The term 'desultory' most accurately describes something that is:",
+      "options": {
+        "A": "Extremely detailed and meticulous",
+        "B": "Without a clear plan or purpose; random and disconnected",
+        "C": "Related to desert landscapes or arid environments",
+        "D": "Deliberately hostile or antagonistic"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "The adjective 'itinerant' most precisely describes:",
+      "options": {
+        "A": "Something that is irritating or annoying",
+        "B": "A persuasive or eloquent speaker",
+        "C": "A person who travels from place to place",
+        "D": "Something that occurs repeatedly or habitually"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "The verb 'quaff' most accurately means to:",
+      "options": {
+        "A": "Argue vehemently or passionately",
+        "B": "Drink something heartily",
+        "C": "Question or challenge an established belief",
+        "D": "Withdraw quietly or unobtrusively"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Which definition best describes the term 'untoward'?",
+      "options": {
+        "A": "Unexpected and inappropriate or inconvenient",
+        "B": "Precisely directed or focused",
+        "C": "Lacking in physical strength or energy",
+        "D": "Not yet fully developed or mature"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "The term 'juggernaut' most accurately refers to:",
+      "options": {
+        "A": "A skilled street performer or entertainer",
+        "B": "A form of ancient maritime navigation",
+        "C": "A massive, inexorable force that seems to crush everything in its path",
+        "D": "An improvised explosive device"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "The term 'sycophant' most precisely describes:",
+      "options": {
+        "A": "A musical instrument in the woodwind family",
+        "B": "A person who acts obsequiously toward someone important to gain advantage",
+        "C": "A medical condition affecting the respiratory system",
+        "D": "A theatrical style characterized by exaggerated gestures"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Which definition best describes the term 'inane'?",
+      "options": {
+        "A": "Marked by cruelty or malevolence",
+        "B": "Lacking in depth or substance; silly or foolish",
+        "C": "Extremely intricate or complicated",
+        "D": "Naturally occurring or inherent"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "The term 'behemoth' most accurately refers to:",
+      "options": {
+        "A": "A type of formal ceremonial garment",
+        "B": "An ancient musical notation system",
+        "C": "Something of enormous size, power, or importance",
+        "D": "A medieval unit of measurement"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "The verb 'supplant' most precisely means to:",
+      "options": {
+        "A": "Provide additional support or reinforcement",
+        "B": "Make a humble or earnest request",
+        "C": "Replace or supersede, especially through force or scheming",
+        "D": "Add supplementary information to a document"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "The verb 'refute' most accurately means to:",
+      "options": {
+        "A": "Temporarily repair or restore something damaged",
+        "B": "Prove that something is false or incorrect",
+        "C": "Return to a previous condition or practice",
+        "D": "Reject a formal offer or proposal"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, behavioral finance challenges which traditional assumption?",
+      "options": {
+        "A": "That asset prices are determined by supply and demand",
+        "B": "That financial markets operate with perfect rationality",
+        "C": "That government regulation ensures market efficiency",
+        "D": "That economic theories require empirical validation"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "The passage identifies loss aversion as:",
+      "options": {
+        "A": "A traditional financial theory developed in the 1970s",
+        "B": "A psychological bias whereby investors overestimate their predictive capabilities",
+        "C": "A market anomaly where negative emotional responses to losses outweigh reactions to equivalent gains",
+        "D": "A regulatory approach designed to protect vulnerable investors"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "Which of the following best explains the 'disposition effect' mentioned in paragraph 2?",
+      "options": {
+        "A": "The tendency to sell winning investments too early while holding losing ones too long",
+        "B": "The propensity to make investment decisions based on tax considerations",
+        "C": "The practice of diversifying investment portfolios to minimize risk",
+        "D": "The emotional impact of gaining $1,000 in the financial markets"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to paragraph 3, which psychological factor creates 'information bubbles'?",
+      "options": {
+        "A": "Loss aversion",
+        "B": "Confirmation bias",
+        "C": "Herding behavior",
+        "D": "Overconfidence"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "The passage suggests that herding behavior can lead to:",
+      "options": {
+        "A": "More accurate asset pricing models",
+        "B": "Enhanced investor rationality through collective wisdom",
+        "C": "Market movements beyond fundamentally justified levels",
+        "D": "Decreased volatility in financial markets"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to paragraph 4, self-attribution bias refers to:",
+      "options": {
+        "A": "The belief that one can influence random outcomes",
+        "B": "The tendency to perceive past events as having been predictable",
+        "C": "The propensity to mimic the investment actions of others",
+        "D": "Attributing successful outcomes to skill while blaming failures on external factors"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Based on the passage, which of the following regulatory approaches has been implemented to account for psychological vulnerabilities?",
+      "options": {
+        "A": "Restrictions on certain types of high-risk investments",
+        "B": "Mandatory financial literacy education for investors",
+        "C": "Cooling-off periods for significant financial decisions",
+        "D": "Elimination of tax incentives that reinforce irrational behavior"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The passage indicates that modern asset pricing models:",
+      "options": {
+        "A": "Have completely replaced traditional financial theories",
+        "B": "Incorporate behavioral factors alongside traditional variables",
+        "C": "Have failed to account for market anomalies",
+        "D": "Focus exclusively on psychological influences"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Which of the following would be the most accurate title for the passage?",
+      "options": {
+        "A": "The Failure of Traditional Financial Theories",
+        "B": "Psychological Biases and Their Effects on Financial Decision-Making",
+        "C": "Regulatory Approaches to Market Inefficiencies",
+        "D": "The Evolution of Behavioral Finance Since the 1970s"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "The author of the passage would most likely agree with which of the following statements?",
+      "options": {
+        "A": "Psychological factors make financial markets fundamentally unpredictable",
+        "B": "Traditional financial theories remain superior to behavioral finance models",
+        "C": "Awareness of cognitive biases may lead to more informed decision-making and efficient markets",
+        "D": "Market anomalies are temporary and will disappear as financial literacy improves"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
