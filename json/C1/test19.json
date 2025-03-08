@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Environmental sustainability has emerged as a paramount concern for economists and policymakers alike in recent decades. The traditional view that economic growth and environmental protection are mutually exclusive objectives has gradually given way to a more nuanced understanding of their interdependence. Contemporary economic theories increasingly recognize that long-term prosperity hinges on the preservation of natural capital—the stock of natural resources that provides valuable goods and services to humanity—as depletion of these resources can impose significant costs on future generations.<br><br>(2) Market-based instruments have proven particularly effective in addressing environmental externalities without unduly hampering economic development. Carbon taxes and emissions trading systems, for instance, incorporate the social cost of carbon into market prices, thereby incentivizing businesses and consumers to reduce their carbon footprint. These mechanisms allow for environmental objectives to be met at the lowest possible cost to society by leveraging the efficiency of market forces rather than relying solely on command-and-control regulations.<br><br>(3) The transition toward a green economy also presents substantial opportunities for innovation and job creation. Investments in renewable energy, sustainable agriculture, and circular economy initiatives have the potential to stimulate economic growth while simultaneously reducing environmental degradation. Studies have shown that green industries often generate more employment per unit of investment than traditional carbon-intensive sectors, challenging the assumption that environmental policies necessarily result in job losses or reduced competitiveness.<br><br>(4) Nevertheless, the path toward environmental sustainability is fraught with challenges from an economic perspective. Developing countries, in particular, face the daunting task of raising living standards while minimizing ecological damage—a balancing act that industrialized nations did not have to perform during their own development. International cooperation and financial mechanisms are therefore essential to ensure an equitable distribution of the costs and benefits associated with global environmental action.<br><br>(5) Ultimately, the economic case for environmental sustainability rests on the recognition that our economic system is embedded within, and dependent upon, the natural environment. The depletion of natural resources, loss of biodiversity, and climate change pose systemic risks to economic stability that far outweigh the short-term costs of transitioning to more sustainable practices. Forward-thinking economists now advocate for a fundamental shift in how we measure economic success, moving beyond GDP to incorporate indicators that reflect the health of both human and natural systems.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which form correctly completes this sentence? 'If the government _____ stricter environmental regulations last year, we would have seen less pollution by now.'",
+      "options": {
+        "A": "had imposed",
+        "B": "would impose",
+        "C": "has imposed",
+        "D": "was imposing"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the grammatically correct sentence:",
+      "options": {
+        "A": "Neither the CEO nor his assistants was aware of the environmental impact report.",
+        "B": "Neither the CEO nor his assistants were aware of the environmental impact report.",
+        "C": "Neither the CEO nor his assistants have been aware of the environmental impact report.",
+        "D": "Neither the CEO nor his assistants are being aware of the environmental impact report."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following sentences contains a correct use of the subjunctive mood?",
+      "options": {
+        "A": "The committee insists that the company follows the new regulations.",
+        "B": "The committee insists that the company follow the new regulations.",
+        "C": "The committee insists that the company had followed the new regulations.",
+        "D": "The committee insists that the company is following the new regulations."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Identify the sentence with the correct participle usage:",
+      "options": {
+        "A": "Having completed the environmental assessment, the project was approved by the board.",
+        "B": "Having completed the environmental assessment, the board approved the project.",
+        "C": "The project was approved by the board, having completed the environmental assessment.",
+        "D": "The board, having completed the environmental assessment, it approved the project."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Select the sentence with the correct use of inversion:",
+      "options": {
+        "A": "Under no circumstances we should ignore environmental warnings.",
+        "B": "Under no circumstances should we ignore environmental warnings.",
+        "C": "We should under no circumstances ignore environmental warnings.",
+        "D": "Under no circumstances we ignore environmental warnings."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Choose the sentence with the correct use of comparatives:",
+      "options": {
+        "A": "Renewable energy is becoming more cheaper than fossil fuels.",
+        "B": "Renewable energy is becoming cheaper and cheaper than fossil fuels.",
+        "C": "Renewable energy is becoming more and more cheapest than fossil fuels.",
+        "D": "Renewable energy is becoming the more cheaper than fossil fuels."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Identify the correct conditional form:",
+      "options": {
+        "A": "If companies reduce their carbon emissions, they would have received tax benefits.",
+        "B": "If companies had reduced their carbon emissions, they would have received tax benefits.",
+        "C": "If companies would reduce their carbon emissions, they will receive tax benefits.",
+        "D": "If companies had reduced their carbon emissions, they will have received tax benefits."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the sentence with the correct passive construction:",
+      "options": {
+        "A": "The environmental policy is believed to have been influenced by corporate interests.",
+        "B": "The environmental policy is believed to be influenced by corporate interests.",
+        "C": "The environmental policy has believed to be influenced by corporate interests.",
+        "D": "The environmental policy is believing to have been influenced by corporate interests."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence demonstrates correct usage of the gerund?",
+      "options": {
+        "A": "The company avoided to pay the environmental fines.",
+        "B": "The company avoided paying the environmental fines.",
+        "C": "The company avoided pay the environmental fines.",
+        "D": "The company avoided to paying the environmental fines."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the sentence with the correct use of reported speech:",
+      "options": {
+        "A": "The minister said that sustainable practices will be incentivized next year.",
+        "B": "The minister said that sustainable practices would be incentivized the following year.",
+        "C": "The minister said that sustainable practices would be incentivized next year.",
+        "D": "The minister said that sustainable practices will be incentivized the following year."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Identify the sentence with the correct use of articles:",
+      "options": {
+        "A": "An UNESCO report highlighted the importance of sustainable development.",
+        "B": "A UNESCO report highlighted the importance of sustainable development.",
+        "C": "The UNESCO report highlighted an importance of sustainable development.",
+        "D": "UNESCO report highlighted the importance of a sustainable development."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence contains a correctly formed relative clause?",
+      "options": {
+        "A": "The environmental scientist whom discoveries revolutionized the field received the award.",
+        "B": "The environmental scientist whose discoveries revolutionized the field received the award.",
+        "C": "The environmental scientist which discoveries revolutionized the field received the award.",
+        "D": "The environmental scientist who's discoveries revolutionized the field received the award."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Select the correct emphatic structure:",
+      "options": {
+        "A": "It was not until the 1990s when the importance of biodiversity was fully recognized.",
+        "B": "It was not until the 1990s that the importance of biodiversity was fully recognized.",
+        "C": "It was not until the 1990s which the importance of biodiversity was fully recognized.",
+        "D": "Not until the 1990s it was that the importance of biodiversity was fully recognized."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the sentence with correct subject-verb agreement:",
+      "options": {
+        "A": "The data collected from various ecosystems show a disturbing trend.",
+        "B": "The data collected from various ecosystems shows a disturbing trend.",
+        "C": "The data collected from various ecosystem show a disturbing trend.",
+        "D": "The data collected from various ecosystem shows a disturbing trends."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Identify the sentence with the correct use of tenses:",
+      "options": {
+        "A": "By the time the new regulations come into effect, many species will have already disappeared.",
+        "B": "By the time the new regulations will come into effect, many species will already disappear.",
+        "C": "By the time the new regulations come into effect, many species will already disappear.",
+        "D": "By the time the new regulations will come into effect, many species will have already disappeared."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the sentence that uses parallel structure correctly:",
+      "options": {
+        "A": "The company focuses on reducing waste, minimizing pollution, and to conserve energy.",
+        "B": "The company focuses on reducing waste, minimizing pollution, and conserving energy.",
+        "C": "The company focuses on waste reduction, minimizing pollution, and energy conservation.",
+        "D": "The company focuses on to reduce waste, to minimize pollution, and conserving energy."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the most appropriate phrasal verb to complete the sentence: 'The environmental conference was _______ due to the pandemic.'",
+      "options": {
+        "A": "called off",
+        "B": "called out",
+        "C": "called for",
+        "D": "called upon"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct collocation:",
+      "options": {
+        "A": "make waste",
+        "B": "do pollution",
+        "C": "raise awareness",
+        "D": "take destruction"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Which option best completes the sentence? 'Despite facing numerous challenges, the environmental organization remained _______ to its mission.'",
+      "options": {
+        "A": "committed",
+        "B": "devoted",
+        "C": "dedicated",
+        "D": "steadfast"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the most appropriate idiomatic expression: 'The new recycling program has really _______ in our community.'",
+      "options": {
+        "A": "taken off",
+        "B": "kicked off",
+        "C": "pulled off",
+        "D": "set off"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the option that best maintains the meaning of the original sentence: 'Companies must comply with environmental regulations or face heavy fines.'",
+      "options": {
+        "A": "If companies do not comply with environmental regulations, they will face heavy fines.",
+        "B": "Companies may comply with environmental regulations to avoid heavy fines.",
+        "C": "Companies complying with environmental regulations will still face heavy fines.",
+        "D": "Environmental regulations state that companies must pay heavy fines regardless of compliance."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Select the correct form of the formal register: 'They're gonna shut down the factory because it's polluting too much.'",
+      "options": {
+        "A": "They will close the factory due to excessive pollution.",
+        "B": "They would shut down the factory as it is polluting excessively.",
+        "C": "They are about to close the factory since it pollutes a lot.",
+        "D": "They might be shutting the factory for its pollution issues."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the most appropriate linking expression to complete the sentence: 'The company implemented sustainable practices; _______, it significantly reduced its carbon footprint.'",
+      "options": {
+        "A": "however",
+        "B": "therefore",
+        "C": "nevertheless",
+        "D": "meanwhile"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Identify the sentence with the most appropriate use of hedging language for academic writing:",
+      "options": {
+        "A": "Climate change is definitely caused by human activities.",
+        "B": "Climate change appears to be significantly influenced by human activities.",
+        "C": "Climate change might be caused by human activities.",
+        "D": "I think climate change is caused by human activities."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the most appropriate register for a formal environmental policy document:",
+      "options": {
+        "A": "We're totally committed to cutting down on pollution and stuff like that.",
+        "B": "Our organization, like, really wants to reduce environmental impact, you know?",
+        "C": "The organization hereby commits to the mitigation of environmental impacts through systematic reduction of emissions.",
+        "D": "We're going to try our best to be eco-friendly and green in everything we do."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Which word most closely matches this definition: 'the ups and downs of life; a change or variation in the course of something'?",
+      "options": {
+        "A": "turbulence",
+        "B": "fluctuation",
+        "C": "vicissitude",
+        "D": "oscillation"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Which word best describes 'a scarcity or insufficient quantity of something'?",
+      "options": {
+        "A": "deficiency",
+        "B": "scantiness",
+        "C": "dearth",
+        "D": "paucity"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Select the word that means 'abusive, venomous, or highly critical language':",
+      "options": {
+        "A": "vitriol",
+        "B": "invective",
+        "C": "diatribe",
+        "D": "tirade"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Choose the word that describes something 'consisting of many volumes or pages; large in volume or size':",
+      "options": {
+        "A": "abundant",
+        "B": "copious",
+        "C": "voluminous",
+        "D": "expansive"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Which term refers to something 'intended to instruct or having educational value'?",
+      "options": {
+        "A": "pedagogical",
+        "B": "instructive",
+        "C": "educational",
+        "D": "didactic"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Select the word that means 'kept secret or done secretively, especially because illicit':",
+      "options": {
+        "A": "covert",
+        "B": "furtive",
+        "C": "clandestine",
+        "D": "surreptitious"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Which word refers to 'an excessive amount of something; an overabundance'?",
+      "options": {
+        "A": "plethora",
+        "B": "abundance",
+        "C": "superfluity",
+        "D": "surfeit"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Choose the word that means 'alleged or claimed, often falsely':",
+      "options": {
+        "A": "alleged",
+        "B": "supposed",
+        "C": "purported",
+        "D": "rumored"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Select the word that describes something 'existing as an essential characteristic or natural quality':",
+      "options": {
+        "A": "intrinsic",
+        "B": "fundamental",
+        "C": "inherent",
+        "D": "innate"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Which word means 'impossible to deny or disprove; indisputable'?",
+      "options": {
+        "A": "undeniable",
+        "B": "incontrovertible",
+        "C": "irrefutable",
+        "D": "indisputable"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Choose the word that describes something 'relevant or applicable to a particular matter':",
+      "options": {
+        "A": "relevant",
+        "B": "applicable",
+        "C": "pertinent",
+        "D": "germane"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Select the word that means 'able to adapt to many different functions or activities':",
+      "options": {
+        "A": "adaptable",
+        "B": "flexible",
+        "C": "multifaceted",
+        "D": "versatile"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Which word means 'to hinder or impede the movement or progress of something'?",
+      "options": {
+        "A": "obstruct",
+        "B": "impede",
+        "C": "hinder",
+        "D": "hamper"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Choose the word that means 'damaged or impaired by something that spoils appearance, quality, or condition':",
+      "options": {
+        "A": "flawed",
+        "B": "blemished",
+        "C": "marred",
+        "D": "tarnished"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Select the word that describes a connection or relationship that is 'thin, weak, or slight':",
+      "options": {
+        "A": "fragile",
+        "B": "weak",
+        "C": "tenuous",
+        "D": "insubstantial"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what has changed in economic thinking regarding the environment?",
+      "options": {
+        "A": "Economists now reject the importance of environmental concerns.",
+        "B": "The view that economic growth and environmental protection are compatible has emerged.",
+        "C": "Natural capital is no longer considered valuable in economic theories.",
+        "D": "Economists now focus exclusively on short-term economic gains."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "What does the passage suggest about market-based instruments like carbon taxes?",
+      "options": {
+        "A": "They are less effective than command-and-control regulations.",
+        "B": "They work against economic development principles.",
+        "C": "They incorporate environmental costs into market prices efficiently.",
+        "D": "They have been rejected by most economists as impractical."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, green industries:",
+      "options": {
+        "A": "Generate fewer jobs than traditional industries.",
+        "B": "Create more jobs per unit of investment than carbon-intensive sectors.",
+        "C": "Have no significant impact on employment statistics.",
+        "D": "Are too unstable to contribute meaningfully to job creation."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "What unique challenge do developing countries face according to paragraph 4?",
+      "options": {
+        "A": "Implementing international cooperation mechanisms.",
+        "B": "Raising living standards while minimizing ecological damage.",
+        "C": "Convincing industrialized nations to reduce their carbon footprint.",
+        "D": "Accessing global markets for their sustainable products."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "The phrase 'systemic risks' in paragraph 5 most likely refers to:",
+      "options": {
+        "A": "Minor financial fluctuations in global markets.",
+        "B": "Widespread threats to economic stability from environmental degradation.",
+        "C": "Short-term costs of transitioning to sustainable practices.",
+        "D": "Government regulations that constrain business activities."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What is the main argument of the passage?",
+      "options": {
+        "A": "Environmental sustainability and economic growth are fundamentally incompatible.",
+        "B": "Environmental regulations always lead to economic decline and job losses.",
+        "C": "Economic prosperity depends on recognizing our dependence on natural systems.",
+        "D": "GDP is the only reliable indicator of economic success and sustainability."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Which of the following best describes how the author organizes the information in the passage?",
+      "options": {
+        "A": "Chronological development of environmental economic theory.",
+        "B": "Comparison of competing economic perspectives on sustainability.",
+        "C": "Problem-solution structure focused on market-based approaches.",
+        "D": "Presentation of economic arguments for sustainability with opportunities and challenges."
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The author's tone in this passage could best be described as:",
+      "options": {
+        "A": "Highly critical of current economic systems.",
+        "B": "Analytical and informative about economic perspectives on sustainability.",
+        "C": "Enthusiastically promoting specific environmental policies.",
+        "D": "Pessimistic about the prospects for environmental sustainability."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Based on the passage, the author would most likely agree with which of the following statements?",
+      "options": {
+        "A": "Command-and-control regulations are more effective than market mechanisms.",
+        "B": "Environmental sustainability should be pursued regardless of economic costs.",
+        "C": "Economic measures beyond GDP are needed to assess true prosperity.",
+        "D": "Developing countries should prioritize rapid industrialization over environmental concerns."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What does the passage suggest about traditional economic measures like GDP?",
+      "options": {
+        "A": "They adequately capture the value of natural resources.",
+        "B": "They are becoming increasingly irrelevant in modern economics.",
+        "C": "They fail to incorporate indicators of environmental health.",
+        "D": "They should be the primary focus of economic policy."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
