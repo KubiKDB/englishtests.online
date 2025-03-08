@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The phenomenon of social isolation has garnered increased attention from psychological researchers in recent years, particularly as digital communication continues to replace traditional face-to-face interactions. While technology ostensibly connects us, many individuals report feeling more disconnected than ever before, leading to a paradox of modern socialization. Studies consistently demonstrate that prolonged isolation can trigger a cascade of psychological responses, ranging from mild anxiety to severe depression, highlighting the fundamental human need for meaningful social connection.<br><br>(2) At a neurobiological level, social isolation affects the brain in measurable ways. Research utilizing functional magnetic resonance imaging (fMRI) reveals that the same neural pathways activated during physical pain are similarly engaged when individuals experience social rejection or isolation. This neurological overlap explains why exclusion can feel genuinely painful rather than merely emotionally uncomfortable. Furthermore, prolonged isolation has been linked to increased production of stress hormones, particularly cortisol, which when chronically elevated can impair cognitive function and weaken immune response.<br><br>(3) Beyond these immediate effects, extended periods of isolation may fundamentally alter one's perception of social interactions. Individuals experiencing chronic isolation often develop heightened sensitivity to potential social threats, interpreting ambiguous social cues negatively. This hypervigilance, while initially protective, ultimately reinforces withdrawal behaviors, creating a self-perpetuating cycle of isolation. Additionally, those suffering from prolonged solitude frequently report disturbances in self-identity and decreased self-esteem, as social feedback—essential for healthy identity formation—becomes increasingly limited.<br><br>(4) The consequences of social isolation appear particularly pronounced among vulnerable populations. Elderly individuals living alone demonstrate significantly higher rates of cognitive decline compared to their socially engaged counterparts, while adolescents experiencing isolation show marked increases in risk-taking behaviors and susceptibility to extremist ideologies. Recent research suggests that these effects may be cumulative; brief periods of isolation throughout life potentially compound, creating lasting psychological vulnerabilities that emerge fully only in later years.<br><br>(5) Addressing the psychological impact of social isolation requires multifaceted approaches. Therapeutic interventions focusing on cognitive restructuring have shown promise in helping individuals reinterpret social situations more accurately, while community-based programs that facilitate meaningful connections prove effective in breaking isolation cycles. Digital solutions, when thoughtfully implemented, can bridge geographic and mobility barriers, though research indicates they most effectively supplement rather than replace in-person interactions. As societies increasingly recognize isolation as a public health concern rather than merely a personal circumstance, preventative measures targeting community cohesion may ultimately prove most effective in mitigating its psychological toll.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Select the correct form of the verb to complete the sentence: The number of students attending the lecture _____ every year.",
+      "options": {
+        "A": "increase",
+        "B": "increases",
+        "C": "are increasing",
+        "D": "have increased"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "A": "The committee has reached their decision.",
+        "B": "The committee have reached their decision.",
+        "C": "The committee has reached its decision.",
+        "D": "The committee have reached its decision."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the sentence with the correct use of the subjunctive mood:",
+      "options": {
+        "A": "The professor insisted that the student writes the essay again.",
+        "B": "The professor insisted that the student wrote the essay again.",
+        "C": "The professor insisted that the student write the essay again.",
+        "D": "The professor insisted that the student had written the essay again."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Identify the sentence with the correct use of the past perfect continuous:",
+      "options": {
+        "A": "She had been working on the project before the power outage occurred.",
+        "B": "She has been working on the project before the power outage occurred.",
+        "C": "She was working on the project before the power outage occurred.",
+        "D": "She had worked on the project before the power outage occurred."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct relative clause:",
+      "options": {
+        "A": "The professor who books I borrowed is giving a lecture tomorrow.",
+        "B": "The professor which books I borrowed is giving a lecture tomorrow.",
+        "C": "The professor whose books I borrowed is giving a lecture tomorrow.",
+        "D": "The professor whom books I borrowed is giving a lecture tomorrow."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the sentence with the correct use of articles:",
+      "options": {
+        "A": "The professor gave me an useful advice about my thesis.",
+        "B": "The professor gave me a useful advice about my thesis.",
+        "C": "The professor gave me useful advice about my thesis.",
+        "D": "The professor gave me the useful advice about my thesis."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the sentence with the correct use of the conditional form:",
+      "options": {
+        "A": "If I would have known about the conference, I would have attended it.",
+        "B": "If I had known about the conference, I would attended it.",
+        "C": "If I would know about the conference, I would have attended it.",
+        "D": "If I had known about the conference, I would have attended it."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the correct form of the adjective in the following sentence: This research is _____ than the one we conducted last year.",
+      "options": {
+        "A": "more comprehensive",
+        "B": "comprehensiver",
+        "C": "most comprehensive",
+        "D": "the most comprehensive"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Choose the sentence with the correct use of reported speech:",
+      "options": {
+        "A": "She said that she will submit her application tomorrow.",
+        "B": "She said that she would submit her application the next day.",
+        "C": "She said that she will submit her application the next day.",
+        "D": "She said that she would submit her application tomorrow."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Select the correct passive form: The new policy _____ by the board of directors next month.",
+      "options": {
+        "A": "will implemented",
+        "B": "is going to implement",
+        "C": "will be implemented",
+        "D": "is implementing"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Identify the sentence with the correct use of inversion:",
+      "options": {
+        "A": "Never I have seen such an impressive display.",
+        "B": "Never have I seen such an impressive display.",
+        "C": "Never I had seen such an impressive display.",
+        "D": "Never seen I have such an impressive display."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Choose the sentence with the correct use of gerunds and infinitives:",
+      "options": {
+        "A": "She denied to have taken the documents without permission.",
+        "B": "She denied taking the documents without permission.",
+        "C": "She denied to take the documents without permission.",
+        "D": "She denied having to take the documents without permission."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Select the correct use of dependent prepositions: The research findings are inconsistent _____ previous studies.",
+      "options": {
+        "A": "to",
+        "B": "from",
+        "C": "with",
+        "D": "by"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Identify the sentence with correct parallelism:",
+      "options": {
+        "A": "The workshop focuses on writing effectively, critical thinking, and how to speak in public.",
+        "B": "The workshop focuses on effective writing, critical thinking, and public speaking.",
+        "C": "The workshop focuses on writing effectively, thinking critically, and to speak in public.",
+        "D": "The workshop focuses on effective writing, thinking critically, and speaking publicly."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Choose the correct modal verb: By the time she graduates, she _____ completed over 200 hours of clinical practice.",
+      "options": {
+        "A": "would have",
+        "B": "must have",
+        "C": "should have",
+        "D": "will have"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the most appropriate word to complete the sentence: Despite numerous attempts to _____ the conflict, tensions between the two countries continued to escalate.",
+      "options": {
+        "A": "magnify",
+        "B": "intensify",
+        "C": "defuse",
+        "D": "ignite"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the correct phrasal verb: After careful consideration, the committee decided to _____ the proposal until more data was available.",
+      "options": {
+        "A": "put away",
+        "B": "put off",
+        "C": "put up with",
+        "D": "put out"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct idiom to complete the sentence: The unexpected audit caught the financial department _____.",
+      "options": {
+        "A": "in the nick of time",
+        "B": "off the hook",
+        "C": "off the record",
+        "D": "off guard"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Select the word that collocates correctly with 'attention': The innovative design _____ attention from industry experts worldwide.",
+      "options": {
+        "A": "grabbed",
+        "B": "took",
+        "C": "gathered",
+        "D": "claimed"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct binomial expression: The terms and conditions should be read _____ before signing the contract.",
+      "options": {
+        "A": "through and through",
+        "B": "far and wide",
+        "C": "back and forth",
+        "D": "safe and sound"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the correct preposition: The project succeeded _____ the numerous challenges faced during implementation.",
+      "options": {
+        "A": "besides",
+        "B": "despite",
+        "C": "except",
+        "D": "alongside"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct fixed expression: The government needs to address this issue _____.",
+      "options": {
+        "A": "at a moment's notice",
+        "B": "as a matter of fact",
+        "C": "as a rule of thumb",
+        "D": "as a matter of urgency"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the most appropriate discourse marker: The research yielded promising results; _____, further studies are needed to validate these findings.",
+      "options": {
+        "A": "consequently",
+        "B": "nevertheless",
+        "C": "therefore",
+        "D": "furthermore"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct register for an academic paper: The experiment _____ significant differences between the control and test groups.",
+      "options": {
+        "A": "showed",
+        "B": "demonstrated",
+        "C": "pointed out",
+        "D": "brought to light"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the correct linking expression: The company invested heavily in renewable energy; _____, they reduced their carbon footprint by 30%.",
+      "options": {
+        "A": "in contrast",
+        "B": "however",
+        "C": "as a result",
+        "D": "on the contrary"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the word that best completes the sentence: Scientists need to _____ the data carefully to identify any anomalies in the results.",
+      "options": {
+        "A": "observe",
+        "B": "inspect",
+        "C": "scrutinize",
+        "D": "perceive"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Select the word that best fits the definition: 'Persuasive and well-reasoned'",
+      "options": {
+        "A": "eloquent",
+        "B": "articulate",
+        "C": "plausible",
+        "D": "cogent"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Choose the word that best completes the sentence: The fog began to _____ as the morning sun grew stronger.",
+      "options": {
+        "A": "evaporate",
+        "B": "dissolve",
+        "C": "dissipate",
+        "D": "vanish"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Select the word that best describes: 'Not attracting attention; inconspicuous'",
+      "options": {
+        "A": "understated",
+        "B": "unobtrusive",
+        "C": "discreet",
+        "D": "subtle"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the word that best completes the sentence: Many people _____ the idea of animal testing for cosmetic products.",
+      "options": {
+        "A": "detest",
+        "B": "disapprove",
+        "C": "oppose",
+        "D": "abhor"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Select the word that best fits the definition: 'To take the place of something else'",
+      "options": {
+        "A": "replace",
+        "B": "displace",
+        "C": "supplant",
+        "D": "substitute"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Choose the word that best completes the sentence: The company decided to _____ itself of all its non-core business assets.",
+      "options": {
+        "A": "rid",
+        "B": "separate",
+        "C": "detach",
+        "D": "divest"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Select the word that best describes: 'Seeking to promote the welfare of others'",
+      "options": {
+        "A": "altruistic",
+        "B": "benevolent",
+        "C": "charitable",
+        "D": "philanthropic"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Choose the word that best completes the sentence: The encyclopedia provides a _____ of knowledge on various scientific disciplines.",
+      "options": {
+        "A": "collection",
+        "B": "compilation",
+        "C": "compendium",
+        "D": "anthology"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Select the word that best fits the definition: 'Extremely unpleasant; repulsive'",
+      "options": {
+        "A": "offensive",
+        "B": "repellent",
+        "C": "odious",
+        "D": "objectionable"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Choose the word that best completes the sentence: The _____ noise from the construction site made it difficult for residents to concentrate.",
+      "options": {
+        "A": "continuous",
+        "B": "persistent",
+        "C": "constant",
+        "D": "incessant"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Select the word that best fits the definition: 'To voluntarily give up power or responsibility'",
+      "options": {
+        "A": "abdicate",
+        "B": "surrender",
+        "C": "relinquish",
+        "D": "renounce"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Choose the word that best completes the sentence: Unlike most cities, this community has remained remarkably _____ in terms of its cultural composition.",
+      "options": {
+        "A": "uniform",
+        "B": "identical",
+        "C": "homogenous",
+        "D": "consistent"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Select the word that best fits the definition: 'Extremely bad or detestable'",
+      "options": {
+        "A": "abominable",
+        "B": "execrable",
+        "C": "deplorable",
+        "D": "atrocious"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Choose the word that best completes the sentence: The spokesperson sought to _____ the rumors about the company's financial difficulties.",
+      "options": {
+        "A": "refute",
+        "B": "disprove",
+        "C": "contradict",
+        "D": "dispel"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what paradox exists in modern socialization?",
+      "options": {
+        "A": "People have more technology but fewer real connections",
+        "B": "Digital communication increases isolation while appearing to connect people",
+        "C": "Face-to-face interactions cause more isolation than digital ones",
+        "D": "Psychological researchers pay more attention to isolation than connection"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "What neurobiological finding is mentioned in paragraph 2?",
+      "options": {
+        "A": "Social isolation causes permanent brain damage",
+        "B": "The brain cannot differentiate between social and physical pain",
+        "C": "Cortisol strengthens cognitive function during isolation",
+        "D": "Social rejection activates the same neural pathways as physical pain"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, how does chronic isolation affect perception of social interactions?",
+      "options": {
+        "A": "It makes people more socially adept",
+        "B": "It causes indifference to social cues",
+        "C": "It creates heightened sensitivity to potential social threats",
+        "D": "It improves self-identity formation"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Which of the following is NOT mentioned as a consequence of social isolation for vulnerable populations?",
+      "options": {
+        "A": "Cognitive decline in elderly individuals",
+        "B": "Increased risk-taking behaviors in adolescents",
+        "C": "Greater susceptibility to extremist ideologies",
+        "D": "Improved emotional resilience"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to the passage, what is the relationship between brief periods of isolation throughout life?",
+      "options": {
+        "A": "They cancel each other out over time",
+        "B": "They may compound to create lasting psychological vulnerabilities",
+        "C": "They have no effect on long-term psychological health",
+        "D": "They strengthen psychological resilience"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What does the passage suggest about digital solutions to social isolation?",
+      "options": {
+        "A": "They are completely ineffective in addressing isolation",
+        "B": "They are more effective than in-person interactions",
+        "C": "They work best as supplements to in-person interactions",
+        "D": "They should replace traditional community programs"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What can be inferred about the author's view on addressing social isolation?",
+      "options": {
+        "A": "Individual therapy is sufficient to solve the problem",
+        "B": "A multifaceted approach including community-based solutions is needed",
+        "C": "Digital solutions alone can solve the problem",
+        "D": "Social isolation is not a serious public health concern"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The word 'hypervigilance' in paragraph 3 most closely means:",
+      "options": {
+        "A": "Extreme alertness to potential threats",
+        "B": "Complete lack of awareness",
+        "C": "Intense social anxiety",
+        "D": "Heightened social skills"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to the passage, what is essential for healthy identity formation?",
+      "options": {
+        "A": "Complete isolation",
+        "B": "Digital communication",
+        "C": "Social feedback",
+        "D": "Neurological pain"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What does the passage suggest is happening to the understanding of social isolation in societies?",
+      "options": {
+        "A": "It is increasingly viewed as a public health concern rather than just a personal issue",
+        "B": "It is being dismissed as less important than other health issues",
+        "C": "It is being addressed primarily through digital solutions",
+        "D": "It is considered solely an individual psychological problem"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    }
+  ]
+}
