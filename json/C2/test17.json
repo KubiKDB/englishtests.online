@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Meta-analysis, a statistical methodology that synthesizes quantitative findings across multiple empirical studies, has become an indispensable tool in evaluating the efficacy of psychotherapeutic interventions. By aggregating data from numerous randomized controlled trials and observational studies, meta-analyses overcome the limitations of individual investigations, which often suffer from insufficient statistical power, sampling biases, and methodological inconsistencies. This approach enables researchers to discern patterns and effects that might remain obscured in isolated studies, thereby providing more robust evidence regarding therapeutic efficacy. The statistical precision afforded by meta-analytic techniques, particularly through the calculation of effect sizes and confidence intervals, allows for nuanced comparisons between diverse treatment modalities that would otherwise be methodologically challenging to juxtapose directly.<br><br>(2) The application of meta-analytic methodologies to psychotherapy research has yielded several profound insights regarding therapeutic efficacy. Perhaps most significantly, meta-analyses have consistently demonstrated that psychotherapy, across various theoretical orientations, produces moderate to large effects compared to no-treatment or waitlist control conditions. This finding, colloquially termed the \"dodo bird verdict\" after a character in Alice's Adventures in Wonderland who declared \"all have won and all must have prizes,\" suggests a certain equivalence among different psychotherapeutic approaches. However, more granular analyses reveal important distinctions: cognitive-behavioral therapies demonstrate particular efficacy for anxiety disorders; psychodynamic approaches show sustained benefits extending beyond treatment termination; and third-wave behavioral therapies exhibit promising outcomes for conditions previously considered treatment-resistant. These nuanced findings highlight how meta-analyses facilitate both broad conclusions about psychotherapy's overall utility and specific insights regarding optimal treatment selection.<br><br>(3) Methodological sophistication in meta-analytic practices has evolved substantially, addressing initial criticisms concerning potential biases and oversimplifications. Contemporary meta-analyses incorporate techniques to mitigate publication bias—the tendency for studies with significant results to be published more frequently than those with null findings—through comprehensive searches of unpublished literature and statistical adjustments. Researchers now routinely assess study quality and methodological rigor through validated instruments, weighting higher-quality investigations more heavily in aggregate analyses. Additionally, moderator and mediator analyses enable examination of variables influencing treatment efficacy, such as therapeutic alliance, treatment duration, therapist expertise, and patient characteristics. Perhaps most importantly, network meta-analyses now permit simultaneous comparison of multiple interventions across different studies, even when direct head-to-head comparisons are unavailable, thereby constructing a more comprehensive understanding of the relative efficacy of various therapeutic approaches.<br><br>(4) Despite these methodological advancements, meta-analyses in psychotherapy research face substantial challenges that necessitate careful interpretation of findings. Heterogeneity among included studies—variations in outcome measures, treatment protocols, patient populations, and methodological quality—can significantly impact aggregated results. The \"apples and oranges\" problem, wherein fundamentally different constructs are inappropriately combined, remains a persistent concern, particularly when meta-analyses aggregate across diverse therapeutic modalities or diagnostic categories. Another critical limitation involves the quality of primary studies; meta-analyses inevitably inherit the methodological flaws of their constituent research, potentially amplifying biases present in the original investigations. Furthermore, the clinical significance of statistically significant effects remains an ongoing debate, as effect sizes may not translate directly into meaningful improvements in patients' daily functioning or quality of life. These limitations underscore the importance of interpreting meta-analytic findings within their methodological context rather than treating them as definitive or universal truths.<br><br>(5) Looking toward future developments, meta-analytic methodologies in psychotherapy research continue to evolve in response to emerging challenges and opportunities. Individual patient data meta-analyses, which aggregate raw data from primary studies rather than summary statistics, enable more sophisticated analyses of moderating variables and treatment effects. Meta-analyses increasingly incorporate qualitative synthesis alongside quantitative aggregation, acknowledging that certain aspects of therapeutic processes and outcomes resist purely statistical characterization. Integration of neurobiological and genetic data with clinical outcomes in meta-analyses promises to elucidate mechanisms of therapeutic change across different intervention modalities. Additionally, prospective meta-analyses, wherein researchers pre-register analysis plans before primary studies are completed, may mitigate publication bias and selective reporting. These methodological innovations reflect the field's commitment to enhancing the precision, comprehensiveness, and clinical utility of meta-analytic findings, ultimately advancing our understanding of what works in psychotherapy, for whom, and under what circumstances.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following sentences contains a grammatical error?",
+      "options": {
+        "A": "The ancient artifacts, which were discovered last summer, have been meticulously restored by conservationists.",
+        "B": "Neither the director nor the producers were willing to compromise on the film's artistic vision.",
+        "C": "The data collected from multiple sensors indicate that seismic activity has increased in the region.",
+        "D": "The committee have reached a unanimous decision regarding the proposed amendments."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the sentence with the correct use of the subjunctive mood:",
+      "options": {
+        "A": "The ambassador insisted that the diplomat attends the conference in person.",
+        "B": "It is essential that every candidate signs the declaration before the interview.",
+        "C": "The board recommended that the proposal be reviewed by an independent committee.",
+        "D": "The professor suggested that the student would revise the thesis before submission."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Choose the correct form to complete this sentence: 'Had the mountaineers _____ the weather forecast more carefully, they might have postponed their expedition.'",
+      "options": {
+        "A": "studied",
+        "B": "would study",
+        "C": "had studied",
+        "D": "were studying"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence demonstrates correct parallel structure?",
+      "options": {
+        "A": "The documentary not only highlighted environmental concerns but also was raising awareness about sustainable solutions.",
+        "B": "The chef specializes in preparing traditional cuisines, experimenting with fusion concepts, and to teach culinary techniques.",
+        "C": "Traveling abroad expands one's cultural awareness, enhances language skills, and fosters global citizenship.",
+        "D": "The university offers programs in engineering, business administration, and students can also study liberal arts."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Identify the sentence with the correct use of a relative clause:",
+      "options": {
+        "A": "The manuscript whom was discovered in the ancient library contains valuable historical information.",
+        "B": "The architect which designed the award-winning building studied in Barcelona.",
+        "C": "The remote village, whose inhabitants still practice traditional customs, attracts anthropologists from around the world.",
+        "D": "The strategy that's implementation was delayed has finally been approved by the board."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Choose the sentence that correctly uses the past perfect tense:",
+      "options": {
+        "A": "By the time the rescue team arrived, the hikers already found shelter from the storm.",
+        "B": "The film started before we have purchased our tickets.",
+        "C": "The company had invested in sustainable technology long before it became industry standard.",
+        "D": "When the guests arrived, the caterers still prepared the banquet."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Select the option with correct subject-verb agreement:",
+      "options": {
+        "A": "Each of the paintings in the exhibition have been authenticated by experts.",
+        "B": "A series of diplomatic negotiations have resolved the international dispute.",
+        "C": "The quality of the ingredients affects the flavor profile of the final dish.",
+        "D": "Neither the software engineers nor the project manager were able to identify the source of the bug."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Which sentence contains a misplaced modifier?",
+      "options": {
+        "A": "After climbing for hours, the summit finally came into view for the mountaineers.",
+        "B": "The curator acquired a rare manuscript for the museum, which dates back to the 15th century.",
+        "C": "While analyzing the economic data, several patterns emerged that supported the hypothesis.",
+        "D": "Having completed her doctoral dissertation, the university offered the scholar a teaching position."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct use of articles in this sentence:",
+      "options": {
+        "A": "The expedition to Antarctic was delayed due to unfavorable weather conditions.",
+        "B": "They visited United Kingdom last summer to attend a prestigious music festival.",
+        "C": "The researchers published their findings in an influential journal last month.",
+        "D": "She is considered expert in sustainable architecture within industry."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Select the sentence with correct punctuation:",
+      "options": {
+        "A": "The exhibition which features contemporary artists from around the world will open next month.",
+        "B": "After considering all the evidence, the jury reached a verdict however, the judge declared a mistrial.",
+        "C": "The company offers three career paths: technical specialist, project management, and executive leadership.",
+        "D": "The renowned physicist Dr. Hawking revolutionized our understanding of black holes."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Which sentence correctly uses a gerund and infinitive construction?",
+      "options": {
+        "A": "The explorer admitted to discover the ancient ruins by accident.",
+        "B": "The company postponed to launch their new product until next quarter.",
+        "C": "The mountaineers recalled seeing unusual formations during their ascent.",
+        "D": "The orchestra director decided hiring additional musicians for the performance."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Identify the sentence with correct use of the passive voice:",
+      "options": {
+        "A": "The innovative technique was developed by a team of engineers at the research facility.",
+        "B": "The endangered species were protected from poachers by implementing strict conservation measures.",
+        "C": "The architectural plans modified according to the client's specifications.",
+        "D": "The ancient artifacts preserved in specialized storage facilities to prevent deterioration."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Select the sentence with the correct conditional form:",
+      "options": {
+        "A": "If the excavation had yielded significant findings, the archaeological team would be granted additional funding.",
+        "B": "Were the environmental regulations to be implemented immediately, many industries would require substantial restructuring.",
+        "C": "Unless the company adopts sustainable practices, they will had faced increasing criticism from consumers.",
+        "D": "If the adverse weather conditions would continue, the outdoor event might be postponed."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence contains correct pronoun usage?",
+      "options": {
+        "A": "Each participant must submit their application by the deadline to be considered.",
+        "B": "The corporation announced it's plan to expand operations in Southeast Asia.",
+        "C": "Neither of the proposals were deemed suitable for the project's objectives.",
+        "D": "The journalist who's documentary exposed corruption received numerous awards."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Choose the option with correct comparative form:",
+      "options": {
+        "A": "The new solar panels are more efficient than any other renewable energy source.",
+        "B": "The biodiversity in this ecosystem is more greater than in neighboring regions.",
+        "C": "This architectural design is the most unique proposal we have received.",
+        "D": "The latest prototype performed more better than its predecessors in all tests."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Select the most appropriate word to complete this sentence: 'Despite the _____ of evidence supporting climate change, some politicians continue to deny its existence.'",
+      "options": {
+        "A": "gathering",
+        "B": "plethora",
+        "C": "gathering",
+        "D": "scattering"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the most appropriate phrasal verb for this context: 'The company decided to _____ the launch of its new product due to unfavorable market conditions.'",
+      "options": {
+        "A": "put off",
+        "B": "take after",
+        "C": "bring about",
+        "D": "look into"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Which collocation is incorrect in formal English?",
+      "options": {
+        "A": "implement a strategy",
+        "B": "acquire knowledge",
+        "C": "do a mistake",
+        "D": "establish principles"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Select the most appropriate transition to complete this sentence: 'Renewable energy sources are becoming increasingly cost-effective; _____, many countries still rely heavily on fossil fuels for their energy needs.'",
+      "options": {
+        "A": "therefore",
+        "B": "nevertheless",
+        "C": "subsequently",
+        "D": "accordingly"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the most appropriate expression to replace the underlined phrase: 'The innovative startup has been MAKING WAVES in the technology sector with its groundbreaking artificial intelligence applications.'",
+      "options": {
+        "A": "causing controversy",
+        "B": "creating significant impact",
+        "C": "experiencing fluctuations",
+        "D": "forming partnerships"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Identify the sentence with the most appropriate register for a formal business proposal:",
+      "options": {
+        "A": "Our company will totally revolutionize your supply chain management with our awesome new software.",
+        "B": "The implementation of our proprietary technology would substantially enhance operational efficiency across your distribution network.",
+        "C": "We've got the best solution for your business problems, and it's super easy to set up.",
+        "D": "Your company needs our software because the system you're using now isn't really working that well."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Select the option that best maintains stylistic consistency with diplomatic correspondence:",
+      "options": {
+        "A": "The delegation expresses profound appreciation for your hospitality and looks forward to continued collaboration on matters of mutual interest.",
+        "B": "Thanks so much for hosting us! We really enjoyed our visit and hope we can work together more in the future.",
+        "C": "We are grateful for your hosting of our delegation and we want to work with you on several important issues in the coming months.",
+        "D": "The delegation would like to thank you for your hospitality and we're excited about future partnership opportunities."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the most precise and appropriate term to complete this sentence: 'The journalist's _____ reporting of the complex geopolitical situation provided readers with a clear understanding of the underlying issues.'",
+      "options": {
+        "A": "good",
+        "B": "nice",
+        "C": "lucid",
+        "D": "correct"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Which sentence demonstrates the most effective use of hedging in academic writing?",
+      "options": {
+        "A": "Renewable energy will definitely solve all environmental problems within the next decade.",
+        "B": "This economic model is unquestionably superior to all alternatives previously proposed.",
+        "C": "The preliminary findings suggest that this approach may offer advantages in certain contexts.",
+        "D": "It is absolutely clear that this policy framework is the only viable solution."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the most concise and clear option to express this idea:",
+      "options": {
+        "A": "The architectural firm designed a building that incorporated numerous eco-friendly features and elements such as solar panels, rainwater harvesting systems, natural ventilation, and energy-efficient lighting to minimize environmental impact.",
+        "B": "The architectural firm designed an environmentally sustainable building with integrated renewable energy systems and resource conservation features.",
+        "C": "The architectural firm made a building that was good for the environment because it had things like solar panels to create energy from the sun and systems to collect rainwater and also ways to ventilate the building naturally without using air conditioning too much.",
+        "D": "The architectural firm's building design included various features that were intended to be friendly to the environment and reduce the carbon footprint and environmental impact of the structure through various systems and design elements."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What does the word 'ubiquitous' most closely mean?",
+      "options": {
+        "A": "Extremely rare or uncommon",
+        "B": "Present or found everywhere",
+        "C": "Exceptionally large in size",
+        "D": "Remarkably beautiful or elegant"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the word that most closely matches the meaning of 'ephemeral':",
+      "options": {
+        "A": "Lasting for a very short time",
+        "B": "Extremely dangerous or harmful",
+        "C": "Unusually bright or colorful",
+        "D": "Highly effective or successful"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Select the most appropriate definition for 'quintessential':",
+      "options": {
+        "A": "Occurring every five years",
+        "B": "Representing the most perfect or typical example",
+        "C": "Arranged in five distinct parts or sections",
+        "D": "Extremely important or significant"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "What does the word 'cacophony' mean?",
+      "options": {
+        "A": "A harmonious blend of sounds",
+        "B": "A harsh, discordant mixture of sounds",
+        "C": "A state of complete silence",
+        "D": "A rhythmic musical composition"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the word that most closely matches the meaning of 'surreptitious':",
+      "options": {
+        "A": "Openly rebellious or defiant",
+        "B": "Done in a secret or stealthy way",
+        "C": "Excessively talkative or chatty",
+        "D": "Extraordinarily talented or skilled"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "What does 'recalcitrant' mean when describing a person?",
+      "options": {
+        "A": "Showing a readiness to adapt or be helpful",
+        "B": "Having or showing an unwillingness to obey rules or authority",
+        "C": "Displaying exceptional intelligence or creativity",
+        "D": "Experiencing frequent mood swings or emotional changes"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Select the word that best completes this sentence: 'The critic's _____ review left the author feeling disheartened about the novel's reception.'",
+      "options": {
+        "A": "laudatory",
+        "B": "scathing",
+        "C": "impartial",
+        "D": "ambivalent"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Choose the best definition for 'mercurial':",
+      "options": {
+        "A": "Relating to or containing the element mercury",
+        "B": "Subject to sudden or unpredictable changes of mood or mind",
+        "C": "Characterized by great generosity or willingness to give",
+        "D": "Extremely precise or accurate in measurements"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What does 'inexorable' mean when describing a process?",
+      "options": {
+        "A": "Easily stopped or prevented",
+        "B": "Impossible to understand or explain",
+        "C": "Continuing without possibility of being stopped",
+        "D": "Requiring significant effort or expertise"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Select the closest meaning of 'laconic':",
+      "options": {
+        "A": "Using very few words to express oneself",
+        "B": "Lacking coherence or logical connection",
+        "C": "Extremely elaborate or ornate in style",
+        "D": "Showing great enthusiasm or excitement"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Choose the most appropriate definition for 'perspicacious':",
+      "options": {
+        "A": "Extremely optimistic or hopeful",
+        "B": "Having or showing keen mental discernment and understanding",
+        "C": "Prone to excessive sweating or perspiration",
+        "D": "Intentionally ambiguous or unclear"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "What does 'prevaricate' mean?",
+      "options": {
+        "A": "To speak or act in an evasive way to avoid telling the truth",
+        "B": "To carefully plan ahead for future events",
+        "C": "To examine something in minute detail",
+        "D": "To forcefully impose one's will on others"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Select the word that is most opposite in meaning to 'loquacious':",
+      "options": {
+        "A": "talkative",
+        "B": "reticent",
+        "C": "verbose",
+        "D": "garrulous"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "What does 'juxtapose' mean?",
+      "options": {
+        "A": "To place or deal with close together for contrasting effect",
+        "B": "To express disapproval or criticism",
+        "C": "To explain something in extensive detail",
+        "D": "To combine multiple elements into a single entity"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Choose the word that best completes this sentence: 'The diplomat's _____ response carefully acknowledged the concerns without making any specific commitments.'",
+      "options": {
+        "A": "candid",
+        "B": "impetuous",
+        "C": "forthright",
+        "D": "equivocal"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what is a primary advantage of meta-analysis over individual studies?",
+      "options": {
+        "A": "It requires fewer participants to achieve statistical significance",
+        "B": "It eliminates the need for randomized controlled trials",
+        "C": "It overcomes limitations such as insufficient statistical power",
+        "D": "It allows researchers to avoid methodological rigor"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "The term \"dodo bird verdict\" mentioned in paragraph 2 refers to:",
+      "options": {
+        "A": "The finding that no psychotherapeutic approach is effective",
+        "B": "The observation that different therapeutic approaches show equivalent efficacy",
+        "C": "The conclusion that meta-analyses are unreliable",
+        "D": "The idea that psychotherapy is inferior to medication"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 2, which therapeutic approach demonstrates particular efficacy for anxiety disorders?",
+      "options": {
+        "A": "Psychodynamic therapies",
+        "B": "Third-wave behavioral therapies",
+        "C": "Cognitive-behavioral therapies",
+        "D": "Humanistic approaches"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Based on paragraph 3, how do contemporary meta-analyses address publication bias?",
+      "options": {
+        "A": "By excluding studies with significant results",
+        "B": "By only including randomized controlled trials",
+        "C": "Through searching unpublished literature and making statistical adjustments",
+        "D": "By focusing exclusively on studies with large sample sizes"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What does paragraph 4 identify as the \"apples and oranges\" problem in meta-analyses?",
+      "options": {
+        "A": "The challenge of comparing studies from different countries",
+        "B": "The inappropriate combination of fundamentally different constructs",
+        "C": "The difficulty of translating statistical significance into clinical significance",
+        "D": "The tendency to include both high and low quality studies"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to paragraph 5, what is an advantage of individual patient data meta-analyses over traditional meta-analyses?",
+      "options": {
+        "A": "They require fewer statistical calculations",
+        "B": "They eliminate publication bias entirely",
+        "C": "They enable more sophisticated analyses of moderating variables",
+        "D": "They focus exclusively on qualitative outcomes"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "The primary purpose of this passage is to:",
+      "options": {
+        "A": "Argue that meta-analyses should replace individual studies in psychotherapy research",
+        "B": "Demonstrate the superiority of cognitive-behavioral therapy over other approaches",
+        "C": "Discuss the value, methodological developments, challenges, and future directions of meta-analyses in psychotherapy research",
+        "D": "Criticize the methodological limitations of current psychotherapy research"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "Based on the passage, which of the following is NOT mentioned as a challenge in interpreting meta-analytic findings?",
+      "options": {
+        "A": "Heterogeneity among included studies",
+        "B": "The \"apples and oranges\" problem",
+        "C": "Meta-analyses inheriting methodological flaws from primary studies",
+        "D": "The excessive cost of conducting meta-analyses"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to the passage, network meta-analyses allow researchers to:",
+      "options": {
+        "A": "Analyze data from studies conducted over computer networks",
+        "B": "Compare multiple interventions even without direct head-to-head comparisons",
+        "C": "Focus exclusively on the role of therapeutic alliance",
+        "D": "Eliminate the need for randomized controlled trials"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "The author's tone in this passage could best be described as:",
+      "options": {
+        "A": "Highly critical of meta-analytic methodologies",
+        "B": "Enthusiastically promoting one specific therapeutic approach",
+        "C": "Balanced and analytical, acknowledging both strengths and limitations",
+        "D": "Dismissive of traditional individual studies"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
