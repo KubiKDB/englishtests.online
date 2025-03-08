@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Banks are financial institutions that play a crucial role in our everyday lives. They serve as safe places where people and businesses can store their money. When you deposit money in a bank, it doesn't just sit in a vault waiting for you to withdraw it. Instead, the bank uses your money, along with other customers' deposits, to make loans to people who need to borrow funds for various purposes, such as buying homes, starting businesses, or paying for education.<br><br>(2) The way banks operate is through a system called fractional reserve banking. This means that banks keep only a fraction of the deposits as reserves and lend out the rest. When banks lend money, they charge interest, which is essentially a fee for borrowing the money. This interest is how banks make most of their profit. At the same time, banks also pay interest to depositors, although typically at a lower rate than what they charge borrowers. This difference between the interest rates is known as the 'spread,' and it's a key part of how banks generate income.<br><br>(3) Banks offer various services beyond just storing money and making loans. These include providing checking and savings accounts, issuing credit cards, facilitating electronic payments, and offering financial advice. Many banks also provide online and mobile banking services, allowing customers to manage their accounts and conduct transactions from anywhere at any time. These services have made banking more convenient and accessible to people around the world.<br><br>(4) Banks are important for the economy for several reasons. First, they facilitate the flow of money in the economy by connecting savers (depositors) with borrowers. This helps businesses grow, creates jobs, and stimulates economic activity. Second, banks provide a safe place for people to store their money, which promotes saving. Third, they offer payment systems that allow for efficient transactions, which is essential for commerce. Without banks, it would be much harder for people and businesses to buy and sell goods and services.<br><br>(5) However, banks also face risks, including the possibility that borrowers might not repay their loans (credit risk) and that many depositors might want to withdraw their money at the same time (liquidity risk). To address these risks, banks are regulated by government agencies that set rules about how much money banks must keep in reserve, how they can invest their funds, and how they must treat their customers. These regulations help ensure that banks remain stable and continue to serve their important functions in the economy.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The woman ____ the bus every day to go to work.",
+      "options": {
+        "A": "take",
+        "B": "takes",
+        "C": "is taking",
+        "D": "taken"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "We ____ dinner when the phone rang.",
+      "options": {
+        "A": "are having",
+        "B": "have",
+        "C": "were having",
+        "D": "had"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "She ____ to Paris three times in her life.",
+      "options": {
+        "A": "has been",
+        "B": "was",
+        "C": "went",
+        "D": "goes"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "If I ____ rich, I would travel around the world.",
+      "options": {
+        "A": "am",
+        "B": "was",
+        "C": "were",
+        "D": "be"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "The movie was ____ than I expected.",
+      "options": {
+        "A": "good",
+        "B": "better",
+        "C": "best",
+        "D": "well"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "They ____ volleyball at the beach last weekend.",
+      "options": {
+        "A": "play",
+        "B": "plays",
+        "C": "playing",
+        "D": "played"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "She ____ cooking dinner right now.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "be",
+        "D": "been"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "They ____ their homework before they went to the party.",
+      "options": {
+        "A": "finish",
+        "B": "finishing",
+        "C": "had finished",
+        "D": "have finished"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "The book ____ by a famous author.",
+      "options": {
+        "A": "write",
+        "B": "wrote",
+        "C": "written",
+        "D": "was written"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "She ____ here since last month.",
+      "options": {
+        "A": "is",
+        "B": "was",
+        "C": "has been",
+        "D": "have been"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "I wish I ____ more time to study for the exam.",
+      "options": {
+        "A": "have",
+        "B": "had",
+        "C": "having",
+        "D": "has"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "The teacher asked us ____ talking during the lesson.",
+      "options": {
+        "A": "stop",
+        "B": "stopped",
+        "C": "to stop",
+        "D": "stopping"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "I don't know ____ to the party tomorrow.",
+      "options": {
+        "A": "if I go",
+        "B": "if I will go",
+        "C": "if I went",
+        "D": "if I going"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "She suggested ____ a different restaurant.",
+      "options": {
+        "A": "try",
+        "B": "to try",
+        "C": "tried",
+        "D": "trying"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "The children ____ their toys after playing.",
+      "options": {
+        "A": "must putting away",
+        "B": "must put away",
+        "C": "must to put away",
+        "D": "must be put away"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "She spoke so quietly that I could hardly ____ what she was saying.",
+      "options": {
+        "A": "make up",
+        "B": "make out",
+        "C": "make over",
+        "D": "make off"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "The meeting has been ____ until next week.",
+      "options": {
+        "A": "put off",
+        "B": "put away",
+        "C": "put down",
+        "D": "put up"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "I need to ____ some money for my vacation.",
+      "options": {
+        "A": "put aside",
+        "B": "take aside",
+        "C": "set aside",
+        "D": "lay aside"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "She's very ____ to detail in her work.",
+      "options": {
+        "A": "attentive",
+        "B": "attending",
+        "C": "attendant",
+        "D": "attention"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "It's important to make a good ____ impression at a job interview.",
+      "options": {
+        "A": "first",
+        "B": "primary",
+        "C": "initial",
+        "D": "beginning"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Could you please ____ me a favor?",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "give",
+        "D": "take"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "The storm caused significant ____ to the coastal areas.",
+      "options": {
+        "A": "harm",
+        "B": "damage",
+        "C": "injury",
+        "D": "wound"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "She ____ a mistake in her calculations.",
+      "options": {
+        "A": "made",
+        "B": "did",
+        "C": "had",
+        "D": "took"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "I need to ____ up with my friends after work.",
+      "options": {
+        "A": "catch",
+        "B": "meet",
+        "C": "see",
+        "D": "find"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "The company has ____ its deadline for applications.",
+      "options": {
+        "A": "expanded",
+        "B": "stretched",
+        "C": "extended",
+        "D": "lengthened"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "They finally ____ the missing hikers after three days of searching.",
+      "options": {
+        "A": "found",
+        "B": "discovered",
+        "C": "located",
+        "D": "spotted"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "He made a ____ to help his sister with her homework.",
+      "options": {
+        "A": "promise",
+        "B": "vow",
+        "C": "pledge",
+        "D": "oath"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Despite the difficulties, they decided to ____ with their plans.",
+      "options": {
+        "A": "proceed",
+        "B": "persist",
+        "C": "continue",
+        "D": "maintain"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "You should ____ all options before making a decision.",
+      "options": {
+        "A": "think about",
+        "B": "consider",
+        "C": "ponder",
+        "D": "contemplate"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "The lake waters ____ the mountains on a clear day.",
+      "options": {
+        "A": "reflect",
+        "B": "mirror",
+        "C": "show",
+        "D": "display"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "A large ____ of students attended the lecture.",
+      "options": {
+        "A": "amount",
+        "B": "quantity",
+        "C": "number",
+        "D": "total"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "The company plans to ____ its operations to other countries.",
+      "options": {
+        "A": "expand",
+        "B": "enlarge",
+        "C": "increase",
+        "D": "extend"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "The two countries continue to ____ over territory.",
+      "options": {
+        "A": "argue",
+        "B": "fight",
+        "C": "dispute",
+        "D": "conflict"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "You need to ____ thoroughly for the job interview.",
+      "options": {
+        "A": "ready",
+        "B": "prepare",
+        "C": "arrange",
+        "D": "organize"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Be careful not to ____ your keys again.",
+      "options": {
+        "A": "miss",
+        "B": "forget",
+        "C": "lose",
+        "D": "drop"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "I ____ a headache since this morning.",
+      "options": {
+        "A": "got",
+        "B": "am having",
+        "C": "had",
+        "D": "have"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "His ____ during the meeting was unprofessional.",
+      "options": {
+        "A": "behavior",
+        "B": "attitude",
+        "C": "conduct",
+        "D": "manner"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "New opportunities may ____ when you least expect them.",
+      "options": {
+        "A": "arise",
+        "B": "emerge",
+        "C": "appear",
+        "D": "come"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "The primary ____ of a refrigerator is to keep food cold.",
+      "options": {
+        "A": "purpose",
+        "B": "function",
+        "C": "role",
+        "D": "task"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "The group decided to ____ the bill equally among all members.",
+      "options": {
+        "A": "divide",
+        "B": "share",
+        "C": "separate",
+        "D": "split"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, what is the main way banks make profit?",
+      "options": {
+        "A": "By charging fees for their services",
+        "B": "By investing in the stock market",
+        "C": "Through the interest 'spread'",
+        "D": "By selling financial advice"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "What does the term 'fractional reserve banking' mean?",
+      "options": {
+        "A": "Banks keep all deposits in their vaults",
+        "B": "Banks keep only a fraction of deposits as reserves and lend the rest",
+        "C": "Banks split their profits with their customers",
+        "D": "Banks charge fractional interest rates on loans"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to the passage, which is NOT mentioned as a service provided by banks?",
+      "options": {
+        "A": "Checking accounts",
+        "B": "Investment in real estate",
+        "C": "Electronic payments",
+        "D": "Financial advice"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "What does the passage identify as 'credit risk'?",
+      "options": {
+        "A": "The risk that banks might charge too much interest",
+        "B": "The risk that depositors might withdraw too much money",
+        "C": "The risk that borrowers might not repay loans",
+        "D": "The risk that the bank might lose its credit rating"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to the passage, why are banks important for the economy?",
+      "options": {
+        "A": "They provide jobs for financial professionals",
+        "B": "They connect savers with borrowers",
+        "C": "They control the government's budget",
+        "D": "They prevent economic recessions"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What is 'liquidity risk' as described in the passage?",
+      "options": {
+        "A": "The risk that the bank might not have enough cash on hand",
+        "B": "The risk that many depositors might withdraw their money at once",
+        "C": "The risk that loans might not be repaid on time",
+        "D": "The risk that the bank might make poor investments"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What happens to the money that people deposit in banks?",
+      "options": {
+        "A": "It is stored in a vault until the depositor withdraws it",
+        "B": "It is immediately invested in the stock market",
+        "C": "It is used to pay bank employees",
+        "D": "Some is kept as reserves and the rest is used for loans"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "Why are banks regulated by government agencies according to the passage?",
+      "options": {
+        "A": "To ensure banks pay enough taxes",
+        "B": "To prevent banks from making too much profit",
+        "C": "To help ensure banks remain stable",
+        "D": "To force banks to lend to more people"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to the passage, what has made banking more convenient and accessible?",
+      "options": {
+        "A": "Increased number of physical bank branches",
+        "B": "Lower interest rates on loans",
+        "C": "Online and mobile banking services",
+        "D": "Reduced government regulations"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What does the passage suggest about the relationship between depositors and borrowers?",
+      "options": {
+        "A": "They are usually the same people",
+        "B": "They have conflicting interests",
+        "C": "Banks connect them to facilitate the flow of money",
+        "D": "They negotiate interest rates directly with each other"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
