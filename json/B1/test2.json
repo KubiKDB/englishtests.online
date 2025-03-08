@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Birds have remarkable abilities to navigate during their seasonal migrations, often traveling thousands of miles with astonishing precision. Some species return to the exact same nesting sites year after year, demonstrating an incredible sense of direction. Scientists have discovered that birds use multiple navigation methods, enabling them to adapt to different conditions they encounter during their long journeys.<br><br>(2) One primary navigation tool birds use is the position of the sun. Many birds can track the sun's movement across the sky and adjust for time of day, essentially using the sun as a compass. What makes this ability even more impressive is that birds possess an internal clock that allows them to compensate for the sun's changing position throughout the day. Some species can even use polarized light patterns visible at sunrise and sunset when the sun itself isn't directly visible.<br><br>(3) Perhaps more remarkably, research has shown that many birds can detect Earth's magnetic field, an ability known as magnetoreception. This built-in magnetic compass helps birds determine direction, especially during cloudy days or night migrations when celestial cues are unavailable. Scientists believe birds may have specialized cells containing magnetic particles in their beaks or eyes that function like microscopic compasses, allowing them to sense magnetic north and south.<br><br>(4) Stars also play a crucial role in bird navigation, particularly for species that migrate at night. Studies have demonstrated that nocturnal migrants can identify specific star patterns and use the North Star as a fixed reference point. Young birds appear to learn these celestial patterns during their first months of life, creating a mental star map they can refer to during migration. Some birds can even recognize star patterns that rotate around the pole star, giving them consistent directional information.<br><br>(5) Birds also rely heavily on geographic features like coastlines, mountain ranges, and rivers as navigational landmarks. Many species follow these natural highways during migration, using them as visual guides to stay on course. Familiar smells and sounds may also help birds recognize specific locations, particularly as they approach their final destinations. This combination of sensory tools and navigation methods demonstrates the remarkable adaptability that allows birds to complete their impressive migratory journeys year after year.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which tense is used in the sentence: 'She has been studying English for three years.'?",
+      "options": {
+        "A": "Present simple",
+        "B": "Present continuous",
+        "C": "Present perfect",
+        "D": "Present perfect continuous"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct option: 'If it _____ tomorrow, we will cancel the picnic.'",
+      "options": {
+        "A": "will rain",
+        "B": "rains",
+        "C": "is raining",
+        "D": "would rain"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the sentence with the correct word order:",
+      "options": {
+        "A": "Always she goes to bed at 10 PM.",
+        "B": "She goes always to bed at 10 PM.",
+        "C": "She always goes to bed at 10 PM.",
+        "D": "She goes to bed always at 10 PM."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence contains a mistake?",
+      "options": {
+        "A": "The children are playing in the garden.",
+        "B": "My brother lives in London.",
+        "C": "She don't like spicy food.",
+        "D": "They went to the cinema last night."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct option: 'The museum was _____ than I expected.'",
+      "options": {
+        "A": "more bigger",
+        "B": "more big",
+        "C": "bigger",
+        "D": "the biggest"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the correct passive form: 'They build new houses in this area.'",
+      "options": {
+        "A": "New houses build in this area.",
+        "B": "New houses are build in this area.",
+        "C": "New houses are built in this area.",
+        "D": "New houses is built in this area."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which sentence uses the past perfect correctly?",
+      "options": {
+        "A": "When I arrived, the train left.",
+        "B": "When I arrived, the train had left.",
+        "C": "When I had arrived, the train left.",
+        "D": "When I was arriving, the train had left."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct option: 'You _____ wear a uniform at this school.'",
+      "options": {
+        "A": "must to",
+        "B": "have",
+        "C": "must",
+        "D": "should to"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence contains a quantifier error?",
+      "options": {
+        "A": "There are a few apples in the basket.",
+        "B": "There is little water in the bottle.",
+        "C": "There are many people at the party.",
+        "D": "There is much students in this class."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct conjunction: 'I wanted to go out _____ it was raining.'",
+      "options": {
+        "A": "because",
+        "B": "so",
+        "C": "but",
+        "D": "and"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Which relative pronoun is correct? 'The woman _____ lives next door is a doctor.'",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "what"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the correct preposition: 'He's been working here _____ 2015.'",
+      "options": {
+        "A": "for",
+        "B": "since",
+        "C": "from",
+        "D": "at"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct option: 'If I _____ rich, I would buy a big house.'",
+      "options": {
+        "A": "am",
+        "B": "would be",
+        "C": "were",
+        "D": "will be"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence uses articles correctly?",
+      "options": {
+        "A": "I need an advice about the university courses.",
+        "B": "I need a advice about the university courses.",
+        "C": "I need advice about university courses.",
+        "D": "I need the advice about a university courses."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Choose the correct option: 'She _____ tennis every Saturday.'",
+      "options": {
+        "A": "play",
+        "B": "plays",
+        "C": "is playing",
+        "D": "are playing"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Complete the sentence: 'Could you _____ me your dictionary, please?'",
+      "options": {
+        "A": "lend",
+        "B": "borrow",
+        "C": "give",
+        "D": "take"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the most appropriate response: 'Would you like to come to my party?' '_____.'"  ,
+      "options": {
+        "A": "Yes, I'd love to",
+        "B": "No, I don't",
+        "C": "Yes, I'd love",
+        "D": "Yes, I will to"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the correct phrasal verb: 'It's getting late. We should _____ now.'",
+      "options": {
+        "A": "set up",
+        "B": "set off",
+        "C": "set down",
+        "D": "set in"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct collocation: 'She _____ a mistake in her calculations.'",
+      "options": {
+        "A": "did",
+        "B": "made",
+        "C": "had",
+        "D": "took"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the appropriate question tag: 'You haven't seen my keys, _____?'",
+      "options": {
+        "A": "haven't you",
+        "B": "didn't you",
+        "C": "have you",
+        "D": "do you"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the correct option to complete this request: 'Would you mind _____ the window?'",
+      "options": {
+        "A": "open",
+        "B": "to open",
+        "C": "opening",
+        "D": "opened"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Select the most natural expression: 'I'm really tired because I _____ get enough sleep last night.'",
+      "options": {
+        "A": "wasn't",
+        "B": "didn't",
+        "C": "haven't",
+        "D": "couldn't"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct expression: 'I need to _____ shopping for some new clothes.'",
+      "options": {
+        "A": "do",
+        "B": "make",
+        "C": "go",
+        "D": "have"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Complete the sentence correctly: 'It was such a boring lecture that I nearly fell _____.'",
+      "options": {
+        "A": "asleep",
+        "B": "sleeping",
+        "C": "to sleep",
+        "D": "in sleep"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the most appropriate response to 'How was your flight?'",
+      "options": {
+        "A": "It took three hours.",
+        "B": "It was a bit delayed but otherwise fine.",
+        "C": "I went by plane.",
+        "D": "I don't like flying."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the correct definition for 'receive':",
+      "options": {
+        "A": "To give something to someone",
+        "B": "To be given or presented with something",
+        "C": "To reject something offered",
+        "D": "To ask for something"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Complete the sentence: 'Can you _____ a good restaurant in this area?'",
+      "options": {
+        "A": "suggest",
+        "B": "offer",
+        "C": "advise",
+        "D": "tell"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Which sentence uses 'agree' correctly?",
+      "options": {
+        "A": "I agree you about the movie.",
+        "B": "I agree for your suggestion.",
+        "C": "I agree with your opinion.",
+        "D": "I agree about the changes."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Choose the correct preposition: 'I completely _____ with what he said.'",
+      "options": {
+        "A": "disagree",
+        "B": "disagree on",
+        "C": "disagree for",
+        "D": "disagree to"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Complete the sentence: 'The sun _____ from behind the clouds.'",
+      "options": {
+        "A": "appeared",
+        "B": "arrived",
+        "C": "showed",
+        "D": "came"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Which sentence uses 'disappear' correctly?",
+      "options": {
+        "A": "My keys disappear from the table yesterday.",
+        "B": "My keys have disappeared and I can't find them.",
+        "C": "My keys are disappear somewhere in the house.",
+        "D": "My keys will disappearing if I'm not careful."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Choose the correct meaning of 'allow':",
+      "options": {
+        "A": "To forbid something",
+        "B": "To make something possible",
+        "C": "To permit something",
+        "D": "To require something"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Complete the sentence: 'The manager _____ to give me a day off.'",
+      "options": {
+        "A": "refused",
+        "B": "denied",
+        "C": "rejected",
+        "D": "opposed"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Which sentence uses 'produce' correctly?",
+      "options": {
+        "A": "This factory produces many cars every day.",
+        "B": "This factory is producing by 500 workers.",
+        "C": "This factory produces with machines.",
+        "D": "This factory has produced since ten years."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Choose the correct definition for 'develop':",
+      "options": {
+        "A": "To make something worse",
+        "B": "To grow or change into a more advanced state",
+        "C": "To destroy something",
+        "D": "To repair something"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Complete the sentence: 'I can't _____ living without my smartphone now.'",
+      "options": {
+        "A": "imagine",
+        "B": "think",
+        "C": "believe",
+        "D": "suppose"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Which is the correct definition for 'describe'?",
+      "options": {
+        "A": "To draw a picture of something",
+        "B": "To give a detailed account of something",
+        "C": "To criticize something",
+        "D": "To analyze something"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Choose the correct preposition: 'Can you _____ your hometown to mine?'",
+      "options": {
+        "A": "compare with",
+        "B": "compare on",
+        "C": "compare for",
+        "D": "compare about"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Complete the sentence: 'I _____ tea to coffee in the morning.'",
+      "options": {
+        "A": "prefer",
+        "B": "like",
+        "C": "want",
+        "D": "choose"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Which sentence uses 'depend' correctly?",
+      "options": {
+        "A": "It depends from the weather.",
+        "B": "It depends to your decision.",
+        "C": "It depends on when you can come.",
+        "D": "It depends about the price."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, birds use multiple navigation methods in order to:",
+      "options": {
+        "A": "Travel faster during migration",
+        "B": "Adapt to different conditions during journeys",
+        "C": "Avoid predators during migration",
+        "D": "Save energy during long flights"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "The passage states that birds use the sun as:",
+      "options": {
+        "A": "A source of energy",
+        "B": "A way to determine distance",
+        "C": "A compass for navigation",
+        "D": "A method to estimate flight time"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, magnetoreception is especially helpful when:",
+      "options": {
+        "A": "Birds are flying over water",
+        "B": "Celestial cues are unavailable",
+        "C": "Birds are flying near the equator",
+        "D": "Birds are flying in large groups"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "The word 'crucial' in paragraph 4 is closest in meaning to:",
+      "options": {
+        "A": "Interesting",
+        "B": "Optional",
+        "C": "Essential",
+        "D": "Dangerous"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to the passage, which celestial body serves as a fixed reference point for nocturnal migrants?",
+      "options": {
+        "A": "The sun",
+        "B": "The moon",
+        "C": "The North Star",
+        "D": "Planetary bodies"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "Which of the following is NOT mentioned as a navigation method used by birds?",
+      "options": {
+        "A": "Using the earth's magnetic field",
+        "B": "Following geographic features",
+        "C": "Using sound waves like sonar",
+        "D": "Tracking the position of the sun"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What can be inferred about young birds from paragraph 4?",
+      "options": {
+        "A": "They migrate during daytime only",
+        "B": "They learn navigation skills from older birds",
+        "C": "They create mental maps of star patterns early in life",
+        "D": "They rely more on magnetic fields than adult birds"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The phrase 'natural highways' in paragraph 5 refers to:",
+      "options": {
+        "A": "Migration routes created by humans",
+        "B": "Air currents that birds follow",
+        "C": "Geographic features like coastlines and rivers",
+        "D": "Paths formed by other migrating animals"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Which of the following best describes the main purpose of the passage?",
+      "options": {
+        "A": "To compare different bird species' migration patterns",
+        "B": "To explain various methods birds use for navigation",
+        "C": "To describe the seasonal behavior of migratory birds",
+        "D": "To analyze the environmental threats to bird migration"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "Based on the passage, what is emphasized about birds' navigation abilities?",
+      "options": {
+        "A": "Their reliance on human-made structures",
+        "B": "Their dependence on other migrating animals",
+        "C": "Their remarkable precision and adaptability",
+        "D": "Their vulnerability to changing weather conditions"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
