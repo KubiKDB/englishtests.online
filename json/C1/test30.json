@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Market competition has become an inextricable element of modern economies, significantly influencing both business strategies and consumer behavior. When multiple companies vie for consumer attention and loyalty, they are compelled to differentiate themselves through various means such as price reductions, quality improvements, and innovation in product offerings. This competitive environment creates a dynamic marketplace where businesses must constantly evolve to maintain or increase their market share.<br><br>(2) For consumers, intense market competition typically yields several tangible benefits. Most notably, competition often leads to lower prices as companies attempt to undercut their rivals to attract price-sensitive customers. Beyond mere cost considerations, competition frequently results in enhanced product quality and broader selection, as businesses strive to distinguish themselves in increasingly crowded marketplaces. Furthermore, competition accelerates innovation, as companies invest in research and development to create novel features or entirely new products that might capture consumer interest.<br><br>(3) Nevertheless, market competition can occasionally produce adverse effects on consumer choice. In markets dominated by a few large corporations, the appearance of choice may be illusory, with seemingly different brands often owned by the same parent company. Additionally, excessive competition might compel businesses to prioritize short-term gains over long-term customer satisfaction, potentially resulting in deceptive advertising, planned obsolescence, or compromised product safety. These practices can ultimately undermine the purported benefits of competition.<br><br>(4) The digital marketplace has fundamentally transformed how competition affects consumer choices. Online platforms facilitate price comparison, access to product reviews, and virtually unlimited selection, ostensibly empowering consumers. However, this digital environment also enables sophisticated targeting through algorithms that can create information bubbles, potentially limiting exposure to diverse options. Moreover, the convenience of online shopping may inadvertently reduce the likelihood that consumers will explore alternatives beyond their established preferences.<br><br>(5) The relationship between market competition and consumer choice is thus nuanced and evolving. While competition generally expands options and improves value for consumers, its benefits are neither automatic nor universal. Thoughtful regulation, consumer education, and corporate responsibility all play crucial roles in ensuring that market competition genuinely enhances rather than restricts meaningful consumer choice. As markets continue to evolve, particularly in the digital realm, maintaining a balance that truly serves consumer interests remains an ongoing challenge for policymakers, businesses, and consumers alike.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which form correctly completes the sentence? 'If the company _______ its marketing strategy last year, it would have attracted more customers.'",
+      "options": {
+        "A": "had changed",
+        "B": "would change",
+        "C": "has changed",
+        "D": "was changing"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the sentence with the correct use of articles: ",
+      "options": {
+        "A": "She is best candidate for the position of CEO.",
+        "B": "He submitted an unique proposal for restructuring the department.",
+        "C": "They've been developing the new software for over a year.",
+        "D": "We need a honest assessment of our market position."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Choose the correct form for the reported speech: She said, 'I will submit the report tomorrow.'",
+      "options": {
+        "A": "She said that she will submit the report the next day.",
+        "B": "She said that she would submit the report the next day.",
+        "C": "She said that she would submit the report tomorrow.",
+        "D": "She said that she will be submitting the report the next day."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Select the sentence with the correct subject-verb agreement:",
+      "options": {
+        "A": "The committee have reached a unanimous decision.",
+        "B": "Neither of the proposals address the fundamental issue.",
+        "C": "A number of participants were dissatisfied with the results.",
+        "D": "The data indicates a significant shift in consumer preferences."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Which sentence uses the correct form of the participle?",
+      "options": {
+        "A": "Having reviewing the quarterly figures, the board approved the expansion.",
+        "B": "Concern about potential losses, they decided to postpone the investment.",
+        "C": "Having been rejected twice, the proposal required substantial revision.",
+        "D": "The companies competing for the contract was all highly qualified."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Choose the sentence with the correct use of modals:",
+      "options": {
+        "A": "You must not to disclose this information to unauthorized personnel.",
+        "B": "The management should had anticipated these challenges.",
+        "C": "We might have overlooked some critical factors in our analysis.",
+        "D": "Employees may not entered the restricted area without proper clearance."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Identify the correct conditional sentence:",
+      "options": {
+        "A": "If we would have implemented the new system earlier, we wouldn't face these issues now.",
+        "B": "Unless immediate action is taken, the company would lose its market position.",
+        "C": "Had they consulted the experts, they would have avoided the setback.",
+        "D": "If the merger goes ahead, we will have increased our market share by 15%."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Which sentence demonstrates correct use of relative clauses?",
+      "options": {
+        "A": "The strategy which they implemented last quarter has yielded impressive results.",
+        "B": "The CEO, that everyone respects, announced his retirement yesterday.",
+        "C": "The investors whom backed the project received substantial returns.",
+        "D": "The marketing campaign which effectiveness was questionable cost millions."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Select the sentence with the correct use of prepositions:",
+      "options": {
+        "A": "The company's success depends of its ability to innovate.",
+        "B": "They're investigating into the causes of the market fluctuation.",
+        "C": "We should take advantage from the current market conditions.",
+        "D": "She's been responsible for strategic planning since her promotion."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence uses parallelism correctly?",
+      "options": {
+        "A": "The new policy aims to increase productivity, reducing costs, and the improvement of quality.",
+        "B": "The CEO emphasized the importance of innovation, collaboration, and maintaining high standards.",
+        "C": "They need to either revise the proposal or they should abandon it entirely.",
+        "D": "Not only did she develop the strategic plan but also implementing it successfully."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Identify the sentence with correct use of the past perfect continuous:",
+      "options": {
+        "A": "They had been negotiating for three hours when the power outage occurred.",
+        "B": "She has been working on the project before the deadline was extended.",
+        "C": "We had been arrived at the conference when they announced the postponement.",
+        "D": "The company had being losing market share until they hired the new CEO."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Choose the sentence with the correct use of inversion:",
+      "options": {
+        "A": "Only then realized they the magnitude of the problem.",
+        "B": "Not only was the proposal innovative, but it was also cost-effective.",
+        "C": "Seldom they have encountered such fierce competition in the market.",
+        "D": "Rarely the board has rejected a recommendation from the executive committee."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Select the sentence with the correct use of emphasis:",
+      "options": {
+        "A": "It is the innovation that has driven the company's success.",
+        "B": "What did impress the investors was the thorough market analysis.",
+        "C": "It was her who negotiated the favorable terms of the agreement.",
+        "D": "Do they believe the merger will be beneficial for all stakeholders."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Identify the sentence with correct use of gerunds and infinitives:",
+      "options": {
+        "A": "They considered to implement a new marketing strategy.",
+        "B": "The management delayed making a decision until all data was analyzed.",
+        "C": "She avoided to disclose the financial projections during the meeting.",
+        "D": "We discussed about expanding into emerging markets."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Choose the sentence with the correct passive construction:",
+      "options": {
+        "A": "The proposal will discussed at tomorrow's meeting.",
+        "B": "The project has been being developed by the research team for months.",
+        "C": "A comprehensive market analysis was conducted before the launch.",
+        "D": "The decision must be approve by the board of directors."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Complete the sentence: 'Despite the economic downturn, the company managed to _______ its market position.'",
+      "options": {
+        "A": "consolidate",
+        "B": "conserve",
+        "C": "condense",
+        "D": "conduct"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the appropriate phrase to complete the sentence: 'The negotiations reached a _______ when neither party was willing to compromise.'",
+      "options": {
+        "A": "turning point",
+        "B": "breaking point",
+        "C": "stalemate",
+        "D": "crossroads"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the correct collocation: 'The CEO _______ serious doubts about the viability of the project.'",
+      "options": {
+        "A": "raised",
+        "B": "lifted",
+        "C": "heightened",
+        "D": "elevated"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct phrasal verb: 'The company decided to _______ the launch of its new product due to technical issues.'",
+      "options": {
+        "A": "put down",
+        "B": "put off",
+        "C": "put through",
+        "D": "put up"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Complete the sentence with the correct idiom: 'The unexpected market crash _______ for many investors who had put all their money in speculative stocks.'",
+      "options": {
+        "A": "let the cat out of the bag",
+        "B": "hit the nail on the head",
+        "C": "was a bitter pill to swallow",
+        "D": "cost an arm and a leg"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the most appropriate word to complete the sentence: 'The marketing team created a campaign that would _______ to environmentally conscious consumers.'",
+      "options": {
+        "A": "attract",
+        "B": "appeal",
+        "C": "approach",
+        "D": "address"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct expression to complete the sentence: 'After years of losses, the company finally _______ and began showing a profit.'",
+      "options": {
+        "A": "turned around",
+        "B": "came around",
+        "C": "went around",
+        "D": "got around"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the word that best completes the sentence: 'The regulatory body imposed _______ penalties on companies that violated environmental standards.'",
+      "options": {
+        "A": "significant",
+        "B": "stringent",
+        "C": "strenuous",
+        "D": "substantial"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct form to complete the sentence: 'The report _______ that the market will grow by 15% next year.'",
+      "options": {
+        "A": "prognosticates",
+        "B": "predicts",
+        "C": "presumes",
+        "D": "presages"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the most appropriate connector: 'The company invested heavily in research and development; _______, its new products are technically superior to the competition.'",
+      "options": {
+        "A": "otherwise",
+        "B": "consequently",
+        "C": "nevertheless",
+        "D": "meanwhile"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the word that most closely matches this definition: 'Respect and esteem shown to another, especially by reason of age or merit.'",
+      "options": {
+        "A": "admiration",
+        "B": "regard",
+        "C": "deference",
+        "D": "veneration"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Select the word that means: 'To express disapproval, disappointment, or blame.'",
+      "options": {
+        "A": "reprimand",
+        "B": "reproach",
+        "C": "rebuke",
+        "D": "reproval"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Which word means 'representing the most perfect or typical example of a quality or class'?",
+      "options": {
+        "A": "archetypal",
+        "B": "exemplary",
+        "C": "quintessential",
+        "D": "paramount"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Choose the word that means 'able to withstand or recover quickly from difficult conditions':",
+      "options": {
+        "A": "tenacious",
+        "B": "adaptable",
+        "C": "durable",
+        "D": "resilient"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Select the word that means 'to add support or strength to something':",
+      "options": {
+        "A": "reinforce",
+        "B": "bolster",
+        "C": "fortify",
+        "D": "buttress"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Which word means 'to belittle or speak of in a slighting or disrespectful way'?",
+      "options": {
+        "A": "deprecate",
+        "B": "criticize",
+        "C": "disparage",
+        "D": "denigrate"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Choose the word that means 'to restore to youthful vigor or appearance; make young or fresh again':",
+      "options": {
+        "A": "revitalize",
+        "B": "renew",
+        "C": "rejuvenate",
+        "D": "refresh"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Select the word that means 'to say or do again or repeatedly':",
+      "options": {
+        "A": "repeat",
+        "B": "recapitulate",
+        "C": "restate",
+        "D": "reiterate"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Which word describes 'a person who shows independence in thought or action, especially by refusing to adhere to conventional rules'?",
+      "options": {
+        "A": "rebel",
+        "B": "nonconformist",
+        "C": "maverick",
+        "D": "dissident"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Choose the word that means 'of, relating to, or occurring in the spring':",
+      "options": {
+        "A": "seasonal",
+        "B": "vernal",
+        "C": "floral",
+        "D": "verdant"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Select the word that means 'lying flat or at full length, especially in a position of submission, humility, or adoration':",
+      "options": {
+        "A": "supine",
+        "B": "recumbent",
+        "C": "prone",
+        "D": "prostrate"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Which word means 'adherence to the truth; truthfulness'?",
+      "options": {
+        "A": "honesty",
+        "B": "integrity",
+        "C": "credibility",
+        "D": "veracity"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Choose the word that means 'involving or characterized by deception or intended to deceive':",
+      "options": {
+        "A": "deceptive",
+        "B": "misleading",
+        "C": "fraudulent",
+        "D": "duplicitous"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Select the word that means 'to yield to another's demand or wish':",
+      "options": {
+        "A": "concede",
+        "B": "submit",
+        "C": "comply",
+        "D": "accede"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Which word describes 'unreasonably irritable or ill-tempered, especially over trivial matters'?",
+      "options": {
+        "A": "cantankerous",
+        "B": "irascible",
+        "C": "petulant",
+        "D": "choleric"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what compels businesses to differentiate themselves in a competitive market?",
+      "options": {
+        "A": "Government regulations",
+        "B": "The need for consumer attention and loyalty",
+        "C": "Declining market share",
+        "D": "Internal corporate policies"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following is NOT mentioned in paragraph 2 as a benefit of market competition for consumers?",
+      "options": {
+        "A": "Lower prices",
+        "B": "Enhanced product quality",
+        "C": "Accelerated innovation",
+        "D": "Simplified decision-making"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, why might choice in markets dominated by a few large corporations be illusory?",
+      "options": {
+        "A": "Consumers are unable to distinguish between different brands",
+        "B": "Different brands are often owned by the same parent company",
+        "C": "Large corporations deliberately limit consumer options",
+        "D": "Products in such markets are virtually identical"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "The passage suggests that businesses focused on short-term gains might engage in all of the following EXCEPT:",
+      "options": {
+        "A": "Deceptive advertising",
+        "B": "Planned obsolescence",
+        "C": "Compromised product safety",
+        "D": "Extensive consumer research"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to paragraph 4, how have digital platforms affected consumer choice?",
+      "options": {
+        "A": "They have exclusively expanded consumer options",
+        "B": "They have completely eliminated traditional shopping behaviors",
+        "C": "They have both empowered consumers and potentially limited exposure to diverse options",
+        "D": "They have made product comparison impossible due to information overload"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What does the passage suggest about the relationship between market competition and consumer choice?",
+      "options": {
+        "A": "It is straightforward and entirely beneficial",
+        "B": "It is complex and requires multiple stakeholders to ensure consumer benefit",
+        "C": "It is deteriorating due to technological advances",
+        "D": "It is primarily determined by government intervention"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Which word in paragraph 3 most closely means 'false or deceptive'?",
+      "options": {
+        "A": "adverse",
+        "B": "illusory",
+        "C": "deceptive",
+        "D": "excessive"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The term 'information bubbles' in paragraph 4 most likely refers to:",
+      "options": {
+        "A": "Digital spaces where consumers can find unlimited information",
+        "B": "Environments where consumers only encounter information that aligns with their existing preferences",
+        "C": "Online forums where consumers can discuss products",
+        "D": "Technical limitations in digital information storage"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "The author's tone in discussing market competition can best be described as:",
+      "options": {
+        "A": "Highly critical and pessimistic",
+        "B": "Enthusiastically supportive",
+        "C": "Balanced and analytical",
+        "D": "Confused and uncertain"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "The main purpose of the passage is to:",
+      "options": {
+        "A": "Argue that market competition is fundamentally harmful to consumers",
+        "B": "Present a nuanced view of how market competition affects consumer choices",
+        "C": "Propose specific regulations to improve market competition",
+        "D": "Compare traditional and digital marketplaces"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
