@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Trees are very important for all living things on Earth. They help us by making oxygen. Oxygen is what we breathe to stay alive. Trees take in carbon dioxide from the air, which is a gas that we breathe out. Then, they use sunlight to change this carbon dioxide into oxygen and food for themselves.<br><br>(2) The process of making oxygen is called photosynthesis. Photosynthesis happens in the green leaves of trees. The leaves have a special green material called chlorophyll. Chlorophyll helps the tree use energy from the sun. This energy changes water and carbon dioxide into oxygen and sugar. Trees use the sugar for food, and they release the oxygen into the air.<br><br>(3) Trees make a lot of oxygen every day. One big tree can make enough oxygen for four people to breathe all day. Forests with many trees make huge amounts of oxygen. This is why forests are sometimes called the 'lungs of the Earth.' Without trees, we would not have enough oxygen to breathe.<br><br>(4) We need to take care of trees because they take care of us. When people cut down too many trees, there is less oxygen in the air. Planting new trees is a good way to help. Even one small tree can grow big and make more oxygen over time. We should all try to protect trees and forests for our future.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "She work in an office.",
+        "B": "She works in an office.",
+        "C": "She working in an office.",
+        "D": "She are work in an office."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct form of the verb.",
+      "options": {
+        "A": "My father cook dinner yesterday.",
+        "B": "My father cooked dinner yesterday.",
+        "C": "My father cooking dinner yesterday.",
+        "D": "My father is cook dinner yesterday."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the correct plural form.",
+      "options": {
+        "A": "Two childs",
+        "B": "Two childrens",
+        "C": "Two children",
+        "D": "Two childs'"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence is in the present continuous tense?",
+      "options": {
+        "A": "They play soccer every Saturday.",
+        "B": "They played soccer yesterday.",
+        "C": "They are playing soccer now.",
+        "D": "They will play soccer tomorrow."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct preposition.",
+      "options": {
+        "A": "The cat is under the table.",
+        "B": "The cat is between the table.",
+        "C": "The cat is beside of the table.",
+        "D": "The cat is among the table."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which is the correct possessive form?",
+      "options": {
+        "A": "The boys book",
+        "B": "The boys' book",
+        "C": "The boy's book",
+        "D": "The boy book"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Select the correct form of 'to be'.",
+      "options": {
+        "A": "The students is in the classroom.",
+        "B": "The students am in the classroom.",
+        "C": "The students be in the classroom.",
+        "D": "The students are in the classroom."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct question form.",
+      "options": {
+        "A": "What time is it?",
+        "B": "What time it is?",
+        "C": "Is what time it?",
+        "D": "Time is what it?"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Select the correct comparative form.",
+      "options": {
+        "A": "This building is more taller than that one.",
+        "B": "This building is tallest than that one.",
+        "C": "This building is taller than that one.",
+        "D": "This building is the taller than that one."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence has the correct article usage?",
+      "options": {
+        "A": "She is an doctor.",
+        "B": "She is a doctor.",
+        "C": "She is the doctor.",
+        "D": "She is doctor."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct future form.",
+      "options": {
+        "A": "I will studying tomorrow.",
+        "B": "I will to study tomorrow.",
+        "C": "I will study tomorrow.",
+        "D": "I studying will tomorrow."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which negative form is correct?",
+      "options": {
+        "A": "We don't goes to school on Sunday.",
+        "B": "We not go to school on Sunday.",
+        "C": "We don't going to school on Sunday.",
+        "D": "We don't go to school on Sunday."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Select the correct pronoun to complete the sentence: 'This is ___ book.'",
+      "options": {
+        "A": "I",
+        "B": "me",
+        "C": "my",
+        "D": "mine"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct order of adjectives.",
+      "options": {
+        "A": "She has a blue small bag.",
+        "B": "She has a small blue bag.",
+        "C": "She has blue a small bag.",
+        "D": "She has small a blue bag."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Which sentence has the correct word order?",
+      "options": {
+        "A": "Often they go to the park.",
+        "B": "They go often to the park.",
+        "C": "They often go to the park.",
+        "D": "They go to the park often."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Complete the sentence: 'My brother ____ soccer every weekend.'",
+      "options": {
+        "A": "play",
+        "B": "plays",
+        "C": "playing",
+        "D": "is play"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Fill in the blank: 'She ____ her homework last night.'",
+      "options": {
+        "A": "do",
+        "B": "does",
+        "C": "doing",
+        "D": "did"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct response: 'How old are you?' '____'",
+      "options": {
+        "A": "I am fine.",
+        "B": "I am a student.",
+        "C": "I am from London.",
+        "D": "I am 15 years old."
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Complete the sentence: 'There ____ a book on the table.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "be",
+        "D": "am"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Fill in the blank: 'I ____ to the movies last weekend.'",
+      "options": {
+        "A": "go",
+        "B": "went",
+        "C": "going",
+        "D": "goes"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the correct phrase: '____?'",
+      "options": {
+        "A": "What is your name",
+        "B": "What your name is",
+        "C": "Your name what is",
+        "D": "Your what is name"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Complete the sentence: 'I don't have ____ money.'",
+      "options": {
+        "A": "some",
+        "B": "a",
+        "C": "any",
+        "D": "no"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Fill in the blank: 'My birthday is ____ June 15.'",
+      "options": {
+        "A": "in",
+        "B": "at",
+        "C": "on",
+        "D": "by"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct time expression: 'I will see you ____ Monday.'",
+      "options": {
+        "A": "in",
+        "B": "at",
+        "C": "for",
+        "D": "on"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Complete the sentence: 'She ____ a new car.'",
+      "options": {
+        "A": "have",
+        "B": "having",
+        "C": "has",
+        "D": "is have"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What does 'cost' mean?",
+      "options": {
+        "A": "The price of something",
+        "B": "To make something",
+        "C": "To find something",
+        "D": "The size of something"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Which of these is 'pink'?",
+      "options": {
+        "A": "A dark color like night",
+        "B": "A light red color",
+        "C": "A blue-green color",
+        "D": "A very bright yellow"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What is a 'skill'?",
+      "options": {
+        "A": "A type of food",
+        "B": "A place to work",
+        "C": "The ability to do something well",
+        "D": "A part of a house"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "What is a 'trial'?",
+      "options": {
+        "A": "A test or experiment",
+        "B": "A type of fruit",
+        "C": "A room in a house",
+        "D": "A kind of animal"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "The 'surface' of something is:",
+      "options": {
+        "A": "The top or outside part",
+        "B": "The bottom or inside part",
+        "C": "The color of it",
+        "D": "The weight of it"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Something that is 'prior' happens:",
+      "options": {
+        "A": "At the same time",
+        "B": "After something else",
+        "C": "Before something else",
+        "D": "Every day"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "What is a 'role'?",
+      "options": {
+        "A": "A part that someone plays in an activity",
+        "B": "A type of bread",
+        "C": "A small house",
+        "D": "A kind of vegetable"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Something that is 'solid' is:",
+      "options": {
+        "A": "Liquid like water",
+        "B": "Firm and hard, not liquid or gas",
+        "C": "Very soft",
+        "D": "Invisible"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Who is a 'grandmother'?",
+      "options": {
+        "A": "Your mother's or father's mother",
+        "B": "Your mother's or father's sister",
+        "C": "Your sister's daughter",
+        "D": "Your daughter's friend"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "What is a 'sentence'?",
+      "options": {
+        "A": "A group of words that makes complete sense",
+        "B": "A single word",
+        "C": "A page in a book",
+        "D": "A picture in a book"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "A 'source' is:",
+      "options": {
+        "A": "A place where something comes from",
+        "B": "A type of food",
+        "C": "A piece of furniture",
+        "D": "A kind of animal"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "What is a 'door'?",
+      "options": {
+        "A": "A window in a house",
+        "B": "A part of a tree",
+        "C": "An opening for entering or leaving a room or building",
+        "D": "A type of car"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "To 'understand' means:",
+      "options": {
+        "A": "To forget something",
+        "B": "To know the meaning of something",
+        "C": "To break something",
+        "D": "To lose something"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "What does it mean to 'call' someone?",
+      "options": {
+        "A": "To send them a letter",
+        "B": "To visit their house",
+        "C": "To use a phone to talk to them",
+        "D": "To write them an email"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Which sentence uses 'then' correctly?",
+      "options": {
+        "A": "I will eat lunch then I will do my homework.",
+        "B": "I then will eat lunch I will do my homework.",
+        "C": "I will eat lunch, then I will do my homework.",
+        "D": "I will eat lunch I then will do my homework."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, what do trees make that we need to breathe?",
+      "options": {
+        "A": "Carbon dioxide",
+        "B": "Sugar",
+        "C": "Oxygen",
+        "D": "Chlorophyll"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "According to paragraph 1, what do trees take in from the air?",
+      "options": {
+        "A": "Oxygen",
+        "B": "Carbon dioxide",
+        "C": "Sugar",
+        "D": "Water"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "Based on paragraph 2, what is photosynthesis?",
+      "options": {
+        "A": "A type of tree",
+        "B": "A green material in leaves",
+        "C": "The process of making oxygen",
+        "D": "A kind of sunlight"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to paragraph 2, what is chlorophyll?",
+      "options": {
+        "A": "A process trees use",
+        "B": "A special green material in leaves",
+        "C": "A type of oxygen",
+        "D": "A type of sugar"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to paragraph 3, how many people can get oxygen from one big tree?",
+      "options": {
+        "A": "One person",
+        "B": "Two people",
+        "C": "Three people",
+        "D": "Four people"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "In paragraph 3, forests are called:",
+      "options": {
+        "A": "The heart of the Earth",
+        "B": "The lungs of the Earth",
+        "C": "The brain of the Earth",
+        "D": "The skin of the Earth"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to paragraph 4, what happens when people cut down too many trees?",
+      "options": {
+        "A": "There is more oxygen in the air",
+        "B": "There is less oxygen in the air",
+        "C": "There is more carbon dioxide in the air",
+        "D": "There is less water in the air"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "Based on the passage, what is a good way to help?",
+      "options": {
+        "A": "Cutting down trees",
+        "B": "Burning trees",
+        "C": "Planting new trees",
+        "D": "Moving trees"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What is the main idea of this passage?",
+      "options": {
+        "A": "Trees are good for building houses",
+        "B": "Trees make oxygen that we need to live",
+        "C": "Trees are green and beautiful",
+        "D": "Trees grow very slowly"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "According to the passage, why should we protect trees and forests?",
+      "options": {
+        "A": "Because they are pretty",
+        "B": "Because they give us wood",
+        "C": "Because they give us fruit",
+        "D": "Because they take care of us"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    }
+  ]
+}
