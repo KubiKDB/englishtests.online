@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Supply and demand constitute the fundamental forces driving price formation in market economies. When consumers' desire for a product (demand) interacts with producers' willingness to provide it (supply), a market price emerges that theoretically satisfies both parties. This price discovery mechanism operates continuously across countless markets, from basic commodities to sophisticated financial instruments, serving as the invisible hand that allocates resources efficiently without central coordination.<br><br>(2) Demand is primarily influenced by several key factors: consumer preferences, income levels, prices of related goods, and expectations about future conditions. As consumers' purchasing power increases, demand typically rises, creating upward pressure on prices. Conversely, when substitute products become less expensive, demand for the original product may decline. These relationships are quantified through concepts like price elasticity, which measures how responsive demand is to price changes—essential knowledge for businesses making strategic pricing decisions.<br><br>(3) Supply, in contrast, responds to production costs, technology, resource availability, and producer expectations. Firms seek profit maximization, increasing production when marginal revenue exceeds marginal cost. Technological advancements that reduce production costs can shift the supply curve rightward, potentially lowering market prices while increasing quantity. Similarly, adverse events affecting resource availability—such as natural disasters or regulatory changes—can constrain supply, driving prices upward if demand remains constant.<br><br>(4) Market equilibrium occurs when supply and demand forces balance, establishing a price at which quantity supplied equals quantity demanded. This equilibrium is dynamic rather than static; any exogenous shock disrupting either supply or demand triggers price adjustments until a new equilibrium emerges. For instance, a sudden surge in consumer interest creates excess demand at the current price, incentivizing suppliers to raise prices and increase production. These adjustments continue until the market clears again—a self-correcting process that economists consider remarkably efficient despite its decentralized nature.<br><br>(5) Nevertheless, real-world markets frequently deviate from theoretical models due to imperfect information, external costs or benefits, market power, and various frictions. Price controls, whether ceilings or floors, can prevent markets from reaching equilibrium, leading to shortages or surpluses. Similarly, monopolistic conditions can result in prices higher than those that would prevail under perfect competition. Understanding these complexities helps policymakers design appropriate interventions when market failures occur while preserving the essential price formation mechanism that underpins modern economies.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct form of the verb in the following sentence: 'If he _____ earlier, he would have caught the train.'",
+      "options": {
+        "A": "left",
+        "B": "would leave",
+        "C": "had left",
+        "D": "has left"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the grammatically correct sentence:",
+      "options": {
+        "A": "Neither the CEO nor the board members was informed about the merger.",
+        "B": "Neither the CEO nor the board members were informed about the merger.",
+        "C": "Neither the CEO nor the board members are informed about the merger.",
+        "D": "Neither the CEO nor the board members has been informed about the merger."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Choose the correct relative pronoun: 'The conference, _____ took place in Berlin, was attended by leading scientists.'",
+      "options": {
+        "A": "which",
+        "B": "that",
+        "C": "what",
+        "D": "who"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Identify the sentence with the correct use of articles:",
+      "options": {
+        "A": "He has PhD in Economics from prestigious university in London.",
+        "B": "He has a PhD in Economics from prestigious university in London.",
+        "C": "He has the PhD in Economics from a prestigious university in London.",
+        "D": "He has a PhD in Economics from a prestigious university in London."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Select the correct passive form: 'The new policy _____ before the end of the year.'",
+      "options": {
+        "A": "will implement",
+        "B": "will be implemented",
+        "C": "will have implemented",
+        "D": "will have been implementing"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Choose the correct sentence with reported speech: 'I'll submit the report tomorrow,' she said.",
+      "options": {
+        "A": "She said that she will submit the report tomorrow.",
+        "B": "She said that she would submit the report the next day.",
+        "C": "She said that she will submit the report the next day.",
+        "D": "She said that she would submit the report tomorrow."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Select the sentence with the correct use of subjunctive mood:",
+      "options": {
+        "A": "The professor insisted that the student attends all lectures.",
+        "B": "The professor insisted that the student attended all lectures.",
+        "C": "The professor insisted that the student attend all lectures.",
+        "D": "The professor insisted that the student will attend all lectures."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Identify the sentence with correct subject-verb agreement:",
+      "options": {
+        "A": "The number of students enrolling in online courses have increased dramatically.",
+        "B": "A number of participants was unable to attend the conference.",
+        "C": "The number of applications has exceeded our expectations.",
+        "D": "A number of issues remains unresolved."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct form of the infinitive: 'The researcher claimed _____ a breakthrough in cancer treatment.'",
+      "options": {
+        "A": "to have made",
+        "B": "to make",
+        "C": "making",
+        "D": "to be making"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Select the grammatically correct sentence:",
+      "options": {
+        "A": "No sooner had the lecture begun than several students left the room.",
+        "B": "No sooner the lecture had begun than several students left the room.",
+        "C": "No sooner did the lecture begin when several students left the room.",
+        "D": "No sooner had the lecture begun when several students left the room."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct adverbial form: 'The project was completed _____ than expected despite numerous challenges.'",
+      "options": {
+        "A": "more quickly",
+        "B": "quicklier",
+        "C": "more quick",
+        "D": "most quickly"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Identify the sentence with the correct use of modals for deduction:",
+      "options": {
+        "A": "She must be exhausted after working for 12 hours straight.",
+        "B": "She might be exhausted after working for 12 hours straight.",
+        "C": "She could be exhausted after working for 12 hours straight.",
+        "D": "She should be exhausted after working for 12 hours straight."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Select the sentence with the correct use of the gerund:",
+      "options": {
+        "A": "The committee considered to postpone the meeting until next week.",
+        "B": "The committee considered postponing the meeting until next week.",
+        "C": "The committee considered for postponing the meeting until next week.",
+        "D": "The committee considered that they postpone the meeting until next week."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct sentence with inverted conditional:",
+      "options": {
+        "A": "Had not been for your help, we would have failed the project.",
+        "B": "Had not it been for your help, we would have failed the project.",
+        "C": "Had it not been for your help, we would have failed the project.",
+        "D": "Had been not for your help, we would have failed the project."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Identify the sentence with the correct use of emphasis:",
+      "options": {
+        "A": "Not until the results were published did the researchers realize their mistake.",
+        "B": "Not until the results were published the researchers did realize their mistake.",
+        "C": "Not until did the results were published the researchers realize their mistake.",
+        "D": "Not until the results were published the researchers realized their mistake."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the most appropriate word to complete the sentence: 'Despite the governor's refusal to grant _____, the prisoner maintained his innocence until his execution.'",
+      "options": {
+        "A": "pardon",
+        "B": "amnesty",
+        "C": "clemency",
+        "D": "absolution"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 17,
+      "question": "Select the word that best completes the sentence: 'During the Middle Ages, challenging church doctrine was considered _____ and could result in severe punishment.'",
+      "options": {
+        "A": "blasphemy",
+        "B": "heresy",
+        "C": "apostasy",
+        "D": "sacrilege"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 18,
+      "question": "Choose the most appropriate word: 'The government's new policies aimed to _____ a sense of cooperation among previously competing industries.'",
+      "options": {
+        "A": "foster",
+        "B": "provoke",
+        "C": "engender",
+        "D": "cultivate"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 19,
+      "question": "Select the word that best completes the sentence: 'The prospect of addressing the international conference was _____ for the young researcher.'",
+      "options": {
+        "A": "intimidating",
+        "B": "formidable",
+        "C": "overwhelming",
+        "D": "daunting"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 20,
+      "question": "Choose the most suitable word: 'His _____ lifestyle involved renouncing material possessions and practicing rigorous self-discipline.'",
+      "options": {
+        "A": "monastic",
+        "B": "austere",
+        "C": "ascetic",
+        "D": "puritanical"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 21,
+      "question": "Select the word that best completes the sentence: 'Her research has made a _____ contribution to our understanding of climate change.'",
+      "options": {
+        "A": "significant",
+        "B": "substantial",
+        "C": "profound",
+        "D": "momentous"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 22,
+      "question": "Choose the most appropriate word: 'Their meeting was completely _____, neither had planned to be at the conference that day.'",
+      "options": {
+        "A": "coincidental",
+        "B": "fortuitous",
+        "C": "serendipitous",
+        "D": "opportune"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 23,
+      "question": "Select the word that best completes the sentence: 'Despite his strong principles, he eventually had to _____ to pressure from his colleagues.'",
+      "options": {
+        "A": "yield",
+        "B": "surrender",
+        "C": "capitulate",
+        "D": "succumb"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 24,
+      "question": "Choose the most suitable word: 'The comedian's _____ jokes about religious figures offended many in the audience.'",
+      "options": {
+        "A": "disrespectful",
+        "B": "impious",
+        "C": "irreverent",
+        "D": "sacrilegious"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 25,
+      "question": "Select the word that best completes the sentence: 'His argument seemed convincing at first, but upon closer examination, it proved to be _____ reasoning based on false assumptions.'",
+      "options": {
+        "A": "fallacious",
+        "B": "deceptive",
+        "C": "specious",
+        "D": "spurious"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 26,
+      "question": "Choose the most appropriate word: 'The use of typewriters in a modern office setting would be considered _____ in today's digital age.'",
+      "options": {
+        "A": "obsolete",
+        "B": "antiquated",
+        "C": "anachronistic",
+        "D": "outmoded"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Select the word that best completes the sentence: 'The factory was fined for releasing _____ chemicals into the nearby river.'",
+      "options": {
+        "A": "toxic",
+        "B": "hazardous",
+        "C": "harmful",
+        "D": "noxious"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Choose the most suitable word: 'The prolonged lockdown led to a sense of _____ among many people, characterized by listlessness and dissatisfaction.'",
+      "options": {
+        "A": "boredom",
+        "B": "melancholy",
+        "C": "apathy",
+        "D": "ennui"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Select the word that best completes the sentence: 'His _____ response to the criticism was far more aggressive than the situation warranted.'",
+      "options": {
+        "A": "caustic",
+        "B": "acerbic",
+        "C": "vitriolic",
+        "D": "scathing"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the most appropriate word: 'Without innovation and fresh ideas, the company's product line became _____ and sales declined.'",
+      "options": {
+        "A": "static",
+        "B": "inert",
+        "C": "stagnant",
+        "D": "dormant"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Select the most appropriate collocation: 'The research team has _____ a significant breakthrough in cancer treatment.'",
+      "options": {
+        "A": "made",
+        "B": "done",
+        "C": "achieved",
+        "D": "performed"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 32,
+      "question": "Choose the correct idiom to complete the sentence: 'The new employee was eager to prove herself but had to _____ before taking on more responsibilities.'",
+      "options": {
+        "A": "test the waters",
+        "B": "learn the ropes",
+        "C": "break the ice",
+        "D": "face the music"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 33,
+      "question": "Select the appropriate phrasal verb: 'The company decided to _____ the launch of its new product due to technical issues.'",
+      "options": {
+        "A": "put off",
+        "B": "put away",
+        "C": "put down",
+        "D": "put up"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 34,
+      "question": "Choose the correct collocation: 'The government needs to _____ drastic measures to address the economic crisis.'",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "take",
+        "D": "have"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 35,
+      "question": "Select the appropriate expression: 'Despite initial setbacks, the project has _____ expectations.'",
+      "options": {
+        "A": "lived up to",
+        "B": "come up to",
+        "C": "gone up to",
+        "D": "risen up to"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 36,
+      "question": "Choose the correct fixed expression: 'The company is operating _____ capacity due to staff shortages.'",
+      "options": {
+        "A": "below",
+        "B": "under",
+        "C": "beneath",
+        "D": "down"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 37,
+      "question": "Select the most appropriate phrasal verb: 'The CFO had to _____ the financial implications of the merger before making a decision.'",
+      "options": {
+        "A": "think about",
+        "B": "think over",
+        "C": "think up",
+        "D": "think through"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 38,
+      "question": "Choose the correct collocation: 'The diplomat managed to _____ a compromise between the opposing parties.'",
+      "options": {
+        "A": "reach",
+        "B": "arrive",
+        "C": "get",
+        "D": "make"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 39,
+      "question": "Select the appropriate expression: 'The economic recession is expected to _____ for at least another year.'",
+      "options": {
+        "A": "carry on",
+        "B": "keep on",
+        "C": "hold on",
+        "D": "go on"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 40,
+      "question": "Choose the correct idiom: 'After the failed product launch, the marketing director had to _____.'",
+      "options": {
+        "A": "face the music",
+        "B": "bite the bullet",
+        "C": "cut corners",
+        "D": "beat around the bush"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, what is the outcome when supply and demand forces balance?",
+      "options": {
+        "A": "Price controls",
+        "B": "Market failure",
+        "C": "Market equilibrium",
+        "D": "Monopolistic conditions"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following is NOT mentioned as a factor influencing demand?",
+      "options": {
+        "A": "Consumer preferences",
+        "B": "Income levels",
+        "C": "Technological advancements",
+        "D": "Prices of related goods"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to the passage, how do firms determine their production levels?",
+      "options": {
+        "A": "By following government regulations",
+        "B": "By seeking profit maximization",
+        "C": "By maintaining constant supply",
+        "D": "By consulting consumer preferences"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "What happens when there is a sudden surge in consumer interest according to paragraph 4?",
+      "options": {
+        "A": "Market failure occurs",
+        "B": "Prices decline to clear excess inventory",
+        "C": "Suppliers raise prices and increase production",
+        "D": "Government intervention becomes necessary"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Which of the following best describes the author's view of the price formation mechanism?",
+      "options": {
+        "A": "It is perfect and requires no intervention",
+        "B": "It is fundamentally flawed and unreliable",
+        "C": "It is efficient despite being decentralized",
+        "D": "It requires constant government monitoring"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to paragraph 3, what can cause a rightward shift in the supply curve?",
+      "options": {
+        "A": "Increased production costs",
+        "B": "Reduced consumer demand",
+        "C": "Technological advancements",
+        "D": "Natural disasters"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What does the passage identify as a consequence of monopolistic conditions?",
+      "options": {
+        "A": "Lower prices",
+        "B": "Higher prices",
+        "C": "Increased market efficiency",
+        "D": "Perfect competition"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "How does the passage characterize market equilibrium?",
+      "options": {
+        "A": "Static and unchanging",
+        "B": "Dynamic and constantly adjusting",
+        "C": "Artificially maintained by regulations",
+        "D": "Rarely achieved in real-world markets"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to the passage, what can price controls lead to?",
+      "options": {
+        "A": "Market equilibrium",
+        "B": "Efficient resource allocation",
+        "C": "Shortages or surpluses",
+        "D": "Perfect competition"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the main purpose of the passage?",
+      "options": {
+        "A": "To argue against government intervention in markets",
+        "B": "To explain the basic mechanisms of price formation",
+        "C": "To compare different economic systems",
+        "D": "To analyze recent market failures"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
