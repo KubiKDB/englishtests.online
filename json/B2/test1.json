@@ -1,21 +1,33 @@
 {
-  "passage": "<br>(1) The American Civil War, fought between 1861 and 1865, was a defining moment in U.S. history. It involved the Northern states, called the Union, and the Southern states, which seceded to form the Confederacy. The war emerged from disputes over slavery, states’ rights, and economic differences between the two regions.<br><br>(2) The tensions had been building since the nation’s early years. The South’s economy depended heavily on agriculture, particularly cotton, which relied on enslaved labor. Meanwhile, the North embraced industrialization and increasingly supported abolishing slavery. Efforts to bridge these gaps through political agreements failed, deepening the divide.<br><br>(3) The conflict escalated with key events. In 1860, Abraham Lincoln’s election as president alarmed the South, leading seven states to secede even before he took office. The war officially began in April 1861 when Confederate forces attacked Fort Sumter. Major battles, such as Gettysburg in 1863 and Antietam in 1862, marked turning points, with the Union gradually overpowering the Confederacy.<br><br>(4) The war’s end in 1865 brought significant changes. The Union was preserved, and slavery was abolished with the 13th Amendment. However, the South faced devastation—its cities and farms destroyed, its economy crippled. With over 600,000 deaths, the Civil War remains the deadliest conflict in American history, leaving deep scars on the nation.<br><br>(5) The Civil War’s impact endures today. It strengthened federal authority and set the stage for civil rights progress, though equality remained elusive during the Reconstruction era and beyond. Monuments and debates about the war still spark discussion, reflecting its role in shaping national identity and the ongoing quest for justice.",
+  "passage": "<br>(1) Global climate zones are primarily determined by the Earth's geography, which influences temperature, precipitation, and weather patterns. The most significant geographical factor is latitude, as it affects the angle and intensity of sunlight. Areas near the equator receive direct sunlight year-round, resulting in consistently high temperatures and the formation of tropical climates. In contrast, regions near the poles receive sunlight at an oblique angle, leading to cooler temperatures and polar climates.<br><br>(2) Another crucial geographical feature is altitude. Higher elevations experience cooler temperatures due to the thinning atmosphere, which reduces heat retention. This is why mountainous regions, even those near the equator, can have temperate or even cold climates. For example, the Andes in South America have alpine climates at high altitudes, despite being located in tropical latitudes.<br><br>(3) Proximity to bodies of water also plays a significant role in shaping climate zones. Oceans and large lakes moderate temperatures by absorbing and releasing heat slowly. Coastal areas tend to have milder, more stable climates compared to inland regions at the same latitude. This is evident in the difference between the maritime climate of Western Europe and the continental climate of Eastern Europe.<br><br>(4) Ocean currents further influence climate by transporting warm or cold water across vast distances. The Gulf Stream, for instance, carries warm water from the Gulf of Mexico to the North Atlantic, significantly warming the climate of Western Europe. Conversely, the California Current brings cold water from the North Pacific, contributing to the cooler coastal climate of California.<br><br>(5) Finally, prevailing wind patterns, shaped by the Earth's rotation and geographical features, distribute heat and moisture around the globe. The trade winds, for example, blow from east to west in the tropics, facilitating the movement of warm, moist air and influencing rainfall patterns. These winds, combined with other geographical factors, create diverse climate zones that support a wide range of ecosystems and human activities.",
   "questions": [
     {
       "id": 1,
-      "question": "Which sentence is grammatically correct?",
+      "question": "Choose the correct sentence:",
       "options": {
-        "A": "He go to school every day.",
-        "B": "He goes to school every day.",
-        "C": "He going to school every day.",
-        "D": "He went to school every day."
+        "A": "She don't like coffee.",
+        "B": "She doesn't likes coffee.",
+        "C": "She doesn't like coffee.",
+        "D": "She don't likes coffee."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Which sentence is in the passive voice?",
+      "options": {
+        "A": "The chef cooked the meal.",
+        "B": "The meal was cooked by the chef.",
+        "C": "The chef is cooking the meal.",
+        "D": "The meal is being cooked."
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
-      "id": 2,
-      "question": "Choose the correct form: If I ___ you, I would study harder.",
+      "id": 3,
+      "question": "What is the correct form of the verb in this sentence: 'If I ___ you, I would study more.'",
       "options": {
         "A": "am",
         "B": "was",
@@ -26,116 +38,140 @@
       "category": "Grammar"
     },
     {
-      "id": 3,
-      "question": "The report ___ by the committee last week.",
-      "options": {
-        "A": "is written",
-        "B": "was written",
-        "C": "has been written",
-        "D": "wrote"
-      },
-      "correct_answer": "B",
-      "category": "Grammar"
-    },
-    {
       "id": 4,
-      "question": "She said that she ___ her homework.",
+      "question": "Choose the correct preposition: 'I'm interested ___ learning new languages.'",
       "options": {
-        "A": "has finished",
-        "B": "had finished",
-        "C": "finished",
-        "D": "finishes"
-      },
-      "correct_answer": "B",
-      "category": "Grammar"
-    },
-    {
-      "id": 5,
-      "question": "You ___ smoke in here; it’s against the rules.",
-      "options": {
-        "A": "mustn’t",
-        "B": "don’t have to",
-        "C": "shouldn’t",
-        "D": "can’t"
+        "A": "in",
+        "B": "on",
+        "C": "at",
+        "D": "for"
       },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
-      "id": 6,
-      "question": "The book ___ I read last week was fascinating.",
+      "id": 5,
+      "question": "Which sentence uses the correct tense?",
       "options": {
-        "A": "who",
-        "B": "which",
-        "C": "whose",
-        "D": "what"
+        "A": "I have been to Paris last year.",
+        "B": "I went to Paris last year.",
+        "C": "I had gone to Paris last year.",
+        "D": "I was going to Paris last year."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "What is the correct plural form of 'child'?",
+      "options": {
+        "A": "childs",
+        "B": "children",
+        "C": "childrens",
+        "D": "childes"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 7,
-      "question": "I enjoy ___ to classical music.",
+      "question": "Choose the correct sentence:",
       "options": {
-        "A": "listen",
-        "B": "listening",
-        "C": "to listen",
-        "D": "listened"
+        "A": "He is more taller than his brother.",
+        "B": "He is taller than his brother.",
+        "C": "He is the tallest than his brother.",
+        "D": "He is tall than his brother."
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 8,
-      "question": "This is ___ restaurant in town.",
+      "question": "Which sentence is correctly punctuated?",
       "options": {
-        "A": "the most expensive",
-        "B": "most expensive",
-        "C": "the more expensive",
-        "D": "more expensive"
+        "A": "Let's eat, grandma.",
+        "B": "Let's eat grandma.",
+        "C": "Lets eat, grandma.",
+        "D": "Lets eat grandma."
       },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 9,
-      "question": "She arrived ___ the station just in time.",
+      "question": "What is the correct form of the verb in this sentence: 'She ___ to the store yesterday.'",
       "options": {
-        "A": "to",
-        "B": "at",
-        "C": "in",
-        "D": "on"
+        "A": "go",
+        "B": "went",
+        "C": "goes",
+        "D": "gone"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 10,
-      "question": "___ sun rises in the east.",
+      "question": "Choose the correct sentence:",
       "options": {
-        "A": "A",
-        "B": "An",
-        "C": "The",
-        "D": "No article"
+        "A": "I have been waiting for two hours.",
+        "B": "I have waited for two hours.",
+        "C": "I am waiting for two hours.",
+        "D": "I wait for two hours."
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 11,
-      "question": "I ___ to the party if I had known about it.",
+      "question": "Which sentence uses the correct conjunction?",
       "options": {
-        "A": "would go",
-        "B": "would have gone",
-        "C": "went",
-        "D": "go"
+        "A": "I like tea but coffee.",
+        "B": "I like tea and coffee.",
+        "C": "I like tea or coffee.",
+        "D": "I like tea because coffee."
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 12,
-      "question": "The children ___ playing in the park when it started to rain.",
+      "question": "What is the correct form of the adjective in this sentence: 'This is the ___ book I've ever read.'",
+      "options": {
+        "A": "good",
+        "B": "better",
+        "C": "best",
+        "D": "well"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "A": "She sings beautiful.",
+        "B": "She sings beautifully.",
+        "C": "She sings beauty.",
+        "D": "She sings beautifulness."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence is in the future perfect tense?",
+      "options": {
+        "A": "I will go to the party.",
+        "B": "I have gone to the party.",
+        "C": "I will have gone to the party.",
+        "D": "I am going to the party."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "What is the correct form of the verb in this sentence: 'They ___ playing football when it started to rain.'",
       "options": {
         "A": "are",
         "B": "were",
@@ -146,459 +182,423 @@
       "category": "Grammar"
     },
     {
-      "id": 13,
-      "question": "She asked me ___ I had seen her keys.",
+      "id": 16,
+      "question": "Complete the sentence: 'I'm not sure ___ to go to the party.'",
       "options": {
         "A": "if",
-        "B": "that",
-        "C": "whether",
-        "D": "A and C"
+        "B": "whether",
+        "C": "that",
+        "D": "which"
       },
-      "correct_answer": "D",
-      "category": "Grammar"
-    },
-    {
-      "id": 14,
-      "question": "It’s important ___ on time for the meeting.",
-      "options": {
-        "A": "to be",
-        "B": "being",
-        "C": "be",
-        "D": "to being"
-      },
-      "correct_answer": "A",
-      "category": "Grammar"
-    },
-    {
-      "id": 15,
-      "question": "___ of the students passed the exam.",
-      "options": {
-        "A": "Most",
-        "B": "Much",
-        "C": "Many",
-        "D": "A lot"
-      },
-      "correct_answer": "A",
-      "category": "Grammar"
-    },
-    {
-      "id": 16,
-      "question": "The internet has changed how we live. It helps us stay ___ with others across the globe.",
-      "options": {
-        "A": "connect",
-        "B": "connecting",
-        "C": "connected",
-        "D": "connection"
-      },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 17,
-      "question": "Sharing updates is now ___ than ever thanks to social media.",
+      "question": "Choose the correct phrase: 'She is very good ___ playing the piano.'",
       "options": {
-        "A": "easy",
-        "B": "easier",
-        "C": "easiest",
-        "D": "more easy"
+        "A": "at",
+        "B": "in",
+        "C": "on",
+        "D": "with"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 18,
-      "question": "However, it can also cause feelings of ___ due to constant comparison.",
+      "question": "Complete the sentence: 'I would rather ___ at home than go out.'",
       "options": {
-        "A": "adequate",
-        "B": "inadequacy",
-        "C": "adequately",
-        "D": "inadequacies"
+        "A": "stay",
+        "B": "to stay",
+        "C": "staying",
+        "D": "stayed"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 19,
-      "question": "We must ___ information carefully to avoid misinformation.",
+      "question": "Choose the correct word: 'The teacher asked us to ___ quiet.'",
       "options": {
-        "A": "verify",
-        "B": "verifying",
-        "C": "verified",
-        "D": "verification"
+        "A": "be",
+        "B": "being",
+        "C": "been",
+        "D": "is"
       },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 20,
-      "question": "Still, it remains a vital tool for ___.",
+      "question": "Complete the sentence: 'He is allergic ___ cats.'",
       "options": {
-        "A": "communicate",
-        "B": "communication",
-        "C": "communicating",
-        "D": "communicated"
-      },
-      "correct_answer": "B",
-      "category": "Use of English"
-    },
-    {
-      "id": 21,
-      "question": "'I didn’t go to the party because I was tired.' Rewrite using 'TOO'.",
-      "options": {
-        "A": "I was too tired to go to the party.",
-        "B": "I was so tired to go to the party.",
-        "C": "I was very tired to go to the party.",
-        "D": "I was tired enough to go to the party."
+        "A": "to",
+        "B": "with",
+        "C": "at",
+        "D": "on"
       },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
-      "id": 22,
-      "question": "'It’s possible that she has already left.' Rewrite using 'MAY'.",
+      "id": 21,
+      "question": "Choose the correct phrase: 'I look forward ___ you soon.'",
       "options": {
-        "A": "She may have already left.",
-        "B": "She may already leave.",
-        "C": "She may be leaving already.",
-        "D": "She may has already left."
+        "A": "to see",
+        "B": "seeing",
+        "C": "to seeing",
+        "D": "see"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Complete the sentence: 'She insisted ___ paying for dinner.'",
+      "options": {
+        "A": "on",
+        "B": "in",
+        "C": "at",
+        "D": "with"
       },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 23,
-      "question": "'They started the project three years ago.' Rewrite using 'BEEN'.",
+      "question": "Choose the correct word: 'The movie was so ___ that I fell asleep.'",
       "options": {
-        "A": "They have been working on the project for three years.",
-        "B": "They has been working on the project for three years.",
-        "C": "They have been worked on the project for three years.",
-        "D": "They have being working on the project for three years."
+        "A": "boring",
+        "B": "bored",
+        "C": "bore",
+        "D": "boredom"
       },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 24,
-      "question": "'I regret not studying harder.' Rewrite using 'WISH'.",
+      "question": "Complete the sentence: 'I can't help ___ when I see him.'",
       "options": {
-        "A": "I wish I had studied harder.",
-        "B": "I wish I study harder.",
-        "C": "I wish I have studied harder.",
-        "D": "I wish I would study harder."
+        "A": "laugh",
+        "B": "to laugh",
+        "C": "laughing",
+        "D": "laughed"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 25,
-      "question": "'The teacher made the students do the assignment again.' Rewrite using 'WERE'.",
+      "question": "Choose the correct phrase: 'He is capable ___ solving the problem.'",
       "options": {
-        "A": "The students were made to do the assignment again.",
-        "B": "The students were making to do the assignment again.",
-        "C": "The students were made doing the assignment again.",
-        "D": "The students were make to do the assignment again."
+        "A": "of",
+        "B": "with",
+        "C": "at",
+        "D": "in"
       },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 26,
-      "question": "The scientist’s ___ discovery changed the field of medicine forever.",
+      "question": "What is a synonym for 'diligent'?",
       "options": {
-        "A": "trivial",
-        "B": "groundbreaking",
-        "C": "insignificant",
-        "D": "minor"
+        "A": "Lazy",
+        "B": "Hardworking",
+        "C": "Careless",
+        "D": "Indifferent"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 27,
-      "question": "What is a synonym of 'meticulous'?",
+      "question": "Choose the correct word: 'The ___ of the story is that honesty is the best policy.'",
       "options": {
-        "A": "careless",
-        "B": "precise",
-        "C": "hasty",
-        "D": "negligent"
+        "A": "moral",
+        "B": "morale",
+        "C": "mortar",
+        "D": "morsel"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What does 'to procrastinate' mean?",
+      "options": {
+        "A": "To do something quickly",
+        "B": "To delay or postpone",
+        "C": "To plan carefully",
+        "D": "To work efficiently"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
-      "id": 28,
-      "question": "Which word is the odd one out?",
-      "options": {
-        "A": "happy",
-        "B": "joyful",
-        "C": "ecstatic",
-        "D": "melancholic"
-      },
-      "correct_answer": "D",
-      "category": "Vocabulary"
-    },
-    {
       "id": 29,
-      "question": "She has a ___ interest in art.",
+      "question": "Choose the correct word: 'She has a ___ for languages.'",
       "options": {
-        "A": "keen",
-        "B": "small",
-        "C": "little",
-        "D": "minor"
+        "A": "flair",
+        "B": "flare",
+        "C": "floor",
+        "D": "flower"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 30,
-      "question": "What does 'turn down' mean?",
+      "question": "What is an antonym for 'generous'?",
       "options": {
-        "A": "to increase the volume",
-        "B": "to reject",
-        "C": "to accept",
-        "D": "to turn around"
+        "A": "Kind",
+        "B": "Selfish",
+        "C": "Charitable",
+        "D": "Benevolent"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 31,
-      "question": "The company’s profits have ___ significantly this year.",
+      "question": "Choose the correct word: 'The company's profits have ___ significantly this year.'",
       "options": {
         "A": "raised",
         "B": "risen",
-        "C": "arose",
-        "D": "lifted"
+        "C": "rose",
+        "D": "arise"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 32,
-      "question": "What is an antonym of 'generous'?",
+      "question": "What does 'to mitigate' mean?",
       "options": {
-        "A": "stingy",
-        "B": "kind",
-        "C": "charitable",
-        "D": "benevolent"
+        "A": "To make less severe",
+        "B": "To increase",
+        "C": "To ignore",
+        "D": "To complicate"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 33,
-      "question": "The novel provides a ___ insight into human nature.",
+      "question": "Choose the correct word: 'He is very ___ about his appearance.'",
       "options": {
-        "A": "profound",
-        "B": "shallow",
-        "C": "superficial",
-        "D": "trivial"
+        "A": "conscious",
+        "B": "conscience",
+        "C": "conscientious",
+        "D": "consensus"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 34,
-      "question": "What does 'to let the cat out of the bag' mean?",
+      "question": "What is a synonym for 'ephemeral'?",
       "options": {
-        "A": "to reveal a secret",
-        "B": "to buy a pet",
-        "C": "to hide something",
-        "D": "to be careless"
+        "A": "Lasting",
+        "B": "Temporary",
+        "C": "Eternal",
+        "D": "Permanent"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 35,
-      "question": "What is the meaning of 'to procrastinate'?",
+      "question": "Choose the correct word: 'The ___ of the evidence was clear.'",
       "options": {
-        "A": "to do something immediately",
-        "B": "to delay or postpone action",
-        "C": "to work efficiently",
-        "D": "to prioritize tasks"
-      },
-      "correct_answer": "B",
-      "category": "Vocabulary"
-    },
-    {
-      "id": 36,
-      "question": "The artist’s work was ___ by her travels around the world.",
-      "options": {
-        "A": "inspired",
-        "B": "inspiring",
-        "C": "inspiration",
-        "D": "inspirational"
+        "A": "weight",
+        "B": "wait",
+        "C": "wade",
+        "D": "weighed"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
-      "id": 37,
-      "question": "What is a synonym of 'obsolete'?",
+      "id": 36,
+      "question": "What does 'to exacerbate' mean?",
       "options": {
-        "A": "modern",
-        "B": "outdated",
-        "C": "current",
-        "D": "innovative"
+        "A": "To improve",
+        "B": "To worsen",
+        "C": "To solve",
+        "D": "To understand"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
-      "id": 38,
-      "question": "What does 'to take something for granted' mean?",
+      "id": 37,
+      "question": "Choose the correct word: 'She has a ___ interest in art.'",
       "options": {
-        "A": "to appreciate something",
-        "B": "to assume something is true without question",
-        "C": "to be grateful for something",
-        "D": "to question something’s value"
+        "A": "keen",
+        "B": "kin",
+        "C": "cane",
+        "D": "can"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "What is an antonym for 'obsolete'?",
+      "options": {
+        "A": "Outdated",
+        "B": "Modern",
+        "C": "Ancient",
+        "D": "Old-fashioned"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 39,
-      "question": "The manager ___ the employee’s request for a raise, citing budget constraints.",
+      "question": "Choose the correct word: 'The ___ of the storm caused widespread damage.'",
       "options": {
-        "A": "accepted",
-        "B": "granted",
-        "C": "denied",
-        "D": "approved"
-      },
-      "correct_answer": "C",
-      "category": "Vocabulary"
-    },
-    {
-      "id": 40,
-      "question": "The team’s ___ effort led to their victory.",
-      "options": {
-        "A": "collaborative",
-        "B": "individual",
-        "C": "selfish",
-        "D": "lazy"
+        "A": "intensity",
+        "B": "intense",
+        "C": "intently",
+        "D": "intention"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
-      "id": 41,
-      "question": "What is the main idea of the passage?",
+      "id": 40,
+      "question": "What does 'to advocate' mean?",
       "options": {
-        "A": "The Civil War was fought over economic differences.",
-        "B": "The Civil War had significant impacts on American society.",
-        "C": "The Union won due to superior resources.",
-        "D": "Slavery was the only cause of the Civil War."
+        "A": "To oppose",
+        "B": "To support",
+        "C": "To ignore",
+        "D": "To criticize"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "What is the primary factor determining global climate zones according to the passage?",
+      "options": {
+        "A": "Altitude",
+        "B": "Latitude",
+        "C": "Proximity to bodies of water",
+        "D": "Ocean currents"
       },
       "correct_answer": "B",
       "category": "Reading"
     },
     {
       "id": 42,
-      "question": "According to the passage, what was a major cause of the Civil War?",
+      "question": "Why do mountainous regions near the equator have cooler climates?",
       "options": {
-        "A": "The election of Abraham Lincoln",
-        "B": "The attack on Fort Sumter",
-        "C": "Disagreements over slavery",
-        "D": "The Battle of Gettysburg"
+        "A": "They are closer to the poles.",
+        "B": "The atmosphere is thinner at higher altitudes.",
+        "C": "They receive less direct sunlight.",
+        "D": "Ocean currents bring cold water to these areas."
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Reading"
     },
     {
       "id": 43,
-      "question": "What can be inferred about the Southern economy before the war?",
+      "question": "How do oceans affect the climate of coastal areas?",
       "options": {
-        "A": "It was based on manufacturing.",
-        "B": "It relied on slave labor.",
-        "C": "It was more advanced than the North’s.",
-        "D": "It did not produce cotton."
-      },
-      "correct_answer": "B",
-      "category": "Reading"
-    },
-    {
-      "id": 44,
-      "question": "The word 'seceded' in paragraph 1 most nearly means:",
-      "options": {
-        "A": "joined",
-        "B": "withdrew",
-        "C": "fought",
-        "D": "compromised"
-      },
-      "correct_answer": "B",
-      "category": "Reading"
-    },
-    {
-      "id": 45,
-      "question": "Why does the author mention the 13th Amendment in paragraph 4?",
-      "options": {
-        "A": "To show the war’s impact on slavery",
-        "B": "To discuss the Reconstruction era",
-        "C": "To highlight the Union’s victory",
-        "D": "To explain the war’s casualties"
-      },
-      "correct_answer": "A",
-      "category": "Reading"
-    },
-    {
-      "id": 46,
-      "question": "Which of the following is NOT mentioned as a consequence of the Civil War?",
-      "options": {
-        "A": "Abolition of slavery",
-        "B": "Preservation of the Union",
-        "C": "Economic prosperity in the South",
-        "D": "High death toll"
+        "A": "They make the climate colder.",
+        "B": "They cause more extreme weather.",
+        "C": "They stabilize temperatures.",
+        "D": "They increase precipitation."
       },
       "correct_answer": "C",
       "category": "Reading"
     },
     {
-      "id": 47,
-      "question": "What is the author’s purpose in writing this passage?",
+      "id": 44,
+      "question": "Which of the following is an example of how ocean currents influence climate?",
       "options": {
-        "A": "To argue for the importance of the Civil War",
-        "B": "To provide an overview of the Civil War",
-        "C": "To criticize the South’s actions",
-        "D": "To detail specific battles"
+        "A": "The Andes have alpine climates.",
+        "B": "Western Europe has a maritime climate.",
+        "C": "The Gulf Stream warms Western Europe.",
+        "D": "The trade winds blow from east to west."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What role do prevailing wind patterns play in climate zones?",
+      "options": {
+        "A": "They determine the altitude of regions.",
+        "B": "They influence the formation of ocean currents.",
+        "C": "They distribute heat and moisture.",
+        "D": "They affect the angle of sunlight."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to the passage, which factor is NOT mentioned as influencing climate zones?",
+      "options": {
+        "A": "Latitude",
+        "B": "Vegetation",
+        "C": "Altitude",
+        "D": "Ocean currents"
       },
       "correct_answer": "B",
       "category": "Reading"
     },
     {
-      "id": 48,
-      "question": "How does the passage describe the relationship between the North and the South before the war?",
+      "id": 47,
+      "question": "The passage suggests that the climate of Eastern Europe is:",
       "options": {
-        "A": "Cooperative",
-        "B": "Tense",
-        "C": "Indifferent",
-        "D": "Unified"
+        "A": "Maritime",
+        "B": "Tropical",
+        "C": "Continental",
+        "D": "Alpine"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What is the main idea of the passage?",
+      "options": {
+        "A": "Geography is the sole determinant of climate.",
+        "B": "Climate zones are influenced by various geographical factors.",
+        "C": "Ocean currents are the most important factor in climate zones.",
+        "D": "Latitude has little effect on climate."
       },
       "correct_answer": "B",
       "category": "Reading"
     },
     {
       "id": 49,
-      "question": "What detail supports the idea that the Civil War had a lasting impact?",
+      "question": "The word 'oblique' in paragraph 1 most nearly means:",
       "options": {
-        "A": "The war ended in 1865.",
-        "B": "The South was devastated.",
-        "C": "It set the stage for civil rights progress.",
-        "D": "The Union won the war."
+        "A": "Direct",
+        "B": "Slanting",
+        "C": "Intense",
+        "D": "Scattered"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Reading"
     },
     {
       "id": 50,
-      "question": "Which paragraph discusses the major battles of the Civil War?",
+      "question": "The author mentions the Andes to illustrate the effect of:",
       "options": {
-        "A": "Paragraph 1",
-        "B": "Paragraph 2",
-        "C": "Paragraph 3",
-        "D": "Paragraph 4"
+        "A": "Latitude",
+        "B": "Altitude",
+        "C": "Ocean currents",
+        "D": "Wind patterns"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Reading"
     }
   ]
