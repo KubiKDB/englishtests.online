@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Karl Marx, the German philosopher, economist, and revolutionary, developed ideas in the mid-19th century that profoundly transformed political thought and inspired movements that would reshape the global landscape. Born into a middle-class family in 1818, Marx witnessed the social upheavals of early industrial capitalism and devoted his intellectual life to analyzing its contradictions. His collaboration with Friedrich Engels led to seminal works including \"The Communist Manifesto\" and \"Das Kapital,\" which articulated his critique of capitalism and vision of historical materialism—a framework arguing that economic systems fundamentally determine social structures and drive historical development.<br><br>(2) Central to Marx's analysis was the concept of class struggle. He maintained that history progresses through conflicts between oppressor and oppressed classes, with capitalism creating an inherent tension between bourgeoisie (owners of production means) and proletariat (workers). Marx theorized that capitalism contained internal contradictions that would ultimately lead to its collapse; specifically, he argued that the relentless pursuit of profit would generate increasingly severe economic crises, while simultaneously creating a unified working class capable of revolutionary action. This historical process would culminate, he predicted, in the workers seizing control of production and establishing a socialist system that would eventually evolve into communism—a classless society where resources are distributed according to need.<br><br>(3) Marx's ideas gained traction in various forms across different societies. The Russian Revolution of 1917 represented the first major attempt to implement Marxist principles, though the resulting Soviet system diverged significantly from Marx's vision of worker-controlled production. Throughout the 20th century, numerous states embraced variations of Marxist ideology, adapting his theoretical framework to their specific historical and cultural contexts. These adaptations ranged from the state-controlled economy of the Soviet Union to China's current hybrid of centralized political control and market economics—implementations that Marx himself might have struggled to recognize as extensions of his thought.<br><br>(4) Despite the collapse of many self-proclaimed Marxist states, Marx's analytical methods continue to influence contemporary social theory. His emphasis on examining the economic underpinnings of social relationships remains fundamental to disciplines ranging from sociology to literary criticism. Critical theorists have expanded Marxist analysis beyond class to examine other forms of structural inequality involving gender, race, and postcolonial relationships. Additionally, his concept of alienation—the disconnection workers experience from their labor under capitalism—resonates with modern discussions about meaningful work in automated economies.<br><br>(5) In recent decades, Marx's critique of capitalism has experienced renewed interest, particularly following the 2008 global financial crisis. His analysis of capitalism's tendency toward concentration of wealth, cyclical crises, and commodification of social relationships has struck many observers as prescient in light of growing economic inequality and financial instability. While few contemporary economists or political theorists advocate for the revolutionary overthrow of capitalism as Marx envisioned, his insights into the tensions between capital accumulation and social welfare continue to inform debates about economic justice, globalization, and sustainable development. This enduring relevance suggests that Marx's legacy lies less in providing a blueprint for society than in offering analytical tools for understanding systemic contradictions in economic and social arrangements.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Complete the sentence with the correct tense: By the time the conference begins next week, the committee _____ the final draft of the proposal.",
+      "options": {
+        "A": "will complete",
+        "B": "will have completed",
+        "C": "completes",
+        "D": "is completing"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the sentence with the correct use of articles:",
+      "options": {
+        "A": "The professor published research in prestigious journal last year.",
+        "B": "Professor published a research in a prestigious journal last year.",
+        "C": "The professor published a research in the prestigious journal last year.",
+        "D": "The professor published research in a prestigious journal last year."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Choose the correct passive voice construction:",
+      "options": {
+        "A": "The innovative policy implemented by the new administration.",
+        "B": "The innovative policy was being implemented by the new administration.",
+        "C": "The innovative policy has been implementing by the new administration.",
+        "D": "The innovative policy is implementing by the new administration."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Identify the sentence with correct subject-verb agreement:",
+      "options": {
+        "A": "Each of the participants were given a certificate of completion.",
+        "B": "The team of researchers have published their findings in a scientific journal.",
+        "C": "Neither of the candidates have addressed the economic concerns adequately.",
+        "D": "A series of lectures is scheduled to begin next month."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Which sentence uses the subjunctive mood correctly?",
+      "options": {
+        "A": "The committee insists that he will attend the meeting tomorrow.",
+        "B": "The committee insists that he attends the meeting tomorrow.",
+        "C": "The committee insists that he attend the meeting tomorrow.",
+        "D": "The committee insists that he attended the meeting tomorrow."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Choose the sentence with correct relative clause usage:",
+      "options": {
+        "A": "The research paper which was published last month it has received significant attention.",
+        "B": "The research paper, that was published last month, has received significant attention.",
+        "C": "The research paper that was published last month has received significant attention.",
+        "D": "The research paper, which published last month, has received significant attention."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Select the sentence with the correct conditional form:",
+      "options": {
+        "A": "If the government had implemented stricter regulations, the financial crisis would be prevented.",
+        "B": "If the government implemented stricter regulations, the financial crisis would have been prevented.",
+        "C": "If the government would implement stricter regulations, the financial crisis would have been prevented.",
+        "D": "If the government had implemented stricter regulations, the financial crisis would have been prevented."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Identify the sentence with correct parallel structure:",
+      "options": {
+        "A": "The study examined both the economic impact and how society was culturally affected.",
+        "B": "The study examined both the economic impact and the cultural effects.",
+        "C": "The study examined both the economic impact and cultural affecting society.",
+        "D": "The study examined both economically and the cultural effects on society."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Choose the sentence with correct gerund usage:",
+      "options": {
+        "A": "The researchers delayed to publish their findings until further testing was complete.",
+        "B": "The researchers delayed publishing their findings until further testing was complete.",
+        "C": "The researchers delayed publish their findings until further testing was complete.",
+        "D": "The researchers delayed published their findings until further testing was complete."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence demonstrates correct inversion for emphasis?",
+      "options": {
+        "A": "Never I have witnessed such a comprehensive analysis of the issue.",
+        "B": "Never have I witnessed such a comprehensive analysis of the issue.",
+        "C": "Never did I have witnessed such a comprehensive analysis of the issue.",
+        "D": "Never I had witnessed such a comprehensive analysis of the issue."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Select the sentence with the correct use of reported speech:",
+      "options": {
+        "A": "The expert claimed that the economic indicators will improve by next quarter.",
+        "B": "The expert claimed that the economic indicators would improve by next quarter.",
+        "C": "The expert claimed that the economic indicators are improving by next quarter.",
+        "D": "The expert claimed that the economic indicators had improved by next quarter."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Choose the option with the correct use of participles:",
+      "options": {
+        "A": "Having been analyzed the data, the researchers published their conclusions.",
+        "B": "Having analyzing the data, the researchers published their conclusions.",
+        "C": "Having analyzed the data, the researchers published their conclusions.",
+        "D": "Being analyzed the data, the researchers published their conclusions."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Identify the sentence with correct modal verb usage:",
+      "options": {
+        "A": "The delegates must arrived at the conference venue by 9 AM.",
+        "B": "The delegates must have arrived at the conference venue by 9 AM.",
+        "C": "The delegates must to arrive at the conference venue by 9 AM.",
+        "D": "The delegates must having arrived at the conference venue by 9 AM."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence correctly uses the perfect aspect?",
+      "options": {
+        "A": "The organization has been promoting sustainable practices since it was founded.",
+        "B": "The organization is promoting sustainable practices since it was founded.",
+        "C": "The organization promotes sustainable practices since it was founded.",
+        "D": "The organization had promoted sustainable practices since it was founded."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the sentence with the appropriate use of articles and quantifiers:",
+      "options": {
+        "A": "Few researchers have addressed this aspect of the theory, but the small number who did made significant contributions.",
+        "B": "A few researchers have addressed this aspect of the theory, but small number who did made significant contributions.",
+        "C": "Few researchers have addressed this aspect of theory, but the small number who did made significant contributions.",
+        "D": "A few researchers have addressed this aspect of the theory, but small number who did made a significant contributions."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the appropriate phrasal verb to complete the sentence: The government has decided to _____ the implementation of the new tax policy until next year.",
+      "options": {
+        "A": "put off",
+        "B": "take over",
+        "C": "bring about",
+        "D": "look into"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the most appropriate collocation: The study revealed a _____ correlation between educational attainment and economic mobility.",
+      "options": {
+        "A": "powerful",
+        "B": "strong",
+        "C": "heavy",
+        "D": "deep"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the best idiomatic expression to complete the sentence: The unexpected announcement from the central bank really _____ in financial markets.",
+      "options": {
+        "A": "spilled the beans",
+        "B": "hit the nail on the head",
+        "C": "caused a stir",
+        "D": "broke the ice"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Select the most appropriate linking device: The analysis provides valuable insights; _____, several methodological limitations must be acknowledged.",
+      "options": {
+        "A": "therefore",
+        "B": "furthermore",
+        "C": "nevertheless",
+        "D": "consequently"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Which preposition correctly completes the sentence? The researcher's findings are consistent _____ previous studies in this field.",
+      "options": {
+        "A": "to",
+        "B": "with",
+        "C": "for",
+        "D": "by"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the most appropriate formal alternative to the underlined phrase: The government decided to stop the program because it cost too much.",
+      "options": {
+        "A": "abort",
+        "B": "discontinue",
+        "C": "abandon",
+        "D": "surrender"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Select the correct fixed expression: After detailed analysis, the committee has reached a decision _____ the proposed amendments.",
+      "options": {
+        "A": "in regard of",
+        "B": "with regards to",
+        "C": "in regards of",
+        "D": "with regard to"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the most appropriate synonym for the underlined word in this academic context: The researcher provided a comprehensive summary of the existing literature.",
+      "options": {
+        "A": "detailed",
+        "B": "exhaustive",
+        "C": "extensive",
+        "D": "thorough"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Select the appropriate word to complete the sentence in an academic context: The study aims to _____ the relationship between socioeconomic status and access to healthcare.",
+      "options": {
+        "A": "look at",
+        "B": "check out",
+        "C": "examine",
+        "D": "find out"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the most appropriate expression to complete this academic sentence: Recent technological advances have _____ new possibilities for renewable energy implementation.",
+      "options": {
+        "A": "given rise to",
+        "B": "brought about",
+        "C": "come up with",
+        "D": "put forward"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Which word describes a mockery or distorted representation of something?",
+      "options": {
+        "A": "parody",
+        "B": "burlesque",
+        "C": "travesty",
+        "D": "satire"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the word that means 'cheerfully optimistic, hopeful, or confident':",
+      "options": {
+        "A": "melancholic",
+        "B": "sanguine",
+        "C": "phlegmatic",
+        "D": "choleric"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Select the term that means 'unimportant or insignificant':",
+      "options": {
+        "A": "consequential",
+        "B": "momentous",
+        "C": "substantial",
+        "D": "inconsequential"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which word describes humor or language that deals with sexual matters in a vulgar and comical way?",
+      "options": {
+        "A": "prudish",
+        "B": "demure",
+        "C": "ribald",
+        "D": "austere"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the word that means 'an excessive amount or overabundance':",
+      "options": {
+        "A": "scarcity",
+        "B": "deficiency",
+        "C": "dearth",
+        "D": "plethora"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Select the term that describes someone who expresses opinions or objections in a loud, forceful manner:",
+      "options": {
+        "A": "reticent",
+        "B": "vociferous",
+        "C": "taciturn",
+        "D": "diffident"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Which word means 'having little or no money'?",
+      "options": {
+        "A": "affluent",
+        "B": "opulent",
+        "C": "impecunious",
+        "D": "prosperous"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Choose the word that means 'courage in pain or adversity':",
+      "options": {
+        "A": "lassitude",
+        "B": "trepidation",
+        "C": "fortitude",
+        "D": "pusillanimity"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Select the term that means 'complete and undiluted; in its purest form':",
+      "options": {
+        "A": "adulterated",
+        "B": "diluted",
+        "C": "contaminated",
+        "D": "unadulterated"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Which word means 'to remove moisture from something and cause it to dry out completely'?",
+      "options": {
+        "A": "hydrate",
+        "B": "saturate",
+        "C": "desiccate",
+        "D": "moisten"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Choose the word that describes someone who spends resources wastefully or extravagantly:",
+      "options": {
+        "A": "frugal",
+        "B": "economical",
+        "C": "prodigal",
+        "D": "parsimonious"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Select the term that means 'essentially different in kind; not able to be compared':",
+      "options": {
+        "A": "analogous",
+        "B": "homogeneous",
+        "C": "uniform",
+        "D": "disparate"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Which word describes something related to strong verbal or written controversy or dispute?",
+      "options": {
+        "A": "harmonious",
+        "B": "conciliatory",
+        "C": "polemical",
+        "D": "consensual"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Choose the word that means 'exceedingly idealistic, impractical, or unrealistic':",
+      "options": {
+        "A": "pragmatic",
+        "B": "quixotic",
+        "C": "methodical",
+        "D": "judicious"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Select the term that means 'corresponding in size or degree; in proportion':",
+      "options": {
+        "A": "disproportionate",
+        "B": "excessive",
+        "C": "commensurate",
+        "D": "inadequate"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what was the primary focus of Marx's intellectual life?",
+      "options": {
+        "A": "Advocating for political revolution in Germany",
+        "B": "Developing a framework for historical materialism",
+        "C": "Analyzing the contradictions of industrial capitalism",
+        "D": "Collaborating with political activists across Europe"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "In paragraph 2, Marx's concept of class struggle suggests that:",
+      "options": {
+        "A": "All historical progress is determined by economic factors alone",
+        "B": "Capitalism inherently creates conflict between owners and workers",
+        "C": "The bourgeoisie would eventually surrender their economic power",
+        "D": "Revolution is impossible without external political intervention"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "Based on paragraph 3, how did the Soviet implementation of Marxism differ from Marx's original vision?",
+      "options": {
+        "A": "It emphasized nationalist rather than international goals",
+        "B": "It diverged from the concept of worker-controlled production",
+        "C": "It implemented capitalism rather than socialism",
+        "D": "It rejected the concept of historical materialism entirely"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to paragraph 4, in what way has Marx's analysis expanded in contemporary theory?",
+      "options": {
+        "A": "It has been applied to forms of inequality beyond class distinctions",
+        "B": "It has become more focused on revolutionary political action",
+        "C": "It has shifted away from economic factors toward cultural analysis",
+        "D": "It has been limited primarily to literary criticism"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Which aspect of Marx's theory does the passage suggest has gained renewed interest since 2008?",
+      "options": {
+        "A": "His detailed blueprint for an ideal communist society",
+        "B": "His prediction about capitalism's eventual replacement by socialism",
+        "C": "His concept of alienation in the workplace",
+        "D": "His analysis of capitalism's tendencies toward wealth concentration and crises"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "The term \"historical materialism\" in paragraph 1 most likely refers to:",
+      "options": {
+        "A": "A philosophical view that emphasizes physical objects over ideas",
+        "B": "A framework suggesting economic systems determine social structures",
+        "C": "The historical study of material goods and their production",
+        "D": "Marx's personal collection of historical documents"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What does the passage suggest is Marx's most enduring contribution to modern thought?",
+      "options": {
+        "A": "His revolutionary political activism",
+        "B": "His specific predictions about capitalism's collapse",
+        "C": "His analytical tools for understanding economic and social contradictions",
+        "D": "His detailed vision of a communist society"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "Based on the passage, Marx would most likely view modern economic inequality as:",
+      "options": {
+        "A": "An unpredictable development in capitalism",
+        "B": "A temporary problem that markets will self-correct",
+        "C": "An inevitable consequence of capitalism's internal dynamics",
+        "D": "A failure of government regulation rather than capitalism itself"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "The passage characterizes Marx's concept of alienation as addressing:",
+      "options": {
+        "A": "Workers' psychological disconnection from their labor",
+        "B": "Social isolation in urban industrial settings",
+        "C": "The separation of political and economic spheres",
+        "D": "The cultural differences between social classes"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the main purpose of this passage?",
+      "options": {
+        "A": "To advocate for modern applications of Marxist revolutionary theory",
+        "B": "To critique the historical failures of Marxist political systems",
+        "C": "To explain Marx's key ideas and trace their influence and relevance",
+        "D": "To compare Marx's economic theories with contemporary alternatives"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
