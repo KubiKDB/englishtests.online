@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Maps help us find our way in new places. A map is a drawing that shows a place from above. It uses special symbols to show different things like roads, rivers, mountains, and buildings. Learning to read a map is a useful skill for travel and outdoor activities. Even with modern technology like GPS, knowing how to read a basic map is still important.<br><br>(2) The first thing to look for on a map is the compass. A compass shows directions: north, south, east, and west. North is usually at the top of the map. Next, find the scale. The scale tells you how distances on the map compare to real distances. For example, one inch on the map might equal one mile in the real world. This helps you understand how far things are from each other.<br><br>(3) Maps use different colors and symbols to show information. Blue usually means water, like rivers, lakes, or oceans. Green often shows forests or parks. Brown or orange might show mountains or high ground. Black lines are often roads, while red lines might be main highways. Cities and towns are usually shown as dots or squares. The map key or legend explains what all the symbols mean.<br><br>(4) To use a map, first find where you are. Look for landmarks around you that might be on the map. Then find where you want to go. Once you know your starting point and destination, you can plan your route. Follow the symbols for roads or paths to see how to get there. Remember to check the scale to know how far you need to travel. With a little practice, reading maps becomes easy and helpful.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "He don't like coffee.",
+        "B": "He doesn't likes coffee.",
+        "C": "He doesn't like coffee.",
+        "D": "He not like coffee."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct past tense form. Yesterday, I ____ breakfast at 8 AM.",
+      "options": {
+        "A": "have",
+        "B": "had",
+        "C": "having",
+        "D": "has"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which is the correct preposition? The book is ____ the table.",
+      "options": {
+        "A": "on",
+        "B": "in",
+        "C": "at",
+        "D": "by"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Select the correct plural form. There are two ____ in the garden.",
+      "options": {
+        "A": "child",
+        "B": "childs",
+        "C": "childrens",
+        "D": "children"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct article. He bought ____ umbrella because it was raining.",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article needed"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which is the correct form of the verb? They ____ football every Saturday.",
+      "options": {
+        "A": "plays",
+        "B": "play",
+        "C": "playing",
+        "D": "are play"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Select the correct comparative form. This box is ____ than that one.",
+      "options": {
+        "A": "heavy",
+        "B": "more heavy",
+        "C": "heavier",
+        "D": "heaviest"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct form. She ____ TV when I called her.",
+      "options": {
+        "A": "watched",
+        "B": "watches",
+        "C": "was watching",
+        "D": "is watching"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which is the correct question form? ____ they going to the party?",
+      "options": {
+        "A": "Do",
+        "B": "Are",
+        "C": "Is",
+        "D": "Does"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Select the correct word order.",
+      "options": {
+        "A": "She always arrives at work early.",
+        "B": "She arrives always at work early.",
+        "C": "She arrives at work always early.",
+        "D": "Always she arrives at work early."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct possessive form. This is ____ house.",
+      "options": {
+        "A": "they",
+        "B": "them",
+        "C": "their",
+        "D": "theirs"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence uses the correct verb tense?",
+      "options": {
+        "A": "I am living in this city for three years.",
+        "B": "I have lived in this city for three years.",
+        "C": "I live in this city for three years.",
+        "D": "I living in this city for three years."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Select the correct modal verb. You ____ smoke in the hospital.",
+      "options": {
+        "A": "don't have to",
+        "B": "shouldn't",
+        "C": "mustn't",
+        "D": "might not"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct negative form. She ____ like spicy food.",
+      "options": {
+        "A": "don't",
+        "B": "not",
+        "C": "doesn't",
+        "D": "isn't"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Which sentence is in the correct future form?",
+      "options": {
+        "A": "I am going to visit my grandmother tomorrow.",
+        "B": "I going to visit my grandmother tomorrow.",
+        "C": "I visit my grandmother tomorrow.",
+        "D": "I am visit my grandmother tomorrow."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the best word to complete the sentence. Can you please ____ the door?",
+      "options": {
+        "A": "close",
+        "B": "open",
+        "C": "put",
+        "D": "make"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the correct phrasal verb. I need to ____ early tomorrow morning.",
+      "options": {
+        "A": "get up",
+        "B": "get on",
+        "C": "get in",
+        "D": "get over"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Which expression is correct for asking about price?",
+      "options": {
+        "A": "How cost is it?",
+        "B": "How many is it?",
+        "C": "How much is it?",
+        "D": "How price is it?"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct expression. When meeting someone for the first time, you say ____.",
+      "options": {
+        "A": "Good night",
+        "B": "Nice to meet you",
+        "C": "See you later",
+        "D": "How are things?"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the best word to complete this sentence. I'm sorry, I don't ____ what you're saying.",
+      "options": {
+        "A": "hear",
+        "B": "listen",
+        "C": "understand",
+        "D": "know"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Which is the correct way to end an email to a friend?",
+      "options": {
+        "A": "Yours sincerely,",
+        "B": "Best regards,",
+        "C": "Love,",
+        "D": "Faithfully yours,"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct expression to make a suggestion.",
+      "options": {
+        "A": "Why don't we go to the cinema?",
+        "B": "Let's not go to the cinema.",
+        "C": "We should not go to the cinema.",
+        "D": "I don't want to go to the cinema."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the best phrase to complete the sentence. The weather is nice today, ____?",
+      "options": {
+        "A": "isn't it",
+        "B": "is it",
+        "C": "doesn't it",
+        "D": "wasn't it"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct response to 'How are you?'",
+      "options": {
+        "A": "I'm 25 years old.",
+        "B": "I'm from Spain.",
+        "C": "I'm fine, thanks.",
+        "D": "I'm a teacher."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Which is the correct way to ask for directions?",
+      "options": {
+        "A": "Where is the nearest bank, please?",
+        "B": "When is the nearest bank, please?",
+        "C": "Why is the nearest bank, please?",
+        "D": "Who is the nearest bank, please?"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the correct meaning of 'last'.",
+      "options": {
+        "A": "to be the first",
+        "B": "to continue for a period of time",
+        "C": "to move quickly",
+        "D": "to be heavy"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "What does 'shape' mean?",
+      "options": {
+        "A": "the form of something",
+        "B": "the color of something",
+        "C": "the weight of something",
+        "D": "the age of something"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Choose the correct meaning of 'have'.",
+      "options": {
+        "A": "to give something away",
+        "B": "to look at something",
+        "C": "to own or possess something",
+        "D": "to lose something"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "What does 'minute' mean?",
+      "options": {
+        "A": "a long period of time",
+        "B": "a unit of time equal to 60 seconds",
+        "C": "a small amount of money",
+        "D": "a large room"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the correct meaning of 'tell'.",
+      "options": {
+        "A": "to ask a question",
+        "B": "to say something to someone",
+        "C": "to write a letter",
+        "D": "to make a mistake"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "What does 'part' mean?",
+      "options": {
+        "A": "the whole of something",
+        "B": "a piece or section of something",
+        "C": "the end of something",
+        "D": "the top of something"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Choose the correct meaning of 'party'.",
+      "options": {
+        "A": "a sad event",
+        "B": "a type of food",
+        "C": "a social gathering to celebrate something",
+        "D": "a place to work"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "What does 'check' mean?",
+      "options": {
+        "A": "to look at something carefully",
+        "B": "to sleep deeply",
+        "C": "to speak loudly",
+        "D": "to eat quickly"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Choose the correct meaning of 'cook'.",
+      "options": {
+        "A": "to make cold",
+        "B": "to clean something",
+        "C": "to prepare food by heating it",
+        "D": "to break something"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "What does 'middle' mean?",
+      "options": {
+        "A": "the end point",
+        "B": "the starting point",
+        "C": "the center point",
+        "D": "the highest point"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Choose the correct meaning of 'produce'.",
+      "options": {
+        "A": "to destroy something",
+        "B": "to make or create something",
+        "C": "to find something",
+        "D": "to buy something"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "What does 'quick' mean?",
+      "options": {
+        "A": "moving or doing something slowly",
+        "B": "moving or doing something with speed",
+        "C": "being very careful",
+        "D": "being very loud"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Choose the correct meaning of 'change'.",
+      "options": {
+        "A": "to stay the same",
+        "B": "to become different",
+        "C": "to feel tired",
+        "D": "to say hello"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "What does 'blood' mean?",
+      "options": {
+        "A": "the red liquid that flows in our bodies",
+        "B": "a type of food",
+        "C": "a piece of clothing",
+        "D": "a part of a house"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Choose the correct meaning of 'cake'.",
+      "options": {
+        "A": "a type of vegetable",
+        "B": "a sweet baked food made from flour, sugar, and other ingredients",
+        "C": "a type of drink",
+        "D": "a piece of furniture"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what is a map?",
+      "options": {
+        "A": "A picture of a person",
+        "B": "A book about travel",
+        "C": "A drawing that shows a place from above",
+        "D": "A modern technology like GPS"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Why is learning to read a map still important according to the passage?",
+      "options": {
+        "A": "Because GPS doesn't work well",
+        "B": "Because modern technology is too expensive",
+        "C": "Because it's a useful skill for travel and outdoor activities",
+        "D": "Because maps are more accurate than GPS"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 2, what does the scale on a map show?",
+      "options": {
+        "A": "The colors used on the map",
+        "B": "How distances on the map compare to real distances",
+        "C": "The direction of north",
+        "D": "The symbols used on the map"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to the passage, which direction is usually at the top of a map?",
+      "options": {
+        "A": "South",
+        "B": "East",
+        "C": "West",
+        "D": "North"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What color usually represents water on a map?",
+      "options": {
+        "A": "Green",
+        "B": "Blue",
+        "C": "Black",
+        "D": "Brown"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What does the map key or legend explain?",
+      "options": {
+        "A": "How to fold the map",
+        "B": "The history of the map",
+        "C": "What all the symbols mean",
+        "D": "Where north is located"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to paragraph 4, what is the first step in using a map?",
+      "options": {
+        "A": "Find where you want to go",
+        "B": "Plan your route",
+        "C": "Check the scale",
+        "D": "Find where you are"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What is the main idea of the passage?",
+      "options": {
+        "A": "Modern technology is better than maps",
+        "B": "Maps are complicated and hard to use",
+        "C": "Basic instructions on how to read and use maps",
+        "D": "How maps are made and designed"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What are landmarks used for according to the passage?",
+      "options": {
+        "A": "To find where you are on a map",
+        "B": "To show directions on a map",
+        "C": "To measure distances on a map",
+        "D": "To explain symbols on a map"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "According to the passage, what often appears as black lines on a map?",
+      "options": {
+        "A": "Rivers",
+        "B": "Forests",
+        "C": "Mountains",
+        "D": "Roads"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    }
+  ]
+}
