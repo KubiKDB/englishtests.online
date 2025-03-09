@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Nanotechnology, the manipulation of matter at the molecular and atomic scale, is revolutionizing modern medicine by enabling unprecedented precision in treatment and diagnosis. Medical researchers are developing nanoscale devices, typically between 1 and 100 nanometers in size, that can interact with cells and tissues at their most basic levels. These tiny innovations are small enough to enter most cells, travel through the bloodstream, and even cross the blood-brain barrier—a significant advantage over traditional medical approaches that often rely on systemic delivery methods.<br><br>(2) One of the most promising applications of nanotechnology in medicine is targeted drug delivery. Conventional drug administration methods distribute medication throughout the entire body, often resulting in side effects when healthy tissues are affected. In contrast, nanoparticles can be engineered to deliver medications directly to diseased cells, leaving healthy cells untouched. These nanocarriers can be designed with specific surface properties that allow them to recognize and bind only to particular cell types, such as cancer cells, thereby increasing therapeutic efficacy while minimizing adverse reactions.<br><br>(3) Diagnostic capabilities are similarly being transformed through nanoscale innovations. Quantum dots—tiny semiconductor particles that emit light of specific wavelengths when exposed to light—are enabling more sensitive and detailed imaging of biological processes. Additionally, nanobiosensors can detect disease markers at much lower concentrations than traditional diagnostic methods, potentially allowing for earlier disease detection. These advances could lead to more accurate diagnoses and treatment monitoring, particularly for complex conditions like cancer and neurodegenerative diseases.<br><br>(4) Despite these promising developments, the integration of nanotechnology into mainstream medicine faces several challenges. Safety concerns regarding the potential toxicity of certain nanomaterials must be thoroughly addressed through rigorous testing. Regulatory frameworks need to evolve to appropriately evaluate these novel technologies. Moreover, the manufacturing processes required to produce medical nanodevices at scale remain complex and expensive, creating barriers to widespread adoption and accessibility.<br><br>(5) Nevertheless, the future of nanomedicine appears bright as researchers continue to overcome these obstacles. Personalized medicine, where treatments are tailored to individual genetic profiles, may become more feasible through nanotechnology. The field is also exploring theranostic applications—devices that combine therapeutic and diagnostic functions, allowing for real-time monitoring of treatment efficacy. As these technologies mature, they promise to fundamentally change our approach to healthcare, potentially offering more effective, less invasive, and more personalized medical interventions.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following correctly uses the present perfect tense?",
+      "options": {
+        "A": "She was studying for the exam since morning.",
+        "B": "They have lived in this neighborhood for ten years.",
+        "C": "I am working on this project for three weeks.",
+        "D": "He did not finished the assignment yet."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the sentence with the correct subject-verb agreement.",
+      "options": {
+        "A": "The group of students were discussing the assignment.",
+        "B": "Each of the participants have submitted their forms.",
+        "C": "Neither the teacher nor the students were informed.",
+        "D": "The data shows significant improvements in all areas."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Identify the correct passive voice construction.",
+      "options": {
+        "A": "They building the new library next year.",
+        "B": "The document had signed by the manager yesterday.",
+        "C": "The exhibition will be opened by the mayor next week.",
+        "D": "The computer was fixing by the technician."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence contains a correctly used relative clause?",
+      "options": {
+        "A": "The woman which I met yesterday is a famous scientist.",
+        "B": "The book that I borrowed it from the library was very interesting.",
+        "C": "The restaurant where we had dinner last night has excellent reviews.",
+        "D": "The students who they failed the exam must retake it."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Select the sentence with the correct conditional form.",
+      "options": {
+        "A": "If I would have known about the meeting, I would have attended it.",
+        "B": "If it rains tomorrow, we will cancel the picnic.",
+        "C": "If I was you, I will accept the job offer.",
+        "D": "If she study harder, she would pass the exam."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which sentence uses the modal verb correctly?",
+      "options": {
+        "A": "You must to arrive by 9 AM tomorrow.",
+        "B": "She can singing very well.",
+        "C": "They might not be able to attend the conference.",
+        "D": "He should to call his parents more often."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Identify the sentence with the correct use of articles.",
+      "options": {
+        "A": "She is best student in the class.",
+        "B": "He bought a umbrella because it was raining.",
+        "C": "We had an interesting discussion about the global economy.",
+        "D": "They visited famous museum in Paris last summer."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the sentence with the correct use of comparatives and superlatives.",
+      "options": {
+        "A": "This is the most easiest exercise in the book.",
+        "B": "Her presentation was more better than his.",
+        "C": "That was the most interesting lecture I've ever attended.",
+        "D": "This hotel is more cheaper than the one downtown."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence uses the gerund correctly?",
+      "options": {
+        "A": "She enjoys to swim in the ocean.",
+        "B": "They admitted stealing the documents.",
+        "C": "I look forward to seeing your soon.",
+        "D": "He suggested to go to the museum."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Select the sentence with the correct use of reported speech.",
+      "options": {
+        "A": "She said me that she was tired.",
+        "B": "He told that he would finish the project soon.",
+        "C": "They asked when did the meeting start.",
+        "D": "The teacher said that the test would be difficult."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Which sentence demonstrates the correct use of future perfect tense?",
+      "options": {
+        "A": "By next year, they will completed the construction.",
+        "B": "She will have finished her degree by the end of this semester.",
+        "C": "We will been working on this project for two years in December.",
+        "D": "He will has traveled to twenty countries by his thirtieth birthday."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Identify the sentence with correct preposition usage.",
+      "options": {
+        "A": "She arrived to the airport at time for her flight.",
+        "B": "We are looking forward for the summer vacation.",
+        "C": "He has been working at this company since 2015.",
+        "D": "They were waiting the bus for over an hour."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the sentence with the correct use of the past perfect tense.",
+      "options": {
+        "A": "After I had finished my homework, I watched TV.",
+        "B": "Before she arrived, we already left the party.",
+        "C": "He had been lived in Paris before moving to London.",
+        "D": "They had went to the store before cooking dinner."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence uses the infinitive correctly?",
+      "options": {
+        "A": "She wants learning a new language.",
+        "B": "They decided buying a new car next year.",
+        "C": "He helped me to carry the heavy boxes upstairs.",
+        "D": "I expect finish the project by Friday."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the sentence with correct subject-verb inversion.",
+      "options": {
+        "A": "Never I have seen such a beautiful sunset.",
+        "B": "Rarely does she complain about her workload.",
+        "C": "Not only he speaks English but also French.",
+        "D": "Hardly they could believe the news."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Complete the sentence: 'The government has the ________ to make decisions about national security.'",
+      "options": {
+        "A": "authority",
+        "B": "authorization",
+        "C": "author",
+        "D": "authorize"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct definition for 'temporary':",
+      "options": {
+        "A": "Lasting for a very long time",
+        "B": "Lasting for only a limited period of time",
+        "C": "Of high quality or standard",
+        "D": "Happening regularly over a period of time"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 18,
+      "question": "Which sentence uses the word 'disaster' correctly?",
+      "options": {
+        "A": "Her disaster to the project was significant.",
+        "B": "The hurricane caused a major disaster in the coastal areas.",
+        "C": "He disasters about politics all the time.",
+        "D": "They disaster the importance of education."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 19,
+      "question": "Select the sentence where 'responsible' is used appropriately:",
+      "options": {
+        "A": "He is very responsible of his younger siblings.",
+        "B": "She's responsible on creating the marketing strategy.",
+        "C": "They were held responsible for the data breach.",
+        "D": "I'm responsible by making sure everyone is safe."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 20,
+      "question": "Which sentence correctly uses the word 'prefer'?",
+      "options": {
+        "A": "I prefer tea than coffee in the morning.",
+        "B": "She prefers to work from home rather than commuting daily.",
+        "C": "They prefer watching movies but reading books.",
+        "D": "He prefers stay at home on weekends."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 21,
+      "question": "Choose the sentence that uses 'dismiss' correctly:",
+      "options": {
+        "A": "The manager dismissed to the employee's suggestion.",
+        "B": "She dismissed from the meeting early.",
+        "C": "They dismissed the claims as unfounded rumors.",
+        "D": "He dismissed the computer after finishing his work."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 22,
+      "question": "What is the best definition of 'modest'?",
+      "options": {
+        "A": "Extremely expensive or luxurious",
+        "B": "Having a high opinion of oneself",
+        "C": "Not excessively large, elaborate, or expensive",
+        "D": "Very colorful and attention-seeking"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 23,
+      "question": "Which sentence uses 'hesitation' correctly?",
+      "options": {
+        "A": "She accepted the job offer without hesitation.",
+        "B": "He hesitation the project deadline by a week.",
+        "C": "They hesitation about the new policy changes.",
+        "D": "I hesitation your advice about the investment."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct usage of 'advance':",
+      "options": {
+        "A": "The team advanced to the finals after winning the semifinal match.",
+        "B": "She advance her career by taking extra courses.",
+        "C": "They advance meeting tomorrow morning.",
+        "D": "He advance the book from the library."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 25,
+      "question": "What does 'ordinary' mean?",
+      "options": {
+        "A": "Exceptional or outstanding",
+        "B": "With no special or distinctive features; normal",
+        "C": "Relating to a formal ceremony or ritual",
+        "D": "Extremely rare or unusual"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 26,
+      "question": "Which sentence uses 'convince' correctly?",
+      "options": {
+        "A": "She tried to convince to him about the benefits of recycling.",
+        "B": "They convinced the movie last night.",
+        "C": "He couldn't convince of the authenticity of the painting.",
+        "D": "The lawyer managed to convince the jury of his client's innocence."
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the correct definition for 'previous':",
+      "options": {
+        "A": "Coming after something in time or order",
+        "B": "Existing or occurring before something else",
+        "C": "Happening at the same time as something else",
+        "D": "Likely to happen in the future"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Which sentence uses 'awkward' appropriately?",
+      "options": {
+        "A": "The new software is very awkward and efficient.",
+        "B": "There was an awkward silence after his controversial remark.",
+        "C": "She awkward the meeting to discuss the budget.",
+        "D": "They awkward a new strategy for the campaign."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Select the sentence where 'confirm' is used correctly:",
+      "options": {
+        "A": "Please confirm on your attendance by email.",
+        "B": "She confirmed to the appointment yesterday.",
+        "C": "The test results confirmed our initial diagnosis.",
+        "D": "He confirm the document before sending it."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "What is the most accurate definition of 'brief'?",
+      "options": {
+        "A": "Of long duration; lengthy",
+        "B": "Of short duration; concise",
+        "C": "Extremely detailed and comprehensive",
+        "D": "Unclear or ambiguous"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Choose the appropriate phrase to complete: 'The project was delayed ________ the unexpected technical issues.'",
+      "options": {
+        "A": "due to",
+        "B": "because",
+        "C": "although",
+        "D": "while"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 32,
+      "question": "Select the correct phrasal verb: 'The meeting has been ________ until next week.'",
+      "options": {
+        "A": "put off",
+        "B": "put away",
+        "C": "put down",
+        "D": "put up"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 33,
+      "question": "Complete the idiom: 'They're in the same boat, which means they _______.'",
+      "options": {
+        "A": "are traveling together",
+        "B": "are in the same difficult situation",
+        "C": "enjoy water sports",
+        "D": "work in the marine industry"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 34,
+      "question": "Choose the correct collocation: 'She _______ a deep breath before giving her presentation.'",
+      "options": {
+        "A": "made",
+        "B": "did",
+        "C": "took",
+        "D": "had"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 35,
+      "question": "Select the appropriate connector: 'He studied very hard; ________, he failed the exam.'",
+      "options": {
+        "A": "therefore",
+        "B": "nevertheless",
+        "C": "consequently",
+        "D": "furthermore"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 36,
+      "question": "Which word best completes the sentence? 'The new employee quickly _______ to the company culture.'",
+      "options": {
+        "A": "adapted",
+        "B": "adopted",
+        "C": "admitted",
+        "D": "advanced"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 37,
+      "question": "Choose the correct expression: 'I'd rather _______ to the theater than watch a movie at home.'",
+      "options": {
+        "A": "going",
+        "B": "to go",
+        "C": "go",
+        "D": "went"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 38,
+      "question": "Select the best preposition: 'She's been working _______ this project for months.'",
+      "options": {
+        "A": "at",
+        "B": "in",
+        "C": "for",
+        "D": "on"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 39,
+      "question": "Choose the correct expression: 'It's no use _______ about things you can't change.'",
+      "options": {
+        "A": "to worry",
+        "B": "worrying",
+        "C": "worry",
+        "D": "worried"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 40,
+      "question": "Complete the sentence correctly: 'If it _______ for his help, I wouldn't have finished on time.'",
+      "options": {
+        "A": "wasn't",
+        "B": "weren't",
+        "C": "hadn't been",
+        "D": "wouldn't be"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what makes nanotechnology particularly valuable in medicine?",
+      "options": {
+        "A": "Its ability to manipulate matter at the molecular level",
+        "B": "Its ability to cross barriers that traditional medications cannot",
+        "C": "Its low production cost compared to traditional treatments",
+        "D": "Its widespread availability in healthcare systems"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "The primary advantage of nanoparticles in drug delivery, as mentioned in paragraph 2, is that they:",
+      "options": {
+        "A": "Are less expensive to produce than conventional drugs",
+        "B": "Can deliver higher doses of medication with fewer side effects",
+        "C": "Can target specific cells while leaving healthy cells untouched",
+        "D": "Can completely eliminate the need for traditional medications"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "Which of the following is a diagnostic application of nanotechnology mentioned in the passage?",
+      "options": {
+        "A": "Replacing surgical procedures",
+        "B": "Quantum dots for more sensitive imaging",
+        "C": "Monitoring patients remotely",
+        "D": "Creating artificial organs"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to paragraph 4, which of the following is NOT a challenge facing nanomedicine?",
+      "options": {
+        "A": "Potential toxicity of nanomaterials",
+        "B": "Lack of patient acceptance",
+        "C": "Complex and expensive manufacturing processes",
+        "D": "Inadequate regulatory frameworks"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What does the author suggest about the future of nanomedicine in paragraph 5?",
+      "options": {
+        "A": "It will completely replace traditional medicine within a decade",
+        "B": "It will make healthcare more personalized and less invasive",
+        "C": "It will primarily benefit wealthy countries",
+        "D": "It will focus exclusively on cancer treatments"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "The term 'theranostic' in paragraph 5 refers to devices that:",
+      "options": {
+        "A": "Replace damaged tissues with artificial ones",
+        "B": "Combine therapeutic and diagnostic functions",
+        "C": "Monitor patient vital signs remotely",
+        "D": "Match treatments to genetic profiles"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What can be inferred about the current state of nanomedicine from the passage?",
+      "options": {
+        "A": "It is widely used in hospitals around the world",
+        "B": "It is mainly theoretical with few practical applications",
+        "C": "It shows great promise but faces implementation challenges",
+        "D": "It has been largely abandoned due to safety concerns"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The passage suggests that nanobiosensors offer an advantage over traditional diagnostic methods because they:",
+      "options": {
+        "A": "Are more affordable for healthcare systems",
+        "B": "Can detect disease markers at lower concentrations",
+        "C": "Eliminate the need for laboratory testing",
+        "D": "Provide immediate results without processing"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Which of the following best describes the author's tone in this passage?",
+      "options": {
+        "A": "Highly skeptical of nanotechnology's benefits",
+        "B": "Cautiously optimistic about nanomedicine's potential",
+        "C": "Overly enthusiastic without acknowledging limitations",
+        "D": "Neutral and disinterested in the topic"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the main purpose of this passage?",
+      "options": {
+        "A": "To argue that funding for nanomedicine should be increased",
+        "B": "To warn about the dangers of nanotechnology in medicine",
+        "C": "To provide an overview of nanotechnology applications in medicine",
+        "D": "To compare nanomedicine with traditional medical approaches"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
