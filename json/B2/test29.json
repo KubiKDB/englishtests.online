@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The majestic mountains that dominate Earth's landscapes represent some of the most dramatic evidence of our planet's dynamic nature. These imposing features, which can reach heights of several kilometers above sea level, are primarily the result of plate tectonics—the scientific theory that explains how Earth's outermost layer is divided into several plates that glide over the mantle, the rocky inner layer above the core. This revolutionary concept, only widely accepted in the scientific community since the 1960s, helps us understand not only mountain formation but also earthquakes, volcanoes, and the very shape of our continents and ocean basins.<br><br>(2) The most common type of mountain formation occurs at convergent plate boundaries, where two tectonic plates move toward each other. When oceanic and continental plates collide, the denser oceanic plate typically slides beneath the lighter continental plate in a process called subduction. This process generates magma that rises to form volcanic mountain ranges, such as the Andes in South America. Alternatively, when two continental plates collide, neither can subduct fully due to their similar densities. Instead, the enormous pressure forces the land to fold and thrust upward, creating mountain ranges like the Himalayas, which continue to grow taller by several millimeters each year as the Indian subcontinent presses into Asia.<br><br>(3) Mountains can also form at divergent boundaries, where tectonic plates move away from each other. As plates separate, magma rises from the mantle to fill the gap, creating new crust. This process primarily occurs along mid-ocean ridges, forming submarine mountain ranges like the Mid-Atlantic Ridge. Less commonly, divergent boundaries can form within continents, creating rift valleys flanked by mountains, as seen in East Africa. A third type of formation happens at transform boundaries, where plates slide horizontally past each other, sometimes creating pressure ridges or uplifted blocks that form more modest mountain features.<br><br>(4) Beyond plate boundaries, mountains can also form through other geological processes. Hot spots, where plumes of magma rise from deep within the mantle, can create volcanic mountains even in the middle of tectonic plates. The Hawaiian Islands formed this way, as the Pacific Plate moved over a relatively stationary hot spot, creating a chain of increasingly older islands and seamounts. Erosion-resistant rock formations can also become mountains through a process called differential erosion, where surrounding softer rocks wear away over millions of years, leaving harder formations standing as isolated mountains.<br><br>(5) The study of mountain formation reveals much about Earth's past and offers insights into its future. By examining rock layers in mountains, geologists can reconstruct ancient environments and climate conditions that existed millions of years ago. Mountain ranges also significantly influence global climate patterns by affecting atmospheric circulation and precipitation. As human activities continue to impact Earth's systems, understanding these massive geological features and the processes that create them becomes increasingly important for predicting how our planet might respond to changes in the future.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Select the correct form to complete this sentence: 'If he _____ harder, he would have passed the exam.'",
+      "options": {
+        "A": "studied",
+        "B": "studies",
+        "C": "had studied",
+        "D": "would study"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct passive voice construction:",
+      "options": {
+        "A": "The report will finish by tomorrow.",
+        "B": "The report will be finished by tomorrow.",
+        "C": "The report will have finish by tomorrow.",
+        "D": "The report will been finished by tomorrow."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence contains the correct use of reported speech?",
+      "options": {
+        "A": "She said that she will attend the meeting tomorrow.",
+        "B": "She said that she would attend the meeting the next day.",
+        "C": "She said that she attend the meeting the next day.",
+        "D": "She said that she is attending the meeting tomorrow."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Select the sentence with the correct use of articles:",
+      "options": {
+        "A": "He's studying the French at a university.",
+        "B": "He's studying French at an university.",
+        "C": "He's studying the French at the university.",
+        "D": "He's studying French at a university."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Which sentence uses the present perfect correctly?",
+      "options": {
+        "A": "I live here since 2010.",
+        "B": "I am living here since 2010.",
+        "C": "I have lived here since 2010.",
+        "D": "I had lived here since 2010."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Identify the sentence with the correct subject-verb agreement:",
+      "options": {
+        "A": "The number of students in the class are increasing.",
+        "B": "A variety of options is available to customers.",
+        "C": "Each of the books have a different cover design.",
+        "D": "Neither of the candidates have withdrawn from the race."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct modal verb to complete this sentence: 'You _____ be tired after such a long journey.'",
+      "options": {
+        "A": "would",
+        "B": "ought",
+        "C": "must",
+        "D": "may to"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the sentence with the correct use of comparative forms:",
+      "options": {
+        "A": "This book is more interesting than any book I've read.",
+        "B": "This book is more interesting than all books I've read.",
+        "C": "This book is more interesting than any other book I've read.",
+        "D": "This book is the more interesting than all books I've read."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Choose the sentence with the correct use of relative pronouns:",
+      "options": {
+        "A": "The woman which I met yesterday is a doctor.",
+        "B": "The house that they live in it is very old.",
+        "C": "The film who we saw last night won several awards.",
+        "D": "The museum whose exhibition I visited was built in 1890."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence correctly uses a gerund?",
+      "options": {
+        "A": "I enjoy to swim in the ocean.",
+        "B": "She suggested to go to the new restaurant.",
+        "C": "They admitted stealing the documents.",
+        "D": "We finished to work on the project yesterday."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Select the sentence with the correct use of future forms:",
+      "options": {
+        "A": "I will having dinner with my parents tomorrow.",
+        "B": "The train will arrives at 6 PM.",
+        "C": "By next month, they will have completed the project.",
+        "D": "She will been working here for five years next week."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Choose the sentence with the correct preposition usage:",
+      "options": {
+        "A": "She's been working with this company from five years.",
+        "B": "He's afraid from spiders.",
+        "C": "They're responsible of organizing the event.",
+        "D": "I'm interested in learning more about this topic."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Select the sentence with the correct use of conditionals:",
+      "options": {
+        "A": "If I would know the answer, I will tell you.",
+        "B": "Unless you study harder, you would fail the exam.",
+        "C": "If the weather improves, we'll go for a walk.",
+        "D": "If I had more time, I will help you tomorrow."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Identify the sentence with the correct verb tense sequence:",
+      "options": {
+        "A": "By the time we arrived, the film already started.",
+        "B": "After she has finished her homework, she went to bed.",
+        "C": "She realized that she has lost her keys.",
+        "D": "When I got home, I discovered that someone had broken in."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Choose the sentence with the correct use of articles:",
+      "options": {
+        "A": "The honesty is the best policy.",
+        "B": "I have a useful information for you.",
+        "C": "We need an unanimous decision.",
+        "D": "She plays the piano every evening."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct collocation to complete the sentence: 'The government needs to _____ immediate action to address climate change.'",
+      "options": {
+        "A": "do",
+        "B": "make",
+        "C": "take",
+        "D": "have"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the appropriate phrasal verb: 'We need to _____ this issue at the next meeting.'",
+      "options": {
+        "A": "bring up",
+        "B": "bring about",
+        "C": "bring in",
+        "D": "bring down"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct idiom to complete this sentence: 'After the argument, they decided to _____ and start fresh.'",
+      "options": {
+        "A": "break the ice",
+        "B": "beat around the bush",
+        "C": "bury the hatchet",
+        "D": "bite the bullet"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Select the appropriate linking expression: 'The project is behind schedule; _____, we need to work overtime.'",
+      "options": {
+        "A": "otherwise",
+        "B": "therefore",
+        "C": "meanwhile",
+        "D": "although"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct word formation to complete the sentence: 'The _____ of the ancient ruins attracted thousands of tourists.' (DISCOVER)",
+      "options": {
+        "A": "discoverable",
+        "B": "discovering",
+        "C": "discovery",
+        "D": "discovered"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the appropriate fixed expression: 'I'm not quite ready to make a decision yet. I need some time to _____ my options.'",
+      "options": {
+        "A": "weigh up",
+        "B": "come across",
+        "C": "put forward",
+        "D": "break down"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct collocation: 'The new policy _____ into effect next month.'",
+      "options": {
+        "A": "takes",
+        "B": "comes",
+        "C": "goes",
+        "D": "brings"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the appropriate expression: 'After years of research, the scientists finally _____ a breakthrough in cancer treatment.'",
+      "options": {
+        "A": "did",
+        "B": "took",
+        "C": "made",
+        "D": "got"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct preposition: 'She's very passionate _____ environmental issues.'",
+      "options": {
+        "A": "for",
+        "B": "with",
+        "C": "about",
+        "D": "to"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the appropriate verb pattern: 'The teacher encouraged the students _____ harder for the exam.'",
+      "options": {
+        "A": "study",
+        "B": "studying",
+        "C": "to study",
+        "D": "studied"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Which sentence correctly uses the word 'collapse'?",
+      "options": {
+        "A": "The government collapsed new regulations last week.",
+        "B": "The old building collapsed during the earthquake.",
+        "C": "They collapsed an agreement after lengthy negotiations.",
+        "D": "She collapsed the information into a brief summary."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the correct definition of 'inevitable':",
+      "options": {
+        "A": "Something that can be avoided with careful planning",
+        "B": "A situation that causes great controversy",
+        "C": "Something certain to happen; unavoidable",
+        "D": "A surprising or unexpected event"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Which sentence uses the word 'acknowledge' correctly?",
+      "options": {
+        "A": "She acknowledged to the store to buy groceries.",
+        "B": "The professor acknowledged the student's excellent work in class.",
+        "C": "They acknowledged the building with modern architecture.",
+        "D": "He acknowledged the tree with decorative lights."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Select the sentence that correctly uses 'convert':",
+      "options": {
+        "A": "The artist converted a beautiful painting of the landscape.",
+        "B": "She converted against the new policy at the meeting.",
+        "C": "They converted the old factory into luxury apartments.",
+        "D": "He converted the book to his friend after reading it."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the best definition of 'collaborate':",
+      "options": {
+        "A": "To work together on a shared goal or project",
+        "B": "To compete against others in a professional setting",
+        "C": "To supervise or direct the work of others",
+        "D": "To present information to a large audience"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "In which sentence is 'circumstance' used correctly?",
+      "options": {
+        "A": "She circumstanced her opinion clearly during the debate.",
+        "B": "They circumstanced around the obstacle course efficiently.",
+        "C": "Under the circumstances, we decided to postpone the event.",
+        "D": "He circumstanced the project with great attention to detail."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Which sentence uses 'anticipate' correctly?",
+      "options": {
+        "A": "They anticipate a large crowd at tomorrow's concert.",
+        "B": "She anticipated her car in the parking garage.",
+        "C": "He anticipated with his colleagues on the new project.",
+        "D": "We anticipated the message to all departments."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Select the sentence with the correct use of 'participate':",
+      "options": {
+        "A": "The children participated the toys among themselves.",
+        "B": "She likes to participate novels in her spare time.",
+        "C": "He participated the discussion with insightful comments.",
+        "D": "We encouraged everyone to participate in the community project."
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Choose the correct usage of 'advocate':",
+      "options": {
+        "A": "The lawyer advocates his client in court tomorrow.",
+        "B": "She advocates for stricter environmental regulations.",
+        "C": "They advocated the building last month.",
+        "D": "He advocates to work every day at 9 AM."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Which definition best describes 'controversy'?",
+      "options": {
+        "A": "A general agreement among a group of people",
+        "B": "A prolonged public discussion or argument, often causing strong feelings",
+        "C": "A formal process for resolving disputes",
+        "D": "A scientific theory that has been proven correct"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "In which sentence is 'contribute' used correctly?",
+      "options": {
+        "A": "She contributed the meeting with several good ideas.",
+        "B": "He contributes his children to school every morning.",
+        "C": "They contributed generously to the charity fundraiser.",
+        "D": "We contribute the furniture around the room."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Select the sentence that correctly uses 'guarantee':",
+      "options": {
+        "A": "The hotel guarantees comfortable accommodations for all guests.",
+        "B": "She guaranteed to the store to return the faulty product.",
+        "C": "They guarantee through the forest to reach the lake.",
+        "D": "He guaranteed the information into a single document."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Choose the best definition of 'diminish':",
+      "options": {
+        "A": "To make something larger or more impressive",
+        "B": "To make something become less in size, importance, or value",
+        "C": "To completely eliminate or destroy something",
+        "D": "To maintain something at its current level"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Which sentence uses 'dominate' correctly?",
+      "options": {
+        "A": "The castle dominates the landscape from its position on the hill.",
+        "B": "She dominated to the conclusion after careful analysis.",
+        "C": "They dominated the project until next week.",
+        "D": "He dominates with his colleagues every morning."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "In which sentence is 'undergo' used correctly?",
+      "options": {
+        "A": "The city underwent several teams to complete the project.",
+        "B": "She underwent her opinion during the debate.",
+        "C": "The building is undergoing extensive renovations this year.",
+        "D": "They undergo the instructions carefully to avoid mistakes."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, what is the primary cause of mountain formation on Earth?",
+      "options": {
+        "A": "Erosion of surrounding softer rocks",
+        "B": "Volcanic activity from hot spots",
+        "C": "Plate tectonics",
+        "D": "Climate change over millions of years"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Based on paragraph 2, how are the Andes Mountains formed?",
+      "options": {
+        "A": "Through the collision of two continental plates",
+        "B": "By the subduction of an oceanic plate beneath a continental plate",
+        "C": "Through the separation of tectonic plates",
+        "D": "By differential erosion over millions of years"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "Which type of mountain formation occurs at divergent boundaries?",
+      "options": {
+        "A": "Folded mountains from continental collision",
+        "B": "Volcanic mountains from subduction",
+        "C": "Mountains formed by rising magma filling gaps between separating plates",
+        "D": "Isolated mountains from differential erosion"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to the passage, why do the Himalayas continue to grow taller each year?",
+      "options": {
+        "A": "Because of increasing volcanic activity",
+        "B": "Due to the continued pressure of the Indian subcontinent into Asia",
+        "C": "Because of differential erosion of surrounding rocks",
+        "D": "Due to the rising magma from the mantle"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "The word 'subduction' in paragraph 2 refers to:",
+      "options": {
+        "A": "The process where one tectonic plate slides beneath another",
+        "B": "The folding of land due to pressure from colliding plates",
+        "C": "The rising of magma from the mantle",
+        "D": "The horizontal sliding of plates past each other"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to paragraph 4, how were the Hawaiian Islands formed?",
+      "options": {
+        "A": "Through the collision of oceanic and continental plates",
+        "B": "By a stationary hot spot as the Pacific Plate moved over it",
+        "C": "Through the separation of plates at a divergent boundary",
+        "D": "By the horizontal movement of plates at a transform boundary"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What information can geologists obtain from examining rock layers in mountains?",
+      "options": {
+        "A": "Future patterns of plate movement",
+        "B": "The exact age of Earth",
+        "C": "Information about ancient environments and climate conditions",
+        "D": "Predictions about future volcanic eruptions"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to the passage, when was plate tectonic theory widely accepted in the scientific community?",
+      "options": {
+        "A": "In the 19th century",
+        "B": "Since the early 1900s",
+        "C": "Since the 1960s",
+        "D": "Only in the past decade"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Based on the passage, what is the relationship between mountain ranges and global climate?",
+      "options": {
+        "A": "Mountain ranges have no significant effect on climate",
+        "B": "Mountain ranges influence atmospheric circulation and precipitation",
+        "C": "Mountains only affect local weather, not global climate",
+        "D": "Climate influences mountain formation, but not vice versa"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What does the author suggest about the importance of understanding mountain formation?",
+      "options": {
+        "A": "It is primarily of interest to geologists and has little practical value",
+        "B": "It is only important for predicting earthquakes and volcanic eruptions",
+        "C": "It helps us understand Earth's past and may help predict future changes",
+        "D": "It is less important than studying climate change"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
