@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Throughout human history, women have played vital roles in shaping societies despite facing numerous barriers to recognition and participation. From ancient civilizations to modern times, their contributions have been both substantial and diverse, though often underrepresented in historical accounts. Early societies frequently limited women's activities to domestic duties and childrearing, while men dominated public and political spheres.<br><br>(2) By the 19th century, significant shifts began to occur as women organized to challenge these restrictions. The suffrage movement emerged as a prominent example of women's collective action, fighting for the right to vote—a fundamental aspect of citizenship. These efforts eventually succeeded in most countries, though the timeline varied significantly across different regions and cultures. This period also witnessed women entering previously male-dominated professions, despite facing skepticism about their capabilities and resistance to their presence.<br><br>(3) The 20th century brought unprecedented changes to women's roles. Both World Wars temporarily opened industrial and military support positions to women, demonstrating their capacity to perform traditionally masculine work. After these conflicts, many societies experienced tension between reverting to traditional gender roles and acknowledging women's expanded capabilities. The feminist movements of the 1960s and 1970s further advocated for women's rights in education, employment, and personal autonomy, resulting in substantial legal reforms across many countries.<br><br>(4) In contemporary society, women serve as political leaders, scientists, artists, and business executives, though gender parity remains elusive in many fields and regions. Women continue to make significant contributions to literature, science, politics, and the arts, with their work gaining more adequate recognition than in previous eras. However, challenges persist, including wage gaps, underrepresentation in leadership positions, and varying degrees of gender-based discrimination worldwide.<br><br>(5) Looking toward the future, many societies are acknowledging the rational and economic benefits of gender equality. Research consistently shows that communities with greater gender equality tend to be more prosperous, peaceful, and innovative. Educational initiatives emphasize the importance of recognizing women's historical contributions while encouraging girls and young women to pursue their interests without traditional limitations. As our understanding of gender continues to evolve, so too does our appreciation for the diverse ways women have shaped and continue to influence human civilization.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is grammatically correct?",
+      "options": {
+        "A": "She don't want to attend the conference.",
+        "B": "They was discussing the proposal yesterday.",
+        "C": "He has been working here since 2018.",
+        "D": "We is going to submit our application tomorrow."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "A": "The committee have made their decision.",
+        "B": "The committee has made their decision.",
+        "C": "The committee have made its decision.",
+        "D": "The committee has made its decision."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the correct form of the verb:",
+      "options": {
+        "A": "By the time we arrived, the movie already started.",
+        "B": "By the time we arrived, the movie had already started.",
+        "C": "By the time we arrived, the movie has already started.",
+        "D": "By the time we arrived, the movie was already starting."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence contains a mistake in the conditional form?",
+      "options": {
+        "A": "If it rains tomorrow, we will cancel the picnic.",
+        "B": "If I were you, I would apply for that job.",
+        "C": "If he had studied harder, he would passed the exam.",
+        "D": "If they arrive early, they might get better seats."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Identify the sentence with the correct passive voice:",
+      "options": {
+        "A": "The report will submitted by Friday.",
+        "B": "The exhibition has been visited by thousands of people.",
+        "C": "The project was completing last month.",
+        "D": "The concert been canceled due to bad weather."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which sentence uses the correct form of reported speech?",
+      "options": {
+        "A": "She said that she will attend the meeting.",
+        "B": "He told me that he is feeling unwell yesterday.",
+        "C": "They announced that the train had been delayed.",
+        "D": "The professor said that the exam is difficult."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the sentence with the correct use of articles:",
+      "options": {
+        "A": "She is an university student studying economics.",
+        "B": "We had the dinner at a nice restaurant last night.",
+        "C": "He plays the guitar in a local band.",
+        "D": "They visited a historical museum in the downtown."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the sentence with the correct preposition usage:",
+      "options": {
+        "A": "The book is different than the movie.",
+        "B": "She has been working on this project since three months.",
+        "C": "They're concerned about the environmental impact.",
+        "D": "We arrived at New York last weekend."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence contains an error in subject-verb agreement?",
+      "options": {
+        "A": "Neither the students nor the teacher was present.",
+        "B": "The number of participants has increased.",
+        "C": "A variety of options are available.",
+        "D": "Each of the candidates have submitted their applications."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Identify the sentence with correct verb tense consistency:",
+      "options": {
+        "A": "When I arrived at the station, the train already left.",
+        "B": "While she was cooking dinner, the phone rings.",
+        "C": "Before he graduated, he had applied to several universities.",
+        "D": "After they will finish the project, they can take a vacation."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the sentence with the correct use of gerunds and infinitives:",
+      "options": {
+        "A": "They decided going to the beach instead of the mountains.",
+        "B": "She avoided to talk about her recent promotion.",
+        "C": "We enjoy to watch documentaries on the weekend.",
+        "D": "The company expects to increase sales by 20% this year."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence uses the correct relative pronoun?",
+      "options": {
+        "A": "The woman who car was stolen reported it to the police.",
+        "B": "The book which I borrowed from the library is overdue.",
+        "C": "The city where I visited last summer was beautiful.",
+        "D": "The professor whom teaches physics won an award."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Identify the sentence with the correct use of comparatives:",
+      "options": {
+        "A": "This building is more taller than the one across the street.",
+        "B": "Her presentation was more clearer than his.",
+        "C": "The red car is faster and more efficient than the blue one.",
+        "D": "Today is the most coldest day of the year."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Select the sentence with the correct use of modal verbs:",
+      "options": {
+        "A": "You must to complete this form before proceeding.",
+        "B": "They might not be able to attend the conference.",
+        "C": "She can dancing very well.",
+        "D": "We should to prepare for the upcoming exam."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Which sentence has the correct word order?",
+      "options": {
+        "A": "Always she arrives early to work.",
+        "B": "Frequently they have meetings on Monday mornings.",
+        "C": "We never have visited that museum before.",
+        "D": "She hardly could believe the news."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the best phrase to complete the sentence: 'The company needs to _____ its marketing strategy to reach younger customers.'",
+      "options": {
+        "A": "make up",
+        "B": "set up",
+        "C": "modify",
+        "D": "run up"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the most appropriate phrase: 'The government will _____ new regulations on environmental protection next month.'",
+      "options": {
+        "A": "introduce",
+        "B": "compose",
+        "C": "establish",
+        "D": "implement"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Complete the sentence: 'Despite the difficult economic conditions, the company managed to _____ a profit last year.'",
+      "options": {
+        "A": "get",
+        "B": "generate",
+        "C": "achieve",
+        "D": "reach"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct phrasal verb: 'We need to _____ the meeting until next week because several key team members are unavailable.'",
+      "options": {
+        "A": "put off",
+        "B": "call off",
+        "C": "take off",
+        "D": "hold off"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the most appropriate expression: 'The new software has several bugs that need to be _____ before it can be released.'",
+      "options": {
+        "A": "solved",
+        "B": "treated",
+        "C": "fixed",
+        "D": "cured"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Complete the sentence: 'The research team will _____ the effectiveness of the new vaccine in preventing the disease.'",
+      "options": {
+        "A": "research",
+        "B": "look into",
+        "C": "investigate",
+        "D": "examine"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct collocation: 'The company needs to _____ attention to customer feedback to improve their services.'",
+      "options": {
+        "A": "make",
+        "B": "take",
+        "C": "pay",
+        "D": "give"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the best phrase to complete the sentence: 'The conference organizers need to _____ accommodations for all the international delegates.'",
+      "options": {
+        "A": "book",
+        "B": "arrange",
+        "C": "order",
+        "D": "reserve"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Complete the sentence with the appropriate expression: 'The company will _____ a new product line next quarter to expand its market share.'",
+      "options": {
+        "A": "launch",
+        "B": "begin",
+        "C": "commence",
+        "D": "initiate"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct phrase: 'Many countries are trying to _____ their carbon emissions to combat climate change.'",
+      "options": {
+        "A": "decrease",
+        "B": "reduce",
+        "C": "lessen",
+        "D": "diminish"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Which definition best matches the word 'emphasize'?",
+      "options": {
+        "A": "To make something look attractive",
+        "B": "To give special importance to something",
+        "C": "To explain something in detail",
+        "D": "To compare different aspects of something"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the word that best completes the sentence: 'The scientist wanted to _____ the existing theory to account for new evidence.'",
+      "options": {
+        "A": "emphasize",
+        "B": "investigate",
+        "C": "modify",
+        "D": "accompany"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Select the closest synonym for 'register':",
+      "options": {
+        "A": "Enroll",
+        "B": "Record",
+        "C": "Observe",
+        "D": "Categorize"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which word means 'occurring once every year'?",
+      "options": {
+        "A": "Regular",
+        "B": "Frequent",
+        "C": "Occasional",
+        "D": "Annual"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the best definition of 'investigate':",
+      "options": {
+        "A": "To look for a specific item",
+        "B": "To examine systematically to determine facts",
+        "C": "To create a detailed plan",
+        "D": "To solve a complex problem"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "The word 'session' is closest in meaning to:",
+      "options": {
+        "A": "Conference",
+        "B": "Meeting",
+        "C": "Period",
+        "D": "Appointment"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "In the sentence 'The manager needs to schedule a meeting for next week,' the word 'schedule' means:",
+      "options": {
+        "A": "Organize",
+        "B": "Plan",
+        "C": "Arrange for a specific time",
+        "D": "Record"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Choose the best definition of 'arrangement':",
+      "options": {
+        "A": "A plan or preparation",
+        "B": "A formal agreement",
+        "C": "A system of organization",
+        "D": "A musical composition"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "The word 'regulate' is most similar to:",
+      "options": {
+        "A": "Manage",
+        "B": "Control",
+        "C": "Supervise",
+        "D": "Govern"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Which sentence uses 'internal' correctly?",
+      "options": {
+        "A": "The company faced internal problems with its computer systems.",
+        "B": "They discussed the internal during the meeting.",
+        "C": "The workers were internal about the new policies.",
+        "D": "She has an internal for classical music."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Select the best definition for 'accompany':",
+      "options": {
+        "A": "To travel with someone",
+        "B": "To go along with someone or something",
+        "C": "To guide someone to a destination",
+        "D": "To follow behind someone"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "In the context 'She is a prominent researcher in her field,' the word 'prominent' means:",
+      "options": {
+        "A": "Wealthy",
+        "B": "Intelligent",
+        "C": "Well-known and important",
+        "D": "Experienced"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Which definition best matches the word 'rational'?",
+      "options": {
+        "A": "Based on reason rather than emotions",
+        "B": "Carefully planned and organized",
+        "C": "Practical and realistic",
+        "D": "Intelligent and educated"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Choose the best definition of 'assistance':",
+      "options": {
+        "A": "Guidance provided by an expert",
+        "B": "Financial support",
+        "C": "Help or support given to someone",
+        "D": "A formal request for help"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "In the sentence 'The facilities were adequate for our needs,' the word 'adequate' means:",
+      "options": {
+        "A": "Excellent",
+        "B": "Sufficient",
+        "C": "Modern",
+        "D": "Appropriate"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, women's historical contributions have been:",
+      "options": {
+        "A": "Nonexistent in most societies",
+        "B": "Limited to domestic duties only",
+        "C": "Substantial but often underrepresented",
+        "D": "Equal to men's contributions"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following was a significant achievement of the women's movement in the 19th century?",
+      "options": {
+        "A": "Achieving complete gender equality",
+        "B": "Gaining the right to vote in most countries",
+        "C": "Eliminating all barriers to women's education",
+        "D": "Establishing equal pay for equal work"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to the passage, what effect did the World Wars have on women's roles?",
+      "options": {
+        "A": "They permanently established women in military positions",
+        "B": "They had no significant impact on women's work",
+        "C": "They temporarily opened industrial and military support positions to women",
+        "D": "They caused women to focus exclusively on domestic duties"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "The passage suggests that in contemporary society:",
+      "options": {
+        "A": "Gender parity has been achieved in all fields",
+        "B": "Women's contributions receive more recognition than in the past, but challenges remain",
+        "C": "Women no longer face any form of discrimination",
+        "D": "Women's roles are still primarily limited to traditional spheres"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "The word 'elusive' in paragraph 4 is closest in meaning to:",
+      "options": {
+        "A": "Difficult to achieve",
+        "B": "Completely impossible",
+        "C": "Easily attainable",
+        "D": "Unnecessary"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to paragraph 5, what is a benefit of greater gender equality?",
+      "options": {
+        "A": "Reduced economic growth",
+        "B": "Lower innovation rates",
+        "C": "More prosperous and peaceful communities",
+        "D": "Decreased educational opportunities"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "The main purpose of this passage is to:",
+      "options": {
+        "A": "Argue that women are superior to men",
+        "B": "Provide an overview of how women's roles have evolved throughout history",
+        "C": "Criticize societies that limit women's opportunities",
+        "D": "Compare women's rights across different cultures"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The passage organizes information primarily by:",
+      "options": {
+        "A": "Comparing different regions of the world",
+        "B": "Contrasting opposing viewpoints",
+        "C": "Presenting a chronological progression",
+        "D": "Outlining a problem and various solutions"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Which of the following statements would the author of the passage most likely agree with?",
+      "options": {
+        "A": "Women's historical contributions should be ignored in favor of focusing on the future",
+        "B": "Gender equality has been fully achieved in most developed countries",
+        "C": "Recognizing women's historical contributions is important for future progress",
+        "D": "Women's primary value to society is in their traditional roles"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "Which time period does the passage identify as bringing 'unprecedented changes' to women's roles?",
+      "options": {
+        "A": "The 18th century",
+        "B": "The 19th century",
+        "C": "The 20th century",
+        "D": "The 21st century"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
