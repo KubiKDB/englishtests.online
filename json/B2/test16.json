@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Beneath the Earth's surface lies a hidden realm of extraordinary landscapes that have captivated explorers and scientists for centuries. Cave systems and underground formations represent some of the planet's most unique and scientifically valuable environments. These subterranean worlds, which have developed over millions of years through complex geological processes, offer crucial insights into Earth's history while presenting distinctive ecosystems that have evolved in isolation from the surface world.<br><br>(2) The formation of caves typically begins with water's interaction with soluble rock, primarily limestone. As slightly acidic rainwater percolates through soil, it absorbs carbon dioxide, creating a weak carbonic acid solution that gradually dissolves the limestone along cracks and fissures. This slow but persistent process, known as karstification, eventually creates elaborate networks of passages, chambers, and vertical shafts. Different types of caves exist worldwide, including solution caves formed by dissolution, lava tubes created by volcanic activity, and sea caves sculpted by wave action along coastlines.<br><br>(3) Underground formations within these cave systems often display remarkable diversity and beauty. Stalactites descend from cave ceilings like stone icicles, while stalagmites rise from the floor as water drops deposit minerals over thousands of years. When these formations meet, they create columns that seem to support the cave's ceiling. Other distinctive features include flowstones, which appear as frozen waterfalls of rock; helictites that defy gravity by growing in seemingly impossible directions; and delicate crystal formations such as aragonite flowers and gypsum needles. These formations not only create breathtaking scenery but also serve as valuable records of past climate conditions on Earth.<br><br>(4) Cave ecosystems represent some of the most specialized and vulnerable biological communities on the planet. The absence of light has led to remarkable evolutionary adaptations, with many cave-dwelling species developing reduced or absent eyes, heightened non-visual senses, and pale or transparent bodies due to lack of pigmentation. Troglobites, organisms that live exclusively in caves, often exhibit slowed metabolism and extended lifespans compared to their surface relatives. These delicately balanced ecosystems typically depend on limited energy sources, primarily organic material washed in from the surface or brought in by animals like bats that move between underground and surface environments.<br><br>(5) The study of subterranean worlds, speleology, combines elements of geology, hydrology, biology, and archaeology. Modern speleologists use advanced technologies such as LiDAR scanning and DNA analysis alongside traditional exploration techniques to map and understand these complex systems. Beyond their scientific value, caves hold cultural significance across human history, serving as shelters, ceremonial spaces, and artistic canvases for prehistoric peoples. Today, many cave systems face threats from pollution, climate change, and excessive tourism, making conservation efforts increasingly vital. Protecting these underground landscapes requires understanding their formation, ecological significance, and vulnerability to human impact.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct form to complete the sentence: 'If she _____ harder, she would have passed the exam.'",
+      "options": {
+        "A": "studied",
+        "B": "studies",
+        "C": "had studied",
+        "D": "would study"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the grammatically correct sentence:",
+      "options": {
+        "A": "Neither the teachers nor the principal were informed about the changes.",
+        "B": "Neither the teachers nor the principal was informed about the changes.",
+        "C": "Neither the teachers nor the principal have been informed about the changes.",
+        "D": "Neither the teachers nor the principal has been informed about the changes."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which form correctly completes the sentence? 'I _____ for three hours before taking a break.'",
+      "options": {
+        "A": "was working",
+        "B": "had been working",
+        "C": "have worked",
+        "D": "worked"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct passive form: 'Someone will deliver the package tomorrow.'",
+      "options": {
+        "A": "The package delivers tomorrow.",
+        "B": "The package will deliver tomorrow.",
+        "C": "The package will be delivered tomorrow.",
+        "D": "The package is delivered tomorrow."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Select the sentence with correct subject-verb agreement:",
+      "options": {
+        "A": "The committee have made their final decision.",
+        "B": "The committee has made their final decision.",
+        "C": "The committee have made its final decision.",
+        "D": "The committee has made its final decision."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which sentence contains a grammatical error?",
+      "options": {
+        "A": "She's one of the scientists who are researching climate change.",
+        "B": "He's one of the doctors who has treated COVID-19 patients.",
+        "C": "They're one of the companies that have international offices.",
+        "D": "We're one of the teams that were selected for the competition."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct form: 'I wish I _____ to the party last night.'",
+      "options": {
+        "A": "went",
+        "B": "had gone",
+        "C": "have gone",
+        "D": "would go"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the correct relative clause: 'The woman _____ spoke at the conference is a renowned scientist.'",
+      "options": {
+        "A": "which",
+        "B": "whose",
+        "C": "whom",
+        "D": "who"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence uses articles correctly?",
+      "options": {
+        "A": "She lives in the United Kingdom and works as engineer.",
+        "B": "She lives in United Kingdom and works as an engineer.",
+        "C": "She lives in the United Kingdom and works as an engineer.",
+        "D": "She lives in United Kingdom and works as the engineer."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the grammatically correct sentence:",
+      "options": {
+        "A": "Despite of the rain, they continued with the outdoor event.",
+        "B": "Despite the rain, they continued with the outdoor event.",
+        "C": "Despite that it was raining, they continued with the outdoor event.",
+        "D": "Despite it rained, they continued with the outdoor event."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Select the sentence with the correct use of the infinitive:",
+      "options": {
+        "A": "She advised him going to the doctor.",
+        "B": "She advised him to go to the doctor.",
+        "C": "She advised him that he goes to the doctor.",
+        "D": "She advised him go to the doctor."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence uses the correct preposition?",
+      "options": {
+        "A": "She has been studying at this university since three years.",
+        "B": "She has been studying at this university for three years.",
+        "C": "She has been studying at this university during three years.",
+        "D": "She has been studying at this university by three years."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct reported speech: 'I will call you tomorrow,' she said.",
+      "options": {
+        "A": "She said that she will call me tomorrow.",
+        "B": "She said that she would call me tomorrow.",
+        "C": "She said that she would call me the next day.",
+        "D": "She said that she will call me the next day."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Select the sentence with the correct form of the gerund:",
+      "options": {
+        "A": "She enjoys to swim in the ocean.",
+        "B": "She enjoys swimming in the ocean.",
+        "C": "She enjoys swim in the ocean.",
+        "D": "She enjoys that she swims in the ocean."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Which sentence contains a modal verb used correctly?",
+      "options": {
+        "A": "You mustn't be tired after such a long journey.",
+        "B": "You can't be tired after such a long journey.",
+        "C": "You shouldn't be tired after such a long journey.",
+        "D": "You may not be tired after such a long journey."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the appropriate phrasal verb to complete this sentence: 'We need to _____ a solution before the deadline.'",
+      "options": {
+        "A": "come up with",
+        "B": "come across",
+        "C": "come around to",
+        "D": "come down with"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the most appropriate word to complete the sentence: 'The team worked well under pressure and _____ all the challenges successfully.'",
+      "options": {
+        "A": "overcame",
+        "B": "overwhelmed",
+        "C": "overlooked",
+        "D": "overtook"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct collocation: 'The government needs to _____ immediate action to address climate change.'",
+      "options": {
+        "A": "do",
+        "B": "make",
+        "C": "take",
+        "D": "have"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Which expression correctly completes the sentence? 'I'd rather you _____ tell anyone about our conversation.'",
+      "options": {
+        "A": "don't",
+        "B": "didn't",
+        "C": "won't",
+        "D": "not"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the appropriate idiom to complete the sentence: 'After three interviews, she finally got the job and was _____ about it.'",
+      "options": {
+        "A": "over the moon",
+        "B": "under the weather",
+        "C": "in the red",
+        "D": "on the fence"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the correct linking expression: 'The flight was delayed; _____, we missed our connection.'",
+      "options": {
+        "A": "moreover",
+        "B": "nevertheless",
+        "C": "consequently",
+        "D": "meanwhile"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Which word best completes this sentence? 'She has a very _____ schedule and hardly has any free time.'",
+      "options": {
+        "A": "busy",
+        "B": "packed",
+        "C": "full",
+        "D": "heavy"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the correct expression to complete the sentence: 'The company decided to _____ the launch of their new product due to technical issues.'",
+      "options": {
+        "A": "put away",
+        "B": "put down",
+        "C": "put off",
+        "D": "put out"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the appropriate expression: 'After careful consideration, I've decided to _____ the job offer.'",
+      "options": {
+        "A": "take on",
+        "B": "take up",
+        "C": "take after",
+        "D": "take in"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Which phrase best completes the sentence? 'The manager was impressed by her ability to work _____ pressure.'",
+      "options": {
+        "A": "in",
+        "B": "with",
+        "C": "under",
+        "D": "through"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What is the correct definition of 'councillor'?",
+      "options": {
+        "A": "A person who gives professional advice",
+        "B": "An elected member of a local government",
+        "C": "Someone who manages a large company",
+        "D": "A person who works as a lawyer"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Which sentence uses 'preservation' correctly?",
+      "options": {
+        "A": "The company made a preservation to expand its operations.",
+        "B": "They built a preservation in the center of the city.",
+        "C": "The preservation of historical buildings is important for cultural heritage.",
+        "D": "She received a preservation from her boss last week."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What does 'instruction' mean in the following sentence? 'The new employees received detailed instruction on how to use the equipment.'",
+      "options": {
+        "A": "A formal order",
+        "B": "Teaching or training",
+        "C": "A written manual",
+        "D": "A verbal warning"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which of the following is the best definition of 'influential'?",
+      "options": {
+        "A": "Having the power to influence or affect someone's actions or opinions",
+        "B": "Being financially successful",
+        "C": "Physically strong or imposing",
+        "D": "Speaking with authority and conviction"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "In which sentence is 'suggestion' used correctly?",
+      "options": {
+        "A": "The company made a suggestion of $10,000 to the charity.",
+        "B": "Her suggestion to improve the process was implemented by management.",
+        "C": "They built a new suggestion in the industrial park.",
+        "D": "The committee approved the suggestion of the new road."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "What is the meaning of 'priority' in the sentence 'Healthcare and education should be the government's top priorities'?",
+      "options": {
+        "A": "Something that is less important than other things",
+        "B": "Something that is dealt with or given attention before other things",
+        "C": "A legal requirement or obligation",
+        "D": "A temporary solution to a problem"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Which sentence uses 'impression' correctly?",
+      "options": {
+        "A": "The company made a new impression last year.",
+        "B": "His first impression of the city was very positive.",
+        "C": "They built an impression near the river.",
+        "D": "She received an impression from her colleague."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "What does 'negotiation' mean in the following context? 'After months of negotiation, the two companies finally reached an agreement.'",
+      "options": {
+        "A": "A formal investigation",
+        "B": "A legal dispute",
+        "C": "Discussion aimed at reaching an agreement",
+        "D": "A competitive presentation"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Which of the following best defines 'discrimination'?",
+      "options": {
+        "A": "The ability to recognize differences between things",
+        "B": "Unfair treatment of people based on prejudice",
+        "C": "The process of making difficult decisions",
+        "D": "The act of praising someone's achievements"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "In which sentence is 'variety' used correctly?",
+      "options": {
+        "A": "The store offers a wide variety of products.",
+        "B": "She made a variety about her future plans.",
+        "C": "They built a new variety in the shopping center.",
+        "D": "He received a variety from his manager."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What is the correct definition of 'revolution'?",
+      "options": {
+        "A": "A gradual change over a long period",
+        "B": "A forcible overthrow of a government or social order in favor of a new system",
+        "C": "A formal agreement between countries",
+        "D": "A scientific theory that has been proven correct"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Which sentence uses 'genuine' correctly?",
+      "options": {
+        "A": "The company announced a genuine increase in prices.",
+        "B": "They built a genuine facility for research and development.",
+        "C": "Her concerns about the project were genuine and well-founded.",
+        "D": "The committee made a genuine about the new policy."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "What does 'motivation' mean in the following sentence? 'Financial gain was not his primary motivation for starting the business.'",
+      "options": {
+        "A": "A reason or reasons for acting in a particular way",
+        "B": "A formal qualification or degree",
+        "C": "A feeling of disappointment or frustration",
+        "D": "A legal obligation or requirement"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "In which sentence is 'reduction' used correctly?",
+      "options": {
+        "A": "The company made a reduction to expand its operations.",
+        "B": "There has been a significant reduction in air pollution over the last decade.",
+        "C": "They received a reduction from the government.",
+        "D": "She built a reduction in her garden."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "What is the best definition of 'calculation'?",
+      "options": {
+        "A": "A mathematical determination of quantity or number",
+        "B": "A formal request or application",
+        "C": "A legal document or certificate",
+        "D": "A verbal explanation or description"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what makes subterranean worlds scientifically valuable?",
+      "options": {
+        "A": "They are completely inaccessible to humans",
+        "B": "They provide insights into Earth's history",
+        "C": "They are the most beautiful landscapes on Earth",
+        "D": "They contain valuable mineral deposits"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "The term 'karstification' in paragraph 2 refers to:",
+      "options": {
+        "A": "The formation of lava tubes through volcanic activity",
+        "B": "The creation of sea caves through wave action",
+        "C": "The process of limestone dissolution by acidic water",
+        "D": "The mapping of cave systems by scientists"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, which of the following is NOT mentioned as a type of cave formation?",
+      "options": {
+        "A": "Stalactites",
+        "B": "Stalagmites",
+        "C": "Flowstones",
+        "D": "Sandstone arches"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "The word 'percolates' in paragraph 2 is closest in meaning to:",
+      "options": {
+        "A": "evaporates",
+        "B": "filters or seeps gradually",
+        "C": "moves quickly",
+        "D": "dissolves completely"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Based on paragraph 4, which adaptation is typical of cave-dwelling species?",
+      "options": {
+        "A": "Enhanced visual abilities",
+        "B": "Reduced or absent eyes",
+        "C": "Darker pigmentation",
+        "D": "Shorter lifespans"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to paragraph 4, what are the main sources of energy in cave ecosystems?",
+      "options": {
+        "A": "Photosynthesis from specialized plants",
+        "B": "Organic material from the surface and animals like bats",
+        "C": "Minerals dissolved in groundwater",
+        "D": "Thermal energy from the Earth's core"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to paragraph 5, which fields of study does speleology combine?",
+      "options": {
+        "A": "Geology, hydrology, biology, and archaeology",
+        "B": "Chemistry, physics, astronomy, and medicine",
+        "C": "Anthropology, psychology, ecology, and geography",
+        "D": "Paleontology, oceanography, meteorology, and botany"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "Which of the following threats to cave systems is mentioned in paragraph 5?",
+      "options": {
+        "A": "Mining for rare minerals",
+        "B": "Excessive tourism",
+        "C": "Underground construction",
+        "D": "Military activities"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What can be inferred about the author's view on cave conservation?",
+      "options": {
+        "A": "It is unnecessary as caves are naturally protected",
+        "B": "It is important because caves are vulnerable to human impact",
+        "C": "It should focus exclusively on scientific research",
+        "D": "It is less important than the economic benefits of tourism"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "According to the passage, caves have served humans throughout history as:",
+      "options": {
+        "A": "Sources of precious metals",
+        "B": "Agricultural sites",
+        "C": "Shelters and ceremonial spaces",
+        "D": "Transportation networks"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
