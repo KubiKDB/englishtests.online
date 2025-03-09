@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The history of technology is fundamentally intertwined with the evolution of human civilization itself. From the creation of primitive stone tools to the development of artificial intelligence, technological innovations have consistently served as catalysts for profound social and economic transformations. Each major technological breakthrough has reshaped not only how humans interact with their environment, but also how they relate to one another, organize their societies, and conceptualize their place in the world.<br><br>(2) The Agricultural Revolution, beginning around 10,000 BCE, represents one of the earliest examples of how technological change drives societal transformation. The development of farming implements, irrigation systems, and techniques for animal domestication allowed humans to transition from nomadic hunter-gatherer lifestyles to settled agricultural communities. This shift led to population growth, the emergence of specialized labor, and ultimately the rise of cities and complex civilizations. The subsequent innovations in metallurgy, particularly bronze and iron working, further accelerated social stratification and economic specialization.<br><br>(3) The Industrial Revolution of the 18th and 19th centuries marked another pivotal moment when technological advancement fundamentally altered human society. The invention of the steam engine, mechanized textile production, and improved manufacturing techniques generated unprecedented economic growth while simultaneously creating new social challenges. Urban centers expanded rapidly as workers migrated from rural areas to factory towns, creating both opportunities and hardships. New transportation technologies—from railways to steamships—compressed time and space, connecting previously isolated regions and facilitating global trade networks that remain foundational to the modern economy.<br><br>(4) The 20th century witnessed the rise of information technology, beginning with rudimentary computing machines and culminating in the digital revolution that continues to reshape contemporary society. The development of semiconductors, personal computers, and eventually the internet has democratized access to information while creating entirely new economic sectors. Digital technologies have disrupted traditional industries, altered patterns of social interaction, and even influenced political processes through the rapid dissemination of ideas across global networks. These changes have occurred at an accelerating pace, with innovations being adopted more quickly than in previous technological revolutions.<br><br>(5) Throughout history, technological change has generated both enthusiasm and apprehension, often simultaneously. While innovations typically emerge to address specific human needs or desires, they inevitably produce unintended consequences that can be difficult to anticipate. Today's debates about automation, artificial intelligence, and biotechnology echo historical concerns about how technological progress affects employment, social equality, and human autonomy. Understanding this historical pattern helps contextualize current technological developments and emphasizes the importance of thoughtful governance as societies continue to navigate the complex relationship between technological innovation and human welfare.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which sentence has the correct subject-verb agreement?",
+      "options": {
+        "A": "The committee members was unable to reach a consensus.",
+        "B": "Each of the students have their own assigned project.",
+        "C": "Neither the teacher nor the students were prepared for the exam.",
+        "D": "The number of participants have increased significantly."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the sentence with the correct verb tense usage:",
+      "options": {
+        "A": "By the time we arrived, the lecture already started.",
+        "B": "I live in this city since 2010.",
+        "C": "She has been studying for three hours when I called.",
+        "D": "They had been waiting for two hours before the bus finally arrived."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the grammatically correct sentence:",
+      "options": {
+        "A": "The woman which won the competition is my neighbor.",
+        "B": "The woman who won the competition is my neighbor.",
+        "C": "The woman whom won the competition is my neighbor.",
+        "D": "The woman whose won the competition is my neighbor."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence contains a grammatical error?",
+      "options": {
+        "A": "If I had known about the meeting, I would have attended it.",
+        "B": "Unless you study harder, you won't pass the exam.",
+        "C": "I wish I would have taken his advice.",
+        "D": "Had she arrived earlier, she might have met the director."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the sentence with the correct use of articles:",
+      "options": {
+        "A": "She plays violin in orchestra every Saturday.",
+        "B": "She plays a violin in an orchestra every Saturday.",
+        "C": "She plays the violin in the orchestra every Saturday.",
+        "D": "She plays a violin in the orchestra every Saturday."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the sentence with the correct use of comparative forms:",
+      "options": {
+        "A": "This book is more interesting than any book I've read.",
+        "B": "This book is more interesting than any other book I've read.",
+        "C": "This book is the most interesting than all the books I've read.",
+        "D": "This book is more interesting than most books I've read before."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which sentence demonstrates correct passive voice construction?",
+      "options": {
+        "A": "The report will finish by the research team next week.",
+        "B": "The research team will be finished the report next week.",
+        "C": "The report will be finished by the research team next week.",
+        "D": "The research team will have been finished the report next week."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the sentence with the correct use of modals:",
+      "options": {
+        "A": "You must to submit your application before Friday.",
+        "B": "She can being able to speak five languages fluently.",
+        "C": "They might not have received our message yet.",
+        "D": "He should to consider all the options carefully."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Select the sentence with correct pronoun usage:",
+      "options": {
+        "A": "Between you and I, the project might not be completed on time.",
+        "B": "The teacher gave John and I extra homework.",
+        "C": "He asked my friend and I to join the committee.",
+        "D": "The manager will discuss the proposal with my colleague and me."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence uses the gerund correctly?",
+      "options": {
+        "A": "He avoided to speak in public whenever possible.",
+        "B": "They enjoy to travel to new countries every summer.",
+        "C": "She suggested to meet at the café downtown.",
+        "D": "We considered postponing the meeting until next week."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the sentence with the correct use of prepositions:",
+      "options": {
+        "A": "He has been working at this project since last month.",
+        "B": "We arrived to the conference center at 9 AM.",
+        "C": "She's been living in Paris for three years.",
+        "D": "The book is comprised from ten chapters."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the sentence with the correct infinitive form:",
+      "options": {
+        "A": "The professor expected the students completing the assignment by Friday.",
+        "B": "She helped me solving the complex math problem.",
+        "C": "The company encouraged its employees to participate in the training program.",
+        "D": "They made us to wait outside for nearly an hour."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Which sentence has the correct subject-verb inversion?",
+      "options": {
+        "A": "Rarely I have seen such an impressive performance.",
+        "B": "Not only he failed the exam, but he also missed the makeup test.",
+        "C": "Never before have we witnessed such dramatic climate changes.",
+        "D": "Hardly she could believe the news when she heard it."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the sentence with the correct use of reported speech:",
+      "options": {
+        "A": "He said that he will attend the meeting tomorrow.",
+        "B": "She told me that she is working on a new project.",
+        "C": "They announced that the train had been delayed for three hours.",
+        "D": "The professor explained that the earth revolves around the sun."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the sentence with the correct use of the past perfect tense:",
+      "options": {
+        "A": "After she has finished her exam, she went to celebrate with friends.",
+        "B": "By the time we reached the theater, the movie had already started.",
+        "C": "They have already left when we arrived at the party.",
+        "D": "The train already departed before we got to the station."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the word that best completes the sentence: The hotel staff did their best to _____ the needs of all guests during the international conference.",
+      "options": {
+        "A": "accommodate",
+        "B": "address",
+        "C": "approach",
+        "D": "advance"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 17,
+      "question": "Select the best definition of 'nonetheless' as used in this sentence: The hike was extremely challenging; nonetheless, all members of the group completed it successfully.",
+      "options": {
+        "A": "as a result",
+        "B": "in contrast",
+        "C": "in addition",
+        "D": "nevertheless"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 18,
+      "question": "Choose the word that best completes the sentence: The researchers conducted a _____ study that examined all aspects of the problem.",
+      "options": {
+        "A": "profound",
+        "B": "comprehensive",
+        "C": "extensive",
+        "D": "thorough"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 19,
+      "question": "Select the best synonym for 'merit' in this context: His proposal has considerable merit and deserves serious consideration.",
+      "options": {
+        "A": "value",
+        "B": "advantage",
+        "C": "quality",
+        "D": "benefit"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 20,
+      "question": "Choose the word that best completes the sentence: Spreading false information can seriously _____ public trust in scientific institutions.",
+      "options": {
+        "A": "decrease",
+        "B": "reduce",
+        "C": "undermine",
+        "D": "minimize"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 21,
+      "question": "Select the correct meaning of 'profound' as used in this sentence: The discovery had a profound impact on our understanding of human evolution.",
+      "options": {
+        "A": "temporary",
+        "B": "deep",
+        "C": "immediate",
+        "D": "widespread"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 22,
+      "question": "Choose the word that best completes the sentence: The chef developed a new _____ for preparing traditional dishes with modern ingredients.",
+      "options": {
+        "A": "technique",
+        "B": "ability",
+        "C": "skill",
+        "D": "methodology"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 23,
+      "question": "Select the best definition of 'genuine' as used in this sentence: His concern for environmental issues is genuine and reflected in his lifestyle choices.",
+      "options": {
+        "A": "intense",
+        "B": "authentic",
+        "C": "serious",
+        "D": "evident"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 24,
+      "question": "Choose the word that best completes the sentence: The government launched a new _____ to reduce plastic waste in coastal areas.",
+      "options": {
+        "A": "campaign",
+        "B": "initiative",
+        "C": "program",
+        "D": "project"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 25,
+      "question": "Select the correct meaning of 'subsequent' in this context: The initial experiment failed, but subsequent attempts were successful.",
+      "options": {
+        "A": "following",
+        "B": "previous",
+        "C": "simultaneous",
+        "D": "alternative"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 26,
+      "question": "Choose the word that best completes the sentence: The team will _____ in the conference room to discuss the quarterly results.",
+      "options": {
+        "A": "gather",
+        "B": "collect",
+        "C": "congregate",
+        "D": "assemble"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Select the best definition of 'institute' as used in this sentence: The university decided to institute a new policy regarding student attendance.",
+      "options": {
+        "A": "establish",
+        "B": "suggest",
+        "C": "investigate",
+        "D": "consider"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Choose the word that best completes the sentence: It is important to select the _____ tools for each specific task.",
+      "options": {
+        "A": "suitable",
+        "B": "exact",
+        "C": "appropriate",
+        "D": "correct"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Select the correct meaning of 'emphasize' in this context: The speaker used statistics to emphasize the importance of renewable energy.",
+      "options": {
+        "A": "mention",
+        "B": "discuss",
+        "C": "highlight",
+        "D": "introduce"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the word that best completes the sentence: Although it was a _____ issue, it still needed to be addressed promptly.",
+      "options": {
+        "A": "major",
+        "B": "significant",
+        "C": "critical",
+        "D": "minor"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Choose the correct phrasal verb: The meeting has been _____ until next week due to scheduling conflicts.",
+      "options": {
+        "A": "put off",
+        "B": "put down",
+        "C": "put up",
+        "D": "put away"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 32,
+      "question": "Select the correct collocation: The study aims to _____ light on the causes of this phenomenon.",
+      "options": {
+        "A": "make",
+        "B": "throw",
+        "C": "shed",
+        "D": "cast"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 33,
+      "question": "Choose the correct idiomatic expression: After working on the problem for hours, the solution finally _____ to me.",
+      "options": {
+        "A": "came across",
+        "B": "came about",
+        "C": "came up",
+        "D": "came to light"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 34,
+      "question": "Select the correct fixed expression: The project was completed _____ time and _____ budget.",
+      "options": {
+        "A": "in, in",
+        "B": "on, in",
+        "C": "at, within",
+        "D": "during, under"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 35,
+      "question": "Choose the correct linking expression: The company has faced several challenges; _____, it has managed to increase its market share.",
+      "options": {
+        "A": "moreover",
+        "B": "therefore",
+        "C": "nevertheless",
+        "D": "subsequently"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 36,
+      "question": "Select the sentence with the correct use of a reduced relative clause:",
+      "options": {
+        "A": "The man speaking to the professor is my uncle.",
+        "B": "The man which speaking to the professor is my uncle.",
+        "C": "The man spoken to the professor is my uncle.",
+        "D": "The man speaks to the professor is my uncle."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 37,
+      "question": "Choose the correct expression for giving an example:",
+      "options": {
+        "A": "In contrast",
+        "B": "For instance",
+        "C": "On the contrary",
+        "D": "As a result"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 38,
+      "question": "Select the correct expression for making a recommendation: _____ consider implementing a more flexible work schedule.",
+      "options": {
+        "A": "It would be a good idea to",
+        "B": "I think about",
+        "C": "You may want",
+        "D": "Why not to"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 39,
+      "question": "Choose the sentence with the correct use of a cleft structure:",
+      "options": {
+        "A": "It is in 2008 when the financial crisis began.",
+        "B": "It was in 2008 that the financial crisis began.",
+        "C": "It was 2008 when the financial crisis began.",
+        "D": "It is 2008 that the financial crisis began."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 40,
+      "question": "Select the sentence with the correct use of inversion for emphasis:",
+      "options": {
+        "A": "Only then I realized the seriousness of the situation.",
+        "B": "Only then did I realize the seriousness of the situation.",
+        "C": "Only then I did realize the seriousness of the situation.",
+        "D": "Only then realized I the seriousness of the situation."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, technological innovations have primarily served as:",
+      "options": {
+        "A": "Barriers to human progress",
+        "B": "Catalysts for social and economic transformations",
+        "C": "Tools for military conquest",
+        "D": "Methods for environmental control"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "The word 'pivotal' in paragraph 3 is closest in meaning to:",
+      "options": {
+        "A": "controversial",
+        "B": "unique",
+        "C": "crucial",
+        "D": "expected"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to the passage, what was a significant consequence of the Agricultural Revolution?",
+      "options": {
+        "A": "Decreased population growth",
+        "B": "The decline of metallurgy",
+        "C": "The rise of complex civilizations",
+        "D": "Reduced social stratification"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Which of the following is NOT mentioned as an effect of the Industrial Revolution?",
+      "options": {
+        "A": "Urban expansion",
+        "B": "Economic growth",
+        "C": "Global trade networks",
+        "D": "Reduction in social challenges"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to paragraph 4, what has been a distinctive characteristic of the digital revolution compared to previous technological revolutions?",
+      "options": {
+        "A": "Less disruption to traditional industries",
+        "B": "More rapid adoption of innovations",
+        "C": "Lower impact on social interaction",
+        "D": "Less democratization of information"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "The phrase 'compressed time and space' in paragraph 3 most likely refers to:",
+      "options": {
+        "A": "Physical contraction of the universe",
+        "B": "Reduction in working hours",
+        "C": "Decreased travel and communication times",
+        "D": "Smaller factory spaces"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to the passage, what has been a consistent historical response to technological change?",
+      "options": {
+        "A": "Uniform enthusiasm",
+        "B": "Complete rejection",
+        "C": "Mixed feelings of enthusiasm and apprehension",
+        "D": "Immediate regulation"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The author suggests that understanding the historical pattern of technological change helps with:",
+      "options": {
+        "A": "Preventing technological progress",
+        "B": "Eliminating unintended consequences",
+        "C": "Contextualizing current developments",
+        "D": "Promoting specific innovations"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Based on the passage, which statement best describes the relationship between technology and human society?",
+      "options": {
+        "A": "Technology develops independently of human needs",
+        "B": "Technology and society evolve in separate spheres",
+        "C": "Technology primarily serves to maintain social stability",
+        "D": "Technology and societal change are deeply interconnected"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "The main purpose of this passage is to:",
+      "options": {
+        "A": "Argue against technological determinism",
+        "B": "Provide a historical overview of how technology has driven social change",
+        "C": "Predict future technological developments",
+        "D": "Compare different technological revolutions"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
