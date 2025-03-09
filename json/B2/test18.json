@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Deserts and arid regions, covering approximately one-third of Earth's land surface, represent some of the most challenging environments for life. These regions are characterized by minimal precipitation, typically receiving less than 250 millimeters of rainfall annually, which creates harsh conditions where water conservation becomes essential for survival. Extreme temperature fluctuations, with scorching days often exceeding 40°C and nights plummeting below freezing in some deserts, further challenge the resilience of desert inhabitants. Despite these seemingly inhospitable conditions, a remarkable diversity of plant and animal species has evolved specialized adaptations to thrive in these harsh landscapes.<br><br>(2) Plants in arid environments have developed fascinating mechanisms to survive prolonged drought periods. Many desert plants, such as cacti and succulents, store water in specialized tissues and have reduced leaf surfaces to minimize water loss through transpiration. Some species have developed extensive root systems that can extend dozens of meters horizontally or vertically to access underground water sources. Others have adopted opportunistic life cycles, remaining dormant as seeds for years until brief rainy periods trigger rapid germination, flowering, and seed production—completing their entire life cycle within weeks before returning to dormancy.<br><br>(3) Animals inhabiting deserts face similar challenges and have evolved equally impressive adaptations. Many are nocturnal, emerging only during cooler night hours to conserve energy and moisture. Desert mammals often possess specialized kidneys that concentrate urine, reducing water loss, while reptiles have developed impermeable skin to prevent dehydration. Some species, like the desert tortoise, can store significant amounts of water in bladder-like structures, while others obtain sufficient moisture directly from their food. These physiological adaptations, combined with behavioral strategies, enable diverse animal communities to persist in environments where water scarcity would otherwise make survival impossible.<br><br>(4) Human populations have also developed innovative approaches to desert living throughout history. Ancient civilizations emerged along river valleys crossing arid regions, creating sophisticated irrigation systems that transformed desert margins into productive agricultural land. Traditional desert dwellers like the Bedouin developed nomadic lifestyles, moving seasonally to follow water sources and grazing opportunities. In modern times, technological advances have facilitated more permanent human settlements in deserts through groundwater extraction, water desalination, and efficient building designs that moderate extreme temperatures. However, these developments often come with environmental costs, as many desert ecosystems are surprisingly fragile and slow to recover from disturbance.<br><br>(5) Today, arid regions face unprecedented challenges due to climate change, which is exacerbating desertification—the process whereby productive land degrades into desert. Rising global temperatures are expanding desert boundaries and intensifying drought conditions in many regions. Meanwhile, growing human populations place increasing demands on limited water resources, often depleting ancient aquifers faster than they can naturally recharge. Effective management of these vulnerable ecosystems requires balancing human needs with conservation priorities, implementing sustainable agricultural practices, and developing technologies that enable more efficient water use. As we continue to learn from the remarkable adaptations of desert life, we may discover new approaches to addressing these challenges.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which verb form correctly completes the sentence? 'By the time they arrived at the oasis, the travelers _____ for three days.'",
+      "options": {
+        "A": "were traveling",
+        "B": "had been traveling",
+        "C": "have traveled",
+        "D": "travel"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct conditional form: 'If the rainfall patterns _____ as predicted, the desert regions would expand significantly.'",
+      "options": {
+        "A": "change",
+        "B": "will change",
+        "C": "changed",
+        "D": "changing"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the sentence with the correct use of articles: ",
+      "options": {
+        "A": "The Sahara is largest hot desert in world.",
+        "B": "Sahara is the largest hot desert in the world.",
+        "C": "The Sahara is the largest hot desert in the world.",
+        "D": "A Sahara is largest hot desert in the world."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct form of the reported speech: He said, 'I will visit the desert tomorrow.'",
+      "options": {
+        "A": "He said that he will visit the desert tomorrow.",
+        "B": "He said that he would visit the desert the next day.",
+        "C": "He said that he visited the desert tomorrow.",
+        "D": "He said that he will visit the desert the following day."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Identify the correct passive voice construction: 'Scientists _____ several new plant species in the Atacama Desert last year.'",
+      "options": {
+        "A": "discovered",
+        "B": "were discovering",
+        "C": "were discovered",
+        "D": "have been discovering"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Choose the correct preposition: 'The researchers are committed _____ finding solutions to water scarcity in arid regions.'",
+      "options": {
+        "A": "for",
+        "B": "with",
+        "C": "to",
+        "D": "on"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Select the correct relative pronoun: 'The ancient civilization, _____ once thrived in this desert, left remarkable ruins.'",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Identify the correct modal verb usage: 'Desert travelers _____ carry sufficient water supplies to prevent dehydration.'",
+      "options": {
+        "A": "might",
+        "B": "would",
+        "C": "could",
+        "D": "should"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct comparative form: 'The Gobi Desert is _____ than many people expect.'",
+      "options": {
+        "A": "more colder",
+        "B": "coldest",
+        "C": "more cold",
+        "D": "colder"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Select the correct gerund or infinitive form: 'Desert plants have adapted _____ with minimal water resources.'",
+      "options": {
+        "A": "surviving",
+        "B": "to survive",
+        "C": "for surviving",
+        "D": "survive"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct order of adjectives: 'They discovered a _____ cactus species during their expedition.'",
+      "options": {
+        "A": "rare small fascinating",
+        "B": "small fascinating rare",
+        "C": "fascinating small rare",
+        "D": "fascinating rare small"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Identify the sentence with correct subject-verb agreement:",
+      "options": {
+        "A": "A variety of desert animals is adapted to extreme conditions.",
+        "B": "A variety of desert animals are adapted to extreme conditions.",
+        "C": "The variety of desert animals are adapted to extreme conditions.",
+        "D": "Variety of desert animals is adapted to extreme conditions."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Select the correct future perfect form: 'By 2050, desert boundaries _____ significantly due to climate change.'",
+      "options": {
+        "A": "will expand",
+        "B": "will have expanded",
+        "C": "will be expanding",
+        "D": "will have been expanding"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct phrasal verb: 'Scientists hope to _____ new solutions to water conservation in arid regions.'",
+      "options": {
+        "A": "come up with",
+        "B": "look into",
+        "C": "get around",
+        "D": "put off"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Identify the correct quantifier usage: 'Despite harsh conditions, _____ species have adapted to life in the desert.'",
+      "options": {
+        "A": "much",
+        "B": "little",
+        "C": "a lot",
+        "D": "numerous"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the appropriate word to complete the idiom: 'The desert guide knew the terrain like the _____ of his hand.'",
+      "options": {
+        "A": "fingers",
+        "B": "palm",
+        "C": "back",
+        "D": "skin"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the correct collocation: 'The research team will _____ a comprehensive study of desert ecosystems.'",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "conduct",
+        "D": "perform"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the appropriate expression: 'The unexpected rainfall in the desert was a _____ from heaven for the local fauna.'",
+      "options": {
+        "A": "blessing",
+        "B": "miracle",
+        "C": "fortune",
+        "D": "luck"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Identify the correct meaning of the underlined idiom: 'Finding water in the desert can be like looking for a needle in a haystack.'",
+      "options": {
+        "A": "Searching for something small and valuable",
+        "B": "Searching for something that is very difficult to find",
+        "C": "Searching carefully with great attention",
+        "D": "Searching where others have failed"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the appropriate word to complete the fixed expression: 'The discovery of an underground aquifer was _____ and bounds better than their previous findings.'",
+      "options": {
+        "A": "jumps",
+        "B": "hops",
+        "C": "leaps",
+        "D": "skips"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the correct meaning of the underlined phrasal verb: 'The research findings on desert plants have come out in a prestigious journal.'",
+      "options": {
+        "A": "Been discovered",
+        "B": "Been published",
+        "C": "Been revealed",
+        "D": "Been recognized"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Identify the appropriate formal alternative to the underlined casual expression: 'The project to conserve desert habitats fell through due to funding issues.'",
+      "options": {
+        "A": "Was canceled",
+        "B": "Was postponed",
+        "C": "Collapsed",
+        "D": "Failed"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the correct expression to complete the sentence: 'The journalist wrote an article _____ light on the critical water shortage in desert communities.'",
+      "options": {
+        "A": "bringing",
+        "B": "shedding",
+        "C": "putting",
+        "D": "casting"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct word to complete the expression: 'Despite the challenges, the desert conservation project has finally gained _____.'",
+      "options": {
+        "A": "momentum",
+        "B": "speed",
+        "C": "pace",
+        "D": "velocity"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Identify the correct register for academic writing: 'The research on desert adaptations was _____.'",
+      "options": {
+        "A": "super interesting",
+        "B": "rather fascinating",
+        "C": "totally cool",
+        "D": "exceptionally significant"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the correct definition of 'emerge':",
+      "options": {
+        "A": "To appear or come out from somewhere",
+        "B": "To hide or conceal oneself",
+        "C": "To degrade or decline",
+        "D": "To merge or combine"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Select the word that best collocates with 'compensate':",
+      "options": {
+        "A": "problem",
+        "B": "loss",
+        "C": "situation",
+        "D": "moment"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Choose the correct usage of 'interpret':",
+      "options": {
+        "A": "The scientist will interpret the building for the new research center.",
+        "B": "The translator helped interpret the ancient desert inscriptions.",
+        "C": "They interpret the water to the remote village.",
+        "D": "She interpreted the desert by planting trees."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which sentence uses 'evident' correctly?",
+      "options": {
+        "A": "The researcher evidented his findings in a journal.",
+        "B": "It was evident that the desert ecosystem was changing rapidly.",
+        "C": "The desert plants were evidenting new adaptations.",
+        "D": "They evidented the data before publishing it."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Select the correct synonym for 'pursue' in the context: 'Scientists pursue answers to questions about desert adaptation.'",
+      "options": {
+        "A": "Ignore",
+        "B": "Chase",
+        "C": "Seek",
+        "D": "Abandon"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Choose the sentence that uses 'intervene' correctly:",
+      "options": {
+        "A": "The conservation group had to intervene to protect the endangered desert species.",
+        "B": "They intervened the results of the desert study.",
+        "C": "The researcher intervened a new species of cactus.",
+        "D": "Desert plants intervene more water than expected."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Which phrase correctly uses 'validate'?",
+      "options": {
+        "A": "Validate the desert landscape",
+        "B": "Validate the experimental results",
+        "C": "Validate the water across the desert",
+        "D": "Validate the cactus growth"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Select the correct usage of 'modify':",
+      "options": {
+        "A": "Scientists have modified their approach to studying desert ecosystems.",
+        "B": "The desert modified into an oasis naturally.",
+        "C": "They modified between different research sites.",
+        "D": "The research team modified to the new findings."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Choose the sentence that correctly uses 'persistent':",
+      "options": {
+        "A": "The desert flowers persistented despite the drought.",
+        "B": "The persistent drought has affected desert wildlife populations.",
+        "C": "Researchers have persistented new findings about desert adaptation.",
+        "D": "The cactus was persistenting water effectively."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Select the correct definition of 'simulate':",
+      "options": {
+        "A": "To simplify something complex",
+        "B": "To stimulate growth or development",
+        "C": "To reproduce the conditions or behavior of something",
+        "D": "To simultaneously perform multiple tasks"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Which phrase correctly uses 'facilitate'?",
+      "options": {
+        "A": "The new irrigation system will facilitate crop growth in arid regions.",
+        "B": "They facilitated to the desert environment.",
+        "C": "The cactus facilitates its spines for protection.",
+        "D": "Desert animals facilitate the extreme temperatures."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Choose the sentence that uses 'majority' correctly:",
+      "options": {
+        "A": "The majority climate in deserts is extremely dry.",
+        "B": "The scientists majoritied their research on cacti.",
+        "C": "The majority of desert plants have adaptations to conserve water.",
+        "D": "The desert temperature majoritied during summer months."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Select the correct usage of 'regulate':",
+      "options": {
+        "A": "Desert animals regulate with minimal water.",
+        "B": "The cactus regulates the desert ecosystem.",
+        "C": "Many desert plants can regulate their water consumption efficiently.",
+        "D": "Scientists regulate between different desert regions."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Choose the correct definition of 'encounter':",
+      "options": {
+        "A": "To avoid or evade something",
+        "B": "To meet or come across something unexpectedly",
+        "C": "To count or enumerate items",
+        "D": "To enter a specific location"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Which sentence uses 'diverse' correctly?",
+      "options": {
+        "A": "The research team diversed their approach to studying desert ecosystems.",
+        "B": "Despite harsh conditions, deserts support diverse plant and animal communities.",
+        "C": "The scientists were diversing their findings about desert adaptation.",
+        "D": "The desert landscape has been diversed by climate change."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, what percentage of Earth's land surface is covered by deserts and arid regions?",
+      "options": {
+        "A": "Approximately one-quarter",
+        "B": "Approximately one-third",
+        "C": "Approximately one-half",
+        "D": "Approximately two-thirds"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Based on the passage, which of the following is NOT mentioned as an adaptation of desert plants?",
+      "options": {
+        "A": "Storing water in specialized tissues",
+        "B": "Developing extensive root systems",
+        "C": "Reducing leaf surfaces",
+        "D": "Producing toxic compounds to deter herbivores"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, why are many desert animals nocturnal?",
+      "options": {
+        "A": "To hide from predators",
+        "B": "To find more abundant food sources",
+        "C": "To conserve energy and moisture",
+        "D": "To avoid competition with other species"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Which of the following human adaptations to desert living is NOT mentioned in the passage?",
+      "options": {
+        "A": "Creating irrigation systems",
+        "B": "Developing nomadic lifestyles",
+        "C": "Building underground dwellings",
+        "D": "Extracting groundwater"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "The passage suggests that modern human settlements in deserts:",
+      "options": {
+        "A": "Are impossible to sustain long-term",
+        "B": "Can have negative impacts on fragile desert ecosystems",
+        "C": "Are less efficient than traditional nomadic approaches",
+        "D": "Have completely solved water scarcity issues"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What does the passage identify as a key factor exacerbating desertification?",
+      "options": {
+        "A": "Reduced global rainfall",
+        "B": "Increased volcanic activity",
+        "C": "Climate change",
+        "D": "Soil acidification"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to the passage, what happens to aquifers in many arid regions?",
+      "options": {
+        "A": "They are being depleted faster than they can recharge",
+        "B": "They are increasing in volume due to conservation efforts",
+        "C": "They are becoming more saline over time",
+        "D": "They are shifting to deeper geological layers"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "Which statement best represents the author's perspective on managing desert ecosystems?",
+      "options": {
+        "A": "Human needs should take priority over conservation",
+        "B": "Desert regions should be left completely undisturbed",
+        "C": "A balance between human needs and conservation is necessary",
+        "D": "Technology alone can solve all desert management challenges"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What is the main purpose of paragraph 2?",
+      "options": {
+        "A": "To compare desert plants with those in other ecosystems",
+        "B": "To describe adaptive mechanisms of desert plants",
+        "C": "To explain why plant diversity is low in deserts",
+        "D": "To analyze the evolution of desert plant species"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "The author's tone in discussing desert ecosystems can best be described as:",
+      "options": {
+        "A": "Critical and pessimistic",
+        "B": "Informative and objective",
+        "C": "Sentimental and nostalgic",
+        "D": "Enthusiastic and promotional"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
