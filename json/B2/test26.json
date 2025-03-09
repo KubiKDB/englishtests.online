@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Digital nomadism, a lifestyle characterized by location-independent work facilitated by technology, has witnessed a significant surge in popularity over the past decade. This transformative trend is reshaping the conventional paradigms of work and travel, offering individuals unprecedented freedom and flexibility in their professional and personal lives.<br><br>(2) The rise of digital nomadism is inherently linked to advancements in technology and the increasing prevalence of remote work opportunities. The internet, cloud computing, and mobile communication tools have become indispensable instruments, enabling individuals to perform their jobs effectively from virtually anywhere with a stable connection. Conversely, traditional office-based employment models are being challenged as more companies recognize the viability and benefits of remote teams and distributed workforces.<br><br>(3) One of the most compelling aspects of digital nomadism is the comprehensive exposure it offers to diverse cultures and environments. Nomads deduce their career paths while immersing themselves in new societies, learning new languages, and experiencing different ways of life. This constant interaction with varied perspectives can foster personal growth, enhance adaptability, and broaden horizons in ways that traditional lifestyles often cannot facilitate.<br><br>(4) However, digital nomadism is not without its challenges. Establishing a rigorous work routine while navigating new time zones and cultural norms can be demanding. Issues such as visa regulations, access to reliable healthcare, and maintaining social connections can present significant hurdles.  Moreover, the perceived glamour of perpetual travel often belies the underlying need for discipline, financial planning, and a proactive approach to self-management to mitigate potential downsides.<br><br>(5) Despite these challenges, the plausible trajectory of digital nomadism suggests continued growth and evolution. As technology further refines remote work infrastructure and societal attitudes towards location independence become more accepting, digital nomadism is likely to become an increasingly mainstream and articulate career path. Understanding this evolving trend is crucial for businesses, policymakers, and individuals alike to navigate the future of work and embrace the opportunities it presents.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "By the time they finally reached the summit, the sun ______.",
+      "options": {
+        "A": "has set",
+        "B": "had set",
+        "C": "sets",
+        "D": "was setting"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Not only ______ the exam, but she also received the highest score in the class.",
+      "options": {
+        "A": "she passed",
+        "B": "did she pass",
+        "C": "she has passed",
+        "D": "had she passed"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "If she ______ harder last year, she might have gotten the promotion.",
+      "options": {
+        "A": "works",
+        "B": "worked",
+        "C": "had worked",
+        "D": "would work"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "The old house, ______ for years, was finally renovated last summer.",
+      "options": {
+        "A": "has been neglecting",
+        "B": "being neglected",
+        "C": "having neglected",
+        "D": "neglecting"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "It is essential that every student ______ the safety regulations before entering the laboratory.",
+      "options": {
+        "A": "will understand",
+        "B": "understands",
+        "C": "understand",
+        "D": "is understanding"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "______ popular belief, not all swans are white.",
+      "options": {
+        "A": "Contrary to",
+        "B": "Despite of",
+        "C": "Regardless",
+        "D": "Notwithstanding"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Having finished the marathon, ______ exhausted but triumphant.",
+      "options": {
+        "A": "he felt",
+        "B": "feeling",
+        "C": "to feel",
+        "D": "felt"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "They requested that the report ______ to the manager by Friday.",
+      "options": {
+        "A": "will submit",
+        "B": "is submitted",
+        "C": "be submitted",
+        "D": "submits"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Were it not for his timely intervention, the situation ______ much worse.",
+      "options": {
+        "A": "will become",
+        "B": "would become",
+        "C": "would have become",
+        "D": "becomes"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "The more you practice, ______ you will become at playing the piano.",
+      "options": {
+        "A": "better",
+        "B": "the better",
+        "C": "well",
+        "D": "good"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "She insisted ______ speaking to the manager herself.",
+      "options": {
+        "A": "on",
+        "B": "in",
+        "C": "at",
+        "D": "for"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Seldom ______ such a breathtaking view in my entire life.",
+      "options": {
+        "A": "I have seen",
+        "B": "I saw",
+        "C": "have I seen",
+        "D": "did I see"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "The project, ______ was initially delayed, is now back on schedule.",
+      "options": {
+        "A": "that",
+        "B": "which",
+        "C": "what",
+        "D": "who"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "He may ______ been promoted if he had shown more initiative.",
+      "options": {
+        "A": "have",
+        "B": "has",
+        "C": "had",
+        "D": "having"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "______ the heavy rain, the outdoor concert still went ahead as planned.",
+      "options": {
+        "A": "Despite of",
+        "B": "Although",
+        "C": "Because",
+        "D": "Therefore"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Select the sentence with the correct use of articles.",
+      "options": {
+        "A": "The sun is a star that gives us light.",
+        "B": "Sun is a star that gives us light.",
+        "C": "A sun is the star that gives us light.",
+        "D": "The sun is star that gives us light."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the best preposition to complete the sentence: She is interested ______ learning new languages.",
+      "options": {
+        "A": "at",
+        "B": "in",
+        "C": "on",
+        "D": "with"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Identify the sentence with the correct subject-verb agreement.",
+      "options": {
+        "A": "The cat, along with her kittens, are playing in the garden.",
+        "B": "The cat, along with her kittens, is playing in the garden.",
+        "C": "The cats, along with her kitten, is playing in the garden.",
+        "D": "The cat, along with her kittens, play in the garden."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Select the option that best completes the sentence: He is looking forward ______ you at the conference.",
+      "options": {
+        "A": "to see",
+        "B": "seeing",
+        "C": "to seeing",
+        "D": "for seeing"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Which of the following sentences uses the passive voice correctly?",
+      "options": {
+        "A": "They are building a new bridge the city.",
+        "B": "A new bridge is being build by the city.",
+        "C": "A new bridge is being built by the city.",
+        "D": "The city is build a new bridge."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the correct word to complete the idiom: To be under the ______ .",
+      "options": {
+        "A": "weather",
+        "B": "climate",
+        "C": "storm",
+        "D": "rain"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Identify the sentence with the correct use of a conditional clause.",
+      "options": {
+        "A": "If I would have known, I would have told you.",
+        "B": "If I had known, I would told you.",
+        "C": "If I knew, I would have told you.",
+        "D": "If I had known, I would have told you."
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the best conjunction to join these sentences: He was tired ______ he went to bed early.",
+      "options": {
+        "A": "and",
+        "B": "but",
+        "C": "so",
+        "D": "or"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the phrasal verb that best fits the sentence: They decided to ______ the meeting until next week.",
+      "options": {
+        "A": "put on",
+        "B": "put off",
+        "C": "put in",
+        "D": "put up"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Identify the correctly punctuated sentence.",
+      "options": {
+        "A": "Despite the rain; we enjoyed the picnic.",
+        "B": "Despite the rain, we enjoyed the picnic.",
+        "C": "Despite the rain we, enjoyed the picnic.",
+        "D": "Despite, the rain we enjoyed the picnic."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Which word BEST COMPLETES this sentence?  ______ , the company expanded its operations into international markets.",
+      "options": {
+        "A": "Primary",
+        "B": "Recently",
+        "C": "Subsequently",
+        "D": "Initially"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the word that is OPPOSITE in meaning to 'identical'.",
+      "options": {
+        "A": "Similar",
+        "B": "Equivalent",
+        "C": "Conversely",
+        "D": "Different"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What does 'ambiguous' mean?",
+      "options": {
+        "A": "Very clear",
+        "B": "Having more than one possible meaning",
+        "C": "Easy to understand",
+        "D": "Well-defined"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Select the word that BEST describes something that is a natural and essential part of something else.",
+      "options": {
+        "A": "Extrinsic",
+        "B": "Inherent",
+        "C": "Acquired",
+        "D": "External"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "A ______ in the accounts led to a thorough audit.",
+      "options": {
+        "A": "Consistency",
+        "B": "Discrepancy",
+        "C": "Similarity",
+        "D": "Conformity"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "The new bridge will ______ the flow of traffic in the city center.",
+      "options": {
+        "A": "Obstruct",
+        "B": "Impede",
+        "C": "Facilitate",
+        "D": "Hinder"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Which word means 'including everything'? ",
+      "options": {
+        "A": "Partial",
+        "B": "Limited",
+        "C": "Comprehensive",
+        "D": "Selective"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "To '______' means to express oneself clearly and effectively.",
+      "options": {
+        "A": "Mumble",
+        "B": "Articulate",
+        "C": "Hesitate",
+        "D": "Stammer"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Using the clues provided, can you ______ the identity of the mystery guest?",
+      "options": {
+        "A": "Imply",
+        "B": "Infer",
+        "C": "Induce",
+        "D": "Deduce"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "To prove something wrong or false is to ______ it.",
+      "options": {
+        "A": "Verify",
+        "B": "Substantiate",
+        "C": "Refute",
+        "D": "Corroborate"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "A statement that seems self-contradictory but contains a deeper truth is called a ______ .",
+      "options": {
+        "A": "Truism",
+        "B": "Platitude",
+        "C": "Paradox",
+        "D": "Axiom"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "To reduce the severity of something bad is to ______ it.",
+      "options": {
+        "A": "Exacerbate",
+        "B": "Intensify",
+        "C": "Aggravate",
+        "D": "Mitigate"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Which word means 'believable'?",
+      "options": {
+        "A": "Implausible",
+        "B": "Unlikely",
+        "C": "Plausible",
+        "D": "Doubtful"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "______ standards ensure a high level of quality and accuracy.",
+      "options": {
+        "A": "Lax",
+        "B": "Lenient",
+        "C": "Rigorous",
+        "D": "Casual"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "The ______ principles of democracy include freedom of speech and equality.",
+      "options": {
+        "A": "Superficial",
+        "B": "Obvious",
+        "C": "Underlying",
+        "D": "Apparent"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 2, what is inherently linked to the rise of digital nomadism?",
+      "options": {
+        "A": "Decreased travel costs",
+        "B": "Advancements in technology and remote work",
+        "C": "Government regulations on employment",
+        "D": "Increased office-based job opportunities"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "The word 'Conversely' in paragraph 2 is used to:",
+      "options": {
+        "A": "Provide an example of digital nomadism",
+        "B": "Highlight a similarity between work models",
+        "C": "Contrast traditional and remote work models",
+        "D": "Emphasize the benefits of office-based work"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "What is NOT mentioned in paragraph 3 as a benefit of digital nomadism?",
+      "options": {
+        "A": "Exposure to diverse cultures",
+        "B": "Opportunities for personal growth",
+        "C": "Enhanced adaptability",
+        "D": "Guaranteed financial stability"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to paragraph 4, which of the following is a challenge faced by digital nomads?",
+      "options": {
+        "A": "Easy access to healthcare",
+        "B": "Simple visa regulations",
+        "C": "Maintaining social connections",
+        "D": "Effortless work routine"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "The word 'mitigate' in paragraph 4 most closely means:",
+      "options": {
+        "A": "Increase",
+        "B": "Worsen",
+        "C": "Reduce",
+        "D": "Ignore"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "In paragraph 5, the phrase 'plausible trajectory' suggests that digital nomadism's future is:",
+      "options": {
+        "A": "Uncertain and unpredictable",
+        "B": "Likely to decline in popularity",
+        "C": "Expected to continue growing",
+        "D": "Facing immediate stagnation"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "The word 'articulate' in paragraph 5 is used to describe digital nomadism as a:",
+      "options": {
+        "A": "Confusing trend",
+        "B": "Clearly defined career path",
+        "C": "Temporary lifestyle",
+        "D": "Difficult to understand concept"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What is the main idea of the entire passage?",
+      "options": {
+        "A": "The downsides of digital nomadism outweigh its benefits.",
+        "B": "Digital nomadism is a temporary trend that will soon disappear.",
+        "C": "Digital nomadism is a growing and evolving work lifestyle with both advantages and challenges.",
+        "D": "Traditional office work is superior to digital nomadism in all aspects."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Which paragraph primarily discusses the positive aspects of digital nomadism?",
+      "options": {
+        "A": "Paragraph 2",
+        "B": "Paragraph 3",
+        "C": "Paragraph 4",
+        "D": "Paragraph 5"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "The author's tone in the passage can be best described as:",
+      "options": {
+        "A": "Strongly critical",
+        "B": "Highly enthusiastic",
+        "C": "Informative and balanced",
+        "D": "Pessimistic and dismissive"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
