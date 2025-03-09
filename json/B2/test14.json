@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The Reformation, a religious revolution that swept across Europe in the 16th century, fundamentally altered the landscape of Western Christianity and European society. This momentous period of religious upheaval began in 1517 when Martin Luther, a German monk and professor, published his Ninety-Five Theses criticizing practices of the Roman Catholic Church, particularly the selling of indulgences. Luther's actions, facilitated by the recently invented printing press, sparked a movement that quickly spread beyond Germany, leading to the emergence of Protestant denominations and challenging the religious unity that had prevailed in Western Europe for centuries.<br><br>(2) While theological debates formed the core of the Reformation, its causes were multifaceted. Social discontent with clerical wealth and corruption had been growing, while the Renaissance had fostered intellectual currents that emphasized returning to original sources, including the Bible. Political rulers often supported reform movements to gain independence from papal authority and to seize church properties. Additionally, the emerging merchant class was attracted to Protestant teachings that seemed more compatible with commercial activities. Together, these factors created fertile ground for Luther's ideas to take root and flourish.<br><br>(3) The Reformation quickly diversified as reformers with different theological perspectives emerged. In Switzerland, Huldrych Zwingli and later John Calvin developed reformed traditions that were more radical than Luther's approach. The English Reformation followed a unique path, driven initially by King Henry VIII's desire to annul his marriage rather than by theological concerns. Anabaptists advocated for adult baptism and complete separation of church and state, while the Counter-Reformation saw the Catholic Church implement internal reforms and vigorously oppose Protestant movements. This diversity of reform movements resulted in a fragmented religious landscape that replaced the previous Catholic hegemony.<br><br>(4) The consequences of the Reformation extended far beyond religion. Bloody conflicts erupted as religious differences became entangled with political ambitions, culminating in the devastating Thirty Years' War (1618-1648). Socially, the Protestant emphasis on individual Bible reading promoted literacy and education. The questioning of religious authority contributed to the development of critical thinking that would later characterize the Enlightenment. Additionally, the Reformation's stress on the "priesthood of all believers" had democratic implications that would influence political developments in subsequent centuries.<br><br>(5) The legacy of the Reformation continues to shape the modern world in profound ways. The religious pluralism of contemporary Western society can be traced directly to this period. The emphasis on individual conscience and interpretation created space for concepts of religious freedom that would eventually expand to broader notions of human rights. Educational institutions founded during this era remain influential centers of learning today. Perhaps most significantly, the Reformation established a precedent for challenging established authority that resonates in social and political movements to this day, making it one of history's most consequential episodes of ideological transformation.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct verb form to complete the sentence: 'If I _____ you, I would accept the job offer.'",
+      "options": {
+        "A": "am",
+        "B": "were",
+        "C": "would be",
+        "D": "had been"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the correct passive voice form: 'The committee _____ the proposal yesterday.'",
+      "options": {
+        "A": "was discussing",
+        "B": "is discussing",
+        "C": "discussed",
+        "D": "was discussed"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence contains a correct use of the present perfect tense?",
+      "options": {
+        "A": "She has finished her homework already.",
+        "B": "She finished her homework already.",
+        "C": "She have finished her homework already.",
+        "D": "She will have finished her homework already."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Identify the sentence with the correct use of articles:",
+      "options": {
+        "A": "He is an university student studying a history.",
+        "B": "He is a university student studying the history.",
+        "C": "He is an university student studying the history.",
+        "D": "He is a university student studying history."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the sentence with the correct subject-verb agreement:",
+      "options": {
+        "A": "The number of students in the class are increasing.",
+        "B": "The number of students in the class is increasing.",
+        "C": "A number of students in the class is attending.",
+        "D": "Each of the students have their own textbook."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the sentence with the correct reported speech: She said, 'I will call you tomorrow.'",
+      "options": {
+        "A": "She said that she will call me tomorrow.",
+        "B": "She said that she would call me tomorrow.",
+        "C": "She said that she would call me the next day.",
+        "D": "She said that she will call me the next day."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct form of the relative clause: 'The woman _____ car was stolen reported it to the police.'",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Identify the sentence with the correct use of the future perfect tense:",
+      "options": {
+        "A": "By next year, I will graduate from college.",
+        "B": "By next year, I will have graduate from college.",
+        "C": "By next year, I will have been graduated from college.",
+        "D": "By next year, I will have graduated from college."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Select the sentence with the correct use of modals:",
+      "options": {
+        "A": "You must to attend the meeting tomorrow.",
+        "B": "You should attending the meeting tomorrow.",
+        "C": "You might to attend the meeting tomorrow.",
+        "D": "You ought to attend the meeting tomorrow."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct conditional sentence:",
+      "options": {
+        "A": "If it rains tomorrow, we will have canceled the picnic.",
+        "B": "If it rains tomorrow, we will cancel the picnic.",
+        "C": "If it will rain tomorrow, we will cancel the picnic.",
+        "D": "If it would rain tomorrow, we will cancel the picnic."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Identify the sentence with the correct use of gerunds and infinitives:",
+      "options": {
+        "A": "She avoided to make eye contact during the interview.",
+        "B": "She avoided making eye contact during the interview.",
+        "C": "She avoided make eye contact during the interview.",
+        "D": "She avoided for making eye contact during the interview."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the sentence with the correct comparative form:",
+      "options": {
+        "A": "This exercise is more easier than the previous one.",
+        "B": "This exercise is the most easiest in the book.",
+        "C": "This exercise is more easy than the previous one.",
+        "D": "This exercise is easier than the previous one."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the sentence with the correct preposition:",
+      "options": {
+        "A": "She has been working in this company since five years.",
+        "B": "She has been working in this company for five years.",
+        "C": "She has been working in this company during five years.",
+        "D": "She has been working in this company by five years."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Identify the sentence with the correct use of the past perfect tense:",
+      "options": {
+        "A": "By the time I arrived, the movie already started.",
+        "B": "By the time I arrived, the movie has already started.",
+        "C": "By the time I arrived, the movie had already started.",
+        "D": "By the time I arrived, the movie was already started."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the sentence with the correct word order:",
+      "options": {
+        "A": "Hardly I had finished my homework when the phone rang.",
+        "B": "Hardly had I finished my homework when the phone rang.",
+        "C": "I had hardly finished my homework the phone when rang.",
+        "D": "I had finished hardly my homework when the phone rang."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the appropriate phrasal verb: 'The meeting has been _____ until next week.'",
+      "options": {
+        "A": "put off",
+        "B": "put away",
+        "C": "put down",
+        "D": "put up"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the correct collocation: 'The government needs to _____ action to address climate change.'",
+      "options": {
+        "A": "do",
+        "B": "make",
+        "C": "take",
+        "D": "have"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the appropriate idiom: 'The new employee is very enthusiastic and always _____ to learn new skills.'",
+      "options": {
+        "A": "keeps an eye out",
+        "B": "plays it by ear",
+        "C": "pulls strings",
+        "D": "eager beaver"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Select the correct formal expression for a business letter: 'I am writing to _____ your recent inquiry about our products.'",
+      "options": {
+        "A": "respond to",
+        "B": "get back to you about",
+        "C": "tell you about",
+        "D": "say something about"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the appropriate linking expression: 'The project was completed on time; _____, it exceeded quality expectations.'",
+      "options": {
+        "A": "otherwise",
+        "B": "furthermore",
+        "C": "however",
+        "D": "therefore"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the correct expression: 'After the accident, it took her a long time to _____ her confidence in driving again.'",
+      "options": {
+        "A": "get back",
+        "B": "regain",
+        "C": "return",
+        "D": "recover"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the appropriate word form: 'His explanation lacked _____ and confused everyone.'",
+      "options": {
+        "A": "clear",
+        "B": "clearing",
+        "C": "clarify",
+        "D": "clarity"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the correct fixed expression: 'The manager made a decision to lay off staff _____.'",
+      "options": {
+        "A": "as a final resource",
+        "B": "as a last resort",
+        "C": "as an ultimate choice",
+        "D": "as a finishing option"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the appropriate expression for giving an opinion: 'From my point of view, the proposal is not _____.'",
+      "options": {
+        "A": "workable",
+        "B": "working",
+        "C": "worked",
+        "D": "to work"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the correct preposition in this expression: 'The company is currently _____ financial difficulties.'",
+      "options": {
+        "A": "under",
+        "B": "in",
+        "C": "at",
+        "D": "with"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What does the term 'delegate' mean in a professional context?",
+      "options": {
+        "A": "To assign tasks or responsibilities to another person",
+        "B": "To represent a group at a conference or meeting",
+        "C": "To postpone a decision until a later date",
+        "D": "To exclude someone from a discussion"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Which sentence uses the word 'variable' correctly?",
+      "options": {
+        "A": "The weather is quite variable in spring, changing from sunny to rainy quickly.",
+        "B": "She variables her schedule to accommodate the new project.",
+        "C": "The computer was variabled by the technician yesterday.",
+        "D": "They will variable the test results tomorrow."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What is the best definition of 'viable'?",
+      "options": {
+        "A": "Able to be seen clearly",
+        "B": "Capable of succeeding or working as intended",
+        "C": "Unable to be changed or altered",
+        "D": "Extremely valuable or expensive"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which sentence uses 'erosion' correctly?",
+      "options": {
+        "A": "The house erosion was painted blue last year.",
+        "B": "They erosion the building after the earthquake.",
+        "C": "Coastal erosion has damaged many cliffs along the shoreline.",
+        "D": "The student erosioned his essay before submitting it."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "What does 'ecosystem' refer to?",
+      "options": {
+        "A": "A system of economic factors that influence global markets",
+        "B": "A biological community of interacting organisms and their physical environment",
+        "C": "A network of connected electronic devices",
+        "D": "A method for organizing and categorizing ecological research"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Which sentence uses 'efficiency' correctly?",
+      "options": {
+        "A": "The new software efficiency the old system completely.",
+        "B": "They efficiency their work schedule to meet the deadline.",
+        "C": "Energy efficiency is crucial for reducing environmental impact.",
+        "D": "The manager efficiencied all the employees last month."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "What is the best definition of 'disruption'?",
+      "options": {
+        "A": "A gradual improvement in a system or process",
+        "B": "A disturbance or problem that interrupts an event, activity, or process",
+        "C": "A detailed plan for achieving success in business",
+        "D": "A period of economic growth and prosperity"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Which sentence uses 'vessel' correctly?",
+      "options": {
+        "A": "The fishing vessel returned to port with its catch.",
+        "B": "They vessel the water into smaller containers.",
+        "C": "The company vesseled its profits last year.",
+        "D": "She vessels to work every morning at 8 AM."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What does the word 'tribe' primarily refer to?",
+      "options": {
+        "A": "A large corporate organization",
+        "B": "A social group of people with a common ancestry, language, culture, and territory",
+        "C": "A scientific classification of plants",
+        "D": "A modern political party"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Which sentence uses 'wildlife' correctly?",
+      "options": {
+        "A": "The documentary wildlifed the endangered species in the Amazon.",
+        "B": "Local wildlife includes deer, foxes, and various bird species.",
+        "C": "She wildlifes her garden every spring.",
+        "D": "The researchers wildlife the data before publishing their findings."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What is the best definition of 'discretion'?",
+      "options": {
+        "A": "The freedom to decide what should be done in a particular situation",
+        "B": "A mathematical concept dealing with separate rather than continuous values",
+        "C": "A type of digital storage device used in computers",
+        "D": "A formal written agreement between two parties"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Which sentence uses 'vacant' correctly?",
+      "options": {
+        "A": "They vacant the room for the new tenant.",
+        "B": "The position has been vacant since the previous manager resigned.",
+        "C": "The company vacanted all its employees during the pandemic.",
+        "D": "She vacants her office every day at 5 PM."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "What does it mean to 'highlight' something?",
+      "options": {
+        "A": "To make something darker or less visible",
+        "B": "To remove or delete information",
+        "C": "To draw special attention to something",
+        "D": "To translate text into another language"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Which sentence uses 'implication' correctly?",
+      "options": {
+        "A": "The implication to the meeting was mandatory for all staff.",
+        "B": "They implication the project within the deadline.",
+        "C": "The research has important implications for future cancer treatments.",
+        "D": "She implications her work to her supervisor every week."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "What is the best definition of 'convenience'?",
+      "options": {
+        "A": "A state of being unsuitable or inappropriate for a purpose",
+        "B": "The quality of being useful, easy, or suitable for someone",
+        "C": "The act of meeting or communicating with someone",
+        "D": "A place where people can exercise or play sports"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what factor helped Luther's ideas spread quickly?",
+      "options": {
+        "A": "Political support from German princes",
+        "B": "The recently invented printing press",
+        "C": "The spread of literacy among common people",
+        "D": "The decline of papal authority"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Based on paragraph 2, which was NOT mentioned as a cause of the Reformation?",
+      "options": {
+        "A": "Social discontent with clerical corruption",
+        "B": "The influence of Renaissance thinking",
+        "C": "Desires of political rulers to gain independence from papal authority",
+        "D": "The Black Death epidemic"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "What made the English Reformation unique according to paragraph 3?",
+      "options": {
+        "A": "It was more radical than other reform movements",
+        "B": "It was initiated by theological concerns",
+        "C": "It was driven initially by King Henry VIII's marital issues",
+        "D": "It advocated for adult baptism"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to paragraph 4, which conflict resulted from religious differences during the Reformation?",
+      "options": {
+        "A": "The Hundred Years' War",
+        "B": "The Thirty Years' War",
+        "C": "The War of the Roses",
+        "D": "The Crusades"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "The phrase 'priesthood of all believers' in paragraph 4 is mentioned as having what kind of implications?",
+      "options": {
+        "A": "Economic",
+        "B": "Democratic",
+        "C": "Scientific",
+        "D": "Artistic"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to paragraph 5, which modern concept can be traced to the Reformation's emphasis on individual conscience?",
+      "options": {
+        "A": "Religious freedom",
+        "B": "Economic capitalism",
+        "C": "Scientific method",
+        "D": "Artistic expression"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "The word 'hegemony' in paragraph 3 is closest in meaning to:",
+      "options": {
+        "A": "theology",
+        "B": "structure",
+        "C": "dominance",
+        "D": "teaching"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "Which social impact of the Reformation is mentioned in paragraph 4?",
+      "options": {
+        "A": "Decreased interest in education",
+        "B": "Promotion of literacy and education",
+        "C": "Economic equality",
+        "D": "Political stability"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What does the passage identify as 'one of history's most consequential episodes of ideological transformation'?",
+      "options": {
+        "A": "The Renaissance",
+        "B": "The Counter-Reformation",
+        "C": "The Thirty Years' War",
+        "D": "The Reformation"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the main purpose of this passage?",
+      "options": {
+        "A": "To criticize the Catholic Church's practices in the 16th century",
+        "B": "To analyze the political consequences of the Reformation",
+        "C": "To explain the Reformation's causes, diversity, consequences, and legacy",
+        "D": "To compare different Protestant denominations that emerged during the Reformation"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
