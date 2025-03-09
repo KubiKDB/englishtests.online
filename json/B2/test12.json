@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The relationship between geography and economic development has long fascinated economists and historians alike. Natural resources, climate conditions, and geographic location all play crucial roles in determining a region's economic trajectory. Countries with abundant natural resources such as oil, minerals, or fertile land often have significant economic advantages, though these advantages do not guarantee prosperity without proper management and infrastructure.<br><br>(2) Access to waterways has historically been a major driver of economic development. Coastal regions and areas near navigable rivers typically develop faster due to reduced transportation costs and increased trade opportunities. This pattern is evident in the concentration of major global cities along coastlines and waterways, from New York to Shanghai. Even in the modern era of air travel and digital communication, proximity to efficient transportation routes remains a significant economic asset.<br><br>(3) Climate also influences economic development patterns. Moderate climates tend to support higher agricultural productivity and lower infrastructure maintenance costs. Additionally, extreme climate conditions can impose substantial burdens on economic growth through increased healthcare expenses, reduced labor productivity, and higher construction costs. This climate effect partially explains why temperate zones have historically seen more consistent economic development than tropical or arctic regions.<br><br>(4) The distribution of natural resources across regions has led to specialized economic activities in different parts of the world. Middle Eastern countries have developed economies centered on oil extraction and refinement, while countries in South America often focus on agricultural production and mining. This specialization can create economic opportunities but also leaves regions vulnerable to resource depletion or price volatility in global markets.<br><br>(5) However, the relationship between geography and economic prosperity is not deterministic. Countries like Japan and Singapore have achieved remarkable economic success despite limited natural resources through investments in human capital, technology, and efficient governance systems. In the modern global economy, factors such as institutional quality, education levels, and technological innovation can sometimes outweigh geographic advantages or disadvantages, suggesting that while geography matters significantly, it is not destiny.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which form of the verb is correct? She _____ in this company since 2010.",
+      "options": {
+        "A": "is working",
+        "B": "has been working",
+        "C": "works",
+        "D": "had worked"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct relative pronoun: The book _____ I borrowed from the library was very interesting.",
+      "options": {
+        "A": "who",
+        "B": "whom",
+        "C": "which",
+        "D": "whose"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the correct conditional form: If it _____ tomorrow, we will cancel the picnic.",
+      "options": {
+        "A": "will rain",
+        "B": "rains",
+        "C": "would rain",
+        "D": "had rained"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct passive voice form: The project _____ by the team last month.",
+      "options": {
+        "A": "was completed",
+        "B": "has completed",
+        "C": "is completed",
+        "D": "completes"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Which sentence contains the correct article usage?",
+      "options": {
+        "A": "He is best student in class.",
+        "B": "She plays the piano for an hour every day.",
+        "C": "We went to a Europe last summer.",
+        "D": "They live in the France."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Identify the correct preposition: The train is scheduled to arrive _____ 3 PM.",
+      "options": {
+        "A": "in",
+        "B": "on",
+        "C": "at",
+        "D": "by"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Select the correct modal verb: You _____ consult a doctor if the symptoms persist.",
+      "options": {
+        "A": "would",
+        "B": "can",
+        "C": "might",
+        "D": "should"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct verb form: She suggested that he _____ a different approach.",
+      "options": {
+        "A": "tries",
+        "B": "try",
+        "C": "tried",
+        "D": "is trying"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence uses the correct comparative form?",
+      "options": {
+        "A": "This book is more better than the previous one.",
+        "B": "Their house is more larger than ours.",
+        "C": "The weather today is less warmer than yesterday.",
+        "D": "This exercise is more challenging than I expected."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Identify the correct conjunction: I wanted to attend the meeting, _____ I had a prior commitment.",
+      "options": {
+        "A": "so",
+        "B": "but",
+        "C": "and",
+        "D": "or"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Which sentence has the correct subject-verb agreement?",
+      "options": {
+        "A": "The number of participants were higher than expected.",
+        "B": "Neither of the students have submitted their assignments.",
+        "C": "Economics are my favorite subject.",
+        "D": "The quality of these products has improved significantly."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the correct past perfect form: By the time the rescue team arrived, the hikers _____ for six hours.",
+      "options": {
+        "A": "were walking",
+        "B": "walked",
+        "C": "had been walking",
+        "D": "have walked"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct future continuous form: This time next week, we _____ on the beach in Hawaii.",
+      "options": {
+        "A": "will relax",
+        "B": "are relaxing",
+        "C": "will have relaxed",
+        "D": "will be relaxing"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence has the correct use of gerund?",
+      "options": {
+        "A": "I look forward to hear from you soon.",
+        "B": "She enjoys to read novels in her free time.",
+        "C": "They admitted stealing the documents.",
+        "D": "We discussed about joining the club."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Identify the correct reported speech: He said, 'I will call you tomorrow.'",
+      "options": {
+        "A": "He said that he will call me tomorrow.",
+        "B": "He said that he would call me the next day.",
+        "C": "He said that he will call me the following day.",
+        "D": "He told that he would call me tomorrow."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Complete the collocation: The new policy came into _____ last month.",
+      "options": {
+        "A": "effect",
+        "B": "action",
+        "C": "result",
+        "D": "conclusion"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct phrasal verb: The meeting has been _____ until next week.",
+      "options": {
+        "A": "put off",
+        "B": "put down",
+        "C": "put up",
+        "D": "put away"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the appropriate idiom: After the scandal, his reputation was _____ .",
+      "options": {
+        "A": "on cloud nine",
+        "B": "in hot water",
+        "C": "in the red",
+        "D": "in tatters"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct expression: She's very busy at work and is _____ a lot of pressure.",
+      "options": {
+        "A": "above",
+        "B": "under",
+        "C": "with",
+        "D": "between"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the correct fixed expression: The decision was made _____ the recommendations of the committee.",
+      "options": {
+        "A": "in accordance with",
+        "B": "in addition to",
+        "C": "in spite of",
+        "D": "in place of"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the appropriate discourse marker: The transportation system is inefficient; _____, it is also expensive.",
+      "options": {
+        "A": "therefore",
+        "B": "however",
+        "C": "furthermore",
+        "D": "otherwise"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Select the correct form: The government needs to _____ the growing environmental concerns.",
+      "options": {
+        "A": "address",
+        "B": "direct",
+        "C": "approach",
+        "D": "speak"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct binomial pair: The children were running _____ in the garden.",
+      "options": {
+        "A": "up and down",
+        "B": "here and there",
+        "C": "now and then",
+        "D": "back and forth"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Select the appropriate register for a formal email: '_____ your prompt attention to this matter.'",
+      "options": {
+        "A": "I really need",
+        "B": "I appreciate",
+        "C": "Thank you for",
+        "D": "Waiting for"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct word to complete the sentence: The company has decided to _____ production of their older models.",
+      "options": {
+        "A": "discontinue",
+        "B": "discourage",
+        "C": "disregard",
+        "D": "disqualify"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the synonym for 'connection':",
+      "options": {
+        "A": "separation",
+        "B": "link",
+        "C": "diversion",
+        "D": "disagreement"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "What is the best definition of 'psychology'?",
+      "options": {
+        "A": "The study of ancient civilizations",
+        "B": "The science of plant life",
+        "C": "The study of human behavior and mental processes",
+        "D": "The practice of physical exercise"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Which sentence uses the word 'penalize' correctly?",
+      "options": {
+        "A": "The teacher will penalize students who submit their assignments late.",
+        "B": "The chef will penalize the dish with extra spices.",
+        "C": "The artist will penalize the painting with bright colors.",
+        "D": "The doctor will penalize the patient with vitamin supplements."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Select the antonym for 'conscious':",
+      "options": {
+        "A": "aware",
+        "B": "vigilant",
+        "C": "unconscious",
+        "D": "attentive"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "What does 'executive' refer to in a business context?",
+      "options": {
+        "A": "A clerical worker",
+        "B": "A high-ranking manager",
+        "C": "A factory employee",
+        "D": "A customer service representative"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Choose the correct meaning of 'consultation':",
+      "options": {
+        "A": "A meeting for discussion or advice",
+        "B": "A formal celebration",
+        "C": "A written complaint",
+        "D": "A public announcement"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "What does 'exclusive' mean in the context of a product?",
+      "options": {
+        "A": "Affordable to most people",
+        "B": "Limited to a particular group",
+        "C": "Easy to obtain",
+        "D": "Low quality"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Select the word that best completes this sentence: The documentary about deep-sea creatures was truly _____.",
+      "options": {
+        "A": "boring",
+        "B": "ordinary",
+        "C": "fascinating",
+        "D": "confusing"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What is a 'violation' in legal terms?",
+      "options": {
+        "A": "A formal agreement",
+        "B": "A breach of law or rule",
+        "C": "A written permission",
+        "D": "A courtroom procedure"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "In which context would the word 'technology' most likely be used?",
+      "options": {
+        "A": "Ancient history",
+        "B": "Modern computing",
+        "C": "Medieval literature",
+        "D": "Classical music"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Select the correct meaning of 'cautious':",
+      "options": {
+        "A": "Careless",
+        "B": "Reckless",
+        "C": "Careful and vigilant",
+        "D": "Bold and daring"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "What is the best definition of 'democracy'?",
+      "options": {
+        "A": "Rule by a single person",
+        "B": "Government by the people",
+        "C": "Control by the military",
+        "D": "Leadership by religious authorities"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Choose the synonym for 'resolution':",
+      "options": {
+        "A": "Confusion",
+        "B": "Uncertainty",
+        "C": "Decision",
+        "D": "Question"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "What does 'reality' refer to?",
+      "options": {
+        "A": "Something that exists only in imagination",
+        "B": "The actual state of things",
+        "C": "A fictional story",
+        "D": "A person's wishes"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Select the antonym for 'familiar':",
+      "options": {
+        "A": "Strange",
+        "B": "Known",
+        "C": "Recognizable",
+        "D": "Common"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, which of the following is NOT mentioned as a factor affecting economic development?",
+      "options": {
+        "A": "Natural resources",
+        "B": "Climate conditions",
+        "C": "Population size",
+        "D": "Geographic location"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "The passage suggests that coastal regions develop faster primarily because they:",
+      "options": {
+        "A": "Have better climate conditions",
+        "B": "Attract more tourists",
+        "C": "Have reduced transportation costs",
+        "D": "Possess more natural resources"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "Which statement best represents the author's view on climate and economic development?",
+      "options": {
+        "A": "Tropical regions have seen more consistent economic development.",
+        "B": "Extreme climates impose burdens on economic growth.",
+        "C": "Climate has no effect on economic development patterns.",
+        "D": "Moderate climates reduce agricultural productivity."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to the passage, specialization in resource-based economies can:",
+      "options": {
+        "A": "Only provide economic benefits",
+        "B": "Create both opportunities and vulnerabilities",
+        "C": "Always lead to economic stability",
+        "D": "Prevent participation in global markets"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "The examples of Japan and Singapore in paragraph 5 are used to illustrate that:",
+      "options": {
+        "A": "Geographic advantages always determine economic success",
+        "B": "Natural resources are the most important factor for development",
+        "C": "Geography does not completely determine economic outcomes",
+        "D": "Island nations have unique economic advantages"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "The author's main purpose in writing this passage is to:",
+      "options": {
+        "A": "Argue that geographic location is the only factor that matters in economic development",
+        "B": "Demonstrate that natural resources are essential for economic success",
+        "C": "Explore the complex relationship between geography and economic development",
+        "D": "Prove that geographic disadvantages cannot be overcome"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "The phrase 'this pattern' in paragraph 2 refers to:",
+      "options": {
+        "A": "The concentration of natural resources",
+        "B": "The faster development of coastal regions",
+        "C": "The importance of proper management",
+        "D": "The role of infrastructure in development"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The word 'deterministic' in paragraph 5 is closest in meaning to:",
+      "options": {
+        "A": "Predetermined and fixed",
+        "B": "Complicated and nuanced",
+        "C": "Dynamic and changing",
+        "D": "Recent and modern"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Which of the following factors does the passage suggest can sometimes outweigh geographic disadvantages?",
+      "options": {
+        "A": "Religious traditions",
+        "B": "Agricultural productivity",
+        "C": "Human capital and technology",
+        "D": "Historical conflicts"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "The passage implies that the relationship between geography and economic prosperity is:",
+      "options": {
+        "A": "No longer relevant in the modern economy",
+        "B": "Important but not the sole determining factor",
+        "C": "Only significant for developing countries",
+        "D": "Primarily related to transportation routes"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
