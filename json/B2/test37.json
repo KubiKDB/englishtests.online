@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Biomimicry, the practice of emulating nature's designs and processes to solve human problems, has become an increasingly important approach in the field of engineering. By observing and studying the natural world, engineers have found solutions to complex challenges that would otherwise remain unsolved. From buildings that regulate temperature like termite mounds to aircraft designs inspired by bird wings, biomimicry has led to remarkable innovations across various industries.<br><br>(2) One of the most well-known examples of biomimicry is Velcro, which was invented after Swiss engineer George de Mestral observed how burrs from plants attached to his dog's fur. This simple observation led to the development of a fastening system that relies on the same hook-and-loop mechanism found in nature. Similarly, the Japanese bullet train's streamlined front was redesigned to mimic a kingfisher's beak, significantly reducing noise and energy consumption when the train exits tunnels.<br><br>(3) Beyond individual products, biomimicry offers solutions for sustainable building design. The Eastgate Centre in Zimbabwe, for instance, uses passive cooling systems inspired by African termite mounds. These structures maintain nearly constant temperatures inside despite extreme external temperature fluctuations. By implementing this natural ventilation strategy, the building uses 90% less energy for heating and cooling than conventional structures of similar size, demonstrating how natural designs can significantly improve efficiency.<br><br>(4) Water management is another area where biomimicry has proven valuable. Engineers studying the Namibian desert beetle, which collects morning dew on its back in an arid environment, have developed water-harvesting technologies that mimic this capability. These systems can potentially provide clean water in water-scarce regions by collecting moisture from fog and dew. Additionally, the self-cleaning properties of lotus leaves have inspired the development of paints, fabrics, and surfaces that repel dirt and liquids, reducing the need for chemical cleaners.<br><br>(5) As we face growing environmental challenges, biomimicry offers a promising framework for creating sustainable technologies. By studying the circular systems found in nature, where waste becomes resource and energy is used efficiently, engineers can design more sustainable industrial processes. The field continues to expand as researchers discover new biological models that could revolutionize materials science, robotics, and energy production. Ultimately, biomimicry reminds us that after billions of years of evolution, nature has already solved many of the problems we currently face.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which form completes the sentence correctly? She _____ to the movies last weekend.",
+      "options": {
+        "A": "go",
+        "B": "goes",
+        "C": "went",
+        "D": "going"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct option: I wish I _____ more time to finish the project.",
+      "options": {
+        "A": "have",
+        "B": "had",
+        "C": "having",
+        "D": "has"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the correct conditional sentence: If it rains tomorrow, _____.",
+      "options": {
+        "A": "we stay home",
+        "B": "we stayed home",
+        "C": "we will stay home",
+        "D": "we would stay home"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence contains a correct relative clause?",
+      "options": {
+        "A": "The woman who lives next door is a doctor.",
+        "B": "The woman which lives next door is a doctor.",
+        "C": "The woman whose lives next door is a doctor.",
+        "D": "The woman whom lives next door is a doctor."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct preposition: She has been working here _____ 2015.",
+      "options": {
+        "A": "for",
+        "B": "since",
+        "C": "at",
+        "D": "in"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which sentence uses the past perfect correctly?",
+      "options": {
+        "A": "She had arrived before the train departed.",
+        "B": "She has arrived before the train departed.",
+        "C": "She arrived before the train had departed.",
+        "D": "She was arriving before the train departed."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which sentence contains the correct passive voice?",
+      "options": {
+        "A": "The cake baked by my mother.",
+        "B": "The cake was baked by my mother.",
+        "C": "The cake baking by my mother.",
+        "D": "The cake is bake by my mother."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the sentence with correct subject-verb agreement:",
+      "options": {
+        "A": "The group of students are studying for the exam.",
+        "B": "The group of students is studying for the exam.",
+        "C": "The group of students be studying for the exam.",
+        "D": "The group of students were studying for the exam."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct form of the reported speech: He said, \"I am going to the store.\"",
+      "options": {
+        "A": "He said that he is going to the store.",
+        "B": "He said that he was going to the store.",
+        "C": "He said that he goes to the store.",
+        "D": "He said that he went to the store."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence uses the future perfect tense correctly?",
+      "options": {
+        "A": "By next year, she will working here for ten years.",
+        "B": "By next year, she will have worked here for ten years.",
+        "C": "By next year, she will has worked here for ten years.",
+        "D": "By next year, she will be working here for ten years."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Identify the correct comparative form: The movie was _____ than I expected.",
+      "options": {
+        "A": "more better",
+        "B": "more good",
+        "C": "better",
+        "D": "gooder"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which modal verb expresses obligation?",
+      "options": {
+        "A": "might",
+        "B": "must",
+        "C": "could",
+        "D": "would"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the sentence with the correct gerund form:",
+      "options": {
+        "A": "I enjoy to swim in the ocean.",
+        "B": "I enjoy swimming in the ocean.",
+        "C": "I enjoy swim in the ocean.",
+        "D": "I enjoy swam in the ocean."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Select the sentence that uses articles correctly:",
+      "options": {
+        "A": "I saw a interesting movie about an universe.",
+        "B": "I saw an interesting movie about a universe.",
+        "C": "I saw a interesting movie about a universe.",
+        "D": "I saw an interesting movie about an universe."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Which sentence contains a correctly used phrasal verb?",
+      "options": {
+        "A": "Can you look after my dog while I'm away?",
+        "B": "Can you look my dog after while I'm away?",
+        "C": "Can you after look my dog while I'm away?",
+        "D": "Can you look at after my dog while I'm away?"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Complete the sentence: Despite having a high fever, _____.",
+      "options": {
+        "A": "she went to work",
+        "B": "but she went to work",
+        "C": "so she went to work",
+        "D": "or she went to work"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct word to complete the sentence: He is completely _____ to criticism.",
+      "options": {
+        "A": "deaf",
+        "B": "blind",
+        "C": "mute",
+        "D": "numb"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Which phrase best completes the sentence? The project was delayed _____ bad weather.",
+      "options": {
+        "A": "because",
+        "B": "due to",
+        "C": "although",
+        "D": "unless"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Select the correct idiom: The news of the company's bankruptcy came as _____.",
+      "options": {
+        "A": "a piece of cake",
+        "B": "a bolt from the blue",
+        "C": "a drop in the ocean",
+        "D": "a blessing in disguise"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct collocation: She _____ a deep breath before diving into the pool.",
+      "options": {
+        "A": "made",
+        "B": "did",
+        "C": "took",
+        "D": "had"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Which sentence contains a correctly used linking word?",
+      "options": {
+        "A": "He was tired, although he went to sleep.",
+        "B": "He was tired, therefore he went to sleep.",
+        "C": "He was tired, whereas he went to sleep.",
+        "D": "He was tired, otherwise he went to sleep."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Select the appropriate phrasal verb: The plane will _____ at 7 pm.",
+      "options": {
+        "A": "take off",
+        "B": "take away",
+        "C": "take in",
+        "D": "take over"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct option to complete the sentence: She spoke _____ that everyone could understand her.",
+      "options": {
+        "A": "so clearly",
+        "B": "such clearly",
+        "C": "so clear",
+        "D": "such clear"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Which expression correctly completes the sentence? I'd rather _____ to the party than stay home.",
+      "options": {
+        "A": "going",
+        "B": "to go",
+        "C": "go",
+        "D": "went"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the correct expression: The documentary _____ light on many environmental issues.",
+      "options": {
+        "A": "sheds",
+        "B": "throws",
+        "C": "casts",
+        "D": "puts"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the best definition for the word 'specify':",
+      "options": {
+        "A": "to make something general",
+        "B": "to identify something clearly and definitely",
+        "C": "to create a new version",
+        "D": "to remove details"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "What is an 'exhibition'?",
+      "options": {
+        "A": "a public display of works of art or items of interest",
+        "B": "a scientific experiment",
+        "C": "a competition between teams",
+        "D": "a formal written request"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Which sentence uses 'extraordinary' correctly?",
+      "options": {
+        "A": "We had an extraordinary lunch at the usual time.",
+        "B": "The athlete showed extraordinary talent during the competition.",
+        "C": "My morning routine is quite extraordinary, just like everyone else's.",
+        "D": "The ordinary painting attracted a lot of attention."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "What is the meaning of 'isolate'?",
+      "options": {
+        "A": "to bring things together",
+        "B": "to make something larger",
+        "C": "to separate from others",
+        "D": "to reproduce something"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the sentence that uses 'practical' correctly:",
+      "options": {
+        "A": "Her practical skills in mathematics helped her solve abstract problems.",
+        "B": "The practical solution was too theoretical to implement.",
+        "C": "His practical approach focused on applying theories to real-world situations.",
+        "D": "The practical exam was entirely based on memorizing facts."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "What does 'framework' refer to?",
+      "options": {
+        "A": "a type of window",
+        "B": "a basic structure that underlies a system or concept",
+        "C": "a small picture frame",
+        "D": "a written document"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Which sentence uses 'revenue' correctly?",
+      "options": {
+        "A": "The company's revenue decreased due to increased sales.",
+        "B": "The government collects revenue through taxation.",
+        "C": "She used revenue to decorate her house.",
+        "D": "The revenue of the lake was measured last year."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "What does 'personnel' refer to?",
+      "options": {
+        "A": "the people who work for an organization",
+        "B": "personal belongings",
+        "C": "a type of equipment",
+        "D": "a building where people work"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Choose the sentence that uses 'integrate' correctly:",
+      "options": {
+        "A": "We need to integrate these components to create a functioning system.",
+        "B": "The integrate building collapsed during the earthquake.",
+        "C": "She likes to integrate to work every day.",
+        "D": "The integrate solution made everything more complicated."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "What is the meaning of 'atmosphere'?",
+      "options": {
+        "A": "the bottom layer of a planet",
+        "B": "a scientific equation",
+        "C": "the envelope of gases surrounding a planet",
+        "D": "a type of weather measurement tool"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Which sentence uses 'tremendous' correctly?",
+      "options": {
+        "A": "There was a tremendous decrease in the ant population.",
+        "B": "She made a tremendous mistake that no one noticed.",
+        "C": "The tremendous earthquake caused significant damage.",
+        "D": "His tremendous smile made everyone uncomfortable."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Choose the correct meaning of 'regardless':",
+      "options": {
+        "A": "paying careful attention",
+        "B": "without being affected by something",
+        "C": "with respect to",
+        "D": "depending on"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "What does 'evidence' refer to?",
+      "options": {
+        "A": "something that makes a situation worse",
+        "B": "a strong opinion about something",
+        "C": "information that helps prove something is true",
+        "D": "a formal request for help"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Which sentence uses 'implication' correctly?",
+      "options": {
+        "A": "The implication of her research is that we need to change our approach.",
+        "B": "She used implication to clean the house.",
+        "C": "The implication was served cold.",
+        "D": "He traveled with implication."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "What is the meaning of 'initial'?",
+      "options": {
+        "A": "the final stage",
+        "B": "happening at the end",
+        "C": "existing or occurring at the beginning",
+        "D": "the most important part"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, biomimicry is:",
+      "options": {
+        "A": "the study of biological organisms",
+        "B": "creating artificial biological systems",
+        "C": "emulating nature's designs to solve human problems",
+        "D": "modifying natural ecosystems"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "What inspired the invention of Velcro?",
+      "options": {
+        "A": "Bird wings",
+        "B": "Plant burrs attaching to dog fur",
+        "C": "Termite mounds",
+        "D": "Kingfisher's beak"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "The Eastgate Centre in Zimbabwe is mentioned as an example of:",
+      "options": {
+        "A": "water-harvesting technology",
+        "B": "self-cleaning surfaces",
+        "C": "sustainable building design",
+        "D": "bullet train design"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to the passage, the Japanese bullet train was redesigned to mimic:",
+      "options": {
+        "A": "a kingfisher's beak",
+        "B": "a lotus leaf",
+        "C": "a termite mound",
+        "D": "the Namibian desert beetle"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "The self-cleaning properties of lotus leaves have inspired:",
+      "options": {
+        "A": "water-harvesting technologies",
+        "B": "paints, fabrics, and surfaces that repel dirt",
+        "C": "passive cooling systems",
+        "D": "hook-and-loop fastening systems"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What characteristic of African termite mounds was applied to the Eastgate Centre?",
+      "options": {
+        "A": "Their structural strength",
+        "B": "Their ability to harvest water",
+        "C": "Their temperature regulation capability",
+        "D": "Their resistance to pests"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Which organism's adaptation has inspired technologies for water collection in arid regions?",
+      "options": {
+        "A": "The African termite",
+        "B": "The Namibian desert beetle",
+        "C": "The lotus plant",
+        "D": "The kingfisher"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The passage suggests that biomimicry is particularly valuable for:",
+      "options": {
+        "A": "creating purely aesthetic designs",
+        "B": "replacing natural systems",
+        "C": "developing sustainable technologies",
+        "D": "advancing medical treatments"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What does the passage imply about nature's solutions compared to human-engineered solutions?",
+      "options": {
+        "A": "Nature's solutions are always more complex.",
+        "B": "Nature has already solved many problems after billions of years of evolution.",
+        "C": "Human-engineered solutions are always more efficient.",
+        "D": "Nature's solutions require more energy."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "The overall tone of the passage toward biomimicry is:",
+      "options": {
+        "A": "critical",
+        "B": "neutral",
+        "C": "skeptical",
+        "D": "positive"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    }
+  ]
+}
