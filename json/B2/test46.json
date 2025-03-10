@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Sound is a fundamental part of our daily experience, yet many people rarely consider the complex physics behind what we hear. In its most basic form, sound consists of pressure waves traveling through a medium such as air, water, or solid materials. These waves are created when an object vibrates, disturbing the surrounding medium and causing molecules to bump into each other in a chain reaction. The speed at which sound travels depends primarily on the medium; sound moves approximately 343 meters per second through air at room temperature but travels substantially faster through water and even more rapidly through solid materials like steel.<br><br>(2) Sound waves possess several key characteristics that determine what we hear. Frequency, measured in Hertz (Hz), determines a sound's pitch—higher frequencies create higher pitches, while lower frequencies produce deeper sounds. Amplitude, or the wave's height, determines volume, with larger amplitudes creating louder sounds. The human ear can typically detect frequencies between 20 Hz and 20,000 Hz, although this range tends to narrow with age. Animals, however, often have different hearing ranges; dogs can hear ultrasonic frequencies up to 45,000 Hz, while elephants can detect infrasonic rumbles below 20 Hz that humans cannot perceive.<br><br>(3) Acoustics, the study of how sound behaves in different environments, has numerous practical applications. Concert halls are designed with careful attention to how sound waves reflect, absorb, or diffract to ensure optimal listening experiences. Sound-dampening materials in recording studios prevent unwanted echoes, while the arrangement of speakers in home theater systems aims to create immersive three-dimensional sound fields. Understanding acoustic principles helps engineers design spaces that either enhance desirable sounds or minimize disruptive noise, depending on the context and purpose of the environment.<br><br>(4) Modern technology has expanded our ability to monitor, manipulate, and reproduce sound waves. Digital audio recording converts sound waves into numerical data that can be stored, edited, and transmitted electronically. Noise-canceling headphones use microphones to detect external sounds and generate opposing waveforms that effectively neutralize them. Medical ultrasound employs high-frequency sound waves to create images of internal body structures, while sonar systems use sound propagation underwater to navigate or detect objects. These technologies all rely on the same fundamental principles of sound wave physics despite their diverse applications.<br><br>(5) The study of sound continues to advance, with researchers developing new hypotheses about acoustic phenomena and their potential uses. Some scientists are exploring how sound waves might treat medical conditions, potentially offering alternatives to invasive procedures. Others are investigating acoustic metamaterials that can bend sound waves in seemingly impossible ways, potentially leading to improved sound insulation or even acoustic cloaking devices that render objects sonically invisible. Ultimately, our growing expertise in sound physics not only enriches our understanding of the natural world but continues to enable technological innovations that improve communication, entertainment, healthcare, and countless other aspects of modern life.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the grammatically correct sentence:",
+      "options": {
+        "A": "The committee have made their decision.",
+        "B": "Each of the students are responsible for their own project.",
+        "C": "Neither of the options were acceptable.",
+        "D": "The quality of these products has improved significantly."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the sentence with the correct verb form:",
+      "options": {
+        "A": "If I would have known about the problem, I would have fixed it.",
+        "B": "If I had known about the problem, I would have fixed it.",
+        "C": "If I knew about the problem, I would have fixed it.",
+        "D": "If I have known about the problem, I would fix it."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence contains the correct use of articles?",
+      "options": {
+        "A": "She has a MBA from a prestigious university.",
+        "B": "They took the vacation in the Hawaii last summer.",
+        "C": "He gave me an honest opinion about the situation.",
+        "D": "We visited an historical museum in the downtown."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Identify the sentence with the correct passive voice construction:",
+      "options": {
+        "A": "The report will submitted by Friday.",
+        "B": "The new policy has been implemented by the management.",
+        "C": "The building was completing last year.",
+        "D": "The mistakes been corrected already."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Which sentence demonstrates correct subject-verb agreement?",
+      "options": {
+        "A": "The team are planning their strategy for the championship.",
+        "B": "The data shows interesting patterns in consumer behavior.",
+        "C": "The majority of the students prefers online classes.",
+        "D": "A number of issues has been identified in the report."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Choose the sentence with correct pronoun usage:",
+      "options": {
+        "A": "Between you and I, the project might not be completed on time.",
+        "B": "The manager gave the assignment to John and I.",
+        "C": "Whom do you think will win the competition?",
+        "D": "The teacher asked Sarah and me to prepare a presentation."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Select the sentence with the correct preposition usage:",
+      "options": {
+        "A": "She's been working at this project for three weeks.",
+        "B": "He's worried of failing the examination.",
+        "C": "They're responsible of organizing the event.",
+        "D": "We're looking forward to seeing the final results."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Identify the sentence with correct verb tense consistency:",
+      "options": {
+        "A": "When I arrived at the party, everyone left already.",
+        "B": "By the time we finish the project, we will work on it for six months.",
+        "C": "Before she graduated, she had already secured a job offer.",
+        "D": "While he was driving home, his phone rings."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence contains an error in the conditional form?",
+      "options": {
+        "A": "If it rains tomorrow, we will cancel the picnic.",
+        "B": "If I were you, I would apply for that job.",
+        "C": "If he studies harder, he would pass the exam.",
+        "D": "If they had arrived earlier, they might have gotten better seats."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the sentence with the correct use of reported speech:",
+      "options": {
+        "A": "She said that she will attend the conference.",
+        "B": "He told me that he has completed the assignment yesterday.",
+        "C": "They mentioned that they had encountered several problems during the implementation.",
+        "D": "The professor announced that the exam is difficult."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Select the sentence with the correct comparative form:",
+      "options": {
+        "A": "This solution is more simpler than the one we discussed earlier.",
+        "B": "Their presentation was more better organized than ours.",
+        "C": "The new model is more efficient and less expensive than the previous one.",
+        "D": "This is the most easiest way to solve the problem."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Identify the sentence with the correct relative pronoun:",
+      "options": {
+        "A": "The woman which car was stolen reported it to the police.",
+        "B": "The book who I borrowed from the library was really informative.",
+        "C": "The city where we visited last summer has excellent museums.",
+        "D": "The professor whom teaches statistics is giving a lecture today."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Which sentence contains the correct infinitive or gerund form?",
+      "options": {
+        "A": "They avoided to answer difficult questions during the interview.",
+        "B": "She suggested to go to the museum in the afternoon.",
+        "C": "We're looking forward to meet the new team members.",
+        "D": "The company expects to launch the product next month."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the sentence with the correct adverb placement:",
+      "options": {
+        "A": "He drives careful when it's raining heavily.",
+        "B": "They worked hardly to complete the project before the deadline.",
+        "C": "She speaks English fluently despite learning it recently.",
+        "D": "We almost have finished all the preparations for the event."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the sentence with the correct modal verb usage:",
+      "options": {
+        "A": "You must to complete this form before proceeding.",
+        "B": "She can solving complex problems efficiently.",
+        "C": "We should to consider alternative approaches.",
+        "D": "They might not be able to attend the meeting tomorrow."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the most appropriate word to complete the sentence: 'The team worked tirelessly to _____ their goal of completing the project before the deadline.'",
+      "options": {
+        "A": "accomplish",
+        "B": "succeed",
+        "C": "achieve",
+        "D": "finish"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the most appropriate phrase: 'If the first solution doesn't work, we should consider an _____ approach to the problem.'",
+      "options": {
+        "A": "optional",
+        "B": "another",
+        "C": "other",
+        "D": "alternative"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Complete the sentence: 'Her _____ in artificial intelligence made her the perfect candidate for the research position.'",
+      "options": {
+        "A": "knowledge",
+        "B": "skill",
+        "C": "expertise",
+        "D": "ability"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct collocation: 'The need for clean water is a _____ human right recognized across cultures.'",
+      "options": {
+        "A": "universal",
+        "B": "global",
+        "C": "worldwide",
+        "D": "international"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the most appropriate verb: 'Please don't _____ the speaker during the presentation; save your questions for the end.'",
+      "options": {
+        "A": "disturb",
+        "B": "interfere",
+        "C": "interrupt",
+        "D": "intrude"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Complete the sentence with the most appropriate term: 'The renovation project requires a _____ investment, but it will significantly improve the building's energy efficiency.'",
+      "options": {
+        "A": "considerable",
+        "B": "substantial",
+        "C": "massive",
+        "D": "excessive"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the most suitable word: 'We may face some challenges initially, but _____ I believe the new system will improve productivity.'",
+      "options": {
+        "A": "finally",
+        "B": "eventually",
+        "C": "ultimately",
+        "D": "lastly"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the most appropriate verb: 'The security team will _____ network activity for any suspicious behavior.'",
+      "options": {
+        "A": "watch",
+        "B": "observe",
+        "C": "monitor",
+        "D": "check"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Complete the sentence: 'Scientists have proposed a new _____ to explain how certain galaxies formed after the Big Bang.'",
+      "options": {
+        "A": "theory",
+        "B": "concept",
+        "C": "hypothesis",
+        "D": "idea"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the most appropriate phrase: 'As a citizen, you have an _____ to report any dangerous activities you witness.'",
+      "options": {
+        "A": "obligation",
+        "B": "duty",
+        "C": "responsibility",
+        "D": "commitment"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Which definition best matches the word 'accomplish'?",
+      "options": {
+        "A": "To think about something carefully",
+        "B": "To achieve or complete successfully",
+        "C": "To make a formal agreement",
+        "D": "To improve or develop something"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the sentence that uses 'alternative' correctly:",
+      "options": {
+        "A": "They offered an alternative explanation for the unexpected results.",
+        "B": "The conference was very alternative with many interesting speakers.",
+        "C": "She spoke in an alternative tone during the entire meeting.",
+        "D": "The document contained several alternative mistakes."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What does 'expertise' mean?",
+      "options": {
+        "A": "A strong opinion about something",
+        "B": "The ability to lead a group effectively",
+        "C": "Expert skill or knowledge in a particular field",
+        "D": "A formal qualification or certificate"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which sentence uses 'universal' correctly?",
+      "options": {
+        "A": "The meeting was very universal and lasted for hours.",
+        "B": "This principle is considered universal across different cultures.",
+        "C": "She made a universal decision without consulting anyone.",
+        "D": "The document contained universal information about the project."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Select the word that means 'to stop someone from speaking by saying or doing something':",
+      "options": {
+        "A": "Interact",
+        "B": "Interfere",
+        "C": "Interpret",
+        "D": "Interrupt"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Which of the following is the best definition of 'substantial'?",
+      "options": {
+        "A": "Of considerable importance, size, or value",
+        "B": "Relating to legal matters or procedures",
+        "C": "Occurring unexpectedly or by chance",
+        "D": "Causing significant damage or harm"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "The word 'ultimately' is closest in meaning to:",
+      "options": {
+        "A": "Regularly",
+        "B": "Initially",
+        "C": "Eventually or in the end",
+        "D": "Completely"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Choose the correct definition for 'monitor':",
+      "options": {
+        "A": "To predict future events based on current information",
+        "B": "To observe and check the progress or quality of something over time",
+        "C": "To solve a complex problem systematically",
+        "D": "To give official permission for something to happen"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Which sentence uses 'arrangement' correctly?",
+      "options": {
+        "A": "The flowers were in a beautiful arrangement on the table.",
+        "B": "We had an arrangement discussion about the schedule.",
+        "C": "The project was completed with arrangement precision.",
+        "D": "She spoke with arrangement during the presentation."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "The term 'hypothesis' refers to:",
+      "options": {
+        "A": "A final conclusion based on extensive research",
+        "B": "A suggestion or proposed explanation made on limited evidence as a starting point for further investigation",
+        "C": "A widely accepted scientific theory",
+        "D": "A mathematical formula used to solve complex equations"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What does 'incident' mean?",
+      "options": {
+        "A": "A formal meeting or conference",
+        "B": "An event or occurrence, especially one that is unusual or important",
+        "C": "A gradual process of change over time",
+        "D": "A detailed plan for achieving something"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Choose the sentence that uses 'justice' correctly:",
+      "options": {
+        "A": "The company showed justice in their financial reports.",
+        "B": "We need to justice the situation immediately.",
+        "C": "The legal system aims to ensure justice for all citizens.",
+        "D": "She completed the task with justice efficiency."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "The word 'indication' is best defined as:",
+      "options": {
+        "A": "A sign or piece of information that suggests something",
+        "B": "A formal request for something to happen",
+        "C": "A detailed explanation of a complex concept",
+        "D": "An official document providing certification"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Which sentence uses 'internal' correctly?",
+      "options": {
+        "A": "The community celebrated their internal festival last weekend.",
+        "B": "She received an internal promotion within the company.",
+        "C": "The document was written in an internal language.",
+        "D": "We discussed the project in an internal manner."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "The term 'obligation' refers to:",
+      "options": {
+        "A": "A strong desire or ambition to achieve something",
+        "B": "An optional activity that may be completed if time allows",
+        "C": "A duty or commitment that someone is bound to perform",
+        "D": "A suggestion or recommendation for future action"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, sound waves are created when:",
+      "options": {
+        "A": "Air molecules spontaneously collide with each other",
+        "B": "An object vibrates and disturbs the surrounding medium",
+        "C": "Temperature changes cause air to expand and contract",
+        "D": "Electrical signals are converted into mechanical energy"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following affects the pitch of a sound?",
+      "options": {
+        "A": "The medium through which the sound travels",
+        "B": "The frequency of the sound wave",
+        "C": "The distance from the sound source",
+        "D": "The time of day when the sound is produced"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 2, which animals can detect sounds that humans cannot hear?",
+      "options": {
+        "A": "Dogs and elephants",
+        "B": "Cats and dolphins",
+        "C": "Birds and bats",
+        "D": "Whales and mice"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "The word 'context' in paragraph 3 is closest in meaning to:",
+      "options": {
+        "A": "Physical location",
+        "B": "Surrounding circumstances",
+        "C": "Temporary condition",
+        "D": "Financial situation"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What is the main purpose of acoustics as described in paragraph 3?",
+      "options": {
+        "A": "To create new musical instruments",
+        "B": "To study how sound behaves in different environments",
+        "C": "To develop better hearing aids",
+        "D": "To improve digital recording technology"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to paragraph 4, how do noise-canceling headphones work?",
+      "options": {
+        "A": "By blocking sound waves with thick materials",
+        "B": "By converting sound waves into digital data",
+        "C": "By generating opposing waveforms to neutralize external sounds",
+        "D": "By using sonar technology to detect unwanted noise"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "The passage suggests that acoustic metamaterials could potentially be used for:",
+      "options": {
+        "A": "Generating electricity",
+        "B": "Improving communication networks",
+        "C": "Creating acoustic cloaking devices",
+        "D": "Enhancing human hearing capabilities"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The primary organization of this passage is:",
+      "options": {
+        "A": "Chronological, showing how sound technology has evolved over time",
+        "B": "Comparison and contrast of different sound technologies",
+        "C": "Problem and solution, addressing issues with sound perception",
+        "D": "General to specific, introducing sound physics and then examining applications"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Which statement best represents the main idea of the passage?",
+      "options": {
+        "A": "Sound technologies have significantly improved over the last decade.",
+        "B": "The physics of sound has numerous practical applications in technology and everyday life.",
+        "C": "Acoustic engineering is the most promising field in modern physics.",
+        "D": "Animals have superior hearing capabilities compared to humans."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "Based on the passage, what can be inferred about future developments in sound physics?",
+      "options": {
+        "A": "They will focus primarily on entertainment applications.",
+        "B": "They will likely include medical treatments using sound waves.",
+        "C": "They will be limited by our current understanding of acoustics.",
+        "D": "They will replace traditional communication technologies entirely."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
