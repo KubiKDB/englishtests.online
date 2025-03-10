@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The Meiji Restoration of 1868 marked a pivotal turning point in Japanese history, initiating a remarkable transformation from an isolated feudal society to a modern industrial nation. Following more than two centuries of self-imposed seclusion under the Tokugawa shogunate, Japan faced mounting pressure from Western powers seeking trade concessions and diplomatic relations. The arrival of American Commodore Matthew Perry's \"black ships\" in 1853 dramatically demonstrated Japan's technological disadvantage and vulnerability to foreign intervention. This external pressure, combined with internal dissatisfaction among powerful domains and lower-ranking samurai, ultimately led to the overthrow of the shogunate and the restoration of imperial rule under Emperor Meiji.<br><br>(2) Upon ascending the throne, the young Emperor Meiji and his advisors embarked on an ambitious program of comprehensive reforms encapsulated in the slogan \"rich country, strong military\" (fukoku kyōhei). The new government centralized political power by abolishing the feudal domains and establishing a modern administrative system with prefectures governed by appointed officials. The centuries-old class system was dismantled, with samurai losing their hereditary stipends and exclusive right to bear arms. In their place, a conscript army based on Western models was formed, while a new educational system was instituted to promote literacy and instill nationalistic values among the general population.<br><br>(3) Economic modernization proceeded at an extraordinary pace under state guidance. The government actively established model factories, invested in infrastructure such as railways and telegraphs, and sent thousands of students abroad to acquire Western knowledge and expertise. Japan's leaders selectively adopted elements of Western economic, legal, and educational systems that could strengthen the nation while attempting to preserve traditional cultural values. Private enterprise was encouraged through policies such as tax reforms and banking modernization, leading to the emergence of powerful industrial conglomerates known as zaibatsu, which would dominate the Japanese economy well into the 20th century.<br><br>(4) The social transformations accompanying modernization were equally profound. The Meiji period saw dramatic changes in daily life as Western fashion, architecture, cuisine, and social customs were introduced alongside traditional Japanese practices. Urban centers grew rapidly as industrialization drew rural populations to factory work. Women's roles began to evolve, with female education becoming increasingly valued, though primarily as a means to produce \"good wives and wise mothers\" who could raise patriotic children. While these changes were embraced by many, particularly in urban areas, they also generated tension between modernizers and traditionalists concerned about the erosion of Japanese cultural identity.<br><br>(5) By the time of Emperor Meiji's death in 1912, Japan had achieved remarkable success in its modernization goals. The nation had established itself as an industrial power, built a formidable military, and secured international recognition through victories in the Sino-Japanese War (1894-1895) and Russo-Japanese War (1904-1905)—the first defeat of a European power by an Asian nation in modern times. The constitutional monarchy established under the Meiji Constitution of 1889 provided a framework for governance that balanced traditional imperial authority with modern governmental institutions. Though Japan's rapid transformation came with significant social costs and unresolved tensions, the Meiji Restoration stands as one of history's most successful examples of directed national modernization, fundamentally altering Japan's trajectory and reshaping its relationship with the wider world.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "I need to ________ working on this report for a moment so I can make a quick phone call.",
+      "options": {
+        "A": "stop to do",
+        "B": "stop doing",
+        "C": "stop for doing",
+        "D": "stop to doing"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "By the time you arrive at the party tomorrow, everyone ________ dinner.",
+      "options": {
+        "A": "will finish",
+        "B": "will be finishing",
+        "C": "will have finished",
+        "D": "will have been finishing"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "You ________ me about the change in plans. I waited at the wrong location for hours!",
+      "options": {
+        "A": "should have told",
+        "B": "should tell",
+        "C": "should telling",
+        "D": "should have been telling"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "The receptionist asked me ________ for the conference.",
+      "options": {
+        "A": "did I register",
+        "B": "if I had registered",
+        "C": "had I registered",
+        "D": "if I have registered"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "We need to buy ________ umbrella since it's going to rain later. I think I saw one in ________ shop across the street.",
+      "options": {
+        "A": "an / the",
+        "B": "a / a",
+        "C": "the / an",
+        "D": "an / a"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Never before ________ such an amazing sunset.",
+      "options": {
+        "A": "I have seen",
+        "B": "I had seen",
+        "C": "had I seen",
+        "D": "have I seen"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "When the earthquake struck, most people ________ in their homes.",
+      "options": {
+        "A": "slept",
+        "B": "were sleeping",
+        "C": "had slept",
+        "D": "have slept"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "This time tomorrow, I ________ on the beach in Hawaii.",
+      "options": {
+        "A": "will lie",
+        "B": "will be lying",
+        "C": "will have lain",
+        "D": "am lying"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "The restaurant, ________ opened last month, has already become extremely popular.",
+      "options": {
+        "A": "that",
+        "B": "which",
+        "C": "where",
+        "D": "whose"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Water ________ at 100 degrees Celsius at sea level.",
+      "options": {
+        "A": "is boiling",
+        "B": "boils",
+        "C": "has boiled",
+        "D": "will boil"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "________ you practice a language, ________ fluent you become.",
+      "options": {
+        "A": "The more / the more",
+        "B": "More / more",
+        "C": "Much / much",
+        "D": "The most / the most"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "The conference will be held ________ May 15th ________ the Grand Hotel.",
+      "options": {
+        "A": "in / in",
+        "B": "on / at",
+        "C": "at / in",
+        "D": "on / in"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "I don't need to explain the details again. I've done ________ already.",
+      "options": {
+        "A": "it",
+        "B": "so",
+        "C": "that",
+        "D": "this"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "It was in Paris ________ they first met twenty years ago.",
+      "options": {
+        "A": "that",
+        "B": "which",
+        "C": "where",
+        "D": "when"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "I ________ this book for three weeks now and I'm still only halfway through it.",
+      "options": {
+        "A": "have read",
+        "B": "read",
+        "C": "am reading",
+        "D": "have been reading"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "The company decided to ________ the launch of their new product due to technical issues.",
+      "options": {
+        "A": "put off",
+        "B": "put up",
+        "C": "put away",
+        "D": "put down"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "After the economic crisis, it took the business three years to ________ financially.",
+      "options": {
+        "A": "recover",
+        "B": "restore",
+        "C": "retrieve",
+        "D": "reclaim"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "She managed to ________ with a brilliant solution to the problem that had stumped everyone else.",
+      "options": {
+        "A": "come up",
+        "B": "come through",
+        "C": "come up with",
+        "D": "come about"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "I can't ________ what she sees in him; they seem so different from each other.",
+      "options": {
+        "A": "figure out",
+        "B": "figure on",
+        "C": "figure up",
+        "D": "figure in"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "The team is ________ pressure to complete the project before the deadline.",
+      "options": {
+        "A": "under",
+        "B": "in",
+        "C": "with",
+        "D": "by"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "The rescue team had to ________ the search due to dangerous weather conditions.",
+      "options": {
+        "A": "call for",
+        "B": "call off",
+        "C": "call out",
+        "D": "call on"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Despite all the setbacks, she ________ to finish the marathon in record time.",
+      "options": {
+        "A": "made it",
+        "B": "made up",
+        "C": "made out",
+        "D": "made over"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Could you please ________ a bit more water into my glass?",
+      "options": {
+        "A": "fill",
+        "B": "pour",
+        "C": "add",
+        "D": "include"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "They're ________ good progress with the construction of the new bridge.",
+      "options": {
+        "A": "doing",
+        "B": "making",
+        "C": "taking",
+        "D": "having"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "We need to ________ into account all possible outcomes before making a decision.",
+      "options": {
+        "A": "bring",
+        "B": "put",
+        "C": "take",
+        "D": "hold"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Reading is the ________ method of language acquisition for young learners, according to this research.",
+      "options": {
+        "A": "main",
+        "B": "core",
+        "C": "primary",
+        "D": "basic"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "The committee will ________ the best candidates for the scholarship based on academic achievement and financial need.",
+      "options": {
+        "A": "choose",
+        "B": "pick",
+        "C": "select",
+        "D": "opt"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "The university plans to ________ a new research center dedicated to environmental science next year.",
+      "options": {
+        "A": "establish",
+        "B": "found",
+        "C": "create",
+        "D": "institute"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Trust is an ________ part of any successful business relationship.",
+      "options": {
+        "A": "essential",
+        "B": "important",
+        "C": "necessary",
+        "D": "integral"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "After years of hard work, she finally managed to ________ her goal of becoming a neurosurgeon.",
+      "options": {
+        "A": "reach",
+        "B": "achieve",
+        "C": "attain",
+        "D": "acquire"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Japanese forces ________ much of East Asia during the early stages of World War II.",
+      "options": {
+        "A": "invaded",
+        "B": "controlled",
+        "C": "seized",
+        "D": "occupy"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "You may need to ________ the settings on your camera to get better photos in low light conditions.",
+      "options": {
+        "A": "modify",
+        "B": "change",
+        "C": "adjust",
+        "D": "alter"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Certain medications can ________ sleep, making them useful for treating insomnia.",
+      "options": {
+        "A": "promote",
+        "B": "cause",
+        "C": "create",
+        "D": "induce"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "In this particular ________ of fraud, the criminals posed as bank officials to obtain personal information.",
+      "options": {
+        "A": "case",
+        "B": "example",
+        "C": "occurrence",
+        "D": "instance"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "The hotel is conveniently located ________ to the conference center, just a five-minute walk away.",
+      "options": {
+        "A": "near",
+        "B": "close",
+        "C": "adjacent",
+        "D": "neighboring"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "The company reduced its carbon emissions and ________ improved its environmental reputation.",
+      "options": {
+        "A": "therefore",
+        "B": "thus",
+        "C": "consequently",
+        "D": "thereby"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Police were able to ________ the suspect from security camera footage and eyewitness descriptions.",
+      "options": {
+        "A": "recognize",
+        "B": "detect",
+        "C": "identify",
+        "D": "distinguish"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Natural resources are ________, meaning they exist in limited quantities and cannot be replaced once depleted.",
+      "options": {
+        "A": "scarce",
+        "B": "limited",
+        "C": "exhaustible",
+        "D": "finite"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Doctors need to ________ patients' vital signs carefully after major surgery.",
+      "options": {
+        "A": "check",
+        "B": "observe",
+        "C": "track",
+        "D": "monitor"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "It's important to ________ all hazardous materials clearly to prevent accidents in the laboratory.",
+      "options": {
+        "A": "mark",
+        "B": "tag",
+        "C": "label",
+        "D": "classify"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what was a significant external factor that contributed to the Meiji Restoration?",
+      "options": {
+        "A": "Civil war between feudal domains",
+        "B": "Economic collapse under the Tokugawa shogunate",
+        "C": "Pressure from Western powers seeking trade relations",
+        "D": "The natural death of the previous emperor"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "The slogan \"rich country, strong military\" (fukoku kyōhei) mentioned in paragraph 2 best represents:",
+      "options": {
+        "A": "Japan's diplomatic approach to Western powers",
+        "B": "The core objectives of the Meiji government's reforms",
+        "C": "A traditional Japanese proverb about national strength",
+        "D": "The rallying cry of samurai opposing modernization"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to the passage, what happened to the samurai class during the Meiji period?",
+      "options": {
+        "A": "They gained more political power under the new system",
+        "B": "They formed the core of Japan's new industrial leadership",
+        "C": "They lost their hereditary privileges and exclusive rights",
+        "D": "They were sent abroad to study Western military techniques"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "The term 'zaibatsu' in paragraph 3 refers to:",
+      "options": {
+        "A": "Japanese students studying abroad",
+        "B": "Western economic models adopted by Japan",
+        "C": "Government-run model factories",
+        "D": "Powerful industrial conglomerates"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to paragraph 4, how did women's roles evolve during the Meiji period?",
+      "options": {
+        "A": "Women gained complete social equality with men",
+        "B": "Female education became valued primarily to produce \"good wives and wise mothers\"",
+        "C": "Women were excluded from participating in modernization efforts",
+        "D": "Women led the resistance against Western cultural influences"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What significant international achievement is mentioned in paragraph 5 as evidence of Japan's successful modernization?",
+      "options": {
+        "A": "Japan's victory in wars against China and Russia",
+        "B": "Japan's colonial expansion throughout Asia",
+        "C": "Japan's admission to the League of Nations",
+        "D": "Japan's peaceful diplomatic relations with all Western powers"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "The passage describes Japan's approach to Western systems and knowledge as:",
+      "options": {
+        "A": "Complete rejection in favor of traditional methods",
+        "B": "Wholesale adoption without modifications",
+        "C": "Selective adoption while preserving traditional values",
+        "D": "Initially enthusiastic but ultimately unsuccessful"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The phrase \"self-imposed seclusion\" in paragraph 1 most nearly means:",
+      "options": {
+        "A": "Accidental isolation",
+        "B": "Voluntary separation",
+        "C": "Temporary withdrawal",
+        "D": "Forced quarantine"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to the passage, which of the following was NOT a key element of Japan's modernization strategy?",
+      "options": {
+        "A": "Sending students abroad to acquire Western knowledge",
+        "B": "Establishing a conscript army based on Western models",
+        "C": "Eliminating all aspects of traditional Japanese culture",
+        "D": "Creating a modern administrative system with prefectures"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What does the author suggest was the historical significance of the Meiji Restoration?",
+      "options": {
+        "A": "It represented a complete failure of centralized planning",
+        "B": "It stands as one of history's most successful examples of directed national modernization",
+        "C": "It led directly to Japan's defeat in World War II",
+        "D": "It resulted in minimal change to Japan's traditional society"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
