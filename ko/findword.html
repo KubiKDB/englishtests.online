@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FindWord | 매일 즐기는 단어 퍼즐 게임 | englishtests.online</title>
+    
+    <!-- Meta Description - Keep between 150-160 characters -->
+    <meta name="description" content="FindWord는 매일 새로운 단어 퍼즐을 제공하는 게임입니다. 144개의 무작위 문자 속에서 3~7글자의 영어 단어를 찾아보세요. 어휘력과 단어 실력을 향상하세요.">
+    
+    <!-- Meta Keywords - Still useful for some search engines -->
+    <meta name="keywords" content="findword, 단어 퍼즐 게임, 영어 어휘, 단어 게임, 데일리 퍼즐, 두뇌 훈련, 단어 조합, 언어 학습, ESL 리소스">
+    
+    <!-- Open Graph Meta Tags for better social sharing -->
+    <meta property="og:title" content="FindWord - 매일 즐기는 단어 퍼즐 게임 | englishtests.online">
+    <meta property="og:description" content="FindWord는 매일 새로운 단어 퍼즐을 제공하는 게임입니다. 144개의 무작위 문자 속에서 영어 단어를 찾아 친구들과 경쟁하세요.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://englishtests.online/findword">
+
+	<!-- Google Analytics (GA4) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-K2TNG0KVK8"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-K2TNG0KVK8');
+    </script>
+    
+    <!-- Canonical URL to prevent duplicate content issues -->
+    <link rel="canonical" href="https://englishtests.online/findword">
+    
+    <!-- Additional SEO-friendly meta tags -->
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="englishtests.online">
+    
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0px 10px;
+        }
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            text-align: center;
+            border-bottom: 1px solid #eee;
+        }
+        h1 {
+            color: #000;
+            font-size: 2.5em;
+        }
+        h2 {
+            color: #000;
+            margin-top: 30px;
+        }
+        .section {
+            margin: 40px 0;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+       /* Footer Styling */
+    .footer {
+        background-color: #ffffff;
+        color: #000000;
+        text-align: bottom;
+        padding: 5px;
+        margin-top: 50px;
+        max-width: 800px;
+        flex-shrink: 0;
+    }
+    
+    .footer-content {
+        max-width: 600px;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .footer p {
+        margin: 5px 0;
+        font-size: 1.1em;
+        font-weight: 300;
+    }
+    
+    .footer-email {
+        color: #3498db; /* blue color for the email link */
+        text-decoration: none;
+        transition: color 0.3s ease;
+    }
+    
+    .footer-email:hover {
+        color: #2980b9; /* darker blue on hover */
+        text-decoration: underline;
+    }
+    
+    .footer-spacer {
+        height: 30px;
+        width: 100%;
+    }
+    
+    .footer-made {
+        margin-top: 10px;
+    }
+    
+    .footer-maker {
+        font-size: 1.3em;
+    }        
+    	.highlight {
+            font-weight: bold;
+        }
+        .feature-box {
+            border: 1px solid #eee;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+        }
+        .feature-box h3 {
+            margin-top: 0;
+            color: #000;
+        }
+
+	/* Home button */
+        .home-button {
+            width: 44px;
+            height: 44px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            cursor: pointer;
+            position: relative;
+            z-index: 20;
+            border-radius: 50%;
+            transition: background-color 0.3s;
+            text-decoration: none;
+        }
+
+        .home-button:hover {
+            background-color: rgba(52, 152, 219, 0.1);
+        }
+
+        /* New SVG Home Icon with primary color */
+        .home-icon {
+            width: 24px;
+            height: 24px;
+            fill: #3498DB;
+            transition: fill 0.3s;
+        }
+
+        .home-button:hover .home-icon {
+            fill: #2980b9;
+        }
+        
+        /* Download buttons */
+        .download-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin: 30px 0;
+            flex-wrap: wrap;
+        }
+
+	.image-button {
+            cursor: pointer;
+            border-radius: 8px;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        
+        .image-button:hover {
+            transform: scale(1.05);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+        }
+        
+        .image-button:active {
+            transform: scale(0.98);
+        }
+    </style>
+</head>
+<body>
+    <header>
+	<a href="javascript:history.back()" class="home-button">
+            <svg width="32" height="28" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M0.292893 7.29289C-0.097631 7.68342 -0.0976311 8.31658 0.292893 8.70711L6.65685 15.0711C7.04738 15.4616 7.68054 15.4616 8.07107 15.0711C8.46159 14.6805 8.46159 14.0474 8.07107 13.6569L2.41421 8L8.07107 2.34314C8.46159 1.95262 8.46159 1.31946 8.07107 0.928931C7.68054 0.538407 7.04738 0.538407 6.65685 0.928931L0.292893 7.29289ZM18 7L1 7L1 9L18 9L18 7Z" fill="#3498DB"/>
+            </svg>
+        </a>
+        <h1 style="font-size: 20px; text-align: center; flex-grow: 1;">FindWord: 매일 즐기는 단어 퍼즐 게임</h1>
+	<a href="https://englishtests.online/" class="home-button">
+            <svg class="home-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+                <path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1 0-2.2 0-3.3-.1c-1.4 .1-2.8 .1-4.2 .1H416 392c-22.1 0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7 0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5 0-3-.1-4.5-.2c-1.2 .1-2.4 .2-3.6 .2H104c-22.1 0-40-17.9-40-40V360c0-.9 0-1.9 .1-2.8V287.6H32c-18 0-32-14-32-32.1c0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/>
+            </svg>
+        </a>
+    </header>
+    
+    <main>
+        <section class="section" id="welcome">
+            <p>FindWord는 144개의 무작위 문자 속에서 영어 단어를 찾아내는 퍼즐 게임입니다. 매일 전 세계 모든 플레이어가 동일한 문자 배열을 받으며, 가족 및 친구들과 함께 즐기기에 안성맞춤입니다. 마치 보물을 찾는 것처럼 단어를 발굴하는 재미를 느껴보세요! 꾸준히 플레이하면 어휘력이 향상될 뿐만 아니라 두뇌 건강에도 도움이 됩니다.</p>
+            
+            <div class="download-buttons">
+		<a href="https://play.google.com/store/apps/details?id=com.daniel.findword">
+        		<img src="googleplay.svg" alt="Google Play" class="image-button">
+    		</a>
+		<a href="https://apps.apple.com/app/findword/id6471604639">
+        		<img src="appstore.svg" alt="App Store" class="image-button">
+    		</a>
+            </div>
+        </section>
+        
+        <section class="section" id="how-to-play">
+            <h3>게임 방법:</h3>
+            <ul>
+                <li>단어를 만들기 위해 글자를 순서대로 터치하세요.</li>
+                <li>"제출" 버튼을 눌러 단어를 등록하세요.</li>
+                <li>선택한 글자는 파란색으로 강조되며, 인접한 선택 가능한 글자는 초록색으로 표시됩니다.</li>
+                <li>이전 글자를 다시 사용할 수 없으며, 인접한 글자만 선택할 수 있습니다.</li>
+                <li>선택을 취소하려면 다시 터치하거나 "제출" 버튼을 눌러 초기화하세요.</li>
+            </ul>
+        </section>
+        
+        <section class="section" id="strategy">
+            <h3>전략 팁:</h3>
+            <ul>
+                <li>모든 단어를 한 번에 찾으려고 하지 말고, 천천히 진행하세요. 퍼즐은 24시간 동안 유지됩니다.</li>
+                <li>짧은 휴식을 취하며 집중력을 회복하세요.</li>
+                <li>처음에는 짧은 단어가 눈에 띄지만, 연습할수록 6~7글자 단어도 쉽게 찾을 수 있습니다.</li>
+                <li>끈기를 가지고 도전하세요! 처음에는 몇십 개의 단어만 보일지 몰라도, 계속 플레이하면 수백 개의 단어를 찾을 수 있습니다.</li>
+            </ul>
+        </section>
+        
+        <section class="section" id="benefits">
+            <h3>언어 학습 효과:</h3>
+            <div class="feature-box">
+                <h4>어휘력 향상</h4>
+                <p>게임을 즐기면서 자연스럽게 새로운 단어를 익히고 어휘력을 확장할 수 있습니다.</p>
+            </div>
+            
+            <div class="feature-box">
+                <h4>단어 인식 능력</h4>
+                <p>영어 단어를 인식하고 올바르게 철자를 익히는 능력을 기를 수 있습니다.</p>
+            </div>
+            
+            <div class="feature-box">
+                <h4>패턴 인식</h4>
+                <p>문자 조합을 분석하고 단어 패턴을 찾아내는 능력을 개발할 수 있습니다.</p>
+            </div>
+            
+            <div class="feature-box">
+                <h4>형태소 이해</h4>
+                <p>접두사, 접미사, 어근 등 단어 형성의 원리를 익힐 수 있습니다.</p>
+            </div>
+            
+            <div class="feature-box">
+                <h4>영어 철자 및 발음 규칙 학습</h4>
+                <p>영어의 음운 패턴과 철자 규칙을 자연스럽게 익힐 수 있습니다.</p>
+            </div>
+        </section>
+        
+        <section class="section" id="conclusion">
+            <p>FindWord를 꾸준히 플레이하면 복잡한 단어와 패턴을 더 쉽게 찾아낼 수 있으며, 재미있으면서도 교육적인 경험을 제공합니다.</p>
+            
+            <div class="download-buttons">
+		<a href="https://play.google.com/store/apps/details?id=com.daniel.findword">
+        		<img src="googleplay.svg" alt="Google Play" class="image-button">
+    		</a>
+		<a href="https://apps.apple.com/app/findword/id6471604639">
+        		<img src="appstore.svg" alt="App Store" class="image-button">
+    		</a>
+            </div>
+        </section>
+        
+        <section class="section" id="contact">
+            <h3>문의하기</h3>
+            <p>여러분의 의견을 소중히 생각합니다. 질문이나 제안이 있다면 <a href="mailto:info@englishtests.online">info@englishtests.online</a>로 연락 주세요.</p>
+        </section>
+    </main>
+    
+    <footer class="footer">
+    <div class="footer-content">
+        <p>© Copyright 2025</p>
+        <p><a href="mailto:info@englishtests.online" class="footer-email">info@englishtests.online</a></p>
+        <p>All rights reserved</p>        
+        <p class="footer-made">Made by <a href="https://play.google.com/store/apps/dev?id=5093525609695433503" class="footer-email">KubiKDB</a></p>
+    </div>
+    </footer>
+    <!-- Structured data for better SEO (JSON-LD) -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "name": "FindWord",
+        "url": "https://englishtests.online/findword",
+        "description": "A daily word puzzle game that challenges players to discover English words within a grid of 144 randomly generated letters.",
+        "applicationCategory": "GameApplication",
+        "operatingSystem": "iOS, ANDROID",
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "USD"
+        },
+        "author": {
+            "@type": "Organization",
+            "name": "englishtests.online",
+            "email": "info@englishtests.online"
+        }
+    }
+    </script>
+</body>
+</html>
