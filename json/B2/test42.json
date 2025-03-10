@@ -1,0 +1,605 @@
+ {
+  "passage": "<br>(1) In today's interconnected world, cybersecurity has become a critical field that focuses on protecting digital information from unauthorized access and malicious attacks. As our reliance on technology increases, so does the sophistication of cyber threats, making the development of robust security measures increasingly important. Organizations and individuals alike must remain vigilant against potential vulnerabilities that could compromise sensitive data.<br><br>(2) One significant advancement in cybersecurity is the implementation of machine learning algorithms that can detect unusual patterns and potential threats in real-time. These systems analyze network traffic and user behavior to identify anomalies that might indicate a security breach. Unlike traditional security protocols that rely on known threat signatures, machine learning can adapt to new and evolving attack methods, providing a more dynamic defense mechanism against emerging threats.<br><br>(3) Encryption technology represents another crucial component in the cybersecurity landscape. Modern encryption methods transform readable data into coded text that can only be deciphered with the correct cryptographic key. The strength of encryption has improved dramatically in recent years, with quantum-resistant algorithms being developed to counter the potential threat of quantum computing. These advancements ensure that encrypted data remains secure even as computational power continues to increase.<br><br>(4) Multi-factor authentication has also emerged as an essential security measure for protecting digital accounts and information. By requiring users to verify their identity through multiple methods—such as passwords, biometric data, and temporary access codes—multi-factor authentication significantly reduces the risk of unauthorized access. Even if one authentication factor is compromised, additional layers of verification prevent malicious actors from gaining entry to protected systems.<br><br>(5) Despite these technological advancements, human awareness remains a fundamental aspect of effective cybersecurity. Social engineering attacks that manipulate people into revealing confidential information continue to be prevalent. Educational initiatives that teach individuals to recognize phishing attempts, suspicious emails, and other common tactics are vital for creating a comprehensive security framework. By combining technological solutions with informed human behavior, organizations can establish a more resilient defense against the diverse array of cyber threats in our digital ecosystem.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which form of the verb is correct in this sentence? 'She _____ in London for five years before moving to Paris.'",
+      "options": {
+        "A": "lives",
+        "B": "has lived",
+        "C": "had lived",
+        "D": "was living"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct relative pronoun: 'The book _____ I borrowed from the library is overdue.'",
+      "options": {
+        "A": "who",
+        "B": "whom",
+        "C": "whose",
+        "D": "which"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the correct conditional form: 'If I _____ the lottery, I would buy a house.'",
+      "options": {
+        "A": "win",
+        "B": "won",
+        "C": "had won",
+        "D": "would win"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct preposition: 'They arrived _____ the airport on time.'",
+      "options": {
+        "A": "to",
+        "B": "in",
+        "C": "at",
+        "D": "on"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Identify the correct modal verb: 'You _____ take an umbrella; it might rain later.'",
+      "options": {
+        "A": "must",
+        "B": "should",
+        "C": "can",
+        "D": "will"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the correct passive voice form: 'The report _____ by the committee last week.'",
+      "options": {
+        "A": "is written",
+        "B": "was written",
+        "C": "has been written",
+        "D": "had written"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct future tense form: 'By next summer, I _____ here for ten years.'",
+      "options": {
+        "A": "will be working",
+        "B": "will work",
+        "C": "will have worked",
+        "D": "am going to work"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Identify the correct article: 'She has _____ MBA from Harvard University.'",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article needed"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct comparative form: 'The project was _____ than we expected.'",
+      "options": {
+        "A": "more difficult",
+        "B": "difficulter",
+        "C": "most difficult",
+        "D": "the most difficult"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Select the correct form of the gerund: '_____ is his favorite hobby.'",
+      "options": {
+        "A": "Cook",
+        "B": "To cook",
+        "C": "Cooking",
+        "D": "Cooked"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct reported speech: 'She said, \"I will call you tomorrow.\"'",
+      "options": {
+        "A": "She said she will call me tomorrow.",
+        "B": "She said she would call me the next day.",
+        "C": "She said she will call me the next day.",
+        "D": "She said she would call me tomorrow."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Identify the correct use of articles: 'We had _____ wonderful dinner at _____ new restaurant on Main Street.'",
+      "options": {
+        "A": "a, a",
+        "B": "a, the",
+        "C": "the, a",
+        "D": "the, the"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Select the correct question tag: 'You've been to Paris, _____?'",
+      "options": {
+        "A": "haven't you",
+        "B": "didn't you",
+        "C": "weren't you",
+        "D": "don't you"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct phrasal verb: 'Could you please _____ these forms before the meeting?'",
+      "options": {
+        "A": "fill out",
+        "B": "fill in",
+        "C": "fill up",
+        "D": "fill over"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Identify the correct use of the present perfect continuous: 'She _____ for this company since 2018.'",
+      "options": {
+        "A": "works",
+        "B": "is working",
+        "C": "has worked",
+        "D": "has been working"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct word to complete this sentence: 'The results of the experiment were not _____ with our hypothesis.'",
+      "options": {
+        "A": "coherent",
+        "B": "consistent",
+        "C": "concurrent",
+        "D": "consecutive"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the appropriate idiom: 'The project is very challenging, but I'm determined to see it _____.'",
+      "options": {
+        "A": "through the roof",
+        "B": "around the corner",
+        "C": "through thick and thin",
+        "D": "through to the end"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct collocation: 'The government needs to _____ action to address climate change.'",
+      "options": {
+        "A": "do",
+        "B": "make",
+        "C": "take",
+        "D": "have"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Identify the correct expression: 'I was _____ to hear about your promotion.'",
+      "options": {
+        "A": "delighted",
+        "B": "delightful",
+        "C": "delighting",
+        "D": "delightedly"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the appropriate sentence structure: 'Not only _____ the assignment on time, but he also received the highest grade.'",
+      "options": {
+        "A": "he completed",
+        "B": "did he complete",
+        "C": "he did complete",
+        "D": "completed he"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the correct expression: 'The company's profits have _____ significantly over the past year.'",
+      "options": {
+        "A": "risen up",
+        "B": "gone over",
+        "C": "increased",
+        "D": "heightened"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Identify the correct linking phrase: 'She was tired; _____, she decided to continue working.'",
+      "options": {
+        "A": "therefore",
+        "B": "nevertheless",
+        "C": "furthermore",
+        "D": "meanwhile"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct fixed expression: 'The discussion was very productive; we covered a lot of _____ in a short time.'",
+      "options": {
+        "A": "field",
+        "B": "ground",
+        "C": "area",
+        "D": "space"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Select the appropriate phrasal verb: 'The meeting has been _____ until next week.'",
+      "options": {
+        "A": "put off",
+        "B": "put away",
+        "C": "put down",
+        "D": "put up"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Identify the correct formal expression: 'We would be grateful _____ you could reply by Friday.'",
+      "options": {
+        "A": "when",
+        "B": "if",
+        "C": "that",
+        "D": "while"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Which definition best describes 'concern'?",
+      "options": {
+        "A": "A matter of interest or importance",
+        "B": "A simple request",
+        "C": "A brief moment of happiness",
+        "D": "A random thought"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "In which sentence is 'emphasis' used correctly?",
+      "options": {
+        "A": "The emphasis was too heavy to carry.",
+        "B": "She placed special emphasis on the importance of teamwork.",
+        "C": "They collected emphasis from the garden.",
+        "D": "The emphasis flew over the mountain."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Choose the sentence where 'analyze' is used correctly.",
+      "options": {
+        "A": "We need to analyze the results before drawing any conclusions.",
+        "B": "She decided to analyze the book back to the library.",
+        "C": "They analyze a new car last week.",
+        "D": "Please analyze your shoes at the door."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which word is closest in meaning to 'temporary'?",
+      "options": {
+        "A": "Permanent",
+        "B": "Robust",
+        "C": "Provisional",
+        "D": "Essential"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "In which sentence is 'initiative' used correctly?",
+      "options": {
+        "A": "The initiative was placed on the shelf.",
+        "B": "We served initiative for dinner last night.",
+        "C": "The company launched a new initiative to reduce carbon emissions.",
+        "D": "He built an initiative in his backyard."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Choose the sentence where 'restore' is used correctly.",
+      "options": {
+        "A": "We need to restore some groceries for the party.",
+        "B": "The conservators will restore the ancient painting to its former glory.",
+        "C": "She decided to restore a cup of coffee.",
+        "D": "They restore the meeting until next week."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Which sentence uses 'determine' correctly?",
+      "options": {
+        "A": "They will determine the party next Saturday.",
+        "B": "We determine our luggage at the hotel.",
+        "C": "The scientists will determine the cause of the disease through extensive research.",
+        "D": "She determined the keys on the table."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "What is the best definition of 'distinct'?",
+      "options": {
+        "A": "Vague and unclear",
+        "B": "Recognizably different from others",
+        "C": "Exactly the same",
+        "D": "Complicated and confusing"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Choose the sentence that uses 'economy' correctly.",
+      "options": {
+        "A": "She economy the books on the shelf.",
+        "B": "The global economy is showing signs of recovery.",
+        "C": "We economy our dinner last night.",
+        "D": "They economy up the stairs."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "In which sentence is 'pursue' used correctly?",
+      "options": {
+        "A": "She decided to pursue her dream of becoming a doctor.",
+        "B": "They pursue the table across the room.",
+        "C": "We pursue lunch at 1 PM every day.",
+        "D": "I pursue my keys in my pocket."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Which sentence uses 'solution' correctly?",
+      "options": {
+        "A": "The solution was very tall and elegant.",
+        "B": "We ate solution for breakfast.",
+        "C": "They found a solution to the complex problem.",
+        "D": "She solution the door carefully."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Choose the sentence where 'engage' is used correctly.",
+      "options": {
+        "A": "They engage a large house in the countryside.",
+        "B": "The professor tried to engage the students in a lively discussion.",
+        "C": "We engage lunch at the new restaurant.",
+        "D": "She engage the book on the shelf."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "In which sentence is 'persuade' used correctly?",
+      "options": {
+        "A": "She persuaded her parents to let her go to the concert.",
+        "B": "They persuade the furniture around the room.",
+        "C": "We persuade dinner at 7 PM.",
+        "D": "He persuaded the door shut."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Choose the sentence that uses 'educate' correctly.",
+      "options": {
+        "A": "She educate the book back on the shelf.",
+        "B": "They educate the meeting for next week.",
+        "C": "It's important to educate children about environmental issues.",
+        "D": "We educate lunch every day at noon."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Which definition best describes 'reliable'?",
+      "options": {
+        "A": "Consistently good in quality or performance; dependable",
+        "B": "Quick to anger or become upset",
+        "C": "Causing harm or damage",
+        "D": "Having many different colors"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, why has cybersecurity become a critical field?",
+      "options": {
+        "A": "Because cybersecurity professionals earn high salaries",
+        "B": "Due to increased reliance on technology and sophisticated cyber threats",
+        "C": "Because the government mandates it",
+        "D": "Due to recent decreases in cyber attacks"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "What advantage do machine learning algorithms have over traditional security protocols?",
+      "options": {
+        "A": "They cost less to implement",
+        "B": "They are easier to maintain",
+        "C": "They can adapt to new and evolving attack methods",
+        "D": "They require less computing power"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "What is being developed to counter the potential threat of quantum computing in cybersecurity?",
+      "options": {
+        "A": "Multi-factor authentication",
+        "B": "Quantum-resistant algorithms",
+        "C": "Social engineering training",
+        "D": "Biometric data"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to the passage, what makes multi-factor authentication effective?",
+      "options": {
+        "A": "It is less expensive than other security measures",
+        "B": "It requires only one type of verification",
+        "C": "It eliminates the need for passwords",
+        "D": "It requires multiple methods of identity verification"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What type of attack manipulates people into revealing confidential information?",
+      "options": {
+        "A": "Encryption attacks",
+        "B": "Machine learning exploits",
+        "C": "Social engineering attacks",
+        "D": "Multi-factor breaches"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What does the passage suggest is a fundamental aspect of effective cybersecurity?",
+      "options": {
+        "A": "Government regulation",
+        "B": "Human awareness",
+        "C": "Expensive software",
+        "D": "Corporate policies"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Which of the following is NOT mentioned in the passage as an advancement in cybersecurity?",
+      "options": {
+        "A": "Machine learning algorithms",
+        "B": "Encryption technology",
+        "C": "Blockchain technology",
+        "D": "Multi-factor authentication"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to the passage, what do modern encryption methods do?",
+      "options": {
+        "A": "They eliminate the need for passwords",
+        "B": "They transform readable data into coded text",
+        "C": "They automatically detect network breaches",
+        "D": "They train users to recognize threats"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "The passage suggests that a comprehensive security framework should combine:",
+      "options": {
+        "A": "Technological solutions and informed human behavior",
+        "B": "Government regulations and corporate policies",
+        "C": "Expensive software and hardware solutions",
+        "D": "Frequent system updates and data backups"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What does the passage imply about the future of cybersecurity?",
+      "options": {
+        "A": "Threats will eventually decrease as technology improves",
+        "B": "Human involvement will become unnecessary",
+        "C": "Security measures must continue to evolve as threats become more sophisticated",
+        "D": "Government regulation will solve most cybersecurity issues"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
