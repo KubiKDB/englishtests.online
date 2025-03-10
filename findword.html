@@ -190,12 +190,42 @@
         .image-button:active {
             transform: scale(0.98);
         }
+
+	.flag-grid {
+        display: grid;
+        grid-template-columns: repeat(14, 1fr);
+        grid-template-rows: repeat(1, 1fr);
+        gap: 10px;
+        max-width: 800px;
+        margin: 15px auto;
+        padding: 0 10px;
+    }
+    
+    .flag-link {
+        display: block;
+        border-radius: 4px;
+        overflow: hidden;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    
+    .flag-link:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    }
+    
+    .flag-icon {
+        width: 100%;
+        height: auto;
+        aspect-ratio: 3/2;
+        display: block;
+    }
     </style>
 </head>
 <body>
     <header>
 	<a href="javascript:history.back()" class="home-button">
-            <svg width="32" height="28" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <svg width="25.6" height="22.4" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M0.292893 7.29289C-0.097631 7.68342 -0.0976311 8.31658 0.292893 8.70711L6.65685 15.0711C7.04738 15.4616 7.68054 15.4616 8.07107 15.0711C8.46159 14.6805 8.46159 14.0474 8.07107 13.6569L2.41421 8L8.07107 2.34314C8.46159 1.95262 8.46159 1.31946 8.07107 0.928931C7.68054 0.538407 7.04738 0.538407 6.65685 0.928931L0.292893 7.29289ZM18 7L1 7L1 9L18 9L18 7Z" fill="#3498DB"/>
             </svg>
         </a>
@@ -208,6 +238,53 @@
     </header>
     
     <main>
+	<div class="flag-grid">
+    <!-- Row 1 -->
+    <a href="/bn" class="flag-link">
+        <img src="bangladesh.svg" alt="Bengali">
+    </a>
+    <a href="/pt-br" class="flag-link">
+        <img src="brazil.svg" alt="Portuguese">
+    </a>
+    <a href="/zh-CN" class="flag-link">
+        <img src="china.svg" alt="Chinese">
+    </a>
+    <a href="/ar" class="flag-link">
+        <img src="egypt.svg" alt="Arabic">
+    </a>
+    <a href="/fr" class="flag-link">
+        <img src="france.svg" alt="French">
+    </a>
+    <a href="/de" class="flag-link">
+        <img src="germany.svg" alt="German">
+    </a>
+    <a href="/hi" class="flag-link">
+        <img src="india.svg" alt="Hindi">
+    </a>
+    
+    <!-- Row 2 -->
+    <a href="/id" class="flag-link">
+        <img src="indonesia.svg" alt="Indonesian">
+    </a>
+    <a href="/ja" class="flag-link">
+        <img src="japan.svg" alt="Japanese">
+    </a>
+    <a href="/tl" class="flag-link">
+        <img src="philippines.svg" alt="Filipino">
+    </a>
+    <a href="/ko" class="flag-link">
+        <img src="south-korea.svg" alt="Korean">
+    </a>
+    <a href="/es" class="flag-link">
+        <img src="spain.svg" alt="Spanish">
+    </a>
+    <a href="/tr" class="flag-link">
+        <img src="turkey.svg" alt="Turkish">
+    </a>
+    <a href="/vi" class="flag-link">
+        <img src="vietnam.svg" alt="Vietnamese">
+    </a>
+</div>
         <section class="section" id="welcome">
             <p>FindWord is a daily puzzle game that challenges you to discover English words hidden within a grid of 144 randomly generated letters. Each day, all players worldwide receive the same letter grid, making it perfect for friendly competition with family and friends. Think of FindWord as a treasure hunt where you dig for words like finding gold nuggets in ore. Regular play not only provides entertainment but may help maintain mental acuity over time when paired with physical exercise.</p>
             
