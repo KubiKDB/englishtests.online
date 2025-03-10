@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FindWord | Günlük Kelime Bulmaca Oyunu | englishtests.online</title>
+    
+    <!-- Meta Description - Keep between 150-160 characters -->
+    <meta name="description" content="FindWord ile kendinizi sınayın! 144 rastgele harften oluşan günlük kelime bulmaca oyunu. 3-7 harfli İngilizce kelimeleri bulun, kelime bilginizi geliştirin.">
+    
+    <!-- Meta Keywords - Still useful for some search engines -->
+    <meta name="keywords" content="findword, kelime bulmaca oyunu, İngilizce kelime bilgisi, kelime oyunları, günlük bulmaca, beyin egzersizi, kelime oluşturma, dil öğrenme, ESL kaynakları">
+    
+    <!-- Open Graph Meta Tags for better social sharing -->
+    <meta property="og:title" content="FindWord - Günlük Kelime Bulmaca Oyunu | englishtests.online">
+    <meta property="og:description" content="FindWord ile kendinizi sınayın! 144 rastgele harften oluşan günlük kelime bulmaca oyunu. İngilizce kelimeleri bulun ve dünya çapındaki arkadaşlarınızla yarışın.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://englishtests.online/findword">
+
+	<!-- Google Analytics (GA4) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-K2TNG0KVK8"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-K2TNG0KVK8');
+    </script>
+    
+    <!-- Canonical URL to prevent duplicate content issues -->
+    <link rel="canonical" href="https://englishtests.online/findword">
+    
+    <!-- Additional SEO-friendly meta tags -->
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="englishtests.online">
+    
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0px 10px;
+        }
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            text-align: center;
+            border-bottom: 1px solid #eee;
+        }
+        h1 {
+            color: #000;
+            font-size: 2.5em;
+        }
+        h2 {
+            color: #000;
+            margin-top: 30px;
+        }
+        .section {
+            margin: 40px 0;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+       /* Footer Styling */
+    .footer {
+        background-color: #ffffff;
+        color: #000000;
+        text-align: bottom;
+        padding: 5px;
+        margin-top: 50px;
+        max-width: 800px;
+        flex-shrink: 0;
+    }
+    
+    .footer-content {
+        max-width: 600px;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .footer p {
+        margin: 5px 0;
+        font-size: 1.1em;
+        font-weight: 300;
+    }
+    
+    .footer-email {
+        color: #3498db; /* blue color for the email link */
+        text-decoration: none;
+        transition: color 0.3s ease;
+    }
+    
+    .footer-email:hover {
+        color: #2980b9; /* darker blue on hover */
+        text-decoration: underline;
+    }
+    
+    .footer-spacer {
+        height: 30px;
+        width: 100%;
+    }
+    
+    .footer-made {
+        margin-top: 10px;
+    }
+    
+    .footer-maker {
+        font-size: 1.3em;
+    }        
+    	.highlight {
+            font-weight: bold;
+        }
+        .feature-box {
+            border: 1px solid #eee;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+        }
+        .feature-box h3 {
+            margin-top: 0;
+            color: #000;
+        }
+
+	/* Home button */
+        .home-button {
+            width: 44px;
+            height: 44px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            cursor: pointer;
+            position: relative;
+            z-index: 20;
+            border-radius: 50%;
+            transition: background-color 0.3s;
+            text-decoration: none;
+        }
+
+        .home-button:hover {
+            background-color: rgba(52, 152, 219, 0.1);
+        }
+
+        /* New SVG Home Icon with primary color */
+        .home-icon {
+            width: 24px;
+            height: 24px;
+            fill: #3498DB;
+            transition: fill 0.3s;
+        }
+
+        .home-button:hover .home-icon {
+            fill: #2980b9;
+        }
+        
+        /* Download buttons */
+        .download-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin: 30px 0;
+            flex-wrap: wrap;
+        }
+
+	.image-button {
+            cursor: pointer;
+            border-radius: 8px;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        
+        .image-button:hover {
+            transform: scale(1.05);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+        }
+        
+        .image-button:active {
+            transform: scale(0.98);
+        }
+    </style>
+</head>
+<body>
+    <header>
+	<a href="javascript:history.back()" class="home-button">
+            <svg width="32" height="28" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M0.292893 7.29289C-0.097631 7.68342 -0.0976311 8.31658 0.292893 8.70711L6.65685 15.0711C7.04738 15.4616 7.68054 15.4616 8.07107 15.0711C8.46159 14.6805 8.46159 14.0474 8.07107 13.6569L2.41421 8L8.07107 2.34314C8.46159 1.95262 8.46159 1.31946 8.07107 0.928931C7.68054 0.538407 7.04738 0.538407 6.65685 0.928931L0.292893 7.29289ZM18 7L1 7L1 9L18 9L18 7Z" fill="#3498DB"/>
+            </svg>
+        </a>
+        <h1 style="font-size: 20px; text-align: center; flex-grow: 1;">FindWord: Günlük Kelime Bulmaca Oyunu</h1>
+	<a href="https://englishtests.online/" class="home-button">
+            <svg class="home-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+                <path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1 0-2.2 0-3.3-.1c-1.4 .1-2.8 .1-4.2 .1H416 392c-22.1 0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7 0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5 0-3-.1-4.5-.2c-1.2 .1-2.4 .2-3.6 .2H104c-22.1 0-40-17.9-40-40V360c0-.9 0-1.9 .1-2.8V287.6H32c-18 0-32-14-32-32.1c0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/>
+            </svg>
+        </a>
+    </header>
+    
+    <main>
+        <section class="section" id="welcome">
+            <p>FindWord, 144 rastgele harften oluşan bir ızgarada gizli İngilizce kelimeleri keşfetmenizi sağlayan günlük bir bulmaca oyunudur. Her gün dünya çapındaki tüm oyuncular aynı harf ızgarasını alır, bu da arkadaşlarınız ve ailenizle rekabet etmek için mükemmel bir fırsat sunar. FindWord, altın madeni içinde altın külçeleri aramak gibi, kelimeleri keşfetmeye dayalı bir hazine avı gibidir. Düzenli olarak oynadığınızda hem eğlenir hem de zihinsel keskinliğinizi koruyabilirsiniz.</p>
+            
+            <div class="download-buttons">
+		<a href="https://play.google.com/store/apps/details?id=com.daniel.findword">
+        		<img src="googleplay.svg" alt="Google Play" class="image-button">
+    		</a>
+		<a href="https://apps.apple.com/app/findword/id6471604639">
+        		<img src="appstore.svg" alt="App Store" class="image-button">
+    		</a>
+            </div>
+        </section>
+        
+        <section class="section" id="how-to-play">
+            <h3>Nasıl Oynanır:</h3>
+            <ul>
+                <li>Harfleri sırayla seçerek bir kelime oluşturun</li>
+                <li>Bulduğunuz kelimeyi kaydetmek için "Gönder" butonuna basın</li>
+                <li>Seçili harfler maviyle vurgulanır, kullanılabilir komşu harfler yeşille gösterilir</li>
+                <li>Sadece komşu harfleri seçebilirsiniz ve aynı harfi tekrar kullanamazsınız</li>
+                <li>Bir harfi kaldırmak için tekrar dokunun; mevcut kelime girişinizi iptal etmek için "Gönder" butonuna basın</li>
+            </ul>
+        </section>
+        
+        <section class="section" id="strategy">
+            <h3>Strateji İpuçları:</h3>
+            <ul>
+                <li>Tüm kelimeleri bir anda bulmaya çalışmak yerine kendinize zaman tanıyın; her bulmaca 24 saat boyunca erişilebilir</li>
+                <li>Zihninizi tazelemek için kısa aralar verin</li>
+                <li>Önce kısa kelimeleri fark edeceksiniz, ancak zamanla 6-7 harfli kelimeleri de bulabilirsiniz</li>
+                <li>Sabırlı olun—başlangıçta sadece birkaç kelime bulsanız bile, düzenli oynayarak yüzlerce kelimeye ulaşabilirsiniz</li>
+            </ul>
+        </section>
+        
+        <section class="section" id="benefits">
+            <h3>Dil Öğrenme Faydaları:</h3>
+            <div class="feature-box">
+                <h4>Kelime Dağarcığınızı Genişletin</h4>
+                <p>Yeni kelimeler keşfedin ve aktif kelime bilginizi geliştirin.</p>
+            </div>
+            
+            <div class="feature-box">
+                <h4>Kelime Tanıma Becerinizi Güçlendirin</h4>
+                <p>İngilizce kelimeleri tanıma ve doğru yazma yeteneğinizi geliştirin.</p>
+            </div>
+            
+            <div class="feature-box">
+                <h4>Harf ve Kelime Örüntülerini Tanıyın</h4>
+                <p>Harf kombinasyonlarını ve kelime yapılarını fark etme yeteneğinizi artırın.</p>
+            </div>
+            
+            <div class="feature-box">
+                <h4>Morfoloji Bilginizi Artırın</h4>
+                <p>Önekler, sonekler ve kök kelimeleri öğrenerek kelime türetme bilginizi geliştirin.</p>
+            </div>
+            
+            <div class="feature-box">
+                <h4>Dil Kurallarını Pekiştirin</h4>
+                <p>İngilizce'nin fonolojik kalıplarını ve yazım kurallarını daha iyi anlayın.</p>
+            </div>
+        </section>
+        
+        <section class="section" id="conclusion">
+            <p>FindWord oynadıkça, karmaşık kelimeleri ve örüntüleri fark etme yeteneğinizin geliştiğini göreceksiniz. Bu oyun hem eğlenceli hem de eğitici!</p>
+            
+            <div class="download-buttons">
+		<a href="https://play.google.com/store/apps/details?id=com.daniel.findword">
+        		<img src="googleplay.svg" alt="Google Play" class="image-button">
+    		</a>
+		<a href="https://apps.apple.com/app/findword/id6471604639">
+        		<img src="appstore.svg" alt="App Store" class="image-button">
+    		</a>
+            </div>
+        </section>
+        
+        <section class="section" id="contact">
+            <h3>Bize Ulaşın</h3>
+            <p>Geri bildirimleriniz ve önerileriniz bizim için çok değerli. FindWord ile ilgili sorularınız, yorumlarınız veya fikirleriniz varsa, lütfen bizimle iletişime geçin: <a href="mailto:info@englishtests.online">info@englishtests.online</a>.</p>
+        </section>
+    </main>
+    
+    <footer class="footer">
+    <div class="footer-content">
+        <p>© Copyright 2025</p>
+        <p><a href="mailto:info@englishtests.online" class="footer-email">info@englishtests.online</a></p>
+        <p>All rights reserved</p>        
+        <p class="footer-made">Made by <a href="https://play.google.com/store/apps/dev?id=5093525609695433503" class="footer-email">KubiKDB</a></p>
+    </div>
+    </footer>
+    <!-- Structured data for better SEO (JSON-LD) -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "name": "FindWord",
+        "url": "https://englishtests.online/findword",
+        "description": "A daily word puzzle game that challenges players to discover English words within a grid of 144 randomly generated letters.",
+        "applicationCategory": "GameApplication",
+        "operatingSystem": "iOS, ANDROID",
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "USD"
+        },
+        "author": {
+            "@type": "Organization",
+            "name": "englishtests.online",
+            "email": "info@englishtests.online"
+        }
+    }
+    </script>
+</body>
+</html>
