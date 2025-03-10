@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FindWord | Jeu de puzzle de mots quotidien | englishtests.online</title>
+    
+    <!-- Meta Description - Keep between 150-160 characters -->
+    <meta name="description" content="Mettez-vous au défi avec FindWord, un jeu de puzzle de mots quotidien avec 144 lettres aléatoires. Trouvez des mots anglais de 3 à 7 lettres et améliorez votre vocabulaire et vos compétences linguistiques.">
+    
+    <!-- Meta Keywords - Still useful for some search engines -->
+    <meta name="keywords" content="findword, jeu de mots, vocabulaire anglais, jeux de mots, puzzle quotidien, entraînement cérébral, formation de mots, apprentissage des langues, ressources ESL">
+    
+    <!-- Open Graph Meta Tags for better social sharing -->
+    <meta property="og:title" content="FindWord - Jeu de puzzle de mots quotidien | englishtests.online">
+    <meta property="og:description" content="Mettez-vous au défi avec FindWord, un jeu de puzzle de mots quotidien avec 144 lettres aléatoires. Trouvez des mots anglais et affrontez vos amis du monde entier.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://englishtests.online/findword">
+
+	<!-- Google Analytics (GA4) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-K2TNG0KVK8"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-K2TNG0KVK8');
+    </script>
+    
+    <!-- Canonical URL to prevent duplicate content issues -->
+    <link rel="canonical" href="https://englishtests.online/findword">
+    
+    <!-- Additional SEO-friendly meta tags -->
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="englishtests.online">
+    
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0px 10px;
+        }
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            text-align: center;
+            border-bottom: 1px solid #eee;
+        }
+        h1 {
+            color: #000;
+            font-size: 2.5em;
+        }
+        h2 {
+            color: #000;
+            margin-top: 30px;
+        }
+        .section {
+            margin: 40px 0;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+       /* Footer Styling */
+    .footer {
+        background-color: #ffffff;
+        color: #000000;
+        text-align: bottom;
+        padding: 5px;
+        margin-top: 50px;
+        max-width: 800px;
+        flex-shrink: 0;
+    }
+    
+    .footer-content {
+        max-width: 600px;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .footer p {
+        margin: 5px 0;
+        font-size: 1.1em;
+        font-weight: 300;
+    }
+    
+    .footer-email {
+        color: #3498db; /* blue color for the email link */
+        text-decoration: none;
+        transition: color 0.3s ease;
+    }
+    
+    .footer-email:hover {
+        color: #2980b9; /* darker blue on hover */
+        text-decoration: underline;
+    }
+    
+    .footer-spacer {
+        height: 30px;
+        width: 100%;
+    }
+    
+    .footer-made {
+        margin-top: 10px;
+    }
+    
+    .footer-maker {
+        font-size: 1.3em;
+    }        
+    	.highlight {
+            font-weight: bold;
+        }
+        .feature-box {
+            border: 1px solid #eee;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+        }
+        .feature-box h3 {
+            margin-top: 0;
+            color: #000;
+        }
+
+	/* Home button */
+        .home-button {
+            width: 44px;
+            height: 44px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            cursor: pointer;
+            position: relative;
+            z-index: 20;
+            border-radius: 50%;
+            transition: background-color 0.3s;
+            text-decoration: none;
+        }
+
+        .home-button:hover {
+            background-color: rgba(52, 152, 219, 0.1);
+        }
+
+        /* New SVG Home Icon with primary color */
+        .home-icon {
+            width: 24px;
+            height: 24px;
+            fill: #3498DB;
+            transition: fill 0.3s;
+        }
+
+        .home-button:hover .home-icon {
+            fill: #2980b9;
+        }
+        
+        /* Download buttons */
+        .download-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin: 30px 0;
+            flex-wrap: wrap;
+        }
+
+	.image-button {
+            cursor: pointer;
+            border-radius: 8px;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        
+        .image-button:hover {
+            transform: scale(1.05);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+        }
+        
+        .image-button:active {
+            transform: scale(0.98);
+        }
+    </style>
+</head>
+<body>
+    <header>
+	<a href="javascript:history.back()" class="home-button">
+            <svg width="32" height="28" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M0.292893 7.29289C-0.097631 7.68342 -0.0976311 8.31658 0.292893 8.70711L6.65685 15.0711C7.04738 15.4616 7.68054 15.4616 8.07107 15.0711C8.46159 14.6805 8.46159 14.0474 8.07107 13.6569L2.41421 8L8.07107 2.34314C8.46159 1.95262 8.46159 1.31946 8.07107 0.928931C7.68054 0.538407 7.04738 0.538407 6.65685 0.928931L0.292893 7.29289ZM18 7L1 7L1 9L18 9L18 7Z" fill="#3498DB"/>
+            </svg>
+        </a>
+        <h1 style="font-size: 20px; text-align: center; flex-grow: 1;">FindWord : Jeu de puzzle de mots quotidien</h1>
+	<a href="https://englishtests.online/" class="home-button">
+            <svg class="home-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+                <path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1 0-2.2 0-3.3-.1c-1.4 .1-2.8 .1-4.2 .1H416 392c-22.1 0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7 0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5 0-3-.1-4.5-.2c-1.2 .1-2.4 .2-3.6 .2H104c-22.1 0-40-17.9-40-40V360c0-.9 0-1.9 .1-2.8V287.6H32c-18 0-32-14-32-32.1c0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/>
+            </svg>
+        </a>
+    </header>
+    
+    <main>
+        <section class="section" id="welcome">
+            <p>FindWord est un jeu de puzzle quotidien qui vous met au défi de découvrir des mots anglais cachés dans une grille de 144 lettres générées aléatoirement. Chaque jour, tous les joueurs du monde entier reçoivent la même grille, ce qui en fait une excellente occasion de compétition amicale avec votre famille et vos amis. Imaginez FindWord comme une chasse au trésor où vous extrayez des mots, tels des pépites d'or enfouies dans un filon. Jouer régulièrement vous procure non seulement du divertissement, mais peut également contribuer à maintenir votre acuité mentale au fil du temps.</p>
+            
+            <div class="download-buttons">
+		<a href="https://play.google.com/store/apps/details?id=com.daniel.findword">
+        		<img src="googleplay.svg" alt="Google Play" class="image-button">
+    		</a>
+		<a href="https://apps.apple.com/app/findword/id6471604639">
+        		<img src="appstore.svg" alt="App Store" class="image-button">
+    		</a>
+            </div>
+        </section>
+        
+        <section class="section" id="how-to-play">
+            <h3>Comment jouer :</h3>
+            <ul>
+                <li>Sélectionnez des lettres qui forment un mot en les touchant dans l'ordre</li>
+                <li>Appuyez sur le bouton "Valider" pour enregistrer votre mot</li>
+                <li>Les lettres sélectionnées apparaissent en bleu, tandis que les lettres adjacentes disponibles sont en vert</li>
+                <li>Vous ne pouvez sélectionner que des lettres voisines et ne pouvez pas réutiliser une lettre déjà choisie pour le mot en cours</li>
+                <li>Pour désélectionner une lettre, touchez-la à nouveau ; pour annuler votre tentative, appuyez sur "Valider"</li>
+            </ul>
+        </section>
+        
+        <section class="section" id="strategy">
+            <h3>Conseils stratégiques :</h3>
+            <ul>
+                <li>Progressez à votre rythme au lieu d'essayer de trouver tous les mots en une seule session ; chaque puzzle reste disponible pendant 24 heures</li>
+                <li>Faites de courtes pauses entre vos essais pour garder votre concentration</li>
+                <li>Vous repérerez d'abord les mots courts, mais avec de la pratique, vous identifierez des mots plus longs de 6 à 7 lettres</li>
+                <li>La persévérance est essentielle : ce qui commence par quelques dizaines de mots peut se transformer en centaines au fil du temps</li>
+            </ul>
+        </section>
+        
+        <section class="section" id="benefits">
+            <h3>Bénéfices linguistiques :</h3>
+            <div class="feature-box">
+                <h4>Enrichissement du vocabulaire</h4>
+                <p>Découvrez de nouveaux mots et élargissez votre vocabulaire actif grâce à une pratique régulière.</p>
+            </div>
+            
+            <div class="feature-box">
+                <h4>Reconnaissance des mots</h4>
+                <p>Améliorez votre capacité à identifier et à orthographier correctement les mots en anglais.</p>
+            </div>
+            
+            <div class="feature-box">
+                <h4>Reconnaissance des motifs</h4>
+                <p>Développez votre aptitude à repérer des structures et des combinaisons de lettres.</p>
+            </div>
+            
+            <div class="feature-box">
+                <h4>Compréhension de la morphologie</h4>
+                <p>Affinez votre compréhension de la formation des mots, y compris les préfixes, suffixes et racines.</p>
+            </div>
+            
+            <div class="feature-box">
+                <h4>Règles linguistiques</h4>
+                <p>Renforcez votre connaissance des règles phonologiques et orthographiques en anglais.</p>
+            </div>
+        </section>
+        
+        <section class="section" id="conclusion">
+            <p>Plus vous jouez, plus vous remarquerez une amélioration dans votre capacité à identifier des mots complexes et des structures linguistiques, faisant de FindWord un jeu à la fois ludique et éducatif.</p>
+            
+            <div class="download-buttons">
+		<a href="https://play.google.com/store/apps/details?id=com.daniel.findword">
+        		<img src="googleplay.svg" alt="Google Play" class="image-button">
+    		</a>
+		<a href="https://apps.apple.com/app/findword/id6471604639">
+        		<img src="appstore.svg" alt="App Store" class="image-button">
+    		</a>
+            </div>
+        </section>
+        
+        <section class="section" id="contact">
+            <h3>Contactez-nous</h3>
+            <p>Nous apprécions vos retours et suggestions. Si vous avez des questions, des commentaires ou des idées concernant FindWord, n'hésitez pas à nous contacter à l'adresse suivante : <a href="mailto:info@englishtests.online">info@englishtests.online</a>.</p>
+        </section>
+    </main>
+    
+    <footer class="footer">
+    <div class="footer-content">
+        <p>© Copyright 2025</p>
+        <p><a href="mailto:info@englishtests.online" class="footer-email">info@englishtests.online</a></p>
+        <p>All rights reserved</p>        
+        <p class="footer-made">Made by <a href="https://play.google.com/store/apps/dev?id=5093525609695433503" class="footer-email">KubiKDB</a></p>
+    </div>
+    </footer>
+    <!-- Structured data for better SEO (JSON-LD) -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "name": "FindWord",
+        "url": "https://englishtests.online/findword",
+        "description": "A daily word puzzle game that challenges players to discover English words within a grid of 144 randomly generated letters.",
+        "applicationCategory": "GameApplication",
+        "operatingSystem": "iOS, ANDROID",
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "USD"
+        },
+        "author": {
+            "@type": "Organization",
+            "name": "englishtests.online",
+            "email": "info@englishtests.online"
+        }
+    }
+    </script>
+</body>
+</html>
