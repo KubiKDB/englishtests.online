@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Quantum computing represents a revolutionary approach to information processing that harnesses the principles of quantum mechanics to perform calculations in ways that classical computers cannot. Unlike traditional computers that use bits as the smallest unit of data (either 0 or 1), quantum computers utilize quantum bits, or qubits, which can exist in multiple states simultaneously due to a phenomenon called superposition. This fundamental difference enables quantum computers to process vast amounts of information and solve certain problems exponentially faster than their classical counterparts.<br><br>(2) The potential applications of quantum computing span numerous fields and industries. In cryptography, quantum computers could break currently unbreakable encryption codes, necessitating the development of quantum-resistant security methods. For pharmaceutical research, these machines promise to accelerate drug discovery by simulating molecular interactions with unprecedented accuracy. Additionally, quantum computing may revolutionize materials science by enabling the design of new compounds with specific properties, optimize complex logistical operations in transportation and manufacturing, and advance machine learning algorithms to solve previously intractable problems.<br><br>(3) Despite its enormous potential, quantum computing faces significant technical challenges that have thus far limited its practical implementation. Chief among these is the problem of quantum decoherence—the tendency of qubits to lose their quantum properties when interacting with their environment. Scientists must maintain qubits in extremely cold environments, approaching absolute zero temperature, to preserve their quantum states. Furthermore, quantum systems are highly susceptible to errors, requiring sophisticated error correction methods that themselves demand additional qubits, creating a substantial overhead in resources.<br><br>(4) The competitive landscape of quantum computing research involves both academic institutions and major technology companies investing billions of dollars to achieve quantum advantage—the point at which quantum computers can solve problems beyond the capabilities of classical supercomputers. IBM, Google, Microsoft, and numerous startups are racing to increase qubit counts and improve quantum coherence times. International competition has intensified as well, with countries like China, the United States, and European nations developing national quantum initiatives to secure technological leadership in this emerging field.<br><br>(5) As quantum computing technology matures, society will need to address not only technical challenges but also ethical and practical considerations. The potential to break current encryption systems raises serious cybersecurity concerns that could affect everything from personal privacy to national security. Additionally, the specialized knowledge required to develop and operate quantum systems may create new digital divides between nations and organizations with access to this technology and those without. Despite these challenges, the continued advancement of quantum computing represents one of the most promising frontiers in information technology, with the potential to transform computation as we know it.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct verb form: 'If he _____ harder, he would have passed the exam.'",
+      "options": {
+        "A": "studied",
+        "B": "would study",
+        "C": "had studied",
+        "D": "has studied"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the correct relative pronoun: 'The woman _____ car was stolen reported it to the police immediately.'",
+      "options": {
+        "A": "who",
+        "B": "whom",
+        "C": "which",
+        "D": "whose"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Choose the correct tense: 'By the time you arrive, I _____ dinner.'",
+      "options": {
+        "A": "will finish",
+        "B": "will be finishing",
+        "C": "will have finished",
+        "D": "am finishing"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Select the correct passive form: 'The new policy _____ next month.'",
+      "options": {
+        "A": "will implement",
+        "B": "will be implementing",
+        "C": "will be implemented",
+        "D": "is implementing"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct article usage: 'She plays _____ piano in _____ orchestra.'",
+      "options": {
+        "A": "the, an",
+        "B": "a, the",
+        "C": "the, the",
+        "D": "-, an"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the correct reported speech: 'I will call you tomorrow,' he said. He said that he _____ me the next day.",
+      "options": {
+        "A": "will call",
+        "B": "would call",
+        "C": "had called",
+        "D": "will be calling"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct modal verb: 'You _____ have told me about the meeting; I completely forgot about it.'",
+      "options": {
+        "A": "should",
+        "B": "would",
+        "C": "might",
+        "D": "can"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the correct preposition: 'She has been working _____ this project _____ March.'",
+      "options": {
+        "A": "in, since",
+        "B": "on, from",
+        "C": "at, in",
+        "D": "on, since"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct comparative structure: 'The more she practiced, _____ she became.'",
+      "options": {
+        "A": "the more confident",
+        "B": "more confident",
+        "C": "the most confident",
+        "D": "much confident"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Select the correct gerund or infinitive form: 'I don't mind _____ late, but I prefer _____ in advance.'",
+      "options": {
+        "A": "working, to know",
+        "B": "to work, knowing",
+        "C": "to work, to know",
+        "D": "working, knowing"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct conditional form: 'If I _____ you, I would take that job offer.'",
+      "options": {
+        "A": "am",
+        "B": "would be",
+        "C": "were",
+        "D": "had been"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the correct quantifier: 'There is _____ evidence to support this theory.'",
+      "options": {
+        "A": "a few",
+        "B": "many",
+        "C": "little",
+        "D": "several"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct subject-verb agreement: 'Neither the students nor the teacher _____ happy about the change in schedule.'",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "have been"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Select the correct future perfect form: 'By next year, they _____ in their new house for a decade.'",
+      "options": {
+        "A": "will live",
+        "B": "will be living",
+        "C": "will have lived",
+        "D": "are going to live"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Choose the correct phrasal verb form: 'We need to _____ this issue at the next meeting.'",
+      "options": {
+        "A": "bring about",
+        "B": "bring up",
+        "C": "bring in",
+        "D": "bring down"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct collocation: 'She _____ a deep breath before giving her presentation.'",
+      "options": {
+        "A": "made",
+        "B": "did",
+        "C": "took",
+        "D": "had"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the appropriate connector: 'He worked hard on the project; _____, he didn't finish it on time.'",
+      "options": {
+        "A": "furthermore",
+        "B": "consequently",
+        "C": "nevertheless",
+        "D": "therefore"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct idiom to complete the sentence: 'After the economic crisis, many businesses had to _____ to survive.'",
+      "options": {
+        "A": "cut corners",
+        "B": "face the music",
+        "C": "miss the boat",
+        "D": "break the ice"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Select the appropriate expression: 'I'm not sure if I'll get the job, but I'll keep my _____ crossed.'",
+      "options": {
+        "A": "thumbs",
+        "B": "fingers",
+        "C": "arms",
+        "D": "eyes"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct word form: 'The company needs to improve its customer _____ department.'",
+      "options": {
+        "A": "serve",
+        "B": "serving",
+        "C": "service",
+        "D": "servitude"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the correct phrasal verb: 'The meeting has been _____ until next week.'",
+      "options": {
+        "A": "put off",
+        "B": "put away",
+        "C": "put down",
+        "D": "put up"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the appropriate formal alternative for 'get in touch with': 'Please _____ the HR department regarding your application.'",
+      "options": {
+        "A": "communicate",
+        "B": "contact",
+        "C": "reach",
+        "D": "approach"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the correct fixed expression: 'The project is currently _____ schedule and within budget.'",
+      "options": {
+        "A": "in",
+        "B": "at",
+        "C": "by",
+        "D": "on"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the appropriate discourse marker: 'The presentation was interesting; _____, it provided valuable insights into market trends.'",
+      "options": {
+        "A": "however",
+        "B": "moreover",
+        "C": "otherwise",
+        "D": "instead"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the word that collocates with 'research': 'Scientists _____ research on quantum computing.'",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "conduct",
+        "D": "perform"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the synonym for 'adequate':",
+      "options": {
+        "A": "excellent",
+        "B": "sufficient",
+        "C": "minimal",
+        "D": "excessive"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Select the correct use of 'persuade' in a sentence:",
+      "options": {
+        "A": "She persuaded to attend the conference.",
+        "B": "They persuaded him that he should apply for the job.",
+        "C": "We persuaded about the benefits of exercise.",
+        "D": "I persuaded against the new policy."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Choose the correct collocation with 'profession':",
+      "options": {
+        "A": "make a profession",
+        "B": "take a profession",
+        "C": "pursue a profession",
+        "D": "have a profession"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Select the correct form of 'adapt':",
+      "options": {
+        "A": "Animals must adapt with their changing environment.",
+        "B": "They quickly adapted themselves for the new conditions.",
+        "C": "She has adapted well to her new school.",
+        "D": "We will need to adapt by these new regulations."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the antonym for 'reliable':",
+      "options": {
+        "A": "dependable",
+        "B": "trustworthy",
+        "C": "unpredictable",
+        "D": "consistent"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Select the correct noun form of 'patient':",
+      "options": {
+        "A": "patience",
+        "B": "patientness",
+        "C": "patiently",
+        "D": "patienthood"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Choose the correct usage of 'severe':",
+      "options": {
+        "A": "The storm caused severe to the coastal areas.",
+        "B": "They were facing severe financial difficulties.",
+        "C": "The teacher is very severe by his students.",
+        "D": "The report was severe criticized by experts."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Select the correct preposition to use with 'grateful':",
+      "options": {
+        "A": "grateful of",
+        "B": "grateful by",
+        "C": "grateful for",
+        "D": "grateful with"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Choose the correct usage of 'embarrassed':",
+      "options": {
+        "A": "She felt embarrassed of her mistake.",
+        "B": "He was embarrassed about his poor performance.",
+        "C": "They were embarrassed for being late.",
+        "D": "We were embarrassed to their behavior."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Select the sentence where 'curious' is used correctly:",
+      "options": {
+        "A": "The child was curious to know how the machine worked.",
+        "B": "She had a curious in ancient history.",
+        "C": "They were curious against trying the new restaurant.",
+        "D": "His curious made him ask too many questions."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Choose the correct form of 'confuse':",
+      "options": {
+        "A": "The new system confuses the employees.",
+        "B": "She was confuse about the instructions.",
+        "C": "They confuse the meeting time.",
+        "D": "His explanation was confuse."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Select the antonym for 'permanent':",
+      "options": {
+        "A": "lasting",
+        "B": "enduring",
+        "C": "temporary",
+        "D": "durable"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Choose the correct collocation with 'barrier':",
+      "options": {
+        "A": "make a barrier",
+        "B": "overcome a barrier",
+        "C": "do a barrier",
+        "D": "perform a barrier"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Select the correct usage of 'establish':",
+      "options": {
+        "A": "They established since five years ago.",
+        "B": "She established a new world record.",
+        "C": "The company was establish in 1995.",
+        "D": "We need to establish with better communication."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Choose the noun form of 'impress':",
+      "options": {
+        "A": "impressive",
+        "B": "impression",
+        "C": "impressment",
+        "D": "impressively"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, what is the fundamental difference between quantum and classical computers?",
+      "options": {
+        "A": "Quantum computers are significantly smaller in size",
+        "B": "Quantum computers can break encryption codes",
+        "C": "Quantum computers use qubits that can exist in multiple states simultaneously",
+        "D": "Quantum computers are more widely available for commercial use"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following is NOT mentioned as a potential application of quantum computing?",
+      "options": {
+        "A": "Breaking encryption codes",
+        "B": "Drug discovery",
+        "C": "Climate prediction",
+        "D": "Materials science"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "What does the passage identify as the primary technical challenge for quantum computing?",
+      "options": {
+        "A": "The high cost of development",
+        "B": "Quantum decoherence",
+        "C": "International competition",
+        "D": "Lack of skilled researchers"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to the passage, why must qubits be kept at extremely cold temperatures?",
+      "options": {
+        "A": "To reduce manufacturing costs",
+        "B": "To increase processing speed",
+        "C": "To preserve their quantum states",
+        "D": "To comply with safety regulations"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What does the term 'quantum advantage' refer to in the passage?",
+      "options": {
+        "A": "The financial benefits of quantum technology",
+        "B": "The point where quantum computers outperform classical supercomputers",
+        "C": "The educational advantages of studying quantum mechanics",
+        "D": "The competitive edge of countries with quantum initiatives"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "Which of the following entities is NOT mentioned as being involved in quantum computing research?",
+      "options": {
+        "A": "Academic institutions",
+        "B": "Technology companies",
+        "C": "National governments",
+        "D": "International regulatory bodies"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What cybersecurity concern does the passage associate with quantum computing?",
+      "options": {
+        "A": "Increased vulnerability to computer viruses",
+        "B": "The ability to break current encryption systems",
+        "C": "Unauthorized access to quantum computers",
+        "D": "Data loss during quantum operations"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "Based on the passage, which of the following might create new digital divides?",
+      "options": {
+        "A": "Different climate conditions across regions",
+        "B": "Varying internet access speeds",
+        "C": "Specialized knowledge required for quantum systems",
+        "D": "Different educational systems"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What can be inferred about the current state of quantum computing from the passage?",
+      "options": {
+        "A": "It has already replaced classical computing in most applications",
+        "B": "It is still in development with significant challenges to overcome",
+        "C": "It is only being pursued by a few specialized researchers",
+        "D": "It has proven to be less promising than initially thought"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the author's overall assessment of quantum computing's future?",
+      "options": {
+        "A": "It faces too many challenges to be practical",
+        "B": "It will primarily benefit the pharmaceutical industry",
+        "C": "It has the potential to transform computation despite challenges",
+        "D": "It will create more problems than it solves"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
