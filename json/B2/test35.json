@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Social media has profoundly reshaped the landscape of human communication in the 21st century. Its influence permeates nearly every aspect of our lives, from personal relationships to professional interactions and global information dissemination. The speed and reach of social media platforms have facilitated instantaneous global conversations, creating unprecedented opportunities for connection and collaboration.<br><br>(2) One of the primary ways social media enhances communication is by providing diverse platforms for self-expression and content generation. Individuals can adapt their communication styles across platforms like Twitter, Instagram, and Facebook, tailoring their messages to different audiences and contexts. This adaptability fosters a dynamic and multifaceted communication environment, allowing for a wider range of voices and perspectives to be heard. Conversely, traditional media often presented a more homogenous and controlled flow of information.<br><br>(3) Social media also plays a significant role in generating and sustaining online communities built around shared interests or causes. These digital communities contribute to a sense of belonging and collective identity, enabling individuals to connect with like-minded people regardless of geographical boundaries. This sense of community can clarify complex issues, promote social movements, and offer support networks in ways previously unimaginable. The evident power of these online movements to influence public discourse is undeniable.<br><br>(4) However, the impact of social media on communication is not without its complexities. While it can facilitate connections, it also introduces challenges such as the spread of misinformation, cyberbullying, and the erosion of face-to-face communication skills. It's crucial to implement strategies to mitigate these negative consequences and ensure a balanced and responsible use of social media. Cease-less engagement with online platforms can also detract from real-world interactions, altering the proportion of time spent in different communication spheres.<br><br>(5) In conclusion, social media is a powerful component of modern communication. Its consistent evolution demands ongoing evaluation of its effects on individuals and society. Understanding its diverse impacts – both positive and negative – is essential to harnessing its potential while mitigating its risks. The future of communication will inevitably be intertwined with the continued development and societal integration of social media platforms.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "______ efforts to reduce carbon emissions, global temperatures continue to rise.",
+      "options": {
+        "A": "Despite of",
+        "B": "In spite",
+        "C": "Regardless of",
+        "D": "Even though"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Not only ______ fluent in English, but she also speaks Spanish and French.",
+      "options": {
+        "A": "she is",
+        "B": "is she",
+        "C": "she was",
+        "D": "was she"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "If I ______ you were coming, I would have baked a cake.",
+      "options": {
+        "A": "knew",
+        "B": "have known",
+        "C": "had known",
+        "D": "would know"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "The book, ______ was published last year, has become a bestseller.",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "what",
+        "D": "whose"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "It is imperative that the document ______ submitted before the deadline.",
+      "options": {
+        "A": "is",
+        "B": "will be",
+        "C": "be",
+        "D": "to be"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "______ being tired, she stayed up late to finish her work.",
+      "options": {
+        "A": "Despite",
+        "B": "Although",
+        "C": "However",
+        "D": "Therefore"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Hardly ______ the house when the phone rang.",
+      "options": {
+        "A": "he entered",
+        "B": "did he enter",
+        "C": "he had entered",
+        "D": "entered he"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "They wish they ______ more time traveling last summer.",
+      "options": {
+        "A": "had",
+        "B": "have",
+        "C": "will have",
+        "D": "are having"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Were I ______ a millionaire, I would donate to many charities.",
+      "options": {
+        "A": "been",
+        "B": "be",
+        "C": "to be",
+        "D": "was"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "The faster you type, ______ you will finish the report.",
+      "options": {
+        "A": "soon",
+        "B": "sooner",
+        "C": "the soonest",
+        "D": "the sooner"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "She is looking forward ______ from you soon.",
+      "options": {
+        "A": "to hear",
+        "B": "hearing",
+        "C": "to hearing",
+        "D": "for hearing"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Only after years ______ the truth about the incident.",
+      "options": {
+        "A": "he discovered",
+        "B": "did he discover",
+        "C": "he has discovered",
+        "D": "discovered he"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "The house, ______ roof was damaged in the storm, is now being repaired.",
+      "options": {
+        "A": "that",
+        "B": "whose",
+        "C": "which",
+        "D": "who's"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "He ought ______ apologized for his rude behavior.",
+      "options": {
+        "A": "to have",
+        "B": "have",
+        "C": "has",
+        "D": "having"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "______ the train being delayed, we arrived at the meeting on time.",
+      "options": {
+        "A": "Due to",
+        "B": "Despite of",
+        "C": "Although",
+        "D": "In spite of"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the sentence with the correct use of 'fewer' and 'less'.",
+      "options": {
+        "A": "There are less students in this class than in the other.",
+        "B": "There are fewer water in this bottle than in that one.",
+        "C": "There are fewer students in this class than in the other.",
+        "D": "There is fewer information available on this topic."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the best preposition to complete the sentence: She is good ______ playing the piano.",
+      "options": {
+        "A": "at",
+        "B": "in",
+        "C": "on",
+        "D": "with"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Identify the sentence with the correct use of the subjunctive mood.",
+      "options": {
+        "A": "I suggest that he goes to the doctor.",
+        "B": "I suggest that he go to the doctor.",
+        "C": "I suggest that he will go to the doctor.",
+        "D": "I suggest that he is going to the doctor."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct verb form to complete the sentence: By next year, they ______ the new stadium.",
+      "options": {
+        "A": "will build",
+        "B": "will be build",
+        "C": "will have built",
+        "D": "will have been building"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Which of the following sentences uses a cleft sentence for emphasis?",
+      "options": {
+        "A": "The dog barked loudly all night.",
+        "B": "It was the dog that barked loudly all night.",
+        "C": "Loudly, the dog barked all night.",
+        "D": "The dog, barking loudly, kept us awake."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the correct word to complete the idiom: To let the cat out of the ______.",
+      "options": {
+        "A": "bag",
+        "B": "box",
+        "C": "house",
+        "D": "room"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Identify the sentence with the correct use of a relative clause.",
+      "options": {
+        "A": "The woman which is talking to John is my sister.",
+        "B": "The woman, who is talking to John, is my sister.",
+        "C": "The woman is talking to John is my sister.",
+        "D": "The woman talking to John who is my sister."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the best linking word: ______ the rain, they decided to go for a walk.",
+      "options": {
+        "A": "Because",
+        "B": "Despite",
+        "C": "Therefore",
+        "D": "And"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Select the phrasal verb that best fits the sentence: They are going to ______ a new business next year.",
+      "options": {
+        "A": "set up",
+        "B": "set in",
+        "C": "set on",
+        "D": "set off"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Identify the correctly structured question tag.",
+      "options": {
+        "A": "She is coming, isn't she?",
+        "B": "She is coming, is she?",
+        "C": "She is coming, she isn't?",
+        "D": "She is coming, is not she?"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Social media can significantly ______ public opinion on political issues.",
+      "options": {
+        "A": "Neglect",
+        "B": "Influence",
+        "C": "Ignore",
+        "D": "Decrease"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Could you ______ the instructions again? I didn't quite understand them.",
+      "options": {
+        "A": "Confuse",
+        "B": "Obscure",
+        "C": "Clarify",
+        "D": "Complicate"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Regular exercise can ______ your overall health and well-being.",
+      "options": {
+        "A": "Worsen",
+        "B": "Diminish",
+        "C": "Enhance",
+        "D": "Reduce"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "The government plans to ______ new policies to address climate change.",
+      "options": {
+        "A": "Disregard",
+        "B": "Implement",
+        "C": "Postpone",
+        "D": "Cancel"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "The factory will ______ operations at the end of the month due to financial difficulties.",
+      "options": {
+        "A": "Continue",
+        "B": "Commence",
+        "C": "Cease",
+        "D": "Maintain"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "What is the ______ of adults to children in this school?",
+      "options": {
+        "A": "Number",
+        "B": "Amount",
+        "C": "Proportion",
+        "D": "Quantity"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "The new technology is expected to ______ more jobs in the tech industry.",
+      "options": {
+        "A": "Eliminate",
+        "B": "Generate",
+        "C": "Destroy",
+        "D": "Reduce"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Let's ______ that everything will go according to plan.",
+      "options": {
+        "A": "Deny",
+        "B": "Refute",
+        "C": "Assume",
+        "D": "Reject"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Companies need to ______ to changing market conditions to remain competitive.",
+      "options": {
+        "A": "Resist",
+        "B": "Ignore",
+        "C": "Adapt",
+        "D": "Neglect"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "A key ______ of this recipe is fresh basil.",
+      "options": {
+        "A": "Whole",
+        "B": "Part",
+        "C": "Component",
+        "D": "Bulk"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Volunteers ______ significantly to the success of this event.",
+      "options": {
+        "A": "Deduct",
+        "B": "Detract",
+        "C": "Contribute",
+        "D": "Extract"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "It is ______ that social media has changed communication.",
+      "options": {
+        "A": "Obscure",
+        "B": "Ambiguous",
+        "C": "Evident",
+        "D": "Doubtful"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Her story is ______ with the witness statements; they all align.",
+      "options": {
+        "A": "Variable",
+        "B": "Inconsistent",
+        "C": "Consistent",
+        "D": "Changeable"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "We need to ______ these improvements long-term.",
+      "options": {
+        "A": "Weaken",
+        "B": "Erode",
+        "C": "Sustain",
+        "D": "Damage"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "The city is known for its ______ culture, with influences from many countries.",
+      "options": {
+        "A": "Homogenous",
+        "B": "Uniform",
+        "C": "Diverse",
+        "D": "Similar"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "Paragraph 1 suggests that social media's influence is:",
+      "options": {
+        "A": "Limited to personal relationships",
+        "B": "Restricted to professional interactions",
+        "C": "Pervasive in almost every aspect of life",
+        "D": "Minimal on global information sharing"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "According to paragraph 2, how does social media enhance communication?",
+      "options": {
+        "A": "By limiting platforms for self-expression",
+        "B": "By promoting homogenous content generation",
+        "C": "By providing diverse platforms for different contexts",
+        "D": "By controlling the flow of information"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "In paragraph 3, social media communities are described as:",
+      "options": {
+        "A": "Geographically restricted",
+        "B": "Contributing to a sense of isolation",
+        "C": "Built around shared interests or causes",
+        "D": "Primarily influencing traditional media"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Paragraph 4 mentions which of the following challenges of social media communication?",
+      "options": {
+        "A": "Enhancement of face-to-face skills",
+        "B": "Mitigation of misinformation",
+        "C": "Spread of misinformation and cyberbullying",
+        "D": "Balanced and responsible use by all users"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "The phrase 'cease-less engagement' in paragraph 4 suggests:",
+      "options": {
+        "A": "Intermittent interaction",
+        "B": "Continuous interaction",
+        "C": "Meaningful interaction",
+        "D": "Limited interaction"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to paragraph 5, the future of communication will be:",
+      "options": {
+        "A": "Independent of social media",
+        "B": "Unrelated to technological advancements",
+        "C": "Intertwined with social media development",
+        "D": "Focused solely on traditional platforms"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "The word 'permeates' in paragraph 1 most closely means:",
+      "options": {
+        "A": "Avoids",
+        "B": "Penetrates",
+        "C": "Resists",
+        "D": "Blocks"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What is the main purpose of the passage?",
+      "options": {
+        "A": "To criticize social media's negative impacts",
+        "B": "To promote the use of social media for communication",
+        "C": "To analyze the multifaceted impact of social media on communication",
+        "D": "To compare social media with traditional media"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Which paragraph primarily focuses on the challenges of social media communication?",
+      "options": {
+        "A": "Paragraph 2",
+        "B": "Paragraph 3",
+        "C": "Paragraph 4",
+        "D": "Paragraph 5"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "The author's tone in the passage is best described as:",
+      "options": {
+        "A": "Alarmist",
+        "B": "Neutral and analytical",
+        "C": "Enthusiastic and supportive",
+        "D": "Dismissive and critical"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
