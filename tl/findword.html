@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="tl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FindWord | Pang-araw-araw na Laro ng Salita | englishtests.online</title>
+    
+    <!-- Meta Description - Keep between 150-160 characters -->
+    <meta name="description" content="Hamunin ang iyong sarili sa FindWord, isang pang-araw-araw na laro ng salita na may 144 random na letra. Hanapin ang mga salitang Ingles na may 3-7 titik at paghusayin ang iyong bokabularyo at kasanayan sa salita.">
+    
+    <!-- Meta Keywords - Still useful for some search engines -->
+    <meta name="keywords" content="findword, laro ng salita, bokabularyo sa Ingles, mga laro ng salita, pang-araw-araw na palaisipan, pagsasanay ng utak, pagbuo ng salita, pag-aaral ng wika, ESL resources">
+    
+    <!-- Open Graph Meta Tags for better social sharing -->
+    <meta property="og:title" content="FindWord - Pang-araw-araw na Laro ng Salita | englishtests.online">
+    <meta property="og:description" content="Hamunin ang iyong sarili sa FindWord, isang pang-araw-araw na laro ng salita na may 144 random na letra. Hanapin ang mga salitang Ingles at makipagkumpetensya sa mga kaibigan sa buong mundo.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://englishtests.online/findword">
+
+	<!-- Google Analytics (GA4) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-K2TNG0KVK8"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-K2TNG0KVK8');
+    </script>
+    
+    <!-- Canonical URL to prevent duplicate content issues -->
+    <link rel="canonical" href="https://englishtests.online/findword">
+    
+    <!-- Additional SEO-friendly meta tags -->
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="englishtests.online">
+    
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0px 10px;
+        }
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            text-align: center;
+            border-bottom: 1px solid #eee;
+        }
+        h1 {
+            color: #000;
+            font-size: 2.5em;
+        }
+        h2 {
+            color: #000;
+            margin-top: 30px;
+        }
+        .section {
+            margin: 40px 0;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+       /* Footer Styling */
+    .footer {
+        background-color: #ffffff;
+        color: #000000;
+        text-align: bottom;
+        padding: 5px;
+        margin-top: 50px;
+        max-width: 800px;
+        flex-shrink: 0;
+    }
+    
+    .footer-content {
+        max-width: 600px;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .footer p {
+        margin: 5px 0;
+        font-size: 1.1em;
+        font-weight: 300;
+    }
+    
+    .footer-email {
+        color: #3498db; /* blue color for the email link */
+        text-decoration: none;
+        transition: color 0.3s ease;
+    }
+    
+    .footer-email:hover {
+        color: #2980b9; /* darker blue on hover */
+        text-decoration: underline;
+    }
+    
+    .footer-spacer {
+        height: 30px;
+        width: 100%;
+    }
+    
+    .footer-made {
+        margin-top: 10px;
+    }
+    
+    .footer-maker {
+        font-size: 1.3em;
+    }        
+    	.highlight {
+            font-weight: bold;
+        }
+        .feature-box {
+            border: 1px solid #eee;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+        }
+        .feature-box h3 {
+            margin-top: 0;
+            color: #000;
+        }
+
+	/* Home button */
+        .home-button {
+            width: 44px;
+            height: 44px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            cursor: pointer;
+            position: relative;
+            z-index: 20;
+            border-radius: 50%;
+            transition: background-color 0.3s;
+            text-decoration: none;
+        }
+
+        .home-button:hover {
+            background-color: rgba(52, 152, 219, 0.1);
+        }
+
+        /* New SVG Home Icon with primary color */
+        .home-icon {
+            width: 24px;
+            height: 24px;
+            fill: #3498DB;
+            transition: fill 0.3s;
+        }
+
+        .home-button:hover .home-icon {
+            fill: #2980b9;
+        }
+        
+        /* Download buttons */
+        .download-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin: 30px 0;
+            flex-wrap: wrap;
+        }
+
+	.image-button {
+            cursor: pointer;
+            border-radius: 8px;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        
+        .image-button:hover {
+            transform: scale(1.05);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+        }
+        
+        .image-button:active {
+            transform: scale(0.98);
+        }
+    </style>
+</head>
+<body>
+    <header>
+	<a href="javascript:history.back()" class="home-button">
+            <svg width="32" height="28" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M0.292893 7.29289C-0.097631 7.68342 -0.0976311 8.31658 0.292893 8.70711L6.65685 15.0711C7.04738 15.4616 7.68054 15.4616 8.07107 15.0711C8.46159 14.6805 8.46159 14.0474 8.07107 13.6569L2.41421 8L8.07107 2.34314C8.46159 1.95262 8.46159 1.31946 8.07107 0.928931C7.68054 0.538407 7.04738 0.538407 6.65685 0.928931L0.292893 7.29289ZM18 7L1 7L1 9L18 9L18 7Z" fill="#3498DB"/>
+            </svg>
+        </a>
+        <h1 style="font-size: 20px; text-align: center; flex-grow: 1;">FindWord: Pang-araw-araw na Laro ng Salita</h1>
+	<a href="https://englishtests.online/" class="home-button">
+            <svg class="home-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+                <path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1 0-2.2 0-3.3-.1c-1.4 .1-2.8 .1-4.2 .1H416 392c-22.1 0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7 0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5 0-3-.1-4.5-.2c-1.2 .1-2.4 .2-3.6 .2H104c-22.1 0-40-17.9-40-40V360c0-.9 0-1.9 .1-2.8V287.6H32c-18 0-32-14-32-32.1c0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/>
+            </svg>
+        </a>
+    </header>
+    
+    <main>
+        <section class="section" id="welcome">
+            <p>Ang FindWord ay isang pang-araw-araw na palaisipan na magpapalabas ng iyong husay sa paghahanap ng mga salitang Ingles sa isang grid na may 144 na random na letra. Araw-araw, lahat ng manlalaro sa buong mundo ay makakatanggap ng parehong grid ng letra, kaya't perpekto ito para sa isang paligsahan kasama ang pamilya at mga kaibigan. Isipin ang FindWord bilang isang pangangaso ng kayamanan kung saan ang mga salita ay parang gintong nakatago sa bato. Bukod sa kasiyahan, maaaring makatulong ang regular na paglalaro upang mapanatili ang iyong katalinuhan sa paglipas ng panahon.</p>
+            
+            <div class="download-buttons">
+		<a href="https://play.google.com/store/apps/details?id=com.daniel.findword">
+        		<img src="googleplay.svg" alt="Google Play" class="image-button">
+    		</a>
+		<a href="https://apps.apple.com/app/findword/id6471604639">
+        		<img src="appstore.svg" alt="App Store" class="image-button">
+    		</a>
+            </div>
+        </section>
+        
+        <section class="section" id="how-to-play">
+            <h3>Paano Maglaro:</h3>
+            <ul>
+                <li>Piliin ang mga titik upang makabuo ng salita sa tamang pagkakasunod-sunod</li>
+                <li>Pindutin ang "Submit" upang ipasa ang nahanap mong salita</li>
+                <li>Ang napili mong letra ay magiging asul, habang ang mga maaaring gamiting letra sa paligid ay magiging berde</li>
+                <li>Maaari mo lamang gamitin ang mga katabing letra at hindi mo maaaring gamitin muli ang parehong titik sa isang salita</li>
+                <li>Upang alisin ang isang titik, pindutin ito muli; upang kanselahin ang iyong kasalukuyang pagtatangka, pindutin ang "Submit"</li>
+            </ul>
+        </section>
+        
+        <section class="section" id="strategy">
+            <h3>Mga Estratehiya:</h3>
+            <ul>
+                <li>Huwag madaliin—manatili ang bawat palaisipan sa loob ng 24 na oras</li>
+                <li>Magpahinga paminsan-minsan upang mapanatili ang konsentrasyon</li>
+                <li>Mas madali ang maiikling salita sa una, ngunit sa patuloy na paglalaro, matutukoy mo ang mahahabang salita</li>
+                <li>Ang tiyaga ay mahalaga—maaari kang magsimula sa ilang dosenang salita at kalaunan ay makakahanap ng daan-daan</li>
+            </ul>
+        </section>
+        
+        <section class="section" id="benefits">
+            <h3>Mga Benepisyo sa Wika:</h3>
+            <div class="feature-box">
+                <h4>Pagpapalawak ng Bokabularyo</h4>
+                <p>Matuto ng bagong salita at palawakin ang iyong bokabularyo sa regular na paglalaro.</p>
+            </div>
+            
+            <div class="feature-box">
+                <h4>Pagtukoy ng Salita</h4>
+                <p>Palakasin ang iyong kakayahan sa pagkilala at tamang pagbaybay ng mga salita sa Ingles.</p>
+            </div>
+            
+            <div class="feature-box">
+                <h4>Pagkilala sa Pattern</h4>
+                <p>Sanayin ang iyong kakayahang tukuyin ang mga pattern ng salita at kombinasyon ng letra.</p>
+            </div>
+            
+            <div class="feature-box">
+                <h4>Pangunawa sa Morpolohiya</h4>
+                <p>Mapalalim ang iyong kaalaman sa pagbubuo ng salita, kabilang ang mga unlapi, hulapi, at ugat ng salita.</p>
+            </div>
+            
+            <div class="feature-box">
+                <h4>Mga Panuntunan sa Wika</h4>
+                <p>Palakasin ang iyong pag-unawa sa mga tuntunin ng pagbigkas at pagbabaybay sa Ingles.</p>
+            </div>
+        </section>
+        
+        <section class="section" id="conclusion">
+            <p>Habang mas madalas kang maglaro, mas mapapansin mong bumibilis ang iyong kakayahan sa pagkilala ng mga kumplikadong salita at pattern, kaya't ang FindWord ay parehong masaya at pang-edukasyon.</p>
+            
+            <div class="download-buttons">
+		<a href="https://play.google.com/store/apps/details?id=com.daniel.findword">
+        		<img src="googleplay.svg" alt="Google Play" class="image-button">
+    		</a>
+		<a href="https://apps.apple.com/app/findword/id6471604639">
+        		<img src="appstore.svg" alt="App Store" class="image-button">
+    		</a>
+            </div>
+        </section>
+        
+        <section class="section" id="contact">
+            <h3>Makipag-ugnayan sa Amin</h3>
+            <p>Mahalaga sa amin ang iyong opinyon at mungkahi. Kung mayroon kang mga katanungan o ideya tungkol sa FindWord, huwag mag-atubiling makipag-ugnayan sa amin sa <a href="mailto:info@englishtests.online">info@englishtests.online</a>.</p>
+        </section>
+    </main>
+    
+    <footer class="footer">
+    <div class="footer-content">
+        <p>© Copyright 2025</p>
+        <p><a href="mailto:info@englishtests.online" class="footer-email">info@englishtests.online</a></p>
+        <p>All rights reserved</p>        
+        <p class="footer-made">Made by <a href="https://play.google.com/store/apps/dev?id=5093525609695433503" class="footer-email">KubiKDB</a></p>
+    </div>
+    </footer>
+    <!-- Structured data for better SEO (JSON-LD) -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "name": "FindWord",
+        "url": "https://englishtests.online/findword",
+        "description": "A daily word puzzle game that challenges players to discover English words within a grid of 144 randomly generated letters.",
+        "applicationCategory": "GameApplication",
+        "operatingSystem": "iOS, ANDROID",
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "USD"
+        },
+        "author": {
+            "@type": "Organization",
+            "name": "englishtests.online",
+            "email": "info@englishtests.online"
+        }
+    }
+    </script>
+</body>
+</html>
