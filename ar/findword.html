@@ -193,6 +193,37 @@
         .image-button:active {
             transform: scale(0.98);
         }
+	    .flag-grid {
+        display: grid;
+        grid-template-columns: repeat(7, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+        gap: 10px;
+        max-width: 600px;
+        margin: 15px auto;
+        padding: 0 10px;
+	padding-bottom: 15px;
+	border-bottom: 1px solid #eee;
+    }
+    
+    .flag-link {
+        display: block;
+        border-radius: 4px;
+        overflow: hidden;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    
+    .flag-link:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    }
+    
+    .flag-icon {
+        width: 100%;
+        height: auto;
+        aspect-ratio: 32/20;
+        display: block;
+    }
     </style>
 </head>
 <body>
