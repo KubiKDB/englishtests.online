@@ -258,6 +258,17 @@
 
                     resultText += `<p><strong>Your Score: ${score} / ${total}</strong></p>`;
                     document.getElementById("result").innerHTML = resultText;
+                    // Save the score in localStorage
+                    // Get the current test level from URL
+                    const urlParams = new URLSearchParams(window.location.search);
+                    const testLevel = urlParams.get('level');
+                    const diffLevel = urlParams.get('diff');
+                    
+                    // Create a unique key for this test
+                    const testKey = `${diffLevel}-test-${testLevel}`;
+                    
+                    // Save the score
+                    localStorage.setItem(testKey, score);
                 });
             })
             .catch(error => {
