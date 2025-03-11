@@ -253,7 +253,6 @@
             margin-bottom: 30px;
         }
 
-        /* Individual Test Square - Removed red bottom */
         .test-square {
             width: 50px;
             height: 50px;
@@ -269,12 +268,56 @@
             cursor: pointer;
             transition: all var(--transition-speed);
         }
-
+        
         .test-square:hover {
             background-color: var(--primary-color);
             color: var(--text-color-light);
             transform: translateY(-2px);
             box-shadow: var(--box-shadow);
+        }
+        
+        /* Styles for squares with scores */
+        .test-square.has-score {
+            flex-direction: column;
+            justify-content: space-between;
+            align-items: center;
+            padding: 5px 0;
+        }
+        
+        .test-square-number {
+            font-size: 0.9em;
+            margin-top: 2px;
+        }
+        
+        .test-square-score {
+            font-size: 0.9em;
+            margin-bottom: 2px;
+        }
+        
+        .test-square-divider {
+            width: 80%;
+            height: 1px;
+            background-color: currentColor;
+            margin: 2px 0;
+        }
+        
+        /* Colors for different performance levels */
+        .test-square-fail {
+            background-color:  rgba(255, 51, 51, 1);
+            border-color: #c0392b;
+            color: white;
+        }
+        
+        .test-square-good {
+            background-color: rgba(255, 204, 0, 1);
+            border-color: #f39c12;
+            color: white;
+        }
+        
+        .test-square-excellent {
+            background-color: rgba(51, 204, 51, 1);
+            border-color: #27ae60;
+            color: white;
         }
 
         /* Add these styles to your body and html elements */
@@ -361,6 +404,17 @@
                 border-radius: 8px;
                 border-width: 1.5px;
             }
+            .test-square.has-score {
+                padding: 3px 0;
+            }
+            
+            .test-square-number {
+                font-size: 0.8em;
+            }
+            
+            .test-square-score {
+                font-size: 0.8em;
+            }
         }
     </style>
 </head>
@@ -418,13 +472,59 @@
 
         // JavaScript to dynamically generate 100 squares
         const gridContainer = document.querySelector('.test-squares-grid');
+        let currentDiff = "C1";
+        
         for (let i = 1; i <= 50; i++) {
             const square = document.createElement('div');
             square.classList.add('test-square');
-            // square.href = `https://kubikdb.github.io/test-english-level/b2?level=${i}`; // Set the link URL
-            square.textContent = i;
-            // You can add an onclick event to each square if needed
-            square.onclick = function() { window.location.href = `https://englishtests.online/test-page?diff=C1&level=${i}`; };
+            
+            // Check if there's a saved score for this test
+            const testKey = `${currentDiff}-test-${i}`;
+            const savedScore = localStorage.getItem(testKey);
+            
+            if (savedScore !== null) {
+                // This test has a score, so use the divided layout
+                square.classList.add('has-score');
+                
+                // Create the test number element
+                const numberElement = document.createElement('div');
+                numberElement.classList.add('test-square-number');
+                numberElement.textContent = i;
+                
+                // Create the divider
+                const divider = document.createElement('div');
+                divider.classList.add('test-square-divider');
+                
+                // Create the score element
+                const scoreElement = document.createElement('div');
+                scoreElement.classList.add('test-square-score');
+                scoreElement.textContent = `${savedScore}/50`;
+                
+                // Apply color based on performance
+                const score = parseInt(savedScore, 10);
+                if (score >= 43) {
+                    square.classList.add('test-square-excellent');
+                } else if (score >= 30) {
+                    square.classList.add('test-square-good');
+                } else {
+                    square.classList.add('test-square-fail');
+                }
+                
+                // Add all elements to the square
+                square.appendChild(numberElement);
+                square.appendChild(divider);
+                square.appendChild(scoreElement);
+            } else {
+                // No score yet, use the original simple layout with just the number
+                square.textContent = i;
+            }
+            
+            // Set the click handler
+            square.addEventListener('click', function() {
+                window.location.href = `https://englishtests.online/test-page?diff=${currentDiff}&level=${i}`;
+            });
+            
+            // Add the square to the grid
             gridContainer.appendChild(square);
         }
     </script>
