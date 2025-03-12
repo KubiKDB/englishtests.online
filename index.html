@@ -576,7 +576,6 @@
 
         // Cookie notice functionality
         const cookieNotice = document.getElementById('cookieNotice');
-        const acceptNecessary = document.getElementById('acceptNecessary');
         const acceptAll = document.getElementById('acceptAll');
 
         // Check if user has already made a cookie choice
@@ -585,12 +584,7 @@
         } else {
             cookieNotice.style.display = 'none';
         }
-
-        acceptNecessary.addEventListener('click', function() {
-            localStorage.setItem('cookieChoice', 'necessary');
-            cookieNotice.style.display = 'none';
-        });
-
+        
         acceptAll.addEventListener('click', function() {
             localStorage.setItem('cookieChoice', 'all');
             cookieNotice.style.display = 'none';
