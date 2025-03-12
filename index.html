@@ -390,6 +390,76 @@
     .footer-maker {
         font-size: 1.3em;
     }
+        /* Cookie Notice Window Styles */
+    .cookie-notice {
+        position: fixed;
+        bottom: 20px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 90%;
+        max-width: 500px;
+        background-color: white;
+        border-radius: var(--border-radius);
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        padding: 20px;
+        z-index: 1000;
+        text-align: center;
+        border-top: 4px solid var(--primary-color);
+    }
+
+    .cookie-notice h2 {
+        font-size: 1.5em;
+        margin-bottom: 15px;
+        color: var(--text-color-dark);
+    }
+
+    .cookie-notice-buttons {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        margin-top: 15px;
+    }
+
+    .cookie-btn {
+        padding: 12px 20px;
+        border-radius: var(--border-radius);
+        font-weight: 600;
+        cursor: pointer;
+        transition: all var(--transition-speed);
+        text-align: center;
+        border: none;
+        font-size: 1.1em;
+    }
+
+    .cookie-btn-primary {
+        background-color: var(--primary-color);
+        color: white;
+    }
+
+    .cookie-btn-primary:hover {
+        background-color: var(--primary-color-darker);
+    }
+
+    .cookie-btn-secondary {
+        background-color: var(--secondary-color);
+        color: var(--text-color-dark);
+    }
+
+    .cookie-btn-secondary:hover {
+        background-color: var(--secondary-color-darker);
+    }
+
+    .cookie-notice-link {
+        color: var(--primary-color);
+        text-decoration: none;
+        margin-top: 10px;
+        display: inline-block;
+        font-weight: 500;
+    }
+
+    .cookie-notice-link:hover {
+        text-decoration: underline;
+    }
 
         /* Theme Toggle Button Removed */
 
@@ -420,6 +490,19 @@
             .level-button {
                 font-size: 1.2em;
                 padding: 14px;
+            }
+            .cookie-notice {
+                bottom: 10px;
+                padding: 15px;
+            }
+    
+            .cookie-notice h2 {
+                font-size: 1.3em;
+            }
+    
+            .cookie-btn {
+                padding: 10px 15px;
+                font-size: 1em;
             }
         }
     </style>
@@ -457,6 +540,16 @@
         <a href="https://englishtests.online/findword" class="level-button findword">FindWord</a>
     </div>
 
+    <!-- Cookie Notice Window -->
+    <div class="cookie-notice" id="cookieNotice">
+        <h2>We use cookies to run this website</h2>
+        <div class="cookie-notice-buttons">
+            <button class="cookie-btn cookie-btn-secondary" id="acceptNecessary">Accept only necessary</button>
+            <a href="https://englishtests.online/privacy-policy" class="cookie-notice-link">Cookie Notice</a>
+            <button class="cookie-btn cookie-btn-primary" id="acceptAll">Accept all cookies</button>
+        </div>
+    </div>
+
     <script>
         // Enhanced menu toggle with animation
         const menuButton = document.getElementById('menuButton');
@@ -479,6 +572,28 @@
         // Prevent dropdown clicks from closing the menu
         dropdownMenu.addEventListener('click', function(event) {
             event.stopPropagation();
+        });
+
+        // Cookie notice functionality
+        const cookieNotice = document.getElementById('cookieNotice');
+        const acceptNecessary = document.getElementById('acceptNecessary');
+        const acceptAll = document.getElementById('acceptAll');
+
+        // Check if user has already made a cookie choice
+        if (!localStorage.getItem('cookieChoice')) {
+            cookieNotice.style.display = 'block';
+        } else {
+            cookieNotice.style.display = 'none';
+        }
+
+        acceptNecessary.addEventListener('click', function() {
+            localStorage.setItem('cookieChoice', 'necessary');
+            cookieNotice.style.display = 'none';
+        });
+
+        acceptAll.addEventListener('click', function() {
+            localStorage.setItem('cookieChoice', 'all');
+            cookieNotice.style.display = 'none';
         });
 
         // Theme functionality removed
