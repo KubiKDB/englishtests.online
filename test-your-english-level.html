@@ -1208,6 +1208,8 @@
                     }
                 }
             }
+		// Save the user's English level in localStorage
+    		localStorage.setItem('userEnglishLevel', userLevel);
 
             resultText += `<p><strong>Your Estimated English Level: ${userLevel}</strong></p>`;
             document.getElementById("result").innerHTML = resultText;        });   </script>
