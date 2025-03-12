@@ -528,7 +528,7 @@
     </div>
 
     <div class="main-button-container">
-        <a href="https://englishtests.online/test-your-english-level" class="main-button">Test your English level</a>
+        <a href="https://englishtests.online/test-your-english-level" class="main-button" id="level-test-button">Test your English level</a>
     </div>
 
     <div class="button-grid">
@@ -589,6 +589,25 @@
             localStorage.setItem('cookieChoice', 'all');
             cookieNotice.style.display = 'none';
         });
+
+        function updateLevelButtonText() {
+            // Check if there's a saved English level
+            const userLevel = localStorage.getItem('userEnglishLevel');
+            
+            if (userLevel) {
+                // Find the button or link that leads to the English level test
+                // This selector might need adjustment based on your actual HTML structure
+                const levelTestButton = document.getElementById('level-test-button');
+                
+                if (levelTestButton) {
+                    // Update the button text to show the user's level
+                    levelTestButton.textContent = `Your English level is ${userLevel}`;
+                }
+            }
+        }
+
+        // Run the function when the page loads
+        document.addEventListener('DOMContentLoaded', updateLevelButtonText);
 
         // Theme functionality removed
         // Set to light theme by default
