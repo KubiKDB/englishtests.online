@@ -397,7 +397,7 @@
         left: 50%;
         transform: translateX(-50%);
         width: 90%;
-        max-width: 500px;
+        max-width: 400px;
         background-color: white;
         border-radius: var(--border-radius);
         box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
@@ -405,10 +405,11 @@
         z-index: 1000;
         text-align: center;
         border-top: 4px solid var(--primary-color);
+        border-bottom: 4px solid var(--primary-color);
     }
 
     .cookie-notice h2 {
-        font-size: 1.5em;
+        font-size: 1.2em;
         margin-bottom: 15px;
         color: var(--text-color-dark);
     }
@@ -542,11 +543,10 @@
 
     <!-- Cookie Notice Window -->
     <div class="cookie-notice" id="cookieNotice">
-        <h2>We use cookies to run this website</h2>
+        <h2>We use cookies to run our website</h2>
         <div class="cookie-notice-buttons">
-            <button class="cookie-btn cookie-btn-secondary" id="acceptNecessary">Accept only necessary</button>
-            <a href="https://englishtests.online/privacy-policy" class="cookie-notice-link">Cookie Notice</a>
-            <button class="cookie-btn cookie-btn-primary" id="acceptAll">Accept all cookies</button>
+            <a href="https://englishtests.online/privacy-policy" class="cookie-notice-link">Privacy Policy</a>
+            <button class="cookie-btn cookie-btn-primary" id="acceptAll">Accept cookies</button>
         </div>
     </div>
 
