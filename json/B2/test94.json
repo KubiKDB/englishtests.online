@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Ecological restoration has emerged as a vital scientific discipline focused on repairing ecosystems that have been degraded, damaged, or destroyed due to human activities or natural disasters. This field combines principles from ecology, biology, chemistry, and environmental science to develop effective strategies for revitalizing natural habitats. As environmental concerns grow more pressing globally, restoration efforts have become increasingly important for maintaining biodiversity and ecosystem services that are essential for human well-being.<br><br>(2) One fundamental approach in ecological restoration involves the removal of harmful factors that caused the initial degradation. These may include invasive species, pollutants, or physical disturbances that prevent natural recovery processes. Scientists carefully assess the damaged ecosystem to identify specific stressors and develop targeted interventions. For example, in wetland restoration, practitioners might remove drainage systems that altered water flow patterns, allowing the natural hydrology to gradually reestablish itself.<br><br>(3) Another critical method involves the reintroduction of native species that once thrived in the ecosystem but disappeared due to environmental changes. This process requires extensive knowledge about historical ecological conditions and species interactions. Restoration ecologists often use reference ecosystems—relatively undisturbed areas with similar environmental characteristics—as models for what the restored system should resemble. Seeds, seedlings, or mature plants may be strategically introduced to accelerate the recovery process and reestablish natural community dynamics.<br><br>(4) Monitoring represents an essential component of any restoration project, as it allows scientists to track progress and make necessary adjustments. Restoration practitioners collect data on various parameters including species diversity, soil conditions, water quality, and ecosystem functions. This adaptive management approach recognizes that ecosystems are complex and dynamic systems that may respond unpredictably to restoration efforts. Long-term monitoring programs help ensure that restoration goals are being met and provide valuable insights for future projects.<br><br>(5) While ecological restoration has demonstrated remarkable success in many contexts, practitioners face significant challenges. Climate change introduces new uncertainties, as historical reference conditions may no longer be achievable or sustainable. Limited funding and resources often constrain the scale and scope of restoration efforts. Additionally, successful restoration requires integration of scientific knowledge with social, economic, and cultural considerations. Despite these challenges, ecological restoration continues to evolve as a discipline, offering hope for healing damaged ecosystems and creating more resilient landscapes for future generations.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which tense is correct in this sentence? 'By the time we arrived at the station, the train _____.'",
+      "options": {
+        "A": "has left",
+        "B": "was leaving",
+        "C": "had left",
+        "D": "left"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct conditional form: 'If he _____ harder, he would have passed the exam.'",
+      "options": {
+        "A": "studied",
+        "B": "would study",
+        "C": "had studied",
+        "D": "studies"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the correct passive voice: 'The book _____ by many students every year.'",
+      "options": {
+        "A": "reads",
+        "B": "is read",
+        "C": "has read",
+        "D": "was read"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Identify the correct relative pronoun: 'The woman _____ car was stolen reported it to the police.'",
+      "options": {
+        "A": "who",
+        "B": "whom",
+        "C": "which",
+        "D": "whose"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct article: 'She works as _____ engineer for _____ international company.'",
+      "options": {
+        "A": "an, an",
+        "B": "an, a",
+        "C": "a, an",
+        "D": "a, a"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the correct modal verb: 'You _____ be tired after such a long journey.'",
+      "options": {
+        "A": "should",
+        "B": "would",
+        "C": "must",
+        "D": "can"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Identify the correct reported speech: 'She said, \"I am working on a new project.\"'",
+      "options": {
+        "A": "She said she is working on a new project.",
+        "B": "She said she was working on a new project.",
+        "C": "She said I am working on a new project.",
+        "D": "She said I was working on a new project."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct preposition: 'She has been working here _____ 2018.'",
+      "options": {
+        "A": "for",
+        "B": "since",
+        "C": "from",
+        "D": "in"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Select the correct verb form: 'I wish I _____ how to swim.'",
+      "options": {
+        "A": "know",
+        "B": "knew",
+        "C": "would know",
+        "D": "known"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct comparative form: 'This book is _____ than the one I read last week.'",
+      "options": {
+        "A": "more interesting",
+        "B": "interestinger",
+        "C": "most interesting",
+        "D": "the most interesting"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Identify the correct question tag: 'He rarely visits his parents, _____?'",
+      "options": {
+        "A": "doesn't he",
+        "B": "does he",
+        "C": "isn't he",
+        "D": "is he"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the correct future tense: 'By next month, she _____ in this company for five years.'",
+      "options": {
+        "A": "will work",
+        "B": "will be working",
+        "C": "will have worked",
+        "D": "is going to work"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct form: 'If I were you, I _____ that job offer.'",
+      "options": {
+        "A": "will accept",
+        "B": "would accept",
+        "C": "would have accepted",
+        "D": "accepted"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Identify the correct use of gerund or infinitive: 'She avoided _____ about the incident.'",
+      "options": {
+        "A": "to talk",
+        "B": "talking",
+        "C": "talk",
+        "D": "talked"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the correct sentence structure: 'Not only _____ the assignment on time, but he also received the highest grade.'",
+      "options": {
+        "A": "did he submit",
+        "B": "he submitted",
+        "C": "he did submit",
+        "D": "submitted he"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the most appropriate word to complete this sentence: 'Despite the _____ reviews, the film was a commercial success.'",
+      "options": {
+        "A": "mixed",
+        "B": "blended",
+        "C": "combined",
+        "D": "joined"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the correct phrasal verb: 'Could you please _____ this form with your personal details?'",
+      "options": {
+        "A": "fill out",
+        "B": "fill up",
+        "C": "fill in",
+        "D": "fill over"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Identify the correct collocation: 'She _____ a lot of experience in this field.'",
+      "options": {
+        "A": "makes",
+        "B": "does",
+        "C": "has",
+        "D": "takes"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the appropriate idiom: 'The company has been _____ ever since the new management took over.'",
+      "options": {
+        "A": "going downhill",
+        "B": "taking a rain check",
+        "C": "cutting corners",
+        "D": "beating around the bush"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the correct linking phrase: 'The weather was terrible; _____, we decided to go hiking anyway.'",
+      "options": {
+        "A": "therefore",
+        "B": "however",
+        "C": "moreover",
+        "D": "consequently"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Identify the correct fixed expression: 'I'm not sure if I'll come to the party. I'll have to _____ and let you know later.'",
+      "options": {
+        "A": "play it by ear",
+        "B": "keep an eye out",
+        "C": "break the ice",
+        "D": "hit the books"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the appropriate formal expression: 'We would be _____ if you could reply by next Friday.'",
+      "options": {
+        "A": "joyful",
+        "B": "grateful",
+        "C": "pleased",
+        "D": "delighted"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the correct expression for emphasis: 'It was _____ that convinced me to change my mind.'",
+      "options": {
+        "A": "his argument",
+        "B": "the argument of his",
+        "C": "his argument which",
+        "D": "his argument that"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Identify the correct word to show contrast: 'The first proposal was rejected; _____, the second one was approved immediately.'",
+      "options": {
+        "A": "similarly",
+        "B": "likewise",
+        "C": "in contrast",
+        "D": "equally"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the appropriate phrasal verb: 'We need to _____ a solution to this problem as soon as possible.'",
+      "options": {
+        "A": "come up with",
+        "B": "come across",
+        "C": "come around",
+        "D": "come about"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Which definition best describes 'sufficient'?",
+      "options": {
+        "A": "Enough to meet a need or purpose",
+        "B": "More than necessary",
+        "C": "Of the highest quality",
+        "D": "Limited in quantity"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "In which sentence is 'encounter' used correctly?",
+      "options": {
+        "A": "She encountered her keys in her pocket.",
+        "B": "We encountered several problems during the project.",
+        "C": "They encounter the furniture around the room.",
+        "D": "He encounters dinner every evening at 7 PM."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Choose the sentence where 'gesture' is used correctly.",
+      "options": {
+        "A": "He made a friendly gesture to show his support.",
+        "B": "They gesture the car into the garage.",
+        "C": "She gestured the book on the shelf.",
+        "D": "We gesture lunch at the new restaurant."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which word is closest in meaning to 'hostile'?",
+      "options": {
+        "A": "Friendly",
+        "B": "Indifferent",
+        "C": "Antagonistic",
+        "D": "Cooperative"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "In which sentence is 'embrace' used correctly?",
+      "options": {
+        "A": "The company decided to embrace the new technology.",
+        "B": "We embrace lunch at the café yesterday.",
+        "C": "She embraced the book back on the shelf.",
+        "D": "They embrace their car in the garage."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Choose the sentence where 'crucial' is used correctly.",
+      "options": {
+        "A": "She crucial her report before the deadline.",
+        "B": "They crucial about the new project yesterday.",
+        "C": "It is crucial that we finish this project on time.",
+        "D": "He crucialed the document on his desk."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "What is the correct definition of 'phenomenon'?",
+      "options": {
+        "A": "A common occurrence with no special significance",
+        "B": "A fact or situation that is observed to exist or happen",
+        "C": "A small, insignificant detail",
+        "D": "A theoretical concept that cannot be observed"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "In which sentence is 'mature' used correctly?",
+      "options": {
+        "A": "The fruit will mature in about three days.",
+        "B": "She matured her keys on the table.",
+        "C": "They mature the meeting until next week.",
+        "D": "We mature dinner at 8 PM."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Which word is most similar in meaning to 'widespread'?",
+      "options": {
+        "A": "Limited",
+        "B": "Rare",
+        "C": "Extensive",
+        "D": "Concentrated"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Choose the sentence where 'advocate' is used correctly.",
+      "options": {
+        "A": "She advocates the book on the shelf.",
+        "B": "He advocates for stricter environmental regulations.",
+        "C": "They advocate the meeting until tomorrow.",
+        "D": "We advocate lunch at noon."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "In which sentence is 'implement' used correctly?",
+      "options": {
+        "A": "The company plans to implement a new policy next month.",
+        "B": "She implemented the book to the library.",
+        "C": "They implement lunch every day at 1 PM.",
+        "D": "He implemented the car in the garage."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "What does 'discipline' refer to in this sentence? 'Students need to show discipline in their study habits.'",
+      "options": {
+        "A": "Punishment",
+        "B": "Self-control",
+        "C": "Intelligence",
+        "D": "Creativity"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Choose the sentence where 'territory' is used correctly.",
+      "options": {
+        "A": "The company expanded its territory into new markets.",
+        "B": "She territoried her report yesterday.",
+        "C": "They territory lunch at the new café.",
+        "D": "He territory the documents on his desk."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Which definition best describes 'ultimate'?",
+      "options": {
+        "A": "The first in a series",
+        "B": "The most extreme or final",
+        "C": "The most common or typical",
+        "D": "The easiest or simplest"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "In which sentence is 'moderate' used correctly?",
+      "options": {
+        "A": "The teacher will moderate the debate between the two student teams.",
+        "B": "She moderated her keys on the table.",
+        "C": "They moderate the car in the garage.",
+        "D": "We moderate lunch at the restaurant."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, what is ecological restoration primarily focused on?",
+      "options": {
+        "A": "Creating new ecosystems",
+        "B": "Protecting undisturbed habitats",
+        "C": "Repairing damaged ecosystems",
+        "D": "Studying environmental science principles"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "What is described as a fundamental approach in ecological restoration?",
+      "options": {
+        "A": "Introducing non-native species",
+        "B": "Removing harmful factors that caused degradation",
+        "C": "Implementing artificial water systems",
+        "D": "Building physical barriers in ecosystems"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "What do restoration ecologists use as models for what a restored system should look like?",
+      "options": {
+        "A": "Computer simulations",
+        "B": "Historical photographs",
+        "C": "Laboratory experiments",
+        "D": "Reference ecosystems"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Why is monitoring described as essential in restoration projects?",
+      "options": {
+        "A": "To keep project costs low",
+        "B": "To satisfy government requirements",
+        "C": "To track progress and make necessary adjustments",
+        "D": "To engage the public in conservation efforts"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to the passage, what approach do restoration practitioners use to deal with unpredictable ecosystem responses?",
+      "options": {
+        "A": "Preventive maintenance",
+        "B": "Adaptive management",
+        "C": "Crisis intervention",
+        "D": "Regulatory compliance"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What challenge does climate change present to ecological restoration?",
+      "options": {
+        "A": "It increases the cost of restoration projects",
+        "B": "It makes historical reference conditions potentially unsustainable",
+        "C": "It reduces public interest in restoration efforts",
+        "D": "It limits the availability of native species"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "In addition to scientific knowledge, what does successful restoration require?",
+      "options": {
+        "A": "International cooperation",
+        "B": "Advanced technology",
+        "C": "Integration with social, economic, and cultural considerations",
+        "D": "Government legislation"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What is implied about the future of ecological restoration?",
+      "options": {
+        "A": "It will become less important as natural ecosystems recover",
+        "B": "It will focus exclusively on climate change mitigation",
+        "C": "It will continue to evolve and offer hope for healing ecosystems",
+        "D": "It will be replaced by more technologically advanced approaches"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What does the passage suggest about the relationship between ecological restoration and human well-being?",
+      "options": {
+        "A": "They are unrelated concerns",
+        "B": "Ecological restoration is primarily for aesthetic purposes",
+        "C": "Restoration is essential for maintaining ecosystem services that benefit humans",
+        "D": "Human well-being is more important than ecosystem health"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What activity is mentioned as part of the reintroduction of native species?",
+      "options": {
+        "A": "Creating artificial habitats",
+        "B": "Introducing predator species",
+        "C": "Strategic introduction of seeds, seedlings, or mature plants",
+        "D": "Eliminating all non-native species"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
