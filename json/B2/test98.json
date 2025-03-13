@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Cartography, the art and science of map-making, has been an essential tool for human civilization for thousands of years. Maps have guided explorers, informed military strategies, and helped people understand their place in the world. From simple sketches in the sand to highly detailed digital representations, the techniques used in cartography have evolved significantly over time, reflecting advancements in technology, science, and our understanding of geography.<br><br>(2) The earliest known maps date back to ancient Babylon around 600 BCE, where clay tablets depicted simple land boundaries. Greek scholars like Ptolemy later introduced concepts of latitude and longitude, attempting to create more accurate representations of the Earth. However, these early maps were limited by the knowledge of the time and often included mythical elements or vast unexplored areas labeled as \"terra incognita.\"<br><br>(3) During the Renaissance, cartography experienced a revolution. The invention of the printing press allowed maps to be produced and distributed widely. Explorers like Columbus and Magellan brought back new information, leading to more accurate depictions of coastlines and continents. Innovations such as the Mercator projection, developed in the 16th century, solved the problem of representing the spherical Earth on a flat surface, greatly aiding navigation.<br><br>(4) The Age of Exploration further accelerated the development of cartography. As European powers competed for new territories, detailed maps became crucial for claiming land and planning voyages. The use of more precise instruments, like the sextant and chronometer, improved the accuracy of maps. By the 18th and 19th centuries, national surveys were established to create comprehensive maps of entire countries, laying the foundation for modern cartography.<br><br>(5) In the 20th and 21st centuries, technology transformed cartography once again. The advent of aerial photography, satellite imagery, and computer technology enabled the creation of highly detailed and accurate maps. Geographic Information Systems (GIS) allow for the layering of data, making maps interactive and multifunctional. Today, digital maps and GPS navigation are ubiquitous, integrated into smartphones and vehicles, fundamentally changing how we interact with and understand our environment.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "By the time we arrived, the movie __________.",
+      "options": {
+        "A": "has started",
+        "B": "had started",
+        "C": "started",
+        "D": "was starting"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "If I __________ you, I would study more for the exam.",
+      "options": {
+        "A": "am",
+        "B": "were",
+        "C": "have been",
+        "D": "will be"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "The report __________ by the committee last week.",
+      "options": {
+        "A": "is being reviewed",
+        "B": "has been reviewed",
+        "C": "was reviewed",
+        "D": "reviewed"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "She told me that she __________ to Paris next month.",
+      "options": {
+        "A": "will go",
+        "B": "would go",
+        "C": "goes",
+        "D": "is going"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "You __________ finish your homework before going out.",
+      "options": {
+        "A": "must",
+        "B": "can",
+        "C": "might",
+        "D": "could"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "The book __________ I read last week was fascinating.",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "I enjoy __________ to classical music.",
+      "options": {
+        "A": "listen",
+        "B": "listening",
+        "C": "to listen",
+        "D": "listened"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "She promised __________ me with my project.",
+      "options": {
+        "A": "help",
+        "B": "to help",
+        "C": "helping",
+        "D": "helped"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "If they __________ earlier, they would have caught the train.",
+      "options": {
+        "A": "left",
+        "B": "had left",
+        "C": "have left",
+        "D": "leave"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "The students are required __________ their assignments by Friday.",
+      "options": {
+        "A": "submit",
+        "B": "to submit",
+        "C": "submitting",
+        "D": "submitted"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "I __________ my keys; I can’t find them anywhere.",
+      "options": {
+        "A": "must lose",
+        "B": "must have lost",
+        "C": "should lose",
+        "D": "should have lost"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "The teacher asked if we __________ the homework.",
+      "options": {
+        "A": "have done",
+        "B": "had done",
+        "C": "do",
+        "D": "did"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "__________ it was raining, we decided to go for a walk.",
+      "options": {
+        "A": "Although",
+        "B": "Despite",
+        "C": "Because",
+        "D": "Since"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "She has been living in London __________ five years.",
+      "options": {
+        "A": "since",
+        "B": "for",
+        "C": "from",
+        "D": "during"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "The car needs __________. It’s making strange noises.",
+      "options": {
+        "A": "to repair",
+        "B": "repairing",
+        "C": "repair",
+        "D": "repaired"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "He is very good __________ playing the piano.",
+      "options": {
+        "A": "in",
+        "B": "at",
+        "C": "on",
+        "D": "with"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "I look forward __________ from you soon.",
+      "options": {
+        "A": "to hear",
+        "B": "hearing",
+        "C": "to hearing",
+        "D": "hear"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "The company has decided to __________ its prices due to increased costs.",
+      "options": {
+        "A": "rise",
+        "B": "raise",
+        "C": "arise",
+        "D": "arouse"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "She __________ to the party if she had known about it.",
+      "options": {
+        "A": "would go",
+        "B": "would have gone",
+        "C": "went",
+        "D": "had gone"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "The teacher asked the students to __________ attention to the instructions.",
+      "options": {
+        "A": "pay",
+        "B": "give",
+        "C": "take",
+        "D": "make"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "I’m not sure if I can come to the meeting; it __________ on my schedule.",
+      "options": {
+        "A": "depends",
+        "B": "relies",
+        "C": "counts",
+        "D": "bases"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "He has a __________ of humor that not everyone appreciates.",
+      "options": {
+        "A": "sense",
+        "B": "feeling",
+        "C": "mood",
+        "D": "taste"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "The new policy will __________ into effect next month.",
+      "options": {
+        "A": "come",
+        "B": "go",
+        "C": "get",
+        "D": "put"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "She __________ her mother’s advice and decided to study abroad.",
+      "options": {
+        "A": "took",
+        "B": "made",
+        "C": "had",
+        "D": "did"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "The scientist’s discovery was __________ in the field of medicine.",
+      "options": {
+        "A": "signify",
+        "B": "significant",
+        "C": "significance",
+        "D": "significantly"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Which word is closest in meaning to “meticulous”?",
+      "options": {
+        "A": "careless",
+        "B": "precise",
+        "C": "hasty",
+        "D": "lazy"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "What is the opposite of “generous”?",
+      "options": {
+        "A": "selfish",
+        "B": "kind",
+        "C": "wealthy",
+        "D": "friendly"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Despite the challenges, she remained __________ about the project’s success.",
+      "options": {
+        "A": "pessimistic",
+        "B": "optimistic",
+        "C": "indifferent",
+        "D": "anxious"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "The novel’s plot was so __________ that I couldn’t put it down.",
+      "options": {
+        "A": "boring",
+        "B": "captivating",
+        "C": "predictable",
+        "D": "confusing"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "She has a __________ to exaggerate her stories.",
+      "options": {
+        "A": "habit",
+        "B": "tendency",
+        "C": "custom",
+        "D": "tradition"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Due to the economic downturn, the company’s profits have __________.",
+      "options": {
+        "A": "soared",
+        "B": "plummeted",
+        "C": "stabilized",
+        "D": "varied"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "The teacher praised the student for his __________ answer.",
+      "options": {
+        "A": "incorrect",
+        "B": "accurate",
+        "C": "vague",
+        "D": "irrelevant"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "The new law will have a significant __________ on small businesses.",
+      "options": {
+        "A": "effect",
+        "B": "affect",
+        "C": "effectiveness",
+        "D": "affection"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "He was __________ to admit his mistake.",
+      "options": {
+        "A": "reluctant",
+        "B": "eager",
+        "C": "willing",
+        "D": "happy"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "The __________ of the painting was breathtaking.",
+      "options": {
+        "A": "beauty",
+        "B": "beautiful",
+        "C": "beautifully",
+        "D": "beautify"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "She speaks English __________.",
+      "options": {
+        "A": "fluent",
+        "B": "fluently",
+        "C": "fluency",
+        "D": "fluented"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "The __________ between the two theories is striking.",
+      "options": {
+        "A": "similar",
+        "B": "similarity",
+        "C": "similarly",
+        "D": "similitude"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "He is known for his __________ sense of humor.",
+      "options": {
+        "A": "witty",
+        "B": "wit",
+        "C": "wittily",
+        "D": "wittiness"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "The __________ of the problem requires careful analysis.",
+      "options": {
+        "A": "solve",
+        "B": "solution",
+        "C": "solving",
+        "D": "solved"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "She was __________ by the news of her promotion.",
+      "options": {
+        "A": "delighted",
+        "B": "delighting",
+        "C": "delight",
+        "D": "delightful"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "What is the primary purpose of the passage?",
+      "options": {
+        "A": "To explain the history of cartography",
+        "B": "To describe modern mapping techniques",
+        "C": "To compare ancient and modern maps",
+        "D": "To discuss the importance of maps in exploration"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "According to the passage, what was a limitation of early maps?",
+      "options": {
+        "A": "They were too detailed.",
+        "B": "They included mythical elements.",
+        "C": "They were not widely distributed.",
+        "D": "They were only used by explorers."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "The word “depicted” in paragraph 2 most nearly means:",
+      "options": {
+        "A": "imagined",
+        "B": "represented",
+        "C": "discovered",
+        "D": "measured"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "What innovation during the Renaissance greatly aided navigation?",
+      "options": {
+        "A": "The printing press",
+        "B": "The sextant",
+        "C": "The Mercator projection",
+        "D": "Satellite imagery"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Why did detailed maps become crucial during the Age of Exploration?",
+      "options": {
+        "A": "For artistic purposes",
+        "B": "To claim new territories",
+        "C": "To improve printing techniques",
+        "D": "To study ancient civilizations"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "Which of the following is NOT mentioned as a modern cartographic tool?",
+      "options": {
+        "A": "Aerial photography",
+        "B": "Satellite imagery",
+        "C": "Geographic Information Systems",
+        "D": "Clay tablets"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "The passage suggests that modern maps are different from ancient maps in that they:",
+      "options": {
+        "A": "Are less accurate",
+        "B": "Include more mythical elements",
+        "C": "Are interactive and multifunctional",
+        "D": "Are only used by scholars"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What does the author imply about the future of cartography?",
+      "options": {
+        "A": "It will revert to ancient techniques.",
+        "B": "It will become less important.",
+        "C": "It will continue to evolve with technology.",
+        "D": "It will focus more on artistic expression."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Which paragraph discusses the role of national surveys in cartography?",
+      "options": {
+        "A": "Paragraph 1",
+        "B": "Paragraph 2",
+        "C": "Paragraph 3",
+        "D": "Paragraph 4"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "The author’s tone in the passage is primarily:",
+      "options": {
+        "A": "Critical",
+        "B": "Nostalgic",
+        "C": "Informative",
+        "D": "Humorous"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
