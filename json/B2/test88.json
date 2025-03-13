@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Particle physics, often referred to as high energy physics, explores the fundamental constituents of matter and the forces through which they interact. This fascinating field examines particles that are incredibly small, far beyond what can be seen with the naked eye or even powerful microscopes. These subatomic particles form the building blocks of everything in our universe, from the stars and planets to the device you're using to read this text. The study of these particles requires massive particle accelerators that propel particles at nearly the speed of light before colliding them together, allowing scientists to observe the resulting debris and determine the properties of the particles involved.<br><br>(2) The Standard Model of particle physics, developed in the latter half of the 20th century, categorizes all known elementary particles and three of the four fundamental forces (excluding gravity). According to this model, matter particles fall into two categories: quarks and leptons. Quarks combine to form composite particles called hadrons, the most stable of which are protons and neutrons that make up atomic nuclei. Leptons, including electrons and neutrinos, exist independently and interact through different mechanisms. The discovery of the Higgs boson in 2012 at the Large Hadron Collider in Switzerland completed the Standard Model by confirming the existence of the Higgs field, which gives particles their mass.<br><br>(3) Beyond the Standard Model lies a realm of theoretical particles and forces that scientists are eager to explore. Supersymmetric particles, for example, are hypothesized partners of known particles that could help explain dark matter, which makes up approximately 27% of the universe yet remains undetected by conventional means. String theory proposes that particles are actually tiny vibrating strings, and the different vibration patterns determine the particle's properties. Another intriguing concept is that of quantum entanglement, where particles become linked and instantaneously affect each other regardless of the distance separating them, a phenomenon Einstein famously referred to as 'spooky action at a distance.'<br><br>(4) The practical applications of particle physics extend far beyond the realm of theoretical science. Technologies developed for particle physics research have revolutionized fields like medicine, computing, and engineering. Particle accelerators, originally built for physics experiments, are now used in cancer treatments to target tumors with precision. The World Wide Web was invented at CERN, the European Organization for Nuclear Research, to help physicists share information. Superconducting magnets, developed to steer particles in accelerators, are essential components in MRI machines. Additionally, the computational tools created to analyze the vast amounts of data from particle physics experiments have contributed to advancements in big data analytics across various industries.<br><br>(5) Despite its remarkable progress, particle physics continues to face significant challenges and unanswered questions. The incompatibility between quantum mechanics, which governs the subatomic world, and general relativity, which explains gravity and the cosmos at large scales, remains one of the biggest puzzles in physics. Scientists are also searching for explanations about matter-antimatter asymmetry (why there is more matter than antimatter in the universe) and the nature of dark energy, which makes up about 68% of the universe and drives its accelerating expansion. As research continues, new particle accelerators and detectors with increased sensitivity are being developed, promising further insights into the fundamental nature of reality and potentially revolutionizing our understanding of the universe.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct verb form to complete the sentence: 'If he _____ the instructions carefully, he wouldn't have made so many mistakes.'",
+      "options": {
+        "A": "read",
+        "B": "had read",
+        "C": "would read",
+        "D": "has read"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the correct passive voice construction: 'The experiment _____ by the research team next week.'",
+      "options": {
+        "A": "will conduct",
+        "B": "will be conducted",
+        "C": "is conducting",
+        "D": "has been conducted"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence has the correct subject-verb agreement?",
+      "options": {
+        "A": "The data collected from the survey show interesting patterns.",
+        "B": "The data collected from the survey shows interesting patterns.",
+        "C": "The data collected from the survey is showing interesting patterns.",
+        "D": "The data collected from the survey were showing interesting patterns."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct relative pronoun: 'The scientist _____ research revolutionized the field received the Nobel Prize.'",
+      "options": {
+        "A": "who",
+        "B": "whom",
+        "C": "whose",
+        "D": "which"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Select the correct form of the reported speech: She said, 'I will submit my report tomorrow.'",
+      "options": {
+        "A": "She said that she will submit her report tomorrow.",
+        "B": "She said that she would submit her report the next day.",
+        "C": "She said that she submitted her report the next day.",
+        "D": "She said that she will submit her report the next day."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Choose the correct modal verb: 'You _____ take your medication regularly if you want to recover quickly.'",
+      "options": {
+        "A": "would",
+        "B": "might",
+        "C": "should",
+        "D": "could"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Identify the correct future perfect tense: 'By this time next year, they _____ the new laboratory.'",
+      "options": {
+        "A": "will build",
+        "B": "will have built",
+        "C": "are building",
+        "D": "will be building"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Which sentence correctly uses the gerund form?",
+      "options": {
+        "A": "She stopped to talk to her professor after class.",
+        "B": "She stopped talking to her professor after class.",
+        "C": "She stopped talk to her professor after class.",
+        "D": "She stopped and talked to her professor after class."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Select the correct comparative form: 'The results of the second experiment were _____ than the first one.'",
+      "options": {
+        "A": "more reliable",
+        "B": "most reliable",
+        "C": "reliablest",
+        "D": "more reliably"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the sentence with the correct use of articles:",
+      "options": {
+        "A": "She is best student in physics class.",
+        "B": "She is a best student in the physics class.",
+        "C": "She is the best student in a physics class.",
+        "D": "She is the best student in the physics class."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Identify the correct use of the present perfect continuous tense:",
+      "options": {
+        "A": "They have been working on this project since January.",
+        "B": "They have worked on this project since January.",
+        "C": "They are working on this project since January.",
+        "D": "They had been working on this project since January."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Choose the correct preposition: 'The professor was disappointed _____ the student's lack of effort.'",
+      "options": {
+        "A": "for",
+        "B": "with",
+        "C": "at",
+        "D": "about"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Select the sentence with the correct conditional structure:",
+      "options": {
+        "A": "If I would have more time, I will read more books.",
+        "B": "If I have more time, I would read more books.",
+        "C": "If I had more time, I would read more books.",
+        "D": "If I had more time, I will read more books."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the sentence with correct subject-verb agreement with 'either/or':",
+      "options": {
+        "A": "Either the students or the teacher are going to present the findings.",
+        "B": "Either the students or the teacher is going to present the findings.",
+        "C": "Either the students or the teacher have going to present the findings.",
+        "D": "Either the students or the teacher be going to present the findings."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Identify the correct use of a participle phrase:",
+      "options": {
+        "A": "Walking to class, my phone rang suddenly.",
+        "B": "Walking to class, I heard my phone ring suddenly.",
+        "C": "Walking to class, the phone was ringing suddenly.",
+        "D": "Walking to class, suddenly rang my phone."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the appropriate collocation: 'The company has decided to _____ a new approach to customer service.'",
+      "options": {
+        "A": "adopt",
+        "B": "make",
+        "C": "take",
+        "D": "use"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the correct phrasal verb: 'Scientists need to _____ new theories when faced with unexpected results.'",
+      "options": {
+        "A": "come up with",
+        "B": "look forward to",
+        "C": "get along with",
+        "D": "put off"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct idiomatic expression to complete the sentence: 'After months of research, the team finally had a _____ in understanding the phenomenon.'",
+      "options": {
+        "A": "break down",
+        "B": "breakthrough",
+        "C": "break out",
+        "D": "break up"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Select the most appropriate word to complete the sentence: 'The experiment yielded _____ results, confirming our initial hypothesis.'",
+      "options": {
+        "A": "controversial",
+        "B": "conclusive",
+        "C": "confusing",
+        "D": "contradictory"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct fixed expression: 'The research was conducted _____ strict laboratory conditions.'",
+      "options": {
+        "A": "in",
+        "B": "under",
+        "C": "within",
+        "D": "through"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the appropriate connector to complete the sentence: 'The first experiment failed; _____, the team decided to modify their approach.'",
+      "options": {
+        "A": "however",
+        "B": "consequently",
+        "C": "furthermore",
+        "D": "otherwise"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Select the word that collocates best with 'make': 'The presenter managed to _____ a good impression on the audience.'",
+      "options": {
+        "A": "do",
+        "B": "create",
+        "C": "make",
+        "D": "perform"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the word that best completes the sentence: 'The scientific community has expressed _____ about the validity of these findings.'",
+      "options": {
+        "A": "doubts",
+        "B": "questions",
+        "C": "problems",
+        "D": "issues"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Select the most appropriate preposition: 'The team is currently engaged _____ groundbreaking research in quantum physics.'",
+      "options": {
+        "A": "with",
+        "B": "for",
+        "C": "in",
+        "D": "on"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct expression: 'The researcher worked _____ to complete the project before the deadline.'",
+      "options": {
+        "A": "against the clock",
+        "B": "behind the scenes",
+        "C": "around the corner",
+        "D": "under the weather"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What is the most accurate definition of 'perception'?",
+      "options": {
+        "A": "The action of dividing something into parts",
+        "B": "The ability to see, hear, or become aware of something through the senses",
+        "C": "A specific type of visual impairment",
+        "D": "The process of writing down detailed observations"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the sentence where 'tension' is used correctly:",
+      "options": {
+        "A": "The tension of the book was very educational.",
+        "B": "She tensioned the rope to make it tighter.",
+        "C": "There was noticeable tension between the two competing researchers.",
+        "D": "The scientist tensioned a new theory about gravity."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What does 'validity' mean in a scientific context?",
+      "options": {
+        "A": "The speed at which a process occurs",
+        "B": "The extent to which a concept, conclusion, or measurement is well-founded and corresponds to reality",
+        "C": "The ability to change something quickly",
+        "D": "The likelihood of an experiment failing"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which word is most similar in meaning to 'alliance'?",
+      "options": {
+        "A": "Conflict",
+        "B": "Separation",
+        "C": "Partnership",
+        "D": "Competition"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "In which sentence is 'pollution' used correctly?",
+      "options": {
+        "A": "The scientist pollutioned the results to match his hypothesis.",
+        "B": "Industrial waste is a major source of water pollution in developing countries.",
+        "C": "She pollutioned her work with excellent citations.",
+        "D": "The teacher pollutioned the students for their achievements."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "What is the most appropriate definition of 'orientation'?",
+      "options": {
+        "A": "A process of formal training for a new job or position",
+        "B": "The direction in which something is arranged or positioned",
+        "C": "The act of organizing papers in alphabetical order",
+        "D": "A type of religious ceremony"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Choose the sentence where 'identity' is used correctly:",
+      "options": {
+        "A": "The researcher identitied a new species of plant.",
+        "B": "His cultural identity strongly influenced his artistic expression.",
+        "C": "The detective tried to identity the suspect from the security footage.",
+        "D": "The software can identity facial features with 98% accuracy."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "What does 'rejection' mean in the context of medical procedures?",
+      "options": {
+        "A": "A successful surgical outcome",
+        "B": "The delay of a scheduled procedure",
+        "C": "The body's immune response against transplanted tissue or organs",
+        "D": "The refusal of a patient to undergo treatment"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Which word is most similar in meaning to 'exceptional'?",
+      "options": {
+        "A": "Ordinary",
+        "B": "Extraordinary",
+        "C": "Average",
+        "D": "Typical"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "In which sentence is 'contribution' used correctly?",
+      "options": {
+        "A": "The professor contributioned the experiment with his students.",
+        "B": "Her contribution to the field of genetics has been widely recognized.",
+        "C": "They contribution a large portion of their budget to advertising.",
+        "D": "The bacteria contributioned rapidly in the warm environment."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What is the most accurate definition of 'distribution'?",
+      "options": {
+        "A": "The process of combining several elements into one",
+        "B": "The action of sharing something out among a number of recipients",
+        "C": "The creation of a new product or service",
+        "D": "The method of storing goods for long periods"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Choose the sentence where 'guardian' is used correctly:",
+      "options": {
+        "A": "The scientist guardianed his research carefully.",
+        "B": "The museum acted as a guardian of ancient artifacts.",
+        "C": "She guardianed her children to school every morning.",
+        "D": "The policy will guardian against potential risks."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "What does 'disability' refer to?",
+      "options": {
+        "A": "A special talent or ability",
+        "B": "A physical or mental condition that limits a person's movements, senses, or activities",
+        "C": "The lack of proper education or training",
+        "D": "The inability to perform a specific sport"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Which word is most similar in meaning to 'celebrity'?",
+      "options": {
+        "A": "Famous person",
+        "B": "Celebration",
+        "C": "Anonymity",
+        "D": "Ceremony"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "In which sentence is 'continuous' used correctly?",
+      "options": {
+        "A": "The musician continuoused to practice despite the noise.",
+        "B": "The experiment requires continuous monitoring of temperature changes.",
+        "C": "She continuoused her education after taking a year off.",
+        "D": "The marathon runners were all continuoused after crossing the finish line."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what is required to study subatomic particles?",
+      "options": {
+        "A": "Powerful microscopes",
+        "B": "Particle accelerators",
+        "C": "Nuclear reactors",
+        "D": "Astronomical telescopes"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Based on paragraph 2, which of the following is NOT a category of matter particles according to the Standard Model?",
+      "options": {
+        "A": "Quarks",
+        "B": "Leptons",
+        "C": "Hadrons",
+        "D": "Bosons"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "What does the passage state about the Higgs boson?",
+      "options": {
+        "A": "It was theorized but never discovered",
+        "B": "It was discovered in Switzerland in 2012",
+        "C": "It explains the force of gravity",
+        "D": "It is responsible for quantum entanglement"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to paragraph 3, what percentage of the universe is made up of dark matter?",
+      "options": {
+        "A": "10%",
+        "B": "27%",
+        "C": "50%",
+        "D": "68%"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "The phrase 'spooky action at a distance' in paragraph 3 refers to:",
+      "options": {
+        "A": "Supersymmetric particles",
+        "B": "String theory",
+        "C": "Quantum entanglement",
+        "D": "Dark matter"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to paragraph 4, which of the following is NOT mentioned as a practical application of particle physics research?",
+      "options": {
+        "A": "Cancer treatment",
+        "B": "GPS technology",
+        "C": "MRI machines",
+        "D": "The World Wide Web"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What does paragraph 5 identify as one of the biggest puzzles in physics?",
+      "options": {
+        "A": "The creation of artificial intelligence",
+        "B": "The incompatibility between quantum mechanics and general relativity",
+        "C": "The difficulty of building larger particle accelerators",
+        "D": "The funding challenges for physics research"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to the passage, what percentage of the universe is comprised of dark energy?",
+      "options": {
+        "A": "5%",
+        "B": "27%",
+        "C": "68%",
+        "D": "95%"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What can be inferred from the passage about the Standard Model of particle physics?",
+      "options": {
+        "A": "It explains all four fundamental forces",
+        "B": "It was completed with the discovery of the Higgs boson",
+        "C": "It provides a complete understanding of dark matter",
+        "D": "It was developed in the early 20th century"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the main purpose of this passage?",
+      "options": {
+        "A": "To compare different theories in particle physics",
+        "B": "To criticize the current state of particle physics research",
+        "C": "To provide an overview of particle physics and its significance",
+        "D": "To explain how to become a particle physicist"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
