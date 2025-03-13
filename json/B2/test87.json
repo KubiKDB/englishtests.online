@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Democracy, from the Greek words 'demos' (people) and 'kratos' (rule), has undergone a remarkable evolution throughout human history. The earliest democratic practices emerged in ancient Athens around 508 BCE, where eligible citizens gathered in the Ekklesia to debate policy, pass laws, and elect officials. However, this participation was limited to adult male citizens, excluding women, slaves, and foreigners – a stark contrast to today's more inclusive democratic systems.<br><br>(2) During the Middle Ages, democratic principles were largely overshadowed by feudal and monarchical systems, though limited forms of representative governance existed in institutions like England's Parliament, established in 1215 following the Magna Carta. The Enlightenment in the 17th and 18th centuries sparked renewed interest in democratic ideals, with philosophers like John Locke and Jean-Jacques Rousseau advocating for social contracts and popular sovereignty, directly influencing the American and French Revolutions.<br><br>(3) The 19th century witnessed substantial democratic expansion, as numerous nations abolished property requirements for voting. Nevertheless, universal suffrage remained elusive, with women and minorities frequently excluded from the democratic process. New Zealand made history in 1893 by becoming the first self-governing nation to grant women the right to vote, while the United States only achieved this milestone in 1920 through the 19th Amendment. Countries like Switzerland delayed women's suffrage until as late as 1971, demonstrating the uneven pace of democratic progress.<br><br>(4) The 20th century saw democracy's greatest expansion, particularly following World War II and later after the Cold War's conclusion. The collapse of colonial empires and the Soviet bloc led to democratic transitions across Africa, Asia, and Eastern Europe. International organizations like the United Nations emerged to promote democratic values globally, while technological advancements enabled new forms of democratic participation. However, this period also revealed democracy's vulnerabilities through episodes of backsliding and authoritarianism.<br><br>(5) Today's democratic systems exhibit tremendous diversity, ranging from direct democracy in Swiss cantons to representative systems in larger nations, and from parliamentary to presidential frameworks. Digital technology has introduced both opportunities and challenges for democratic governance, enabling greater civic participation while simultaneously facilitating misinformation and polarization. Contemporary democracy continues to evolve through ongoing experimentation with deliberative democracy, participatory budgeting, and various electoral reforms, reflecting humanity's persistent quest for more effective and inclusive systems of self-governance.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which verb form correctly completes the sentence? 'If she _____ her passport, she wouldn't have been allowed to travel.'",
+      "options": {
+        "A": "didn't forget",
+        "B": "hasn't forgotten",
+        "C": "hadn't forgotten",
+        "D": "doesn't forget"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct comparative form: 'That was _____ meal I've ever had in this restaurant.'",
+      "options": {
+        "A": "the better",
+        "B": "the best",
+        "C": "the most good",
+        "D": "the more good"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence contains the correct relative pronoun?",
+      "options": {
+        "A": "The woman whom house was damaged in the storm has filed a complaint.",
+        "B": "The woman who house was damaged in the storm has filed a complaint.",
+        "C": "The woman whose house was damaged in the storm has filed a complaint.",
+        "D": "The woman which house was damaged in the storm has filed a complaint."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Select the correct passive voice construction: 'Scientists _____ a new vaccine next year.'",
+      "options": {
+        "A": "will develop",
+        "B": "will be developed",
+        "C": "will have developed",
+        "D": "will be developing"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct modal verb: 'You _____ finish this project by Friday; it's not mandatory.'",
+      "options": {
+        "A": "must",
+        "B": "should",
+        "C": "have to",
+        "D": "don't have to"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which sentence uses the correct article?",
+      "options": {
+        "A": "She plays a guitar in a local band.",
+        "B": "She plays the guitar in a local band.",
+        "C": "She plays guitar in the local band.",
+        "D": "She plays the guitar in the local band."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Select the correct reported speech: He said, 'I will call you tomorrow.'",
+      "options": {
+        "A": "He said that he would call me tomorrow.",
+        "B": "He said that he would call me the next day.",
+        "C": "He said that he will call me the next day.",
+        "D": "He said that he will call me tomorrow."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct verb tense: 'By the time we arrived, the movie _____.'",
+      "options": {
+        "A": "already started",
+        "B": "has already started",
+        "C": "had already started",
+        "D": "was already starting"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence contains a properly placed adverb?",
+      "options": {
+        "A": "She quietly walked into the room.",
+        "B": "She walked quietly into the room.",
+        "C": "She walked into the room quietly.",
+        "D": "All of the above"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Select the correct conditional form: 'If I _____ rich, I would travel around the world.'",
+      "options": {
+        "A": "am",
+        "B": "would be",
+        "C": "were",
+        "D": "had been"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "Neither the students nor the teacher were present.",
+        "B": "Neither the students nor the teacher was present.",
+        "C": "Neither the students nor the teacher are present.",
+        "D": "Neither the students nor the teacher being present."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Choose the correct phrasal verb: 'The company decided to _____ the new product due to safety concerns.'",
+      "options": {
+        "A": "call off",
+        "B": "call out",
+        "C": "call up",
+        "D": "call on"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Select the correct form of the gerund or infinitive: 'I don't mind _____ you with your homework.'",
+      "options": {
+        "A": "help",
+        "B": "to help",
+        "C": "helping",
+        "D": "helped"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence demonstrates correct subject-verb agreement?",
+      "options": {
+        "A": "The committee are divided on this issue.",
+        "B": "The committee is divided on this issue.",
+        "C": "The committee have divided opinions.",
+        "D": "The committee were not able to reach a decision."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Choose the correct preposition: 'The conference will be held _____ May 15th and 17th.'",
+      "options": {
+        "A": "between",
+        "B": "among",
+        "C": "during",
+        "D": "for"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the best word to complete the sentence: 'Despite facing several _____, the team completed the project on time.'",
+      "options": {
+        "A": "obstacles",
+        "B": "observances",
+        "C": "observations",
+        "D": "objections"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 17,
+      "question": "Select the synonym for 'meticulous':",
+      "options": {
+        "A": "careless",
+        "B": "thorough",
+        "C": "rapid",
+        "D": "vague"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 18,
+      "question": "Which word means 'to gradually weaken or destroy'?",
+      "options": {
+        "A": "enhance",
+        "B": "consolidate",
+        "C": "undermine",
+        "D": "reinforce"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 19,
+      "question": "Choose the antonym for 'frugal':",
+      "options": {
+        "A": "economical",
+        "B": "thrifty",
+        "C": "extravagant",
+        "D": "prudent"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 20,
+      "question": "Which word describes 'a person who strongly supports a particular cause'?",
+      "options": {
+        "A": "adversary",
+        "B": "advocate",
+        "C": "advisory",
+        "D": "adherent"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 21,
+      "question": "Select the word that means 'lacking originality':",
+      "options": {
+        "A": "innovative",
+        "B": "novel",
+        "C": "derivative",
+        "D": "authentic"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct meaning of 'ambivalent':",
+      "options": {
+        "A": "having mixed feelings",
+        "B": "extremely talented",
+        "C": "highly motivated",
+        "D": "openly hostile"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 23,
+      "question": "Which word means 'to give up a position or power'?",
+      "options": {
+        "A": "ascend",
+        "B": "abdicate",
+        "C": "accumulate",
+        "D": "accelerate"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 24,
+      "question": "Select the word that means 'to officially forbid something':",
+      "options": {
+        "A": "permit",
+        "B": "prosecute",
+        "C": "proscribe",
+        "D": "proclaim"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 25,
+      "question": "Choose the word that best completes the sentence: 'The CEO made a(n) _____ decision to cut 10% of the workforce.'",
+      "options": {
+        "A": "ambiguous",
+        "B": "controversial",
+        "C": "irrelevant",
+        "D": "transparent"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 26,
+      "question": "Which word means 'to officially revoke or cancel'?",
+      "options": {
+        "A": "rescind",
+        "B": "resume",
+        "C": "retain",
+        "D": "recommend"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Select the synonym for 'pragmatic':",
+      "options": {
+        "A": "idealistic",
+        "B": "practical",
+        "C": "mystical",
+        "D": "theoretical"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Choose the word that means 'to make amends for wrongdoing':",
+      "options": {
+        "A": "exacerbate",
+        "B": "expedite",
+        "C": "exempt",
+        "D": "expiate"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which word means 'showing a lack of respect'?",
+      "options": {
+        "A": "reverent",
+        "B": "impertinent",
+        "C": "deferential",
+        "D": "obsequious"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Select the correct definition of 'ephemeral':",
+      "options": {
+        "A": "lasting for a very short time",
+        "B": "expanding rapidly",
+        "C": "extremely important",
+        "D": "unusually elegant"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Choose the correct word to complete the sentence: 'After failing several times, she finally _____ in solving the problem.'",
+      "options": {
+        "A": "ended up",
+        "B": "set off",
+        "C": "succeeded",
+        "D": "put through"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 32,
+      "question": "Select the appropriate idiom: 'The new marketing campaign was a complete _____; sales dropped by 30%.'",
+      "options": {
+        "A": "black sheep",
+        "B": "red tape",
+        "C": "blue moon",
+        "D": "white elephant"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 33,
+      "question": "Which phrase best completes the sentence? 'She was disappointed _____ missing the concert.'",
+      "options": {
+        "A": "with",
+        "B": "for",
+        "C": "about",
+        "D": "in"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 34,
+      "question": "Choose the correct collocation: 'The CEO needs to _____ a decision about the company's future.'",
+      "options": {
+        "A": "do",
+        "B": "take",
+        "C": "make",
+        "D": "have"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 35,
+      "question": "Select the correct phrasal verb: 'We need to _____ the meeting until next week.'",
+      "options": {
+        "A": "put off",
+        "B": "put away",
+        "C": "put down",
+        "D": "put through"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 36,
+      "question": "Which expression means 'to be uncertain'?",
+      "options": {
+        "A": "to be on cloud nine",
+        "B": "to be on the fence",
+        "C": "to be over the moon",
+        "D": "to be under the weather"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 37,
+      "question": "Choose the correct fixed expression: 'The charity event raised _____ $50,000 for the hospital.'",
+      "options": {
+        "A": "in excess of",
+        "B": "on behalf of",
+        "C": "in favor of",
+        "D": "by means of"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 38,
+      "question": "Select the most natural response to 'How do you do?'",
+      "options": {
+        "A": "I'm doing well, thank you.",
+        "B": "How do you do?",
+        "C": "I do fine.",
+        "D": "I'm doing it well."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 39,
+      "question": "Which sentence contains an error in register?",
+      "options": {
+        "A": "The board of directors has approved the proposal.",
+        "B": "Hey guys, please submit your annual reports by Friday.",
+        "C": "We regret to inform you that your application has been rejected.",
+        "D": "I am writing to express my interest in the position."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 40,
+      "question": "Choose the correct expression: 'She spoke _____ on behalf of the entire department.'",
+      "options": {
+        "A": "strongly",
+        "B": "hardly",
+        "C": "deeply",
+        "D": "greatly"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, which group was excluded from democratic participation in ancient Athens?",
+      "options": {
+        "A": "Adult males",
+        "B": "Citizens born in Athens",
+        "C": "Women",
+        "D": "Members of the Ekklesia"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Which historical document is mentioned as contributing to the establishment of England's Parliament?",
+      "options": {
+        "A": "The Declaration of Independence",
+        "B": "The Magna Carta",
+        "C": "The Bill of Rights",
+        "D": "The Constitution"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, which country was the first to grant women the right to vote?",
+      "options": {
+        "A": "United States",
+        "B": "Switzerland",
+        "C": "New Zealand",
+        "D": "England"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "What does the passage identify as a primary catalyst for democratic expansion in the 20th century?",
+      "options": {
+        "A": "The Industrial Revolution",
+        "B": "The end of World War II and the Cold War",
+        "C": "The Enlightenment period",
+        "D": "The French Revolution"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Which of the following is NOT mentioned as a challenge to modern democracy?",
+      "options": {
+        "A": "Misinformation",
+        "B": "Economic inequality",
+        "C": "Polarization",
+        "D": "Digital technology"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "Which philosophical movement is credited with reviving interest in democratic ideals?",
+      "options": {
+        "A": "The Renaissance",
+        "B": "The Enlightenment",
+        "C": "Modernism",
+        "D": "Postmodernism"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What does the passage suggest about the pace of democratic progress?",
+      "options": {
+        "A": "It has been consistently rapid throughout history",
+        "B": "It accelerated significantly after the French Revolution",
+        "C": "It has been uneven across different regions and time periods",
+        "D": "It was faster in ancient times than in modern eras"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to the passage, what is the meaning of the word 'demos' in Greek?",
+      "options": {
+        "A": "Rule",
+        "B": "People",
+        "C": "Government",
+        "D": "Power"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Which of the following is described as an example of direct democracy in the modern world?",
+      "options": {
+        "A": "The United Nations",
+        "B": "Swiss cantons",
+        "C": "Parliamentary systems",
+        "D": "Presidential frameworks"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What innovation is mentioned as a contemporary democratic experiment?",
+      "options": {
+        "A": "Universal suffrage",
+        "B": "Digital voting systems",
+        "C": "Participatory budgeting",
+        "D": "The Ekklesia"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
