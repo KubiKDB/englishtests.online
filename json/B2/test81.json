@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The Cold War, which dominated international relations from 1947 to 1991, represented an unprecedented ideological struggle between the United States and the Soviet Union following World War II. Rather than engaging in direct military conflict, these superpowers competed for global influence through political maneuvering, economic policies, propaganda campaigns, and proxy wars fought in developing nations. The fundamental clash stemmed from opposing systems: American capitalism with its emphasis on democracy and free markets versus Soviet communism with its centralized economy and one-party rule. This ideological division manifested physically in the partitioning of Europe, symbolized most dramatically by the Berlin Wall, which separated communist East Germany from the democratic West.<br><br>(2) The competition between these rival powers extended far beyond Europe, transforming into a global contest for influence that reshaped international relations. The superpowers established competing alliance systems—NATO for Western democracies and the Warsaw Pact for Soviet satellite states—creating rigid geopolitical blocs. Decolonization provided additional battlegrounds as newly independent nations in Africa, Asia, and Latin America became targets for superpower courtship. Both Washington and Moscow offered economic aid, military assistance, and political support to gain strategic advantages, often with little regard for local conditions or preferences. This interventionist approach frequently destabilized regions and contributed to numerous conflicts, from Korea and Vietnam to Afghanistan and various African civil wars.<br><br>(3) The nuclear dimension of the Cold War introduced an existential threat previously unknown to humanity. The arms race between the United States and Soviet Union produced tens of thousands of nuclear weapons capable of destroying civilization multiple times over. Strategic doctrines like "mutually assured destruction" acknowledged that any nuclear exchange would be suicidal for both sides, creating a precarious stability based on terror. Crises like the 1962 Cuban Missile Confrontation brought the world perilously close to nuclear war, prompting efforts to establish communication channels and arms control agreements. Nevertheless, the psychological impact of living under constant nuclear threat profoundly affected global consciousness and cultural expressions throughout the period.<br><br>(4) Beyond military and political dimensions, the Cold War fundamentally shaped economic development and technological innovation. The United States implemented the Marshall Plan to rebuild Western Europe as a capitalist bulwark against communism, while the Soviet Union established COMECON to integrate its satellite economies. Both superpowers invested heavily in scientific research, particularly in fields with military applications. This competition produced remarkable achievements, including space exploration milestones like the 1957 Sputnik launch and the 1969 moon landing. Additionally, technological innovations originally developed for security purposes—including computers, the internet, and satellite communications—eventually transformed civilian life worldwide in ways the Cold War's architects could hardly have anticipated.<br><br>(5) The Cold War's conclusion, marked by the collapse of communist regimes across Eastern Europe and ultimately the Soviet Union itself, transformed the international system. Without the organizing principle of superpower competition, new security challenges emerged alongside opportunities for international cooperation. Former Soviet republics and satellite states underwent difficult transitions to market economies and democratic systems with varying degrees of success. Meanwhile, the United States, as the sole remaining superpower, faced questions about its global role and responsibilities. Although the immediate nuclear threat receded, many Cold War legacies persisted, including regional conflicts, military alliances, and institutional frameworks. Ultimately, the Cold War demonstrates how ideological contests can reshape political relationships, military strategies, and even technological developments across generations, with consequences extending far beyond the conflict's formal conclusion.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct verb form: 'If I _____ the opportunity, I would have studied abroad.'",
+      "options": {
+        "A": "have had",
+        "B": "had had",
+        "C": "would have",
+        "D": "had"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the correct indirect speech: 'We will finish the project tomorrow,' they promised.",
+      "options": {
+        "A": "They promised that they will finish the project the next day.",
+        "B": "They promised that they would finish the project the next day.",
+        "C": "They promised that they would finish the project tomorrow.",
+        "D": "They promised that they will finish the project tomorrow."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence contains an error in subject-verb agreement?",
+      "options": {
+        "A": "The committee have reached a unanimous decision.",
+        "B": "Each of the students has completed the assignment.",
+        "C": "A number of factors were considered in the study.",
+        "D": "The data show a significant increase in temperature."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct relative pronoun: 'This is the researcher _____ discovery revolutionized the field.'",
+      "options": {
+        "A": "who",
+        "B": "whom",
+        "C": "whose",
+        "D": "which"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Select the correct sentence with the past perfect continuous tense:",
+      "options": {
+        "A": "I had been working on the project for six hours when she called.",
+        "B": "I have been working on the project for six hours when she called.",
+        "C": "I was working on the project for six hours when she called.",
+        "D": "I had worked on the project for six hours when she called."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Identify the sentence with the correct use of articles:",
+      "options": {
+        "A": "He is best player on the team.",
+        "B": "The Mount Everest is highest mountain in the world.",
+        "C": "She works as an engineer at a European company.",
+        "D": "The professor gave the interesting lecture about history."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the grammatically correct sentence:",
+      "options": {
+        "A": "The weather is more colder than yesterday.",
+        "B": "This is the most simplest explanation I've heard.",
+        "C": "She speaks English more fluently than her sister.",
+        "D": "That was the most strangest experience of my life."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the correct passive construction: 'Someone saw the suspect leaving the building.'",
+      "options": {
+        "A": "The suspect saw leaving the building.",
+        "B": "The suspect was seen leaving the building.",
+        "C": "The suspect is seen to leave the building.",
+        "D": "The suspect has been seeing leaving the building."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Identify the sentence with the correct modal verb usage:",
+      "options": {
+        "A": "You need to be able to swim to join the team.",
+        "B": "You must be able swimming to join the team.",
+        "C": "You should to be able to swim to join the team.",
+        "D": "You might be able swim to join the team."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct future form: 'This time next week, I _____ on a beach in Bali.'",
+      "options": {
+        "A": "will lie",
+        "B": "am lying",
+        "C": "will have lain",
+        "D": "will be lying"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Select the sentence with the correct use of gerunds and infinitives:",
+      "options": {
+        "A": "She avoided to speak in public whenever possible.",
+        "B": "I look forward to meet you at the conference.",
+        "C": "They admitted stealing the documents.",
+        "D": "We discussed to implement the new policy."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Choose the sentence with the correct conditional form:",
+      "options": {
+        "A": "If it rains tomorrow, I won't had gone to the park.",
+        "B": "If I would be you, I would accept the offer.",
+        "C": "Unless you study harder, you will fail the exam.",
+        "D": "If she would arrive earlier, she wouldn't have missed the meeting."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Identify the sentence with correct punctuation:",
+      "options": {
+        "A": "The conference which was scheduled for May, has been postponed.",
+        "B": "The conference, which was scheduled for May has been postponed.",
+        "C": "The conference which was scheduled for May has been postponed.",
+        "D": "The conference, which was scheduled for May, has been postponed."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct preposition: 'The decision was made _____ consultation with experts.'",
+      "options": {
+        "A": "after",
+        "B": "with",
+        "C": "through",
+        "D": "by"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the correct subordinating conjunction: 'He decided to take a taxi _____ it was raining heavily.'",
+      "options": {
+        "A": "so",
+        "B": "because",
+        "C": "therefore",
+        "D": "moreover"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct phrasal verb: 'The meeting has been _____ until next week.'",
+      "options": {
+        "A": "put out",
+        "B": "put off",
+        "C": "put away",
+        "D": "put up"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the appropriate idiom: 'After the scandal, the company tried to _____ by introducing strict ethical guidelines.'",
+      "options": {
+        "A": "save face",
+        "B": "face the music",
+        "C": "face up",
+        "D": "face down"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Complete the collocation: 'The new policy has been _____ criticism from various stakeholders.'",
+      "options": {
+        "A": "below",
+        "B": "facing",
+        "C": "under",
+        "D": "with"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct expression: 'I'd rather you _____ tell anyone about our conversation.'",
+      "options": {
+        "A": "don't",
+        "B": "wouldn't",
+        "C": "didn't",
+        "D": "won't"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the appropriate response to the statement 'I've just passed my driving test.'",
+      "options": {
+        "A": "You're welcome.",
+        "B": "I don't mind.",
+        "C": "Congratulations!",
+        "D": "Never mind."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the correct fixed expression: 'The new restaurant is popular; _____, it's almost impossible to get a reservation.'",
+      "options": {
+        "A": "in fact",
+        "B": "on the contrary",
+        "C": "instead",
+        "D": "at least"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Complete the sentence with the appropriate expression: 'We need to _____ all factors before making a decision.'",
+      "options": {
+        "A": "take into account",
+        "B": "take after",
+        "C": "take apart",
+        "D": "take in"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the correct linking expression: 'He didn't get the job _____ his excellent qualifications.'",
+      "options": {
+        "A": "as a result of",
+        "B": "in spite of",
+        "C": "because of",
+        "D": "as well as"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the appropriate idiomatic expression: 'After the difficult start, the project is finally _____.'",
+      "options": {
+        "A": "turning over a new leaf",
+        "B": "breaking even",
+        "C": "gaining ground",
+        "D": "making waves"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the correct binomial expression: 'The instructions must be followed _____.'",
+      "options": {
+        "A": "safe and sound",
+        "B": "part and parcel",
+        "C": "last but not least",
+        "D": "first and foremost"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Which word means 'to publicly criticize someone or something'?",
+      "options": {
+        "A": "acclaim",
+        "B": "denounce",
+        "C": "endorse",
+        "D": "advocate"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the word closest in meaning to 'precarious':",
+      "options": {
+        "A": "stable",
+        "B": "careful",
+        "C": "unstable",
+        "D": "precious"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What is the definition of 'trajectory'?",
+      "options": {
+        "A": "a harsh criticism",
+        "B": "a path followed by an object moving through space",
+        "C": "a sudden disruption",
+        "D": "a formal agreement between countries"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Select the word that means 'to decrease in force or intensity':",
+      "options": {
+        "A": "escalate",
+        "B": "accelerate",
+        "C": "wane",
+        "D": "amplify"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the synonym for 'scrutinize':",
+      "options": {
+        "A": "overlook",
+        "B": "examine carefully",
+        "C": "approve quickly",
+        "D": "criticize harshly"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "What does 'deteriorate' mean?",
+      "options": {
+        "A": "to improve gradually",
+        "B": "to remain stable",
+        "C": "to become worse",
+        "D": "to change direction"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Select the antonym for 'volatile':",
+      "options": {
+        "A": "stable",
+        "B": "explosive",
+        "C": "unpredictable",
+        "D": "dangerous"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "What is the meaning of 'unprecedented'?",
+      "options": {
+        "A": "expected",
+        "B": "unparalleled",
+        "C": "undecided",
+        "D": "unimpressive"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Choose the word that means 'existing or occurring at the same time':",
+      "options": {
+        "A": "subsequent",
+        "B": "preceding",
+        "C": "contemporary",
+        "D": "obsolete"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Select the word closest in meaning to 'pivotal':",
+      "options": {
+        "A": "central",
+        "B": "peripheral",
+        "C": "rotating",
+        "D": "insignificant"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What does the word 'rhetoric' mean?",
+      "options": {
+        "A": "straightforward language",
+        "B": "persuasive or impressive language",
+        "C": "scientific terminology",
+        "D": "legal jargon"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Choose the word that means 'to officially forbid something':",
+      "options": {
+        "A": "permit",
+        "B": "proscribe",
+        "C": "prescribe",
+        "D": "proclaim"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "What is the definition of 'paradigm'?",
+      "options": {
+        "A": "a contradiction in terms",
+        "B": "a typical example or pattern",
+        "C": "a formal ceremony",
+        "D": "a scientific instrument"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Select the word closest in meaning to 'adversary':",
+      "options": {
+        "A": "ally",
+        "B": "opponent",
+        "C": "advocate",
+        "D": "admirer"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "What does 'hegemony' mean?",
+      "options": {
+        "A": "leadership or dominance",
+        "B": "equality or fairness",
+        "C": "democratic government",
+        "D": "peaceful coexistence"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, what was the primary nature of the Cold War?",
+      "options": {
+        "A": "A direct military conflict between superpowers",
+        "B": "An ideological struggle fought through indirect means",
+        "C": "A series of economic sanctions",
+        "D": "A diplomatic negotiation process"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Based on the passage, what physical symbol best represented the ideological division of the Cold War?",
+      "options": {
+        "A": "The Iron Curtain",
+        "B": "NATO headquarters",
+        "C": "The Berlin Wall",
+        "D": "Soviet nuclear missiles"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 2, how did decolonization relate to the Cold War?",
+      "options": {
+        "A": "It ended the Cold War by creating neutral nations.",
+        "B": "It increased tensions between colonial powers.",
+        "C": "It provided new battlegrounds for superpower competition.",
+        "D": "It was unrelated to superpower interests."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "What concept did the superpowers develop regarding nuclear weapons, according to the passage?",
+      "options": {
+        "A": "First strike capability",
+        "B": "Limited nuclear exchange",
+        "C": "Mutually assured destruction",
+        "D": "Strategic defense initiative"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Based on the passage, which of the following was NOT a consequence of Cold War competition?",
+      "options": {
+        "A": "Space exploration achievements",
+        "B": "Development of the internet",
+        "C": "Reduction in military spending",
+        "D": "Regional conflicts in developing nations"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to the passage, what was a primary purpose of the Marshall Plan?",
+      "options": {
+        "A": "To rebuild Japan after World War II",
+        "B": "To establish the Warsaw Pact",
+        "C": "To rebuild Western Europe as a capitalist bulwark",
+        "D": "To promote nuclear disarmament"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What does the passage suggest about the end of the Cold War?",
+      "options": {
+        "A": "It resolved all international tensions.",
+        "B": "It led to immediate global disarmament.",
+        "C": "It transformed the international system with both opportunities and challenges.",
+        "D": "It strengthened Soviet influence in Eastern Europe."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to the passage, which event marked the formal conclusion of the Cold War?",
+      "options": {
+        "A": "The fall of the Berlin Wall",
+        "B": "The Cuban Missile Crisis",
+        "C": "The Vietnam War",
+        "D": "The collapse of the Soviet Union"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What does the passage identify as a psychological impact of the Cold War?",
+      "options": {
+        "A": "Increased national pride in both superpowers",
+        "B": "The effect of living under constant nuclear threat",
+        "C": "Growing trust between Eastern and Western citizens",
+        "D": "Reduced interest in international affairs"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What main conclusion does the passage draw about ideological conflicts like the Cold War?",
+      "options": {
+        "A": "They are always resolved peacefully.",
+        "B": "They have limited impact beyond political systems.",
+        "C": "Their consequences extend far beyond their formal conclusion.",
+        "D": "They are primarily beneficial for technological development."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
