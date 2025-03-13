@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The Scientific Revolution, which spanned roughly from the mid-16th to the late 17th century, represented one of the most significant shifts in human understanding of the natural world. Before this intellectual transformation, European thought was largely dominated by Aristotelian philosophy and religious doctrine, which explained natural phenomena through theological frameworks. As new methods of inquiry emerged, scholars began to question traditional authorities and seek evidence-based explanations for the workings of the universe.<br><br>(2) At the heart of this revolution was the development of the scientific method, a systematic approach to investigating phenomena and acquiring new knowledge. Figures like Francis Bacon championed empirical research and inductive reasoning, while René Descartes emphasized the importance of skepticism, mathematical analysis, and deductive logic. These complementary approaches established a foundation for modern scientific inquiry that valued observation, experimentation, and mathematical precision over appeals to ancient texts or religious authorities.<br><br>(3) Perhaps the most profound conceptual shift came from astronomy. When Nicolaus Copernicus proposed his heliocentric model, suggesting that the Earth orbited the Sun rather than vice versa, he challenged not just astronomical understanding but humanity's very place in the cosmos. This revolutionary idea was later supported by Galileo Galilei's telescopic observations and ultimately formalized in Isaac Newton's laws of motion and universal gravitation, which provided a comprehensive mathematical framework explaining everything from falling apples to planetary orbits.<br><br>(4) Advances in medicine and biology similarly transformed perceptions of the human body and its relationship to the natural world. Andreas Vesalius's detailed anatomical studies corrected errors that had persisted in medical knowledge for centuries, while William Harvey's discovery of blood circulation replaced ancient notions of bodily humors with mechanical explanations. Robert Boyle's work in chemistry began to reveal the fundamental properties of matter and air, challenging the four-element theory that had dominated for millennia.<br><br>(5) The Scientific Revolution fundamentally altered how humans perceived reality, replacing a world governed by divine purpose and qualitative relationships with one that operated according to discoverable, mathematical laws. This mechanistic worldview suggested that the universe functioned like a giant clock, with interconnected parts working according to predictable principles. While this perspective brought extraordinary technological and intellectual advances, it also raised profound questions about human significance in an increasingly quantifiable cosmos—questions that continue to resonate in contemporary discussions about science, philosophy, and meaning.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "She ________ in this company for five years before she got promoted.",
+      "options": {
+        "A": "was working",
+        "B": "had been working",
+        "C": "has been working",
+        "D": "has worked"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "If I ________ about the traffic jam, I would have taken a different route.",
+      "options": {
+        "A": "knew",
+        "B": "had known",
+        "C": "would know",
+        "D": "know"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "By the time we arrive, the movie ________ for 30 minutes.",
+      "options": {
+        "A": "will be playing",
+        "B": "will have been playing",
+        "C": "would be playing",
+        "D": "will play"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "You ________ your passport when traveling internationally.",
+      "options": {
+        "A": "must to bring",
+        "B": "should bringing",
+        "C": "must bring",
+        "D": "should to bring"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "The report ________ by the committee before the meeting next week.",
+      "options": {
+        "A": "will have reviewed",
+        "B": "will be reviewed",
+        "C": "is reviewing",
+        "D": "will have been reviewing"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "The scientists ________ conducting research in this field for decades.",
+      "options": {
+        "A": "are",
+        "B": "were",
+        "C": "have been",
+        "D": "had"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "She ________ lived in Paris, but now she lives in London.",
+      "options": {
+        "A": "used to",
+        "B": "was used to",
+        "C": "would",
+        "D": "was"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "The books, ________ were donated by local businesses, will be given to underprivileged children.",
+      "options": {
+        "A": "which",
+        "B": "they",
+        "C": "what",
+        "D": "who"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "________ finishing his homework, Tom went out to play with his friends.",
+      "options": {
+        "A": "After",
+        "B": "While",
+        "C": "During",
+        "D": "Since"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Neither the students nor the teacher ________ able to solve the problem.",
+      "options": {
+        "A": "were",
+        "B": "was",
+        "C": "are",
+        "D": "is"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "The movie was not ________ interesting ________ I had expected.",
+      "options": {
+        "A": "as / as",
+        "B": "so / as",
+        "C": "as / that",
+        "D": "so / that"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "You should ________ seen his face when he heard the news; he was shocked.",
+      "options": {
+        "A": "had",
+        "B": "have",
+        "C": "be",
+        "D": "has"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "It's the first time I ________ sushi.",
+      "options": {
+        "A": "eat",
+        "B": "ate",
+        "C": "have eaten",
+        "D": "had eaten"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "I wish I ________ more time to finish the project.",
+      "options": {
+        "A": "have",
+        "B": "had",
+        "C": "would have",
+        "D": "will have"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "The police officer asked me where ________ the previous night.",
+      "options": {
+        "A": "I had been",
+        "B": "had I been",
+        "C": "I have been",
+        "D": "have I been"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "She managed to ________ her fear of heights by gradually exposing herself to high places.",
+      "options": {
+        "A": "take on",
+        "B": "bring about",
+        "C": "come over",
+        "D": "overcome"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "The company needs to ________ new strategies to remain competitive in the market.",
+      "options": {
+        "A": "take up",
+        "B": "come up with",
+        "C": "get through",
+        "D": "look into"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Please ________ your shoes before entering the house.",
+      "options": {
+        "A": "take off",
+        "B": "take away",
+        "C": "take down",
+        "D": "take over"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "The conference was ________ due to bad weather conditions.",
+      "options": {
+        "A": "called for",
+        "B": "called up",
+        "C": "called in",
+        "D": "called off"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Scientists are trying to ________ a cure for this disease.",
+      "options": {
+        "A": "come across",
+        "B": "come up",
+        "C": "come up with",
+        "D": "come about"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "You should ________ your application by Friday to be considered for the position.",
+      "options": {
+        "A": "hand in",
+        "B": "hand out",
+        "C": "hand over",
+        "D": "hand down"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "We need to ________ our expenses if we want to save money for our vacation.",
+      "options": {
+        "A": "cut up",
+        "B": "cut off",
+        "C": "cut in",
+        "D": "cut down on"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "The police are ________ the circumstances of the accident.",
+      "options": {
+        "A": "looking into",
+        "B": "looking for",
+        "C": "looking after",
+        "D": "looking up"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "The new office building will be ________ next month.",
+      "options": {
+        "A": "putting up",
+        "B": "set up",
+        "C": "taken up",
+        "D": "brought up"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "The patient's condition has ________ considerably since the operation.",
+      "options": {
+        "A": "taken off",
+        "B": "picked up",
+        "C": "looked up",
+        "D": "come across"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "The smartphone is a revolutionary ________ that has changed how we communicate and access information.",
+      "options": {
+        "A": "gadget",
+        "B": "tool",
+        "C": "appliance",
+        "D": "device"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Some students prefer to take a more ________ role in group discussions, listening rather than actively participating.",
+      "options": {
+        "A": "inactive",
+        "B": "passive",
+        "C": "quiet",
+        "D": "reserved"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Please adjust the ________ on the television; it's too loud for this time of night.",
+      "options": {
+        "A": "sound",
+        "B": "noise",
+        "C": "volume",
+        "D": "level"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "As a mediator, she remained ________ throughout the heated debate, not favoring either side.",
+      "options": {
+        "A": "impartial",
+        "B": "indifferent",
+        "C": "unbiased",
+        "D": "neutral"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Despite facing numerous challenges, the team managed to ________ all their goals before the deadline.",
+      "options": {
+        "A": "achieve",
+        "B": "complete",
+        "C": "accomplish",
+        "D": "fulfill"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Entering restricted areas without permission will ________ security protocols and may result in penalties.",
+      "options": {
+        "A": "break",
+        "B": "transgress",
+        "C": "violate",
+        "D": "infringe"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "It was ________ that he was not telling the truth, as his story contained many contradictions.",
+      "options": {
+        "A": "obvious",
+        "B": "apparent",
+        "C": "evident",
+        "D": "clear"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "The country's aging ________ requires significant investment to modernize roads, bridges, and public transportation systems.",
+      "options": {
+        "A": "framework",
+        "B": "foundation",
+        "C": "structure",
+        "D": "infrastructure"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Fashion trends typically change every ________, reflecting broader cultural and social shifts.",
+      "options": {
+        "A": "period",
+        "B": "era",
+        "C": "decade",
+        "D": "generation"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "She decided to ________ her life to helping underprivileged children access education.",
+      "options": {
+        "A": "dedicate",
+        "B": "commit",
+        "C": "devote",
+        "D": "pledge"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "The primary ________ of this software is to automate repetitive tasks and increase productivity.",
+      "options": {
+        "A": "purpose",
+        "B": "role",
+        "C": "function",
+        "D": "duty"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "The team's main ________ is to reduce operational costs while maintaining service quality.",
+      "options": {
+        "A": "target",
+        "B": "goal",
+        "C": "aim",
+        "D": "objective"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "The CEO finally had to ________ that the company had made serious mistakes in its financial reporting.",
+      "options": {
+        "A": "admit",
+        "B": "confess",
+        "C": "accept",
+        "D": "acknowledge"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Quantum physics is a highly ________ field that requires years of specialized study to fully understand.",
+      "options": {
+        "A": "complicated",
+        "B": "difficult",
+        "C": "complex",
+        "D": "intricate"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "The researcher needed to ________ all potential risk factors before beginning the clinical trial.",
+      "options": {
+        "A": "list",
+        "B": "count",
+        "C": "identify",
+        "D": "enumerate"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, before the Scientific Revolution, European thought was primarily influenced by:",
+      "options": {
+        "A": "Empirical research and mathematical analysis",
+        "B": "Aristotelian philosophy and religious doctrine",
+        "C": "Newtonian mechanics and universal gravitation",
+        "D": "Copernican astronomy and Galilean observations"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "The passage indicates that the scientific method developed during this period emphasized:",
+      "options": {
+        "A": "Religious authority and ancient texts",
+        "B": "Divine purpose and qualitative relationships",
+        "C": "Observation, experimentation, and mathematical precision",
+        "D": "The four-element theory and bodily humors"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, what made Copernicus's heliocentric model revolutionary?",
+      "options": {
+        "A": "It explained the circulation of blood in the human body",
+        "B": "It challenged humanity's place in the cosmos",
+        "C": "It revealed the fundamental properties of matter and air",
+        "D": "It established a foundation for modern chemical analysis"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Which of the following correctly pairs a scientific figure with their contribution?",
+      "options": {
+        "A": "Galileo Galilei - discovery of blood circulation",
+        "B": "René Descartes - detailed anatomical studies",
+        "C": "William Harvey - laws of motion and universal gravitation",
+        "D": "Isaac Newton - mathematical framework explaining planetary orbits"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "The word 'empirical' in paragraph 2 most nearly means:",
+      "options": {
+        "A": "Based on observation and experiment",
+        "B": "Derived from religious authorities",
+        "C": "Reliant on ancient texts",
+        "D": "Governed by divine purpose"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to the passage, Andreas Vesalius contributed to the Scientific Revolution by:",
+      "options": {
+        "A": "Developing the scientific method",
+        "B": "Proposing the heliocentric model",
+        "C": "Correcting errors in anatomical knowledge",
+        "D": "Discovering the laws of universal gravitation"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "The passage suggests that the mechanistic worldview resulting from the Scientific Revolution:",
+      "options": {
+        "A": "Enhanced humanity's sense of cosmic significance",
+        "B": "Reinforced traditional religious explanations of natural phenomena",
+        "C": "Replaced qualitative relationships with mathematical laws",
+        "D": "Eliminated the need for further scientific inquiry"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The passage characterizes the universe in the post-Scientific Revolution worldview as:",
+      "options": {
+        "A": "Fundamentally unknowable and mysterious",
+        "B": "Operating like a giant clock with predictable principles",
+        "C": "Governed primarily by divine intervention",
+        "D": "Explained best through the four-element theory"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Which of the following best describes the overall organization of the passage?",
+      "options": {
+        "A": "Chronological progression of scientific discoveries",
+        "B": "Comparison of pre- and post-revolution worldviews with examples from different fields",
+        "C": "Analysis of a single scientific breakthrough and its consequences",
+        "D": "Biographical sketches of key figures in the Scientific Revolution"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "The primary purpose of the passage is to:",
+      "options": {
+        "A": "Argue for the superiority of the scientific method over religious explanations",
+        "B": "Describe how scientific breakthroughs transformed understanding of the natural world",
+        "C": "Analyze the technological innovations resulting from the Scientific Revolution",
+        "D": "Compare the Scientific Revolution to other intellectual movements in history"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
