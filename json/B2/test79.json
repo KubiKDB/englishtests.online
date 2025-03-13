@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Glaciers are massive bodies of ice that form over many years from compacted snow. They are powerful agents of erosion and deposition, shaping the landscape in profound ways. As glaciers move, they carve out valleys, deposit moraines, and create fjords, leaving behind distinctive landforms that tell the story of their presence.<br><br>(2) One of the most notable features created by glaciers is the U-shaped valley. Unlike V-shaped valleys formed by rivers, glacial valleys have a characteristic U-shape with steep sides and a flat bottom. This shape is the result of the glacier's movement, which erodes the valley floor and sides through a process called plucking and abrasion. Plucking involves the glacier freezing onto rocks and pulling them away, while abrasion occurs as the glacier drags rocks along the valley floor, grinding down the bedrock.<br><br>(3) Moraines are another significant glacial landform. They are accumulations of debris, such as rocks, soil, and sediment, that have been transported and deposited by a glacier. There are several types of moraines, including terminal moraines, which mark the furthest extent of a glacier's advance, and lateral moraines, which form along the sides of a glacier. These deposits provide valuable information about the glacier's history and movement.<br><br>(4) Fjords are long, narrow inlets with steep sides or cliffs, created by glacial erosion. They form when a glacier carves a valley below sea level, and after the glacier retreats, the valley is flooded by the sea. Fjords are typically found in regions with high mountains and a history of glaciation, such as Norway, Alaska, and New Zealand. They are not only striking natural features but also important for understanding past climate changes.<br><br>(5) In conclusion, glaciers play a crucial role in shaping the Earth's surface through the creation of valleys, moraines, and fjords. These landforms are not only aesthetically impressive but also serve as important indicators of past glacial activity and climate conditions. Studying these features helps scientists understand the dynamics of glaciers and their impact on the environment.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct verb form: \"If I _____ (to be) you, I would study harder.\"",
+      "options": {
+        "A": "am",
+        "B": "was",
+        "C": "were",
+        "D": "be"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Which sentence is in the passive voice?",
+      "options": {
+        "A": "The teacher explains the lesson.",
+        "B": "The lesson is explained by the teacher.",
+        "C": "The teacher is explaining the lesson.",
+        "D": "The lesson explains the teacher."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Complete the sentence: \"She _____ (live) in London for five years before she moved to Paris.\"",
+      "options": {
+        "A": "lived",
+        "B": "has lived",
+        "C": "had lived",
+        "D": "was living"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct reported speech: \"He said, 'I will come tomorrow.'\"",
+      "options": {
+        "A": "He said that he will come tomorrow.",
+        "B": "He said that he would come tomorrow.",
+        "C": "He said that he would come the next day.",
+        "D": "He said that he will come the next day."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Which sentence uses the correct conditional?",
+      "options": {
+        "A": "If I will go to the party, I will see her.",
+        "B": "If I go to the party, I will see her.",
+        "C": "If I went to the party, I would see her.",
+        "D": "If I had gone to the party, I would have seen her."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Choose the correct preposition: \"She is allergic _____ cats.\"",
+      "options": {
+        "A": "to",
+        "B": "with",
+        "C": "for",
+        "D": "on"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which sentence is correct?",
+      "options": {
+        "A": "I have been to Paris last year.",
+        "B": "I went to Paris last year.",
+        "C": "I had gone to Paris last year.",
+        "D": "I was going to Paris last year."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Complete the sentence: \"By the time we arrive, the movie _____ (start).\"",
+      "options": {
+        "A": "will start",
+        "B": "starts",
+        "C": "will have started",
+        "D": "started"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct modal verb: \"You _____ (must/can) be tired after such a long journey.\"",
+      "options": {
+        "A": "must",
+        "B": "can",
+        "C": "should",
+        "D": "would"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence uses the correct article?",
+      "options": {
+        "A": "She is a best student in the class.",
+        "B": "She is the best student in the class.",
+        "C": "She is best student in the class.",
+        "D": "She is an best student in the class."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct conjunction: \"I like coffee, _____ I prefer tea.\"",
+      "options": {
+        "A": "and",
+        "B": "but",
+        "C": "or",
+        "D": "so"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence is in the present perfect continuous tense?",
+      "options": {
+        "A": "I have been reading this book for two hours.",
+        "B": "I have read this book.",
+        "C": "I am reading this book.",
+        "D": "I read this book yesterday."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Complete the sentence: \"She _____ (not/finish) her homework yet.\"",
+      "options": {
+        "A": "did not finish",
+        "B": "has not finished",
+        "C": "had not finished",
+        "D": "does not finish"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct relative pronoun: \"The man _____ (who/which) lives next door is very friendly.\"",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "that",
+        "D": "whom"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Which sentence uses the correct comparative form?",
+      "options": {
+        "A": "This book is more interesting than that one.",
+        "B": "This book is interestinger than that one.",
+        "C": "This book is more interesting as that one.",
+        "D": "This book is interesting than that one."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct word to complete the sentence: \"The company is looking for a new _____ (manage/management).\"",
+      "options": {
+        "A": "manage",
+        "B": "management",
+        "C": "manager",
+        "D": "managing"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Fill in the blank: \"She is very _____ (talent/talented) at playing the piano.\"",
+      "options": {
+        "A": "talent",
+        "B": "talented",
+        "C": "talently",
+        "D": "talenting"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct preposition: \"I am interested _____ (in/on) learning new languages.\"",
+      "options": {
+        "A": "in",
+        "B": "on",
+        "C": "at",
+        "D": "for"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Complete the sentence: \"He is not only intelligent _____ (but also/and) hardworking.\"",
+      "options": {
+        "A": "but also",
+        "B": "and",
+        "C": "or",
+        "D": "so"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct form: \"She _____ (has/have) been working here since 2010.\"",
+      "options": {
+        "A": "has",
+        "B": "have",
+        "C": "had",
+        "D": "having"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Fill in the blank: \"The weather is getting _____ (worse/worst) every day.\"",
+      "options": {
+        "A": "worse",
+        "B": "worst",
+        "C": "badder",
+        "D": "badest"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct word: \"I need to buy some _____ (stationary/stationery) for my office.\"",
+      "options": {
+        "A": "stationary",
+        "B": "stationery",
+        "C": "station",
+        "D": "stationed"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Complete the sentence: \"She _____ (hard/hardly) ever goes to the gym.\"",
+      "options": {
+        "A": "hard",
+        "B": "hardly",
+        "C": "harder",
+        "D": "hardest"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct phrase: \"I am looking forward _____ (to meet/to meeting) you.\"",
+      "options": {
+        "A": "to meet",
+        "B": "to meeting",
+        "C": "meeting",
+        "D": "meet"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Fill in the blank: \"He is very _____ (success/successful) in his career.\"",
+      "options": {
+        "A": "success",
+        "B": "successful",
+        "C": "successfully",
+        "D": "succeeding"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the synonym of \"capture\":",
+      "options": {
+        "A": "release",
+        "B": "catch",
+        "C": "free",
+        "D": "lose"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "What is the antonym of \"enormous\"?",
+      "options": {
+        "A": "tiny",
+        "B": "huge",
+        "C": "large",
+        "D": "big"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Complete the sentence: \"The _____ (division/divide) of labor in the company is very efficient.\"",
+      "options": {
+        "A": "division",
+        "B": "divide",
+        "C": "dividing",
+        "D": "divided"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Choose the correct word: \"The general developed a new _____ (strategy/strategic) to win the battle.\"",
+      "options": {
+        "A": "strategy",
+        "B": "strategic",
+        "C": "strategize",
+        "D": "strategist"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "What does \"perspective\" mean?",
+      "options": {
+        "A": "a way of thinking about something",
+        "B": "a type of painting",
+        "C": "a scientific theory",
+        "D": "a mathematical concept"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Choose the correct word: \"The _____ (chemical/chemistry) reaction produced a lot of smoke.\"",
+      "options": {
+        "A": "chemical",
+        "B": "chemistry",
+        "C": "chemist",
+        "D": "chemically"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "What is the meaning of \"emotional\"?",
+      "options": {
+        "A": "related to feelings",
+        "B": "related to logic",
+        "C": "related to physical health",
+        "D": "related to finances"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Complete the sentence: \"There is a high _____ (demand/demanded) for organic food.\"",
+      "options": {
+        "A": "demand",
+        "B": "demanded",
+        "C": "demanding",
+        "D": "demands"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Choose the synonym of \"victim\":",
+      "options": {
+        "A": "survivor",
+        "B": "perpetrator",
+        "C": "casualty",
+        "D": "hero"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "What does \"approve\" mean?",
+      "options": {
+        "A": "to disagree",
+        "B": "to accept",
+        "C": "to reject",
+        "D": "to ignore"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Choose the correct word: \"He is a _____ (citizen/citizenship) of the United States.\"",
+      "options": {
+        "A": "citizen",
+        "B": "citizenship",
+        "C": "citizenry",
+        "D": "citizened"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "What is the meaning of \"consume\"?",
+      "options": {
+        "A": "to produce",
+        "B": "to save",
+        "C": "to eat or use",
+        "D": "to destroy"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Complete the sentence: \"The weather _____ (forecast/forecasted) predicts rain tomorrow.\"",
+      "options": {
+        "A": "forecast",
+        "B": "forecasted",
+        "C": "forecasting",
+        "D": "forecasts"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Choose the synonym of \"impact\":",
+      "options": {
+        "A": "effect",
+        "B": "cause",
+        "C": "reason",
+        "D": "solution"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "What does \"career\" mean?",
+      "options": {
+        "A": "a job",
+        "B": "a profession or occupation",
+        "C": "a hobby",
+        "D": "a vacation"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "What is the main idea of the passage?",
+      "options": {
+        "A": "Glaciers are melting due to climate change.",
+        "B": "Glaciers create distinctive landforms through erosion and deposition.",
+        "C": "Fjords are the most important glacial landforms.",
+        "D": "Moraines are formed by rivers."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "According to the passage, what process is responsible for the U-shape of glacial valleys?",
+      "options": {
+        "A": "River erosion",
+        "B": "Wind erosion",
+        "C": "Plucking and abrasion by glaciers",
+        "D": "Volcanic activity"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "What type of moraine marks the furthest extent of a glacier's advance?",
+      "options": {
+        "A": "Lateral moraine",
+        "B": "Medial moraine",
+        "C": "Terminal moraine",
+        "D": "Ground moraine"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "How are fjords formed?",
+      "options": {
+        "A": "By river erosion",
+        "B": "By glacial erosion and subsequent flooding by the sea",
+        "C": "By tectonic activity",
+        "D": "By volcanic eruptions"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Which of the following is NOT mentioned as a glacial landform in the passage?",
+      "options": {
+        "A": "Valleys",
+        "B": "Moraines",
+        "C": "Fjords",
+        "D": "Deltas"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What does the word \"plucking\" refer to in the context of glacial erosion?",
+      "options": {
+        "A": "The glacier freezing onto rocks and pulling them away",
+        "B": "The glacier melting and depositing sediment",
+        "C": "The glacier sliding over the bedrock",
+        "D": "The glacier forming crevasses"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to the passage, where are fjords typically found?",
+      "options": {
+        "A": "In deserts",
+        "B": "In tropical regions",
+        "C": "In regions with high mountains and a history of glaciation",
+        "D": "In flat plains"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What do moraines provide information about?",
+      "options": {
+        "A": "The current climate",
+        "B": "The glacier's history and movement",
+        "C": "The type of rocks in the area",
+        "D": "The speed of the glacier"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Which paragraph discusses the formation of fjords?",
+      "options": {
+        "A": "Paragraph 1",
+        "B": "Paragraph 2",
+        "C": "Paragraph 3",
+        "D": "Paragraph 4"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the purpose of studying glacial landforms?",
+      "options": {
+        "A": "To predict future glacial movements",
+        "B": "To understand past climate changes and glacial dynamics",
+        "C": "To find new sources of water",
+        "D": "To prevent glacial melting"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
