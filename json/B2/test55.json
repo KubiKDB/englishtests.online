@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The history of medicine is a testament to human ingenuity and the relentless pursuit of knowledge that has transformed societies across the globe. From the ancient healing practices of Egypt and Greece to the sophisticated technologies of modern healthcare, medical advances have consistently improved human longevity and quality of life. The earliest medical systems, dating back to 3000 BCE, relied primarily on supernatural explanations for illness, but they also incorporated practical knowledge of herbs and surgical techniques that laid the groundwork for future discoveries.<br><br>(2) The Classical period marked a significant shift in medical understanding, particularly through the work of Hippocrates in ancient Greece. Often called the 'Father of Medicine,' Hippocrates established a systematic approach to treating illness based on observation and reasoning rather than superstition. This period also saw valuable contributions from Roman physicians like Galen, whose anatomical studies, though sometimes flawed, dominated Western medical thinking for over a millennium. Despite these advances, medical progress was relatively slow until the Renaissance, when scientific inquiry began to challenge traditional beliefs.<br><br>(3) The 17th and 18th centuries witnessed revolutionary discoveries that fundamentally altered our understanding of the human body. William Harvey's explanation of blood circulation in 1628 and Antoni van Leeuwenhoek's observations of microorganisms through his microscope opened new frontiers in medical research. These breakthroughs were followed by Edward Jenner's development of the smallpox vaccine in 1796, which represented one of the first successful preventive measures against infectious disease and saved countless lives in subsequent centuries.<br><br>(4) The 19th century brought about what many consider the golden age of medicine, characterized by the emergence of modern medical practices and institutions. The adoption of anesthesia transformed surgery from a last resort to a viable treatment option, while Louis Pasteur's germ theory finally explained the mechanism behind infectious diseases, leading to improved sanitation and sterilization techniques. Meanwhile, Florence Nightingale revolutionized nursing practices, establishing it as a respected profession and highlighting the importance of hospital hygiene in patient outcomes.<br><br>(5) The 20th and 21st centuries have seen an unprecedented acceleration in medical innovation, from the discovery of antibiotics and the structure of DNA to organ transplants and targeted cancer therapies. Medical imaging technologies like X-rays, ultrasound, and MRI have enabled physicians to diagnose conditions with remarkable precision, while genetic research has begun to unlock personalized treatments based on individual DNA profiles. Public health initiatives have successfully eradicated diseases like smallpox and nearly eliminated others like polio, demonstrating the profound impact of medical knowledge when applied at a societal level. Today, as we face new challenges such as antibiotic resistance and emerging infectious diseases, the ongoing evolution of medical science continues to shape human civilization in profound ways.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is grammatically correct?",
+      "options": {
+        "A": "She has been working here since three years.",
+        "B": "She has been working here for three years.",
+        "C": "She is working here since three years.",
+        "D": "She is working here for three years."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Complete the sentence: 'If I _____ earlier, I wouldn't have missed the train.'",
+      "options": {
+        "A": "would leave",
+        "B": "had left",
+        "C": "have left",
+        "D": "would have left"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "A": "Neither the students nor the teacher are going to the field trip.",
+        "B": "Neither the students nor the teacher is going to the field trip.",
+        "C": "Neither the students nor the teacher is going on the field trip.",
+        "D": "Neither the students nor the teacher are going on the field trip."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence contains an error?",
+      "options": {
+        "A": "The data shows an interesting trend.",
+        "B": "The committee has made its decision.",
+        "C": "A number of students have complained.",
+        "D": "The team are playing well this season."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "A": "The manager, as well as her assistants, are attending the conference.",
+        "B": "The manager, as well as her assistants, is attending the conference.",
+        "C": "The manager, along with her assistants, are attending the conference.",
+        "D": "The manager, with her assistants, are attending the conference."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the sentence with the correct use of articles:",
+      "options": {
+        "A": "I saw an European film at the cinema yesterday.",
+        "B": "She gave me a useful advice about the job interview.",
+        "C": "He's studying the history at a prestigious university.",
+        "D": "They bought a house with a spacious garden near the city center."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "A": "Despite of the rain, we enjoyed our hike.",
+        "B": "Despite the rain, we enjoyed our hike.",
+        "C": "Despite the rain, we enjoyed to hike.",
+        "D": "Despite of the rain, we enjoyed to hike."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Which of the following correctly uses the past perfect tense?",
+      "options": {
+        "A": "By the time he arrived, she has already left.",
+        "B": "By the time he arrived, she had already left.",
+        "C": "By the time he arrived, she already left.",
+        "D": "By the time he arrived, she was already leaving."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Select the correct relative clause:",
+      "options": {
+        "A": "The woman which we met yesterday is a famous writer.",
+        "B": "The woman whom we met yesterday is a famous writer.",
+        "C": "The woman who we met yesterday she is a famous writer.",
+        "D": "The woman that we met yesterday she is a famous writer."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct passive voice construction:",
+      "options": {
+        "A": "The report is being wrote by the committee.",
+        "B": "The report has wrote by the committee.",
+        "C": "The report is being written by the committee.",
+        "D": "The report has been wrote by the committee."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Which sentence uses the correct conditional form?",
+      "options": {
+        "A": "If he would study harder, he would pass the exam.",
+        "B": "If he studied harder, he will pass the exam.",
+        "C": "If he would study harder, he will pass the exam.",
+        "D": "If he studied harder, he would pass the exam."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Choose the correct comparative form:",
+      "options": {
+        "A": "This exercise is more easier than the last one.",
+        "B": "This exercise is much easier than the last one.",
+        "C": "This exercise is easyer than the last one.",
+        "D": "This exercise is more easy than the last one."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Which sentence has the correct subject-verb agreement?",
+      "options": {
+        "A": "Each of the students have submitted their projects.",
+        "B": "Each of the students has submitted their projects.",
+        "C": "Each of the students have submitted his project.",
+        "D": "Each of the students has submitted his or her project."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Select the correctly punctuated sentence:",
+      "options": {
+        "A": "The professor who is an expert in sociology, gave an interesting lecture.",
+        "B": "The professor, who is an expert in sociology gave an interesting lecture.",
+        "C": "The professor who is an expert in sociology gave an interesting lecture.",
+        "D": "The professor, who is an expert in sociology, gave an interesting lecture."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Choose the sentence with the correct modal verb usage:",
+      "options": {
+        "A": "You must to attend the meeting tomorrow.",
+        "B": "You should to arrive at least ten minutes early.",
+        "C": "You might want to consider another option.",
+        "D": "You can to use my car whenever you need it."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct sentence with reported speech:",
+      "options": {
+        "A": "She said she will finish the project tomorrow.",
+        "B": "She said she would finish the project tomorrow.",
+        "C": "She said she would finish the project the next day.",
+        "D": "She said she will finish the project the next day."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the correct phrasal verb to complete the sentence: 'We need to _____ the meeting until next week.'",
+      "options": {
+        "A": "put off",
+        "B": "put away",
+        "C": "put down",
+        "D": "put through"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct collocation:",
+      "options": {
+        "A": "make a decision",
+        "B": "do a decision",
+        "C": "take a decision",
+        "D": "have a decision"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Complete the sentence with the appropriate idiom: 'The project is very important, so we need to _____ and make sure everything is perfect.'",
+      "options": {
+        "A": "cut corners",
+        "B": "pull strings",
+        "C": "dot our i's and cross our t's",
+        "D": "beat around the bush"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the most appropriate word to complete the sentence: 'His criticism was so _____ that it left her feeling deeply hurt.'",
+      "options": {
+        "A": "brutal",
+        "B": "enthusiastic",
+        "C": "generous",
+        "D": "indifferent"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the correct preposition to complete the sentence: 'She was accused _____ stealing company property.'",
+      "options": {
+        "A": "for",
+        "B": "of",
+        "C": "with",
+        "D": "by"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "A": "I'm looking forward to see you next week.",
+        "B": "I'm looking forward to seeing you next week.",
+        "C": "I'm looking forward for seeing you next week.",
+        "D": "I'm looking forward for to see you next week."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the correct linker to complete the sentence: 'The weather was terrible; _____, we decided to go hiking anyway.'",
+      "options": {
+        "A": "therefore",
+        "B": "nevertheless",
+        "C": "furthermore",
+        "D": "meanwhile"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct expression to complete the sentence: 'It's important to _____ all aspects of the problem before making a decision.'",
+      "options": {
+        "A": "take into consideration",
+        "B": "take into account",
+        "C": "take into thought",
+        "D": "take into mind"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the appropriate response to the question 'Would you mind opening the window?'",
+      "options": {
+        "A": "Yes, I would.",
+        "B": "No, I don't mind.",
+        "C": "Yes, I don't mind.",
+        "D": "No, I would."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the correct definition of 'dismiss':",
+      "options": {
+        "A": "To send someone away or remove them from their job",
+        "B": "To evaluate something carefully",
+        "C": "To bring people together for a meeting",
+        "D": "To delay an action intentionally"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Select the sentence where 'tendency' is used correctly:",
+      "options": {
+        "A": "The tendency was signed by all committee members.",
+        "B": "She has a tendency to arrive late for meetings.",
+        "C": "The police tendencied the criminal to the court.",
+        "D": "I will tendency the document to you tomorrow."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Which sentence uses 'abstract' correctly?",
+      "options": {
+        "A": "The artist abstracts to arrive on time.",
+        "B": "He presented an abstract of his research findings.",
+        "C": "We need to abstract this issue immediately.",
+        "D": "The meeting was abstracted until next week."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Choose the correct meaning of 'technical' in this context: 'There were some technical issues during the presentation.'",
+      "options": {
+        "A": "Issues related to human resources",
+        "B": "Issues related to funding or budget",
+        "C": "Issues related to equipment or technology",
+        "D": "Issues related to the content of the presentation"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Which sentence uses 'withdraw' correctly?",
+      "options": {
+        "A": "I need to withdraw my application due to unforeseen circumstances.",
+        "B": "She withdrew her colleague to the new position.",
+        "C": "The team withdrew a great performance in the final match.",
+        "D": "They withdrew the meeting for three hours."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Which definition best describes 'consent'?",
+      "options": {
+        "A": "A formal disagreement",
+        "B": "Permission or agreement to do something",
+        "C": "A legal contract",
+        "D": "A written apology"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Choose the correct definition of 'controversy':",
+      "options": {
+        "A": "A private conversation between two people",
+        "B": "A detailed analysis of a situation",
+        "C": "Public disagreement or heated discussion about something",
+        "D": "A formal ceremony or celebration"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Which sentence uses 'execute' correctly?",
+      "options": {
+        "A": "I need to execute my documents before the deadline.",
+        "B": "The chef executed a perfect soufflé for the critics.",
+        "C": "We should execute this letter to the headquarters.",
+        "D": "They executed lunch in the conference room."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Choose the sentence that uses 'undergo' correctly:",
+      "options": {
+        "A": "The building will undergo in the city center.",
+        "B": "The patient will undergo surgery next week.",
+        "C": "They underwent the documents to the committee.",
+        "D": "She underwent her knowledge of French during the interview."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Select the correct definition of 'widespread':",
+      "options": {
+        "A": "Occurring or existing in a small, limited area",
+        "B": "Found or distributed over a large area or among many people",
+        "C": "Happening very quickly",
+        "D": "Extremely expensive or valuable"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Choose the sentence where 'mutual' is used correctly:",
+      "options": {
+        "A": "The company has mutuals in several countries.",
+        "B": "Their mutual dislike was obvious to everyone.",
+        "C": "We need to mutual this agreement right away.",
+        "D": "She mutualed her concerns during the meeting."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Which sentence uses 'resolve' correctly?",
+      "options": {
+        "A": "He resolved to the park every morning.",
+        "B": "The manager resolved his assistant to handle the project.",
+        "C": "They resolved the conflict through mediation.",
+        "D": "She resolves herself every day in the mirror."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Select the correct definition of 'formula':",
+      "options": {
+        "A": "A method or procedure for doing something",
+        "B": "A type of academic degree",
+        "C": "A formal complaint",
+        "D": "A large public gathering"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Choose the sentence that uses 'integrate' correctly:",
+      "options": {
+        "A": "We need to integrate more funds into this project.",
+        "B": "The company will integrate a new employee next month.",
+        "C": "They integrated by car to the conference.",
+        "D": "The team is working to integrate the new software with existing systems."
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Which definition best describes 'trigger'?",
+      "options": {
+        "A": "A written warning",
+        "B": "Something that causes something else to happen",
+        "C": "A formal invitation",
+        "D": "A type of document or certificate"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, what was a significant shift in medical understanding during the Classical period?",
+      "options": {
+        "A": "The discovery of DNA",
+        "B": "The development of the smallpox vaccine",
+        "C": "Hippocrates' systematic approach based on observation",
+        "D": "The invention of anesthesia"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "When did William Harvey explain blood circulation according to the passage?",
+      "options": {
+        "A": "1796",
+        "B": "3000 BCE",
+        "C": "1628",
+        "D": "The 19th century"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "What did Florence Nightingale contribute to medicine according to the passage?",
+      "options": {
+        "A": "The discovery of antibiotics",
+        "B": "The development of the smallpox vaccine",
+        "C": "The establishment of nursing as a respected profession",
+        "D": "The explanation of blood circulation"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Based on the passage, which century is described as 'the golden age of medicine'?",
+      "options": {
+        "A": "17th century",
+        "B": "18th century",
+        "C": "19th century",
+        "D": "20th century"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to the passage, what has been successfully eradicated through public health initiatives?",
+      "options": {
+        "A": "Polio",
+        "B": "Smallpox",
+        "C": "Antibiotic resistance",
+        "D": "Cancer"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "Based on the passage, what was a key contribution of Louis Pasteur?",
+      "options": {
+        "A": "Development of the smallpox vaccine",
+        "B": "Invention of the microscope",
+        "C": "Explanation of blood circulation",
+        "D": "Germ theory of disease"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Which of the following is mentioned in the passage as a challenge facing modern medicine?",
+      "options": {
+        "A": "Lack of educational institutions",
+        "B": "Antibiotic resistance",
+        "C": "Shortage of medical professionals",
+        "D": "Lack of funding for research"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What does the passage suggest about the earliest medical systems?",
+      "options": {
+        "A": "They were entirely based on scientific reasoning",
+        "B": "They contributed nothing to future medical knowledge",
+        "C": "They combined supernatural explanations with practical knowledge",
+        "D": "They were developed in the Renaissance period"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to the passage, Edward Jenner's contribution to medicine was:",
+      "options": {
+        "A": "Discovering microorganisms",
+        "B": "Developing the smallpox vaccine",
+        "C": "Establishing modern nursing practices",
+        "D": "Describing blood circulation"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "The passage suggests that advances in medical knowledge have primarily resulted in:",
+      "options": {
+        "A": "Increased controversy among medical professionals",
+        "B": "Reduced need for healthcare institutions",
+        "C": "Improved human longevity and quality of life",
+        "D": "Greater reliance on supernatural explanations"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
