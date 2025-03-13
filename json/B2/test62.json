@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Sleep is a fundamental biological process that has fascinated scientists for centuries, yet many aspects of it remain mysterious. On average, humans spend approximately one-third of their lives asleep, making it a significant component of human existence. Far from being a passive state of unconsciousness, sleep is now understood to be a dynamic process during which the brain cycles through multiple stages, each characterized by distinct patterns of neural activity. These patterns can be observed through electroencephalography (EEG), which measures electrical activity in the brain, revealing the intricate dance of brain waves that occurs throughout the night.<br><br>(2) Research has consistently demonstrated that sleep plays a crucial role in cognitive function. During sleep, the brain processes and consolidates information acquired during wakefulness, essentially transferring memories from short-term to long-term storage. This explains why students who pull all-nighters before exams often perform poorly compared to those who prioritize adequate rest. Additionally, sleep enhances creative problem-solving abilities, as the brain makes connections between seemingly unrelated concepts during periods of rest. Some of history's most significant scientific breakthroughs and artistic inspirations have occurred following periods of sleep, highlighting its importance in innovative thinking.<br><br>(3) The relationship between sleep and physical health is equally significant. During deep sleep stages, the body releases growth hormone, which facilitates cellular repair and immune system functioning. Consistent sleep deprivation has been linked to increased risk of serious health conditions, including heart disease, diabetes, obesity, and hypertension. Furthermore, inadequate sleep compromises the immune system's ability to fight infections, making sleep-deprived individuals more susceptible to illnesses such as the common cold. Despite these well-documented consequences, modern society often glorifies busy schedules and minimal sleep, creating a public health challenge for many nations.<br><br>(4) Scientists have identified several distinct sleep stages, each serving different physiological and neurological functions. The most well-known is Rapid Eye Movement (REM) sleep, during which most dreaming occurs. During REM sleep, the brain becomes highly active, approaching levels of wakefulness, while the body remains temporarily paralyzed to prevent individuals from acting out their dreams. Non-REM sleep, comprising three separate stages, is characterized by progressively deeper sleep, with the deepest stage being crucial for physical restoration. Throughout the night, the brain cycles through these stages approximately every 90 minutes, with REM periods typically becoming longer toward morning.<br><br>(5) In recent years, the field of sleep science has expanded significantly, with researchers developing interventions to address sleep disorders that affect millions worldwide. Conditions such as insomnia, sleep apnea, and narcolepsy can severely impact quality of life, yet they often go undiagnosed or untreated. Modern technologies now allow individuals to track their sleep patterns at home, providing valuable data that can help optimize sleep hygiene. As our understanding of sleep continues to evolve, the scientific consensus increasingly emphasizes that quality sleep is not a luxury but a necessity for optimal cognitive performance, emotional regulation, and long-term health. This growing body of research underscores the importance of prioritizing sleep as a fundamental component of overall well-being.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which sentence contains a grammatical error?",
+      "options": {
+        "A": "She has been living in Canada since five years.",
+        "B": "They have visited Paris twice since 2018.",
+        "C": "He has worked for this company since he graduated.",
+        "D": "We have known each other since we were children."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the grammatically correct sentence:",
+      "options": {
+        "A": "Neither the students nor the teacher were able to solve the problem.",
+        "B": "Neither the students nor the teacher was able to solve the problem.",
+        "C": "Neither the students nor the teacher are able to solve the problem.",
+        "D": "Neither the students nor the teacher is able to solve the problem."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the sentence with the correct use of articles:",
+      "options": {
+        "A": "She gave me the useful advice about my project.",
+        "B": "I bought a new laptop at the Best Buy yesterday.",
+        "C": "He's studying at an university in California.",
+        "D": "They visited the Grand Canyon during their vacation last year."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence uses the past perfect tense correctly?",
+      "options": {
+        "A": "Before she graduated, she has completed three internships.",
+        "B": "After he had finished work, he went to the gym.",
+        "C": "By the time they arrived, the movie already started.",
+        "D": "She had went to the store before cooking dinner."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct relative clause:",
+      "options": {
+        "A": "The woman which lives next door is a doctor.",
+        "B": "The book that I told you about it is now available.",
+        "C": "The restaurant whose chef won an award is very popular.",
+        "D": "The man who's car I borrowed is my colleague."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the sentence with correct subject-verb agreement:",
+      "options": {
+        "A": "The committee have reached a decision.",
+        "B": "The number of students in the class are increasing.",
+        "C": "Neither of the candidates have withdrawn from the race.",
+        "D": "A series of lectures is scheduled for next month."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which sentence correctly uses the passive voice?",
+      "options": {
+        "A": "The project will completed by next week.",
+        "B": "The book was wrote by a famous author.",
+        "C": "The building is being renovated by a local company.",
+        "D": "The error has being corrected by the teacher."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the sentence with the correct conditional form:",
+      "options": {
+        "A": "If I would know the answer, I will tell you.",
+        "B": "If I knew the answer, I will tell you.",
+        "C": "If I know the answer, I would tell you.",
+        "D": "If I knew the answer, I would tell you."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Select the correctly punctuated sentence:",
+      "options": {
+        "A": "However it continued to rain, throughout the afternoon.",
+        "B": "However, it continued to rain throughout the afternoon.",
+        "C": "However it continued to rain throughout, the afternoon.",
+        "D": "However, it continued to rain, throughout the afternoon."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence contains a misplaced modifier?",
+      "options": {
+        "A": "Running late for work, the bus was missed by John.",
+        "B": "Walking through the park, the birds sang beautifully.",
+        "C": "Having finished her assignment, the student submitted it online.",
+        "D": "After completing the marathon, medals were given to all participants."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the sentence with the correct comparative form:",
+      "options": {
+        "A": "This project is more easier than the previous one.",
+        "B": "The weather today is more cold than yesterday.",
+        "C": "Her presentation was more comprehensive than his.",
+        "D": "The new software is more better than the old version."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the sentence with correct preposition usage:",
+      "options": {
+        "A": "She's been working in this project since January.",
+        "B": "The restaurant is located at the corner of Main Street and Oak Avenue.",
+        "C": "We were surprised from the unexpected result.",
+        "D": "He's very talented on playing the piano."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Which sentence uses modal verbs correctly?",
+      "options": {
+        "A": "You must to submit your application by Friday.",
+        "B": "She can be able to speak three languages fluently.",
+        "C": "They might have arrived already, but I'm not sure.",
+        "D": "We should to consider all options before making a decision."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the sentence with correct parallel structure:",
+      "options": {
+        "A": "The workshop focuses on writing effectively, critical thinking, and how to communicate.",
+        "B": "She enjoys hiking, swimming, and to cycle on weekends.",
+        "C": "The manager asked us to work efficiently, speak professionally, and maintain accuracy.",
+        "D": "The article discusses climate change, renewable energy, and explains sustainability."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the sentence with correct gerund usage:",
+      "options": {
+        "A": "She avoided to answer my question directly.",
+        "B": "They appreciate being informed about changes in advance.",
+        "C": "The children enjoy to play in the park after school.",
+        "D": "He considered to move to another city for work."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct collocation:",
+      "options": {
+        "A": "do a mistake",
+        "B": "make homework",
+        "C": "take a decision",
+        "D": "pay attention"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Complete the sentence with the appropriate phrasal verb: 'The meeting has been _____ until next week.'",
+      "options": {
+        "A": "put up",
+        "B": "put off",
+        "C": "put down",
+        "D": "put through"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the most appropriate expression to complete the sentence: 'It's important to _____ all factors before making a decision.'",
+      "options": {
+        "A": "take into account",
+        "B": "take into mind",
+        "C": "take into thinking",
+        "D": "take into brain"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct idiom to complete the sentence: 'The exam was really difficult, but she passed with _____ .'",
+      "options": {
+        "A": "a piece of cake",
+        "B": "flying colors",
+        "C": "a cup of tea",
+        "D": "a blue moon"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the appropriate formal alternative to 'get': 'Could you please _____ me that report by tomorrow?'",
+      "options": {
+        "A": "provide",
+        "B": "gift",
+        "C": "hand",
+        "D": "find"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the correct sentence in reported speech:",
+      "options": {
+        "A": "She said that she is going to attend the conference.",
+        "B": "He told me he has finished the assignment yesterday.",
+        "C": "They asked if I could help them with their project.",
+        "D": "The teacher said that we will have a test next week."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Select the correct linking word to complete the sentence: 'The flight was delayed; _____, we managed to arrive on time for the meeting.'",
+      "options": {
+        "A": "therefore",
+        "B": "furthermore",
+        "C": "meanwhile",
+        "D": "nevertheless"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the appropriate response to 'Would you mind opening the window?'",
+      "options": {
+        "A": "Yes, I would.",
+        "B": "No, not at all.",
+        "C": "Yes, I don't mind.",
+        "D": "No, I would mind."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Select the appropriate expression to complete the sentence: 'The company has decided to _____ production of this model due to declining sales.'",
+      "options": {
+        "A": "phase out",
+        "B": "phase in",
+        "C": "phase up",
+        "D": "phase over"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct word to complete the sentence: 'Her presentation was very _____, covering all the main aspects of the project.'",
+      "options": {
+        "A": "comprehensive",
+        "B": "comprehendable",
+        "C": "comprehensively",
+        "D": "comprehending"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the correct definition of 'nevertheless':",
+      "options": {
+        "A": "At no time in the past or future",
+        "B": "To a great extent or degree",
+        "C": "In spite of that; however",
+        "D": "As a result of something"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Which sentence uses 'visual' correctly?",
+      "options": {
+        "A": "The artist has a strong visual of color and composition.",
+        "B": "The presentation included several visual aids to illustrate key points.",
+        "C": "The company decided to visual its new products next month.",
+        "D": "We visual the situation differently than you do."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Select the sentence where 'format' is used correctly:",
+      "options": {
+        "A": "The book formats the history of ancient civilizations.",
+        "B": "You need to format the document according to these guidelines.",
+        "C": "She formats to work late every Tuesday.",
+        "D": "The company has been format for over fifty years."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Choose the correct definition of 'ethical':",
+      "options": {
+        "A": "Related to religion or spiritual beliefs",
+        "B": "Connected with money or financial matters",
+        "C": "Relating to beliefs about what is morally right and wrong",
+        "D": "Associated with scientific research or technological development"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Which sentence uses 'appeal' correctly?",
+      "options": {
+        "A": "The lawyer decided to appeal the court's decision.",
+        "B": "She appeals her room every Sunday morning.",
+        "C": "They appeal to visit their grandparents next weekend.",
+        "D": "The teacher appeals the students to be quiet."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Select the sentence where 'version' is used correctly:",
+      "options": {
+        "A": "He versioned his story several times before telling the truth.",
+        "B": "The latest version of the software includes several new features.",
+        "C": "The company versioned a new marketing strategy last month.",
+        "D": "They version their products at competitive prices."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Choose the correct definition of 'dimension':",
+      "options": {
+        "A": "The final part of something",
+        "B": "A measurable extent, such as length, width, or height",
+        "C": "A powerful argument or reason",
+        "D": "A small portion or quantity of something"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Which sentence uses 'profile' correctly?",
+      "options": {
+        "A": "The company profiles to increase sales next quarter.",
+        "B": "The magazine published a profile of the award-winning author.",
+        "C": "She profiled the exam with high marks.",
+        "D": "They profile regularly at the local community center."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Select the sentence where 'consist' is used correctly:",
+      "options": {
+        "A": "The team consists of five experienced researchers.",
+        "B": "She consists to arrive early for every meeting.",
+        "C": "They consisted the problem until they found a solution.",
+        "D": "The teacher consists the students to work harder."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Choose the correct definition of 'disturb':",
+      "options": {
+        "A": "To develop or evolve gradually",
+        "B": "To interrupt someone or something causing trouble",
+        "C": "To arrange items in a specific order",
+        "D": "To persuade someone to do something"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Which sentence uses 'treaty' correctly?",
+      "options": {
+        "A": "The company treaties its employees with respect.",
+        "B": "She treaty her friends to lunch every Friday.",
+        "C": "The two countries signed a peace treaty after years of conflict.",
+        "D": "He treatied the document before submitting it."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Select the sentence where 'maximum' is used correctly:",
+      "options": {
+        "A": "We maximum our efforts to complete the project on time.",
+        "B": "The maximum capacity of the room is 150 people.",
+        "C": "The concert maximum for three hours yesterday.",
+        "D": "She maximums her time between work and family responsibilities."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Choose the correct definition of 'principle':",
+      "options": {
+        "A": "The head of a school or college",
+        "B": "A fundamental truth or proposition serving as a foundation for belief or action",
+        "C": "The most important prize or award",
+        "D": "The original amount of money invested"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Which sentence uses 'military' correctly?",
+      "options": {
+        "A": "The company militaries new employees every month.",
+        "B": "She military her position as team leader effectively.",
+        "C": "Several countries have reduced their military spending this year.",
+        "D": "They militaried the situation by providing additional resources."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Select the sentence where 'distinction' is used correctly:",
+      "options": {
+        "A": "The professor distinctions the behavior of different species.",
+        "B": "She graduated with distinction from a prestigious university.",
+        "C": "The company distinction a new product last month.",
+        "D": "They distinction the meeting to next week."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, approximately what portion of human life is spent sleeping?",
+      "options": {
+        "A": "One-quarter",
+        "B": "One-third",
+        "C": "One-half",
+        "D": "Two-thirds"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "What does the passage suggest about the nature of sleep?",
+      "options": {
+        "A": "It is a passive state of unconsciousness",
+        "B": "It is primarily important for physical rest",
+        "C": "It is a dynamic process with multiple stages",
+        "D": "It is unnecessary for creative thinking"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "Based on the passage, which of the following happens during sleep?",
+      "options": {
+        "A": "The brain becomes completely inactive",
+        "B": "Information is transferred from short-term to long-term memory",
+        "C": "The immune system becomes temporarily suppressed",
+        "D": "The body temperature significantly increases"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to the passage, what happens to the body during REM sleep?",
+      "options": {
+        "A": "It becomes temporarily paralyzed",
+        "B": "It experiences reduced brain activity",
+        "C": "It releases growth hormone",
+        "D": "It enters a state of deep relaxation"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What does the passage indicate about sleep deprivation?",
+      "options": {
+        "A": "It is often celebrated in modern society",
+        "B": "It has minimal impact on cognitive function",
+        "C": "It increases resistance to common illnesses",
+        "D": "It is linked to serious health conditions"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to the passage, which sleep stage is most associated with dreaming?",
+      "options": {
+        "A": "Light sleep",
+        "B": "Deep sleep",
+        "C": "REM sleep",
+        "D": "Transitional sleep"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What happens to REM sleep periods throughout the night, according to the passage?",
+      "options": {
+        "A": "They become shorter toward morning",
+        "B": "They become longer toward morning",
+        "C": "They remain constant in duration",
+        "D": "They occur less frequently"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "Which of the following sleep disorders is mentioned in the passage?",
+      "options": {
+        "A": "Restless leg syndrome",
+        "B": "Sleep apnea",
+        "C": "Sleepwalking",
+        "D": "Night terrors"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to the passage, what is the current scientific consensus about sleep?",
+      "options": {
+        "A": "It is a luxury that can be limited when necessary",
+        "B": "It is primarily important for physical health only",
+        "C": "It is a necessity for overall well-being",
+        "D": "It is fully understood by modern science"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What can be inferred from the passage about modern technology and sleep?",
+      "options": {
+        "A": "It primarily disrupts healthy sleep patterns",
+        "B": "It can help individuals track and improve their sleep",
+        "C": "It has eliminated the need for consistent sleep",
+        "D": "It has made sleep disorders more common"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
