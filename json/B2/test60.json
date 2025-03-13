@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The Inca Empire, known to its own people as Tawantinsuyu or 'The Four Regions,' stands as one of history's most remarkable civilizations despite its relatively brief dominance of the Andean region. Emerging in the early 13th century and reaching its zenith in the early 16th century, the Inca managed to build the largest empire in pre-Columbian America before their conquest by Spanish forces. What makes the Inca particularly fascinating is how they achieved extraordinary cultural, architectural, and administrative sophistication without several technologies often considered fundamental to advanced civilization, such as the wheel, iron tools, or a formal writing system. Instead, the Inca developed alternative solutions that suited their mountainous environment and social structures, creating innovations that continue to inspire admiration and study today.<br><br>(2) Perhaps the most visible achievement of the Inca civilization was their architectural mastery. Inca stonemasons created structures of exceptional quality, with precisely cut stones fitted together so tightly that not even a knife blade could be inserted between them—all without the use of mortar. This seismic-resistant building technique has allowed many Inca structures to survive earthquakes that have destroyed more recent buildings. The administrative center of Cusco and the mountaintop citadel of Machu Picchu exemplify this extraordinary craftsmanship. Equally impressive was the empire's network of roads, spanning approximately 40,000 kilometers and traversing some of the most challenging terrain on Earth. These highways, featuring stone staircases cut into mountainsides, suspension bridges made of woven grass, and tunnels through solid rock, connected the empire's vast territories and enabled rapid communication and transportation in a challenging environment.<br><br>(3) The agricultural innovations of the Inca were similarly adapted to their environment and remain relevant today. Facing the challenge of farming in steep Andean terrain, they developed extensive terracing systems that transformed mountainsides into productive farmland while preventing soil erosion. These agricultural terraces were often equipped with sophisticated irrigation systems that distributed water efficiently throughout the growing areas. The Inca also pioneered food preservation techniques and maintained storehouses called qollqas at various elevations to take advantage of different microclimates for preservation. Additionally, they practiced crop experimentation, developing numerous varieties of potatoes and other crops specifically adapted to different altitudes and growing conditions, contributing significantly to the world's agricultural biodiversity.<br><br>(4) The administrative and social systems of the Inca Empire were equally sophisticated. Without a written language, they developed the quipu—a system of knotted cords that recorded numerical data essential for managing their complex society. This ingenious method allowed them to keep detailed records of populations, agricultural output, tax obligations, and historical events. The empire was structured around the ayllu system, a form of community organization based on kinship that managed labor obligations and resource distribution. Through a redistributive economy, the state collected labor as a form of taxation, using it for monumental construction projects and ensuring that resources were stored and distributed to provide security against crop failures. This highly organized social structure enabled the Inca to effectively govern millions of people speaking different languages across varied and challenging landscapes.<br><br>(5) The legacy of the Inca continues to resonate throughout modern South America and beyond. Many aspects of contemporary Andean culture, from agricultural techniques to textile designs and social organizations, have roots in Inca practices. The empire's descendants, speaking Quechua and maintaining traditional customs, form significant populations in Peru, Bolivia, Ecuador, and surrounding regions. Recent years have seen growing recognition of this heritage, with increased efforts to preserve archaeological sites and document traditional knowledge. Moreover, Inca innovations in sustainable agriculture, water management, and seismic-resistant architecture are being studied for their potential applications in addressing contemporary challenges. The engineering principles behind their terracing systems, for instance, offer valuable insights for sustainable farming in mountainous regions, while their building techniques provide lessons for earthquake-resistant construction. Thus, the achievements of this remarkable civilization continue to influence and inspire the modern world, transcending their brief moment of regional dominance to leave an enduring global legacy.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following sentences contains an error in subject-verb agreement?",
+      "options": {
+        "A": "The committee has reached its decision.",
+        "B": "Neither of the candidates were selected for the position.",
+        "C": "Everyone in the class is required to submit their assignment.",
+        "D": "The number of students enrolled this year has increased."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct form of the verb to complete the sentence: By the time the bus arrived, we _____ for over an hour.",
+      "options": {
+        "A": "wait",
+        "B": "waited",
+        "C": "had waited",
+        "D": "are waiting"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence correctly uses the passive voice?",
+      "options": {
+        "A": "The experiment was conducting by the research team.",
+        "B": "The research team was conducted the experiment.",
+        "C": "The experiment conducted by the research team.",
+        "D": "The experiment was conducted by the research team."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Select the correct conditional sentence:",
+      "options": {
+        "A": "If I would have known about the meeting, I will attend it.",
+        "B": "If I knew about the meeting, I would have attended it.",
+        "C": "If I had known about the meeting, I would have attended it.",
+        "D": "If I know about the meeting, I would attended it."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct relative pronoun: The book, _____ author won the Pulitzer Prize, has been translated into twenty languages.",
+      "options": {
+        "A": "who",
+        "B": "whom",
+        "C": "which",
+        "D": "whose"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which sentence uses articles correctly?",
+      "options": {
+        "A": "She has a MBA from an prestigious university.",
+        "B": "She has an MBA from a prestigious university.",
+        "C": "She has a MBA from a prestigious university.",
+        "D": "She has an MBA from an prestigious university."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Select the sentence with correct punctuation:",
+      "options": {
+        "A": "After eating, the guests went to the garden.",
+        "B": "After eating the guests, went to the garden.",
+        "C": "After eating the guests went, to the garden.",
+        "D": "After, eating the guests went to the garden."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct verb form: I wish I _____ able to attend the conference next week.",
+      "options": {
+        "A": "am",
+        "B": "was",
+        "C": "were",
+        "D": "would be"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence contains a correctly placed modifier?",
+      "options": {
+        "A": "Walking down the street, the tall building caught my attention.",
+        "B": "Walking down the street, my attention was caught by the tall building.",
+        "C": "The tall building caught my attention while walking down the street.",
+        "D": "Walking down the street, I noticed the tall building."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Select the sentence with the correct use of parallel structure:",
+      "options": {
+        "A": "The company focuses on developing new products, improving customer service, and how to increase sales.",
+        "B": "The company focuses on developing new products, improving customer service, and increasing sales.",
+        "C": "The company focuses on developing new products, customer service improvement, and to increase sales.",
+        "D": "The company focuses on new product development, improving customer service, and sales increases."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct preposition: The lecture was scheduled _____ Friday morning.",
+      "options": {
+        "A": "in",
+        "B": "at",
+        "C": "on",
+        "D": "during"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence uses reported speech correctly?",
+      "options": {
+        "A": "She said that she will attend the meeting tomorrow.",
+        "B": "She said that she would attend the meeting the next day.",
+        "C": "She said that she would attend the meeting tomorrow.",
+        "D": "She said that she will attend the meeting the next day."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Select the sentence with the correct comparative form:",
+      "options": {
+        "A": "This project is more easier than the previous one.",
+        "B": "This project is the most easiest we have ever done.",
+        "C": "This project is easier than the previous one.",
+        "D": "This project is the easier than the previous one."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence uses the present perfect correctly?",
+      "options": {
+        "A": "I have seen him yesterday at the conference.",
+        "B": "She has been working here since three years.",
+        "C": "We have already submitted our proposal last week.",
+        "D": "They have lived in this neighborhood for ten years."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Choose the sentence with the correct use of modals:",
+      "options": {
+        "A": "You must to submit your application before Friday.",
+        "B": "She can speaks three languages fluently.",
+        "C": "They might not be able to attend the meeting.",
+        "D": "We should to prepare for the presentation."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the most appropriate phrase to complete the sentence: The company needs to _____ costs in order to remain profitable.",
+      "options": {
+        "A": "cut down on",
+        "B": "cut off",
+        "C": "cut out",
+        "D": "cut up"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the correct phrasal verb: After considering all the options, we decided to _____ the new proposal.",
+      "options": {
+        "A": "go ahead with",
+        "B": "go along with",
+        "C": "go down with",
+        "D": "go in with"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Which collocation is correct?",
+      "options": {
+        "A": "make a decision",
+        "B": "do a decision",
+        "C": "take a decision",
+        "D": "have a decision"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the appropriate linking expression: _____ the heavy rain, the outdoor event was not canceled.",
+      "options": {
+        "A": "In spite of",
+        "B": "However",
+        "C": "Although",
+        "D": "Even though"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the most appropriate expression to complete the sentence: The discussion became heated, and the participants found it difficult to _____ an agreement.",
+      "options": {
+        "A": "come to",
+        "B": "come for",
+        "C": "come by",
+        "D": "come with"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Which idiom correctly completes the sentence? After the scandal, his career was _____.",
+      "options": {
+        "A": "in the red",
+        "B": "in hot water",
+        "C": "in the balance",
+        "D": "in tatters"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct expression: Despite working long hours, she always finds time to _____.",
+      "options": {
+        "A": "call it a day",
+        "B": "face the music",
+        "C": "keep in touch with friends",
+        "D": "break the ice"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the appropriate connector: She studied very hard for the exam; _____, she failed.",
+      "options": {
+        "A": "therefore",
+        "B": "furthermore",
+        "C": "consequently",
+        "D": "nevertheless"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Which expression best completes the idiom? The new policy has opened a real can of _____.",
+      "options": {
+        "A": "troubles",
+        "B": "worms",
+        "C": "problems",
+        "D": "issues"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the most appropriate expression for formal writing: The committee will _____ your proposal at the next meeting.",
+      "options": {
+        "A": "look into",
+        "B": "check out",
+        "C": "consider",
+        "D": "think about"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the word that best completes the sentence: Wikipedia cited several reliable primary _____ for the historical information.",
+      "options": {
+        "A": "references",
+        "B": "origins",
+        "C": "source",
+        "D": "materials"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Select the word that means: to direct the course of or manage something.",
+      "options": {
+        "A": "operate",
+        "B": "perform",
+        "C": "execute",
+        "D": "conduct"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Choose the word that best completes the sentence: The consumer price _____ is used to measure inflation rates over time.",
+      "options": {
+        "A": "indicator",
+        "B": "scale",
+        "C": "measure",
+        "D": "index"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Select the word that means: to intervene between people in a dispute in order to bring about an agreement.",
+      "options": {
+        "A": "arbitrate",
+        "B": "negotiate",
+        "C": "conciliate",
+        "D": "mediate"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the word that best completes the sentence: The organization will _____ significant resources to addressing this global issue.",
+      "options": {
+        "A": "dedicate",
+        "B": "devote",
+        "C": "commit",
+        "D": "pledge"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Select the word that means: a systematic plan or arrangement for attaining a particular object.",
+      "options": {
+        "A": "strategy",
+        "B": "system",
+        "C": "plan",
+        "D": "scheme"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Choose the word that best completes the sentence: The company offered flexible working hours; _____, they provided childcare facilities for employees.",
+      "options": {
+        "A": "moreover",
+        "B": "furthermore",
+        "C": "likewise",
+        "D": "additionally"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Select the word that means: a medium for communication or the passage of information.",
+      "options": {
+        "A": "pathway",
+        "B": "conduit",
+        "C": "medium",
+        "D": "channel"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Choose the word that best completes the sentence: His _____ in the company improved significantly after the successful completion of the project.",
+      "options": {
+        "A": "position",
+        "B": "rank",
+        "C": "level",
+        "D": "status"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Select the word that means: to return to a normal state of health, mind, or strength.",
+      "options": {
+        "A": "regain",
+        "B": "restore",
+        "C": "recuperate",
+        "D": "recover"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Choose the word that best completes the sentence: The ancient temple has a _____ architectural style not found anywhere else in the world.",
+      "options": {
+        "A": "distinct",
+        "B": "unique",
+        "C": "unusual",
+        "D": "rare"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Select the word that means: the arrangement of and relations between the parts of something complex.",
+      "options": {
+        "A": "structure",
+        "B": "formation",
+        "C": "arrangement",
+        "D": "construction"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Choose the word that best completes the sentence: In mathematics, the symbol π is used to _____ the ratio of a circle's circumference to its diameter.",
+      "options": {
+        "A": "represent",
+        "B": "indicate",
+        "C": "denote",
+        "D": "signify"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Select the word that means: the greater part or main mass of something.",
+      "options": {
+        "A": "majority",
+        "B": "volume",
+        "C": "mass",
+        "D": "bulk"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Choose the word that best completes the sentence: Climate change is a global _____ that requires international cooperation to address effectively.",
+      "options": {
+        "A": "problem",
+        "B": "matter",
+        "C": "concern",
+        "D": "issue"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what is notable about the Inca civilization's achievements?",
+      "options": {
+        "A": "They conquered the largest territory in South America.",
+        "B": "They achieved sophistication without several fundamental technologies.",
+        "C": "They were the longest-lasting empire in pre-Columbian America.",
+        "D": "They developed the wheel before other American civilizations."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "What architectural technique is highlighted in paragraph 2 as allowing Inca structures to survive earthquakes?",
+      "options": {
+        "A": "The use of flexible wooden beams",
+        "B": "Precisely cut stones fitted without mortar",
+        "C": "Deep foundations reinforced with metal",
+        "D": "Lightweight construction materials"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, what agricultural innovation did the Inca develop to farm in mountainous terrain?",
+      "options": {
+        "A": "Greenhouse technology",
+        "B": "Mechanized farming tools",
+        "C": "Extensive terracing systems",
+        "D": "Chemical fertilizers"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "What method did the Inca use to record numerical data, as mentioned in paragraph 4?",
+      "options": {
+        "A": "Hieroglyphic writing",
+        "B": "Quipu (knotted cords)",
+        "C": "Clay tablets",
+        "D": "Stone carvings"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to paragraph 4, what served as a form of taxation in the Inca Empire?",
+      "options": {
+        "A": "Gold and silver payments",
+        "B": "Agricultural produce",
+        "C": "Military service",
+        "D": "Labor obligations"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "Based on paragraph 5, which of the following is NOT mentioned as part of the Inca legacy?",
+      "options": {
+        "A": "Agricultural techniques",
+        "B": "Textile designs",
+        "C": "Mathematical advances",
+        "D": "Social organizations"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to the passage, what language associated with the Inca is still spoken in parts of South America?",
+      "options": {
+        "A": "Aymara",
+        "B": "Quechua",
+        "C": "Guarani",
+        "D": "Nahuatl"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What modern application of Inca knowledge is mentioned in paragraph 5?",
+      "options": {
+        "A": "Medical treatments",
+        "B": "Earthquake-resistant construction",
+        "C": "Navigation systems",
+        "D": "Communication technology"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What is the main purpose of this passage?",
+      "options": {
+        "A": "To compare the Inca Empire with other ancient civilizations",
+        "B": "To explain the reasons for the fall of the Inca Empire",
+        "C": "To highlight the achievements and enduring legacy of the Inca civilization",
+        "D": "To describe the geography of the Andean region"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "Which statement best summarizes the passage's perspective on the Inca Empire?",
+      "options": {
+        "A": "It was militarily powerful but culturally underdeveloped.",
+        "B": "It created innovative solutions adapted to its environment despite lacking certain technologies.",
+        "C": "It was the most technologically advanced pre-Columbian civilization.",
+        "D": "It failed to develop sustainable methods for agriculture and construction."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
