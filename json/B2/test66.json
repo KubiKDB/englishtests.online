@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Urban green spaces have emerged as vital components of modern city planning, offering numerous benefits that extend far beyond mere aesthetic appeal. Parks, gardens, and other verdant areas serve as the lungs of densely populated urban environments, filtering air pollutants and producing oxygen. In cities where concrete and asphalt dominate the landscape, these natural havens provide essential environmental services while simultaneously meeting the recreational needs of diverse populations across socioeconomic boundaries.<br><br>(2) The psychological benefits of urban green spaces have been well-documented through extensive research. Regular access to natural environments within urban settings has been linked to reduced stress levels, improved mental health outcomes, and enhanced cognitive function. Studies have demonstrated that even brief exposure to green spaces can lower cortisol levels and blood pressure, while offering restorative experiences that combat mental fatigue. For city dwellers facing the constant stimulation and pressure of urban life, parks and gardens offer crucial opportunities for psychological restoration.<br><br>(3) From an ecological perspective, urban green spaces serve as vital habitats for biodiversity within otherwise hostile environments. Well-designed parks and gardens can support complex ecosystems, providing refuge for native plants, insects, birds, and small mammals. These urban ecological networks contribute to greater environmental resilience and help mitigate the urban heat island effect, whereby cities typically experience higher temperatures than surrounding rural areas. By incorporating water features, diverse plant species, and thoughtful landscaping, urban planners can create microclimates that moderate temperature extremes and support ecological functions.<br><br>(4) The economic value of green spaces, though often underappreciated, represents another compelling argument for their integration into urban development. Properties adjacent to parks or with views of green spaces typically command premium prices, reflecting the market's recognition of their desirability. Beyond property values, green spaces contribute to economic vitality by attracting tourism, encouraging physical activity (thus reducing healthcare costs), creating employment opportunities in maintenance and recreation, and providing venues for community events and small businesses such as cafes and outdoor markets.<br><br>(5) As cities continue to expand globally, the strategic planning and preservation of green spaces has become increasingly challenging yet essential. Urban planners must balance development pressures with the need to maintain adequate green infrastructure. Progressive cities are now adopting innovative approaches such as green roofs, vertical gardens, and the transformation of abandoned infrastructure into parks. These initiatives represent a growing recognition that green spaces are not luxury amenities but fundamental components of sustainable, livable cities that support public health, environmental quality, and community cohesion in our increasingly urbanized world.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct form of the verb: 'If I _____ you, I would accept the job offer.'",
+      "options": {
+        "A": "am",
+        "B": "were",
+        "C": "had been",
+        "D": "would be"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the sentence with the correct use of articles:",
+      "options": {
+        "A": "She is studying at an university in London.",
+        "B": "I read a interesting article about climate change.",
+        "C": "He plays the violin in an orchestra.",
+        "D": "They visited an historic castle last summer."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Identify the correct sentence:",
+      "options": {
+        "A": "Neither of the students have completed their assignments.",
+        "B": "Neither of the students has completed their assignments.",
+        "C": "Neither of the students have completed his assignments.",
+        "D": "Neither of the students has completed his assignments."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence contains a correctly formed passive voice?",
+      "options": {
+        "A": "The report will finish by next week.",
+        "B": "The report will be finishing by next week.",
+        "C": "The report will have been finished by next week.",
+        "D": "The report will finishing by next week."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct relative pronoun: 'The woman _____ car was stolen reported it to the police.'",
+      "options": {
+        "A": "who",
+        "B": "whom",
+        "C": "whose",
+        "D": "which"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the sentence with correct punctuation:",
+      "options": {
+        "A": "After considering all options, the committee decided, to postpone the event.",
+        "B": "After considering all options the committee decided to postpone the event.",
+        "C": "After considering all options, the committee decided to postpone the event.",
+        "D": "After considering all options: the committee decided to postpone the event."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct form: 'By the time we arrived, the movie _____ for an hour.'",
+      "options": {
+        "A": "was running",
+        "B": "has been running",
+        "C": "had been running",
+        "D": "is running"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Identify the sentence with correct subject-verb agreement:",
+      "options": {
+        "A": "The number of students in the class are increasing.",
+        "B": "A variety of methods has been suggested.",
+        "C": "The jury is divided in their opinion.",
+        "D": "Each of the participants were given a certificate."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Select the correct modal verb: 'You _____ leave now if you want to catch the last train.'",
+      "options": {
+        "A": "would",
+        "B": "will",
+        "C": "should",
+        "D": "might"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct comparative form: 'This project is _____ than I expected.'",
+      "options": {
+        "A": "more complicated",
+        "B": "complicateder",
+        "C": "most complicated",
+        "D": "more complicating"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Which sentence uses the present perfect tense correctly?",
+      "options": {
+        "A": "I am living in this city since 2010.",
+        "B": "She has graduated from university last year.",
+        "C": "They have been working on this project for six months.",
+        "D": "We are waiting for the bus for two hours."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Identify the sentence with the correct use of reported speech: 'She said, \"I will call you tomorrow.\"'",
+      "options": {
+        "A": "She said she will call me tomorrow.",
+        "B": "She said she would call me the next day.",
+        "C": "She said she would call me tomorrow.",
+        "D": "She said she will call me the next day."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Select the correct preposition: 'The professor is disappointed _____ the results of the experiment.'",
+      "options": {
+        "A": "with",
+        "B": "at",
+        "C": "for",
+        "D": "by"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct form of the conditional sentence: 'If you _____ harder, you _____ the exam.'",
+      "options": {
+        "A": "would study / will pass",
+        "B": "studied / would pass",
+        "C": "had studied / would have passed",
+        "D": "will study / would pass"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Identify the sentence with the correct use of gerund and infinitive: 'She promised _____ to the party, but she ended up _____ at home.'",
+      "options": {
+        "A": "coming / to stay",
+        "B": "to come / staying",
+        "C": "to come / to stay",
+        "D": "coming / staying"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the word that best completes the sentence: 'His passion for _____ led him to capture stunning images of wildlife in their natural habitat.'",
+      "options": {
+        "A": "photograph",
+        "B": "photographing",
+        "C": "photography",
+        "D": "photographs"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 17,
+      "question": "Select the word that collocates with 'creative':",
+      "options": {
+        "A": "solution",
+        "B": "answer",
+        "C": "result",
+        "D": "conclusion"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 18,
+      "question": "Which sentence uses the word 'syndrome' correctly?",
+      "options": {
+        "A": "The building has a modern syndrome with glass walls.",
+        "B": "Doctors have identified a rare syndrome affecting mainly children.",
+        "C": "The company has a new syndrome for handling customer complaints.",
+        "D": "She bought a syndrome of matching furniture for her apartment."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct definition of 'momentum':",
+      "options": {
+        "A": "A period of time allocated for a specific purpose",
+        "B": "The strength or force that something has when it is moving",
+        "C": "A sudden change in direction or policy",
+        "D": "A measurement of distance covered in a certain time"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 20,
+      "question": "Select the correct use of 'equivalent':",
+      "options": {
+        "A": "His salary is equivalent about $50,000 per year.",
+        "B": "She equivalent her success to hard work and determination.",
+        "C": "The company has equivalent branches in several countries.",
+        "D": "Ten kilometers is roughly equivalent to six miles."
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 21,
+      "question": "Which sentence uses 'diagnose' correctly?",
+      "options": {
+        "A": "The mechanic will diagnose the problem with your car engine.",
+        "B": "They diagnose a new restaurant in the shopping mall.",
+        "C": "The professor asked students to diagnose the assignment by Friday.",
+        "D": "She will diagnose the party with decorations and music."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 22,
+      "question": "Choose the word that collocates with 'shortage':",
+      "options": {
+        "A": "acute",
+        "B": "strong",
+        "C": "heavy",
+        "D": "deep"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 23,
+      "question": "Select the correct sentence using 'advisor':",
+      "options": {
+        "A": "She advisor the students on their research projects.",
+        "B": "He works as a financial advisor for a major bank.",
+        "C": "They advisor that we should reconsider our strategy.",
+        "D": "The government advisor new regulations last month."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 24,
+      "question": "Which phrase correctly collocates with 'remedy'?",
+      "options": {
+        "A": "take a remedy",
+        "B": "do a remedy",
+        "C": "make a remedy",
+        "D": "have a remedy"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct definition of 'custody':",
+      "options": {
+        "A": "A formal agreement between two parties",
+        "B": "Legal responsibility for taking care of someone or something",
+        "C": "A special honor or advantage granted to someone",
+        "D": "A traditional ceremony marking an important life event"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 26,
+      "question": "Select the sentence that uses 'privilege' correctly:",
+      "options": {
+        "A": "Access to healthcare should be a basic privilege in any society.",
+        "B": "They privilege to open a new branch next month.",
+        "C": "The document contains privilege information about the case.",
+        "D": "She privilege the committee with her expertise in the field."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Which sentence uses the word 'database' correctly?",
+      "options": {
+        "A": "We need to database these books according to their subjects.",
+        "B": "The system will database all transactions automatically.",
+        "C": "All customer information is stored in a secure database.",
+        "D": "She will database the meeting for next Tuesday."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Choose the correct use of 'disclose':",
+      "options": {
+        "A": "The company will disclose its annual financial results next week.",
+        "B": "They disclose the building with modern architecture.",
+        "C": "We should disclose more resources to this project.",
+        "D": "She disclose her appointment to arrive on time."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Select the correct definition of 'harassment':",
+      "options": {
+        "A": "Formal recognition of achievement or status",
+        "B": "Behavior that annoys or upsets someone, especially repeatedly",
+        "C": "A legal agreement between two or more parties",
+        "D": "The process of moving to a different country to live there"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Which sentence uses the word 'luxury' correctly?",
+      "options": {
+        "A": "The hotel luxury its guests with exceptional service.",
+        "B": "They luxury in the expensive neighborhood last year.",
+        "C": "She could not luxury the time to take a vacation.",
+        "D": "In today's fast-paced world, free time is a luxury many cannot afford."
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Choose the correct phrasal verb: 'The meeting was _____ due to bad weather.'",
+      "options": {
+        "A": "called out",
+        "B": "called off",
+        "C": "called away",
+        "D": "called for"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 32,
+      "question": "Select the correct idiom to complete the sentence: 'I'm not sure if I should accept the job offer. I think I'll sleep _____ before making a decision.'",
+      "options": {
+        "A": "on it",
+        "B": "over it",
+        "C": "through it",
+        "D": "about it"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 33,
+      "question": "Choose the correct collocation: 'The government has decided to _____ tax on luxury goods.'",
+      "options": {
+        "A": "raise",
+        "B": "lift",
+        "C": "heighten",
+        "D": "grow"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 34,
+      "question": "Select the appropriate connector: 'He studied very hard; _____, he failed the exam.'",
+      "options": {
+        "A": "therefore",
+        "B": "nevertheless",
+        "C": "furthermore",
+        "D": "meanwhile"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 35,
+      "question": "Choose the correct expression: 'I'm sorry for the delay. We'll _____ as soon as possible.'",
+      "options": {
+        "A": "get back to you",
+        "B": "get up to you",
+        "C": "get over to you",
+        "D": "get around you"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 36,
+      "question": "Select the correct form: '_____ your help, we wouldn't have finished the project on time.'",
+      "options": {
+        "A": "Except for",
+        "B": "Apart from",
+        "C": "Without",
+        "D": "Besides"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 37,
+      "question": "Choose the correct phrasal verb: 'The company has decided to _____ production of its oldest model.'",
+      "options": {
+        "A": "phase out",
+        "B": "phase in",
+        "C": "phase up",
+        "D": "phase down"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 38,
+      "question": "Select the appropriate response to 'Would you mind closing the window?'",
+      "options": {
+        "A": "Yes, I do.",
+        "B": "No, not at all.",
+        "C": "Yes, please.",
+        "D": "No, you can't."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 39,
+      "question": "Choose the correct preposition: 'The new policy is ____ line with industry standards.'",
+      "options": {
+        "A": "at",
+        "B": "on",
+        "C": "in",
+        "D": "by"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 40,
+      "question": "Select the correct collocation: 'The director will _____ a decision after reviewing all the evidence.'",
+      "options": {
+        "A": "do",
+        "B": "make",
+        "C": "take",
+        "D": "have"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, urban green spaces primarily serve as:",
+      "options": {
+        "A": "Tourist attractions",
+        "B": "Property value enhancers",
+        "C": "Environmental and recreational resources",
+        "D": "Historical landmarks"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following is NOT mentioned as a psychological benefit of urban green spaces in paragraph 2?",
+      "options": {
+        "A": "Reduced stress levels",
+        "B": "Improved mental health",
+        "C": "Enhanced cognitive function",
+        "D": "Increased social interactions"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, urban green spaces help mitigate the urban heat island effect by:",
+      "options": {
+        "A": "Creating microclimates that moderate temperature extremes",
+        "B": "Reducing the use of air conditioning in buildings",
+        "C": "Eliminating the need for concrete and asphalt",
+        "D": "Increasing rainfall in urban areas"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Based on paragraph 4, which economic benefit of urban green spaces is directly related to public health?",
+      "options": {
+        "A": "Increased property values",
+        "B": "Tourism attraction",
+        "C": "Reduced healthcare costs through physical activity",
+        "D": "Employment opportunities in maintenance"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Which innovative approach to urban green spaces is mentioned in paragraph 5?",
+      "options": {
+        "A": "Underground parks",
+        "B": "Floating gardens",
+        "C": "Vertical gardens",
+        "D": "Desert landscaping"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "The author's main purpose in this passage is to:",
+      "options": {
+        "A": "Compare different types of urban green spaces",
+        "B": "Highlight the importance of green spaces in urban planning",
+        "C": "Criticize current approaches to city development",
+        "D": "Propose specific solutions to urban environmental problems"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to the passage, what happens to properties located near parks?",
+      "options": {
+        "A": "They become difficult to sell",
+        "B": "They require more maintenance",
+        "C": "They command higher prices",
+        "D": "They attract more crime"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "In paragraph 5, the author suggests that green spaces in urban planning are:",
+      "options": {
+        "A": "Becoming less important as cities modernize",
+        "B": "Easy to implement in expanding cities",
+        "C": "Essential components rather than luxury amenities",
+        "D": "Primarily valuable for aesthetic reasons"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "The passage implies that urban green spaces contribute to community cohesion by:",
+      "options": {
+        "A": "Providing venues for community events",
+        "B": "Increasing property values",
+        "C": "Creating maintenance jobs",
+        "D": "Filtering air pollutants"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "Which statement best summarizes the ecological value of urban green spaces as described in the passage?",
+      "options": {
+        "A": "They primarily serve as decorative elements in cities",
+        "B": "They provide habitats for biodiversity and improve environmental resilience",
+        "C": "They are mainly important for reducing noise pollution",
+        "D": "Their ecological benefits are minimal compared to their social benefits"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
