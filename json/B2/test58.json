@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The Industrial Revolution, which began in Britain in the late 18th century and spread throughout Europe and North America in the 19th century, marked a pivotal transition in human history. Prior to this transformation, most people lived in rural communities, working primarily in agriculture or small-scale manufacturing conducted in homes. The advent of mechanized production systems fundamentally altered not only how goods were produced but also how societies were structured, creating ripple effects that continue to influence our modern world.<br><br>(2) At the heart of the Industrial Revolution was a series of technological innovations that dramatically increased production efficiency. The development of the steam engine by James Watt in 1769 provided a powerful new energy source that could drive machinery in factories, power locomotives, and propel ships. Textile innovations like the spinning jenny, water frame, and power loom mechanized cloth production, enabling manufacturers to produce fabrics at unprecedented speed and scale. Later advances in iron production, chemical manufacturing, and electricity further accelerated industrial development, creating entirely new industries and opportunities.<br><br>(3) These technological changes led to profound economic transformations. The factory system emerged as the dominant mode of production, with workers congregating in centralized locations rather than producing goods in their homes. This shift increased productivity tremendously but also created new class divisions between factory owners and wage laborers. Economic growth accelerated dramatically, with industrial output increasing exponentially compared to pre-industrial times. International trade expanded as nations specialized in specific industrial goods and sought new markets and raw materials, laying the groundwork for modern global economic systems.<br><br>(4) Society underwent equally dramatic changes as populations shifted from rural areas to rapidly growing urban centers near factories. Cities expanded at unprecedented rates, often without adequate housing, sanitation, or infrastructure, creating serious social problems. Working conditions in early factories were frequently harsh, with long hours, dangerous machinery, and minimal safety regulations. These conditions eventually gave rise to labor movements and calls for reform. Simultaneously, a growing middle class emerged, consisting of professionals, managers, and business owners who benefited from industrial expansion without facing the hardships of factory work.<br><br>(5) The legacy of the Industrial Revolution extends far beyond economics and technology. It fundamentally altered humanity's relationship with the natural environment, initiating large-scale resource extraction and environmental pollution that continues today. It transformed family structures and gender roles as work increasingly took place outside the home. Educational systems evolved to meet the needs of industrialized societies, emphasizing literacy, technical knowledge, and specialized skills. Perhaps most significantly, industrialization established patterns of technological innovation and economic growth that continue to drive societal change in our increasingly interconnected global civilization.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "She _____ in that company for five years before she decided to change her career path.",
+      "options": {
+        "A": "has worked",
+        "B": "had worked",
+        "C": "was working",
+        "D": "worked"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "If the government _____ more resources into public transport, our cities would be less congested.",
+      "options": {
+        "A": "invests",
+        "B": "invested",
+        "C": "would invest",
+        "D": "will invest"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "By the time we arrive at the theater, the play _____ already.",
+      "options": {
+        "A": "will start",
+        "B": "starts",
+        "C": "will have started",
+        "D": "is starting"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "The professor suggested that each student _____ their own research topic.",
+      "options": {
+        "A": "chooses",
+        "B": "choose",
+        "C": "chosen",
+        "D": "choosing"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "I'd rather you _____ me the truth yesterday instead of making up a story.",
+      "options": {
+        "A": "told",
+        "B": "tell",
+        "C": "had told",
+        "D": "would tell"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "She _____ to the cinema last night, but she changed her mind and stayed home instead.",
+      "options": {
+        "A": "must have gone",
+        "B": "should go",
+        "C": "was going to go",
+        "D": "might go"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Neither the students nor the teacher _____ able to solve the complex equation.",
+      "options": {
+        "A": "were",
+        "B": "was",
+        "C": "are",
+        "D": "is"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "They _____ the renovation of the building by the end of next month.",
+      "options": {
+        "A": "will complete",
+        "B": "are completing",
+        "C": "will have completed",
+        "D": "complete"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "I wish I _____ how to swim when I was younger; it would have been useful during our beach vacation.",
+      "options": {
+        "A": "knew",
+        "B": "know",
+        "C": "had known",
+        "D": "would know"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "The new policy, which _____ introduced last month, has already had a positive impact.",
+      "options": {
+        "A": "is",
+        "B": "was",
+        "C": "has been",
+        "D": "had been"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Not only _____ the exam, but she also received the highest score in the class.",
+      "options": {
+        "A": "she passed",
+        "B": "did she pass",
+        "C": "she did pass",
+        "D": "passed she"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "The company _____ its profits double in the last quarter due to the new marketing strategy.",
+      "options": {
+        "A": "has seen",
+        "B": "was seeing",
+        "C": "sees",
+        "D": "had seen"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "_____ the instructions carefully before attempting to assemble the furniture.",
+      "options": {
+        "A": "Reading",
+        "B": "Read",
+        "C": "To read",
+        "D": "Having read"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "By the time we graduate, we _____ over twenty courses in total.",
+      "options": {
+        "A": "will complete",
+        "B": "will have completed",
+        "C": "are completing",
+        "D": "complete"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "The concert for which they _____ tickets was unexpectedly canceled due to bad weather.",
+      "options": {
+        "A": "have bought",
+        "B": "buy",
+        "C": "had bought",
+        "D": "bought"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "The company's new policy came _____ effect immediately after the announcement.",
+      "options": {
+        "A": "to",
+        "B": "into",
+        "C": "with",
+        "D": "on"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "The speaker made several valid points, _____ the need for immediate action.",
+      "options": {
+        "A": "in particular",
+        "B": "specially",
+        "C": "especially",
+        "D": "particularly"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "After the accident, it took him several months to fully _____ from his injuries.",
+      "options": {
+        "A": "retrieve",
+        "B": "recover",
+        "C": "return",
+        "D": "restore"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "We had to _____ our plans due to the unexpected weather forecast.",
+      "options": {
+        "A": "alter",
+        "B": "alternate",
+        "C": "adjust",
+        "D": "move"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "The government has implemented new measures to _____ with the economic crisis.",
+      "options": {
+        "A": "manage",
+        "B": "handle",
+        "C": "deal",
+        "D": "solve"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "The professor _____ emphasis on critical thinking in her lectures.",
+      "options": {
+        "A": "makes",
+        "B": "does",
+        "C": "puts",
+        "D": "gives"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "After considering all options, we came _____ the conclusion that the original plan was best.",
+      "options": {
+        "A": "on",
+        "B": "to",
+        "C": "with",
+        "D": "at"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Could you please _____ me a favor and forward this email to the team?",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "give",
+        "D": "take"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "The committee will _____ a decision about the proposal by next week.",
+      "options": {
+        "A": "take",
+        "B": "make",
+        "C": "do",
+        "D": "have"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "She managed to _____ her fears and speak confidently in front of the large audience.",
+      "options": {
+        "A": "overcome",
+        "B": "overtake",
+        "C": "overdo",
+        "D": "overlook"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "The government has introduced new _____ to improve public health services.",
+      "options": {
+        "A": "initiatives",
+        "B": "innovations",
+        "C": "inventions",
+        "D": "intentions"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "His _____ to detail made him an excellent editor for the newspaper.",
+      "options": {
+        "A": "attention",
+        "B": "focus",
+        "C": "concentration",
+        "D": "observation"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "The company's profits have shown a steady _____ over the past five years.",
+      "options": {
+        "A": "rise",
+        "B": "raising",
+        "C": "raise",
+        "D": "risen"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "The new technology has _____ many traditional methods of manufacturing.",
+      "options": {
+        "A": "replaced",
+        "B": "removed",
+        "C": "disposed",
+        "D": "dismissed"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "The unexpected storm caused _____ damage to the coastal areas.",
+      "options": {
+        "A": "significant",
+        "B": "many",
+        "C": "high",
+        "D": "plenty"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "The journalist wrote a _____ account of the historical events he had witnessed.",
+      "options": {
+        "A": "credible",
+        "B": "believable",
+        "C": "comprehensive",
+        "D": "full"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "The scientist made a groundbreaking _____ that changed our understanding of human genetics.",
+      "options": {
+        "A": "invention",
+        "B": "innovation",
+        "C": "discovery",
+        "D": "finding"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "The politician's speech was criticized for being too _____ and lacking specific details.",
+      "options": {
+        "A": "ambiguous",
+        "B": "vague",
+        "C": "unclear",
+        "D": "indefinite"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "The documentary provides a fascinating _____ into the lives of deep-sea creatures.",
+      "options": {
+        "A": "sight",
+        "B": "view",
+        "C": "insight",
+        "D": "vision"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Despite facing numerous challenges, she remained _____ in her pursuit of success.",
+      "options": {
+        "A": "persistent",
+        "B": "consistent",
+        "C": "insistent",
+        "D": "resistant"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "The company offers employees various _____ such as flexible working hours and health insurance.",
+      "options": {
+        "A": "profits",
+        "B": "benefits",
+        "C": "advantages",
+        "D": "gains"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "The research team conducted a _____ study involving thousands of participants.",
+      "options": {
+        "A": "widespread",
+        "B": "comprehensive",
+        "C": "extensive",
+        "D": "broad"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "The apartment is in an ideal _____, close to both the city center and the park.",
+      "options": {
+        "A": "place",
+        "B": "position",
+        "C": "location",
+        "D": "spot"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "The novel's protagonist undergoes a significant _____ as the story progresses.",
+      "options": {
+        "A": "change",
+        "B": "transformation",
+        "C": "alteration",
+        "D": "modification"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "The mountain climbers had to _____ their expedition due to severe weather conditions.",
+      "options": {
+        "A": "cancel",
+        "B": "abandon",
+        "C": "quit",
+        "D": "desert"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, before the Industrial Revolution, most manufacturing was done:",
+      "options": {
+        "A": "in factories",
+        "B": "in homes",
+        "C": "in urban centers",
+        "D": "by machines"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "What does the author identify as the \"heart of the Industrial Revolution\"?",
+      "options": {
+        "A": "Economic growth",
+        "B": "Urban development",
+        "C": "Technological innovations",
+        "D": "Social transformations"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "Which of the following was NOT mentioned as an early technological innovation of the Industrial Revolution?",
+      "options": {
+        "A": "The steam engine",
+        "B": "The spinning jenny",
+        "C": "The telephone",
+        "D": "The power loom"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to paragraph 3, the factory system led to:",
+      "options": {
+        "A": "decreased productivity",
+        "B": "greater equality between workers",
+        "C": "new class divisions",
+        "D": "reduced international trade"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What problem is associated with rapid urban growth during the Industrial Revolution?",
+      "options": {
+        "A": "Inadequate infrastructure",
+        "B": "Decreased economic activity",
+        "C": "Reduced factory production",
+        "D": "Slower technological innovation"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "The passage suggests that labor movements arose primarily in response to:",
+      "options": {
+        "A": "technological innovation",
+        "B": "poor working conditions",
+        "C": "increased international trade",
+        "D": "urban population growth"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to the passage, the middle class that emerged during the Industrial Revolution consisted of:",
+      "options": {
+        "A": "factory workers",
+        "B": "rural farmers",
+        "C": "professionals and business owners",
+        "D": "environmental activists"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The passage indicates that the Industrial Revolution affected all of the following EXCEPT:",
+      "options": {
+        "A": "educational systems",
+        "B": "gender roles",
+        "C": "religious practices",
+        "D": "environmental conditions"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "The author's primary purpose in writing this passage is to:",
+      "options": {
+        "A": "criticize the negative effects of industrialization",
+        "B": "present a balanced overview of the Industrial Revolution's impact",
+        "C": "argue that technological innovation is always beneficial",
+        "D": "compare pre-industrial and post-industrial economic systems"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "Which of the following best represents the author's conclusion about the Industrial Revolution?",
+      "options": {
+        "A": "It was primarily a European phenomenon with limited global impact",
+        "B": "Its effects were mostly economic with few social consequences",
+        "C": "It established patterns of change that continue to influence modern civilization",
+        "D": "Its environmental impacts have been successfully addressed in modern times"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
