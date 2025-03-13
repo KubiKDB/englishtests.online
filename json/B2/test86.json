@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The world's oceans cover approximately 71% of Earth's surface and play a crucial role in regulating global climate patterns. These vast bodies of water act as enormous heat reservoirs, absorbing solar radiation and storing it more effectively than land. This thermal capacity allows oceans to moderate temperature extremes, creating more stable climate conditions in coastal regions compared to inland areas at similar latitudes. The temperature difference between water and land also drives atmospheric circulation patterns that distribute heat and moisture around the planet, influencing weather systems on both local and global scales.<br><br>(2) Ocean currents serve as the planet's climate conveyor belts, transporting warm water from tropical regions toward the poles and cold water from polar regions toward the equator. The Gulf Stream, perhaps the most famous of these currents, carries warm water from the Gulf of Mexico across the Atlantic Ocean to Western Europe. This current alone is responsible for keeping parts of Northern Europe significantly warmer than other regions at similar latitudes. For instance, the city of Oslo in Norway experiences much milder winters than locations in Alaska or Canada that lie at the same distance from the equator, demonstrating the profound impact ocean currents have on regional climates.<br><br>(3) Beyond temperature regulation, oceans critically influence precipitation patterns worldwide. The process of evaporation from ocean surfaces provides approximately 86% of the Earth's atmospheric moisture, which eventually falls as rain or snow. Phenomena such as El Niño and La Niña—cyclical changes in Pacific Ocean temperatures—dramatically alter global precipitation patterns, causing droughts in some regions while triggering floods in others. These fluctuations in ocean temperatures can lead to devastating consequences for agriculture, water supplies, and ecosystems across continents, highlighting the interconnectedness of oceanic and atmospheric systems.<br><br>(4) The oceans also play a vital role in carbon sequestration, absorbing approximately 30% of human-produced carbon dioxide emissions. This carbon dioxide dissolves in seawater, forming carbonic acid and eventually becoming incorporated into marine organisms or sediments. However, this absorption comes at a cost: increasing carbon dioxide levels are leading to ocean acidification, threatening marine ecosystems and potentially altering ocean circulation patterns. Changes in these circulation patterns could significantly disrupt the climate regulation services that oceans provide, potentially accelerating global climate change.<br><br>(5) As climate change progresses, marine heatwaves are becoming more frequent and intense, disrupting established ocean temperature patterns. These shifts affect not only marine life but also weather patterns on land. Rising sea levels, another consequence of warming oceans, threaten coastal communities and ecosystems worldwide. Understanding the complex relationship between oceans and climate is therefore crucial for predicting future climate scenarios and developing effective adaptation strategies. The oceans' influence extends far beyond their shores, making their health and stability essential components of global climate resilience.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "I wish I _____ about the traffic before I left home.",
+      "options": {
+        "A": "knew",
+        "B": "had known",
+        "C": "have known",
+        "D": "would know"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "By the time we reach the theater, the movie _____ for twenty minutes.",
+      "options": {
+        "A": "will be running",
+        "B": "will run",
+        "C": "runs",
+        "D": "is running"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "She _____ her phone everywhere yesterday, but she couldn't find it.",
+      "options": {
+        "A": "looked",
+        "B": "was looking for",
+        "C": "has been looking for",
+        "D": "had been looking for"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "If you _____ harder, you would have passed the exam.",
+      "options": {
+        "A": "studied",
+        "B": "had studied",
+        "C": "would study",
+        "D": "study"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "I'd rather you _____ tell anyone about what happened last night.",
+      "options": {
+        "A": "don't",
+        "B": "won't",
+        "C": "didn't",
+        "D": "wouldn't"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "She suggested that he _____ a lawyer before signing the contract.",
+      "options": {
+        "A": "consult",
+        "B": "consults",
+        "C": "consulted",
+        "D": "would consult"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "_____ to confirm your attendance by Friday, please contact us immediately.",
+      "options": {
+        "A": "Should you fail",
+        "B": "You should fail",
+        "C": "If you failing",
+        "D": "Would you fail"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "The report, along with the supporting documents, _____ sent to the committee yesterday.",
+      "options": {
+        "A": "were",
+        "B": "was",
+        "C": "have been",
+        "D": "are"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Not only _____ late, but he also forgot to bring the presentation.",
+      "options": {
+        "A": "he was",
+        "B": "was he",
+        "C": "has he been",
+        "D": "he has been"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "The company denied _____ any knowledge of the faulty products.",
+      "options": {
+        "A": "having",
+        "B": "to have",
+        "C": "have",
+        "D": "has"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "It's high time we _____ about finding a new apartment.",
+      "options": {
+        "A": "think",
+        "B": "thought",
+        "C": "are thinking",
+        "D": "will think"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "She _____ working there for five years when the company closed down.",
+      "options": {
+        "A": "has been",
+        "B": "would be",
+        "C": "had been",
+        "D": "was"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "I'll lend you the book _____ you promise to return it next week.",
+      "options": {
+        "A": "if",
+        "B": "unless",
+        "C": "provided that",
+        "D": "as though"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "The CEO, as well as his assistants, _____ expected to attend the conference.",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "have been"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Many tourists _____ the museum by the time we arrived.",
+      "options": {
+        "A": "had already visited",
+        "B": "have already visited",
+        "C": "already visited",
+        "D": "would already visit"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "After months of training, the athlete was in _____ shape for the competition.",
+      "options": {
+        "A": "high",
+        "B": "prime",
+        "C": "upper",
+        "D": "maximum"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "The negotiations have reached a(n) _____ point, and both sides need to compromise.",
+      "options": {
+        "A": "critical",
+        "B": "essential",
+        "C": "vital",
+        "D": "fundamental"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Despite the economic downturn, the company has managed to _____ afloat.",
+      "options": {
+        "A": "stay",
+        "B": "remain",
+        "C": "hold",
+        "D": "keep"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "The police are _____ into the disappearance of several valuable paintings.",
+      "options": {
+        "A": "researching",
+        "B": "examining",
+        "C": "investigating",
+        "D": "studying"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Could you _____ an eye on my luggage while I go to the restroom?",
+      "options": {
+        "A": "maintain",
+        "B": "keep",
+        "C": "hold",
+        "D": "watch"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "The new restaurant has really _____ off since it opened last month.",
+      "options": {
+        "A": "taken",
+        "B": "gone",
+        "C": "moved",
+        "D": "set"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "The company decided to _____ down on unnecessary expenses.",
+      "options": {
+        "A": "cut",
+        "B": "bring",
+        "C": "put",
+        "D": "take"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "The government has implemented measures to _____ with the increasing pollution.",
+      "options": {
+        "A": "deal",
+        "B": "handle",
+        "C": "manage",
+        "D": "control"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "She _____ the blame for the mistake, even though it wasn't her fault.",
+      "options": {
+        "A": "accepted",
+        "B": "took",
+        "C": "received",
+        "D": "obtained"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "We need to _____ into account all possible outcomes before making a decision.",
+      "options": {
+        "A": "bring",
+        "B": "put",
+        "C": "take",
+        "D": "hold"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "The company's profits have shown a significant _____ over the past year.",
+      "options": {
+        "A": "increase",
+        "B": "addition",
+        "C": "rise",
+        "D": "growth"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "The scientist made a groundbreaking _____ that could revolutionize cancer treatment.",
+      "options": {
+        "A": "finding",
+        "B": "discovery",
+        "C": "invention",
+        "D": "innovation"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "The documentary provides _____ insight into the lives of marine animals.",
+      "options": {
+        "A": "valuable",
+        "B": "worthy",
+        "C": "meaningful",
+        "D": "significant"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "The politician's speech was criticized for being too _____ and lacking concrete proposals.",
+      "options": {
+        "A": "ambiguous",
+        "B": "vague",
+        "C": "unclear",
+        "D": "imprecise"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "The team's _____ to succeed was evident in their rigorous training schedule.",
+      "options": {
+        "A": "willingness",
+        "B": "determination",
+        "C": "dedication",
+        "D": "commitment"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "The university offers a wide _____ of courses in environmental science.",
+      "options": {
+        "A": "variety",
+        "B": "selection",
+        "C": "range",
+        "D": "diversity"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "The new tax regulations have caused _____ among small business owners.",
+      "options": {
+        "A": "concern",
+        "B": "worry",
+        "C": "anxiety",
+        "D": "discomfort"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "The government has implemented strict measures to _____ the spread of the virus.",
+      "options": {
+        "A": "limit",
+        "B": "decrease",
+        "C": "contain",
+        "D": "restrict"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "The ancient artifacts provide valuable _____ into the civilization's daily life.",
+      "options": {
+        "A": "insight",
+        "B": "perception",
+        "C": "outlook",
+        "D": "viewpoint"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "The company's decision to expand was based on thorough market _____.",
+      "options": {
+        "A": "research",
+        "B": "analysis",
+        "C": "investigation",
+        "D": "study"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "The artist's works are known for their _____ detail and vibrant colors.",
+      "options": {
+        "A": "intricate",
+        "B": "elaborate",
+        "C": "complex",
+        "D": "sophisticated"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "The new policy aims to _____ equality in the workplace.",
+      "options": {
+        "A": "advance",
+        "B": "promote",
+        "C": "further",
+        "D": "encourage"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "The report highlights the _____ importance of renewable energy sources.",
+      "options": {
+        "A": "crucial",
+        "B": "vital",
+        "C": "essential",
+        "D": "critical"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "The witness gave a _____ description of the events leading up to the accident.",
+      "options": {
+        "A": "comprehensive",
+        "B": "thorough",
+        "C": "complete",
+        "D": "detailed"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "The novel's _____ ending left readers eager for a sequel.",
+      "options": {
+        "A": "intriguing",
+        "B": "fascinating",
+        "C": "appealing",
+        "D": "engaging"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, why do coastal regions typically have more stable climate conditions?",
+      "options": {
+        "A": "Because they receive more rainfall than inland areas",
+        "B": "Because oceans absorb and store heat more effectively than land",
+        "C": "Because coastal regions have more vegetation",
+        "D": "Because atmospheric circulation is stronger near coastlines"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "What role do ocean currents play in global climate, according to paragraph 2?",
+      "options": {
+        "A": "They create storms and hurricanes",
+        "B": "They transport heat between different regions of the Earth",
+        "C": "They prevent climate change",
+        "D": "They cause seasonal temperature variations"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "Which of the following is NOT mentioned as an effect of El Niño and La Niña in paragraph 3?",
+      "options": {
+        "A": "Changes in precipitation patterns",
+        "B": "Droughts",
+        "C": "Tsunamis",
+        "D": "Floods"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to paragraph 4, what percentage of human-produced carbon dioxide is absorbed by the oceans?",
+      "options": {
+        "A": "71%",
+        "B": "86%",
+        "C": "30%",
+        "D": "50%"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What is a negative consequence of oceans absorbing carbon dioxide, as mentioned in paragraph 4?",
+      "options": {
+        "A": "Reduced marine biodiversity",
+        "B": "Ocean acidification",
+        "C": "Reduced oxygen levels in the atmosphere",
+        "D": "Warming of ocean waters"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "Based on paragraph 5, marine heatwaves are:",
+      "options": {
+        "A": "Decreasing in frequency due to climate change",
+        "B": "Only affecting marine ecosystems",
+        "C": "Becoming more frequent and intense",
+        "D": "Limited to tropical regions"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "The main purpose of this passage is to:",
+      "options": {
+        "A": "Warn about the dangers of climate change",
+        "B": "Explain how oceans influence global climate patterns",
+        "C": "Compare different ocean currents",
+        "D": "Describe marine ecosystems"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The word \"profound\" in paragraph 2 is closest in meaning to:",
+      "options": {
+        "A": "Deep",
+        "B": "Significant",
+        "C": "Mysterious",
+        "D": "Complicated"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to the passage, which of the following is true about the Gulf Stream?",
+      "options": {
+        "A": "It carries cold water from Europe to North America",
+        "B": "It is responsible for keeping Western Europe warmer than expected",
+        "C": "It causes droughts in Northern Europe",
+        "D": "It is the only major ocean current affecting climate"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What can be inferred from the passage about the relationship between oceans and global climate resilience?",
+      "options": {
+        "A": "Ocean health is unrelated to climate stability",
+        "B": "Maintaining ocean health is essential for global climate stability",
+        "C": "Oceans will automatically adapt to climate change",
+        "D": "Rising sea levels will create new marine ecosystems"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
