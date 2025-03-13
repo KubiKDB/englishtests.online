@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Antibiotic resistance has emerged as one of the most pressing global health challenges of the 21st century. When antibiotics were first discovered in the 1940s, they revolutionized medicine by providing effective treatments for previously deadly infections. However, over decades of use, many bacteria have evolved to withstand the effects of these once-powerful drugs, creating what health officials now call 'superbugs' – bacteria that cannot be killed by multiple types of antibiotics.<br><br>(2) Several factors have contributed to this growing crisis. The most significant cause is the overuse and misuse of antibiotics in both human healthcare and agriculture. Many patients receive antibiotics for viral infections like colds and flu, against which these drugs have no effect. Meanwhile, in many countries, antibiotics are routinely added to animal feed to promote growth and prevent disease in livestock, creating perfect conditions for resistant bacteria to develop and spread.<br><br>(3) The consequences of antibiotic resistance are already evident worldwide. Common infections that were once easily treatable now require stronger medications, longer hospital stays, or may not respond to treatment at all. Medical procedures that rely on antibiotics to prevent infection – such as surgeries and cancer treatments – become significantly more dangerous when these drugs lose effectiveness. The World Health Organization estimates that by 2050, drug-resistant infections could claim 10 million lives annually if current trends continue.<br><br>(4) Addressing this crisis requires a coordinated global response across multiple sectors. Healthcare providers must improve antibiotic stewardship by prescribing these medications only when necessary and ensuring patients complete their full course of treatment. Agricultural practices need reform to eliminate the routine use of antibiotics in healthy animals. Pharmaceutical companies require incentives to develop new antibiotics, as the current market provides limited financial return on these investments.<br><br>(5) Perhaps most importantly, public awareness and education about antibiotic resistance must increase. Many people still believe antibiotics should be taken for any infection, unaware of the potential harm of inappropriate use. By understanding that antibiotics are precious resources that must be preserved, individuals can make better healthcare decisions and support policies that protect these vital medicines for future generations. Only through combined efforts at individual, community, and global levels can we hope to slow the advance of antibiotic resistance and maintain the effectiveness of these life-saving drugs.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which form of the verb is correct? She _____ in this company since 2010.",
+      "options": {
+        "A": "works",
+        "B": "has been working",
+        "C": "is working",
+        "D": "was working"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct conditional sentence: If I _____ earlier, I wouldn't have missed the train.",
+      "options": {
+        "A": "left",
+        "B": "have left",
+        "C": "had left",
+        "D": "would leave"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the correct passive voice: The report _____ by next Monday.",
+      "options": {
+        "A": "will complete",
+        "B": "will be completing",
+        "C": "will have been completed",
+        "D": "is completed"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence contains a gerund?",
+      "options": {
+        "A": "She wants to travel next summer.",
+        "B": "Swimming is his favorite activity.",
+        "C": "They walked to the station.",
+        "D": "He seems tired today."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Select the correct relative pronoun: The woman _____ car was stolen reported it to the police.",
+      "options": {
+        "A": "who",
+        "B": "whom",
+        "C": "whose",
+        "D": "which"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Choose the correct comparative form: This problem is _____ than we initially thought.",
+      "options": {
+        "A": "more complicated",
+        "B": "complicateder",
+        "C": "more complicating",
+        "D": "the most complicated"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which sentence uses the correct article?",
+      "options": {
+        "A": "She's studying at an university in London.",
+        "B": "He plays a guitar in his free time.",
+        "C": "They went to the United States last year.",
+        "D": "We need a umbrella because it's raining."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Identify the correct phrasal verb: The meeting has been _____ until next week.",
+      "options": {
+        "A": "put off",
+        "B": "put down",
+        "C": "put out",
+        "D": "put away"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Select the correct modal verb: You _____ have told me about the change in plans.",
+      "options": {
+        "A": "can",
+        "B": "may",
+        "C": "should",
+        "D": "would"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence contains a correct subject-verb agreement?",
+      "options": {
+        "A": "The number of students in the class are increasing.",
+        "B": "Neither of the candidates have withdrawn from the race.",
+        "C": "Each of the participants was given a certificate.",
+        "D": "The committee are divided on this issue."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct form of the reported speech: He said, 'I am leaving tomorrow.' He said that he _____ the following day.",
+      "options": {
+        "A": "is leaving",
+        "B": "was leaving",
+        "C": "leaves",
+        "D": "had left"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the correct tense: By the time we arrived, the movie _____.",
+      "options": {
+        "A": "already started",
+        "B": "has already started",
+        "C": "had already started",
+        "D": "was already starting"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct clause: _____ it was raining, we decided to go for a walk.",
+      "options": {
+        "A": "Although",
+        "B": "Because",
+        "C": "Unless",
+        "D": "As if"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Identify the sentence with the correct preposition: She is interested _____ pursuing a career in medicine.",
+      "options": {
+        "A": "for",
+        "B": "with",
+        "C": "by",
+        "D": "in"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the sentence with the correct order of adjectives:",
+      "options": {
+        "A": "She bought a leather beautiful old jacket.",
+        "B": "She bought an old beautiful leather jacket.",
+        "C": "She bought a beautiful old leather jacket.",
+        "D": "She bought an old leather beautiful jacket."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct word to complete the sentence: The experiment was designed to _____ the effects of sleep deprivation on cognitive function.",
+      "options": {
+        "A": "measure",
+        "B": "take",
+        "C": "do",
+        "D": "make"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the correct collocation: The company needs to _____ a decision about the new project soon.",
+      "options": {
+        "A": "do",
+        "B": "make",
+        "C": "take",
+        "D": "have"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct fixed expression: The negotiations were successful, and we managed to reach a compromise _____ the last minute.",
+      "options": {
+        "A": "in",
+        "B": "at",
+        "C": "on",
+        "D": "by"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Select the correct idiomatic expression: After the scandal, the CEO decided to _____ and resigned from his position.",
+      "options": {
+        "A": "throw in the towel",
+        "B": "hit the roof",
+        "C": "pull someone's leg",
+        "D": "bite the bullet"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct form: Despite her young age, she shows remarkable _____ when dealing with difficult situations.",
+      "options": {
+        "A": "mature",
+        "B": "maturely",
+        "C": "maturity",
+        "D": "matureness"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the appropriate linking word: The project was completed on time, _____, it exceeded our quality expectations.",
+      "options": {
+        "A": "however",
+        "B": "moreover",
+        "C": "therefore",
+        "D": "nevertheless"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct phrasal verb: The company had to _____ several employees due to financial difficulties.",
+      "options": {
+        "A": "lay out",
+        "B": "lay off",
+        "C": "lay down",
+        "D": "lay up"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the correct expression: The new policy will _____ effect next month.",
+      "options": {
+        "A": "take",
+        "B": "make",
+        "C": "do",
+        "D": "get"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct register for a formal email: _____ I am writing to inquire about the position advertised on your website.",
+      "options": {
+        "A": "Hi there,",
+        "B": "Hey,",
+        "C": "Dear Sir/Madam,",
+        "D": "What's up,"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the correct binomial expression: The children were running _____ in the playground.",
+      "options": {
+        "A": "up and down",
+        "B": "back and forth",
+        "C": "in and out",
+        "D": "here and there"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the correct definition of 'dominant':",
+      "options": {
+        "A": "Having control or influence over others",
+        "B": "Occurring very rarely",
+        "C": "Moving very quickly",
+        "D": "Being extremely cautious"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Which sentence uses 'amendment' correctly?",
+      "options": {
+        "A": "The soil amendment improved the garden's fertility.",
+        "B": "She made an amendment to her collection of stamps.",
+        "C": "Their amendment was delayed by bad weather.",
+        "D": "The professor gave a brilliant amendment during the lecture."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Select the correct usage of 'acknowledge':",
+      "options": {
+        "A": "They acknowledge the package would arrive next week.",
+        "B": "The company acknowledged receipt of our complaint.",
+        "C": "We acknowledge the restaurant for lunch tomorrow.",
+        "D": "She acknowledged the book on the shelf."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which word is most similar in meaning to 'considerable'?",
+      "options": {
+        "A": "Insignificant",
+        "B": "Careful",
+        "C": "Substantial",
+        "D": "Timely"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the sentence that uses 'characteristic' correctly:",
+      "options": {
+        "A": "The storm characteristics for several hours before moving offshore.",
+        "B": "He showed characteristic determination in finishing the race despite his injury.",
+        "C": "They characteristic the new product as innovative.",
+        "D": "The team characteristic a strategy for the upcoming competition."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Which is the best definition of 'contrary'?",
+      "options": {
+        "A": "In agreement with",
+        "B": "Similar to",
+        "C": "Opposite to",
+        "D": "Adjacent to"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Select the sentence that uses 'permanent' correctly:",
+      "options": {
+        "A": "The exhibition will be permanent for two weeks only.",
+        "B": "She got a permanent job after working as a temporary employee for a year.",
+        "C": "They permanent the furniture in the dining room.",
+        "D": "The shirt permanent after being washed."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Choose the best definition of 'minority':",
+      "options": {
+        "A": "The greater part of a group",
+        "B": "The smallest possible amount",
+        "C": "A group that forms less than half of a larger group",
+        "D": "A unanimous agreement"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Select the sentence that uses 'compensation' correctly:",
+      "options": {
+        "A": "The company compensation new staff every month.",
+        "B": "She received compensation for the damage to her property.",
+        "C": "They compensation the results of the study.",
+        "D": "The teacher compensation the students' work."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Which word is closest in meaning to 'assumption'?",
+      "options": {
+        "A": "Question",
+        "B": "Supposition",
+        "C": "Rejection",
+        "D": "Calculation"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Choose the sentence that uses 'inevitable' correctly:",
+      "options": {
+        "A": "The team inevitable a new strategy for the game.",
+        "B": "They inevitable the consequences of their actions.",
+        "C": "Conflict seemed inevitable given the circumstances.",
+        "D": "She inevitable her work before the deadline."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Select the correct definition of 'neutral':",
+      "options": {
+        "A": "Taking a strong position on one side",
+        "B": "Not supporting either side in a conflict",
+        "C": "Extremely positive in outlook",
+        "D": "Highly emotional or reactive"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Which sentence uses 'revolutionary' correctly?",
+      "options": {
+        "A": "The new medication had revolutionary effects on the patient's health.",
+        "B": "They revolutionary the old system with a new one.",
+        "C": "She revolutionary three times before making a decision.",
+        "D": "The car revolutionary around the corner."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Choose the best definition of 'proportion':",
+      "options": {
+        "A": "The complete amount of something",
+        "B": "A comparative relationship between parts and whole",
+        "C": "A predetermined plan or strategy",
+        "D": "A legal document or agreement"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Select the sentence that uses 'admission' correctly:",
+      "options": {
+        "A": "The admission to the museum costs $15.",
+        "B": "She admission the document carefully.",
+        "C": "They admission the parcel to the wrong address.",
+        "D": "He admission the classroom before the bell rang."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, when were antibiotics first discovered?",
+      "options": {
+        "A": "In the 21st century",
+        "B": "In the 1940s",
+        "C": "When superbugs emerged",
+        "D": "The passage doesn't specify"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "What does the passage identify as the most significant cause of antibiotic resistance?",
+      "options": {
+        "A": "Bacteria naturally evolving over time",
+        "B": "The development of superbugs",
+        "C": "Limited research into new antibiotics",
+        "D": "Overuse and misuse of antibiotics in healthcare and agriculture"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, by 2050, how many lives could drug-resistant infections claim annually?",
+      "options": {
+        "A": "1 million",
+        "B": "5 million",
+        "C": "10 million",
+        "D": "50 million"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "The word 'stewardship' in paragraph 4 is closest in meaning to:",
+      "options": {
+        "A": "ownership",
+        "B": "responsible management",
+        "C": "distribution",
+        "D": "production"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Which of the following is NOT mentioned as a way to address the antibiotic resistance crisis?",
+      "options": {
+        "A": "Improving antibiotic prescription practices",
+        "B": "Banning all antibiotic use in agriculture",
+        "C": "Creating incentives for pharmaceutical companies",
+        "D": "Increasing public awareness and education"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "The author's primary purpose in writing this passage is to:",
+      "options": {
+        "A": "explain the discovery and development of antibiotics",
+        "B": "criticize the pharmaceutical industry",
+        "C": "inform readers about antibiotic resistance and potential solutions",
+        "D": "persuade readers to avoid using antibiotics entirely"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Which of the following best describes the organization of the passage?",
+      "options": {
+        "A": "Problem, causes, consequences, solutions",
+        "B": "Chronological order of antibiotic development",
+        "C": "Compare and contrast different medical approaches",
+        "D": "Most important to least important information"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The phrase 'perfect conditions' in paragraph 2 refers to:",
+      "options": {
+        "A": "ideal hospital environments",
+        "B": "environments that promote bacterial resistance",
+        "C": "laboratory settings for antibiotic testing",
+        "D": "optimal conditions for livestock growth"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "The passage suggests that one reason pharmaceutical companies aren't developing many new antibiotics is:",
+      "options": {
+        "A": "they lack the scientific knowledge",
+        "B": "government regulations are too strict",
+        "C": "there is limited financial return on investment",
+        "D": "existing antibiotics are still fully effective"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "Based on the passage, which statement would the author most likely agree with?",
+      "options": {
+        "A": "Antibiotic resistance is primarily a problem for developing countries.",
+        "B": "Individual actions have little impact on antibiotic resistance.",
+        "C": "Addressing antibiotic resistance requires efforts at multiple levels.",
+        "D": "New technology will soon solve the antibiotic resistance crisis."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
