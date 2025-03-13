@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Brain-Computer Interfaces (BCIs) represent one of the most fascinating intersections of technology and biology in modern science. These innovative systems establish direct communication pathways between the brain and external devices, bypassing traditional neuromuscular routes. By translating neural signals into digital commands, BCIs enable users to control computers, prosthetic limbs, and other devices using thought alone. The technology has evolved rapidly over the past decade, moving from laboratory curiosities to practical applications with real-world impact.<br><br>(2) The fundamental principle behind BCIs involves capturing brain activity through various methods, including electroencephalography (EEG), which records electrical activity along the scalp, and more invasive techniques that implant electrodes directly into brain tissue. These signals are then processed through sophisticated algorithms that identify patterns associated with specific thoughts or commands. While early BCIs could only detect simple mental states, current systems can recognize increasingly complex intentions, allowing for more nuanced control of external devices.<br><br>(3) Medical applications of BCIs have shown particularly promising results. Patients with severe motor disabilities, including those with amyotrophic lateral sclerosis (ALS) and spinal cord injuries, have used BCIs to communicate when traditional methods were no longer possible. In some remarkable cases, individuals who had lost all voluntary muscle control have regained the ability to express themselves through typing systems controlled purely by thought. Additionally, BCIs have helped restore limited mobility through neural control of robotic limbs, offering new hope for rehabilitation.<br><br>(4) Beyond healthcare, BCIs are beginning to emerge in consumer technology and entertainment. Gaming companies are developing systems that allow players to control characters through concentration alone, while virtual reality developers explore how mental commands might create more immersive experiences. Some forward-thinking companies are even investigating BCIs as productivity tools, envisioning a future where workers could type, search for information, or control software through thought rather than traditional interfaces.<br><br>(5) Despite these advances, significant challenges remain before BCIs can achieve widespread adoption. Technical hurdles include improving signal accuracy, developing more comfortable non-invasive recording methods, and creating systems that work reliably in everyday environments. Equally important are ethical considerations surrounding privacy, identity, and potential misuse of technology that directly interfaces with human thought. As BCIs continue to evolve, balancing technological progress with careful consideration of these issues will be essential for responsible development in this revolutionary field.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which form correctly completes the sentence? 'If I _____ more time, I would have completed the assignment.'",
+      "options": {
+        "A": "had had",
+        "B": "have had",
+        "C": "would have",
+        "D": "had have"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the grammatically correct sentence:",
+      "options": {
+        "A": "Neither the students nor the teacher were present.",
+        "B": "Neither the students nor the teacher was present.",
+        "C": "Neither the teacher nor the students was present.",
+        "D": "Neither the teacher nor the students were absent."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence contains a correct use of the past perfect tense?",
+      "options": {
+        "A": "She has already left when we arrived.",
+        "B": "She had already left when we arrived.",
+        "C": "She already left when we had arrived.",
+        "D": "She was already leaving when we arrived."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Select the correct form of the verb for the following sentence: 'Each of the students _____ required to submit a research paper.'",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "have been"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Which sentence contains a correctly used relative clause?",
+      "options": {
+        "A": "The man which I met yesterday is a famous actor.",
+        "B": "The movie that I watched last night was exciting.",
+        "C": "The house who I lived in as a child has been demolished.",
+        "D": "The book what I'm reading is about ancient civilizations."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Choose the correctly punctuated sentence:",
+      "options": {
+        "A": "However she decided to attend the meeting.",
+        "B": "However, she decided to attend the meeting.",
+        "C": "However; she decided to attend the meeting.",
+        "D": "However: she decided to attend the meeting."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which of the following correctly uses the passive voice?",
+      "options": {
+        "A": "The committee has made a decision.",
+        "B": "A decision has been made by the committee.",
+        "C": "The committee is deciding.",
+        "D": "They will decide soon."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the sentence with the correct subject-verb agreement:",
+      "options": {
+        "A": "The quality of these products are excellent.",
+        "B": "A number of students was absent yesterday.",
+        "C": "The majority of voters support the proposal.",
+        "D": "Ten dollars are too much for this item."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct conditional form: 'If the weather _____ nice tomorrow, we _____ to the beach.'",
+      "options": {
+        "A": "will be / will go",
+        "B": "is / will go",
+        "C": "is / go",
+        "D": "will be / go"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence uses the comparative form correctly?",
+      "options": {
+        "A": "This book is more interesting than any book I've read.",
+        "B": "This book is more interesting than any other book I've read.",
+        "C": "This book is more interesting than most other books I've read.",
+        "D": "This book is the more interesting of all books I've read."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Select the sentence with the correct use of articles:",
+      "options": {
+        "A": "He is best player on the team.",
+        "B": "She bought a umbrella yesterday.",
+        "C": "The honesty is the best policy.",
+        "D": "I need an hour to complete this task."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence contains a correctly formed participle clause?",
+      "options": {
+        "A": "Walking down the street, the building looked impressive.",
+        "B": "Walking down the street, I noticed a beautiful building.",
+        "C": "Walking down the street, a beautiful building was seen by me.",
+        "D": "Walking down the street, was noticed a beautiful building."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct form for the reported speech: He said, 'I am working on a new project.'",
+      "options": {
+        "A": "He said he is working on a new project.",
+        "B": "He said he was working on a new project.",
+        "C": "He told he was working on a new project.",
+        "D": "He said that he has been working on a new project."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence demonstrates correct use of the gerund?",
+      "options": {
+        "A": "I enjoy to read in my spare time.",
+        "B": "She suggested to go to the cinema.",
+        "C": "They admitted stealing the documents.",
+        "D": "We look forward to see you soon."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the correct modal verb form: 'You _____ eat more vegetables if you want to stay healthy.'",
+      "options": {
+        "A": "would",
+        "B": "should",
+        "C": "could",
+        "D": "may"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Complete the sentence with the appropriate collocation: 'The meeting was postponed _____ further notice.'",
+      "options": {
+        "A": "until",
+        "B": "for",
+        "C": "by",
+        "D": "with"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct phrasal verb to complete the sentence: 'I can't _____ this noise anymore; it's too loud.'",
+      "options": {
+        "A": "put up with",
+        "B": "take off",
+        "C": "look up to",
+        "D": "get away with"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the correct preposition: 'She has been working at this company _____ 2018.'",
+      "options": {
+        "A": "for",
+        "B": "since",
+        "C": "from",
+        "D": "during"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the appropriate expression to complete this sentence: 'I'm not sure if I'll be able to attend the event, but I'll _____ my best.'",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "have",
+        "D": "try"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the appropriate word to complete the idiom: 'The project was difficult, but we managed to pull it _____ just before the deadline.'",
+      "options": {
+        "A": "through",
+        "B": "off",
+        "C": "in",
+        "D": "over"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the correct fixed expression: 'The new policy will come into _____ next month.'",
+      "options": {
+        "A": "effect",
+        "B": "affect",
+        "C": "result",
+        "D": "power"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Select the correct linking phrase: 'He didn't study for the exam; _____, he failed it.'",
+      "options": {
+        "A": "however",
+        "B": "therefore",
+        "C": "moreover",
+        "D": "otherwise"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct form of the word to complete the sentence: 'She made a _____ contribution to the success of the project.'",
+      "options": {
+        "A": "significance",
+        "B": "significantly",
+        "C": "significant",
+        "D": "signify"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Select the word that can complete both sentences: 'Please _____ the form with your personal details.' and 'The tank is almost empty; we need to _____ it up soon.'",
+      "options": {
+        "A": "fill",
+        "B": "complete",
+        "C": "finish",
+        "D": "top"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct expression to complete the sentence: 'After considering all options, we decided to _____ with the original plan.'",
+      "options": {
+        "A": "go ahead",
+        "B": "move along",
+        "C": "carry forward",
+        "D": "take forth"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the correct definition of 'confusion':",
+      "options": {
+        "A": "A state of extreme happiness",
+        "B": "A lack of understanding or certainty about something",
+        "C": "A formal gathering of people",
+        "D": "A logical arrangement of ideas"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Which word is closest in meaning to 'supervisor'?",
+      "options": {
+        "A": "Colleague",
+        "B": "Assistant",
+        "C": "Manager",
+        "D": "Employee"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Select the sentence that uses 'corporation' correctly:",
+      "options": {
+        "A": "The university encourages corporation between departments.",
+        "B": "Apple is a multinational corporation with offices worldwide.",
+        "C": "Their corporation was excellent during the team-building exercise.",
+        "D": "The police requested corporation from witnesses."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which of the following is the best synonym for 'enormous'?",
+      "options": {
+        "A": "Tiny",
+        "B": "Average",
+        "C": "Immense",
+        "D": "Insignificant"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the sentence that uses 'publicity' correctly:",
+      "options": {
+        "A": "The company received negative publicity after the scandal.",
+        "B": "She has a strong publicity for being late to meetings.",
+        "C": "I need to buy a new publicity for my apartment.",
+        "D": "The publicity between the two countries has improved."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "In which situation would you most likely declare an 'emergency'?",
+      "options": {
+        "A": "When planning a vacation",
+        "B": "During a routine medical checkup",
+        "C": "When a building is on fire",
+        "D": "While attending a formal dinner"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Which sentence uses 'remarkable' correctly?",
+      "options": {
+        "A": "I made a remarkable to remind myself about the meeting.",
+        "B": "The remarkable lasted for three hours.",
+        "C": "She showed remarkable progress in just a few weeks.",
+        "D": "Please remarkable this page in your notebook."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "What is the primary role of an 'inspector'?",
+      "options": {
+        "A": "To create new products",
+        "B": "To examine something for problems or compliance",
+        "C": "To teach students",
+        "D": "To provide medical treatment"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Choose the sentence that correctly uses 'grateful':",
+      "options": {
+        "A": "The grateful weather ruined our picnic plans.",
+        "B": "I am grateful for your help with this project.",
+        "C": "She purchased a new grateful at the store.",
+        "D": "The grateful building was demolished last year."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Which phrase uses 'recovery' appropriately?",
+      "options": {
+        "A": "Making a full recovery from surgery",
+        "B": "Sending a recovery to a friend",
+        "C": "Writing a recovery about a book",
+        "D": "Attending a recovery at school"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What is a 'destination'?",
+      "options": {
+        "A": "A type of vehicle",
+        "B": "A place someone is traveling to",
+        "C": "A formal document",
+        "D": "A medical procedure"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Choose the sentence that uses 'desperate' correctly:",
+      "options": {
+        "A": "The desperate cake was delicious.",
+        "B": "She made a desperate attempt to catch the last train.",
+        "C": "We bought a new desperate for the living room.",
+        "D": "The building has three desperates on each floor."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Which of the following is a 'requirement' for obtaining a driver's license?",
+      "options": {
+        "A": "Owning a car",
+        "B": "Having a college degree",
+        "C": "Passing a driving test",
+        "D": "Being employed"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Select the word that best completes the sentence: 'The author's _____ portrayal of the fictional world captivated readers.'",
+      "options": {
+        "A": "requirement",
+        "B": "supervisor",
+        "C": "ministry",
+        "D": "imaginative"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Which sentence uses 'ministry' correctly?",
+      "options": {
+        "A": "She attended the ministry last Sunday.",
+        "B": "The Ministry of Education announced new policies yesterday.",
+        "C": "I bought a new ministry for my kitchen.",
+        "D": "The ministry was delicious at the restaurant."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what is the primary function of Brain-Computer Interfaces?",
+      "options": {
+        "A": "To replace traditional computers",
+        "B": "To create artificial intelligence",
+        "C": "To establish direct communication between the brain and external devices",
+        "D": "To improve surgical procedures"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Which method of capturing brain activity is described as non-invasive in paragraph 2?",
+      "options": {
+        "A": "Electroencephalography (EEG)",
+        "B": "Implanting electrodes directly into brain tissue",
+        "C": "Neural pattern identification",
+        "D": "Digital command translation"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "Based on paragraph 3, patients with which condition have benefited from BCIs?",
+      "options": {
+        "A": "Alzheimer's disease",
+        "B": "Amyotrophic lateral sclerosis (ALS)",
+        "C": "Parkinson's disease",
+        "D": "Multiple sclerosis"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "The word 'nuanced' in paragraph 2 is closest in meaning to:",
+      "options": {
+        "A": "Simple",
+        "B": "Complex",
+        "C": "Direct",
+        "D": "Fast"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to paragraph 4, how are BCIs being used in the entertainment industry?",
+      "options": {
+        "A": "To create more realistic characters",
+        "B": "To allow players to control games through thought",
+        "C": "To monitor players' emotional responses",
+        "D": "To improve graphics processing"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "The passage suggests that one of the main ethical concerns regarding BCIs is:",
+      "options": {
+        "A": "Their high cost",
+        "B": "Environmental impact",
+        "C": "Privacy issues",
+        "D": "Medical side effects"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What can be inferred about the current state of BCI technology from the passage?",
+      "options": {
+        "A": "It is primarily theoretical with few practical applications",
+        "B": "It has evolved rapidly but still faces significant challenges",
+        "C": "It is widely available to consumers",
+        "D": "It has replaced traditional computer interfaces in many settings"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The author's attitude toward BCI technology can best be described as:",
+      "options": {
+        "A": "Highly skeptical",
+        "B": "Cautiously optimistic",
+        "C": "Strongly disapproving",
+        "D": "Completely enthusiastic"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to the passage, what is a potential future application of BCIs in the workplace?",
+      "options": {
+        "A": "Monitoring employee productivity",
+        "B": "Replacing human workers",
+        "C": "Controlling software through thought",
+        "D": "Enhancing physical strength"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "Which of the following statements best summarizes the main idea of the passage?",
+      "options": {
+        "A": "BCIs represent a dangerous technology that threatens privacy and identity.",
+        "B": "BCIs are primarily useful for patients with severe disabilities.",
+        "C": "BCIs offer promising applications across multiple fields but face technical and ethical challenges.",
+        "D": "BCIs will eventually replace traditional computer interfaces in all settings."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
