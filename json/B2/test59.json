@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The American Civil War, fought between 1861 and 1865, was a defining moment in U.S. history. It involved the Northern states, called the Union, and the Southern states, which seceded to form the Confederacy. The war emerged from disputes over slavery, states’ rights, and economic differences between the two regions.<br><br>(2) The tensions had been building since the nation’s early years. The South’s economy depended heavily on agriculture, particularly cotton, which relied on enslaved labor. Meanwhile, the North embraced industrialization and increasingly supported abolishing slavery. Efforts to bridge these gaps through political agreements failed, deepening the divide.<br><br>(3) The conflict escalated with key events. In 1860, Abraham Lincoln’s election as president alarmed the South, leading seven states to secede even before he took office. The war officially began in April 1861 when Confederate forces attacked Fort Sumter. Major battles, such as Gettysburg in 1863 and Antietam in 1862, marked turning points, with the Union gradually overpowering the Confederacy.<br><br>(4) The war’s end in 1865 brought significant changes. The Union was preserved, and slavery was abolished with the 13th Amendment. However, the South faced devastation—its cities and farms destroyed, its economy crippled. With over 600,000 deaths, the Civil War remains the deadliest conflict in American history, leaving deep scars on the nation.<br><br>(5) The Civil War’s impact endures today. It strengthened federal authority and set the stage for civil rights progress, though equality remained elusive during the Reconstruction era and beyond. Monuments and debates about the war still spark discussion, reflecting its role in shaping national identity and the ongoing quest for justice.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "You _____ be late for the interview tomorrow; it's extremely important for your career.",
+      "options": {
+        "A": "should",
+        "B": "must not",
+        "C": "need",
+        "D": "might"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "By this time next month, the construction company _____ the new bridge.",
+      "options": {
+        "A": "will complete",
+        "B": "will have completed",
+        "C": "will be completing",
+        "D": "is completing"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "This historical building _____ by a famous architect in the late 19th century.",
+      "options": {
+        "A": "designs",
+        "B": "has designed",
+        "C": "was designed",
+        "D": "is designing"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "When I entered the room, my colleagues _____ the project details.",
+      "options": {
+        "A": "discussed",
+        "B": "were discussing",
+        "C": "had discussed",
+        "D": "have discussed"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "_____ breakfast is the most important meal of the day.",
+      "options": {
+        "A": "A",
+        "B": "An",
+        "C": "The",
+        "D": ""
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Sarah told me that she _____ interested in the job offer.",
+      "options": {
+        "A": "is",
+        "B": "was",
+        "C": "will be",
+        "D": "has been"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "The _____ of the new policy has caused significant changes in how the company operates.",
+      "options": {
+        "A": "implement",
+        "B": "implemented",
+        "C": "implementing",
+        "D": "implementation"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "This time tomorrow, we _____ over the Atlantic Ocean on our way to London.",
+      "options": {
+        "A": "will fly",
+        "B": "are flying",
+        "C": "will be flying",
+        "D": "will have flown"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "She bought a _____ wooden antique table for her dining room.",
+      "options": {
+        "A": "beautiful old rectangular",
+        "B": "rectangular beautiful old",
+        "C": "old beautiful rectangular",
+        "D": "rectangular old beautiful"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "You _____ me about the change in plans. I was waiting for hours!",
+      "options": {
+        "A": "should tell",
+        "B": "must have told",
+        "C": "should have told",
+        "D": "could tell"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "The Himalayas are _____ mountain range in the world.",
+      "options": {
+        "A": "higher than",
+        "B": "the highest",
+        "C": "more high than",
+        "D": "as high as"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "I need to _____ this information before making my decision.",
+      "options": {
+        "A": "look up",
+        "B": "look into",
+        "C": "look for",
+        "D": "look after"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Not only _____ the exam, but she also received the highest score in the class.",
+      "options": {
+        "A": "she passed",
+        "B": "did she pass",
+        "C": "she did pass",
+        "D": "passed she"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "_____ you practice, _____ you'll become at speaking English fluently.",
+      "options": {
+        "A": "The more / the better",
+        "B": "More / better",
+        "C": "The most / the best",
+        "D": "Much / good"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "My neighbor, _____ is a doctor, helped the injured cyclist until the ambulance arrived.",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "that",
+        "D": "whose"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "The internet has changed how we live. It helps us stay ___ with others across the globe.",
+      "options": {
+        "A": "connect",
+        "B": "connecting",
+        "C": "connected",
+        "D": "connection"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Sharing updates is now ___ than ever thanks to social media.",
+      "options": {
+        "A": "easy",
+        "B": "easier",
+        "C": "easiest",
+        "D": "more easy"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "However, it can also cause feelings of ___ due to constant comparison.",
+      "options": {
+        "A": "adequate",
+        "B": "inadequacy",
+        "C": "adequately",
+        "D": "inadequacies"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "We must ___ information carefully to avoid misinformation.",
+      "options": {
+        "A": "verify",
+        "B": "verifying",
+        "C": "verified",
+        "D": "verification"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Still, it remains a vital tool for ___.",
+      "options": {
+        "A": "communicate",
+        "B": "communication",
+        "C": "communicating",
+        "D": "communicated"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "'I didn’t go to the party because I was tired.' Rewrite using 'TOO'.",
+      "options": {
+        "A": "I was too tired to go to the party.",
+        "B": "I was so tired to go to the party.",
+        "C": "I was very tired to go to the party.",
+        "D": "I was tired enough to go to the party."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "'It’s possible that she has already left.' Rewrite using 'MAY'.",
+      "options": {
+        "A": "She may have already left.",
+        "B": "She may already leave.",
+        "C": "She may be leaving already.",
+        "D": "She may has already left."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "'They started the project three years ago.' Rewrite using 'BEEN'.",
+      "options": {
+        "A": "They have been working on the project for three years.",
+        "B": "They has been working on the project for three years.",
+        "C": "They have been worked on the project for three years.",
+        "D": "They have being working on the project for three years."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "'I regret not studying harder.' Rewrite using 'WISH'.",
+      "options": {
+        "A": "I wish I had studied harder.",
+        "B": "I wish I study harder.",
+        "C": "I wish I have studied harder.",
+        "D": "I wish I would study harder."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "'The teacher made the students do the assignment again.' Rewrite using 'WERE'.",
+      "options": {
+        "A": "The students were made to do the assignment again.",
+        "B": "The students were making to do the assignment again.",
+        "C": "The students were made doing the assignment again.",
+        "D": "The students were make to do the assignment again."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "The scientist’s ___ discovery changed the field of medicine forever.",
+      "options": {
+        "A": "trivial",
+        "B": "groundbreaking",
+        "C": "insignificant",
+        "D": "minor"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "What is a synonym of 'meticulous'?",
+      "options": {
+        "A": "careless",
+        "B": "precise",
+        "C": "hasty",
+        "D": "negligent"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Which word is the odd one out?",
+      "options": {
+        "A": "happy",
+        "B": "joyful",
+        "C": "ecstatic",
+        "D": "melancholic"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "She has a ___ interest in art.",
+      "options": {
+        "A": "keen",
+        "B": "small",
+        "C": "little",
+        "D": "minor"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "What does 'turn down' mean?",
+      "options": {
+        "A": "to increase the volume",
+        "B": "to reject",
+        "C": "to accept",
+        "D": "to turn around"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "The company’s profits have ___ significantly this year.",
+      "options": {
+        "A": "raised",
+        "B": "risen",
+        "C": "arose",
+        "D": "lifted"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "What is an antonym of 'generous'?",
+      "options": {
+        "A": "stingy",
+        "B": "kind",
+        "C": "charitable",
+        "D": "benevolent"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "The novel provides a ___ insight into human nature.",
+      "options": {
+        "A": "profound",
+        "B": "shallow",
+        "C": "superficial",
+        "D": "trivial"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What does 'to let the cat out of the bag' mean?",
+      "options": {
+        "A": "to reveal a secret",
+        "B": "to buy a pet",
+        "C": "to hide something",
+        "D": "to be careless"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "What is the meaning of 'to procrastinate'?",
+      "options": {
+        "A": "to do something immediately",
+        "B": "to delay or postpone action",
+        "C": "to work efficiently",
+        "D": "to prioritize tasks"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "The artist’s work was ___ by her travels around the world.",
+      "options": {
+        "A": "inspired",
+        "B": "inspiring",
+        "C": "inspiration",
+        "D": "inspirational"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "What is a synonym of 'obsolete'?",
+      "options": {
+        "A": "modern",
+        "B": "outdated",
+        "C": "current",
+        "D": "innovative"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "What does 'to take something for granted' mean?",
+      "options": {
+        "A": "to appreciate something",
+        "B": "to assume something is true without question",
+        "C": "to be grateful for something",
+        "D": "to question something’s value"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "The manager ___ the employee’s request for a raise, citing budget constraints.",
+      "options": {
+        "A": "accepted",
+        "B": "granted",
+        "C": "denied",
+        "D": "approved"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "The team’s ___ effort led to their victory.",
+      "options": {
+        "A": "collaborative",
+        "B": "individual",
+        "C": "selfish",
+        "D": "lazy"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "What is the main idea of the passage?",
+      "options": {
+        "A": "The Civil War was fought over economic differences.",
+        "B": "The Civil War had significant impacts on American society.",
+        "C": "The Union won due to superior resources.",
+        "D": "Slavery was the only cause of the Civil War."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "According to the passage, what was a major cause of the Civil War?",
+      "options": {
+        "A": "The election of Abraham Lincoln",
+        "B": "The attack on Fort Sumter",
+        "C": "Disagreements over slavery",
+        "D": "The Battle of Gettysburg"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "What can be inferred about the Southern economy before the war?",
+      "options": {
+        "A": "It was based on manufacturing.",
+        "B": "It relied on slave labor.",
+        "C": "It was more advanced than the North’s.",
+        "D": "It did not produce cotton."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "The word 'seceded' in paragraph 1 most nearly means:",
+      "options": {
+        "A": "joined",
+        "B": "withdrew",
+        "C": "fought",
+        "D": "compromised"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Why does the author mention the 13th Amendment in paragraph 4?",
+      "options": {
+        "A": "To show the war’s impact on slavery",
+        "B": "To discuss the Reconstruction era",
+        "C": "To highlight the Union’s victory",
+        "D": "To explain the war’s casualties"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "Which of the following is NOT mentioned as a consequence of the Civil War?",
+      "options": {
+        "A": "Abolition of slavery",
+        "B": "Preservation of the Union",
+        "C": "Economic prosperity in the South",
+        "D": "High death toll"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What is the author’s purpose in writing this passage?",
+      "options": {
+        "A": "To argue for the importance of the Civil War",
+        "B": "To provide an overview of the Civil War",
+        "C": "To criticize the South’s actions",
+        "D": "To detail specific battles"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "How does the passage describe the relationship between the North and the South before the war?",
+      "options": {
+        "A": "Cooperative",
+        "B": "Tense",
+        "C": "Indifferent",
+        "D": "Unified"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What detail supports the idea that the Civil War had a lasting impact?",
+      "options": {
+        "A": "The war ended in 1865.",
+        "B": "The South was devastated.",
+        "C": "It set the stage for civil rights progress.",
+        "D": "The Union won the war."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "Which paragraph discusses the major battles of the Civil War?",
+      "options": {
+        "A": "Paragraph 1",
+        "B": "Paragraph 2",
+        "C": "Paragraph 3",
+        "D": "Paragraph 4"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
