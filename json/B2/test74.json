@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The Age of Exploration, spanning roughly from the early 15th to the late 17th century, represented one of the most transformative periods in human history. European nations, motivated by a combination of economic ambition, religious zeal, and scientific curiosity, launched expeditions across uncharted waters that would forever change the global landscape. Portugal, under the guidance of Prince Henry the Navigator, pioneered these maritime ventures, developing advanced navigation techniques and ships designed specifically for long ocean voyages. These technological innovations enabled explorers to venture further into the Atlantic than ever before, eventually rounding Africa's Cape of Good Hope and establishing trade routes to Asia.<br><br>(2) Spain soon joined the race for discovery, financing Christopher Columbus's westward journey in 1492 that accidentally encountered the Americas. This momentous encounter initiated a dramatic exchange of plants, animals, diseases, and ideas known as the Columbian Exchange. European crops like wheat and livestock transformed American agriculture, while American crops such as potatoes, tomatoes, and corn revolutionized European diets and farming. Unfortunately, this exchange also brought devastating diseases to indigenous populations who lacked immunity, resulting in catastrophic population declines throughout the Americas.<br><br>(3) The economic impact of these voyages was profound and far-reaching. Traditional trade routes controlled by Middle Eastern and Italian merchants were circumvented as direct sea routes to Asia were established. Portugal created a vast trading network stretching from Brazil to Japan, while Spain extracted enormous wealth from silver mines in the Americas. This influx of resources fueled European economic growth but also contributed to significant inflation. Meanwhile, the first truly global trade networks emerged, connecting previously isolated regions and creating new patterns of commerce that would lay the groundwork for today's global economy.<br><br>(4) Culturally and intellectually, the Age of Exploration challenged existing worldviews and expanded European knowledge. Medieval geographic conceptions were rendered obsolete as maps were redrawn to include newly discovered lands. Encounters with diverse civilizations forced Europeans to reconsider their understanding of humanity and their place in the world. Scientific knowledge advanced as explorers documented unfamiliar plants, animals, and celestial observations. The era's discoveries contributed significantly to the Scientific Revolution and the gradual shift toward more empirical approaches to understanding the natural world.<br><br>(5) However, the Age of Exploration also had profoundly destructive consequences. European powers established colonial systems that exploited indigenous populations and resources. The transatlantic slave trade, which forcibly transported millions of Africans to work in American colonies, created lasting patterns of inequality and suffering. Native societies throughout the Americas, Africa, and parts of Asia experienced cultural disruption, political subjugation, and in some cases, complete collapse. These complex legacies of exploration continue to shape our world today, reminding us that historical progress often comes with significant human costs and ethical contradictions.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which form of the verb correctly completes the sentence? 'If she _____ earlier, she wouldn't have missed the train.'",
+      "options": {
+        "A": "arrived",
+        "B": "had arrived",
+        "C": "would arrive",
+        "D": "arrives"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct form: 'The concert _____ by the time we got to the venue.'",
+      "options": {
+        "A": "already started",
+        "B": "has already started",
+        "C": "had already started",
+        "D": "was already starting"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the correct sentence:",
+      "options": {
+        "A": "Neither the students nor the teacher are going to the field trip.",
+        "B": "Neither the students nor the teacher is going to the field trip.",
+        "C": "Neither the students nor the teacher going to the field trip.",
+        "D": "Neither the students nor the teacher goes to the field trip."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Select the correct form of the adjective: 'This is _____ day of my life.'",
+      "options": {
+        "A": "the worse",
+        "B": "the worst",
+        "C": "the most worse",
+        "D": "the worsest"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct relative pronoun: 'The book _____ was recommended by my professor is out of print.'",
+      "options": {
+        "A": "whose",
+        "B": "whom",
+        "C": "who",
+        "D": "which"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the correct passive form: 'The company _____ more than 500 people next year.'",
+      "options": {
+        "A": "will employ",
+        "B": "will be employ",
+        "C": "will be employed",
+        "D": "will have employed"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct modal verb: 'You _____ eat so much sugar; it's bad for your health.'",
+      "options": {
+        "A": "don't have to",
+        "B": "mustn't",
+        "C": "shouldn't",
+        "D": "couldn't"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Identify the correct conditional form: 'If I _____ rich, I would travel around the world.'",
+      "options": {
+        "A": "am",
+        "B": "will be",
+        "C": "would be",
+        "D": "were"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct tense: 'By the time we graduate, we _____ over 20 exams.'",
+      "options": {
+        "A": "will take",
+        "B": "will be taking",
+        "C": "will have taken",
+        "D": "are taking"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Select the correct preposition: 'She was accused _____ stealing the money.'",
+      "options": {
+        "A": "for",
+        "B": "of",
+        "C": "with",
+        "D": "by"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Identify the correct reported speech: 'I am leaving tomorrow,' she said.",
+      "options": {
+        "A": "She said she was leaving tomorrow.",
+        "B": "She said she is leaving tomorrow.",
+        "C": "She said she was leaving the next day.",
+        "D": "She said she will be leaving the next day."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Choose the correct quantifier: 'There isn't _____ evidence to support this theory.'",
+      "options": {
+        "A": "much",
+        "B": "many",
+        "C": "few",
+        "D": "little"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Select the correct verb form: 'I wish I _____ able to attend the conference last week.'",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "had been",
+        "D": "would be"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "A": "Despite of the rain, we enjoyed our hike.",
+        "B": "Despite the rain, we enjoyed our hike.",
+        "C": "Despite for the rain, we enjoyed our hike.",
+        "D": "Although of the rain, we enjoyed our hike."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the correct article: 'She is _____ university student.'",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article needed"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Complete the sentence with the appropriate expression: 'The new manager wants to _____ some changes in the company structure.'",
+      "options": {
+        "A": "bring about",
+        "B": "bring up",
+        "C": "bring out",
+        "D": "bring off"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct collocation: 'The government has decided to _____ a new law to protect endangered species.'",
+      "options": {
+        "A": "impose",
+        "B": "implement",
+        "C": "introduce",
+        "D": "instruct"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the correct phrasal verb: 'We need to _____ supplies before the storm hits.'",
+      "options": {
+        "A": "stock up on",
+        "B": "stock in",
+        "C": "stock with",
+        "D": "stock into"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Fill in the blank with the appropriate expression: 'After the accident, it took her a long time to _____ to normal life.'",
+      "options": {
+        "A": "adjust",
+        "B": "adapt",
+        "C": "adopt",
+        "D": "adhere"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the most appropriate response to the question 'Would you mind opening the window?'",
+      "options": {
+        "A": "Yes, I would.",
+        "B": "No, I wouldn't.",
+        "C": "No, I don't mind.",
+        "D": "Yes, I don't mind."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the correct idiom to complete the sentence: 'I was really nervous before the presentation, but once I started speaking, I was _____ .'",
+      "options": {
+        "A": "under the weather",
+        "B": "in hot water",
+        "C": "in my element",
+        "D": "on the fence"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Select the correct linking phrase: '_____  his qualifications, he didn't get the job.'",
+      "options": {
+        "A": "Due to",
+        "B": "Despite",
+        "C": "Because",
+        "D": "Although"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct fixed expression: 'The museum is closed today _____ renovation work.'",
+      "options": {
+        "A": "due to",
+        "B": "because",
+        "C": "as a result",
+        "D": "therefore"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Select the correct binomial expression: 'The instructions were very clear and straightforward - short and _____.'",
+      "options": {
+        "A": "simple",
+        "B": "sweet",
+        "C": "concise",
+        "D": "precise"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the appropriate phrase to complete the sentence: 'We need to _____ consideration all aspects of the problem.'",
+      "options": {
+        "A": "bring into",
+        "B": "take into",
+        "C": "come into",
+        "D": "put into"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the word closest in meaning to 'ubiquitous':",
+      "options": {
+        "A": "rare",
+        "B": "widespread",
+        "C": "unique",
+        "D": "unknown"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Select the correct definition of 'ambivalent':",
+      "options": {
+        "A": "having mixed feelings",
+        "B": "extremely angry",
+        "C": "very talented",
+        "D": "generous and kind"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Which word means 'to make something less severe or intense'?",
+      "options": {
+        "A": "Exacerbate",
+        "B": "Mitigate",
+        "C": "Consolidate",
+        "D": "Integrate"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Choose the synonym for 'pertinent':",
+      "options": {
+        "A": "permanent",
+        "B": "relevant",
+        "C": "persistent",
+        "D": "pervasive"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Select the antonym for 'benevolent':",
+      "options": {
+        "A": "generous",
+        "B": "kind",
+        "C": "malicious",
+        "D": "beneficial"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Which word means 'unwilling to spend money'?",
+      "options": {
+        "A": "Lavish",
+        "B": "Frugal",
+        "C": "Extravagant",
+        "D": "Prodigal"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Choose the word that means 'to officially forbid something':",
+      "options": {
+        "A": "Advocate",
+        "B": "Sanction",
+        "C": "Prohibit",
+        "D": "Authorize"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "What is the meaning of 'ephemeral'?",
+      "options": {
+        "A": "lasting for a very short time",
+        "B": "extremely important",
+        "C": "mysterious and unknown",
+        "D": "scientifically proven"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Select the correct definition of 'pragmatic':",
+      "options": {
+        "A": "idealistic and unrealistic",
+        "B": "dealing with things sensibly and realistically",
+        "C": "extremely organized",
+        "D": "easily upset or offended"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Choose the word closest in meaning to 'arduous':",
+      "options": {
+        "A": "passionate",
+        "B": "artistic",
+        "C": "difficult",
+        "D": "ambitious"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What is the meaning of 'succinct'?",
+      "options": {
+        "A": "brief and clear",
+        "B": "sweet and sugary",
+        "C": "loud and noisy",
+        "D": "slow and methodical"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Select the antonym for 'meticulous':",
+      "options": {
+        "A": "careful",
+        "B": "precise",
+        "C": "careless",
+        "D": "thorough"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Which word describes someone who speaks very little?",
+      "options": {
+        "A": "Verbose",
+        "B": "Loquacious",
+        "C": "Taciturn",
+        "D": "Eloquent"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Choose the correct definition of 'superfluous':",
+      "options": {
+        "A": "extremely important",
+        "B": "unnecessary or excessive",
+        "C": "superior in quality",
+        "D": "flowing smoothly"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "What is the meaning of 'impetuous'?",
+      "options": {
+        "A": "acting without thinking",
+        "B": "extremely patient",
+        "C": "highly skilled",
+        "D": "easily influenced"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, what was Prince Henry the Navigator's contribution to the Age of Exploration?",
+      "options": {
+        "A": "He discovered the Americas.",
+        "B": "He established the first colonies in Africa.",
+        "C": "He developed advanced navigation techniques and ships.",
+        "D": "He initiated the transatlantic slave trade."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Based on the passage, what was the Columbian Exchange?",
+      "options": {
+        "A": "A financial system established by Columbus",
+        "B": "The exchange of plants, animals, diseases, and ideas between continents",
+        "C": "A diplomatic agreement between Spain and Portugal",
+        "D": "The system of trade routes across the Atlantic"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, how did the Age of Exploration affect traditional trade routes?",
+      "options": {
+        "A": "It strengthened them.",
+        "B": "It had no significant impact on them.",
+        "C": "It circumvented routes controlled by Middle Eastern and Italian merchants.",
+        "D": "It made them more expensive to maintain."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Based on the passage, which statement about the influx of resources from the Americas is correct?",
+      "options": {
+        "A": "It had no effect on European economies.",
+        "B": "It fueled European economic growth but also contributed to inflation.",
+        "C": "It led to economic decline in Europe.",
+        "D": "It primarily benefited African nations."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What does the passage suggest about medieval geographic conceptions during the Age of Exploration?",
+      "options": {
+        "A": "They remained unchanged despite new discoveries.",
+        "B": "They were confirmed by explorers' findings.",
+        "C": "They were rendered obsolete as maps were redrawn.",
+        "D": "They were mainly focused on Asian territories."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to the passage, how did the Age of Exploration contribute to intellectual development?",
+      "options": {
+        "A": "It hindered scientific progress.",
+        "B": "It had no significant impact on European thought.",
+        "C": "It contributed to the Scientific Revolution and empirical approaches.",
+        "D": "It reinforced medieval worldviews."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What negative consequence of the Age of Exploration does the passage mention?",
+      "options": {
+        "A": "Decrease in global trade",
+        "B": "The establishment of colonial systems that exploited indigenous populations",
+        "C": "Reduction in European economic growth",
+        "D": "Increased conflict between European nations"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to the passage, what motivated European nations to launch explorations?",
+      "options": {
+        "A": "Solely religious purposes",
+        "B": "Purely scientific curiosity",
+        "C": "A combination of economic ambition, religious zeal, and scientific curiosity",
+        "D": "Military expansion and conquest"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Based on the passage, what was one significant effect of European diseases on indigenous American populations?",
+      "options": {
+        "A": "They developed immunity quickly.",
+        "B": "They experienced catastrophic population declines.",
+        "C": "They were minimally affected.",
+        "D": "They developed better healthcare systems."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What does the author suggest about the legacy of the Age of Exploration?",
+      "options": {
+        "A": "It was entirely positive for global development.",
+        "B": "It had no lasting impact on modern society.",
+        "C": "It continues to shape our world today with complex legacies including inequality.",
+        "D": "Its effects were limited to the 17th century."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
