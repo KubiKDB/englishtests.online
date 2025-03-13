@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Civil rights movements have emerged across the globe as powerful forces for social change, challenging discriminatory practices and advocating for equal treatment under the law. These movements, while distinct in their specific contexts, share fundamental similarities in their pursuit of justice and dignity for marginalized populations. The American Civil Rights Movement of the 1950s and 1960s, led by figures such as Martin Luther King Jr. and Rosa Parks, serves as a prominent example that inspired similar struggles worldwide, using nonviolent resistance to confront racial segregation and disenfranchisement in the United States.<br><br>(2) In South Africa, the anti-apartheid movement fought against the institutionalized racial segregation that prevailed from 1948 until the early 1990s. Nelson Mandela, who spent 27 years in prison for his activism, eventually became the country's first Black president following the dismantling of apartheid. This transition, while substantial in its achievements, nevertheless highlighted the ongoing challenges of addressing deeply entrenched inequality even after formal discrimination ends. Similarly, India's independence movement under Mahatma Gandhi's leadership not only secured freedom from British colonial rule but also challenged discriminatory practices within Indian society itself.<br><br>(3) Women's rights movements represent another crucial dimension of civil rights activism globally. From the suffragettes who fought for women's voting rights in the early 20th century to contemporary feminist movements addressing issues like workplace discrimination and gender-based violence, these efforts have been instrumental in enhancing women's legal protections and social standing. Organizations have had to coordinate strategies across national boundaries, recognizing that gender inequality, while expressed differently across cultures, remains a universal concern requiring collective action and international solidarity.<br><br>(4) Indigenous peoples' movements constitute a critical yet often overlooked aspect of civil rights activism. In countries like Canada, Australia, and Brazil, indigenous communities have mobilized to secure land rights, cultural preservation, and self-determination. These movements have been particularly focused on sustainability, emphasizing the connection between indigenous rights and environmental protection. Despite reluctance from many governments to acknowledge historical injustices, indigenous activists have successfully brought attention to their causes through both legal challenges and grassroots organizing, acquiring greater recognition in international human rights frameworks.<br><br>(5) The digital era has introduced new dimensions to civil rights activism, with social media providing platforms for marginalized voices and facilitating rapid mobilization across borders. However, this technological shift has produced ambiguous consequences for movements, offering unprecedented tools for organization while simultaneously creating vulnerabilities to surveillance and misinformation. As civil rights movements continue to evolve, they face the complex challenge of building on their historical legacies while adapting to contemporary contexts. The most effective movements recognize that genuine prosperity and comprehensive equality require addressing intersecting forms of discrimination and developing feasible strategies for creating lasting change in both legal systems and social attitudes.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct verb form: 'If I _____ more time, I would finish this project today.'",
+      "options": {
+        "A": "have",
+        "B": "had",
+        "C": "would have",
+        "D": "has"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the correct relative pronoun: 'The book _____ I borrowed from the library is overdue.'",
+      "options": {
+        "A": "who",
+        "B": "whom",
+        "C": "which",
+        "D": "whose"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Choose the correct passive form: 'The new policy _____ next month.'",
+      "options": {
+        "A": "will implement",
+        "B": "will be implementing",
+        "C": "will be implemented",
+        "D": "is implementing"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Select the correct past perfect form: 'By the time we arrived, the concert _____.'",
+      "options": {
+        "A": "already started",
+        "B": "has already started",
+        "C": "had already started",
+        "D": "would have already started"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct modal verb: 'You _____ to attend the meeting, but it would be helpful.'",
+      "options": {
+        "A": "must",
+        "B": "don't have",
+        "C": "should",
+        "D": "can't"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which sentence contains the correct article usage?",
+      "options": {
+        "A": "She plays violin in an orchestra.",
+        "B": "She plays a violin in an orchestra.",
+        "C": "She plays the violin in the orchestra.",
+        "D": "She plays violin in the orchestra."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct reported speech form: She said, 'I am going to Paris tomorrow.'",
+      "options": {
+        "A": "She said that she is going to Paris tomorrow.",
+        "B": "She said that she was going to Paris tomorrow.",
+        "C": "She said that she was going to Paris the next day.",
+        "D": "She said that she will be going to Paris the next day."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the correct comparative structure: 'The problem was _____ we expected.'",
+      "options": {
+        "A": "more complex than",
+        "B": "more complex as",
+        "C": "complexer than",
+        "D": "as complex than"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence uses the correct order of adjectives?",
+      "options": {
+        "A": "She bought a leather expensive new jacket.",
+        "B": "She bought an expensive new leather jacket.",
+        "C": "She bought a new expensive leather jacket.",
+        "D": "She bought a leather new expensive jacket."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct future perfect form: 'By next year, they _____ construction of the new bridge.'",
+      "options": {
+        "A": "will complete",
+        "B": "will have completed",
+        "C": "will be completing",
+        "D": "have completed"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Select the sentence with correct subject-verb agreement:",
+      "options": {
+        "A": "The committee have made their decision.",
+        "B": "The committee has made their decision.",
+        "C": "The committee have made its decision.",
+        "D": "The committee has made its decision."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Choose the correct gerund or infinitive form: 'I don't mind _____ late, but I prefer _____ told in advance.'",
+      "options": {
+        "A": "working / being",
+        "B": "to work / to be",
+        "C": "working / to be",
+        "D": "to work / being"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Which sentence contains a properly placed adverb?",
+      "options": {
+        "A": "She almost has finished the assignment.",
+        "B": "She has almost finished the assignment.",
+        "C": "She has finished almost the assignment.",
+        "D": "Almost she has finished the assignment."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Select the correct conditional form: 'If you _____ the instructions carefully, you wouldn't have made so many mistakes.'",
+      "options": {
+        "A": "read",
+        "B": "had read",
+        "C": "would read",
+        "D": "would have read"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Choose the correct preposition: 'He has been working _____ this project _____ January.'",
+      "options": {
+        "A": "in / from",
+        "B": "on / since",
+        "C": "for / since",
+        "D": "with / from"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the word that most precisely means 'to discuss terms and conditions to reach an agreement':",
+      "options": {
+        "A": "Negotiate",
+        "B": "Argue",
+        "C": "Debate",
+        "D": "Converse"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 17,
+      "question": "Which of the following best defines 'consequence'?",
+      "options": {
+        "A": "A suggestion to solve a problem",
+        "B": "An agreement between two parties",
+        "C": "A result or effect of an action",
+        "D": "A disagreement on important matters"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 18,
+      "question": "Select the word that means 'having a helpful or favorable effect':",
+      "options": {
+        "A": "Detrimental",
+        "B": "Neutral",
+        "C": "Ambivalent",
+        "D": "Beneficial"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 19,
+      "question": "Choose the best explanation for the word 'nevertheless':",
+      "options": {
+        "A": "As a result",
+        "B": "In addition",
+        "C": "In spite of that",
+        "D": "For this reason"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 20,
+      "question": "Which sentence uses 'enhance' correctly?",
+      "options": {
+        "A": "The new software will enhance problems in the system.",
+        "B": "We need to enhance the errors before submitting the report.",
+        "C": "Regular exercise can enhance your overall health.",
+        "D": "The team enhanced responsibility for the project failure."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 21,
+      "question": "What does 'substantial' most closely mean?",
+      "options": {
+        "A": "Minimal",
+        "B": "Considerable",
+        "C": "Artificial",
+        "D": "Theoretical"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 22,
+      "question": "Choose the sentence that uses 'acquire' correctly:",
+      "options": {
+        "A": "The company will acquire employees next month.",
+        "B": "She acquired a new skill during the training program.",
+        "C": "They acquired the meeting until further notice.",
+        "D": "The teacher acquired the students to complete their homework."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 23,
+      "question": "Which sentence demonstrates the correct usage of 'coordinate'?",
+      "options": {
+        "A": "We need to coordinate our efforts to finish the project on time.",
+        "B": "The manager coordinated the report as inaccurate.",
+        "C": "She coordinated from the company after 20 years of service.",
+        "D": "The building was coordinate with modern facilities."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 24,
+      "question": "What is the best definition of 'feasible'?",
+      "options": {
+        "A": "Extremely difficult",
+        "B": "Capable of being done",
+        "C": "Highly recommended",
+        "D": "Requiring permission"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 25,
+      "question": "Which sentence uses 'reluctant' correctly?",
+      "options": {
+        "A": "He was reluctant to speak in public due to his fear of crowds.",
+        "B": "The company made a reluctant profit last quarter.",
+        "C": "They showed a reluctant performance at the concert.",
+        "D": "The document contains reluctant information about the project."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 26,
+      "question": "What is the best definition of 'ambiguous'?",
+      "options": {
+        "A": "Clear and precise",
+        "B": "Open to multiple interpretations",
+        "C": "Logical and reasonable",
+        "D": "Controversial but accurate"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the sentence that uses 'prosperity' correctly:",
+      "options": {
+        "A": "The company prosperity the new employee for her excellent work.",
+        "B": "Economic reforms led to a period of prosperity for the country.",
+        "C": "They prosperity all the necessary equipment for the expedition.",
+        "D": "The teacher prosperitied the students during the exam."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Which definition best describes 'sustainable'?",
+      "options": {
+        "A": "Capable of being maintained over time",
+        "B": "Extremely profitable in the short term",
+        "C": "Requiring minimal effort to implement",
+        "D": "Harmful to the environment"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "What does 'fundamental' most closely mean?",
+      "options": {
+        "A": "Superficial",
+        "B": "Optional",
+        "C": "Basic and essential",
+        "D": "Advanced and complex"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the sentence that uses 'comprehensive' correctly:",
+      "options": {
+        "A": "The report was comprehensive, covering only a few key points.",
+        "B": "They comprehensive the building in just three months.",
+        "C": "Her knowledge of the subject is comprehensive, including all major topics.",
+        "D": "The teachers comprehensive their students based on attendance."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Choose the correct phrasal verb: 'The meeting has been _____ until next week.'",
+      "options": {
+        "A": "put off",
+        "B": "put away",
+        "C": "put out",
+        "D": "put up"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 32,
+      "question": "Select the appropriate idiom: 'The project is _____, so we need to work quickly.'",
+      "options": {
+        "A": "under the weather",
+        "B": "against the clock",
+        "C": "over the moon",
+        "D": "behind the scenes"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 33,
+      "question": "Choose the correct collocation: 'She _____ a presentation at the conference last week.'",
+      "options": {
+        "A": "did",
+        "B": "made",
+        "C": "gave",
+        "D": "had"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 34,
+      "question": "Select the correct preposition: 'She's very passionate _____ environmental issues.'",
+      "options": {
+        "A": "for",
+        "B": "about",
+        "C": "with",
+        "D": "in"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 35,
+      "question": "Which expression is used to express disappointment?",
+      "options": {
+        "A": "That's the last straw!",
+        "B": "That's a piece of cake!",
+        "C": "That's out of the blue!",
+        "D": "That's on the house!"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 36,
+      "question": "Choose the correct expression: 'The new policy has come _____ a lot of criticism.'",
+      "options": {
+        "A": "under",
+        "B": "over",
+        "C": "above",
+        "D": "through"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 37,
+      "question": "Select the appropriate fixed expression: 'I'm not sure if I'll go to the party; I'll decide _____.'",
+      "options": {
+        "A": "on the spot",
+        "B": "at the eleventh hour",
+        "C": "out of the blue",
+        "D": "at the last minute"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 38,
+      "question": "Which response is most appropriate to 'I've just passed my driving test'?",
+      "options": {
+        "A": "That's all right.",
+        "B": "Well done!",
+        "C": "Never mind.",
+        "D": "It doesn't matter."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 39,
+      "question": "Choose the correct word to complete the sentence: 'Despite the rain, they decided to _____ with their plans for a picnic.'",
+      "options": {
+        "A": "go along",
+        "B": "go ahead",
+        "C": "go through",
+        "D": "go away"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 40,
+      "question": "Select the most natural expression: 'I haven't seen you _____.'",
+      "options": {
+        "A": "from ages",
+        "B": "for ages",
+        "C": "in ages",
+        "D": "since ages"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, what is a common characteristic of civil rights movements worldwide?",
+      "options": {
+        "A": "They are primarily focused on racial discrimination.",
+        "B": "They all follow the same strategies and tactics.",
+        "C": "They pursue justice and dignity for marginalized populations.",
+        "D": "They are always led by charismatic individual leaders."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "What does the passage suggest about the dismantling of apartheid in South Africa?",
+      "options": {
+        "A": "It immediately eliminated all forms of inequality in the country.",
+        "B": "It demonstrated that formal changes don't automatically end entrenched inequality.",
+        "C": "It was less successful than civil rights movements in other countries.",
+        "D": "It had little impact on South African society."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, how do women's rights movements operate globally?",
+      "options": {
+        "A": "They focus exclusively on voting rights.",
+        "B": "They operate independently within each country.",
+        "C": "They coordinate strategies across national boundaries.",
+        "D": "They are primarily concerned with workplace discrimination."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Which is identified as a particular focus of indigenous peoples' movements?",
+      "options": {
+        "A": "Technological development",
+        "B": "International trade policies",
+        "C": "Sustainability and environmental protection",
+        "D": "Urban development"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "How has the digital era affected civil rights activism according to the passage?",
+      "options": {
+        "A": "It has only had positive effects on movements.",
+        "B": "It has made organizing across borders impossible.",
+        "C": "It has had mixed effects, providing new tools but creating vulnerabilities.",
+        "D": "It has completely replaced traditional forms of activism."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "Which movement leader is mentioned as having spent 27 years in prison?",
+      "options": {
+        "A": "Martin Luther King Jr.",
+        "B": "Rosa Parks",
+        "C": "Mahatma Gandhi",
+        "D": "Nelson Mandela"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What does the passage identify as an element of effective contemporary civil rights movements?",
+      "options": {
+        "A": "Focusing exclusively on legal changes",
+        "B": "Addressing intersecting forms of discrimination",
+        "C": "Avoiding international cooperation",
+        "D": "Rejecting historical legacies"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "Which country is NOT mentioned in connection with indigenous peoples' movements?",
+      "options": {
+        "A": "Canada",
+        "B": "Brazil",
+        "C": "Australia",
+        "D": "India"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to the passage, what role did nonviolent resistance play in civil rights movements?",
+      "options": {
+        "A": "It was used only in the American Civil Rights Movement.",
+        "B": "It was a strategy used to confront racial segregation in the United States.",
+        "C": "It proved ineffective compared to other approaches.",
+        "D": "It was rejected by most movement leaders."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What challenge do civil rights movements face in the digital era, according to the passage?",
+      "options": {
+        "A": "Lack of public interest",
+        "B": "Insufficient funding",
+        "C": "Vulnerability to surveillance and misinformation",
+        "D": "Inability to reach younger generations"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
