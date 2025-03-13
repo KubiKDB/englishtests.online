@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The Age of Imperialism, spanning roughly from the late 19th to the early 20th century, marked an unprecedented period of European expansion across Africa, Asia, and the Pacific. This era was characterized by the rapid acquisition of territories by powerful nations seeking to extend their political influence, economic resources, and cultural dominance. The technological advancements following the Industrial Revolution—including steamships, railways, and telegraph communications—provided European powers with unprecedented capabilities to project military force and administrative control over distant regions, fundamentally altering the global balance of power.<br><br>(2) Economic motivations served as primary drivers of imperial expansion. The quest for raw materials to fuel growing industries, new markets for manufactured goods, and profitable investment opportunities pushed nations to establish colonial holdings. Western powers implemented extractive economic policies designed to benefit the metropole rather than foster local development. Indigenous economies were often restructured to focus on cash crops or resource extraction, disrupting traditional livelihoods and creating economic dependencies that would persist long after formal colonial rule ended. These economic transformations introduced new commodities to global markets while simultaneously creating vulnerability in colonial economies tied to fluctuating international prices.<br><br>(3) The social and cultural dimensions of imperialism proved equally transformative. Colonial administrators sought to classify indigenous populations according to Western taxonomies and imposed governance systems that frequently undermined traditional authority structures. Missionary activities, educational policies, and administrative practices exposed local populations to European values, languages, and social organizations. This cultural imperialism created complex dynamics of assimilation, resistance, and hybridization as colonized peoples navigated between preserving cultural identities and adapting to new realities. The ambitious project of "civilizing" non-Western peoples often masked exploitation behind rhetoric of progress and development.<br><br>(4) Resistance to imperial domination took various forms across different regions and periods. Some societies mounted sophisticated military resistance, while others engaged in passive non-cooperation, strategic accommodation, or intellectual critique of colonial ideologies. Anti-colonial movements gradually evolved from localized protests to organized nationalist campaigns advocating for self-determination and equality. Indigenous leaders often appropriated Western concepts of nationalism, democracy, and human rights to challenge the legitimacy of colonial rule, demonstrating the paradoxical ways in which imperial systems contained the seeds of their own dissolution. By the mid-20th century, these movements would successfully force European powers to withdraw from most colonial possessions.<br><br>(5) The legacies of imperialism continue to shape our contemporary world in profound ways. Modern geopolitical boundaries, language distributions, legal systems, and economic relationships often reflect colonial histories. Postcolonial nations continue to grapple with institutional structures inherited from colonial periods, while global economic disparities partially trace their origins to imperial exploitation. Cultural exchanges during this period produced enduring influences in art, literature, cuisine, and social practices in both colonizing and colonized societies. The complex interplay between imperial domination and local agency remains central to understanding global history, reminding us that current international relations still unfold within contexts partially defined by this transformative era.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which sentence uses the present perfect tense correctly?",
+      "options": {
+        "A": "I live in New York since 2010.",
+        "B": "She has gone to Paris last summer.",
+        "C": "They have studied English for three years.",
+        "D": "We are working here for six months."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct relative pronoun: 'The book _____ you recommended was excellent.'",
+      "options": {
+        "A": "who",
+        "B": "whom",
+        "C": "whose",
+        "D": "which"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the correct form of the reported speech. Direct speech: 'I am going to the store now.'",
+      "options": {
+        "A": "She said she is going to the store now.",
+        "B": "She said she was going to the store then.",
+        "C": "She said she has gone to the store now.",
+        "D": "She said she will go to the store then."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence contains a correct conditional form?",
+      "options": {
+        "A": "If I will study harder, I would pass the exam.",
+        "B": "If I had studied harder, I will pass the exam.",
+        "C": "If I studied harder, I would pass the exam.",
+        "D": "If I study harder, I would pass the exam."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the sentence with the correct passive voice construction.",
+      "options": {
+        "A": "The cake is baking by my mother.",
+        "B": "The report will written by tomorrow.",
+        "C": "The house was building last year.",
+        "D": "The decision has been made by the committee."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the correct form to complete the sentence: 'Despite _____ early, we missed the train.'",
+      "options": {
+        "A": "arrive",
+        "B": "to arrive",
+        "C": "arriving",
+        "D": "arrived"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which sentence demonstrates correct subject-verb agreement?",
+      "options": {
+        "A": "The team are playing well this season.",
+        "B": "Neither of the students have completed the assignment.",
+        "C": "Each of the participants was given a certificate.",
+        "D": "The number of applications have increased significantly."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct modal verb for giving advice: 'You _____ see a doctor about that cough.'",
+      "options": {
+        "A": "will",
+        "B": "would",
+        "C": "could",
+        "D": "should"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Select the sentence with the correct use of articles.",
+      "options": {
+        "A": "She's studying in university to become engineer.",
+        "B": "The Mount Everest is highest mountain in the world.",
+        "C": "I need an umbrella because it's raining heavily.",
+        "D": "We had the dinner at restaurant last night."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence contains a correctly formed comparative?",
+      "options": {
+        "A": "This problem is more simpler than I expected.",
+        "B": "The new office is more spacious than the old one.",
+        "C": "She runs more faster than her brother.",
+        "D": "My car is more cheaper than yours."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Identify the sentence with the correct form of the future perfect tense.",
+      "options": {
+        "A": "By next year, she will graduate from college.",
+        "B": "By next year, she will have graduated from college.",
+        "C": "By next year, she will be graduating from college.",
+        "D": "By next year, she has graduated from college."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Choose the correct preposition: 'The students are excited _____ their upcoming field trip.'",
+      "options": {
+        "A": "for",
+        "B": "with",
+        "C": "by",
+        "D": "about"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Select the correct punctuation for this sentence: '_____ it was raining we still went to the park.'",
+      "options": {
+        "A": "Although,",
+        "B": "Although",
+        "C": "However,",
+        "D": "Nevertheless,"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct form of the verb to complete this sentence: 'I wish I _____ more time to complete the project.'",
+      "options": {
+        "A": "have",
+        "B": "had",
+        "C": "will have",
+        "D": "would have"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Which sentence contains a correctly used past perfect tense?",
+      "options": {
+        "A": "After she has finished her homework, she went to bed.",
+        "B": "By the time he arrived, the movie already started.",
+        "C": "The train had left before we reached the station.",
+        "D": "When we got home, she has prepared dinner."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct phrasal verb: 'The meeting has been _____ until next week.'",
+      "options": {
+        "A": "put off",
+        "B": "put down",
+        "C": "put away",
+        "D": "put out"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the appropriate idiom to complete this sentence: 'Finding a solution to this problem is like _____.'",
+      "options": {
+        "A": "barking up the wrong tree",
+        "B": "looking for a needle in a haystack",
+        "C": "killing two birds with one stone",
+        "D": "beating around the bush"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct collocation: 'The government needs to _____ new legislation to address this issue.'",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "create",
+        "D": "introduce"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Select the appropriate connector for this sentence: 'He didn't get the job _____ having all the necessary qualifications.'",
+      "options": {
+        "A": "because of",
+        "B": "despite",
+        "C": "therefore",
+        "D": "so that"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the word that best completes this sentence: 'His explanation was so _____ that no one understood what he meant.'",
+      "options": {
+        "A": "transparent",
+        "B": "eloquent",
+        "C": "vague",
+        "D": "precise"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Identify the most formal way to request information in an email.",
+      "options": {
+        "A": "I want to know about your services.",
+        "B": "Could you tell me about your services?",
+        "C": "I would appreciate it if you could provide information regarding your services.",
+        "D": "Give me details about what you offer."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Select the most appropriate word to complete this sentence in academic writing: 'The research _____ that climate change is accelerating.'",
+      "options": {
+        "A": "says",
+        "B": "tells",
+        "C": "indicates",
+        "D": "thinks"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct expression to complete this business email: 'I _____ to hearing from you soon.'",
+      "options": {
+        "A": "look ahead",
+        "B": "look forward",
+        "C": "look after",
+        "D": "look into"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Which word does NOT collocate with 'pay'?",
+      "options": {
+        "A": "attention",
+        "B": "respect",
+        "C": "a visit",
+        "D": "bills"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the correct form to complete this fixed expression: 'The concert was canceled _____ short notice.'",
+      "options": {
+        "A": "in",
+        "B": "with",
+        "C": "at",
+        "D": "on"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Which sentence uses the word 'classify' correctly?",
+      "options": {
+        "A": "Scientists classify whales as mammals, not fish.",
+        "B": "They classify to the store to buy groceries.",
+        "C": "She will classify her vacation next week.",
+        "D": "The students classify the exam yesterday."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the best definition for 'verdict'.",
+      "options": {
+        "A": "A formal written agreement",
+        "B": "A decision reached by a jury in a trial",
+        "C": "A type of academic qualification",
+        "D": "An official financial report"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "In which sentence is 'commodity' used correctly?",
+      "options": {
+        "A": "His commodity at the meeting surprised everyone.",
+        "B": "Oil is a widely traded global commodity.",
+        "C": "She passed her commodity exam with distinction.",
+        "D": "The commodity was too small for everyone to see."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Choose the best synonym for 'ambitious'.",
+      "options": {
+        "A": "cautious",
+        "B": "hesitant",
+        "C": "determined",
+        "D": "modest"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Which word is closest in meaning to 'equality'?",
+      "options": {
+        "A": "superiority",
+        "B": "fairness",
+        "C": "difference",
+        "D": "obligation"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "In which context would the word 'warmth' most likely be used?",
+      "options": {
+        "A": "Describing someone's friendly personality",
+        "B": "Measuring the weight of an object",
+        "C": "Calculating financial profit",
+        "D": "Explaining a legal procedure"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Which sentence uses 'expedition' correctly?",
+      "options": {
+        "A": "The company expedition a new product next month.",
+        "B": "His expedition was too loud for the library.",
+        "C": "They organized an expedition to climb Mount Everest.",
+        "D": "She needs to expedition her homework tonight."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Choose the correct meaning of 'withdraw' in this sentence: 'He decided to withdraw his application for the position.'",
+      "options": {
+        "A": "To submit formally",
+        "B": "To take back or remove",
+        "C": "To strongly emphasize",
+        "D": "To review thoroughly"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Which is the best definition of 'vulnerability'?",
+      "options": {
+        "A": "The quality of being easily physically or emotionally hurt",
+        "B": "The ability to recover quickly from difficulties",
+        "C": "A strong desire to achieve something",
+        "D": "The state of being extremely confident"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "In which sentence is 'sophisticated' used correctly?",
+      "options": {
+        "A": "The restaurant serves sophisticated food at reasonable prices.",
+        "B": "They sophisticated the meeting until next week.",
+        "C": "Her handwriting is very sophisticated and difficult to read.",
+        "D": "The computer sophisticated during the storm."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Choose the best synonym for 'guidance'.",
+      "options": {
+        "A": "confusion",
+        "B": "direction",
+        "C": "misunderstanding",
+        "D": "obstruction"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Which word is an antonym of 'excitement'?",
+      "options": {
+        "A": "enthusiasm",
+        "B": "eagerness",
+        "C": "anticipation",
+        "D": "boredom"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Select the sentence where 'appreciation' is used correctly.",
+      "options": {
+        "A": "The value of the house showed significant appreciation over ten years.",
+        "B": "She wrote an appreciation to the company yesterday.",
+        "C": "They appreciation the park for their picnic.",
+        "D": "The teacher appreciation the homework to the students."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Which sentence uses 'capability' correctly?",
+      "options": {
+        "A": "They capability the project before the deadline.",
+        "B": "The new software has the capability to process data much faster.",
+        "C": "She capability her car in the parking lot.",
+        "D": "We capability to the museum last weekend."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Choose the correct meaning of 'expose' in this context: 'The journalist worked to expose corruption in the government.'",
+      "options": {
+        "A": "To cover or hide",
+        "B": "To reveal or uncover",
+        "C": "To create or develop",
+        "D": "To support or defend"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what technological development helped European powers control distant territories?",
+      "options": {
+        "A": "Aircraft",
+        "B": "Automobiles",
+        "C": "Telegraph communications",
+        "D": "Submarines"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Based on paragraph 2, what was the primary consequence of colonial economic policies for indigenous economies?",
+      "options": {
+        "A": "Rapid industrialization",
+        "B": "Economic independence",
+        "C": "Creation of dependency relationships",
+        "D": "Elimination of international trade"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "The phrase 'cultural imperialism' in paragraph 3 most likely refers to:",
+      "options": {
+        "A": "The preservation of indigenous cultures",
+        "B": "The imposition of European values and practices",
+        "C": "Cultural exchange between equal partners",
+        "D": "The systematic documentation of global cultures"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to paragraph 4, what is described as a 'paradoxical' aspect of anti-colonial resistance?",
+      "options": {
+        "A": "Military resistance against superior forces",
+        "B": "The use of Western concepts to challenge Western dominance",
+        "C": "The spread of European languages in colonized regions",
+        "D": "The failure of nationalist movements to gain independence"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Which of the following is NOT mentioned as a legacy of imperialism in paragraph 5?",
+      "options": {
+        "A": "Modern geopolitical boundaries",
+        "B": "Global economic disparities",
+        "C": "Technological innovations",
+        "D": "Legal systems"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What does the passage suggest about the relationship between industrialization and imperialism?",
+      "options": {
+        "A": "Industrialization was opposed by imperial powers",
+        "B": "Technological advancements enabled imperial expansion",
+        "C": "Imperialism slowed industrial development in Europe",
+        "D": "Industrial technology was freely shared with colonized peoples"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "The word 'hybridization' in paragraph 3 most nearly means:",
+      "options": {
+        "A": "Complete rejection of foreign influence",
+        "B": "Technological improvement",
+        "C": "Blending of different cultural elements",
+        "D": "Scientific classification"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What can be inferred about colonial administrators from paragraph 3?",
+      "options": {
+        "A": "They respected indigenous governance systems",
+        "B": "They primarily focused on military control",
+        "C": "They tended to impose Western categories and structures",
+        "D": "They were mainly concerned with religious conversion"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to the passage, what ultimately led to the end of most colonial empires?",
+      "options": {
+        "A": "Economic collapse in Europe",
+        "B": "Technological limitations",
+        "C": "Successful anti-colonial movements",
+        "D": "Declining interest in overseas territories"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the author's primary purpose in the passage?",
+      "options": {
+        "A": "To argue that imperialism was morally justified",
+        "B": "To analyze the complex causes and effects of imperial expansion",
+        "C": "To criticize European powers for their colonial policies",
+        "D": "To compare different colonial administrative systems"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
