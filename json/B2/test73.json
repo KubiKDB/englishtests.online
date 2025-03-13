@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The Amazon rainforest, often called the \"lungs of the Earth,\" is a massive ecosystem stretching across nine South American countries. Spanning over 5.5 million square kilometers, it contains approximately 390 billion trees and an incredible variety of plants and animals. This vast forest significantly influences global climate by absorbing carbon dioxide and producing oxygen, helping to combat climate change.<br><br>(2) The Amazon’s biodiversity is unparalleled. Scientists estimate it harbors about 10% of the planet’s known species, including over 2.5 million types of insects, 2,000 bird species, and numerous mammals, reptiles, and amphibians. Well-known creatures like jaguars, sloths, and pink river dolphins thrive here. The forest also supports indigenous communities that have coexisted with nature for millennia.<br><br>(3) Despite its importance, the Amazon faces serious threats. Deforestation, driven by agriculture, logging, and mining, destroys large swathes of the forest annually. Recent statistics show an alarming rise in deforestation rates, endangering wildlife and indigenous livelihoods while releasing stored carbon, which worsens climate change.<br><br>(4) Conservation efforts are underway to safeguard the Amazon. Governments and organizations are creating protected zones, encouraging sustainable practices, and reinforcing indigenous land rights. Global collaboration is vital since the forest’s condition impacts the entire world. Programs like the Amazon Fund collect funds for conservation and sustainable projects.<br><br>(5) There remains hope for the Amazon’s future. Technological advancements, such as satellite monitoring, enhance efforts to curb illegal deforestation. Increasing worldwide recognition of the forest’s value has spurred greater support for its preservation. Collective action could ensure the Amazon endures for future generations.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "I need to _____ a new apartment since my lease is ending next month.",
+      "options": {
+        "A": "look up",
+        "B": "look after",
+        "C": "look for",
+        "D": "look out"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "She remembered _____ the door before leaving for vacation.",
+      "options": {
+        "A": "to lock",
+        "B": "locking",
+        "C": "lock",
+        "D": "to locking"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "John wanted to go to the party, but I didn't _____.",
+      "options": {
+        "A": "wanted",
+        "B": "want to",
+        "C": "want",
+        "D": "wanting"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "You _____ me about the schedule change. I waited for two hours at the wrong location!",
+      "options": {
+        "A": "should have told",
+        "B": "might told",
+        "C": "could telling",
+        "D": "must have tell"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "The teacher asked us _____ during the exam.",
+      "options": {
+        "A": "not to talk",
+        "B": "if we not talk",
+        "C": "that we don't talk",
+        "D": "do we not talk"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "There aren't _____ students attending the lecture today.",
+      "options": {
+        "A": "much",
+        "B": "a few",
+        "C": "many",
+        "D": "little"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "By this time tomorrow, the committee _____ a decision on the proposal.",
+      "options": {
+        "A": "will make",
+        "B": "will have made",
+        "C": "will be making",
+        "D": "makes"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "I _____ what you're saying, but I don't agree with your conclusion.",
+      "options": {
+        "A": "understand",
+        "B": "am understanding",
+        "C": "understanding",
+        "D": "have understood"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "She _____ be at home now; I just saw her car in the driveway.",
+      "options": {
+        "A": "can't",
+        "B": "must",
+        "C": "might",
+        "D": "should"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "The museum, _____ was built in the 18th century, attracts thousands of visitors each year.",
+      "options": {
+        "A": "that",
+        "B": "which",
+        "C": "who",
+        "D": "where"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "This smartphone is _____ than the previous model but still not _____ on the market.",
+      "options": {
+        "A": "more efficient / the most expensive",
+        "B": "more efficiently / more expensive",
+        "C": "efficiently / most expensive",
+        "D": "most efficient / most expensive"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "While I _____ dinner, my sister _____ me about her new job.",
+      "options": {
+        "A": "was preparing / called",
+        "B": "prepared / was calling",
+        "C": "prepared / called",
+        "D": "was preparing / was calling"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "If I _____ more time, I would have completed the assignment yesterday.",
+      "options": {
+        "A": "have",
+        "B": "had had",
+        "C": "would have",
+        "D": "have had"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "The _____ of the new software has greatly improved our productivity.",
+      "options": {
+        "A": "introduce",
+        "B": "introducing",
+        "C": "introduced",
+        "D": "introduction"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "All the documents _____ by tomorrow afternoon so we can proceed with the application.",
+      "options": {
+        "A": "must be submitted",
+        "B": "will submit",
+        "C": "are being submitted",
+        "D": "submit"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Fill in the blank: He ___ to the meeting yesterday.",
+      "options": {
+        "A": "go",
+        "B": "gone",
+        "C": "went",
+        "D": "going"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct word: She is ___ than her sister.",
+      "options": {
+        "A": "tall",
+        "B": "taller",
+        "C": "tallest",
+        "D": "more tall"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Fill in the blank: They ___ finished their homework.",
+      "options": {
+        "A": "have",
+        "B": "has",
+        "C": "had",
+        "D": "having"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Select the correct preposition: I am good ___ math.",
+      "options": {
+        "A": "at",
+        "B": "in",
+        "C": "on",
+        "D": "with"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct word: He runs ___ than me.",
+      "options": {
+        "A": "fast",
+        "B": "faster",
+        "C": "fastest",
+        "D": "more fast"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Fill in the blank: She ___ to school every day.",
+      "options": {
+        "A": "go",
+        "B": "goes",
+        "C": "gone",
+        "D": "going"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Select the correct article: ___ apple is on the table.",
+      "options": {
+        "A": "A",
+        "B": "An",
+        "C": "The",
+        "D": "No article"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct word: I ___ tired after work.",
+      "options": {
+        "A": "am",
+        "B": "is",
+        "C": "are",
+        "D": "be"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Fill in the blank: He ___ playing football now.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "was",
+        "D": "be"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the correct preposition: She lives ___ London.",
+      "options": {
+        "A": "at",
+        "B": "in",
+        "C": "on",
+        "D": "with"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the synonym for 'happy'.",
+      "options": {
+        "A": "Sad",
+        "B": "Joyful",
+        "C": "Angry",
+        "D": "Tired"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "What does 'enormous' mean?",
+      "options": {
+        "A": "Small",
+        "B": "Big",
+        "C": "Tiny",
+        "D": "Average"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Select the correct meaning of 'brave'.",
+      "options": {
+        "A": "Cowardly",
+        "B": "Fearless",
+        "C": "Shy",
+        "D": "Weak"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Choose the synonym for 'quick'.",
+      "options": {
+        "A": "Slow",
+        "B": "Fast",
+        "C": "Late",
+        "D": "Heavy"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "What does 'difficult' mean?",
+      "options": {
+        "A": "Easy",
+        "B": "Hard",
+        "C": "Simple",
+        "D": "Clear"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Select the correct synonym for 'begin'.",
+      "options": {
+        "A": "End",
+        "B": "Start",
+        "C": "Stop",
+        "D": "Finish"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Choose the meaning of 'calm'.",
+      "options": {
+        "A": "Angry",
+        "B": "Peaceful",
+        "C": "Nervous",
+        "D": "Loud"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "What is a synonym for 'tired'.",
+      "options": {
+        "A": "Energetic",
+        "B": "Exhausted",
+        "C": "Awake",
+        "D": "Active"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Select the meaning of 'bright'.",
+      "options": {
+        "A": "Dark",
+        "B": "Light",
+        "C": "Dull",
+        "D": "Dim"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Choose the synonym for 'cold'.",
+      "options": {
+        "A": "Hot",
+        "B": "Chilly",
+        "C": "Warm",
+        "D": "Burning"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What does 'famous' mean?",
+      "options": {
+        "A": "Unknown",
+        "B": "Well-known",
+        "C": "Hidden",
+        "D": "Secret"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Select the synonym for 'glad'.",
+      "options": {
+        "A": "Sad",
+        "B": "Happy",
+        "C": "Angry",
+        "D": "Upset"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Choose the meaning of 'loud'.",
+      "options": {
+        "A": "Quiet",
+        "B": "Noisy",
+        "C": "Silent",
+        "D": "Soft"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "What is a synonym for 'old'.",
+      "options": {
+        "A": "New",
+        "B": "Aged",
+        "C": "Young",
+        "D": "Fresh"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Select the meaning of 'rich'.",
+      "options": {
+        "A": "Poor",
+        "B": "Wealthy",
+        "C": "Empty",
+        "D": "Simple"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "What is the main idea of the first paragraph?",
+      "options": {
+        "A": "The size of the Amazon rainforest",
+        "B": "The Amazon’s role in climate regulation",
+        "C": "The number of trees in the Amazon",
+        "D": "The variety of animals in the Amazon"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "According to the second paragraph, what is unique about the Amazon?",
+      "options": {
+        "A": "Its size",
+        "B": "Its biodiversity",
+        "C": "Its climate",
+        "D": "Its location"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "What is a major threat to the Amazon mentioned in the third paragraph?",
+      "options": {
+        "A": "Pollution",
+        "B": "Deforestation",
+        "C": "Overpopulation",
+        "D": "Earthquakes"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "What is one conservation effort mentioned in the fourth paragraph?",
+      "options": {
+        "A": "Building cities",
+        "B": "Creating protected zones",
+        "C": "Increasing logging",
+        "D": "Reducing tourism"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What gives hope for the Amazon’s future according to the fifth paragraph?",
+      "options": {
+        "A": "More deforestation",
+        "B": "Technological advancements",
+        "C": "Fewer animals",
+        "D": "Less funding"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "How many countries does the Amazon rainforest span?",
+      "options": {
+        "A": "Seven",
+        "B": "Eight",
+        "C": "Nine",
+        "D": "Ten"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What percentage of the planet’s known species does the Amazon harbor?",
+      "options": {
+        "A": "5%",
+        "B": "10%",
+        "C": "15%",
+        "D": "20%"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What drives deforestation in the Amazon?",
+      "options": {
+        "A": "Tourism",
+        "B": "Agriculture, logging, and mining",
+        "C": "Conservation efforts",
+        "D": "Wildlife protection"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What is the Amazon Fund mentioned in the passage?",
+      "options": {
+        "A": "A fund for building roads",
+        "B": "A fund for conservation and sustainable projects",
+        "C": "A fund for mining",
+        "D": "A fund for deforestation"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the tone of the passage?",
+      "options": {
+        "A": "Hopeless",
+        "B": "Neutral",
+        "C": "Hopeful",
+        "D": "Angry"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
