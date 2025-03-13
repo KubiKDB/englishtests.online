@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Time zones are a way to standardize time across the globe. Because the Earth rotates, different parts of the world experience daylight and darkness at different times. Before time zones, each town set its own local time based on the position of the sun. This worked fine until the development of faster transportation, like trains, which needed a standardized time system to create schedules. Today, time zones help us coordinate activities like travel, communication, and business across different regions.<br><br>(2) The concept of time zones was first proposed by Sir Sandford Fleming in the 1870s. He suggested dividing the world into 24 time zones, each one hour apart. This idea was adopted at the International Meridian Conference in 1884, where the Prime Meridian in Greenwich, England, was chosen as the starting point for time zones. This is why we have Greenwich Mean Time (GMT) as a reference point for time around the world.<br><br>(3) The Earth is divided into 24 time zones, each covering 15 degrees of longitude. As you move east, the time advances by one hour per time zone, and as you move west, it goes back by one hour. For example, if it's 12:00 PM in London (GMT), it's 7:00 AM in New York (GMT-5) and 9:00 PM in Tokyo (GMT+9). However, not all time zones are exactly one hour apart; some countries use half-hour or quarter-hour differences.<br><br>(4) There are exceptions to the standard time zone system. Many countries observe Daylight Saving Time (DST), where clocks are set forward by one hour during the summer months to make better use of daylight. Additionally, some countries, like China, have a single time zone despite spanning multiple geographical time zones. This can lead to unusual situations, such as the sun rising and setting at the same time across a large country.<br><br>(5) Time zones are crucial in our interconnected world. They affect international travel, as flight schedules must account for time differences. Global businesses rely on time zones to coordinate meetings and operations across different countries. Even something as simple as scheduling a phone call with a friend in another country requires an understanding of time zones. Without them, coordinating time across the globe would be chaotic and confusing.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "He go to school every day.",
+        "B": "He goes to school every day.",
+        "C": "He going to school every day.",
+        "D": "He went to school every day."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "If I _____ enough money, I would buy a new car.",
+      "options": {
+        "A": "have",
+        "B": "had",
+        "C": "will have",
+        "D": "would have"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "The book _____ I borrowed from the library is very interesting.",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "She _____ her homework by the time the movie starts.",
+      "options": {
+        "A": "will finish",
+        "B": "finishes",
+        "C": "finished",
+        "D": "will have finished"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "I wish I _____ to the party last night.",
+      "options": {
+        "A": "go",
+        "B": "went",
+        "C": "had gone",
+        "D": "have gone"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "The teacher asked the students _____ quietly.",
+      "options": {
+        "A": "to sit",
+        "B": "sit",
+        "C": "sitting",
+        "D": "sat"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Neither the manager nor the employees _____ happy with the decision.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "was",
+        "D": "were"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "By this time next year, I _____ my degree.",
+      "options": {
+        "A": "will complete",
+        "B": "complete",
+        "C": "will have completed",
+        "D": "completed"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "The car needs _____.",
+      "options": {
+        "A": "to repair",
+        "B": "repairing",
+        "C": "repaired",
+        "D": "repair"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "She is not used to _____ up early.",
+      "options": {
+        "A": "get",
+        "B": "getting",
+        "C": "got",
+        "D": "gets"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "I would rather you _____ the truth.",
+      "options": {
+        "A": "tell",
+        "B": "told",
+        "C": "telling",
+        "D": "to tell"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "The more you practice, _____ you will become.",
+      "options": {
+        "A": "the best",
+        "B": "the better",
+        "C": "better",
+        "D": "best"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "He suggested _____ to the cinema.",
+      "options": {
+        "A": "to go",
+        "B": "going",
+        "C": "go",
+        "D": "went"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "She has been living here _____ 2010.",
+      "options": {
+        "A": "since",
+        "B": "for",
+        "C": "from",
+        "D": "until"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "The teacher made the students _____ the assignment again.",
+      "options": {
+        "A": "do",
+        "B": "to do",
+        "C": "doing",
+        "D": "did"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "I'm really looking forward _____ my vacation next month.",
+      "options": {
+        "A": "to",
+        "B": "for",
+        "C": "at",
+        "D": "on"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "She is very good _____ playing the piano.",
+      "options": {
+        "A": "in",
+        "B": "at",
+        "C": "on",
+        "D": "with"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "He succeeded _____ passing the exam.",
+      "options": {
+        "A": "in",
+        "B": "on",
+        "C": "at",
+        "D": "with"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "The company is planning _____ a new product next year.",
+      "options": {
+        "A": "to launch",
+        "B": "launching",
+        "C": "launch",
+        "D": "launched"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "She is interested _____ learning a new language.",
+      "options": {
+        "A": "in",
+        "B": "at",
+        "C": "on",
+        "D": "with"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "He is known _____ his generosity.",
+      "options": {
+        "A": "for",
+        "B": "with",
+        "C": "by",
+        "D": "to"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "The teacher insisted _____ the students doing their homework.",
+      "options": {
+        "A": "on",
+        "B": "in",
+        "C": "at",
+        "D": "with"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "She apologized _____ being late.",
+      "options": {
+        "A": "for",
+        "B": "with",
+        "C": "by",
+        "D": "to"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "He is capable _____ solving complex problems.",
+      "options": {
+        "A": "of",
+        "B": "with",
+        "C": "by",
+        "D": "to"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "The manager is responsible _____ the team's performance.",
+      "options": {
+        "A": "for",
+        "B": "with",
+        "C": "by",
+        "D": "to"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What is a synonym for 'enormous'?",
+      "options": {
+        "A": "Tiny",
+        "B": "Small",
+        "C": "Huge",
+        "D": "Average"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "What is the opposite of 'generous'?",
+      "options": {
+        "A": "Kind",
+        "B": "Selfish",
+        "C": "Friendly",
+        "D": "Helpful"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Which word means 'to make something less'?",
+      "options": {
+        "A": "Increase",
+        "B": "Decrease",
+        "C": "Maintain",
+        "D": "Stabilize"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "What does 'to postpone' mean?",
+      "options": {
+        "A": "To cancel",
+        "B": "To delay",
+        "C": "To advance",
+        "D": "To schedule"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Which word is a synonym for 'accurate'?",
+      "options": {
+        "A": "Incorrect",
+        "B": "Precise",
+        "C": "Wrong",
+        "D": "Mistaken"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "What is the meaning of 'to persuade'?",
+      "options": {
+        "A": "To convince",
+        "B": "To discourage",
+        "C": "To confuse",
+        "D": "To mislead"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Which word means 'a lack of something'?",
+      "options": {
+        "A": "Abundance",
+        "B": "Scarcity",
+        "C": "Plenty",
+        "D": "Surplus"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "What is a synonym for 'to commence'?",
+      "options": {
+        "A": "To end",
+        "B": "To start",
+        "C": "To finish",
+        "D": "To stop"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What does 'to enhance' mean?",
+      "options": {
+        "A": "To worsen",
+        "B": "To improve",
+        "C": "To maintain",
+        "D": "To reduce"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Which word is the opposite of 'ancient'?",
+      "options": {
+        "A": "Old",
+        "B": "Historic",
+        "C": "Modern",
+        "D": "Traditional"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What is a synonym for 'to prohibit'?",
+      "options": {
+        "A": "To allow",
+        "B": "To permit",
+        "C": "To ban",
+        "D": "To encourage"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "What does 'to resemble' mean?",
+      "options": {
+        "A": "To look like",
+        "B": "To differ from",
+        "C": "To contrast with",
+        "D": "To oppose"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Which word means 'a feeling of happiness'?",
+      "options": {
+        "A": "Joy",
+        "B": "Sadness",
+        "C": "Anger",
+        "D": "Fear"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "What is the meaning of 'to abandon'?",
+      "options": {
+        "A": "To keep",
+        "B": "To leave",
+        "C": "To hold",
+        "D": "To retain"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Which word is a synonym for 'to discover'?",
+      "options": {
+        "A": "To hide",
+        "B": "To find",
+        "C": "To lose",
+        "D": "To conceal"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "What was the main reason for creating time zones?",
+      "options": {
+        "A": "To make train schedules easier",
+        "B": "To standardize time for global communication",
+        "C": "To help people track the position of the sun",
+        "D": "To divide the world into 24 equal parts"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Who proposed the idea of dividing the world into 24 time zones?",
+      "options": {
+        "A": "The International Meridian Conference",
+        "B": "Sir Sandford Fleming",
+        "C": "The Prime Minister of England",
+        "D": "The inventor of the railroad"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "What is the reference point for time zones?",
+      "options": {
+        "A": "The Equator",
+        "B": "The Prime Meridian",
+        "C": "The International Date Line",
+        "D": "The North Pole"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "How many degrees of longitude does each time zone cover?",
+      "options": {
+        "A": "10 degrees",
+        "B": "15 degrees",
+        "C": "20 degrees",
+        "D": "25 degrees"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What is an example of an exception to the standard time zone system?",
+      "options": {
+        "A": "The use of Greenwich Mean Time",
+        "B": "The division of the Earth into 24 time zones",
+        "C": "Daylight Saving Time",
+        "D": "The one-hour difference between time zones"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "Why does China have a single time zone despite its size?",
+      "options": {
+        "A": "To make it easier for travelers",
+        "B": "To avoid confusion in scheduling",
+        "C": "To maintain uniformity across the country",
+        "D": "The passage does not provide a reason"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What is one effect of time zones on global business?",
+      "options": {
+        "A": "They make it harder to schedule meetings",
+        "B": "They require businesses to operate 24/7",
+        "C": "They help coordinate operations across countries",
+        "D": "They eliminate the need for international travel"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What does the word 'chaotic' mean in the context of the last paragraph?",
+      "options": {
+        "A": "Orderly",
+        "B": "Confusing",
+        "C": "Efficient",
+        "D": "Simple"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Which of the following is NOT mentioned as being affected by time zones?",
+      "options": {
+        "A": "Travel",
+        "B": "Communication",
+        "C": "Weather forecasting",
+        "D": "Business"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the overall tone of the passage?",
+      "options": {
+        "A": "Critical",
+        "B": "Humorous",
+        "C": "Informative",
+        "D": "Persuasive"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
