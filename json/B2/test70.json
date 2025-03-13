@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Decolonization movements of the 20th century represent one of the most significant political transformations in modern history. Following centuries of European imperial dominance across Africa, Asia, and the Caribbean, the decades after World War II witnessed a dramatic shift as colonized peoples mobilized to demand independence and self-determination. These movements emerged from complex historical conditions, including the weakening of European powers after two devastating world wars, the rise of nationalist sentiments among colonized populations, and growing international pressure against colonial rule. The United Nations, established in 1945, provided a global platform that increasingly recognized the right of all peoples to determine their own political futures.<br><br>(2) African decolonization unfolded with remarkable speed during the 1950s and 1960s, often called the 'Wind of Change' era. Ghana's independence in 1957, under the leadership of Kwame Nkrumah, inspired numerous liberation struggles across the continent. By 1966, over 30 African nations had achieved independence. While some territories gained freedom through negotiation, others faced violent resistance from colonial powers. Algeria's war for independence (1954-1962) against France claimed hundreds of thousands of lives, while Kenya's Mau Mau uprising against British rule led to thousands of casualties before independence was achieved in 1963. These struggles reflected the determination of colonized peoples to secure political autonomy despite tremendous costs.<br><br>(3) In Asia, the trajectory of decolonization began earlier but followed diverse paths. India's independence movement, led by Mahatma Gandhi's philosophy of non-violent resistance, culminated in freedom from British rule in 1947, though it came with the painful partition into India and Pakistan. Indonesia declared independence from the Netherlands in 1945, but full recognition came only after four years of armed conflict. Vietnam's struggle extended over decades, first against French colonial control until 1954, then against American intervention until 1975. These movements often intertwined with ideological battles of the Cold War, as newly independent nations navigated between competing Soviet and American influences.<br><br>(4) The Caribbean and Pacific regions experienced later waves of decolonization, with most territories gaining independence in the 1960s through 1980s. Jamaica and Trinidad and Tobago achieved independence from Britain in 1962, while smaller islands followed later. The process often involved careful negotiation of post-colonial relationships, including considerations of economic dependency, defense agreements, and migration pathways. Some territories chose alternative arrangements to full independence, such as free association or continued integration with former colonial powers, reflecting the complex realities of small island states in the global economy.<br><br>(5) The legacy of decolonization movements extends far beyond the formal transfer of political power. Newly independent nations faced immense challenges in building national identity, establishing functioning institutions, and developing economic systems often shaped by colonial extraction. Many countries struggled with artificial boundaries drawn by colonial powers, leading to ethnic tensions and civil conflicts. Nevertheless, decolonization transformed global politics by establishing the principle of national self-determination and creating dozens of new voices in international forums. The Non-Aligned Movement, formed in 1961, represented an attempt by formerly colonized nations to chart an independent course in international relations, separate from Cold War power blocs, and continues to influence global governance debates to this day.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which sentence contains the correct verb form?",
+      "options": {
+        "A": "She don't understand the assignment instructions.",
+        "B": "They has been working on this project for months.",
+        "C": "The committee is discussing the proposals tomorrow.",
+        "D": "We was planning to attend the conference next week."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the grammatically correct sentence:",
+      "options": {
+        "A": "Neither the students nor the professor are able to attend.",
+        "B": "Neither the students nor the professor is able to attend.",
+        "C": "Neither the professor nor the students is able to attend.",
+        "D": "Neither the professor nor the students were able to attend."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Choose the sentence with the correct conditional form:",
+      "options": {
+        "A": "If I would know the answer, I will tell you.",
+        "B": "If I knew the answer, I will tell you.",
+        "C": "If I had known the answer, I would have told you.",
+        "D": "If I know the answer, I would tell you."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Identify the sentence with the correct use of articles:",
+      "options": {
+        "A": "She's studying at an European university.",
+        "B": "They visited the Louvre museum while in Paris.",
+        "C": "He bought a umbrella because it was raining.",
+        "D": "We need a honest discussion about the budget."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Which sentence uses the correct form of the verb in the passive voice?",
+      "options": {
+        "A": "The book was wrote by a famous author.",
+        "B": "The windows were broke during the storm.",
+        "C": "The project will be completed by next month.",
+        "D": "The car has been stole from the parking lot."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the sentence with the correct preposition usage:",
+      "options": {
+        "A": "She's been working in this company since five years.",
+        "B": "They're worried for the environmental impact.",
+        "C": "He's responsible of managing the new project.",
+        "D": "We're looking forward to hearing from you soon."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the sentence with the correct use of comparatives:",
+      "options": {
+        "A": "This book is more interesting than any book I've read.",
+        "B": "She runs more faster than her sister.",
+        "C": "Their house is more bigger than ours.",
+        "D": "This problem is more difficult than the most difficult problem we've solved before."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Which sentence has the correct word order?",
+      "options": {
+        "A": "Where you did go for your vacation last summer?",
+        "B": "I don't know why is he always late for meetings.",
+        "C": "She told me that she had never been to Paris before.",
+        "D": "The book which I bought it yesterday is very interesting."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Select the sentence with the correct use of past tenses:",
+      "options": {
+        "A": "By the time we arrived, the movie already started.",
+        "B": "She has graduated from university last year.",
+        "C": "They had been waiting for an hour when the bus finally arrived.",
+        "D": "I lived in Barcelona since I was a child until 2015."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the sentence with the correct use of modals:",
+      "options": {
+        "A": "You must to finish this report by tomorrow.",
+        "B": "She can solving complex problems easily.",
+        "C": "They should to consider all the options carefully.",
+        "D": "We might have to postpone the meeting due to bad weather."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Identify the sentence with the correct use of gerunds and infinitives:",
+      "options": {
+        "A": "She avoided to speak about her past experiences.",
+        "B": "They suggested to go to the new restaurant downtown.",
+        "C": "He enjoys reading historical novels in his free time.",
+        "D": "We decided going to the concert next weekend."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence contains the correct form of reported speech?",
+      "options": {
+        "A": "She said that she will attend the conference tomorrow.",
+        "B": "He told me that he is working on a new project.",
+        "C": "They asked if we had seen their missing cat.",
+        "D": "The professor announced that the exam is postponed."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Select the sentence with the correct subject-verb agreement:",
+      "options": {
+        "A": "The number of students in the class have increased this year.",
+        "B": "A series of lectures are scheduled for next month.",
+        "C": "Each of the participants were given a certificate.",
+        "D": "The quality of these products has improved significantly."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the sentence with the correct use of relative clauses:",
+      "options": {
+        "A": "The woman which I spoke to yesterday is a famous scientist.",
+        "B": "The book who I borrowed from the library is overdue.",
+        "C": "The city where we visited last summer has beautiful architecture.",
+        "D": "The man whom house we stayed at was very hospitable."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Identify the sentence with the correct use of articles:",
+      "options": {
+        "A": "The Mount Everest is highest mountain in the world.",
+        "B": "He plays the piano and the violin very well.",
+        "C": "We had the dinner at the new restaurant yesterday.",
+        "D": "She's studying the history at the university."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "The company faced criticism from _____ stakeholders who were concerned about environmental impacts.",
+      "options": {
+        "A": "exterior",
+        "B": "outside",
+        "C": "external",
+        "D": "outward"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 17,
+      "question": "The university has built an excellent _____ for its research in renewable energy.",
+      "options": {
+        "A": "reputation",
+        "B": "prestige",
+        "C": "fame",
+        "D": "status"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 18,
+      "question": "The project required a _____ amount of time and resources to complete.",
+      "options": {
+        "A": "significant",
+        "B": "sizeable",
+        "C": "substantial",
+        "D": "considerable"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 19,
+      "question": "The company's founder had a clear _____ of how technology could transform education.",
+      "options": {
+        "A": "view",
+        "B": "sight",
+        "C": "vision",
+        "D": "perspective"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 20,
+      "question": "The political _____ forced the minister to resign from his position.",
+      "options": {
+        "A": "controversy",
+        "B": "scandal",
+        "C": "outrage",
+        "D": "dispute"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 21,
+      "question": "The university decided to _____ the student for academic dishonesty.",
+      "options": {
+        "A": "expel",
+        "B": "dismiss",
+        "C": "suspend",
+        "D": "exclude"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 22,
+      "question": "Large tech companies continue to _____ the smartphone market.",
+      "options": {
+        "A": "control",
+        "B": "lead",
+        "C": "overcome",
+        "D": "dominate"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 23,
+      "question": "The country has a _____ approach to immigration policies.",
+      "options": {
+        "A": "liberal",
+        "B": "generous",
+        "C": "lenient",
+        "D": "tolerant"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 24,
+      "question": "Coffee is Brazil's main agricultural _____ to other countries.",
+      "options": {
+        "A": "trade",
+        "B": "product",
+        "C": "export",
+        "D": "good"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 25,
+      "question": "The company plans to _____ its new smartphone next month.",
+      "options": {
+        "A": "release",
+        "B": "begin",
+        "C": "introduce",
+        "D": "launch"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 26,
+      "question": "She received an award for her _____ contribution to cancer research.",
+      "options": {
+        "A": "remarkable",
+        "B": "exceptional",
+        "C": "outstanding",
+        "D": "excellent"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "The conflict resulted in many _____ casualties in the affected regions.",
+      "options": {
+        "A": "civilian",
+        "B": "ordinary",
+        "C": "common",
+        "D": "public"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "The researcher will _____ a series of experiments to test the new theory.",
+      "options": {
+        "A": "perform",
+        "B": "execute",
+        "C": "conduct",
+        "D": "run"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "The university has strict requirements for _____ to its graduate programs.",
+      "options": {
+        "A": "entry",
+        "B": "acceptance",
+        "C": "admission",
+        "D": "enrollment"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "She could no longer _____ her colleague's disrespectful behavior.",
+      "options": {
+        "A": "endure",
+        "B": "accept",
+        "C": "stand",
+        "D": "tolerate"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Choose the correct word to complete the idiom: The new employee passed her probation period with _____.",
+      "options": {
+        "A": "bright colors",
+        "B": "flying colors",
+        "C": "high marks",
+        "D": "great success"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 32,
+      "question": "Select the correct phrasal verb: The meeting has been _____ until next week due to scheduling conflicts.",
+      "options": {
+        "A": "put off",
+        "B": "put down",
+        "C": "put away",
+        "D": "put up"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 33,
+      "question": "Choose the correct collocation: The government has implemented several measures to _____ unemployment.",
+      "options": {
+        "A": "decrease",
+        "B": "combat",
+        "C": "lower",
+        "D": "reduce"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 34,
+      "question": "Select the appropriate preposition: The changes in policy were implemented _____ accordance _____ new regulations.",
+      "options": {
+        "A": "in / with",
+        "B": "by / to",
+        "C": "under / of",
+        "D": "with / for"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 35,
+      "question": "Choose the correct linking expression: _____, we need to consider all possible outcomes before making a decision.",
+      "options": {
+        "A": "In the meantime",
+        "B": "On the contrary",
+        "C": "In other words",
+        "D": "In any case"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 36,
+      "question": "Select the word that does NOT collocate with 'deep':",
+      "options": {
+        "A": "sleep",
+        "B": "discussion",
+        "C": "solution",
+        "D": "thought"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 37,
+      "question": "Choose the correct form for this formal email opening:",
+      "options": {
+        "A": "Hey there,",
+        "B": "Dear Sir/Madam,",
+        "C": "Hi everyone,",
+        "D": "Hello folks,"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 38,
+      "question": "Select the appropriate fixed expression: The project is currently _____.",
+      "options": {
+        "A": "in the air",
+        "B": "on the table",
+        "C": "under the bridge",
+        "D": "on hold"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 39,
+      "question": "Choose the correct binomial expression: The instructions must be followed _____.",
+      "options": {
+        "A": "here and there",
+        "B": "first and foremost",
+        "C": "to and fro",
+        "D": "safe and sound"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 40,
+      "question": "Select the word with the correct prefix to mean 'incorrectly represented':",
+      "options": {
+        "A": "disrepresented",
+        "B": "unrepresented",
+        "C": "misrepresented",
+        "D": "nonrepresented"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, which factor contributed to decolonization movements?",
+      "options": {
+        "A": "The economic prosperity of European nations",
+        "B": "The decline of nationalist sentiments",
+        "C": "The weakening of European powers after World Wars",
+        "D": "The dissolution of the United Nations"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "What does the passage identify as the 'Wind of Change' era?",
+      "options": {
+        "A": "The period of European exploration in the 19th century",
+        "B": "The rapid decolonization of African nations in the 1950s and 1960s",
+        "C": "The Cold War period of Soviet and American competition",
+        "D": "The formation of the Non-Aligned Movement in 1961"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to the passage, which leader is associated with Ghana's independence?",
+      "options": {
+        "A": "Mahatma Gandhi",
+        "B": "Kwame Nkrumah",
+        "C": "Jomo Kenyatta",
+        "D": "Patrice Lumumba"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Which philosophy is described as central to India's independence movement?",
+      "options": {
+        "A": "Armed resistance",
+        "B": "Economic sanctions",
+        "C": "International pressure",
+        "D": "Non-violent resistance"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Based on paragraph 3, which statement is true about Vietnam's independence struggle?",
+      "options": {
+        "A": "It was achieved entirely through peaceful means",
+        "B": "It lasted for decades against different foreign powers",
+        "C": "It was completely separate from Cold War dynamics",
+        "D": "It resulted in the country remaining unified throughout"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to paragraph 4, when did most Caribbean territories gain independence?",
+      "options": {
+        "A": "Immediately after World War II",
+        "B": "In the 1940s and 1950s",
+        "C": "In the 1960s through 1980s",
+        "D": "Not until the 1990s"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What does the passage identify as a challenge faced by newly independent nations?",
+      "options": {
+        "A": "Excessive foreign aid",
+        "B": "The natural boundaries created by colonial powers",
+        "C": "Tensions resulting from artificially drawn boundaries",
+        "D": "Immediate economic prosperity"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What was the primary purpose of the Non-Aligned Movement according to the passage?",
+      "options": {
+        "A": "To align formerly colonized nations with the Soviet bloc",
+        "B": "To allow independent nations to chart a course separate from Cold War powers",
+        "C": "To reverse the process of decolonization",
+        "D": "To establish economic dependency on former colonial powers"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "The passage suggests that some territories in the Caribbean and Pacific:",
+      "options": {
+        "A": "Rejected independence entirely",
+        "B": "Sought immediate alliance with Cold War powers",
+        "C": "Chose alternatives to full independence based on economic realities",
+        "D": "Were forcibly prevented from gaining independence"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What does the passage identify as a significant legacy of decolonization movements?",
+      "options": {
+        "A": "The complete resolution of all ethnic conflicts",
+        "B": "The establishment of the principle of national self-determination",
+        "C": "The end of European influence in world affairs",
+        "D": "The creation of perfect national boundaries"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
