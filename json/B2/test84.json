@@ -1,0 +1,606 @@
+126+
+{
+  "passage": "<br>(1) The invention of the printing press by Johannes Gutenberg in the mid-15th century revolutionized the way information was shared throughout Europe and eventually the world. Before this innovation, books were laboriously copied by hand, making them rare and expensive luxuries available primarily to the wealthy elite and religious institutions. The printing press dramatically reduced the cost and time required to produce books, allowing knowledge to spread more widely and rapidly than ever before.<br><br>(2) Perhaps the most profound impact of the printing revolution was on education. As books became more affordable and accessible, literacy rates began to rise across social classes. Universities expanded their libraries, and students gained access to a broader range of texts. The standardization of texts also meant that students in different locations could study the same material, facilitating more consistent educational approaches. Moreover, printing allowed for the preservation and dissemination of classical works that might otherwise have been lost to time, fueling the Renaissance's intellectual revival.<br><br>(3) In the political sphere, the printing press served as a catalyst for significant change. Governments could now distribute laws and proclamations more efficiently, strengthening central authority. Simultaneously, printing enabled the circulation of political criticisms and alternative viewpoints, challenging established powers. During the Protestant Reformation, Martin Luther's translated Bible and religious pamphlets spread rapidly thanks to the printing press, undermining the Catholic Church's authority and contributing to religious fragmentation in Europe. This democratization of information laid the groundwork for later political movements built on the spread of ideas among ordinary citizens.<br><br>(4) Culturally, the printing revolution transformed how people viewed and interacted with knowledge. Reading gradually shifted from a communal, oral activity to a private, silent one. Vernacular languages gained prominence as texts were increasingly printed in local dialects rather than Latin, strengthening national identities. Authors could now reach wider audiences, leading to the development of new literary forms and the rise of professional writers. Print culture created communities of readers who, despite geographical separation, shared common references and ideas.<br><br>(5) The printing revolution's effects have remarkable parallels with today's digital revolution. Just as the internet has transformed how we access and share information, the printing press fundamentally altered the information landscape of its era. Both innovations democratized knowledge, disrupted established authorities, and created new social connections. Understanding the profound changes brought about by the printing press helps us appreciate not only its historical significance but also provides context for the transformations we're experiencing in our own time.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "She _____ TV when the power went out.",
+      "options": {
+        "A": "watched",
+        "B": "was watching",
+        "C": "had watched",
+        "D": "has been watching"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "By the time we arrive at the theater, the movie _____ for 20 minutes.",
+      "options": {
+        "A": "will play",
+        "B": "will be playing",
+        "C": "will have played",
+        "D": "will have been playing"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "You _____ wear a seatbelt; it's the law.",
+      "options": {
+        "A": "should",
+        "B": "might",
+        "C": "must",
+        "D": "could"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "She asked me _____ help her move on Saturday.",
+      "options": {
+        "A": "that I would",
+        "B": "if I can",
+        "C": "do I",
+        "D": "if I could"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Tom said he _____ feeling well that day.",
+      "options": {
+        "A": "isn't",
+        "B": "wasn't",
+        "C": "won't be",
+        "D": "hadn't been"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "I really enjoy _____ to classical music in the evening.",
+      "options": {
+        "A": "listen",
+        "B": "to listen",
+        "C": "listening",
+        "D": "to listening"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "_____ honesty is the best policy in most situations.",
+      "options": {
+        "A": "An",
+        "B": "The",
+        "C": "A",
+        "D": ""
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Looking at those dark clouds, it _____ rain later.",
+      "options": {
+        "A": "must",
+        "B": "can",
+        "C": "should",
+        "D": "would"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "This course is _____ challenging than I expected.",
+      "options": {
+        "A": "more",
+        "B": "most",
+        "C": "much",
+        "D": "very"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "When I arrived at the station, the train _____ already.",
+      "options": {
+        "A": "was leaving",
+        "B": "had left",
+        "C": "left",
+        "D": "has left"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Water _____ at 100 degrees Celsius at standard pressure.",
+      "options": {
+        "A": "is boiling",
+        "B": "boils",
+        "C": "has boiled",
+        "D": "boiling"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "_____ that the company will announce layoffs next week.",
+      "options": {
+        "A": "It is believed",
+        "B": "They believe",
+        "C": "People are believing",
+        "D": "The belief is"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "I _____ in three different countries since I graduated.",
+      "options": {
+        "A": "lived",
+        "B": "was living",
+        "C": "have lived",
+        "D": "had lived"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "The _____ of the problem requires careful analysis.",
+      "options": {
+        "A": "solve",
+        "B": "solvable",
+        "C": "solver",
+        "D": "solution"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Could you please _____ your shoes before coming inside?",
+      "options": {
+        "A": "put off",
+        "B": "take off",
+        "C": "get off",
+        "D": "bring off"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Despite the difficulties, they managed to _____ the project on time.",
+      "options": {
+        "A": "bring up",
+        "B": "carry out",
+        "C": "come across",
+        "D": "break down"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "The new policy has come under _____ criticism from opposition parties.",
+      "options": {
+        "A": "severe",
+        "B": "fierce",
+        "C": "powerful",
+        "D": "mighty"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Her argument doesn't _____ any sense to me.",
+      "options": {
+        "A": "do",
+        "B": "make",
+        "C": "get",
+        "D": "have"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "I'd like to _____ a complaint about the service I received.",
+      "options": {
+        "A": "lodge",
+        "B": "place",
+        "C": "file",
+        "D": "write"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "The conference has been _____ indefinitely due to the pandemic.",
+      "options": {
+        "A": "put off",
+        "B": "set back",
+        "C": "held up",
+        "D": "called off"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "We need to _____ into account all possible outcomes before making a decision.",
+      "options": {
+        "A": "bring",
+        "B": "put",
+        "C": "take",
+        "D": "hold"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "The changes to the tax system will _____ effect next month.",
+      "options": {
+        "A": "come into",
+        "B": "bring to",
+        "C": "get in",
+        "D": "take into"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "The company is _____ the process of restructuring its operations.",
+      "options": {
+        "A": "on",
+        "B": "at",
+        "C": "by",
+        "D": "in"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "She _____ a significant contribution to the success of the project.",
+      "options": {
+        "A": "did",
+        "B": "gave",
+        "C": "made",
+        "D": "had"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "We should try to _____ a compromise that satisfies both parties.",
+      "options": {
+        "A": "reach",
+        "B": "arrive",
+        "C": "achieve",
+        "D": "get"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "She works as a _____ translator for several international organizations.",
+      "options": {
+        "A": "skilled",
+        "B": "trained",
+        "C": "professional",
+        "D": "qualified"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "If this plan doesn't work, we'll need to consider an _____ approach.",
+      "options": {
+        "A": "optional",
+        "B": "additional",
+        "C": "another",
+        "D": "alternative"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Coffee has become a valuable _____ in the global market.",
+      "options": {
+        "A": "product",
+        "B": "resource",
+        "C": "commodity",
+        "D": "material"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Understanding the principles of physics is _____ to solving this problem.",
+      "options": {
+        "A": "essential",
+        "B": "central",
+        "C": "critical",
+        "D": "fundamental"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "The manager needs to _____ resources effectively to complete the project on time.",
+      "options": {
+        "A": "distribute",
+        "B": "arrange",
+        "C": "allocate",
+        "D": "assign"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "This investment should _____ a good return over the next five years.",
+      "options": {
+        "A": "generate",
+        "B": "produce",
+        "C": "provide",
+        "D": "yield"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Stock prices tend to _____ during periods of economic uncertainty.",
+      "options": {
+        "A": "vary",
+        "B": "change",
+        "C": "fluctuate",
+        "D": "shift"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "The population of wild tigers continues to _____ due to habitat loss.",
+      "options": {
+        "A": "reduce",
+        "B": "decline",
+        "C": "decrease",
+        "D": "diminish"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "The police will _____ the circumstances surrounding the accident.",
+      "options": {
+        "A": "examine",
+        "B": "explore",
+        "C": "research",
+        "D": "investigate"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Travelers may _____ difficulties when visiting countries with very different cultures.",
+      "options": {
+        "A": "face",
+        "B": "meet",
+        "C": "encounter",
+        "D": "experience"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "His comments were not _____ to the discussion we were having.",
+      "options": {
+        "A": "important",
+        "B": "significant",
+        "C": "relevant",
+        "D": "connected"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "The company conducted a _____ to gather customer feedback about their new product.",
+      "options": {
+        "A": "questionnaire",
+        "B": "research",
+        "C": "study",
+        "D": "survey"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Researchers have found that exercise and mental health positively _____.",
+      "options": {
+        "A": "connect",
+        "B": "associate",
+        "C": "relate",
+        "D": "correlate"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Many English words _____ from Latin or Greek origins.",
+      "options": {
+        "A": "come",
+        "B": "stem",
+        "C": "derive",
+        "D": "originate"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "The cost of the project will _____ our initial budget by at least 20%.",
+      "options": {
+        "A": "surpass",
+        "B": "exceed",
+        "C": "overcome",
+        "D": "overreach"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, before the printing press, books were primarily available to:",
+      "options": {
+        "A": "university students",
+        "B": "wealthy elites and religious institutions",
+        "C": "government officials",
+        "D": "ordinary citizens"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "The passage suggests that the printing press contributed to education by:",
+      "options": {
+        "A": "making Latin more accessible",
+        "B": "creating new universities",
+        "C": "increasing literacy rates across social classes",
+        "D": "reducing the importance of classical works"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "In paragraph 3, the author mentions Martin Luther's work as an example of:",
+      "options": {
+        "A": "government proclamations",
+        "B": "how printing challenged established authority",
+        "C": "educational standardization",
+        "D": "cultural transformation"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to the passage, how did the printing revolution affect reading habits?",
+      "options": {
+        "A": "It made reading more of a social activity",
+        "B": "It shifted reading from communal to private activity",
+        "C": "It eliminated the oral tradition entirely",
+        "D": "It made Latin the dominant language for reading"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "The word 'democratization' in paragraph 3 most nearly means:",
+      "options": {
+        "A": "political reform",
+        "B": "government control",
+        "C": "wider access and availability",
+        "D": "economic equality"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "The passage compares the printing revolution to:",
+      "options": {
+        "A": "the Industrial Revolution",
+        "B": "the Protestant Reformation",
+        "C": "the Renaissance",
+        "D": "the digital revolution"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Which of the following was NOT mentioned as an effect of the printing revolution?",
+      "options": {
+        "A": "strengthening of national identities",
+        "B": "development of new literary forms",
+        "C": "decline in the importance of education",
+        "D": "more efficient distribution of laws"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The author's main purpose in writing this passage is to:",
+      "options": {
+        "A": "compare ancient and modern communication technologies",
+        "B": "describe how the printing press transformed society",
+        "C": "argue that the printing press was the most important invention",
+        "D": "explain the technical aspects of early printing methods"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "The phrase 'laid the groundwork' in paragraph 3 suggests that the printing press:",
+      "options": {
+        "A": "directly caused later political movements",
+        "B": "created physical infrastructure",
+        "C": "established the foundation for future developments",
+        "D": "defeated political opposition"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "Based on the passage, which of the following statements would the author most likely agree with?",
+      "options": {
+        "A": "The printing press had a limited effect on political systems",
+        "B": "Understanding historical information revolutions helps contextualize current changes",
+        "C": "The digital revolution is more significant than the printing revolution",
+        "D": "The printing revolution primarily affected religious institutions"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
