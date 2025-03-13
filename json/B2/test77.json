@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Space weather refers to the conditions in space that can affect Earth and its technological systems. The primary driver of space weather is our Sun, which constantly emits a stream of charged particles known as the solar wind. While space weather is always present, it becomes particularly noteworthy during periods of intense solar activity. Solar flares and coronal mass ejections (CMEs) are explosive releases of energy from the Sun's surface that can send billions of tons of charged particles hurtling toward Earth at speeds exceeding a million miles per hour.<br><br>(2) Solar flares occur when magnetic energy built up in the solar atmosphere is suddenly released, producing radiation across the electromagnetic spectrum. These events are classified according to their strength, with X-class flares being the most powerful. While it takes only about eight minutes for the light from a flare to reach Earth, the associated charged particles typically arrive 20 minutes to several hours later. CMEs, on the other hand, are massive eruptions of plasma and magnetic field from the Sun's corona that can take 1-3 days to reach our planet, depending on their speed.<br><br>(3) When these solar phenomena interact with Earth's magnetic field, they can trigger geomagnetic storms—disturbances in our planet's magnetosphere. The most visible manifestation of these interactions is the aurora, colorful light displays in the sky commonly known as the Northern and Southern Lights. During severe geomagnetic storms, these auroras can be visible at much lower latitudes than normal. While beautiful to observe, these atmospheric light shows are indicators of powerful forces at work that can cause significant disruptions to our technological infrastructure.<br><br>(4) The impacts of space weather on technology can be far-reaching. Satellite operations can be compromised as increased atmospheric drag during geomagnetic storms alters satellite orbits and damages sensitive electronics. Communication systems that rely on the ionosphere to reflect radio signals can experience blackouts. Power grids are particularly vulnerable to geomagnetically induced currents that can overload transformers and cause widespread blackouts. The famous 1989 Quebec blackout, which left six million people without power for nine hours, was caused by a severe geomagnetic storm. Additionally, navigation systems like GPS can become unreliable during intense solar activity.<br><br>(5) Monitoring and forecasting space weather has become increasingly important as our society grows more dependent on technology. Organizations such as NASA and NOAA operate spacecraft that observe the Sun and provide early warnings of potentially disruptive events. Scientists analyze data from these satellites to develop better prediction models. Despite these efforts, forecasting space weather remains challenging due to the complex nature of solar activity. As we continue to advance our technological systems, understanding and preparing for space weather events becomes not just a scientific curiosity, but a practical necessity for maintaining the stability of our modern infrastructure.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which form correctly completes the sentence? If I _____ more time, I would help you.",
+      "options": {
+        "A": "have",
+        "B": "had",
+        "C": "will have",
+        "D": "having"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct passive voice form: The report _____ by tomorrow.",
+      "options": {
+        "A": "will be completed",
+        "B": "will complete",
+        "C": "is completed",
+        "D": "completes"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the sentence with the correct use of the present perfect tense:",
+      "options": {
+        "A": "I lived in Paris for three years.",
+        "B": "I have been living in Paris for three years.",
+        "C": "I am living in Paris for three years.",
+        "D": "I will live in Paris for three years."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence contains a correct relative clause?",
+      "options": {
+        "A": "The book who I bought yesterday is interesting.",
+        "B": "The book which I bought yesterday is interesting.",
+        "C": "The book what I bought yesterday is interesting.",
+        "D": "The book when I bought yesterday is interesting."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct form of the third conditional:",
+      "options": {
+        "A": "If she studies harder, she will pass the exam.",
+        "B": "If she studied harder, she would pass the exam.",
+        "C": "If she had studied harder, she would have passed the exam.",
+        "D": "If she has studied harder, she will have passed the exam."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Identify the sentence with correct subject-verb agreement:",
+      "options": {
+        "A": "Each of the students have completed the assignment.",
+        "B": "Each of the students has completed the assignment.",
+        "C": "Each of the students having completed the assignment.",
+        "D": "Each of the students is completing the assignments."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which sentence uses the past perfect continuous correctly?",
+      "options": {
+        "A": "She has been waiting for three hours before the bus arrived.",
+        "B": "She had been waiting for three hours before the bus arrived.",
+        "C": "She was waiting for three hours before the bus arrived.",
+        "D": "She is waiting for three hours before the bus arrived."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the correct form of reported speech: \"I will call you tomorrow,\" he said.",
+      "options": {
+        "A": "He said he will call me tomorrow.",
+        "B": "He said he would call me tomorrow.",
+        "C": "He said he would call me the next day.",
+        "D": "He said he will call me the next day."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Choose the sentence with the correct use of articles:",
+      "options": {
+        "A": "She is best doctor in the hospital.",
+        "B": "She is a best doctor in the hospital.",
+        "C": "She is the best doctor in the hospital.",
+        "D": "She is best doctor in a hospital."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which modal verb expresses probability in this sentence? He _____ be at home; I saw his car in the driveway.",
+      "options": {
+        "A": "would",
+        "B": "must",
+        "C": "should",
+        "D": "can"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Identify the sentence with the correct use of the infinitive:",
+      "options": {
+        "A": "She went to the store for buying some groceries.",
+        "B": "She went to the store to buying some groceries.",
+        "C": "She went to the store to buy some groceries.",
+        "D": "She went to the store buy some groceries."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence contains a correct use of the comparative form?",
+      "options": {
+        "A": "This exercise is more easier than the last one.",
+        "B": "This exercise is easiest than the last one.",
+        "C": "This exercise is easier than the last one.",
+        "D": "This exercise is the easier than the last one."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct preposition: The plane will arrive _____ New York at 6 PM.",
+      "options": {
+        "A": "to",
+        "B": "at",
+        "C": "on",
+        "D": "in"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Select the correctly punctuated sentence:",
+      "options": {
+        "A": "After eating, the family went to the park.",
+        "B": "After eating the family, went to the park.",
+        "C": "After eating the family went, to the park.",
+        "D": "After, eating the family went to the park."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Identify the sentence with the correct use of the gerund:",
+      "options": {
+        "A": "She avoided to talk to him at the party.",
+        "B": "She avoided talking to him at the party.",
+        "C": "She avoided talk to him at the party.",
+        "D": "She avoided to talking to him at the party."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Complete the sentence: I would appreciate it if you _____ me informed about any changes.",
+      "options": {
+        "A": "keep",
+        "B": "will keep",
+        "C": "would keep",
+        "D": "kept"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct phrasal verb: The meeting has been _____ until next week.",
+      "options": {
+        "A": "put in",
+        "B": "put on",
+        "C": "put off",
+        "D": "put away"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the appropriate expression: She _____ a decision to change her career path.",
+      "options": {
+        "A": "took",
+        "B": "made",
+        "C": "did",
+        "D": "had"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Which idiom best completes the sentence? After the difficult project, the holiday came as _____.",
+      "options": {
+        "A": "a piece of cake",
+        "B": "a breath of fresh air",
+        "C": "a drop in the ocean",
+        "D": "a fish out of water"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct connector: He worked hard, _____ he didn't finish the project on time.",
+      "options": {
+        "A": "so",
+        "B": "and",
+        "C": "but",
+        "D": "because"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the appropriate formal expression for a business email: I am writing to _____ my interest in the position.",
+      "options": {
+        "A": "tell you",
+        "B": "let you know",
+        "C": "express",
+        "D": "make you aware"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Which phrase is appropriate to express a contradiction? The weather forecast predicted rain, _____.",
+      "options": {
+        "A": "on the other hand it was sunny all day",
+        "B": "yet it was sunny all day",
+        "C": "so it was sunny all day",
+        "D": "as it was sunny all day"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the appropriate phrase: The company needs to _____ the issue before it becomes worse.",
+      "options": {
+        "A": "bring about",
+        "B": "bring up",
+        "C": "bring in",
+        "D": "address"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Select the most appropriate response to \"Thank you for your help\": _____",
+      "options": {
+        "A": "Don't mention",
+        "B": "You're welcome",
+        "C": "It's nothing",
+        "D": "Not at all"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct collocation: She _____ a lot of experience in marketing.",
+      "options": {
+        "A": "has",
+        "B": "makes",
+        "C": "takes",
+        "D": "gives"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What is the best definition of 'tolerance'?",
+      "options": {
+        "A": "the ability to accept opinions different from your own",
+        "B": "having a strong dislike for something",
+        "C": "the act of ignoring important issues",
+        "D": "the ability to work very hard"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Which sentence uses 'obstacle' correctly?",
+      "options": {
+        "A": "They obstacle the construction of the new building.",
+        "B": "The storm was the main obstacle to their journey.",
+        "C": "She will obstacle the meeting next week.",
+        "D": "We obstacle to finish the project on time."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What does it mean when someone is 'embarrassed'?",
+      "options": {
+        "A": "feeling very happy",
+        "B": "feeling extremely tired",
+        "C": "feeling uncomfortable or self-conscious",
+        "D": "feeling confident about something"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Choose the sentence that uses 'indication' correctly:",
+      "options": {
+        "A": "The changing leaves are an indication that autumn has arrived.",
+        "B": "She indication her willingness to help.",
+        "C": "They indication for three hours yesterday.",
+        "D": "The teacher will indication the test tomorrow."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "What does it mean to 'transform' something?",
+      "options": {
+        "A": "to make it smaller",
+        "B": "to completely change its form or appearance",
+        "C": "to move it to another location",
+        "D": "to break it into pieces"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Which sentence uses 'impressive' correctly?",
+      "options": {
+        "A": "The chef impressive the cake with chocolate.",
+        "B": "Her knowledge of five languages is very impressive.",
+        "C": "They will impressive the documents tomorrow.",
+        "D": "He impressive to work late yesterday."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "What is an 'ambassador'?",
+      "options": {
+        "A": "a type of historical building",
+        "B": "a medical professional",
+        "C": "an official representative of a country in another country",
+        "D": "someone who delivers packages"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Choose the correct definition of 'voluntary':",
+      "options": {
+        "A": "done by force",
+        "B": "done because you want to, not because you are forced",
+        "C": "done with great difficulty",
+        "D": "done without any planning"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What does 'accommodation' refer to?",
+      "options": {
+        "A": "a place to live or stay temporarily",
+        "B": "a form of transportation",
+        "C": "a type of financial investment",
+        "D": "a method of communication"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Which sentence uses 'assumption' correctly?",
+      "options": {
+        "A": "The company assumption three new employees last month.",
+        "B": "His assumption that the meeting was canceled proved to be incorrect.",
+        "C": "We need to assumption the situation carefully.",
+        "D": "They will assumption the new policy next week."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What does 'immediate' mean?",
+      "options": {
+        "A": "happening after a long time",
+        "B": "happening or done without delay",
+        "C": "requiring careful planning",
+        "D": "happening regularly"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Choose the sentence that uses 'reception' correctly:",
+      "options": {
+        "A": "They reception the package yesterday.",
+        "B": "The hotel reception is open 24 hours a day.",
+        "C": "She will reception her friends at the airport.",
+        "D": "The students reception their homework on time."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "What is the meaning of 'cooperation'?",
+      "options": {
+        "A": "working alone without help",
+        "B": "competing against others",
+        "C": "working together towards a common goal",
+        "D": "avoiding difficult tasks"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Which sentence uses 'stability' correctly?",
+      "options": {
+        "A": "The region has experienced political stability for the past decade.",
+        "B": "She stability the painting on the wall.",
+        "C": "They will stability the meeting tomorrow.",
+        "D": "He likes to stability in the morning."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "What does 'compensation' refer to?",
+      "options": {
+        "A": "a formal complaint",
+        "B": "payment for work or damages",
+        "C": "a type of medical treatment",
+        "D": "a legal restriction"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, what is the primary driver of space weather?",
+      "options": {
+        "A": "Earth's magnetic field",
+        "B": "The Sun",
+        "C": "Geomagnetic storms",
+        "D": "The ionosphere"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "How long does it typically take for a coronal mass ejection (CME) to reach Earth?",
+      "options": {
+        "A": "8 minutes",
+        "B": "20 minutes to several hours",
+        "C": "1-3 days",
+        "D": "More than a week"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "What are auroras mentioned as being in the passage?",
+      "options": {
+        "A": "The cause of geomagnetic storms",
+        "B": "A type of solar flare",
+        "C": "The most visible manifestation of the interaction between solar phenomena and Earth's magnetic field",
+        "D": "A type of satellite malfunction"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Which of the following is NOT mentioned as being affected by space weather?",
+      "options": {
+        "A": "Satellite operations",
+        "B": "Power grids",
+        "C": "Navigation systems",
+        "D": "Agricultural systems"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What caused the famous 1989 Quebec blackout according to the passage?",
+      "options": {
+        "A": "A solar flare",
+        "B": "A severe geomagnetic storm",
+        "C": "A coronal mass ejection",
+        "D": "A failure in the power grid's design"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to the passage, which organizations are involved in monitoring space weather?",
+      "options": {
+        "A": "NASA and NOAA",
+        "B": "ESA and NASA",
+        "C": "NOAA and WHO",
+        "D": "NASA and ESA"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What does the passage identify as a challenge in dealing with space weather?",
+      "options": {
+        "A": "The cost of protective measures",
+        "B": "The lack of international cooperation",
+        "C": "The difficulty of forecasting due to the complex nature of solar activity",
+        "D": "The shortage of trained scientists"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What happens to radio signals during space weather events according to the passage?",
+      "options": {
+        "A": "They become stronger",
+        "B": "They can experience blackouts",
+        "C": "They change frequency",
+        "D": "They are unaffected"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to the passage, what happens to the aurora during severe geomagnetic storms?",
+      "options": {
+        "A": "They disappear completely",
+        "B": "They become less colorful",
+        "C": "They can be visible at much lower latitudes than normal",
+        "D": "They only appear at the poles"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the main reason why understanding space weather has become increasingly important, according to the passage?",
+      "options": {
+        "A": "To predict solar eclipses",
+        "B": "To understand climate change",
+        "C": "Because our society is more dependent on technology",
+        "D": "To improve satellite communication"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
