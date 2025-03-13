@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The Underground Railroad, contrary to its name, was neither underground nor a railroad, but rather a vast, clandestine network of routes, safe houses, and individuals who aided enslaved African Americans in their desperate quest for freedom during the 19th century. This intricate system stretched from the American South to Northern free states and Canada, operating most actively between 1830 and 1860. Despite the severe punishments risked by both escaping individuals and their helpers, the Underground Railroad facilitated the escape of an estimated 30,000 to 100,000 enslaved people, representing one of the most significant acts of resistance against the institution of slavery in American history.<br><br>(2) The Underground Railroad functioned through a sophisticated system of communication and cooperation. Those who escaped were called \"passengers\" or \"cargo,\" safe houses were \"stations,\" helpers who guided escapees were \"conductors,\" and those who provided shelter and resources were \"station masters.\" Conductors, such as the renowned Harriet Tubman, who personally led approximately 70 people to freedom and assisted many others, developed expert knowledge of secret routes, hiding places, and methods to evade slave catchers. The network relied on coded language, songs with hidden meanings, and quilts with specific patterns that subtly communicated essential information such as directions, dangers, and safe locations.<br><br>(3) The journey north was fraught with extraordinary dangers. Escaping enslaved people faced not only the natural hazards of difficult terrain, harsh weather, and starvation, but also the human threats of slave catchers, bounty hunters, and hostile locals. The Fugitive Slave Act of 1850 dramatically intensified these risks by requiring Northern states to return escaped slaves and imposing penalties on those who assisted them. This legislation forced the Underground Railroad to extend its routes to Canada, where Britain had abolished slavery and American laws could not reach. Despite these obstacles, thousands chose to risk everything for the possibility of freedom, often traveling hundreds of miles by foot, typically moving at night while using the North Star for navigation.<br><br>(4) The Underground Railroad was remarkable for its diversity of participants. While Quakers and other abolitionists were prominently involved, assistance came from people of various backgrounds. Free Black communities in Northern cities played a crucial role, providing not only immediate aid but also helping newly freed individuals establish themselves with housing, employment, and community connections. Notable figures included William Still, often called the \"Father of the Underground Railroad,\" who kept meticulous records of those he helped, and Levi Coffin, whose home served as a junction for three different escape routes. Perhaps most extraordinary were the many formerly enslaved people who, having reached freedom, returned south at great personal risk to guide others to liberty.<br><br>(5) The legacy of the Underground Railroad extends far beyond the individuals it helped free. It represented a powerful challenge to the moral bankruptcy of slavery and demonstrated that people of different races and backgrounds could work together effectively against institutional oppression. The courage of those who escaped and those who helped them inspired the wider abolitionist movement and contributed to the growing tensions that eventually led to the Civil War. Today, the Underground Railroad serves as a testament to humanity's enduring desire for freedom and the remarkable lengths to which people will go to achieve it. Its history reminds us that systems of oppression, no matter how entrenched, can be resisted through courage, collaboration, and moral conviction.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "I think it _____ rain tomorrow; the forecast says there's a 90% chance.",
+      "options": {
+        "A": "is going to",
+        "B": "would",
+        "C": "shall",
+        "D": "will"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "If I had saved more money when I was younger, I _____ so stressed about my retirement now.",
+      "options": {
+        "A": "wouldn't be",
+        "B": "wouldn't have been",
+        "C": "won't be",
+        "D": "hadn't been"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "When the fire alarm went off, everyone _____ the building.",
+      "options": {
+        "A": "left",
+        "B": "was leaving",
+        "C": "had left",
+        "D": "has left"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "She stopped _____ to check her phone when she received a notification.",
+      "options": {
+        "A": "walk",
+        "B": "to walk",
+        "C": "walking",
+        "D": "to walking"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "They don't have _____ evidence to prove their theory.",
+      "options": {
+        "A": "much",
+        "B": "many",
+        "C": "few",
+        "D": "little"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "_____ believed that the economy will recover by next year.",
+      "options": {
+        "A": "It widely is",
+        "B": "It is widely",
+        "C": "There is widely",
+        "D": "They are widely"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "The _____ of the project is expected to take six months.",
+      "options": {
+        "A": "complete",
+        "B": "completing",
+        "C": "completion",
+        "D": "completed"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "The book, _____ won several awards, has been translated into 25 languages.",
+      "options": {
+        "A": "that",
+        "B": "which",
+        "C": "what",
+        "D": "whose"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "I regret _____ her about the change in plans.",
+      "options": {
+        "A": "to tell",
+        "B": "telling",
+        "C": "tell",
+        "D": "told"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "The company has decided to _____ launching the new product until next year.",
+      "options": {
+        "A": "put off",
+        "B": "take off",
+        "C": "get off",
+        "D": "call off"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "This time tomorrow, I _____ on the beach in Hawaii.",
+      "options": {
+        "A": "will lie",
+        "B": "will be lying",
+        "C": "will have lain",
+        "D": "will have been lying"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "_____ you study harder, you will fail the exam.",
+      "options": {
+        "A": "If",
+        "B": "Unless",
+        "C": "When",
+        "D": "Until"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "This is _____ difficult problem I've ever solved.",
+      "options": {
+        "A": "a more",
+        "B": "the most",
+        "C": "more",
+        "D": "most"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Looking at his tired face, he _____ working all night.",
+      "options": {
+        "A": "can be",
+        "B": "might be",
+        "C": "must have been",
+        "D": "should be"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "By the time we arrive, the concert _____ for an hour.",
+      "options": {
+        "A": "will start",
+        "B": "will be starting",
+        "C": "will have started",
+        "D": "starts"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "The meeting has been _____ until further notice.",
+      "options": {
+        "A": "called off",
+        "B": "put away",
+        "C": "taken off",
+        "D": "set out"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "We need to _____ into account all the possible outcomes.",
+      "options": {
+        "A": "bring",
+        "B": "put",
+        "C": "take",
+        "D": "make"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "She _____ a deep breath before giving her presentation.",
+      "options": {
+        "A": "made",
+        "B": "had",
+        "C": "took",
+        "D": "gave"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "The new policy will _____ effect next month.",
+      "options": {
+        "A": "come into",
+        "B": "go into",
+        "C": "take into",
+        "D": "bring into"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "His argument doesn't _____ any sense to me.",
+      "options": {
+        "A": "do",
+        "B": "have",
+        "C": "make",
+        "D": "get"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "I'd like to _____ a complaint about the service I received.",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "place",
+        "D": "lodge"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "The results of the study _____ our initial hypothesis.",
+      "options": {
+        "A": "confirmed",
+        "B": "supported",
+        "C": "approved",
+        "D": "endorsed"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "She _____ a good point during the discussion.",
+      "options": {
+        "A": "raised",
+        "B": "lifted",
+        "C": "heightened",
+        "D": "elevated"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "We should try to _____ a compromise that satisfies both parties.",
+      "options": {
+        "A": "reach",
+        "B": "arrive",
+        "C": "get",
+        "D": "achieve"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "The government has introduced several measures to _____ unemployment.",
+      "options": {
+        "A": "attack",
+        "B": "tackle",
+        "C": "handle",
+        "D": "manage"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Budget limitations have become a significant _____ for the research team.",
+      "options": {
+        "A": "restriction",
+        "B": "limitation",
+        "C": "constraint",
+        "D": "boundary"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "The news article included expert _____ on the economic situation.",
+      "options": {
+        "A": "analysis",
+        "B": "remarks",
+        "C": "observations",
+        "D": "commentary"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "The design of the building doesn't _____ with safety regulations.",
+      "options": {
+        "A": "comply",
+        "B": "match",
+        "C": "correspond",
+        "D": "align"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "The company failed to _____ to customer complaints in a timely manner.",
+      "options": {
+        "A": "answer",
+        "B": "reply",
+        "C": "react",
+        "D": "respond"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "The _____ performance of the team has improved significantly this season.",
+      "options": {
+        "A": "general",
+        "B": "total",
+        "C": "complete",
+        "D": "overall"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "There has been a significant _____ in consumer preferences over the past decade.",
+      "options": {
+        "A": "change",
+        "B": "movement",
+        "C": "shift",
+        "D": "transition"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "The success of the project depends on how well the _____ members work together.",
+      "options": {
+        "A": "group",
+        "B": "crew",
+        "C": "staff",
+        "D": "team"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "The company has a clear management _____ with well-defined roles and responsibilities.",
+      "options": {
+        "A": "structure",
+        "B": "organization",
+        "C": "system",
+        "D": "hierarchy"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Many bird species _____ to warmer regions during winter months.",
+      "options": {
+        "A": "travel",
+        "B": "relocate",
+        "C": "migrate",
+        "D": "move"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "The painting represents an _____ concept of beauty rather than a realistic depiction.",
+      "options": {
+        "A": "theoretical",
+        "B": "intangible",
+        "C": "conceptual",
+        "D": "abstract"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "She gave a _____ summary of the research findings during the meeting.",
+      "options": {
+        "A": "short",
+        "B": "brief",
+        "C": "concise",
+        "D": "compact"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Species must _____ to changing environmental conditions to survive.",
+      "options": {
+        "A": "adjust",
+        "B": "change",
+        "C": "modify",
+        "D": "adapt"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Teachers regularly _____ student progress through various forms of evaluation.",
+      "options": {
+        "A": "evaluate",
+        "B": "measure",
+        "C": "judge",
+        "D": "assess"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "She can _____ her ideas clearly and persuasively in both writing and speech.",
+      "options": {
+        "A": "express",
+        "B": "communicate",
+        "C": "articulate",
+        "D": "convey"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "To _____ up, the main points of the presentation were about market trends and future strategies.",
+      "options": {
+        "A": "add",
+        "B": "gather",
+        "C": "total",
+        "D": "sum"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, the Underground Railroad was:",
+      "options": {
+        "A": "an actual railroad built underground",
+        "B": "a network that helped enslaved people escape to freedom",
+        "C": "a system created after the Civil War",
+        "D": "primarily operated in Canada"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "The term \"conductors\" in the context of the Underground Railroad referred to:",
+      "options": {
+        "A": "people who operated trains",
+        "B": "escaped slaves who reached freedom",
+        "C": "helpers who guided escapees to freedom",
+        "D": "government officials who enforced slavery laws"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to the passage, which legislation intensified the risks for escaping enslaved people?",
+      "options": {
+        "A": "The Emancipation Proclamation",
+        "B": "The Fugitive Slave Act of 1850",
+        "C": "The Missouri Compromise",
+        "D": "The 13th Amendment"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "The passage indicates that Canada became an important destination because:",
+      "options": {
+        "A": "it had better economic opportunities",
+        "B": "it had a larger free Black community",
+        "C": "slavery had been abolished there and American laws couldn't reach it",
+        "D": "it provided financial assistance to newly freed individuals"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Which of the following methods was NOT mentioned as a way the Underground Railroad communicated information?",
+      "options": {
+        "A": "Songs with hidden meanings",
+        "B": "Quilts with specific patterns",
+        "C": "Coded language",
+        "D": "Written maps and guidebooks"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to paragraph 4, what role did free Black communities play in the Underground Railroad?",
+      "options": {
+        "A": "They mainly provided financial support",
+        "B": "They only helped guide people to Canada",
+        "C": "They provided immediate aid and helped establish newly freed individuals",
+        "D": "They focused primarily on political advocacy"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "The passage describes William Still as:",
+      "options": {
+        "A": "a former slave who returned South to guide others",
+        "B": "the \"Father of the Underground Railroad\" who kept meticulous records",
+        "C": "a Quaker whose home served as a junction for escape routes",
+        "D": "the most successful conductor on the Underground Railroad"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to the passage, approximately how many enslaved people escaped via the Underground Railroad?",
+      "options": {
+        "A": "Less than 10,000",
+        "B": "Between 10,000 and 20,000",
+        "C": "Between 30,000 and 100,000",
+        "D": "Over 200,000"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "The passage suggests that the legacy of the Underground Railroad includes:",
+      "options": {
+        "A": "establishing formal education for freed slaves",
+        "B": "creating the foundation for the modern railroad system",
+        "C": "demonstrating that people of different races could work together against oppression",
+        "D": "developing new agricultural techniques in Northern states"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "The author's primary purpose in this passage is to:",
+      "options": {
+        "A": "argue that the Underground Railroad was the main cause of the Civil War",
+        "B": "describe the operation and significance of the Underground Railroad",
+        "C": "compare the Underground Railroad to modern resistance movements",
+        "D": "analyze the economic impact of the Underground Railroad on Northern states"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
