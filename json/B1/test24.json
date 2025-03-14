@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Genetics is the scientific study of how traits are passed from parents to offspring through genes, which are the basic units of heredity. These genes are found on chromosomes, thread-like structures made of DNA (deoxyribonucleic acid) that contain all the information needed to build and maintain an organism. Humans have 23 pairs of chromosomes, with one set inherited from each parent, giving us a total of 46 chromosomes in most cells of our body.<br><br>(2) The way traits are inherited follows specific patterns discovered by Gregor Mendel, often called the \"father of genetics.\" Through his experiments with pea plants in the 1860s, Mendel identified that traits can be dominant or recessive. Dominant traits, represented by capital letters (like 'A'), will always be expressed if present, while recessive traits, represented by lowercase letters (like 'a'), will only be expressed if two copies are present. This explains why children sometimes have traits that don't appear in either parent but might be seen in grandparents or other relatives.<br><br>(3) Some traits are determined by a single gene, such as earlobe attachment or the ability to roll your tongue. However, most human characteristics, including height, skin color, and intelligence, are influenced by multiple genes working together, which is called polygenic inheritance. Environmental factors also play an important role in how genes are expressed, which is why identical twins with the same genetic makeup can develop different characteristics over time if raised in different environments.<br><br>(4) Genetic disorders occur when there is an abnormality in an individual's genetic material. These disorders can be inherited from parents, such as cystic fibrosis and sickle cell anemia, which require both parents to pass on a recessive gene. Other disorders, like Down syndrome, result from chromosomal abnormalities that usually happen spontaneously during cell division rather than being inherited. Advances in genetic testing now allow doctors to identify many genetic disorders before birth or early in life.<br><br>(5) The field of genetics has expanded dramatically in recent decades, especially after the completion of the Human Genome Project in 2003, which mapped all the genes in human DNA. This has led to breakthroughs in personalized medicine, where treatments can be tailored to an individual's genetic makeup. Scientists are also exploring gene therapy, which involves replacing defective genes to treat or prevent disease, and genetic engineering, which can modify an organism's DNA to produce desired traits. These advancements raise important ethical questions about how far we should go in manipulating the genetic code that makes us who we are.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "She _____ in London for five years before moving to Paris.",
+      "options": {
+        "A": "lived",
+        "B": "has lived",
+        "C": "had lived",
+        "D": "was living"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "If I _____ more money, I would buy a new car.",
+      "options": {
+        "A": "have",
+        "B": "had",
+        "C": "would have",
+        "D": "having"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "By the time we reached the theater, the movie _____ already started.",
+      "options": {
+        "A": "has",
+        "B": "was",
+        "C": "had",
+        "D": "is"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "You _____ wear a helmet when riding a bicycle for safety.",
+      "options": {
+        "A": "should",
+        "B": "would",
+        "C": "could",
+        "D": "might"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "The movie was _____ boring that we left early.",
+      "options": {
+        "A": "such",
+        "B": "so",
+        "C": "too",
+        "D": "very"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "I'm not sure _____ he's coming to the party tomorrow.",
+      "options": {
+        "A": "that",
+        "B": "what",
+        "C": "if",
+        "D": "why"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "She asked me _____ I could help her with the project.",
+      "options": {
+        "A": "that",
+        "B": "what",
+        "C": "if",
+        "D": "why"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "The book _____ by Mark Twain in the 19th century.",
+      "options": {
+        "A": "wrote",
+        "B": "was written",
+        "C": "has written",
+        "D": "is written"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "I wish I _____ more time to finish the assignment.",
+      "options": {
+        "A": "have",
+        "B": "had",
+        "C": "would have",
+        "D": "having"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "We _____ to the beach if the weather is nice tomorrow.",
+      "options": {
+        "A": "go",
+        "B": "will go",
+        "C": "would go",
+        "D": "going"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "She speaks English _____ than her brother.",
+      "options": {
+        "A": "better",
+        "B": "more better",
+        "C": "best",
+        "D": "more good"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "He doesn't have _____ friends in his new school yet.",
+      "options": {
+        "A": "much",
+        "B": "many",
+        "C": "lot",
+        "D": "few"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "_____ they arrived, the concert had already started.",
+      "options": {
+        "A": "By the time",
+        "B": "While",
+        "C": "During",
+        "D": "Since"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "I _____ to the gym three times a week.",
+      "options": {
+        "A": "going",
+        "B": "goes",
+        "C": "go",
+        "D": "am going"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "If I had studied harder, I _____ the exam.",
+      "options": {
+        "A": "would pass",
+        "B": "passed",
+        "C": "would have passed",
+        "D": "had passed"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Could you _____ me a favor and help me with my homework?",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "give",
+        "D": "take"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "We need to _____ a decision about our vacation plans soon.",
+      "options": {
+        "A": "do",
+        "B": "take",
+        "C": "make",
+        "D": "have"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "I'm really looking _____ to seeing you next week.",
+      "options": {
+        "A": "ahead",
+        "B": "forward",
+        "C": "after",
+        "D": "for"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "The team needs to come _____ with a new strategy to win the game.",
+      "options": {
+        "A": "up",
+        "B": "over",
+        "C": "around",
+        "D": "by"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "He always takes _____ his mother; they have the same smile.",
+      "options": {
+        "A": "from",
+        "B": "after",
+        "C": "to",
+        "D": "by"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "I'm not very good _____ remembering people's names.",
+      "options": {
+        "A": "at",
+        "B": "in",
+        "C": "with",
+        "D": "for"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "She managed to _____ up with her studies despite being sick.",
+      "options": {
+        "A": "catch",
+        "B": "keep",
+        "C": "follow",
+        "D": "take"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "I need to _____ some research for my school project.",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "take",
+        "D": "get"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Let's _____ in touch after you move to your new city.",
+      "options": {
+        "A": "keep",
+        "B": "stay",
+        "C": "hold",
+        "D": "remain"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "She doesn't get _____ well with her new roommate.",
+      "options": {
+        "A": "by",
+        "B": "through",
+        "C": "along",
+        "D": "over"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "The prisoner managed to _____ from the high-security jail last night.",
+      "options": {
+        "A": "escape",
+        "B": "leave",
+        "C": "exit",
+        "D": "depart"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "She asked for a _____ room at the hotel because she was traveling with her twin sister.",
+      "options": {
+        "A": "paired",
+        "B": "double",
+        "C": "twin",
+        "D": "dual"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "We _____ the winter supplies in the basement to keep them safe from flooding.",
+      "options": {
+        "A": "kept",
+        "B": "saved",
+        "C": "stored",
+        "D": "preserved"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "The children walked _____ the beach, collecting seashells as they went.",
+      "options": {
+        "A": "through",
+        "B": "across",
+        "C": "over",
+        "D": "along"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "The athlete broke the world _____ for the 100-meter sprint yesterday.",
+      "options": {
+        "A": "time",
+        "B": "mark",
+        "C": "score",
+        "D": "record"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "_____ healthy food is essential for maintaining good health.",
+      "options": {
+        "A": "Consuming",
+        "B": "Eating",
+        "C": "Devouring",
+        "D": "Swallowing"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "She has had a successful _____ as a lawyer for over twenty years.",
+      "options": {
+        "A": "job",
+        "B": "profession",
+        "C": "career",
+        "D": "occupation"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "The medieval _____ in European history lasted approximately from the 5th to the 15th century.",
+      "options": {
+        "A": "era",
+        "B": "time",
+        "C": "phase",
+        "D": "period"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "I need to _____ to a different train at the next station to reach my destination.",
+      "options": {
+        "A": "change",
+        "B": "move",
+        "C": "transfer",
+        "D": "switch"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Climate change poses a serious _____ to many species around the world.",
+      "options": {
+        "A": "danger",
+        "B": "risk",
+        "C": "threat",
+        "D": "hazard"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "There are many different fashion _____ that have become popular over the last century.",
+      "options": {
+        "A": "designs",
+        "B": "trends",
+        "C": "styles",
+        "D": "looks"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "We collected _____ from the forest to build a campfire.",
+      "options": {
+        "A": "sticks",
+        "B": "branches",
+        "C": "logs",
+        "D": "wood"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "The furniture company will help with _____ your belongings to your new apartment.",
+      "options": {
+        "A": "shifting",
+        "B": "relocating",
+        "C": "transferring",
+        "D": "moving"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "She has a natural _____ for music and can play multiple instruments.",
+      "options": {
+        "A": "skill",
+        "B": "ability",
+        "C": "talent",
+        "D": "gift"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Some species of snakes have _____ venom that can kill a human within hours.",
+      "options": {
+        "A": "fatal",
+        "B": "lethal",
+        "C": "deadly",
+        "D": "poisonous"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, how many chromosomes do humans inherit from each parent?",
+      "options": {
+        "A": "23",
+        "B": "46",
+        "C": "1",
+        "D": "12"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Who is referred to as the \"father of genetics\" in the passage?",
+      "options": {
+        "A": "Charles Darwin",
+        "B": "Gregor Mendel",
+        "C": "Francis Crick",
+        "D": "James Watson"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 2, which letter would represent a recessive trait?",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "R",
+        "D": "a"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "What term is used in paragraph 3 to describe traits influenced by multiple genes working together?",
+      "options": {
+        "A": "Dominant inheritance",
+        "B": "Recessive inheritance",
+        "C": "Polygenic inheritance",
+        "D": "Environmental inheritance"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to the passage, which of these is an example of a trait determined by a single gene?",
+      "options": {
+        "A": "Height",
+        "B": "Skin color",
+        "C": "Intelligence",
+        "D": "Earlobe attachment"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What is one cause of Down syndrome according to paragraph 4?",
+      "options": {
+        "A": "It is inherited from both parents",
+        "B": "It results from chromosomal abnormalities during cell division",
+        "C": "It requires both parents to pass on a recessive gene",
+        "D": "It is always inherited from the mother"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "When was the Human Genome Project completed according to paragraph 5?",
+      "options": {
+        "A": "In the 1860s",
+        "B": "In the 19th century",
+        "C": "In 2003",
+        "D": "In recent decades"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "Based on the passage, what is a potential benefit of advances in genetics?",
+      "options": {
+        "A": "Eliminating all genetic disorders",
+        "B": "Creating perfect human beings",
+        "C": "Personalized medicine tailored to an individual's genetic makeup",
+        "D": "Preventing all spontaneous genetic mutations"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Which of the following best describes the main purpose of paragraph 4?",
+      "options": {
+        "A": "To explain how genes are inherited",
+        "B": "To describe genetic disorders and their causes",
+        "C": "To discuss the Human Genome Project",
+        "D": "To explain how traits are expressed"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What ethical concern does the passage mention in relation to genetic advancements?",
+      "options": {
+        "A": "The cost of genetic testing",
+        "B": "The safety of gene therapy",
+        "C": "The extent to which we should manipulate genetic code",
+        "D": "The availability of personalized medicine"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
