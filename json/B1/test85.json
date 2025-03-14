@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The pyramids of ancient Egypt stand as some of the most remarkable architectural achievements in human history. Built primarily during the Old and Middle Kingdom periods (approximately 2700-1700 BCE), these massive stone structures served as elaborate tombs for the pharaohs who ruled Egypt. The Great Pyramid of Giza, constructed for Pharaoh Khufu, is the largest and most famous of all Egyptian pyramids, originally standing 146 meters tall with a base covering more than 13 acres.<br><br>(2) Beyond their function as royal tombs, the pyramids held profound religious significance for ancient Egyptians. They believed that the pyramid shape represented the primordial mound from which all life emerged and provided a stairway for the pharaoh's spirit to ascend to the heavens. Inside these structures, elaborate burial chambers contained not only the mummified remains of the pharaoh but also treasures, food, furniture, and other items the ruler would need in the afterlife. The precise alignment of many pyramids to celestial bodies further demonstrates their connection to Egyptian religious beliefs about the journey to the afterlife.<br><br>(3) The construction of these massive monuments required extraordinary organizational skill and engineering knowledge. Thousands of workers, contrary to popular belief that they were slaves, were actually paid laborers who worked in shifts throughout the year. They quarried enormous stone blocks, some weighing several tons, and transported them to the construction site using sledges, ropes, and water to reduce friction. With remarkable precision, workers fitted these blocks together without mortar, creating structures so well-built that they have endured for over 4,500 years despite earthquakes, weather, and even attempts at dismantling them.<br><br>(4) Pyramids also played an important economic and social role in ancient Egyptian society. Their construction provided employment for thousands of workers during the annual Nile flooding when farming was impossible. This massive public works project helped unite the population under the pharaoh's rule and demonstrated the extraordinary wealth and power of the Egyptian state. The organizational systems developed to build the pyramids likely contributed to advancements in Egyptian mathematics, astronomy, and architecture.<br><br>(5) Today, Egypt's pyramids continue to fascinate scientists, historians, and tourists alike. Modern archaeological techniques have revealed new information about how they were built and the lives of those who constructed them. While many of their treasures were looted centuries ago, the pyramids themselves remain as testament to the ingenuity and cultural beliefs of ancient Egypt. Their enduring presence has made them not only symbols of Egyptian civilization but also of human achievement, inspiring wonder across countless generations.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct form of the verb: 'She _____ English for five years.'",
+      "options": {
+        "A": "studies",
+        "B": "study",
+        "C": "has studied",
+        "D": "studying"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the sentence with the correct word order:",
+      "options": {
+        "A": "Yesterday went she to the museum.",
+        "B": "She yesterday went to the museum.",
+        "C": "She went to the museum yesterday.",
+        "D": "She went yesterday to the museum."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence contains a mistake in the passive voice?",
+      "options": {
+        "A": "The book was written by a famous author.",
+        "B": "The window was broken during the storm.",
+        "C": "The letter written by the secretary yesterday.",
+        "D": "English is spoken in many countries."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct form of the conditional sentence:",
+      "options": {
+        "A": "If it rains tomorrow, I stay at home.",
+        "B": "If it rains tomorrow, I will stay at home.",
+        "C": "If it will rain tomorrow, I will stay at home.",
+        "D": "If it rains tomorrow, I would stay at home."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Which sentence uses the comparative form correctly?",
+      "options": {
+        "A": "This book is more interesting than the movie.",
+        "B": "This book is interestinger than the movie.",
+        "C": "This book is more interesting as the movie.",
+        "D": "This book is the more interesting than the movie."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the correct question form:",
+      "options": {
+        "A": "Where you are going tonight?",
+        "B": "Where are you going tonight?",
+        "C": "Where going are you tonight?",
+        "D": "Where you going are tonight?"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct form of the past perfect tense:",
+      "options": {
+        "A": "When I arrived, the train already left.",
+        "B": "When I arrived, the train has already left.",
+        "C": "When I arrived, the train had already left.",
+        "D": "When I arrived, the train already has left."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Which sentence uses articles correctly?",
+      "options": {
+        "A": "I need a advice about buying car.",
+        "B": "I need an advice about buying a car.",
+        "C": "I need advice about buying a car.",
+        "D": "I need the advice about buying car."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Select the sentence with the correct preposition:",
+      "options": {
+        "A": "They arrived at London last night.",
+        "B": "They arrived to London last night.",
+        "C": "They arrived in London last night.",
+        "D": "They arrived on London last night."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct modal verb: 'You _____ smoke in this building. It's against the rules.'",
+      "options": {
+        "A": "don't have to",
+        "B": "mustn't",
+        "C": "couldn't",
+        "D": "wouldn't"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Which relative pronoun is correct? 'The man _____ car was stolen called the police.'",
+      "options": {
+        "A": "who",
+        "B": "whom",
+        "C": "which",
+        "D": "whose"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the correct form of the future continuous tense:",
+      "options": {
+        "A": "This time next week, I will lying on the beach.",
+        "B": "This time next week, I will be lying on the beach.",
+        "C": "This time next week, I am lying on the beach.",
+        "D": "This time next week, I will been lying on the beach."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct quantifier: 'There isn't _____ milk left in the fridge.'",
+      "options": {
+        "A": "many",
+        "B": "much",
+        "C": "few",
+        "D": "little bit"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence uses gerunds correctly?",
+      "options": {
+        "A": "I enjoy to swim in the ocean.",
+        "B": "I enjoy swimming in the ocean.",
+        "C": "I enjoy swim in the ocean.",
+        "D": "I enjoy for swimming in the ocean."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the sentence with the correct tense sequence:",
+      "options": {
+        "A": "If I knew the answer, I will tell you.",
+        "B": "If I knew the answer, I had told you.",
+        "C": "If I knew the answer, I would tell you.",
+        "D": "If I knew the answer, I tell you."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct word to complete the sentence: 'The concert was cancelled _____ bad weather.'",
+      "options": {
+        "A": "because",
+        "B": "because of",
+        "C": "due",
+        "D": "since of"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the appropriate phrasal verb: 'Could you please _____ this form and return it to me?'",
+      "options": {
+        "A": "fill up",
+        "B": "fill out",
+        "C": "fill over",
+        "D": "fill across"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Which collocation is correct?",
+      "options": {
+        "A": "do a mistake",
+        "B": "make a mistake",
+        "C": "take a mistake",
+        "D": "have a mistake"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct expression: 'I'm really tired. I think I'll _____ early tonight.'",
+      "options": {
+        "A": "go to bed",
+        "B": "go to sleep",
+        "C": "go to dream",
+        "D": "go to rest"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the most appropriate linking word: 'He studied very hard; _____, he failed the exam.'",
+      "options": {
+        "A": "therefore",
+        "B": "however",
+        "C": "moreover",
+        "D": "consequently"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Which option completes the sentence correctly? 'She's been working hard _____ get a promotion.'",
+      "options": {
+        "A": "for to",
+        "B": "for",
+        "C": "in order to",
+        "D": "so that to"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct expression: 'I need to _____ some money from the bank.'",
+      "options": {
+        "A": "take out",
+        "B": "take off",
+        "C": "take in",
+        "D": "take over"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the correct idiomatic expression: 'Learning a language is difficult, but don't give up – _____ is the key to success.'",
+      "options": {
+        "A": "piece of cake",
+        "B": "practice makes perfect",
+        "C": "it's raining cats and dogs",
+        "D": "break a leg"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Which word best completes the sentence? 'The meeting has been _____ until next week.'",
+      "options": {
+        "A": "cancelled",
+        "B": "postponed",
+        "C": "delayed",
+        "D": "extended"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the appropriate expression: 'I don't feel well. I think I'm _____ a cold.'",
+      "options": {
+        "A": "coming down with",
+        "B": "coming up with",
+        "C": "coming across with",
+        "D": "coming over with"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Which sentence uses 'perhaps' correctly?",
+      "options": {
+        "A": "Perhaps I will go to the cinema tonight.",
+        "B": "She perhaps to visit her grandmother yesterday.",
+        "C": "They perhaps very happy about the news.",
+        "D": "He perhaps the cake for the party."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the sentence where 'present' is used as a verb:",
+      "options": {
+        "A": "I bought a present for my mother's birthday.",
+        "B": "The teacher will present the awards to the students.",
+        "C": "All students must be present for the exam.",
+        "D": "The present situation is very complicated."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Select the sentence where 'remain' is used correctly:",
+      "options": {
+        "A": "The food remains in the fridge for three days.",
+        "B": "They remain to finish their work by Friday.",
+        "C": "Several questions remain unanswered after the meeting.",
+        "D": "She remain at the party until midnight."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which sentence uses 'prove' correctly?",
+      "options": {
+        "A": "The scientist proved his theory with experimental evidence.",
+        "B": "She prove her point during the debate.",
+        "C": "They will proves the facts tomorrow.",
+        "D": "He is prove to be a good teacher."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the sentence where 'process' is used correctly:",
+      "options": {
+        "A": "The application process takes about two weeks.",
+        "B": "She process the information carefully.",
+        "C": "They will process arriving tomorrow.",
+        "D": "He process the work already."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Which sentence uses 'depend' correctly?",
+      "options": {
+        "A": "We depend finish the project by Friday.",
+        "B": "My decision will depend on the weather.",
+        "C": "She depend her parents for money.",
+        "D": "They are depend to arrive soon."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Select the sentence where 'weigh' is used properly:",
+      "options": {
+        "A": "The nurse will weigh the baby during the checkup.",
+        "B": "The package weigh five kilograms.",
+        "C": "They weigh the options yesterday.",
+        "D": "He is weigh the luggage now."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Choose the sentence where 'clear' is used as a verb:",
+      "options": {
+        "A": "The instructions are very clear.",
+        "B": "It's a clear day with no clouds in the sky.",
+        "C": "Please clear the table after dinner.",
+        "D": "She has a clear advantage in the competition."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Which sentence uses 'similar' correctly?",
+      "options": {
+        "A": "This painting is very similar to the one in the museum.",
+        "B": "He similar his father in many ways.",
+        "C": "They similar finished the task.",
+        "D": "She has similar the exam yesterday."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Select the sentence where 'watch' is used correctly:",
+      "options": {
+        "A": "I watch a movie last night.",
+        "B": "She watches television every evening.",
+        "C": "They watch to the game tomorrow.",
+        "D": "He is watch his sister now."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Which sentence uses 'submit' correctly?",
+      "options": {
+        "A": "Students must submit their assignments by Friday.",
+        "B": "She submit the application yesterday.",
+        "C": "They will submits the documents soon.",
+        "D": "He is submit to the pressure."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Choose the sentence where 'effect' is used correctly:",
+      "options": {
+        "A": "The medicine will effect quickly.",
+        "B": "Stress can have a negative effect on your health.",
+        "C": "They effect a change in policy.",
+        "D": "She effects from a cold."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Select the sentence where 'catch' is used properly:",
+      "options": {
+        "A": "I hope to catch the early train tomorrow.",
+        "B": "She catch a cold last week.",
+        "C": "They catches fish every weekend.",
+        "D": "He catch sleeping during the meeting."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Which sentence uses 'waste' correctly?",
+      "options": {
+        "A": "Don't waste your time watching TV all day.",
+        "B": "She waste the opportunity yesterday.",
+        "C": "They wastes money on unnecessary things.",
+        "D": "He is waste paper in the bin."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Choose the sentence where 'collect' is used correctly:",
+      "options": {
+        "A": "My brother collects old coins as a hobby.",
+        "B": "She collect the mail every morning.",
+        "C": "They will collects the data next week.",
+        "D": "He is collect stamps since childhood."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, when were the Egyptian pyramids primarily built?",
+      "options": {
+        "A": "During the New Kingdom period",
+        "B": "During the Old and Middle Kingdom periods",
+        "C": "Between 1700-1000 BCE",
+        "D": "After the reign of Pharaoh Khufu"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "What was the original height of the Great Pyramid of Giza?",
+      "options": {
+        "A": "130 meters",
+        "B": "146 meters",
+        "C": "156 meters",
+        "D": "164 meters"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to the passage, what did ancient Egyptians believe the pyramid shape represented?",
+      "options": {
+        "A": "The shape of the pharaoh's throne",
+        "B": "The primordial mound from which all life emerged",
+        "C": "The structure of Egyptian society",
+        "D": "The mountains of the afterlife"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "What does the passage reveal about the workers who built the pyramids?",
+      "options": {
+        "A": "They were mostly slaves",
+        "B": "They worked without compensation",
+        "C": "They were paid laborers",
+        "D": "They were primarily foreign captives"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "How were the massive stone blocks moved to the construction site?",
+      "options": {
+        "A": "Using wheels and pulleys",
+        "B": "Using sledges, ropes, and water",
+        "C": "Using domesticated animals only",
+        "D": "Using wooden rollers exclusively"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What economic benefit did pyramid construction provide?",
+      "options": {
+        "A": "It created jobs during flooding when farming was impossible",
+        "B": "It increased trade with neighboring countries",
+        "C": "It improved agricultural production",
+        "D": "It established a monetary system"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What did pyramid construction demonstrate about the Egyptian state?",
+      "options": {
+        "A": "Its religious tolerance",
+        "B": "Its military power",
+        "C": "Its wealth and power",
+        "D": "Its advanced medicine"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to the passage, how long have the pyramids endured?",
+      "options": {
+        "A": "Over 3,000 years",
+        "B": "Over 4,000 years",
+        "C": "Over 4,500 years",
+        "D": "Over 5,000 years"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What is NOT mentioned as a field that may have advanced due to pyramid construction?",
+      "options": {
+        "A": "Mathematics",
+        "B": "Astronomy",
+        "C": "Medicine",
+        "D": "Architecture"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What happened to many of the treasures placed inside the pyramids?",
+      "options": {
+        "A": "They were transferred to museums",
+        "B": "They were preserved perfectly",
+        "C": "They were looted centuries ago",
+        "D": "They decomposed over time"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
