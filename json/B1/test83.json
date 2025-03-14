@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The equator, an imaginary line that circles the Earth at 0 degrees latitude, plays a crucial role in determining our planet's climate patterns. This invisible belt divides Earth into the Northern and Southern Hemispheres and receives the most direct sunlight throughout the year. Unlike regions farther from the equator, equatorial areas experience minimal seasonal temperature variation, with consistently warm conditions year-round.<br><br>(2) One of the most significant impacts of the equator on global climate is its influence on atmospheric circulation. The intense solar radiation at the equator heats the air, causing it to rise and creating a low-pressure zone known as the Intertropical Convergence Zone (ITCZ). As this warm air rises, it cools and releases moisture, resulting in the heavy rainfall characteristic of tropical regions. The air then flows north and south at high altitudes before descending at approximately 30 degrees latitude in both hemispheres, forming subtropical high-pressure areas.<br><br>(3) The equatorial regions' consistent warmth also affects ocean currents, which further influence global climate patterns. Warm water from the equator moves toward the poles, while cooler water from higher latitudes flows toward the equator. This circulation helps distribute heat around the planet, moderating temperatures in coastal regions. The most well-known example of this phenomenon is the El Niño-Southern Oscillation (ENSO), which can significantly impact weather patterns worldwide when equatorial Pacific Ocean temperatures change.<br><br>(4) The equator's influence extends to biodiversity as well. The stable climate conditions and abundant rainfall of equatorial regions support some of the world's most diverse ecosystems, including tropical rainforests and coral reefs. These environments act as carbon sinks, absorbing significant amounts of carbon dioxide from the atmosphere. However, they are particularly vulnerable to climate change, as even small temperature increases can disrupt delicate ecological balances that have evolved under stable conditions.<br><br>(5) Understanding the equator's role in climate regulation has become increasingly important as global temperatures rise. Climate models suggest that global warming may alter traditional rainfall patterns near the equator, potentially causing the ITCZ to shift and affecting agriculture and water availability for millions of people. Additionally, as polar ice melts, the temperature difference between the equator and poles decreases, which could weaken the atmospheric circulation patterns that have traditionally distributed heat and moisture around our planet.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct form of the verb: 'He _____ TV when I called him yesterday.'",
+      "options": {
+        "A": "watched",
+        "B": "watches",
+        "C": "was watching",
+        "D": "is watching"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the correct sentence:",
+      "options": {
+        "A": "She have been working here since 2020.",
+        "B": "She has been working here since 2020.",
+        "C": "She is working here since 2020.",
+        "D": "She was working here since 2020."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence uses the present perfect correctly?",
+      "options": {
+        "A": "I've seen that movie last week.",
+        "B": "I've seen that movie yesterday.",
+        "C": "I've seen that movie already.",
+        "D": "I've seen that movie tomorrow."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct conditional form: 'If it _____ tomorrow, we'll go to the beach.'",
+      "options": {
+        "A": "doesn't rain",
+        "B": "won't rain",
+        "C": "didn't rain",
+        "D": "wouldn't rain"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Select the correct preposition: 'I'm really interested _____ learning about different cultures.'",
+      "options": {
+        "A": "for",
+        "B": "with",
+        "C": "in",
+        "D": "of"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which sentence contains an error in subject-verb agreement?",
+      "options": {
+        "A": "The team is practicing for the tournament.",
+        "B": "Everyone in the class has finished their exam.",
+        "C": "The number of students in the class is increasing.",
+        "D": "The committee are divided on this issue."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct past participle: 'Have you ever _____ to Paris?'",
+      "options": {
+        "A": "went",
+        "B": "gone",
+        "C": "going",
+        "D": "go"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the correct passive form: 'The concert _____ by thousands of people last night.'",
+      "options": {
+        "A": "attended",
+        "B": "was attending",
+        "C": "was attended",
+        "D": "has attended"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which modal verb expresses necessity?",
+      "options": {
+        "A": "might",
+        "B": "could",
+        "C": "must",
+        "D": "may"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct relative pronoun: 'The book _____ I borrowed from the library is very interesting.'",
+      "options": {
+        "A": "who",
+        "B": "whom",
+        "C": "whose",
+        "D": "which"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Select the correct comparative form: 'This exercise is _____ than I expected.'",
+      "options": {
+        "A": "more easy",
+        "B": "more easier",
+        "C": "easier",
+        "D": "easiest"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence uses the past perfect correctly?",
+      "options": {
+        "A": "When I arrived, the movie already started.",
+        "B": "When I arrived, the movie has already started.",
+        "C": "When I arrived, the movie had already started.",
+        "D": "When I arrived, the movie was already starting."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct article: 'My father is _____ engineer.'",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article needed"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Select the correct reported speech: 'I will call you tomorrow,' she said.",
+      "options": {
+        "A": "She said she will call me the next day.",
+        "B": "She said she would call me the next day.",
+        "C": "She said she will call me tomorrow.",
+        "D": "She said I would call her the next day."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Which sentence uses the future continuous correctly?",
+      "options": {
+        "A": "This time next week, I will lying on the beach.",
+        "B": "This time next week, I will be lie on the beach.",
+        "C": "This time next week, I will lying on the beach.",
+        "D": "This time next week, I will be lying on the beach."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct phrasal verb: 'It's getting late. We should _____ now.'",
+      "options": {
+        "A": "set off",
+        "B": "take off",
+        "C": "get off",
+        "D": "put off"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the correct collocation: 'Could you please _____ me a favor?'",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "give",
+        "D": "take"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Complete the expression: 'I'm really looking forward _____ you again.'",
+      "options": {
+        "A": "to see",
+        "B": "seeing",
+        "C": "to seeing",
+        "D": "see"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct idiom: 'The exam was very difficult. It was _____ for most students.'",
+      "options": {
+        "A": "a piece of cake",
+        "B": "a hot potato",
+        "C": "a hard nut to crack",
+        "D": "a walk in the park"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the best word to complete the sentence: 'The meeting has been _____ until next week.'",
+      "options": {
+        "A": "delayed",
+        "B": "postponed",
+        "C": "canceled",
+        "D": "avoided"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the correct connector: 'I wanted to go to the party, _____ I had to study for my exam.'",
+      "options": {
+        "A": "so",
+        "B": "because",
+        "C": "but",
+        "D": "and"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Which word correctly completes both sentences? 'Please _____ a seat.' and 'I need to _____ notes during the lecture.'",
+      "options": {
+        "A": "have",
+        "B": "get",
+        "C": "make",
+        "D": "take"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the appropriate expression for making a suggestion: '_____ go to the cinema tonight?'",
+      "options": {
+        "A": "Shall we",
+        "B": "Do we",
+        "C": "Are we",
+        "D": "Will we"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct preposition: 'She's really good _____ playing tennis.'",
+      "options": {
+        "A": "at",
+        "B": "in",
+        "C": "with",
+        "D": "for"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the most appropriate response to the question: 'Would you like something to drink?'",
+      "options": {
+        "A": "Yes, I'd like.",
+        "B": "Yes, I would.",
+        "C": "Yes, please. I'd like a coffee.",
+        "D": "Yes, I'd want a coffee."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Which sentence uses 'million' correctly?",
+      "options": {
+        "A": "There are millions people in the city.",
+        "B": "The company made millions of dollars last year.",
+        "C": "This book has sold a millions copies.",
+        "D": "I've told you a millions times."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "What does 'element' mean in this sentence? 'Water is an essential element for life.'",
+      "options": {
+        "A": "An important part",
+        "B": "A chemical substance",
+        "C": "A difficult challenge",
+        "D": "A surprising fact"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Which phrase using 'horizon' is correct?",
+      "options": {
+        "A": "The ship disappeared beyond the horizon.",
+        "B": "I put my books on the horizon.",
+        "C": "She painted a beautiful horizon of flowers.",
+        "D": "They built a new horizon in the city center."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Choose the sentence that uses 'emphasis' correctly:",
+      "options": {
+        "A": "The teacher gave emphasis for good pronunciation.",
+        "B": "There is a strong emphasis on teamwork in this company.",
+        "C": "I bought a new emphasis for my living room.",
+        "D": "The chef cooked with emphasis."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Select the sentence that uses 'someone' correctly:",
+      "options": {
+        "A": "Someone are waiting for you outside.",
+        "B": "I need to talk to someone's about the problem.",
+        "C": "Is there someone I can help you?",
+        "D": "Someone left their umbrella in the classroom."
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Which sentence uses 'against' correctly?",
+      "options": {
+        "A": "I leaned my bicycle against the wall.",
+        "B": "She won the race against of her best friend.",
+        "C": "They protested against for the new law.",
+        "D": "We played against with another team yesterday."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "What does 'enhance' mean?",
+      "options": {
+        "A": "To reduce or diminish",
+        "B": "To improve or increase",
+        "C": "To cancel or remove",
+        "D": "To copy or imitate"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Choose the sentence that uses 'explore' correctly:",
+      "options": {
+        "A": "We need to explore why the machine isn't working.",
+        "B": "She explored the book on the shelf.",
+        "C": "They explored the presentation to the audience.",
+        "D": "I explored my keys in my pocket."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Which sentence uses 'correct' as a verb?",
+      "options": {
+        "A": "This is the correct answer.",
+        "B": "The teacher will correct our tests tomorrow.",
+        "C": "I need the correct information.",
+        "D": "She gave me correct directions."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "What does 'package' refer to in this sentence? 'The package arrived yesterday.'",
+      "options": {
+        "A": "A computer program",
+        "B": "A vacation deal",
+        "C": "A box containing something that was sent",
+        "D": "A group of people"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Choose the sentence that uses 'voluntary' correctly:",
+      "options": {
+        "A": "Attendance at the meeting is voluntary.",
+        "B": "She made a voluntary at the concert.",
+        "C": "The machine has a voluntary system.",
+        "D": "They voluntary the project last week."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Which sentence uses 'calculate' correctly?",
+      "options": {
+        "A": "I need to calculate with my teacher.",
+        "B": "He calculated the bus to work.",
+        "C": "She calculated the total cost of the project.",
+        "D": "They calculated a new plan."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "What does 'indeed' express in this sentence? 'The party was indeed a great success.'",
+      "options": {
+        "A": "Uncertainty",
+        "B": "Emphasis or confirmation",
+        "C": "Contrast",
+        "D": "Possibility"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Choose the sentence that uses 'ideally' correctly:",
+      "options": {
+        "A": "She ideally her favorite singer.",
+        "B": "The house is ideally located near the beach.",
+        "C": "They ideally the situation quickly.",
+        "D": "I ideally the book on the shelf."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Which sentence uses 'journey' correctly?",
+      "options": {
+        "A": "We had a long journey to reach the airport.",
+        "B": "She journeyed the paper into the bin.",
+        "C": "They journey every weekend.",
+        "D": "I journey my bike to school."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, why do equatorial regions experience minimal seasonal temperature variation?",
+      "options": {
+        "A": "Because they are protected by mountains",
+        "B": "Because they receive the most direct sunlight throughout the year",
+        "C": "Because they are surrounded by oceans",
+        "D": "Because of human activity in these regions"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "What is the Intertropical Convergence Zone (ITCZ) described as in paragraph 2?",
+      "options": {
+        "A": "A high-pressure zone at the equator",
+        "B": "A warm ocean current",
+        "C": "A low-pressure zone at the equator",
+        "D": "A layer of the atmosphere above the poles"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 2, what happens when warm air rises at the equator?",
+      "options": {
+        "A": "It creates high-pressure areas at the equator",
+        "B": "It cools and releases moisture, resulting in heavy rainfall",
+        "C": "It creates strong winds moving from east to west",
+        "D": "It forces cold air down to the surface"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "What example is given in paragraph 3 to illustrate how equatorial ocean temperatures affect global weather?",
+      "options": {
+        "A": "Hurricanes and typhoons",
+        "B": "Gulf Stream",
+        "C": "El Niño-Southern Oscillation (ENSO)",
+        "D": "Arctic ice melting"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to paragraph 4, why are equatorial ecosystems particularly vulnerable to climate change?",
+      "options": {
+        "A": "Because they have fewer species than other regions",
+        "B": "Because they are already very hot",
+        "C": "Because they have evolved under stable conditions",
+        "D": "Because they receive less rainfall than other areas"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "The word 'disrupting' in paragraph 4 is closest in meaning to:",
+      "options": {
+        "A": "destroying",
+        "B": "disturbing",
+        "C": "developing",
+        "D": "demonstrating"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to paragraph 5, what might happen to the ITCZ as a result of global warming?",
+      "options": {
+        "A": "It may disappear entirely",
+        "B": "It may become stronger",
+        "C": "It may shift from its traditional position",
+        "D": "It may cause more hurricanes"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What is described as a potential consequence of the temperature difference decreasing between the equator and poles?",
+      "options": {
+        "A": "More extreme weather events",
+        "B": "A weakening of atmospheric circulation patterns",
+        "C": "An increase in ocean salinity",
+        "D": "More stable weather patterns globally"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Based on the passage, which statement best summarizes the equator's role in Earth's climate?",
+      "options": {
+        "A": "The equator primarily affects local weather in tropical countries",
+        "B": "The equator influences global climate patterns through atmospheric and oceanic circulation",
+        "C": "The equator's main function is to create hurricanes and tropical storms",
+        "D": "The equator prevents extreme weather in polar regions"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the main purpose of this passage?",
+      "options": {
+        "A": "To argue that climate change is not affecting the equator",
+        "B": "To explain how the equator influences Earth's climate systems",
+        "C": "To compare the equator's climate with polar climates",
+        "D": "To suggest solutions for protecting equatorial ecosystems"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
