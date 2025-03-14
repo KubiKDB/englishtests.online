@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Vaccinations have been one of the most significant public health achievements of modern medicine. They have helped eliminate or significantly reduce many dangerous diseases that once caused widespread illness and death around the world. When a person receives a vaccine, their immune system develops antibodies that protect them against specific diseases without having to experience the full illness. This preventative approach has saved millions of lives globally and continues to be an essential tool in public health.<br><br>(2) The primary benefit of vaccinations is disease prevention at both individual and community levels. When a large portion of a population is vaccinated, it creates what scientists call \"herd immunity,\" which helps protect those who cannot be vaccinated due to age or medical conditions. Vaccines have successfully eliminated smallpox worldwide and have nearly eradicated polio. Other diseases like measles, mumps, and rubella have been dramatically reduced in countries with strong vaccination programs. Additionally, vaccines reduce healthcare costs associated with treating preventable diseases and decrease time lost from work or school due to illness.<br><br>(3) Despite their proven benefits, some people have concerns about vaccine safety. Most commonly reported side effects are typically mild and temporary, including soreness at the injection site, low-grade fever, or mild rash. These reactions actually indicate that the immune system is responding appropriately to the vaccine. Serious adverse reactions are extremely rare, occurring in fewer than one in a million doses. The scientific consensus from extensive research is that vaccines are remarkably safe, and the benefits far outweigh the potential risks.<br><br>(4) Another concern involves the misconception that vaccines can cause certain conditions like autism. This belief stemmed from a study published in 1998 that has since been completely discredited and retracted because of serious procedural flaws and ethical violations. Numerous subsequent large-scale studies have found no link between vaccines and autism. Medical and public health organizations worldwide continually monitor vaccine safety and effectiveness through sophisticated surveillance systems to identify and address any potential issues promptly.<br><br>(5) The decision about vaccination affects not only individuals but communities as a whole. In recent years, declining vaccination rates in some regions have led to outbreaks of preventable diseases. This highlights the ongoing need for accurate information about vaccines and their importance. Healthcare providers play a crucial role in addressing patient concerns and providing evidence-based information. Ultimately, high vaccination rates remain essential for protecting public health and preventing the resurgence of dangerous diseases that have been controlled through decades of successful immunization efforts.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following sentences contains the correct verb form?",
+      "options": {
+        "A": "She don't like to study in the evenings.",
+        "B": "They doesn't want to participate in the competition.",
+        "C": "He doesn't drive to work every day.",
+        "D": "I doesn't know the answer to your question."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct past tense form:",
+      "options": {
+        "A": "She telled me about the party yesterday.",
+        "B": "They buyed a new car last week.",
+        "C": "He thinked about the problem carefully.",
+        "D": "We visited the museum last weekend."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the correct preposition to complete the sentence: 'I usually go to the gym _____ the morning.'",
+      "options": {
+        "A": "in",
+        "B": "on",
+        "C": "at",
+        "D": "by"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "The teacher gave some homeworks to the students.",
+        "B": "She has many informations about the project.",
+        "C": "There are several pieces of furniture in the room.",
+        "D": "He bought three breads from the bakery."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct comparative form:",
+      "options": {
+        "A": "This exercise is more easier than the previous one.",
+        "B": "My brother is taller than me.",
+        "C": "She speaks English more better than French.",
+        "D": "This book is more interesting than the most interesting one."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Identify the correct sentence structure:",
+      "options": {
+        "A": "Always she arrives on time to class.",
+        "B": "Yesterday went I to the movie theater.",
+        "C": "He never has visited that country before.",
+        "D": "She often goes to the park on weekends."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which sentence uses the present perfect tense correctly?",
+      "options": {
+        "A": "I have seen that movie last week.",
+        "B": "She has lived in London since three years.",
+        "C": "They have studied English for two years.",
+        "D": "He has went to the store this morning."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct modal verb: 'You _____ wear a uniform at this school. It's required.'",
+      "options": {
+        "A": "might",
+        "B": "could",
+        "C": "may",
+        "D": "must"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Select the correct article: 'She wants to become _____ engineer when she graduates.'",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article needed"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence contains a correct conditional form?",
+      "options": {
+        "A": "If it will rain tomorrow, we stay at home.",
+        "B": "If I had more time, I will help you.",
+        "C": "If she studies hard, she will pass the exam.",
+        "D": "If they would arrive early, we can go to dinner."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct passive voice form: 'The letter _____ yesterday.'",
+      "options": {
+        "A": "was sending",
+        "B": "was sent",
+        "C": "has been sent",
+        "D": "is sending"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence uses reported speech correctly?",
+      "options": {
+        "A": "She said that she is going to the party tonight.",
+        "B": "He told me that he will come tomorrow.",
+        "C": "They said that they were busy the day before.",
+        "D": "The teacher said that she finished the lesson yesterday."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Select the correct verb form: 'I wish I _____ able to speak French fluently.'",
+      "options": {
+        "A": "am",
+        "B": "was",
+        "C": "were",
+        "D": "have been"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct question tag: 'You've been to Paris, _____?'",
+      "options": {
+        "A": "aren't you",
+        "B": "don't you",
+        "C": "haven't you",
+        "D": "didn't you"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Which sentence uses the future continuous correctly?",
+      "options": {
+        "A": "They will working on the project next week.",
+        "B": "She will be study for her exam tomorrow morning.",
+        "C": "I will be watching a movie at 8 PM tonight.",
+        "D": "We will been traveling to Spain next summer."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct word to complete the sentence: 'I need to _____ a doctor's appointment for next week.'",
+      "options": {
+        "A": "do",
+        "B": "make",
+        "C": "take",
+        "D": "get"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the appropriate phrasal verb: 'Can you _____ the children while I go shopping?'",
+      "options": {
+        "A": "look at",
+        "B": "look for",
+        "C": "look after",
+        "D": "look up"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct expression: 'It's raining heavily. I think we should _____ going to the beach.'",
+      "options": {
+        "A": "put off",
+        "B": "put away",
+        "C": "put down",
+        "D": "put out"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Select the correct idiom to complete the sentence: 'Finding a job in this economy is _____.'",
+      "options": {
+        "A": "a piece of cake",
+        "B": "a hot potato",
+        "C": "a drop in the ocean",
+        "D": "an uphill battle"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct collocation: 'She _____ a lot of time researching for her project.'",
+      "options": {
+        "A": "made",
+        "B": "took",
+        "C": "spent",
+        "D": "had"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Which word correctly completes this sentence: 'Please _____ quiet in the library.'",
+      "options": {
+        "A": "be",
+        "B": "do",
+        "C": "make",
+        "D": "have"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Select the correct expression: 'I'm really tired. I think I'll _____ early tonight.'",
+      "options": {
+        "A": "go to sleep",
+        "B": "go to bed",
+        "C": "go sleeping",
+        "D": "go for sleep"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct preposition: 'She's very good _____ playing the piano.'",
+      "options": {
+        "A": "at",
+        "B": "in",
+        "C": "on",
+        "D": "with"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Select the correct linking word: 'He wanted to go to the concert; _____, he couldn't afford a ticket.'",
+      "options": {
+        "A": "therefore",
+        "B": "however",
+        "C": "moreover",
+        "D": "furthermore"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct expression to offer help:",
+      "options": {
+        "A": "Would you mind if I help you?",
+        "B": "Shall I give you a hand?",
+        "C": "Do I help you with that?",
+        "D": "Am I helping you?"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What is the best definition of the word 'begin'?",
+      "options": {
+        "A": "To finish something",
+        "B": "To start doing or using something",
+        "C": "To move something forward",
+        "D": "To wait for something"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the sentence where 'place' is used correctly:",
+      "options": {
+        "A": "I place my keys on the table every day.",
+        "B": "She placed to go to the concert.",
+        "C": "They place very expensive for the tickets.",
+        "D": "We place going to the beach tomorrow."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Which sentence uses 'start' correctly?",
+      "options": {
+        "A": "The car wouldn't start because it was out of fuel.",
+        "B": "I start happy when I heard the news.",
+        "C": "She starts the music very loudly.",
+        "D": "They start me to work on the project."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "What does 'push' mean in this sentence? 'The manager pushed the team to finish the project by Friday.'",
+      "options": {
+        "A": "Physically moved the team",
+        "B": "Pressured or urged the team",
+        "C": "Helped the team",
+        "D": "Trained the team"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Which sentence uses 'progress' correctly?",
+      "options": {
+        "A": "She progress very well in her piano lessons.",
+        "B": "The project is making good progress despite the challenges.",
+        "C": "They progress the game until tomorrow.",
+        "D": "I progress to the store yesterday."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "What does 'afford' mean in this sentence? 'We can't afford to buy a new car this year.'",
+      "options": {
+        "A": "Have enough money for",
+        "B": "Want to purchase",
+        "C": "Need to have",
+        "D": "Plan to get"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Choose the sentence where 'arrange' is used correctly:",
+      "options": {
+        "A": "I arranged my friend to pick me up.",
+        "B": "She arranged the flowers in a beautiful vase.",
+        "C": "They arrange happy about the news.",
+        "D": "He arranges going to the cinema."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Which sentence uses 'describe' correctly?",
+      "options": {
+        "A": "Can you describe to the post office?",
+        "B": "She described me the book I was looking for.",
+        "C": "He described his vacation as the best time of his life.",
+        "D": "They describe at the restaurant last night."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What does 'draw' mean in this sentence? 'The artist draws portraits for tourists.'",
+      "options": {
+        "A": "Takes pictures of",
+        "B": "Creates pictures using a pencil or pen",
+        "C": "Paints with watercolors",
+        "D": "Sells paintings to"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Choose the sentence where 'spend' is used correctly:",
+      "options": {
+        "A": "I spend the door this morning.",
+        "B": "She spends very tall for her age.",
+        "C": "We spent three hours studying for the exam.",
+        "D": "They spend the movie last night."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What is the best definition of 'quantity'?",
+      "options": {
+        "A": "The quality of something",
+        "B": "How much or how many of something",
+        "C": "The size of something",
+        "D": "The importance of something"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Which sentence uses 'undertake' correctly?",
+      "options": {
+        "A": "The company undertook a major renovation project.",
+        "B": "She undertakes the milk in the refrigerator.",
+        "C": "I undertake reading books in my free time.",
+        "D": "They undertake happy about the news."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "What does 'discover' mean in this sentence? 'Scientists discovered a new species in the rainforest.'",
+      "options": {
+        "A": "Created or invented",
+        "B": "Found for the first time",
+        "C": "Studied extensively",
+        "D": "Named officially"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Choose the sentence where 'trust' is used correctly:",
+      "options": {
+        "A": "I trust to the park yesterday.",
+        "B": "She trusts her friend with her biggest secrets.",
+        "C": "They trust very delicious food at the restaurant.",
+        "D": "He trusts the movie last weekend."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "What does 'separate' mean in this sentence? 'Please separate the white clothes from the colored ones before washing.'",
+      "options": {
+        "A": "Combine or mix",
+        "B": "Clean thoroughly",
+        "C": "Divide into different groups",
+        "D": "Arrange neatly"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what is the main purpose of vaccinations?",
+      "options": {
+        "A": "To treat existing diseases",
+        "B": "To prevent diseases without experiencing the full illness",
+        "C": "To reduce healthcare costs",
+        "D": "To eliminate all diseases worldwide"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "What does the term 'herd immunity' refer to, as mentioned in paragraph 2?",
+      "options": {
+        "A": "When animals are protected from diseases",
+        "B": "When doctors provide immunity to their patients",
+        "C": "When a large portion of a population is vaccinated, protecting those who cannot be vaccinated",
+        "D": "When medications provide immunity to diseases"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "Based on paragraph 3, which statement about vaccine side effects is true?",
+      "options": {
+        "A": "Serious adverse reactions are common",
+        "B": "Most side effects are severe and long-lasting",
+        "C": "Mild reactions indicate the immune system is responding appropriately",
+        "D": "Side effects occur in about half of all vaccine recipients"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to paragraph 4, what happened to the 1998 study that claimed vaccines cause autism?",
+      "options": {
+        "A": "It was proven correct by additional research",
+        "B": "It was widely accepted by the medical community",
+        "C": "It was completely discredited and retracted",
+        "D": "It led to improvements in vaccine safety"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What has been the consequence of declining vaccination rates, according to paragraph 5?",
+      "options": {
+        "A": "Reduced healthcare costs",
+        "B": "Outbreaks of preventable diseases",
+        "C": "Increased public confidence in vaccines",
+        "D": "More effective vaccines being developed"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "Which disease is mentioned in the passage as being completely eliminated worldwide due to vaccination?",
+      "options": {
+        "A": "Polio",
+        "B": "Smallpox",
+        "C": "Measles",
+        "D": "Mumps"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What is the role of healthcare providers regarding vaccination, according to the passage?",
+      "options": {
+        "A": "To enforce mandatory vaccination",
+        "B": "To address patient concerns and provide evidence-based information",
+        "C": "To develop new vaccines",
+        "D": "To monitor vaccine production"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to the passage, how often do serious adverse reactions to vaccines occur?",
+      "options": {
+        "A": "In about 10% of cases",
+        "B": "In about 1% of cases",
+        "C": "In fewer than one in a million doses",
+        "D": "In about half of all vaccinations"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What is the main idea of paragraph 4?",
+      "options": {
+        "A": "Vaccines have been proven to cause autism in rare cases",
+        "B": "There is ongoing debate about vaccine safety among scientists",
+        "C": "The claim that vaccines cause autism has been discredited",
+        "D": "New studies are needed to determine vaccine safety"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the author's overall view on vaccinations?",
+      "options": {
+        "A": "They are beneficial but require more safety testing",
+        "B": "They are highly beneficial with minimal risks",
+        "C": "They are somewhat effective but have significant risks",
+        "D": "They are only necessary for certain populations"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
