@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The invention of the printing press in the mid-15th century by Johannes Gutenberg revolutionized how people shared information across Europe and eventually around the world. Before this remarkable invention, books were painstakingly copied by hand, making them rare and expensive. Gutenberg's printing press used movable metal type, which allowed for much faster and more affordable book production.<br><br>(2) The immediate impact of the printing press was dramatic. Within just 50 years of its invention, more than twenty million volumes had been printed. Books became accessible to people beyond just the wealthy elite and religious institutions. This widespread availability of books helped spread new ideas and information at an unprecedented speed throughout society.<br><br>(3) One of the most significant effects of the printing press was on education and literacy. As books became more common, more people were motivated to learn how to read. Schools began to appear in greater numbers, and education gradually became available to ordinary citizens, not just the privileged few. The standardization of texts also meant that people in different locations could study the same material.<br><br>(4) The printing press also played a crucial role in major historical events. It helped spread the ideas of the Renaissance and the Protestant Reformation. Martin Luther's translation of the Bible into German, which was widely distributed thanks to the printing press, allowed ordinary people to read religious texts in their own language for the first time. Political movements and scientific discoveries could now reach a much broader audience.<br><br>(5) Today, we can see parallels between Gutenberg's invention and the internet. Both technologies dramatically changed how information is shared and who can access it. Just as the printing press democratized knowledge in the 15th century, the internet has made information instantly available to billions of people worldwide. The printing press remains one of the most important inventions in human history, laying the groundwork for the information age in which we now live.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which verb form correctly completes the sentence? 'She _____ to the store yesterday.'",
+      "options": {
+        "A": "go",
+        "B": "gone",
+        "C": "went",
+        "D": "going"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct option: 'If it _____ tomorrow, we will cancel the picnic.'",
+      "options": {
+        "A": "rains",
+        "B": "will rain",
+        "C": "rained",
+        "D": "raining"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the correct sentence:",
+      "options": {
+        "A": "She don't like coffee.",
+        "B": "She doesn't likes coffee.",
+        "C": "She doesn't like coffee.",
+        "D": "She not like coffee."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct preposition: 'I'm interested _____ learning a new language.'",
+      "options": {
+        "A": "for",
+        "B": "at",
+        "C": "in",
+        "D": "by"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Which sentence uses the correct comparative form?",
+      "options": {
+        "A": "This book is more better than the other one.",
+        "B": "This book is better than the other one.",
+        "C": "This book is gooder than the other one.",
+        "D": "This book is more good than the other one."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the correct past participle form of the verb 'write':",
+      "options": {
+        "A": "wrote",
+        "B": "writed",
+        "C": "writing",
+        "D": "written"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "I have been to Paris last year.",
+        "B": "I went to Paris last year.",
+        "C": "I have went to Paris last year.",
+        "D": "I had been going to Paris last year."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct modal verb: 'You _____ smoke in the hospital.'",
+      "options": {
+        "A": "don't have to",
+        "B": "shouldn't",
+        "C": "mustn't",
+        "D": "might not"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Select the correct relative pronoun: 'The woman _____ lives next door is a doctor.'",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct article: 'I saw _____ interesting movie last weekend.'",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article needed"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Identify the correct passive voice construction: 'They build many houses in this area.'",
+      "options": {
+        "A": "Many houses built in this area.",
+        "B": "Many houses are build in this area.",
+        "C": "Many houses are built in this area.",
+        "D": "Many houses were build in this area."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Choose the correct option: 'By the time we arrived, the movie _____.'",
+      "options": {
+        "A": "already started",
+        "B": "had already started",
+        "C": "has already started",
+        "D": "was already starting"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Select the correct sentence:",
+      "options": {
+        "A": "I'm going to the cinema for watch a movie.",
+        "B": "I'm going to the cinema to watching a movie.",
+        "C": "I'm going to the cinema to watch a movie.",
+        "D": "I'm going to the cinema and watch a movie."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct form of the verb: 'I wish I _____ more time to study.'",
+      "options": {
+        "A": "have",
+        "B": "had",
+        "C": "would have",
+        "D": "am having"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Which sentence uses the correct word order?",
+      "options": {
+        "A": "Often I go to the gym after work.",
+        "B": "I often go to the gym after work.",
+        "C": "I go often to the gym after work.",
+        "D": "I go to the gym often after work."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct phrase to complete the sentence: 'I'm not sure _____ to the party tonight.'",
+      "options": {
+        "A": "if I'll go",
+        "B": "if I go",
+        "C": "if will I go",
+        "D": "if I would go"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the appropriate expression: 'Can you _____ the children while I'm away?'",
+      "options": {
+        "A": "look at",
+        "B": "look for",
+        "C": "look after",
+        "D": "look over"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Complete the collocation: 'make a _____'",
+      "options": {
+        "A": "noise",
+        "B": "damage",
+        "C": "travel",
+        "D": "shop"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct option to complete the sentence: 'It's important to _____ eye contact during a job interview.'",
+      "options": {
+        "A": "do",
+        "B": "make",
+        "C": "take",
+        "D": "keep"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the correct option to complete the sentence: 'I'd rather _____ at home than go out tonight.'",
+      "options": {
+        "A": "to stay",
+        "B": "staying",
+        "C": "stay",
+        "D": "stayed"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the correct phrasal verb: 'I need to _____ some groceries on my way home.'",
+      "options": {
+        "A": "pick up",
+        "B": "pick out",
+        "C": "pick on",
+        "D": "pick over"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Complete the idiom: 'It's raining _____.'",
+      "options": {
+        "A": "dogs and cats",
+        "B": "cats and dogs",
+        "C": "dogs and wolfs",
+        "D": "cats and mice"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the appropriate connector: 'He didn't come to the meeting, _____ he was ill.'",
+      "options": {
+        "A": "so",
+        "B": "because",
+        "C": "therefore",
+        "D": "but"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "A": "Neither I have seen that movie.",
+        "B": "I have neither seen that movie.",
+        "C": "I neither have seen that movie.",
+        "D": "I have seen neither that movie."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Complete the sentence with the correct option: 'She's very good _____ speaking English.'",
+      "options": {
+        "A": "at",
+        "B": "in",
+        "C": "with",
+        "D": "for"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the correct definition for the word 'lack':",
+      "options": {
+        "A": "to have a surplus of something",
+        "B": "to be without something or not have enough of it",
+        "C": "to give something to someone",
+        "D": "to find something that was lost"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Which word best completes the sentence? 'The artist used a special _____ to create a textured effect on the canvas.'",
+      "options": {
+        "A": "guess",
+        "B": "technique",
+        "C": "appearance",
+        "D": "drop"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What is the best meaning of 'guess' in this sentence? 'I don't know the answer, but I can guess.'",
+      "options": {
+        "A": "to confirm with certainty",
+        "B": "to calculate precisely",
+        "C": "to give an answer without being sure",
+        "D": "to remember clearly"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Choose the correct use of 'appearance' in a sentence:",
+      "options": {
+        "A": "The book appearance was very interesting.",
+        "B": "She made a surprising appearance at the party.",
+        "C": "We appearance at the concert last night.",
+        "D": "The store will appearance on Monday."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Select the sentence that uses 'drop' correctly:",
+      "options": {
+        "A": "She drop the glass on the floor yesterday.",
+        "B": "Please drop by my office later today.",
+        "C": "They drop out of school last year.",
+        "D": "I will drop this package since morning."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Which sentence uses 'event' correctly?",
+      "options": {
+        "A": "The wedding event was beautiful and memorable.",
+        "B": "I event to the party last weekend.",
+        "C": "She events a new dress for the ceremony.",
+        "D": "They will event next week."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Choose the correct meaning of 'handle' in this context: 'How do you handle stress?'",
+      "options": {
+        "A": "to create stress",
+        "B": "to enjoy stress",
+        "C": "to manage or cope with stress",
+        "D": "to avoid stress completely"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "What does 'stretch' mean in the sentence 'You should stretch before exercising'?",
+      "options": {
+        "A": "to run fast",
+        "B": "to extend your body or limbs",
+        "C": "to lift weights",
+        "D": "to breathe deeply"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Which sentence uses 'goal' correctly?",
+      "options": {
+        "A": "The athlete goals very fast.",
+        "B": "She goal to become a doctor someday.",
+        "C": "His goal is to learn French by next year.",
+        "D": "They goal the competition last month."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Choose the correct meaning of 'miss' in this context: 'I miss my family when I'm away.'",
+      "options": {
+        "A": "to fail to see",
+        "B": "to feel sad about being away from someone",
+        "C": "to avoid",
+        "D": "to meet unexpectedly"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Select the sentence where 'educate' is used correctly:",
+      "options": {
+        "A": "She educates to school every day.",
+        "B": "Parents should educate their children about safety.",
+        "C": "I educated my homework yesterday.",
+        "D": "They educate very tall buildings."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Which sentence uses 'swim' correctly?",
+      "options": {
+        "A": "She swims in the pool every morning.",
+        "B": "I swim a letter to my friend.",
+        "C": "They swim to school by bus.",
+        "D": "He swims the garden on weekends."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Choose the correct sentence using 'wonderful':",
+      "options": {
+        "A": "The concert was wonderful tired.",
+        "B": "We had a wonderful time at the beach.",
+        "C": "She wonderful the exam yesterday.",
+        "D": "They wonderful to the store."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "What does 'cause' mean in this sentence? 'Smoking can cause serious health problems.'",
+      "options": {
+        "A": "to solve",
+        "B": "to create or lead to",
+        "C": "to prevent",
+        "D": "to treat"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Select the sentence where 'print' is used correctly:",
+      "options": {
+        "A": "Please print these documents for the meeting.",
+        "B": "She print to school every day.",
+        "C": "They print the movie last night.",
+        "D": "I print very tired after work."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what did Gutenberg's printing press use that made it revolutionary?",
+      "options": {
+        "A": "Digital technology",
+        "B": "Movable metal type",
+        "C": "Handwritten manuscripts",
+        "D": "Wooden blocks"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Based on paragraph 2, how many volumes were printed within 50 years of the printing press's invention?",
+      "options": {
+        "A": "More than twenty million",
+        "B": "Less than one million",
+        "C": "Exactly fifty thousand",
+        "D": "About five million"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to the passage, what was one effect of the printing press on education?",
+      "options": {
+        "A": "It made education less necessary",
+        "B": "It restricted education to the elite",
+        "C": "It motivated more people to learn to read",
+        "D": "It made books more expensive"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Which historical figure is mentioned in paragraph 4 as having translated the Bible?",
+      "options": {
+        "A": "Johannes Gutenberg",
+        "B": "Martin Luther",
+        "C": "Galileo",
+        "D": "Leonardo da Vinci"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to paragraph 5, what modern technology is compared to the printing press?",
+      "options": {
+        "A": "Television",
+        "B": "Radio",
+        "C": "The telephone",
+        "D": "The internet"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "The main purpose of the passage is to:",
+      "options": {
+        "A": "Compare ancient and modern technologies",
+        "B": "Describe the life of Johannes Gutenberg",
+        "C": "Explain how the printing press worked",
+        "D": "Discuss the impact of the printing press on society"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Before the invention of the printing press, books were:",
+      "options": {
+        "A": "Mass-produced",
+        "B": "Copied by hand",
+        "C": "Available to everyone",
+        "D": "Printed using wooden blocks"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The word 'democratized' in paragraph 5 most nearly means:",
+      "options": {
+        "A": "Made more political",
+        "B": "Made more accessible to all people",
+        "C": "Made more expensive",
+        "D": "Made more complicated"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Which of these was NOT mentioned as an impact of the printing press?",
+      "options": {
+        "A": "Increased literacy",
+        "B": "Spread of Renaissance ideas",
+        "C": "Development of international trade",
+        "D": "Support for the Protestant Reformation"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "According to the passage, what happened to books after the invention of the printing press?",
+      "options": {
+        "A": "They became more expensive",
+        "B": "They became available only to religious institutions",
+        "C": "They became more accessible and affordable",
+        "D": "They were banned in many countries"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
