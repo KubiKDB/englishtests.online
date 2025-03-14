@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Simple machines are devices that make work easier by changing the direction or magnitude of a force. There are six basic types of simple machines: the lever, the wheel and axle, the pulley, the inclined plane, the wedge, and the screw. These fundamental tools have been used for thousands of years and continue to form the basis of many complex machines we use today. Despite technological advances, the principles behind simple machines remain unchanged and are essential to our daily lives.<br><br>(2) The lever is perhaps the most common simple machine, consisting of a rigid beam that pivots on a fixed point called a fulcrum. We use levers every day when we open doors, cut with scissors, or remove bottle caps with openers. Similarly, the wheel and axle combination—essentially a modified lever—revolutionized transportation and appears in countless applications from car tires to doorknobs. Pulleys, which use wheels and ropes to lift heavy objects, are found in elevators, construction cranes, and even in the mechanisms that raise and lower window blinds.<br><br>(3) Inclined planes are sloped surfaces that make it easier to move objects to a higher or lower position. Instead of lifting an object straight up, we can push it along a gentler slope, reducing the required force. Ramps for wheelchairs and loading trucks are common examples of inclined planes. The wedge, a portable inclined plane with at least one sloping side, transforms force applied to its blunt end into forces perpendicular to its inclined surfaces. Knives, axes, and doorstops are all practical applications of wedges in everyday life.<br><br>(4) The screw, essentially an inclined plane wrapped around a cylinder, converts rotational force into linear motion. This simple machine appears in countless forms, from wood screws and bolts to spiral staircases and even certain kitchen gadgets like meat grinders. The threads of a screw allow for mechanical advantage, meaning a small rotational force can create a much larger linear force—perfect for fastening objects together or lifting heavy loads with devices like car jacks.<br><br>(5) Many modern tools and appliances combine multiple simple machines to create more complex mechanisms. For instance, a bicycle uses wheels, axles, pulleys (in the chain and gears), and levers (in the brakes and pedals). Even sophisticated devices like automobiles and industrial equipment rely on these fundamental principles. By understanding how simple machines work, we gain insight into the mechanics of our technological world and appreciate how these ancient innovations continue to shape modern convenience.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct form of the verb:",
+      "options": {
+        "A": "She don't understand the question.",
+        "B": "She doesn't understands the question.",
+        "C": "She doesn't understand the question.",
+        "D": "She not understand the question."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the correct past tense form:",
+      "options": {
+        "A": "I writed a letter yesterday.",
+        "B": "I wrote a letter yesterday.",
+        "C": "I have written a letter yesterday.",
+        "D": "I was write a letter yesterday."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence uses the present perfect correctly?",
+      "options": {
+        "A": "I have visited Paris three times.",
+        "B": "I have visited Paris last year.",
+        "C": "I visited Paris since 2010.",
+        "D": "I have been visiting Paris last month."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct comparative form:",
+      "options": {
+        "A": "This book is more interesting than the movie.",
+        "B": "This book is interestinger than the movie.",
+        "C": "This book is more interesting that the movie.",
+        "D": "This book is more interesting as the movie."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Select the correct preposition:",
+      "options": {
+        "A": "She arrived at the station in time.",
+        "B": "She arrived to the station on time.",
+        "C": "She arrived the station at time.",
+        "D": "She arrived in the station at time."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which is the correct passive voice form?",
+      "options": {
+        "A": "The movie was watch by millions of people.",
+        "B": "The movie watched by millions of people.",
+        "C": "The movie was watched by millions of people.",
+        "D": "The movie is watch by millions of people."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct modal verb usage:",
+      "options": {
+        "A": "You must to arrive before 9 PM.",
+        "B": "You must arriving before 9 PM.",
+        "C": "You must arrive before 9 PM.",
+        "D": "You must arrived before 9 PM."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the correct conditional form:",
+      "options": {
+        "A": "If it rains tomorrow, we stay at home.",
+        "B": "If it rains tomorrow, we will stay at home.",
+        "C": "If it will rain tomorrow, we will stay at home.",
+        "D": "If it would rain tomorrow, we will stay at home."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which question form is correct?",
+      "options": {
+        "A": "When you will arrive?",
+        "B": "When you arrive?",
+        "C": "When will you arrive?",
+        "D": "When arrive you will?"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct article usage:",
+      "options": {
+        "A": "I saw a interesting movie last night.",
+        "B": "I saw an interesting movie last night.",
+        "C": "I saw the interesting movie last night.",
+        "D": "I saw interesting movie last night."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Select the correct relative pronoun:",
+      "options": {
+        "A": "The woman who house is next door is a doctor.",
+        "B": "The woman which house is next door is a doctor.",
+        "C": "The woman whose house is next door is a doctor.",
+        "D": "The woman what house is next door is a doctor."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence has the correct word order?",
+      "options": {
+        "A": "Always I go to bed before midnight.",
+        "B": "I go always to bed before midnight.",
+        "C": "I always go to bed before midnight.",
+        "D": "I go to bed always before midnight."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct reported speech form:",
+      "options": {
+        "A": "She said she will come tomorrow.",
+        "B": "She said she would come the next day.",
+        "C": "She said she is coming the next day.",
+        "D": "She said she comes tomorrow."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Select the correct gerund/infinitive form:",
+      "options": {
+        "A": "I enjoy to swim in the ocean.",
+        "B": "I enjoy swimming in the ocean.",
+        "C": "I enjoy swim in the ocean.",
+        "D": "I enjoying swim in the ocean."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Which sentence uses the correct tense?",
+      "options": {
+        "A": "I am living in this city since 2015.",
+        "B": "I live in this city since 2015.",
+        "C": "I have been living in this city since 2015.",
+        "D": "I was living in this city since 2015."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct collocation:",
+      "options": {
+        "A": "make a mistake",
+        "B": "do a mistake",
+        "C": "have a mistake",
+        "D": "take a mistake"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the correct phrasal verb to complete the sentence: 'Could you please _____ the TV? It's too loud.'",
+      "options": {
+        "A": "turn up",
+        "B": "turn down",
+        "C": "turn off",
+        "D": "turn over"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Which is the correct expression for making a suggestion?",
+      "options": {
+        "A": "Why don't we going to the park?",
+        "B": "How about go to the park?",
+        "C": "Let's to go to the park.",
+        "D": "Why don't we go to the park?"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct expression to complete the sentence: 'I'm not sure if I'll finish on time. I _____ more help.'",
+      "options": {
+        "A": "might be needing",
+        "B": "might need",
+        "C": "might be need",
+        "D": "might needing"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the appropriate connector: 'I wanted to go to the beach, _____ it started raining.'",
+      "options": {
+        "A": "so",
+        "B": "because",
+        "C": "but",
+        "D": "therefore"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Which option correctly completes the sentence: 'She's _____ a cold at the moment.'",
+      "options": {
+        "A": "getting over",
+        "B": "coming down with",
+        "C": "taking up",
+        "D": "looking after"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct expression: 'I'm really looking forward _____ you next week.'",
+      "options": {
+        "A": "to see",
+        "B": "seeing",
+        "C": "to seeing",
+        "D": "for seeing"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the correct idiom that means 'to be very busy':",
+      "options": {
+        "A": "to have a lot on one's plate",
+        "B": "to be under the weather",
+        "C": "to be on cloud nine",
+        "D": "to hit the nail on the head"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Which response is appropriate to 'Thank you for your help'?",
+      "options": {
+        "A": "It doesn't matter.",
+        "B": "Not at all.",
+        "C": "You're welcome.",
+        "D": "Never mind."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct preposition: 'She's very good _____ playing the piano.'",
+      "options": {
+        "A": "in",
+        "B": "at",
+        "C": "for",
+        "D": "with"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the correct sentence using 'enter':",
+      "options": {
+        "A": "Please enter in the room quietly.",
+        "B": "Please enter to the room quietly.",
+        "C": "Please enter the room quietly.",
+        "D": "Please enter into the room quietly."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Which sentence uses 'exit' correctly?",
+      "options": {
+        "A": "Please exit from the building through the main doors.",
+        "B": "Please exit the building through the main doors.",
+        "C": "Please exit at the building through the main doors.",
+        "D": "Please exit to the building through the main doors."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Select the correct usage of 'begin':",
+      "options": {
+        "A": "The meeting will begin at 9 o'clock.",
+        "B": "The meeting will begin in 9 o'clock.",
+        "C": "The meeting will begin on 9 o'clock.",
+        "D": "The meeting will begin by 9 o'clock."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which sentence uses 'end' correctly?",
+      "options": {
+        "A": "The course will end in three weeks.",
+        "B": "The course will end on three weeks.",
+        "C": "The course will end by three weeks.",
+        "D": "The course will end for three weeks."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the correct sentence with 'continue':",
+      "options": {
+        "A": "She continued to work despite feeling tired.",
+        "B": "She continued working despite of feeling tired.",
+        "C": "She continued for working despite feeling tired.",
+        "D": "She continued with work despite to feeling tired."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Select the correct usage of 'stop':",
+      "options": {
+        "A": "The rain finally stopped to fall.",
+        "B": "The rain finally stopped falling.",
+        "C": "The rain finally stopped of falling.",
+        "D": "The rain finally stopped with falling."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Which sentence uses 'allow' correctly?",
+      "options": {
+        "A": "The rules don't allow to smoke in this area.",
+        "B": "The rules don't allow smoking in this area.",
+        "C": "The rules don't allow for to smoke in this area.",
+        "D": "The rules don't allow that you smoke in this area."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Choose the correct sentence with 'permit':",
+      "options": {
+        "A": "Photography is not permitted inside the museum.",
+        "B": "Photography is not permitted in inside the museum.",
+        "C": "Photography is not permitted for inside the museum.",
+        "D": "Photography is not permitted to inside the museum."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Which sentence uses 'forbid' correctly?",
+      "options": {
+        "A": "Parents often forbid their children to stay out late.",
+        "B": "Parents often forbid their children staying out late.",
+        "C": "Parents often forbid their children from to stay out late.",
+        "D": "Parents often forbid their children for staying out late."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Select the correct usage of 'require':",
+      "options": {
+        "A": "This job requires to have experience in marketing.",
+        "B": "This job requires having experience in marketing.",
+        "C": "This job requires experience in marketing.",
+        "D": "This job requires of experience in marketing."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Choose the correct sentence with 'demand':",
+      "options": {
+        "A": "The workers demanded higher wages.",
+        "B": "The workers demanded for higher wages.",
+        "C": "The workers demanded to higher wages.",
+        "D": "The workers demanded of higher wages."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Which sentence uses 'suggest' correctly?",
+      "options": {
+        "A": "I suggest to visit the museum before it closes.",
+        "B": "I suggest visit the museum before it closes.",
+        "C": "I suggest visiting the museum before it closes.",
+        "D": "I suggest you to visit the museum before it closes."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Select the correct usage of 'recommend':",
+      "options": {
+        "A": "The doctor recommended to take this medicine twice a day.",
+        "B": "The doctor recommended take this medicine twice a day.",
+        "C": "The doctor recommended taking this medicine twice a day.",
+        "D": "The doctor recommended for taking this medicine twice a day."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Choose the correct sentence with 'advise':",
+      "options": {
+        "A": "The teacher advised him studying more for the exam.",
+        "B": "The teacher advised him to study more for the exam.",
+        "C": "The teacher advised him for studying more for the exam.",
+        "D": "The teacher advised him on to study more for the exam."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Which sentence uses 'order' correctly?",
+      "options": {
+        "A": "The captain ordered the soldiers retreating immediately.",
+        "B": "The captain ordered the soldiers to retreating immediately.",
+        "C": "The captain ordered the soldiers for retreat immediately.",
+        "D": "The captain ordered the soldiers to retreat immediately."
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, how many basic types of simple machines are there?",
+      "options": {
+        "A": "Four",
+        "B": "Five",
+        "C": "Six",
+        "D": "Seven"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Based on paragraph 2, what is a fulcrum?",
+      "options": {
+        "A": "A type of wheel",
+        "B": "The fixed point on which a lever pivots",
+        "C": "A mechanism in scissors",
+        "D": "A kind of pulley"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, why are inclined planes useful?",
+      "options": {
+        "A": "They make objects heavier",
+        "B": "They reduce the force required to move objects",
+        "C": "They increase the speed of movement",
+        "D": "They are more decorative than stairs"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "What does paragraph 4 state about the screw?",
+      "options": {
+        "A": "It is a modern invention",
+        "B": "It only works with wood materials",
+        "C": "It is an inclined plane wrapped around a cylinder",
+        "D": "It requires more force than other simple machines"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Based on paragraph 5, which of the following uses multiple simple machines?",
+      "options": {
+        "A": "A doorknob",
+        "B": "A bicycle",
+        "C": "A knife",
+        "D": "A ramp"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "The phrase 'mechanical advantage' in paragraph 4 most likely means:",
+      "options": {
+        "A": "A competitive benefit in business",
+        "B": "The ability to multiply force through mechanical means",
+        "C": "The technological superiority of modern machines",
+        "D": "The physical size of a machine"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to the passage, which simple machine is described as a 'portable inclined plane with at least one sloping side'?",
+      "options": {
+        "A": "Lever",
+        "B": "Pulley",
+        "C": "Wedge",
+        "D": "Wheel and axle"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The main purpose of the passage is to:",
+      "options": {
+        "A": "Argue that simple machines are superior to complex ones",
+        "B": "Explain how simple machines work and their everyday applications",
+        "C": "Describe the historical development of technology",
+        "D": "Instruct readers on how to build simple machines"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Which of the following is NOT mentioned as an example of a lever in the passage?",
+      "options": {
+        "A": "Scissors",
+        "B": "Door opener",
+        "C": "Bottle cap opener",
+        "D": "Car jack"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What does the passage suggest about the principles behind simple machines?",
+      "options": {
+        "A": "They have changed significantly with technological advances",
+        "B": "They are no longer relevant in modern technology",
+        "C": "They have remained unchanged despite technological advances",
+        "D": "They are only important in industrial settings"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
