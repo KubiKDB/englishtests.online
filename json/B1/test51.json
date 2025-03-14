@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Hibernation is a fascinating process that many animals undergo to survive the harsh winter months. During hibernation, animals enter a state similar to a very deep sleep where their body temperature drops, their breathing slows down, and their metabolic rate decreases significantly. This allows them to conserve energy when food sources are scarce and temperatures are too cold for them to maintain their normal activities.<br><br>(2) Different animals hibernate in different ways. Bears, for example, enter a light hibernation state where their body temperature drops only slightly, and they can wake up relatively quickly if disturbed. In contrast, small mammals like ground squirrels and hedgehogs experience a much deeper hibernation, with body temperatures dropping close to freezing and heart rates slowing dramatically to just a few beats per minute.<br><br>(3) Preparation for hibernation begins in late summer or early fall when animals start eating more food than usual. This behavior, called hyperphagia, helps them build up fat reserves that will sustain them throughout their dormant period. Some hibernators, like chipmunks and squirrels, also store food in their dens or burrows to eat during brief periods of wakefulness during the winter.<br><br>(4) The timing of hibernation is controlled by various environmental cues such as decreasing daylight hours, dropping temperatures, and changes in food availability. These signals trigger hormonal changes in the animals' bodies that prepare them for the long sleep ahead. Most hibernators find or create a sheltered den, burrow, or cave where they will be protected from predators and extreme weather conditions.<br><br>(5) While hibernation is often associated with mammals, some other animals have similar adaptations. Certain frogs and turtles can survive being partially frozen during winter, while some insects produce natural antifreeze compounds in their bodies. Some birds, like the common poorwill, can enter a state of torpor (a lighter form of hibernation) for weeks at a time. These various adaptations show how animals have evolved different strategies to cope with seasonal changes in their environments.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "If I _____ more time, I would have finished the project yesterday.",
+      "options": {
+        "A": "had",
+        "B": "have had",
+        "C": "would have",
+        "D": "having"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "She _____ to the movies last weekend, but she was sick.",
+      "options": {
+        "A": "goes",
+        "B": "went",
+        "C": "was going",
+        "D": "has gone"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "By the time we arrive, the concert _____ already started.",
+      "options": {
+        "A": "will have",
+        "B": "has",
+        "C": "is",
+        "D": "had"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "You _____ wear a seatbelt when driving a car. It's the law.",
+      "options": {
+        "A": "should",
+        "B": "might",
+        "C": "must",
+        "D": "can"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "I wish I _____ how to swim when I was younger.",
+      "options": {
+        "A": "learn",
+        "B": "learned",
+        "C": "had learned",
+        "D": "would learn"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "The book _____ by the famous author last year.",
+      "options": {
+        "A": "wrote",
+        "B": "was written",
+        "C": "is written",
+        "D": "has written"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "If it _____ tomorrow, we will cancel the picnic.",
+      "options": {
+        "A": "rains",
+        "B": "will rain",
+        "C": "would rain",
+        "D": "is raining"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "She _____ in this city since 2010.",
+      "options": {
+        "A": "lived",
+        "B": "is living",
+        "C": "has lived",
+        "D": "lives"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "We _____ to the beach yesterday when it started raining.",
+      "options": {
+        "A": "go",
+        "B": "were going",
+        "C": "have gone",
+        "D": "went"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "I'm not as tall _____ my brother.",
+      "options": {
+        "A": "as",
+        "B": "like",
+        "C": "than",
+        "D": "from"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "She speaks English _____ than I do.",
+      "options": {
+        "A": "good",
+        "B": "best",
+        "C": "better",
+        "D": "well"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "_____ you mind if I opened the window?",
+      "options": {
+        "A": "Would",
+        "B": "Could",
+        "C": "Should",
+        "D": "Might"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "I don't have _____ money to buy a new car.",
+      "options": {
+        "A": "enough",
+        "B": "too",
+        "C": "so",
+        "D": "very"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "The children _____ their homework before dinner.",
+      "options": {
+        "A": "finish",
+        "B": "finishes",
+        "C": "finished",
+        "D": "are finishing"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "She asked me what time _____ the next day.",
+      "options": {
+        "A": "I arrive",
+        "B": "I arrived",
+        "C": "would I arrive",
+        "D": "I would arrive"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "I need to _____ some research for my school project.",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "take",
+        "D": "get"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Can you _____ me a favor and help me move this table?",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "give",
+        "D": "take"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "We're _____ of milk. Can you buy some on your way home?",
+      "options": {
+        "A": "empty",
+        "B": "finished",
+        "C": "out",
+        "D": "ended"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "I'm really looking _____ to the concert next week.",
+      "options": {
+        "A": "forward",
+        "B": "ahead",
+        "C": "after",
+        "D": "for"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "The doctor told him to _____ up smoking.",
+      "options": {
+        "A": "give",
+        "B": "take",
+        "C": "put",
+        "D": "break"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "I couldn't _____ out what he was trying to say.",
+      "options": {
+        "A": "make",
+        "B": "find",
+        "C": "figure",
+        "D": "work"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "The interview went well, but I won't know the result _____ next week.",
+      "options": {
+        "A": "until",
+        "B": "by",
+        "C": "for",
+        "D": "since"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "She's very busy _____ the moment with her new job.",
+      "options": {
+        "A": "in",
+        "B": "on",
+        "C": "at",
+        "D": "by"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "You should _____ attention to the safety instructions before flying.",
+      "options": {
+        "A": "make",
+        "B": "pay",
+        "C": "give",
+        "D": "take"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "We need to _____ a decision about our summer plans soon.",
+      "options": {
+        "A": "do",
+        "B": "take",
+        "C": "make",
+        "D": "have"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "The Grand Canyon is an _____ natural wonder, covering over 1,900 square miles.",
+      "options": {
+        "A": "enormous",
+        "B": "immense",
+        "C": "tiny",
+        "D": "average"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "The project was a complete _____ because nobody bought the product.",
+      "options": {
+        "A": "success",
+        "B": "achievement",
+        "C": "triumph",
+        "D": "failure"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Usain Bolt is considered the fastest _____ in Olympic history.",
+      "options": {
+        "A": "athlete",
+        "B": "coach",
+        "C": "referee",
+        "D": "audience"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Please provide your phone number so we can _____ you about the interview.",
+      "options": {
+        "A": "avoid",
+        "B": "ignore",
+        "C": "contact",
+        "D": "forget"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "The detective followed the suspect _____, making sure not to be seen.",
+      "options": {
+        "A": "distantly",
+        "B": "openly",
+        "C": "rarely",
+        "D": "closely"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "It's important to _____ thoroughly before a job interview.",
+      "options": {
+        "A": "forget",
+        "B": "ignore",
+        "C": "prepare",
+        "D": "avoid"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Many students experience _____ before important exams.",
+      "options": {
+        "A": "joy",
+        "B": "anxiety",
+        "C": "relaxation",
+        "D": "calmness"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "The company holds a _____ meeting to review its financial performance.",
+      "options": {
+        "A": "daily",
+        "B": "monthly",
+        "C": "weekly",
+        "D": "yearly"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Children must be taught how to cross the road _____.",
+      "options": {
+        "A": "dangerously",
+        "B": "carelessly",
+        "C": "safely",
+        "D": "quickly"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "In the championship match, our team will face a tough _____.",
+      "options": {
+        "A": "friend",
+        "B": "opponent",
+        "C": "teammate",
+        "D": "referee"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "He needs to reduce his _____ on unnecessary items to save money.",
+      "options": {
+        "A": "earning",
+        "B": "saving",
+        "C": "investing",
+        "D": "spending"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "The stars are not _____ tonight because of the cloudy sky.",
+      "options": {
+        "A": "invisible",
+        "B": "hidden",
+        "C": "visible",
+        "D": "transparent"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "The captain gave the _____ to start the race.",
+      "options": {
+        "A": "suggestion",
+        "B": "request",
+        "C": "question",
+        "D": "command"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Our science _____ about solar energy won first prize at the fair.",
+      "options": {
+        "A": "task",
+        "B": "project",
+        "C": "homework",
+        "D": "test"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "There's no _____ to be upset; we can solve this problem together.",
+      "options": {
+        "A": "reason",
+        "B": "excuse",
+        "C": "purpose",
+        "D": "cause"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what happens to an animal's metabolic rate during hibernation?",
+      "options": {
+        "A": "It increases significantly",
+        "B": "It remains the same",
+        "C": "It decreases significantly",
+        "D": "It fluctuates unpredictably"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following animals experiences a deeper hibernation according to paragraph 2?",
+      "options": {
+        "A": "Bears",
+        "B": "Ground squirrels",
+        "C": "Common poorwills",
+        "D": "Frogs"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "The term 'hyperphagia' in paragraph 3 refers to:",
+      "options": {
+        "A": "A period of deep sleep",
+        "B": "Eating more food than usual",
+        "C": "Storing food in dens",
+        "D": "Decreasing body temperature"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to the passage, what triggers hibernation in animals?",
+      "options": {
+        "A": "Only decreasing temperatures",
+        "B": "Only changes in food availability",
+        "C": "Only decreasing daylight hours",
+        "D": "Multiple environmental cues"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Why do hibernating animals build up fat reserves?",
+      "options": {
+        "A": "To stay warm during winter",
+        "B": "To sustain them during their dormant period",
+        "C": "To protect them from predators",
+        "D": "To prepare for spring reproduction"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What is torpor, as mentioned in paragraph 5?",
+      "options": {
+        "A": "A type of natural antifreeze",
+        "B": "A lighter form of hibernation",
+        "C": "A deep hibernation state",
+        "D": "A process of being partially frozen"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Which of these animals is specifically mentioned as being able to survive being partially frozen?",
+      "options": {
+        "A": "Bears",
+        "B": "Chipmunks",
+        "C": "Frogs",
+        "D": "Birds"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What can be inferred about bears' hibernation from paragraph 2?",
+      "options": {
+        "A": "Their heart rate slows dramatically",
+        "B": "They experience the deepest hibernation state",
+        "C": "They can wake up relatively quickly if disturbed",
+        "D": "Their body temperature drops to freezing"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What is the main purpose of paragraph 4?",
+      "options": {
+        "A": "To explain what triggers hibernation",
+        "B": "To describe different types of hibernation",
+        "C": "To compare hibernation across species",
+        "D": "To explain the evolution of hibernation"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "Which statement best expresses the main idea of the passage?",
+      "options": {
+        "A": "Hibernation is a process unique to mammals",
+        "B": "Animals have evolved different strategies to survive winter",
+        "C": "Bears have the most effective hibernation strategy",
+        "D": "Hibernation is harmful to most animal species"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
