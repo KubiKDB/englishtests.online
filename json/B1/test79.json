@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Dreams have fascinated humans for thousands of years, yet scientists are still working to fully understand why we dream. When we sleep, our brains cycle through different stages, with dreams primarily occurring during Rapid Eye Movement (REM) sleep. During this phase, our brain activity increases significantly, resembling patterns seen while we're awake, despite our bodies being temporarily paralyzed to prevent us from acting out our dreams.<br><br>(2) One prominent theory suggests that dreams help process emotions and memories. During sleep, our brains sort through the day's experiences, strengthening important memories and discarding less significant ones. This may explain why we sometimes dream about events or concerns from our waking lives. Some researchers believe that dreams serve as a form of emotional regulation, helping us work through difficult feelings in a safe environment.<br><br>(3) Another theory proposes that dreams function as a kind of mental rehearsal. By simulating threatening or challenging scenarios, dreams might prepare us to face similar situations in real life. This could explain why many dreams contain elements of danger or conflict. From an evolutionary perspective, individuals who rehearsed potential threats in their dreams might have gained a survival advantage.<br><br>(4) The content of dreams varies widely between individuals and cultures. While some people report vivid, colorful dreams with complex narratives, others experience simpler or more abstract dream states. Factors such as age, medication, stress levels, and sleep quality can all influence dream content and recall. Interestingly, studies show that most people forget approximately 95% of their dreams shortly after waking.<br><br>(5) Modern research uses advanced technology like MRI scanners to observe brain activity during sleep, providing new insights into the dreaming process. Some scientists are even developing methods to record and visualize dream content, though this technology remains in its early stages. As we continue to study dreams, we may gain deeper understanding not just of why we dream, but of consciousness itself, potentially revealing new information about how our minds work both during sleep and when we're awake.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which form is grammatically correct?",
+      "options": {
+        "A": "She don't like coffee.",
+        "B": "She doesn't likes coffee.",
+        "C": "She doesn't like coffee.",
+        "D": "She not like coffee."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct past tense form.",
+      "options": {
+        "A": "I goed to the store yesterday.",
+        "B": "I gone to the store yesterday.",
+        "C": "I went to the store yesterday.",
+        "D": "I going to the store yesterday."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the correct preposition.",
+      "options": {
+        "A": "We arrived to the airport early.",
+        "B": "We arrived at the airport early.",
+        "C": "We arrived on the airport early.",
+        "D": "We arrived in the airport early."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence uses the present perfect correctly?",
+      "options": {
+        "A": "I have saw that movie last week.",
+        "B": "I have seen that movie last week.",
+        "C": "I have seen that movie three times.",
+        "D": "I have see that movie yesterday."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct modal verb.",
+      "options": {
+        "A": "You must to go now.",
+        "B": "You should going now.",
+        "C": "You must go now.",
+        "D": "You should to go now."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which is the correct comparative form?",
+      "options": {
+        "A": "This exercise is more easy than the last one.",
+        "B": "This exercise is easyer than the last one.",
+        "C": "This exercise is easier than the last one.",
+        "D": "This exercise is the easier than the last one."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Select the correct future tense form.",
+      "options": {
+        "A": "I will meeting my friend tomorrow.",
+        "B": "I am going to meet my friend tomorrow.",
+        "C": "I meet my friend tomorrow.",
+        "D": "I will meets my friend tomorrow."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Which sentence contains a grammatical error?",
+      "options": {
+        "A": "She has been working here for two years.",
+        "B": "They have lived in this town since 2010.",
+        "C": "He has gone to Paris last month.",
+        "D": "We have known each other for a long time."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct passive voice form.",
+      "options": {
+        "A": "The book was wrote by a famous author.",
+        "B": "The book was written by a famous author.",
+        "C": "The book was writed by a famous author.",
+        "D": "The book is written by a famous author yesterday."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence uses articles correctly?",
+      "options": {
+        "A": "She is the best student in an class.",
+        "B": "I bought a umbrella because it was raining.",
+        "C": "He plays the guitar in a band.",
+        "D": "We saw an unicorn in the forest."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Select the correct conditional form.",
+      "options": {
+        "A": "If it rains tomorrow, we stay at home.",
+        "B": "If it rains tomorrow, we will staying at home.",
+        "C": "If it will rain tomorrow, we will stay at home.",
+        "D": "If it rains tomorrow, we will stay at home."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which is the correct question form?",
+      "options": {
+        "A": "Where you are going?",
+        "B": "Where are you going?",
+        "C": "Where going you are?",
+        "D": "Where you going are?"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct relative pronoun.",
+      "options": {
+        "A": "The woman who car I borrowed is my neighbor.",
+        "B": "The woman which car I borrowed is my neighbor.",
+        "C": "The woman whose car I borrowed is my neighbor.",
+        "D": "The woman whom car I borrowed is my neighbor."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence uses adverbs correctly?",
+      "options": {
+        "A": "He drives careful on busy roads.",
+        "B": "She sings beautiful in the choir.",
+        "C": "They work hardly on their projects.",
+        "D": "We finished the test quickly."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the correct reported speech form.",
+      "options": {
+        "A": "She said that she is coming tomorrow.",
+        "B": "She said that she was coming the next day.",
+        "C": "She said that she will come tomorrow.",
+        "D": "She said that she comes the next day."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct expression to complete the sentence: 'I'm not sure if I'll pass the exam. I haven't studied _____.'",
+      "options": {
+        "A": "good enough",
+        "B": "well enough",
+        "C": "enough good",
+        "D": "enough well"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the correct phrasal verb: 'Can you _____ the children while I go shopping?'",
+      "options": {
+        "A": "look at",
+        "B": "look for",
+        "C": "look after",
+        "D": "look up"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Which option correctly completes the sentence: 'She's _____ a cold at the moment.'",
+      "options": {
+        "A": "having",
+        "B": "doing",
+        "C": "making",
+        "D": "taking"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct collocation: 'I need to _____ a decision about my future.'",
+      "options": {
+        "A": "do",
+        "B": "make",
+        "C": "take",
+        "D": "have"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the appropriate connector: 'I wanted to go swimming, _____ the pool was closed.'",
+      "options": {
+        "A": "so",
+        "B": "because",
+        "C": "but",
+        "D": "and"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Which expression is correct for making a suggestion?",
+      "options": {
+        "A": "Why don't we going to the cinema?",
+        "B": "How about to go to the cinema?",
+        "C": "What about go to the cinema?",
+        "D": "Why don't we go to the cinema?"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct expression: 'I'm really looking forward _____ you next week.'",
+      "options": {
+        "A": "to see",
+        "B": "seeing",
+        "C": "to seeing",
+        "D": "for seeing"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the correct idiom that means 'to be very busy':",
+      "options": {
+        "A": "to have a finger in every pie",
+        "B": "to have one's hands full",
+        "C": "to be all ears",
+        "D": "to hit the nail on the head"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Which option completes the sentence correctly: 'If you _____ time, could you help me with this?'",
+      "options": {
+        "A": "would have",
+        "B": "will have",
+        "C": "are having",
+        "D": "have"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct response to 'I've just passed my driving test!'",
+      "options": {
+        "A": "I don't mind.",
+        "B": "Never mind.",
+        "C": "Congratulations!",
+        "D": "Excuse me!"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the correct sentence using 'meet':",
+      "options": {
+        "A": "I meet with my friends every weekend for coffee.",
+        "B": "I meet to my friends every weekend for coffee.",
+        "C": "I meet my friends every weekend in coffee.",
+        "D": "I meet my friends every weekend for the coffee."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Which sentence uses 'talk' correctly?",
+      "options": {
+        "A": "Can we talk about our project tomorrow?",
+        "B": "Can we talk for our project tomorrow?",
+        "C": "Can we talk over project tomorrow?",
+        "D": "Can we talk on project tomorrow?"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Select the correct usage of 'listen':",
+      "options": {
+        "A": "I like to listen music when I study.",
+        "B": "I like to listen for music when I study.",
+        "C": "I like to listen to music when I study.",
+        "D": "I like to listen at music when I study."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which sentence uses 'speak' correctly?",
+      "options": {
+        "A": "He speaks Chinese very good.",
+        "B": "He speaks Chinese very well.",
+        "C": "He speaks in Chinese very well.",
+        "D": "He speaks with Chinese very well."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the correct sentence with 'write':",
+      "options": {
+        "A": "She writes a letter to her grandmother every month.",
+        "B": "She writes a letter for her grandmother every month.",
+        "C": "She writes a letter with her grandmother every month.",
+        "D": "She writes a letter by her grandmother every month."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Select the correct usage of 'read':",
+      "options": {
+        "A": "I read a book during three hours yesterday.",
+        "B": "I read a book by three hours yesterday.",
+        "C": "I read a book since three hours yesterday.",
+        "D": "I read a book for three hours yesterday."
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Which sentence uses 'watch' correctly?",
+      "options": {
+        "A": "We watched on a movie last night.",
+        "B": "We watched for a movie last night.",
+        "C": "We watched a movie last night.",
+        "D": "We watched to a movie last night."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Choose the correct sentence with 'look':",
+      "options": {
+        "A": "Please look to this photo and tell me what you think.",
+        "B": "Please look at this photo and tell me what you think.",
+        "C": "Please look on this photo and tell me what you think.",
+        "D": "Please look by this photo and tell me what you think."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Which sentence uses 'see' correctly?",
+      "options": {
+        "A": "I saw her at the supermarket yesterday.",
+        "B": "I saw her in the supermarket yesterday.",
+        "C": "I saw to her at the supermarket yesterday.",
+        "D": "I saw by her at the supermarket yesterday."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Select the correct usage of 'hear':",
+      "options": {
+        "A": "I couldn't hear what she was saying because of the noise.",
+        "B": "I couldn't hear which she was saying because of the noise.",
+        "C": "I couldn't hear why she was saying because of the noise.",
+        "D": "I couldn't hear where she was saying because of the noise."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Choose the correct sentence with 'feel':",
+      "options": {
+        "A": "I'm feeling badly today. I think I might be sick.",
+        "B": "I'm feeling bad today. I think I might be sick.",
+        "C": "I'm feeling worst today. I think I might be sick.",
+        "D": "I'm feeling more bad today. I think I might be sick."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Which sentence uses 'touch' correctly?",
+      "options": {
+        "A": "Don't touch at the paintings in the museum.",
+        "B": "Don't touch on the paintings in the museum.",
+        "C": "Don't touch the paintings in the museum.",
+        "D": "Don't touch for the paintings in the museum."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Select the correct usage of 'smell':",
+      "options": {
+        "A": "The dinner smells well.",
+        "B": "The dinner smells nice.",
+        "C": "The dinner smells nicely.",
+        "D": "The dinner smells good smelling."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Choose the correct sentence with 'taste':",
+      "options": {
+        "A": "This soup tastes too salt.",
+        "B": "This soup tastes too saltly.",
+        "C": "This soup tastes too salty.",
+        "D": "This soup tastes too salting."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Which sentence uses 'need' correctly?",
+      "options": {
+        "A": "She needs studying more for her exam.",
+        "B": "She needs to studying more for her exam.",
+        "C": "She needs study more for her exam.",
+        "D": "She needs to study more for her exam."
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, when do dreams primarily occur?",
+      "options": {
+        "A": "During deep sleep",
+        "B": "During Rapid Eye Movement (REM) sleep",
+        "C": "When we are about to wake up",
+        "D": "During the first hour of sleep"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "What does paragraph 2 suggest is one function of dreams?",
+      "options": {
+        "A": "To prevent memory formation",
+        "B": "To generate new ideas",
+        "C": "To process emotions and memories",
+        "D": "To rest the conscious mind"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, why might dreams contain elements of danger?",
+      "options": {
+        "A": "To cause insomnia",
+        "B": "To create entertaining narratives",
+        "C": "To prepare us for threatening situations",
+        "D": "To reflect our daily fears"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Based on paragraph 4, what percentage of dreams do most people remember?",
+      "options": {
+        "A": "About 50%",
+        "B": "About 5%",
+        "C": "About 95%",
+        "D": "Less than 1%"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What technology is mentioned in paragraph 5 as being used to study dreams?",
+      "options": {
+        "A": "EEG machines",
+        "B": "CT scanners",
+        "C": "MRI scanners",
+        "D": "Sleep monitors"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "The word 'prominent' in paragraph 2 is closest in meaning to:",
+      "options": {
+        "A": "new",
+        "B": "well-known",
+        "C": "complicated",
+        "D": "interesting"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What does the passage state about brain activity during REM sleep?",
+      "options": {
+        "A": "It decreases significantly",
+        "B": "It resembles patterns seen while awake",
+        "C": "It stops completely",
+        "D": "It becomes more regular"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to the passage, which of the following can influence dream content?",
+      "options": {
+        "A": "Genetic factors only",
+        "B": "Diet and exercise",
+        "C": "Weather conditions",
+        "D": "Stress levels and medications"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What is the main purpose of paragraph 3?",
+      "options": {
+        "A": "To explain why dreams are frightening",
+        "B": "To present a theory about dreams as mental rehearsal",
+        "C": "To argue that dreams have no purpose",
+        "D": "To describe common dream narratives"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What does the passage suggest might be a broader implication of dream research?",
+      "options": {
+        "A": "Better medication for sleep disorders",
+        "B": "More effective memory improvement techniques",
+        "C": "Understanding consciousness and how minds work",
+        "D": "The ability to control dreams completely"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
