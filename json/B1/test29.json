@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Advertising is a powerful force that shapes consumer behavior in modern society. Companies spend billions of dollars each year trying to convince people to buy their products or services. These advertisements appear everywhere: on television, in magazines, on billboards, and increasingly on social media and websites. The main goal of advertising is to create awareness about products and services and ultimately persuade consumers to make purchases they might not otherwise have made.<br><br>(2) One way advertising influences consumer choices is by creating emotional connections. Many advertisements don't simply provide information about a product; instead, they associate the product with positive feelings or experiences. For example, a car commercial might show a family having a wonderful adventure, suggesting that buying this particular car will lead to similar happy experiences. By linking products to emotions like happiness, security, or success, advertisers can make consumers feel that purchasing these items will help them achieve these desired feelings.<br><br>(3) Another technique advertisers use is social proof, which is the idea that people tend to follow what others are doing. Advertisements often show satisfied customers using products or include testimonials from people praising the benefits of certain items. Celebrities and influencers are frequently featured in advertisements because their endorsement suggests that if successful or attractive people use these products, then perhaps consumers should too. This approach is particularly effective because humans naturally look to others for guidance on how to behave.<br><br>(4) Advertising also creates a sense of urgency or scarcity to encourage immediate purchases. Phrases like "limited time offer," "while supplies last," or "exclusive deal" make consumers worry about missing out on something valuable. Additionally, repeated exposure to advertisements helps keep products in consumers' minds. When people see the same brand advertised multiple times, they become more familiar with it, and this familiarity often translates into preference when making purchasing decisions.<br><br>(5) While advertising serves to inform consumers about available products, it's important to recognize that its primary purpose is to persuade rather than educate. Critical thinking skills are essential for navigating the constant stream of advertising messages. Consumers should question whether they truly need a product or if they're simply responding to clever marketing techniques. By understanding how advertising works to influence behavior, people can make more conscious decisions about their purchases rather than being unconsciously swayed by psychological tactics used by advertisers.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "She ____ to the store every Saturday.",
+      "options": {
+        "A": "go",
+        "B": "goes",
+        "C": "going",
+        "D": "is going"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "They ____ basketball when it started to rain.",
+      "options": {
+        "A": "play",
+        "B": "played",
+        "C": "were playing",
+        "D": "are playing"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "I ____ that movie three times already.",
+      "options": {
+        "A": "see",
+        "B": "saw",
+        "C": "have seen",
+        "D": "am seeing"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "By next year, they ____ in that house for ten years.",
+      "options": {
+        "A": "will live",
+        "B": "will be living",
+        "C": "will have lived",
+        "D": "are living"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "If I ____ more money, I would buy a new car.",
+      "options": {
+        "A": "have",
+        "B": "had",
+        "C": "would have",
+        "D": "am having"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "The package ____ tomorrow morning.",
+      "options": {
+        "A": "deliver",
+        "B": "delivers",
+        "C": "delivered",
+        "D": "will be delivered"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "She asked me if I ____ to the party.",
+      "options": {
+        "A": "go",
+        "B": "went",
+        "C": "was going",
+        "D": "am going"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "You ____ smoke in this building. It's prohibited.",
+      "options": {
+        "A": "can't",
+        "B": "don't have to",
+        "C": "mustn't",
+        "D": "shouldn't"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "I wish I ____ how to swim when I was younger.",
+      "options": {
+        "A": "learn",
+        "B": "learned",
+        "C": "would learn",
+        "D": "had learned"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "The teacher ____ us to complete the assignment by Friday.",
+      "options": {
+        "A": "tell",
+        "B": "tells",
+        "C": "told",
+        "D": "was telling"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "This is the restaurant ____ we had dinner last week.",
+      "options": {
+        "A": "where",
+        "B": "which",
+        "C": "that",
+        "D": "when"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "He suggested ____ a different approach to solve the problem.",
+      "options": {
+        "A": "try",
+        "B": "to try",
+        "C": "trying",
+        "D": "tried"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "She's not ____ to lift heavy objects after her surgery.",
+      "options": {
+        "A": "allowed",
+        "B": "permitting",
+        "C": "letting",
+        "D": "able"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "I'd rather ____ at home than go out tonight.",
+      "options": {
+        "A": "stay",
+        "B": "staying",
+        "C": "to stay",
+        "D": "stayed"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Neither John nor his sisters ____ interested in the movie.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "was",
+        "D": "were"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "I need to ____ with my homework before dinner.",
+      "options": {
+        "A": "catch up",
+        "B": "catch on",
+        "C": "catch out",
+        "D": "catch in"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "She's ____ forward to her vacation next month.",
+      "options": {
+        "A": "searching",
+        "B": "looking",
+        "C": "waiting",
+        "D": "seeking"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Can you ____ me a favor and help with these bags?",
+      "options": {
+        "A": "make",
+        "B": "give",
+        "C": "do",
+        "D": "take"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Let's ____ in touch after you move to your new city.",
+      "options": {
+        "A": "keep",
+        "B": "stay",
+        "C": "remain",
+        "D": "hold"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "She ____ a lot of time helping at the animal shelter.",
+      "options": {
+        "A": "spends",
+        "B": "passes",
+        "C": "takes",
+        "D": "makes"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "I completely ____ track of time while reading that book.",
+      "options": {
+        "A": "missed",
+        "B": "lost",
+        "C": "forgot",
+        "D": "dropped"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "The meeting has been ____ off until next week.",
+      "options": {
+        "A": "called",
+        "B": "put",
+        "C": "taken",
+        "D": "set"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "She ____ the blame for the mistake even though it wasn't her fault.",
+      "options": {
+        "A": "took",
+        "B": "made",
+        "C": "gave",
+        "D": "had"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "I need to ____ some money for my vacation next month.",
+      "options": {
+        "A": "put aside",
+        "B": "take aside",
+        "C": "hold aside",
+        "D": "keep aside"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Could you ____ an eye on my bag while I go to the bathroom?",
+      "options": {
+        "A": "hold",
+        "B": "have",
+        "C": "keep",
+        "D": "take"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Exercising every morning has become a ____ for him.",
+      "options": {
+        "A": "routine",
+        "B": "habit",
+        "C": "custom",
+        "D": "tradition"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "I really ____ my family when I'm away at college.",
+      "options": {
+        "A": "lack",
+        "B": "absent",
+        "C": "miss",
+        "D": "lose"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "She didn't ____ to my email until three days later.",
+      "options": {
+        "A": "answer",
+        "B": "reply",
+        "C": "respond",
+        "D": "return"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Moving to a new city gave her the ____ to start a new career.",
+      "options": {
+        "A": "possibility",
+        "B": "chance",
+        "C": "opportunity",
+        "D": "occasion"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "It's ____ for students to feel nervous before exams.",
+      "options": {
+        "A": "regular",
+        "B": "normal",
+        "C": "usual",
+        "D": "typical"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "You need to ____ between the blue shirt and the green one.",
+      "options": {
+        "A": "select",
+        "B": "pick",
+        "C": "choose",
+        "D": "decide"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "The company made him an ____ he couldn't refuse.",
+      "options": {
+        "A": "proposal",
+        "B": "offer",
+        "C": "suggestion",
+        "D": "invitation"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "The main ____ of this exercise is to improve your flexibility.",
+      "options": {
+        "A": "goal",
+        "B": "aim",
+        "C": "target",
+        "D": "purpose"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "You can ____ on me to help you move next weekend.",
+      "options": {
+        "A": "count",
+        "B": "depend",
+        "C": "trust",
+        "D": "rely"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "The teacher will ____ our essays and give us feedback next week.",
+      "options": {
+        "A": "check",
+        "B": "examine",
+        "C": "review",
+        "D": "inspect"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "I need to take my car to the garage to ____ the broken headlight.",
+      "options": {
+        "A": "fix",
+        "B": "repair",
+        "C": "mend",
+        "D": "restore"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "The weather forecast ____ of heavy rain this weekend.",
+      "options": {
+        "A": "cautions",
+        "B": "advises",
+        "C": "warns",
+        "D": "alerts"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "She has a job ____ tomorrow for a position at the bank.",
+      "options": {
+        "A": "meeting",
+        "B": "discussion",
+        "C": "interview",
+        "D": "conversation"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Many students ____ with math problems in school.",
+      "options": {
+        "A": "battle",
+        "B": "fight",
+        "C": "struggle",
+        "D": "conflict"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "The project will ____ working closely with the marketing team.",
+      "options": {
+        "A": "include",
+        "B": "contain",
+        "C": "consist",
+        "D": "involve"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, what is the main goal of advertising?",
+      "options": {
+        "A": "To entertain consumers",
+        "B": "To educate people about products",
+        "C": "To create awareness and persuade consumers to make purchases",
+        "D": "To feature celebrities in commercials"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "How do advertisements create emotional connections with consumers?",
+      "options": {
+        "A": "By providing detailed product specifications",
+        "B": "By associating products with positive feelings or experiences",
+        "C": "By showing celebrity endorsements",
+        "D": "By creating a sense of urgency"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "What is 'social proof' as described in the passage?",
+      "options": {
+        "A": "Scientific evidence that products work",
+        "B": "Advertisements that appear on social media",
+        "C": "The idea that people tend to follow what others are doing",
+        "D": "Proof that advertisements increase sales"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Why do advertisers often use celebrities in their advertisements?",
+      "options": {
+        "A": "Because celebrities are more attractive than ordinary people",
+        "B": "Because celebrities work for lower fees",
+        "C": "Because celebrities' endorsements suggest consumers should use the products too",
+        "D": "Because celebrities are better at explaining how products work"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to the passage, what effect does repeated exposure to advertisements have?",
+      "options": {
+        "A": "It annoys consumers",
+        "B": "It makes consumers more familiar with brands, which often translates into preference",
+        "C": "It causes consumers to actively avoid the advertised products",
+        "D": "It has no significant effect on consumer behavior"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "How do advertisers create a sense of urgency according to the passage?",
+      "options": {
+        "A": "By showing products in emergency situations",
+        "B": "By using phrases like 'limited time offer' or 'while supplies last'",
+        "C": "By featuring fast-paced music in commercials",
+        "D": "By using bright colors and flashing images"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What does the passage suggest consumers should do when exposed to advertising?",
+      "options": {
+        "A": "Avoid all advertisements",
+        "B": "Buy only products that are not heavily advertised",
+        "C": "Use critical thinking and question whether they truly need the product",
+        "D": "Trust that advertisers have their best interests in mind"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to the passage, what is the primary purpose of advertising?",
+      "options": {
+        "A": "To educate consumers",
+        "B": "To entertain the public",
+        "C": "To persuade consumers",
+        "D": "To support media companies"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Which of the following is NOT mentioned as a place where advertisements appear?",
+      "options": {
+        "A": "Television",
+        "B": "Magazines",
+        "C": "Public transportation",
+        "D": "Social media"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What does the passage suggest might happen if consumers don't think critically about advertising?",
+      "options": {
+        "A": "They might be unconsciously swayed by psychological tactics",
+        "B": "They might enjoy products more",
+        "C": "They might save money on good deals",
+        "D": "They might become advertising professionals"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    }
+  ]
+}
