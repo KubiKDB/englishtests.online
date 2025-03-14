@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The stock market plays a vital role in modern economies by providing a platform where companies can raise capital and investors can buy and sell shares of ownership in these companies. When businesses need funds to expand operations, develop new products, or invest in infrastructure, they can issue stocks through the stock market instead of borrowing money from banks. This process, known as equity financing, allows companies to grow without accumulating debt and provides investors with opportunities to share in the company's success.<br><br>(2) One of the most important functions of the stock market is price discovery. Through the continuous buying and selling of stocks, the market determines the value of companies based on factors such as current performance, future growth prospects, and overall economic conditions. This pricing mechanism sends signals throughout the economy about which businesses are thriving and which sectors might offer the best investment opportunities. It helps direct capital toward its most productive uses, which benefits the broader economy.<br><br>(3) The stock market also serves as an economic indicator. Since stock prices reflect investors' expectations about future corporate profits, rising stock markets generally suggest optimism about economic growth. Conversely, falling markets may indicate concerns about economic slowdowns or recessions. Economists, policymakers, and business leaders closely monitor stock market trends to gauge economic sentiment and inform their decisions. This is why major market indexes like the Dow Jones Industrial Average and S&P 500 are frequently reported in financial news.<br><br>(4) For individual citizens, the stock market provides an avenue for wealth building and retirement planning. Through direct investments or retirement accounts, people can purchase stocks and potentially earn returns that exceed inflation rates over the long term. This wealth creation effect extends beyond individual investors to benefit pension funds, insurance companies, and other institutions that manage money on behalf of many people. As stock values increase over time, these entities can meet their financial obligations to retirees and policyholders.<br><br>(5) However, the stock market's impact is not always positive. Market volatility can create economic uncertainty, and severe market downturns can damage consumer confidence and spending. Additionally, when companies focus too heavily on short-term stock performance, they might neglect long-term investments or engage in risky behavior. Despite these challenges, the stock market remains an essential component of modern economies, facilitating capital formation, investment, and economic growth when functioning properly.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct form of the verb:",
+      "options": {
+        "A": "She don't understand the question.",
+        "B": "She doesn't understands the question.",
+        "C": "She doesn't understand the question.",
+        "D": "She do not understand the question."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the sentence with the correct verb tense:",
+      "options": {
+        "A": "I am living in this city since 2010.",
+        "B": "I have been living in this city since 2010.",
+        "C": "I live in this city since 2010.",
+        "D": "I was living in this city since 2010."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence contains a grammatical error?",
+      "options": {
+        "A": "Neither my sister nor my brother is coming to the party.",
+        "B": "Either John or his friends are going to help us.",
+        "C": "Both the teacher and the students has been working hard.",
+        "D": "Not only the principal but also the teachers were at the meeting."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the grammatically correct sentence:",
+      "options": {
+        "A": "If I would have known about the problem, I would have fixed it.",
+        "B": "If I had known about the problem, I would fixed it.",
+        "C": "If I had known about the problem, I would have fixed it.",
+        "D": "If I knew about the problem, I would have fixed it."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Which sentence uses articles correctly?",
+      "options": {
+        "A": "I had a dinner at the restaurant on corner.",
+        "B": "I had a dinner at a restaurant on the corner.",
+        "C": "I had dinner at a restaurant on the corner.",
+        "D": "I had dinner at the restaurant on a corner."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the sentence with the correct preposition:",
+      "options": {
+        "A": "She's been waiting for the bus since two hours.",
+        "B": "She's been waiting for the bus during two hours.",
+        "C": "She's been waiting for the bus for two hours.",
+        "D": "She's been waiting for the bus by two hours."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct passive voice form:",
+      "options": {
+        "A": "This building was build in 1980.",
+        "B": "This building was built in 1980.",
+        "C": "This building is built in 1980.",
+        "D": "This building has build in 1980."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Which sentence contains a correct relative clause?",
+      "options": {
+        "A": "The woman who car was stolen called the police.",
+        "B": "The woman which car was stolen called the police.",
+        "C": "The woman whose car was stolen called the police.",
+        "D": "The woman whom car was stolen called the police."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Select the correctly punctuated sentence:",
+      "options": {
+        "A": "However she didn't attend the meeting.",
+        "B": "However, she didn't attend the meeting.",
+        "C": "However; she didn't attend the meeting.",
+        "D": "However: she didn't attend the meeting."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct comparative form:",
+      "options": {
+        "A": "This exercise is more easier than the last one.",
+        "B": "This exercise is easyer than the last one.",
+        "C": "This exercise is more easy than the last one.",
+        "D": "This exercise is easier than the last one."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Which sentence uses modals correctly?",
+      "options": {
+        "A": "You should to visit the museum while you're here.",
+        "B": "You must going to bed early tonight.",
+        "C": "You might want to reconsider your decision.",
+        "D": "You can to drive my car if you want."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the sentence with the correct subject-verb agreement:",
+      "options": {
+        "A": "The number of students in the class are increasing.",
+        "B": "The number of students in the class is increasing.",
+        "C": "The number of students in the class were increasing.",
+        "D": "The number of students in the class have increased."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Which sentence has the correct word order?",
+      "options": {
+        "A": "I don't know where is the library.",
+        "B": "I don't know where the library is.",
+        "C": "I don't know the library where is.",
+        "D": "I don't know is where the library."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the sentence with the correct use of the past perfect tense:",
+      "options": {
+        "A": "By the time I arrived, the train has already left.",
+        "B": "By the time I arrived, the train had already left.",
+        "C": "By the time I arrived, the train already left.",
+        "D": "By the time I arrived, the train was already leaving."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the sentence with the correct use of quantifiers:",
+      "options": {
+        "A": "There aren't much people at the beach today.",
+        "B": "There aren't many peoples at the beach today.",
+        "C": "There aren't many people at the beach today.",
+        "D": "There aren't much peoples at the beach today."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Which sentence uses the word 'mention' correctly?",
+      "options": {
+        "A": "Did he mention where the meeting would be held?",
+        "B": "I mention to school every morning at 8 AM.",
+        "C": "She mentioned very beautifully at the concert.",
+        "D": "They mention their house with new furniture."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 17,
+      "question": "What is an 'academy' most likely to be?",
+      "options": {
+        "A": "A type of restaurant",
+        "B": "An educational institution",
+        "C": "A government building",
+        "D": "A sports stadium"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 18,
+      "question": "Which of the following best describes the meaning of 'contrary'?",
+      "options": {
+        "A": "In agreement with",
+        "B": "Opposite to",
+        "C": "Similar to",
+        "D": "In addition to"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 19,
+      "question": "Choose the sentence that uses 'mission' correctly:",
+      "options": {
+        "A": "The astronauts' mission was to repair the satellite.",
+        "B": "She has a mission cold and needs to rest.",
+        "C": "We mission to visit Paris next summer.",
+        "D": "The chef added mission to the sauce for flavor."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 20,
+      "question": "What type of books would be classified as 'fiction'?",
+      "options": {
+        "A": "History textbooks",
+        "B": "Biographies",
+        "C": "Novels and short stories",
+        "D": "Scientific journals"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 21,
+      "question": "Which of the following could correctly be described using the word 'formula'?",
+      "options": {
+        "A": "A painting in a museum",
+        "B": "A mathematical equation",
+        "C": "A historical landmark",
+        "D": "A political party"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 22,
+      "question": "What does 'tension' most commonly refer to?",
+      "options": {
+        "A": "A feeling of relaxation",
+        "B": "A type of weather",
+        "C": "A state of mental or emotional strain",
+        "D": "A method of cooking"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 23,
+      "question": "Which sentence uses 'reliable' correctly?",
+      "options": {
+        "A": "The flowers in the garden are very reliable.",
+        "B": "Her watch is reliable and always shows the correct time.",
+        "C": "They reliable their car last weekend.",
+        "D": "The movie was quite reliable and made everyone laugh."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 24,
+      "question": "What is a 'virtual' meeting?",
+      "options": {
+        "A": "A very important meeting",
+        "B": "A meeting that takes place online rather than in person",
+        "C": "A brief, informal meeting",
+        "D": "A meeting that was canceled"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 25,
+      "question": "Choose the sentence where 'switched' is used correctly:",
+      "options": {
+        "A": "He switched on the lights when he entered the room.",
+        "B": "She switched a new dress for the party.",
+        "C": "They switched the table very carefully.",
+        "D": "We switched our holiday until next month."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 26,
+      "question": "What does it mean to 'monitor' something?",
+      "options": {
+        "A": "To ignore it",
+        "B": "To destroy it",
+        "C": "To observe and check it over time",
+        "D": "To repair it"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Which sentence uses the word 'citizen' correctly?",
+      "options": {
+        "A": "She citizen to the store to buy milk.",
+        "B": "The building has three citizen and a basement.",
+        "C": "He became a citizen of Canada after living there for five years.",
+        "D": "They citizen the table before dinner."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What does 'recently' mean?",
+      "options": {
+        "A": "A long time ago",
+        "B": "In the near future",
+        "C": "Not at all",
+        "D": "Not long ago"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Choose the sentence where 'nothing' is used correctly:",
+      "options": {
+        "A": "There was nothing in the refrigerator to eat.",
+        "B": "She nothing her homework yesterday.",
+        "C": "They nothing very excited about the news.",
+        "D": "He nothing to school every day."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Which sentence uses the word 'present' as a verb?",
+      "options": {
+        "A": "She received a present for her birthday.",
+        "B": "In the present economic climate, saving money is important.",
+        "C": "All students must be present for the exam.",
+        "D": "The professor will present his research findings tomorrow."
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Choose the correct phrasal verb to complete the sentence: 'The meeting has been ____ until next week.'",
+      "options": {
+        "A": "put off",
+        "B": "put down",
+        "C": "put away",
+        "D": "put out"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 32,
+      "question": "Select the correct expression: 'She's very busy. She has a lot ____ at the moment.'",
+      "options": {
+        "A": "in her mind",
+        "B": "on her plate",
+        "C": "at her desk",
+        "D": "under her belt"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 33,
+      "question": "Complete the sentence with the appropriate collocation: 'I need to ____ a decision about my future soon.'",
+      "options": {
+        "A": "do",
+        "B": "make",
+        "C": "take",
+        "D": "have"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 34,
+      "question": "Choose the correct expression for giving an opinion:",
+      "options": {
+        "A": "If you want my opinion, I think the first option is better.",
+        "B": "I'm afraid I can't attend the meeting.",
+        "C": "Let me think about it and get back to you.",
+        "D": "I'm not sure if that's correct."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 35,
+      "question": "Select the appropriate response to: 'Would you mind opening the window?'",
+      "options": {
+        "A": "Yes, of course.",
+        "B": "No, not at all.",
+        "C": "Yes, I would.",
+        "D": "No, I wouldn't."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 36,
+      "question": "Choose the correct preposition: 'She's been working ____ this project for three months.'",
+      "options": {
+        "A": "in",
+        "B": "on",
+        "C": "with",
+        "D": "by"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 37,
+      "question": "Select the correct expression to show agreement:",
+      "options": {
+        "A": "I couldn't agree more.",
+        "B": "I'm not so sure about that.",
+        "C": "I see your point, but...",
+        "D": "I'm afraid I disagree."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 38,
+      "question": "Choose the correct idiom to complete the sentence: 'Finding a job in this economy is like looking for a __________.'",
+      "options": {
+        "A": "piece of cake",
+        "B": "cup of tea",
+        "C": "needle in a haystack",
+        "D": "walk in the park"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 39,
+      "question": "Which expression would you use to politely interrupt someone?",
+      "options": {
+        "A": "Excuse me for interrupting, but...",
+        "B": "That's not right!",
+        "C": "Let me speak now.",
+        "D": "I don't agree with you."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 40,
+      "question": "Choose the correct connector to show contrast: 'He studied hard; ________, he failed the exam.'",
+      "options": {
+        "A": "therefore",
+        "B": "moreover",
+        "C": "furthermore",
+        "D": "however"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, when companies issue stocks through the stock market, they are:",
+      "options": {
+        "A": "borrowing money from banks",
+        "B": "using equity financing",
+        "C": "accumulating debt",
+        "D": "selling products to investors"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "What does the term 'price discovery' refer to in the passage?",
+      "options": {
+        "A": "Finding the lowest prices for stocks",
+        "B": "Determining how much products should cost",
+        "C": "The process of determining the value of companies through market activity",
+        "D": "Discovering new companies to invest in"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "Based on paragraph 3, why do economists monitor stock market trends?",
+      "options": {
+        "A": "To predict corporate bankruptcies",
+        "B": "To gauge economic sentiment and inform decisions",
+        "C": "To determine interest rates",
+        "D": "To control inflation"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to the passage, which of the following is NOT mentioned as a benefit of the stock market for individual citizens?",
+      "options": {
+        "A": "Wealth building",
+        "B": "Retirement planning",
+        "C": "Protection from inflation",
+        "D": "Guaranteed returns"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What does the passage identify as a negative aspect of the stock market?",
+      "options": {
+        "A": "It prevents companies from growing",
+        "B": "It limits investment opportunities",
+        "C": "Market volatility can create economic uncertainty",
+        "D": "It benefits only large corporations"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "Based on the passage, what happens when stock prices rise?",
+      "options": {
+        "A": "Companies must increase their debt",
+        "B": "The economy is generally expected to grow",
+        "C": "Banks lose money",
+        "D": "Consumers spend less"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to the passage, how might companies negatively respond to stock market pressures?",
+      "options": {
+        "A": "By hiring too many employees",
+        "B": "By reducing prices too much",
+        "C": "By neglecting long-term investments",
+        "D": "By avoiding international markets"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The word 'sentiment' in paragraph 3 is closest in meaning to:",
+      "options": {
+        "A": "feeling",
+        "B": "information",
+        "C": "statistics",
+        "D": "prediction"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What examples does the passage give of major market indexes?",
+      "options": {
+        "A": "NASDAQ and NYSE",
+        "B": "Dow Jones Industrial Average and S&P 500",
+        "C": "Federal Reserve and Treasury bonds",
+        "D": "Wall Street and Silicon Valley"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the main purpose of the passage?",
+      "options": {
+        "A": "To encourage readers to invest in the stock market",
+        "B": "To explain how to trade stocks successfully",
+        "C": "To describe the role and impact of the stock market in the economy",
+        "D": "To warn about the dangers of stock market investments"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
