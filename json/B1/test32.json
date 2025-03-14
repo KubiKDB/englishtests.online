@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Earthquakes are natural phenomena that occur when there is a sudden release of energy in the Earth's crust, creating seismic waves. While these events can happen virtually anywhere on our planet, certain regions experience them with much greater frequency and intensity than others. This uneven distribution of seismic activity is primarily related to the structure of the Earth and the movement of tectonic plates.<br><br>(2) The Earth's outer layer is broken into large pieces called tectonic plates, which float on the semi-fluid layer beneath them. These plates are constantly moving, albeit very slowly – typically just a few centimeters per year. When plates interact at their boundaries, they can either move away from each other, slide past one another, or collide. It is at these boundaries where the majority of earthquakes occur, as the movement creates stress that builds up until it is released in the form of seismic activity.<br><br>(3) The Ring of Fire, a horseshoe-shaped belt that runs along the edges of the Pacific Ocean, is particularly prone to earthquakes. This area contains about 75% of the world's active volcanoes and experiences approximately 90% of all earthquakes. Countries like Japan, Chile, and the western United States are located along this ring and consequently face a much higher risk of seismic events than regions situated in the middle of tectonic plates, such as much of Africa and central Russia.<br><br>(4) Not all plate boundaries, however, produce the same level of seismic activity. Convergent boundaries, where plates move toward each other, often create the most powerful earthquakes. The 2004 Indian Ocean earthquake and the 2011 Tōhoku earthquake in Japan, both of which triggered devastating tsunamis, occurred at convergent boundaries. Transform boundaries, where plates slide horizontally past each other, can also generate significant earthquakes, as evidenced by those along California's San Andreas Fault.<br><br>(5) While technology has advanced our understanding of earthquake patterns, precisely predicting when and where they will occur remains challenging. Scientists continue to study seismic activity to develop better prediction methods and building codes that can help minimize damage in earthquake-prone regions. For people living in these areas, awareness of evacuation procedures and earthquake-resistant infrastructure is crucial for reducing the potential impact of these powerful natural events.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which sentence uses the past simple tense correctly?",
+      "options": {
+        "A": "She have visited Paris last summer.",
+        "B": "They goed to the cinema yesterday.",
+        "C": "He worked at the hospital for three years.",
+        "D": "We was eating dinner when he called."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct comparative form: 'This book is _____ than the one I read last week.'",
+      "options": {
+        "A": "more better",
+        "B": "gooder",
+        "C": "more good",
+        "D": "better"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the sentence with the correct subject-verb agreement:",
+      "options": {
+        "A": "The news are interesting today.",
+        "B": "The team are playing well this season.",
+        "C": "Each of the students have a laptop.",
+        "D": "Economics is my favorite subject."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence uses the present perfect correctly?",
+      "options": {
+        "A": "I have seen that movie last night.",
+        "B": "She has lived in London since 2015.",
+        "C": "They have went to the store already.",
+        "D": "We have finish our homework yesterday."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct modal verb: 'You _____ wear a seatbelt when driving. It's the law.'",
+      "options": {
+        "A": "should",
+        "B": "might",
+        "C": "must",
+        "D": "could"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the correct passive voice form: 'The cake _____ by my mother yesterday.'",
+      "options": {
+        "A": "was bake",
+        "B": "was baked",
+        "C": "is baked",
+        "D": "baked"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which sentence uses articles correctly?",
+      "options": {
+        "A": "She is best student in the class.",
+        "B": "I saw a interesting movie last night.",
+        "C": "He bought an umbrella at the store.",
+        "D": "We had the lunch at restaurant yesterday."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct conditional form: 'If it rains tomorrow, we _____ the picnic.'",
+      "options": {
+        "A": "cancel",
+        "B": "will cancel",
+        "C": "would cancel",
+        "D": "are cancelling"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Select the correct preposition: 'She's been working here _____ May.'",
+      "options": {
+        "A": "from",
+        "B": "for",
+        "C": "since",
+        "D": "during"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence uses the past continuous correctly?",
+      "options": {
+        "A": "I was reading when she called.",
+        "B": "They were eat dinner at 8 PM.",
+        "C": "She was worked when the accident happened.",
+        "D": "We was sleeping all morning."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct relative pronoun: 'The woman _____ car was stolen called the police.'",
+      "options": {
+        "A": "who",
+        "B": "whom",
+        "C": "which",
+        "D": "whose"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the sentence with the correct word order:",
+      "options": {
+        "A": "Always she arrives early.",
+        "B": "They to the beach went yesterday.",
+        "C": "She quietly opened the door.",
+        "D": "Where you are going?"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Which question tag is correct? 'You're coming to the party, _____?'",
+      "options": {
+        "A": "aren't you",
+        "B": "don't you",
+        "C": "isn't it",
+        "D": "are you"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct reported speech: 'He said, \"I will call you tomorrow.\"'",
+      "options": {
+        "A": "He said he will call me tomorrow.",
+        "B": "He said he would call me tomorrow.",
+        "C": "He said he will call me the next day.",
+        "D": "He said he would call me the tomorrow."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the sentence with the correct use of the gerund:",
+      "options": {
+        "A": "She enjoys to swim in the lake.",
+        "B": "They finished to work on the project.",
+        "C": "I look forward to seeing you soon.",
+        "D": "We practice to dance every weekend."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct phrasal verb: 'Can you _____ the children while I go shopping?'",
+      "options": {
+        "A": "look at",
+        "B": "look after",
+        "C": "look for",
+        "D": "look up"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the correct collocation: 'She _____ a mistake in her calculations.'",
+      "options": {
+        "A": "did",
+        "B": "made",
+        "C": "took",
+        "D": "had"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Complete the idiom: 'Finding a job in this economy is like looking for a needle in a _____.'",
+      "options": {
+        "A": "forest",
+        "B": "haystack",
+        "C": "river",
+        "D": "mountain"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the appropriate linking word: 'I wanted to go to the beach; _____, it started raining.'",
+      "options": {
+        "A": "furthermore",
+        "B": "similarly",
+        "C": "however",
+        "D": "therefore"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the correct fixed expression: 'I'm not sure if I'll go to the party. It _____.'",
+      "options": {
+        "A": "depends on",
+        "B": "matters with",
+        "C": "relates to",
+        "D": "concerns about"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the correct expression for making a suggestion: '_____?'",
+      "options": {
+        "A": "Why don't we go to the cinema",
+        "B": "Let's going to the cinema",
+        "C": "What about go to the cinema",
+        "D": "How about we go to cinema"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Select the appropriate discourse marker: 'We need to prepare for the exam. _____, we should review our notes.'",
+      "options": {
+        "A": "Instead",
+        "B": "However",
+        "C": "Although",
+        "D": "First of all"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct collocation: 'Can you _____ me a favor and help me with this?'",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "give",
+        "D": "take"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Select the most appropriate response to 'Thank you for your help.'",
+      "options": {
+        "A": "It doesn't matter.",
+        "B": "You're welcome.",
+        "C": "Not at all problem.",
+        "D": "Don't mention."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct expression for giving an opinion: 'In my _____.'",
+      "options": {
+        "A": "thought",
+        "B": "brain",
+        "C": "opinion",
+        "D": "mind opinion"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the sentence that correctly uses the word 'rising':",
+      "options": {
+        "A": "The sun is rising in the east every morning.",
+        "B": "He was rising the flag during the ceremony.",
+        "C": "The cost of living is rising in many cities.",
+        "D": "They rising early to catch the first train."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Select the correct usage of 'things':",
+      "options": {
+        "A": "I need to things my schedule for next week.",
+        "B": "Among other things, we discussed the budget for next year.",
+        "C": "She things about her family all the time.",
+        "D": "They will things the project by Friday."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What does 'making' mean in this sentence? 'He's making good progress with his English studies.'",
+      "options": {
+        "A": "creating",
+        "B": "achieving",
+        "C": "forcing",
+        "D": "finishing"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Choose the sentence that correctly uses the word 'vessel':",
+      "options": {
+        "A": "The blood vessels in your body carry oxygen to your cells.",
+        "B": "She vesseled the water into the glass.",
+        "C": "They will vessel to Spain next summer.",
+        "D": "I vessel my keys on the table every evening."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "What does 'couple' mean in this sentence? 'We need a couple of days to finish the project.'",
+      "options": {
+        "A": "exactly two",
+        "B": "several",
+        "C": "many",
+        "D": "a small number"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Choose the sentence that correctly uses the word 'silver':",
+      "options": {
+        "A": "She silvers her hair every month.",
+        "B": "The moon silvered the lake's surface.",
+        "C": "He silver to work every day.",
+        "D": "They will silver the competition next week."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "What does 'unlike' mean in this sentence? 'Unlike her sister, Sarah loves spicy food.'",
+      "options": {
+        "A": "similar to",
+        "B": "hating",
+        "C": "different from",
+        "D": "together with"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Choose the sentence that correctly uses the adverb 'mildly':",
+      "options": {
+        "A": "She was mildly disappointed by the movie.",
+        "B": "The soup tastes mildly.",
+        "C": "They mildly the situation quickly.",
+        "D": "He will mildly to the office tomorrow."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What does 'circle' mean in this context? 'They formed a circle around the campfire.'",
+      "options": {
+        "A": "a square arrangement",
+        "B": "a round shape",
+        "C": "a straight line",
+        "D": "a random pattern"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Choose the sentence that correctly uses the word 'policy':",
+      "options": {
+        "A": "The restaurant has a policy of no smoking indoors.",
+        "B": "She policied her decision carefully.",
+        "C": "They policy to the museum last weekend.",
+        "D": "He will policy the document tomorrow."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What does 'tastes' mean in this sentence? 'Everyone has different tastes in music.'",
+      "options": {
+        "A": "experiences",
+        "B": "preferences",
+        "C": "flavors",
+        "D": "abilities"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Choose the sentence that correctly uses the word 'author':",
+      "options": {
+        "A": "She authored a bestselling novel last year.",
+        "B": "He authors to school every day.",
+        "C": "They will author the meeting next week.",
+        "D": "I author my keys on the table."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "What does 'ought' mean in this sentence? 'You ought to apologize for being late.'",
+      "options": {
+        "A": "must be forced to",
+        "B": "should",
+        "C": "are planning to",
+        "D": "want to"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Choose the sentence that correctly uses the word 'aware':",
+      "options": {
+        "A": "She wasn't aware of the changes in the schedule.",
+        "B": "He awares his mistake now.",
+        "C": "They aware to the party last night.",
+        "D": "I will aware the document tomorrow."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "What does 'figure' mean in this context? 'He couldn't figure out how to solve the problem.'",
+      "options": {
+        "A": "draw",
+        "B": "understand",
+        "C": "calculate",
+        "D": "imagine"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what is the main reason for the uneven distribution of earthquakes?",
+      "options": {
+        "A": "The varying density of the Earth's crust",
+        "B": "The structure of the Earth and tectonic plate movement",
+        "C": "The uneven distribution of mountain ranges",
+        "D": "The varying depths of the world's oceans"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "According to paragraph 2, where do most earthquakes occur?",
+      "options": {
+        "A": "In the center of tectonic plates",
+        "B": "At the boundaries of tectonic plates",
+        "C": "In areas with volcanic activity",
+        "D": "In the semi-fluid layer beneath the crust"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "What percentage of the world's earthquakes occurs in the Ring of Fire?",
+      "options": {
+        "A": "75%",
+        "B": "50%",
+        "C": "90%",
+        "D": "25%"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to paragraph 4, which type of plate boundary produces the most powerful earthquakes?",
+      "options": {
+        "A": "Divergent boundaries",
+        "B": "Transform boundaries",
+        "C": "Convergent boundaries",
+        "D": "Parallel boundaries"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Based on the passage, what remains a challenge for scientists studying earthquakes?",
+      "options": {
+        "A": "Understanding why earthquakes occur",
+        "B": "Precisely predicting when and where earthquakes will occur",
+        "C": "Identifying the Ring of Fire",
+        "D": "Measuring the movement of tectonic plates"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "The word \"seismic\" in paragraph 1 is closest in meaning to:",
+      "options": {
+        "A": "dangerous",
+        "B": "natural",
+        "C": "related to earthquakes",
+        "D": "unexpected"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What can be inferred about Africa from the passage?",
+      "options": {
+        "A": "It experiences more earthquakes than Asia.",
+        "B": "It has more active volcanoes than other continents.",
+        "C": "Much of it is located in the middle of tectonic plates.",
+        "D": "It is part of the Ring of Fire."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The phrase \"albeit very slowly\" in paragraph 2 could be replaced with:",
+      "options": {
+        "A": "but extremely quickly",
+        "B": "although very slowly",
+        "C": "therefore rapidly",
+        "D": "except when moving fast"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to the passage, what is important for people living in earthquake-prone regions?",
+      "options": {
+        "A": "Moving to safer areas",
+        "B": "Studying plate tectonics",
+        "C": "Awareness of evacuation procedures",
+        "D": "Installing seismic monitoring equipment"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the main purpose of this passage?",
+      "options": {
+        "A": "To warn people about the dangers of earthquakes",
+        "B": "To explain why earthquakes occur more frequently in some regions",
+        "C": "To describe how to predict earthquakes",
+        "D": "To compare different types of natural disasters"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
