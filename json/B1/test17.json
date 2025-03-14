@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Sound is a type of energy that travels through the air, water, and other materials as a vibration. When an object vibrates, it causes the air molecules around it to move, creating waves that travel outward. These sound waves continue to travel until they reach our ears. The speed at which sound travels depends on the material it is moving through. For example, sound moves faster through water than through air.<br><br>(2) Our ears are designed to catch these sound waves and turn them into signals that our brain can understand. The outer part of the ear, called the pinna, collects sound waves and directs them into the ear canal. These waves then hit the eardrum, causing it to vibrate. The eardrum is connected to three tiny bones in the middle ear, which transfer these vibrations to the inner ear.<br><br>(3) Inside the inner ear is a snail-shaped structure called the cochlea, which is filled with fluid and lined with thousands of tiny hair cells. When the vibrations reach the cochlea, they cause the fluid to move, which bends the hair cells. These hair cells then convert the movement into electrical signals that travel along the auditory nerve to the brain, where they are interpreted as sound.<br><br>(4) Different sounds have different characteristics. The pitch of a sound, whether it is high or low, depends on the frequency of the sound waves. High-frequency waves produce high-pitched sounds, while low-frequency waves create low-pitched sounds. The volume or loudness of a sound is determined by the amplitude, or height, of the sound waves. Larger amplitude waves create louder sounds.<br><br>(5) Our ability to hear sounds can be affected by various factors. Exposure to very loud noises can damage the hair cells in the cochlea, leading to hearing loss. Age can also affect our hearing, as the hair cells naturally deteriorate over time. Additionally, the shape of our outer ear and ear canal can influence how well we hear certain frequencies of sound. Understanding how sound works and how we hear it can help us protect our hearing and appreciate the complex process that allows us to enjoy music, communicate with others, and interact with our environment.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which tense is used in the sentence: 'She has lived in London for five years.'?",
+      "options": {
+        "A": "Present Simple",
+        "B": "Present Perfect",
+        "C": "Past Simple",
+        "D": "Past Perfect"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct form of the verb: 'If I _____ enough money, I would buy a new car.'",
+      "options": {
+        "A": "have",
+        "B": "had",
+        "C": "will have",
+        "D": "having"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence uses the correct conditional form?",
+      "options": {
+        "A": "If I will see him, I will tell him.",
+        "B": "If I saw him, I would told him.",
+        "C": "If I see him, I will tell him.",
+        "D": "If I would see him, I will tell him."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Select the correctly punctuated sentence:",
+      "options": {
+        "A": "After lunch we went to the museum.",
+        "B": "After lunch, we went to the museum",
+        "C": "After lunch, we went to the museum.",
+        "D": "After lunch we went, to the museum."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct relative pronoun: 'The book _____ I borrowed from the library is very interesting.'",
+      "options": {
+        "A": "who",
+        "B": "whose",
+        "C": "where",
+        "D": "which"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the sentence with the correct use of comparatives:",
+      "options": {
+        "A": "This building is more taller than the other one.",
+        "B": "This building is the tallest of the two.",
+        "C": "This building is taller than the other one.",
+        "D": "This building is the more taller one."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct form: 'There _____ a lot of people at the concert last night.'",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "is",
+        "D": "are"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Which sentence contains a gerund?",
+      "options": {
+        "A": "We decided to go swimming.",
+        "B": "She was swimming in the pool.",
+        "C": "They swim every day.",
+        "D": "He will swim tomorrow."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Select the correct passive form: 'The company _____ new employees every month.'",
+      "options": {
+        "A": "hires",
+        "B": "is hired",
+        "C": "are hired",
+        "D": "are hiring"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct modal verb: 'You _____ eat more vegetables if you want to be healthy.'",
+      "options": {
+        "A": "can",
+        "B": "would",
+        "C": "should",
+        "D": "will"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Which sentence uses the future continuous correctly?",
+      "options": {
+        "A": "I will cooking dinner when you arrive.",
+        "B": "I will be cooking dinner when you arrive.",
+        "C": "I will be cook dinner when you arrive.",
+        "D": "I am going to cooking dinner when you arrive."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the correct article: 'I saw _____ interesting movie last night.'",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article needed"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct preposition: 'The book is _____ the table.'",
+      "options": {
+        "A": "at",
+        "B": "in",
+        "C": "on",
+        "D": "to"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "Neither John or Mary were at the party.",
+        "B": "Neither John nor Mary was at the party.",
+        "C": "Neither John nor Mary were at the party.",
+        "D": "Neither John or Mary was at the party."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Choose the correct form of the verb: 'She _____ for three hours when I called her.'",
+      "options": {
+        "A": "studies",
+        "B": "studied",
+        "C": "has been studying",
+        "D": "had been studying"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct word to complete the sentence: 'I need to _____ my appointment because I can't make it tomorrow.'",
+      "options": {
+        "A": "reschedule",
+        "B": "unschedule",
+        "C": "preschedule",
+        "D": "deschedule"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Which phrasal verb means 'to continue doing something despite difficulties'?",
+      "options": {
+        "A": "give up",
+        "B": "carry on",
+        "C": "take off",
+        "D": "look after"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the correct collocation:",
+      "options": {
+        "A": "do a mistake",
+        "B": "make a mistake",
+        "C": "take a mistake",
+        "D": "have a mistake"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct word to complete the sentence: 'I'm not feeling well. I think I'm coming _____ with a cold.'",
+      "options": {
+        "A": "down",
+        "B": "up",
+        "C": "over",
+        "D": "through"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Which expression is used to give an example?",
+      "options": {
+        "A": "In conclusion",
+        "B": "On the contrary",
+        "C": "For instance",
+        "D": "As a result"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the correct idiom to complete the sentence: 'That restaurant is always full. You should book a table _____ to avoid disappointment.'",
+      "options": {
+        "A": "at the end of the day",
+        "B": "in advance",
+        "C": "out of the blue",
+        "D": "once in a blue moon"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the appropriate response to the question 'How do you do?'",
+      "options": {
+        "A": "I'm fine, thank you.",
+        "B": "How do you do?",
+        "C": "I do well.",
+        "D": "I'm doing it now."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the correct linking word: 'He studied hard, _____ he failed the exam.'",
+      "options": {
+        "A": "so",
+        "B": "because",
+        "C": "yet",
+        "D": "and"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Which expression is used to make a suggestion?",
+      "options": {
+        "A": "Why don't we go to the cinema?",
+        "B": "I don't mind going to the cinema.",
+        "C": "I'd rather go to the cinema.",
+        "D": "I'm not going to the cinema."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct word to complete the sentence: 'She spoke so quietly that I could hardly _____ what she was saying.'",
+      "options": {
+        "A": "listen",
+        "B": "hear",
+        "C": "listen to",
+        "D": "hearing"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What does the word 'participate' mean?",
+      "options": {
+        "A": "To watch something",
+        "B": "To take part in something",
+        "C": "To organize something",
+        "D": "To avoid something"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the word that is closest in meaning to 'use':",
+      "options": {
+        "A": "waste",
+        "B": "save",
+        "C": "utilize",
+        "D": "abandon"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Which word is an antonym of 'compare'?",
+      "options": {
+        "A": "contrast",
+        "B": "differentiate",
+        "C": "match",
+        "D": "ignore"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "What does it mean to 'schedule' something?",
+      "options": {
+        "A": "To plan it for a specific time",
+        "B": "To cancel it",
+        "C": "To forget about it",
+        "D": "To do it immediately"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the correct definition of 'equipment':",
+      "options": {
+        "A": "A group of people",
+        "B": "A set of tools or devices needed for a particular purpose",
+        "C": "A type of clothing",
+        "D": "A building or structure"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Which sentence uses the word 'like' as a verb?",
+      "options": {
+        "A": "She looks like her mother.",
+        "B": "I like chocolate ice cream.",
+        "C": "He ran like the wind.",
+        "D": "They acted like they didn't care."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "What does it mean to 'achieve' something?",
+      "options": {
+        "A": "To lose it",
+        "B": "To break it",
+        "C": "To succeed in reaching it",
+        "D": "To give it away"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Choose the correct definition of 'regular':",
+      "options": {
+        "A": "Happening or done often",
+        "B": "Unusual or different",
+        "C": "Boring or uninteresting",
+        "D": "Difficult or challenging"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What does the word 'rest' mean in the sentence 'I need to rest after the long walk'?",
+      "options": {
+        "A": "To sleep",
+        "B": "To relax and recover strength",
+        "C": "To eat food",
+        "D": "To exercise more"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Choose the word that is closest in meaning to 'expect':",
+      "options": {
+        "A": "Surprise",
+        "B": "Hope",
+        "C": "Anticipate",
+        "D": "Demand"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What does it mean to 'cross' a street?",
+      "options": {
+        "A": "To walk alongside it",
+        "B": "To walk from one side to the other",
+        "C": "To avoid it",
+        "D": "To clean it"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Choose the correct definition of 'create':",
+      "options": {
+        "A": "To destroy something",
+        "B": "To find something",
+        "C": "To make or produce something",
+        "D": "To buy something"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Which word is most similar to 'drive' when talking about operating a vehicle?",
+      "options": {
+        "A": "Ride",
+        "B": "Operate",
+        "C": "Push",
+        "D": "Pull"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "What does the word 'damage' mean?",
+      "options": {
+        "A": "To repair something",
+        "B": "To improve something",
+        "C": "To harm or cause physical destruction to something",
+        "D": "To clean something"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Choose the correct definition of 'insist':",
+      "options": {
+        "A": "To demand firmly",
+        "B": "To suggest gently",
+        "C": "To agree readily",
+        "D": "To refuse politely"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, sound is:",
+      "options": {
+        "A": "A type of light",
+        "B": "A type of energy",
+        "C": "A type of material",
+        "D": "A type of molecule"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following is NOT mentioned as a factor affecting how sound travels?",
+      "options": {
+        "A": "The material it is moving through",
+        "B": "The temperature of the air",
+        "C": "The speed of the waves",
+        "D": "The distance from the source"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "What is the function of the pinna?",
+      "options": {
+        "A": "To convert vibrations into electrical signals",
+        "B": "To collect sound waves and direct them into the ear canal",
+        "C": "To connect to the three tiny bones in the middle ear",
+        "D": "To transmit electrical signals to the brain"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to the passage, where are the hair cells located?",
+      "options": {
+        "A": "In the middle ear",
+        "B": "In the outer ear",
+        "C": "In the cochlea",
+        "D": "In the eardrum"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What determines the pitch of a sound?",
+      "options": {
+        "A": "The amplitude of the sound waves",
+        "B": "The frequency of the sound waves",
+        "C": "The material the sound travels through",
+        "D": "The shape of our outer ear"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to paragraph 4, what creates louder sounds?",
+      "options": {
+        "A": "Higher frequency waves",
+        "B": "Lower frequency waves",
+        "C": "Larger amplitude waves",
+        "D": "Smaller amplitude waves"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Which of the following can damage the hair cells in the cochlea?",
+      "options": {
+        "A": "Low-frequency sounds",
+        "B": "High-frequency sounds",
+        "C": "Exposure to very loud noises",
+        "D": "The natural aging process"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What is the main function of the auditory nerve?",
+      "options": {
+        "A": "To collect sound waves",
+        "B": "To cause the eardrum to vibrate",
+        "C": "To convert movement into electrical signals",
+        "D": "To carry signals from the inner ear to the brain"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Which statement best summarizes the main idea of the passage?",
+      "options": {
+        "A": "Sound is a complex phenomenon that can damage our hearing.",
+        "B": "The human ear is designed to process different types of sounds.",
+        "C": "Sound is a form of energy that travels in waves and is processed by our ears and brain.",
+        "D": "Aging and loud noises are the main causes of hearing loss."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the purpose of paragraph 5?",
+      "options": {
+        "A": "To explain how sound waves are created",
+        "B": "To describe the structure of the ear",
+        "C": "To discuss factors that can affect our hearing ability",
+        "D": "To explain the difference between high and low pitched sounds"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
