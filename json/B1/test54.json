@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Mountains are some of the most impressive natural features on Earth, with the world's largest peaks reaching heights that seem to touch the sky. These massive geological formations are found on every continent and have been formed over millions of years through powerful natural processes. The tallest mountains in the world are primarily located in the Himalayan range in Asia, with Mount Everest standing as the highest peak at 8,848 meters above sea level.<br><br>(2) Most of the world's largest mountains were formed through a process called plate tectonics. The Earth's crust is divided into several large plates that float on the semi-liquid mantle beneath. When these plates collide with each other, the enormous pressure forces the land to fold and rise, creating mountain ranges. This collision process is responsible for the formation of the Himalayas, which began forming about 50 million years ago when the Indian subcontinent collided with Asia.<br><br>(3) Another way mountains form is through volcanic activity. Volcanic mountains are created when magma from deep within the Earth pushes through the crust and builds up on the surface. Over time, as more magma and ash accumulate, a mountain is formed. Mount Fuji in Japan and Mount Kilimanjaro in Tanzania are examples of mountains formed primarily through volcanic processes. These mountains often have distinctive cone shapes and may still be active volcanoes.<br><br>(4) The Alps in Europe formed in a similar way to the Himalayas, through the collision of the African and European plates. However, the Rocky Mountains in North America were created through a different process called subduction, where one tectonic plate slides underneath another. This caused the western edge of the North American continent to be pushed upward, creating the extensive mountain range we see today.<br><br>(5) Mountains continue to evolve even after their initial formation. Forces such as erosion from wind, water, and ice gradually wear down these massive structures. Glaciers carve distinctive valleys and peaks, while rivers cut through mountain ranges, creating deep gorges. Despite these erosive forces, many of the world's largest mountains are still growing slightly each year due to ongoing tectonic activity, demonstrating that our planet's surface is in a constant state of change.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which tense is correctly used in the sentence: 'They _____ to the mountains last summer.'",
+      "options": {
+        "A": "have gone",
+        "B": "went",
+        "C": "are going",
+        "D": "go"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "A": "She have been climbing since morning.",
+        "B": "She been climbing since morning.",
+        "C": "She has been climbing since morning.",
+        "D": "She has climbing since morning."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence uses the modal verb correctly?",
+      "options": {
+        "A": "You must to bring warm clothes to the mountain.",
+        "B": "You should bringing warm clothes to the mountain.",
+        "C": "You must bring warm clothes to the mountain.",
+        "D": "You should to bring warm clothes to the mountain."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Select the correct form of the conditional sentence:",
+      "options": {
+        "A": "If it rains, we will not hiking tomorrow.",
+        "B": "If it will rain, we will not hike tomorrow.",
+        "C": "If it rains, we not hike tomorrow.",
+        "D": "If it rains, we will not hike tomorrow."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct comparative form:",
+      "options": {
+        "A": "Mount Everest is more higher than K2.",
+        "B": "Mount Everest is higher than K2.",
+        "C": "Mount Everest is the higher than K2.",
+        "D": "Mount Everest is more high than K2."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which sentence uses the present perfect tense correctly?",
+      "options": {
+        "A": "She has climb three mountains this year.",
+        "B": "She have climbed three mountains this year.",
+        "C": "She has climbed three mountains this year.",
+        "D": "She did climb three mountains this year."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Select the sentence with the correct passive voice structure:",
+      "options": {
+        "A": "The mountain was discovered by explorers in 1953.",
+        "B": "The mountain discovered by explorers in 1953.",
+        "C": "The mountain was discover by explorers in 1953.",
+        "D": "The mountain is discovering by explorers in 1953."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct form of the verb in the past continuous tense:",
+      "options": {
+        "A": "The climbers was walking through the valley when the storm hit.",
+        "B": "The climbers were walking through the valley when the storm hit.",
+        "C": "The climbers are walking through the valley when the storm hit.",
+        "D": "The climbers walked through the valley when the storm hit."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence uses articles correctly?",
+      "options": {
+        "A": "We climbed a highest mountain in Europe last year.",
+        "B": "We climbed the highest mountain in Europe last year.",
+        "C": "We climbed highest mountain in Europe last year.",
+        "D": "We climbed an highest mountain in Europe last year."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Select the sentence with the correct preposition:",
+      "options": {
+        "A": "The village is located at the foot from the mountain.",
+        "B": "The village is located at the foot on the mountain.",
+        "C": "The village is located at the foot of the mountain.",
+        "D": "The village is located at the foot by the mountain."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct form of the future tense:",
+      "options": {
+        "A": "We are going visit the Alps next summer.",
+        "B": "We going to visit the Alps next summer.",
+        "C": "We will visiting the Alps next summer.",
+        "D": "We are going to visit the Alps next summer."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which question form is grammatically correct?",
+      "options": {
+        "A": "How long you have been hiking?",
+        "B": "How long have you been hiking?",
+        "C": "How long you been hiking?",
+        "D": "How long been you hiking?"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Select the sentence with the correct use of the past perfect tense:",
+      "options": {
+        "A": "By the time we reached the summit, the sun had set.",
+        "B": "By the time we reached the summit, the sun has set.",
+        "C": "By the time we reached the summit, the sun had been set.",
+        "D": "By the time we reached the summit, the sun have set."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the sentence with the correct relative pronoun:",
+      "options": {
+        "A": "The mountain which we climbed last year was very steep.",
+        "B": "The mountain who we climbed last year was very steep.",
+        "C": "The mountain where we climbed last year was very steep.",
+        "D": "The mountain whose we climbed last year was very steep."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Which sentence uses quantifiers correctly?",
+      "options": {
+        "A": "There are few oxygen bottles left, so we have to be careful.",
+        "B": "There are a few oxygen bottles left, so we have to be careful.",
+        "C": "There are little oxygen bottles left, so we have to be careful.",
+        "D": "There are a little oxygen bottles left, so we have to be careful."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the word that best completes the sentence: 'The mountain guide gave us clear _____ on how to use the safety equipment.'",
+      "options": {
+        "A": "instructions",
+        "B": "advices",
+        "C": "informations",
+        "D": "knowledges"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the correct phrasal verb: 'We need to _____ early tomorrow to reach the summit before noon.'",
+      "options": {
+        "A": "set off",
+        "B": "set down",
+        "C": "set in",
+        "D": "set over"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Which word best completes this sentence: 'The _____ from the mountain top was breathtaking.'",
+      "options": {
+        "A": "scene",
+        "B": "view",
+        "C": "look",
+        "D": "sight"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct collocation: 'The expedition team had to _____ several challenges during their climb.'",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "face",
+        "D": "confront"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the appropriate expression: 'The weather conditions were so bad that we had to _____ our plans to reach the summit.'",
+      "options": {
+        "A": "give up",
+        "B": "take off",
+        "C": "put away",
+        "D": "bring down"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the word that best completes the sentence: 'The mountain trail was very narrow and _____, so we had to be extremely careful.'",
+      "options": {
+        "A": "slippery",
+        "B": "sliding",
+        "C": "slided",
+        "D": "slipping"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Which word correctly completes this sentence: 'We need to _____ enough food and water for the three-day hike.'",
+      "options": {
+        "A": "bring",
+        "B": "carry",
+        "C": "take",
+        "D": "hold"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the most appropriate word for the blank: 'After the heavy snowfall, the mountain paths were _____ for several days.'",
+      "options": {
+        "A": "unusable",
+        "B": "inaccessible",
+        "C": "unavailable",
+        "D": "unreachable"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct expression: 'The experienced climber _____ valuable advice to the beginners in the group.'",
+      "options": {
+        "A": "made",
+        "B": "did",
+        "C": "gave",
+        "D": "told"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Which phrase best completes the sentence: 'You should always _____ the weather forecast before going hiking in the mountains.'",
+      "options": {
+        "A": "check out",
+        "B": "look after",
+        "C": "take on",
+        "D": "put up"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Which definition best matches the word 'quality'?",
+      "options": {
+        "A": "A standard of something when compared to other things like it",
+        "B": "The total number of something",
+        "C": "The size of an object",
+        "D": "The color of something"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the sentence where 'escape' is used correctly:",
+      "options": {
+        "A": "She escaped her homework by doing it quickly.",
+        "B": "The prisoner escaped from the jail by climbing over the wall.",
+        "C": "He escaped his friend a letter yesterday.",
+        "D": "They escaped the party until midnight."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Select the sentence where 'tell' is used correctly:",
+      "options": {
+        "A": "Can you tell me the way to the station?",
+        "B": "I can tell swimming very well.",
+        "C": "She told shopping yesterday.",
+        "D": "They tell at home most weekends."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which sentence uses 'control' correctly?",
+      "options": {
+        "A": "The pilot control the plane to land safely.",
+        "B": "The manager controls a meeting every Monday.",
+        "C": "Parents should control their children's screen time.",
+        "D": "She control her house very clean."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the sentence that uses 'effort' correctly:",
+      "options": {
+        "A": "He made a great effort to finish the project on time.",
+        "B": "They effort to work every day.",
+        "C": "She efforts very hard at school.",
+        "D": "I effort my homework yesterday."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Which sentence uses 'leave' correctly?",
+      "options": {
+        "A": "I'm leaving tomorrow for Paris.",
+        "B": "She leave her keys on the desk yesterday.",
+        "C": "They will leaving soon.",
+        "D": "He has leave the office already."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Select the sentence where 'correct' is used properly:",
+      "options": {
+        "A": "The teacher corrected the mistakes in red pen.",
+        "B": "The answer is correct beautiful.",
+        "C": "He correct his sister when she's wrong.",
+        "D": "This is the more correct answer."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Which sentence uses 'explain' correctly?",
+      "options": {
+        "A": "Could you explain me this problem?",
+        "B": "The teacher explained to the students how to solve the equation.",
+        "C": "She explained happy about the news.",
+        "D": "They explain at the museum yesterday."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Choose the sentence where 'publish' is used correctly:",
+      "options": {
+        "A": "The newspaper publishes daily.",
+        "B": "She publish a book last month.",
+        "C": "They will publishing the results soon.",
+        "D": "He has publish many articles."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Which sentence uses 'especially' correctly?",
+      "options": {
+        "A": "He is especially good at mathematics, but also studies other subjects.",
+        "B": "She especially to school by bus.",
+        "C": "They especially finished their work.",
+        "D": "I especially my dinner quickly."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Select the sentence where 'burn' is used correctly:",
+      "options": {
+        "A": "The candle burned brightly in the dark room.",
+        "B": "She burn the cake in the oven yesterday.",
+        "C": "They will burns some papers tomorrow.",
+        "D": "He is burn with excitement."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Which sentence uses 'reveal' correctly?",
+      "options": {
+        "A": "The magician revealed to his assistant the secret.",
+        "B": "The investigation revealed important evidence about the case.",
+        "C": "She reveal happy when she got the news.",
+        "D": "They are reveal the party tomorrow."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Choose the sentence where 'tie' is used correctly:",
+      "options": {
+        "A": "He tied his shoelaces before running.",
+        "B": "She tie her hair in a ponytail yesterday.",
+        "C": "They will ties the packages tomorrow.",
+        "D": "I am tie my dog to the tree."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Select the sentence where 'live' is used correctly:",
+      "options": {
+        "A": "She lives in a small apartment in the city center.",
+        "B": "They live finishing their project last night.",
+        "C": "He live worked at that company for five years.",
+        "D": "We are live to the concert tomorrow."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Which sentence uses 'survive' correctly?",
+      "options": {
+        "A": "Few plants can survive in the desert without water.",
+        "B": "The patient survive the operation yesterday.",
+        "C": "They will survives the winter easily.",
+        "D": "He is survive the accident."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, what is the height of Mount Everest?",
+      "options": {
+        "A": "8,484 meters",
+        "B": "8,848 meters",
+        "C": "8,884 meters",
+        "D": "8,448 meters"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "What process is primarily responsible for the formation of the Himalayas?",
+      "options": {
+        "A": "Volcanic activity",
+        "B": "Plate tectonics",
+        "C": "Subduction",
+        "D": "Erosion"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "Approximately when did the Himalayas begin to form?",
+      "options": {
+        "A": "5 million years ago",
+        "B": "15 million years ago",
+        "C": "50 million years ago",
+        "D": "100 million years ago"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Which mountains were formed primarily through volcanic processes?",
+      "options": {
+        "A": "The Himalayas and the Alps",
+        "B": "The Alps and the Rocky Mountains",
+        "C": "Mount Fuji and Mount Kilimanjaro",
+        "D": "The Rocky Mountains and the Himalayas"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "How were the Rocky Mountains formed?",
+      "options": {
+        "A": "Through the collision of the African and European plates",
+        "B": "Through subduction, where one tectonic plate slides under another",
+        "C": "Through volcanic activity",
+        "D": "Through the collision of the Indian subcontinent with Asia"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to the passage, what continues to shape mountains after they are formed?",
+      "options": {
+        "A": "Only tectonic activity",
+        "B": "Only erosion from wind",
+        "C": "Erosion from wind, water, and ice",
+        "D": "Only volcanic eruptions"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What do glaciers create in mountain regions?",
+      "options": {
+        "A": "Tectonic plates",
+        "B": "Distinctive valleys and peaks",
+        "C": "Magma chambers",
+        "D": "Continental drift"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "Why are many of the world's largest mountains still growing slightly each year?",
+      "options": {
+        "A": "Due to volcanic activity",
+        "B": "Due to erosion forces",
+        "C": "Due to ongoing tectonic activity",
+        "D": "Due to increasing glaciation"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What can be inferred from the passage about the Earth's surface?",
+      "options": {
+        "A": "It is permanently fixed",
+        "B": "It is in a constant state of change",
+        "C": "It only changes due to human activity",
+        "D": "It only changes during volcanic eruptions"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "Which continents are specifically mentioned as having major mountain ranges?",
+      "options": {
+        "A": "Asia, Europe, and North America",
+        "B": "Asia, Africa, and South America",
+        "C": "Europe, North America, and Australia",
+        "D": "Africa, North America, and Antarctica"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    }
+  ]
+}
