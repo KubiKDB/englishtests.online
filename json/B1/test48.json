@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) World War II brought unprecedented changes to women's roles in society. Before the war, most women in Western countries were expected to be homemakers, but the large-scale mobilization of men for military service created significant labor shortages in factories, farms, and offices. As a result, millions of women entered the workforce for the first time, taking on jobs previously considered suitable only for men.<br><br>(2) In the United States, the iconic image of 'Rosie the Riveter' symbolized the six million women who worked in manufacturing plants producing military supplies and equipment. These women assembled aircraft, built ships, manufactured ammunition, and operated heavy machinery. In Britain, women served in the Women's Land Army, maintaining the nation's food supply by working on farms. They also worked in munitions factories, drove buses, operated anti-aircraft guns, and served as air raid wardens.<br><br>(3) Women also played vital roles in military service during the war. In the United States, more than 350,000 women joined the armed forces in groups such as the Women's Army Corps (WAC) and the Navy's Women Accepted for Volunteer Emergency Service (WAVES). They worked as nurses, clerks, radio operators, and pilots, freeing men for combat roles. In the Soviet Union, women even served as combat pilots, snipers, and tank crew members, directly participating in fighting against Nazi forces.<br><br>(4) The war also created significant challenges for women on the home front. With husbands and fathers away fighting, women became the heads of households, managing finances and making important family decisions alone. They dealt with rationing, raised children as single parents, and endured the constant worry about loved ones in danger. Many women also participated in volunteer work, organizing community support, collecting supplies for troops, and helping with civil defense.<br><br>(5) When the war ended in 1945, many women were forced to leave their jobs to make room for returning veterans. However, their wartime experiences had demonstrated their capabilities beyond traditional roles, helping to challenge gender stereotypes and laying groundwork for future women's movements. The seeds of change planted during World War II eventually contributed to the significant social transformations of the later 20th century, as women increasingly sought equal opportunities in education, employment, and politics.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct form of the verb: 'She _____ television every evening.'",
+      "options": {
+        "A": "watch",
+        "B": "watches",
+        "C": "watching",
+        "D": "is watch"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the correct preposition: 'I've been waiting _____ two hours.'",
+      "options": {
+        "A": "since",
+        "B": "for",
+        "C": "during",
+        "D": "while"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "If I will see him, I will tell him.",
+        "B": "If I would see him, I will tell him.",
+        "C": "If I see him, I will tell him.",
+        "D": "If I see him, I would tell him."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct past form: 'Yesterday, they _____ to the beach.'",
+      "options": {
+        "A": "go",
+        "B": "gone",
+        "C": "went",
+        "D": "going"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Select the correct comparative form: 'This book is _____ than the one I read last week.'",
+      "options": {
+        "A": "more interesting",
+        "B": "interestinger",
+        "C": "most interesting",
+        "D": "much interesting"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Choose the correct form: 'There _____ a lot of people at the concert last night.'",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "is",
+        "D": "are"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which sentence uses the present perfect correctly?",
+      "options": {
+        "A": "I have seen that movie last week.",
+        "B": "I seen that movie three times.",
+        "C": "I have saw that movie already.",
+        "D": "I have seen that movie three times."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the correct modal verb: 'You _____ smoke in the restaurant. It's not allowed.'",
+      "options": {
+        "A": "don't have to",
+        "B": "mustn't",
+        "C": "couldn't",
+        "D": "wouldn't"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct passive form: 'The package _____ tomorrow.'",
+      "options": {
+        "A": "will delivered",
+        "B": "is deliver",
+        "C": "will be delivered",
+        "D": "is delivered"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence uses articles correctly?",
+      "options": {
+        "A": "I saw a interesting movie last night.",
+        "B": "She is the best student in a class.",
+        "C": "He plays the guitar in a band.",
+        "D": "We had the lunch at restaurant yesterday."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Select the correct relative pronoun: 'The woman _____ lives next door is a doctor.'",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Choose the correct form: 'By the time I got to the station, the train _____.'",
+      "options": {
+        "A": "had already left",
+        "B": "already left",
+        "C": "has already left",
+        "D": "was already leaving"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Which question form is correct?",
+      "options": {
+        "A": "Where you are going?",
+        "B": "Where are you going?",
+        "C": "Where going you are?",
+        "D": "Where you going?"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Select the correct form: 'I wish I _____ more time to study.'",
+      "options": {
+        "A": "have",
+        "B": "had",
+        "C": "would have",
+        "D": "having"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "A": "She told me that she is coming tomorrow.",
+        "B": "She told me that she was coming tomorrow.",
+        "C": "She told me that she will coming tomorrow.",
+        "D": "She told me that she comes tomorrow."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct expression: 'Could you _____ me a favor, please?'",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "get",
+        "D": "give"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the best phrasal verb: 'It's getting late. We should _____ now.'",
+      "options": {
+        "A": "set off",
+        "B": "set up",
+        "C": "set out",
+        "D": "set down"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Which expression completes the sentence correctly? 'She's very busy _____ work these days.'",
+      "options": {
+        "A": "in",
+        "B": "at",
+        "C": "on",
+        "D": "with"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct collocation: 'Did you _____ any mistakes in my essay?'",
+      "options": {
+        "A": "notice",
+        "B": "remark",
+        "C": "observe",
+        "D": "view"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the correct phrase: 'I'm going to _____ shopping this afternoon.'",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "go",
+        "D": "have"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Which expression is correct? 'I need to _____ a decision by tomorrow.'",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "take",
+        "D": "give"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct phrasal verb: 'The plane will _____ in ten minutes.'",
+      "options": {
+        "A": "take off",
+        "B": "take out",
+        "C": "take away",
+        "D": "take down"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the correct expression: 'Let's _____ in touch by email.'",
+      "options": {
+        "A": "stay",
+        "B": "keep",
+        "C": "hold",
+        "D": "remain"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Which phrase best completes the sentence? 'I'm really looking _____ to seeing you next week.'",
+      "options": {
+        "A": "ahead",
+        "B": "forward",
+        "C": "after",
+        "D": "up"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct idiom: 'Learning a new language is not my cup of _____.'",
+      "options": {
+        "A": "coffee",
+        "B": "tea",
+        "C": "water",
+        "D": "milk"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the sentence that uses 'prefer' correctly:",
+      "options": {
+        "A": "I prefer coffee than tea.",
+        "B": "I prefer to drink coffee as tea.",
+        "C": "I prefer coffee to tea.",
+        "D": "I prefer coffee over to tea."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Which sentence uses 'sing' in the correct form?",
+      "options": {
+        "A": "She sings in a choir every Sunday.",
+        "B": "She sing in a choir every Sunday.",
+        "C": "She is sing in a choir every Sunday.",
+        "D": "She singing in a choir every Sunday."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What does 'certainly' mean in this sentence: 'He will certainly pass the exam if he studies.'?",
+      "options": {
+        "A": "maybe",
+        "B": "definitely",
+        "C": "hardly",
+        "D": "rarely"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Choose the correct meaning of 'study' in this context: 'The study showed interesting results.'",
+      "options": {
+        "A": "a room used for reading",
+        "B": "the process of learning",
+        "C": "a research investigation",
+        "D": "a subject in school"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Which sentence uses 'visit' correctly?",
+      "options": {
+        "A": "I'm going to visit to my grandmother tomorrow.",
+        "B": "I'm going to visit at my grandmother tomorrow.",
+        "C": "I'm going to visit my grandmother tomorrow.",
+        "D": "I'm going to visit for my grandmother tomorrow."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "What does 'target' mean in this sentence: 'Our target is to finish the project by Friday.'?",
+      "options": {
+        "A": "a person being attacked",
+        "B": "a store chain",
+        "C": "a goal or aim",
+        "D": "a shooting practice object"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Choose the correct sentence using 'impossible':",
+      "options": {
+        "A": "It's impossible for me solving this problem.",
+        "B": "It's impossible for me solve this problem.",
+        "C": "It's impossible for me to solving this problem.",
+        "D": "It's impossible for me to solve this problem."
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "What does 'despite' mean in this context: 'He went to work despite feeling sick.'?",
+      "options": {
+        "A": "in place of",
+        "B": "in spite of",
+        "C": "because of",
+        "D": "in addition to"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Which sentence uses 'obtain' correctly?",
+      "options": {
+        "A": "You need to obtain permission before entering.",
+        "B": "You need to obtain a permission before entering.",
+        "C": "You need to obtain from permission before entering.",
+        "D": "You need to obtain with permission before entering."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Choose the correct meaning of 'attend' in this context: 'I need to attend the meeting tomorrow.'",
+      "options": {
+        "A": "organize",
+        "B": "watch",
+        "C": "present",
+        "D": "be present at"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What does 'wish' mean in this sentence: 'I wish I could speak French.'?",
+      "options": {
+        "A": "want something that is possible",
+        "B": "want something that is not possible now",
+        "C": "hope for something in the future",
+        "D": "command someone to do something"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Which sentence uses 'remove' correctly?",
+      "options": {
+        "A": "Please remove your shoes off before entering.",
+        "B": "Please remove your shoes before entering.",
+        "C": "Please remove up your shoes before entering.",
+        "D": "Please remove out your shoes before entering."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Choose the correct meaning of 'list' in this context: 'I need to make a shopping list.'",
+      "options": {
+        "A": "a tilt to one side",
+        "B": "a series of items written down",
+        "C": "a formal register",
+        "D": "a competition ranking"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "What does 'sort' mean in this sentence: 'Can you help me sort these papers?'",
+      "options": {
+        "A": "arrange in a specific order",
+        "B": "a kind or type",
+        "C": "find",
+        "D": "throw away"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Which sentence uses 'want' correctly?",
+      "options": {
+        "A": "I want that you help me.",
+        "B": "I want you helping me.",
+        "C": "I want you to help me.",
+        "D": "I want for you help me."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what was the main reason women entered the workforce during World War II?",
+      "options": {
+        "A": "They wanted to prove their capabilities.",
+        "B": "The government forced them to work.",
+        "C": "Labor shortages created by men joining the military.",
+        "D": "They needed to support their families financially."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Based on paragraph 2, 'Rosie the Riveter' symbolized:",
+      "options": {
+        "A": "a specific woman who worked in a factory",
+        "B": "women who worked in manufacturing during the war",
+        "C": "female military personnel",
+        "D": "women who drove buses and operated machinery"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, how many American women joined the armed forces during World War II?",
+      "options": {
+        "A": "More than 6 million",
+        "B": "About 1 million",
+        "C": "More than 350,000",
+        "D": "Less than 100,000"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "The passage states that Soviet women participated directly in combat by:",
+      "options": {
+        "A": "working as nurses",
+        "B": "serving as pilots, snipers, and tank crew members",
+        "C": "operating anti-aircraft guns",
+        "D": "working as radio operators"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to paragraph 4, what challenges did women face on the home front?",
+      "options": {
+        "A": "Working in factories",
+        "B": "Participating in military service",
+        "C": "Managing households alone and dealing with rationing",
+        "D": "Finding employment opportunities"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What happened to many women workers after the war ended in 1945?",
+      "options": {
+        "A": "They received promotions.",
+        "B": "They were forced to leave their jobs.",
+        "C": "They joined the military.",
+        "D": "They started their own businesses."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "The word 'unprecedented' in paragraph 1 is closest in meaning to:",
+      "options": {
+        "A": "unnecessary",
+        "B": "unfortunate",
+        "C": "unplanned",
+        "D": "never happened before"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to the passage, the Women's Land Army in Britain was responsible for:",
+      "options": {
+        "A": "fighting enemy forces",
+        "B": "manufacturing ammunition",
+        "C": "maintaining the food supply",
+        "D": "driving buses and operating machinery"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What does the passage suggest about the long-term impact of women's wartime roles?",
+      "options": {
+        "A": "They had no lasting effect on society.",
+        "B": "They contributed to future gender equality movements.",
+        "C": "They were quickly forgotten after the war.",
+        "D": "They made women want to return to traditional roles."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the main purpose of this passage?",
+      "options": {
+        "A": "To criticize traditional gender roles",
+        "B": "To explain military strategies during World War II",
+        "C": "To describe how women's roles changed during and after World War II",
+        "D": "To compare women's experiences in different countries"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
