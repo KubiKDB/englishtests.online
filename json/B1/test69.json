@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The Olympic Games were one of the most important cultural events in ancient Greece, bringing together athletes from various city-states to compete in honor of Zeus. The games began around 776 BCE in Olympia and continued for nearly twelve centuries until they were banned by the Roman Emperor Theodosius I in 393 CE. Unlike modern Olympics, the ancient games were as much a religious festival as they were a sporting event, deeply connected to Greek religious beliefs and practices.<br><br>(2) During the Olympic Games, a sacred truce called the 'ekecheiria' was declared across all Greek territories. This truce allowed athletes, spectators, and their families to travel safely to Olympia without fear of attack or harassment. The games thus served as a unifying force among the often-warring Greek city-states, promoting a sense of shared Hellenic identity and values despite political differences. Even during times of conflict, the Olympic truce was generally respected.<br><br>(3) The original Olympic Games featured far fewer events than today's modern version. Initially, the only competition was a footrace called the 'stade,' which was approximately 200 meters long. Over time, additional events were added, including longer races, wrestling, boxing, chariot racing, and the pentathlon. Unlike modern Olympics, only free men who spoke Greek could participate, while women, slaves, and foreigners were prohibited from competing. Winners received olive wreaths cut from the sacred trees of Olympia rather than gold medals.<br><br>(4) Beyond athletic competition, the Olympic Games were crucial for cultural exchange and intellectual development. Poets, philosophers, and orators gathered at the games to share their works with wide audiences. Merchants established temporary markets, making the games an important commercial center. Political leaders used the occasion for diplomatic meetings and to announce important treaties or declarations. In this way, the Olympics functioned as a multifaceted cultural institution.<br><br>(5) The legacy of the ancient Olympic Games extends far beyond athletics. They established principles that influenced Greek culture and, later, Western civilization: the concept of peaceful competition, the celebration of human physical achievement, and the ideal of temporary unity despite political differences. When the modern Olympic Games were revived in 1896, organizers deliberately connected them to this ancient tradition, recognizing the powerful cultural significance the games had held centuries earlier.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which form of the verb is correct? 'She _____ to the store yesterday.'",
+      "options": {
+        "A": "go",
+        "B": "goes",
+        "C": "went",
+        "D": "going"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct preposition: 'I arrived _____ the airport at 6 PM.'",
+      "options": {
+        "A": "to",
+        "B": "at",
+        "C": "in",
+        "D": "on"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the correct article: 'I would like _____ apple from that basket.'",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article needed"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct conjunction: 'I wanted to go to the party, _____ I had too much homework.'",
+      "options": {
+        "A": "so",
+        "B": "and",
+        "C": "but",
+        "D": "or"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Identify the correct tense: 'By next month, I _____ in this city for five years.'",
+      "options": {
+        "A": "will live",
+        "B": "will have lived",
+        "C": "have lived",
+        "D": "am living"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the correct verb form: 'If I _____ more time, I would travel more.'",
+      "options": {
+        "A": "have",
+        "B": "had",
+        "C": "would have",
+        "D": "having"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct comparative form: 'This book is _____ than the one I read last week.'",
+      "options": {
+        "A": "more interesting",
+        "B": "interestinger",
+        "C": "most interesting",
+        "D": "the most interesting"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the correct modal verb: 'You _____ smoke in this building. It's prohibited.'",
+      "options": {
+        "A": "don't have to",
+        "B": "shouldn't",
+        "C": "mustn't",
+        "D": "couldn't"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "The children is playing in the garden.",
+        "B": "The children are playing in the garden.",
+        "C": "The children be playing in the garden.",
+        "D": "The children was playing in the garden."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct passive form: 'The letter _____ yesterday.'",
+      "options": {
+        "A": "was sent",
+        "B": "is sent",
+        "C": "sent",
+        "D": "were sent"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Identify the correct relative pronoun: 'The book _____ you lent me was very interesting.'",
+      "options": {
+        "A": "who",
+        "B": "whom",
+        "C": "whose",
+        "D": "that"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the correct word order: '_____ did Sarah arrive home?'",
+      "options": {
+        "A": "When time",
+        "B": "What time",
+        "C": "Time what",
+        "D": "Time when"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct form: 'There _____ many people at the concert last night.'",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "is",
+        "D": "are"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Identify the correct tag question: 'You like chocolate, _____?'",
+      "options": {
+        "A": "aren't you",
+        "B": "don't you",
+        "C": "do you",
+        "D": "isn't it"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the correct quantifier: 'There isn't _____ milk left in the fridge.'",
+      "options": {
+        "A": "much",
+        "B": "many",
+        "C": "few",
+        "D": "little"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the phrase that best completes the sentence: 'I'd like to _____ a reservation for dinner tonight.'",
+      "options": {
+        "A": "do",
+        "B": "make",
+        "C": "take",
+        "D": "get"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the most appropriate response: 'Thank you for your help.' '_____'",
+      "options": {
+        "A": "It's nothing.",
+        "B": "You're welcome.",
+        "C": "Welcome.",
+        "D": "It's fine."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Complete the idiom: 'It's raining _____.'",
+      "options": {
+        "A": "dogs and cats",
+        "B": "cats and dogs",
+        "C": "animals",
+        "D": "heavily"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct phrasal verb: 'Can you _____ the children while I go shopping?'",
+      "options": {
+        "A": "look at",
+        "B": "look for",
+        "C": "look after",
+        "D": "look up"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the appropriate expression for offering help:",
+      "options": {
+        "A": "Would you like a hand with that?",
+        "B": "I am helping you now.",
+        "C": "You need some help?",
+        "D": "Do I help you?"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the correct collocation: 'She _____ a mistake in her calculations.'",
+      "options": {
+        "A": "did",
+        "B": "made",
+        "C": "took",
+        "D": "had"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Select the most natural response to 'How was your weekend?'",
+      "options": {
+        "A": "Yes, it was.",
+        "B": "I had weekend.",
+        "C": "It was great, thanks.",
+        "D": "Weekend was nice."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct expression for apologizing:",
+      "options": {
+        "A": "I regret about being late.",
+        "B": "I'm sorry for being late.",
+        "C": "I apologize of being late.",
+        "D": "I'm sorry because I'm late."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Select the correct expression: 'I'm really looking forward _____ you next week.'",
+      "options": {
+        "A": "to see",
+        "B": "seeing",
+        "C": "to seeing",
+        "D": "for seeing"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the most appropriate way to begin a formal email:",
+      "options": {
+        "A": "Hi there,",
+        "B": "Hello friend,",
+        "C": "Dear Sir/Madam,",
+        "D": "Hey,"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Which word means 'to state something officially or publicly'?",
+      "options": {
+        "A": "declare",
+        "B": "insult",
+        "C": "arrange",
+        "D": "practice"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "What does 'heavily' mean in this sentence? 'It was raining heavily all day.'",
+      "options": {
+        "A": "lightly",
+        "B": "with great force or intensity",
+        "C": "happily",
+        "D": "steadily"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Which word means 'a repeated design or sequence'?",
+      "options": {
+        "A": "segment",
+        "B": "margin",
+        "C": "pattern",
+        "D": "founder"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "What does 'locally' mean?",
+      "options": {
+        "A": "internationally",
+        "B": "rapidly",
+        "C": "in or relating to the particular area or neighborhood",
+        "D": "spiritually"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Which word means 'to speak to or treat with disrespect'?",
+      "options": {
+        "A": "simplify",
+        "B": "arrange",
+        "C": "practice",
+        "D": "insult"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "What does 'margin' mean in this sentence? 'Write your notes in the margin of the book.'",
+      "options": {
+        "A": "middle",
+        "B": "border or edge",
+        "C": "cover",
+        "D": "title"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Which word describes something happening 'quickly or at a great rate'?",
+      "options": {
+        "A": "frequently",
+        "B": "spiritually",
+        "C": "rapidly",
+        "D": "heavily"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "What does 'spiritual' relate to?",
+      "options": {
+        "A": "physical fitness",
+        "B": "mental health",
+        "C": "the human spirit or soul",
+        "D": "medical practice"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Which word means 'to organize or plan'?",
+      "options": {
+        "A": "arrange",
+        "B": "simplify",
+        "C": "declare",
+        "D": "segment"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "What does 'practice' mean?",
+      "options": {
+        "A": "to think deeply",
+        "B": "to perform an activity repeatedly in order to improve",
+        "C": "to organize events",
+        "D": "to speak publicly"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Which number is 'hundred'?",
+      "options": {
+        "A": "10",
+        "B": "1,000",
+        "C": "100",
+        "D": "1,000,000"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "What does 'frequent' mean?",
+      "options": {
+        "A": "happening often",
+        "B": "happening rarely",
+        "C": "happening quickly",
+        "D": "happening slowly"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Which word means 'to make something less complicated'?",
+      "options": {
+        "A": "segment",
+        "B": "founder",
+        "C": "pattern",
+        "D": "simplify"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "What does 'segment' mean?",
+      "options": {
+        "A": "a section or part of something",
+        "B": "a type of pattern",
+        "C": "a musical instrument",
+        "D": "an outline or boundary"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Which word refers to 'a person who establishes an organization'?",
+      "options": {
+        "A": "pattern",
+        "B": "founder",
+        "C": "practice",
+        "D": "segment"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, the ancient Olympic Games were:",
+      "options": {
+        "A": "purely sporting events",
+        "B": "completely unrelated to religion",
+        "C": "both a religious festival and sporting event",
+        "D": "mainly political gatherings"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "What was the 'ekecheiria' mentioned in paragraph 2?",
+      "options": {
+        "A": "A type of Olympic competition",
+        "B": "A sacred truce during the games",
+        "C": "A Greek city-state",
+        "D": "A religious ceremony"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, which of the following could NOT participate in the ancient Olympic Games?",
+      "options": {
+        "A": "Free men",
+        "B": "Wrestlers",
+        "C": "Women",
+        "D": "Greek speakers"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "What were Olympic victors awarded in ancient Greece?",
+      "options": {
+        "A": "Gold medals",
+        "B": "Money prizes",
+        "C": "Olive wreaths",
+        "D": "Political positions"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Based on paragraph 4, which statement is TRUE about the ancient Olympic Games?",
+      "options": {
+        "A": "They were only focused on athletic competitions",
+        "B": "They served as centers for cultural exchange",
+        "C": "They were mainly used for military training",
+        "D": "They were exclusively for entertainment"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "When were the Olympic Games banned?",
+      "options": {
+        "A": "776 BCE",
+        "B": "393 CE",
+        "C": "1896 CE",
+        "D": "After twelve years"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What was the first and originally the only event in the Olympic Games?",
+      "options": {
+        "A": "Wrestling",
+        "B": "Chariot racing",
+        "C": "The pentathlon",
+        "D": "A footrace called the 'stade'"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to the passage, the modern Olympic Games were revived in:",
+      "options": {
+        "A": "776 BCE",
+        "B": "393 CE",
+        "C": "1896",
+        "D": "This information is not provided"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Which principle established by the ancient Olympics influenced Greek culture, according to paragraph 5?",
+      "options": {
+        "A": "Military competitiveness",
+        "B": "Political domination",
+        "C": "Peaceful competition",
+        "D": "Religious dominance"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the main purpose of this passage?",
+      "options": {
+        "A": "To compare ancient and modern Olympics",
+        "B": "To explain the cultural significance of the Olympic Games in ancient Greece",
+        "C": "To describe Greek athletic training methods",
+        "D": "To analyze the religious practices of ancient Greece"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
