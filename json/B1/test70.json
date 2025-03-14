@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The world's oceans, covering more than 70 percent of Earth's surface, have long been affected by human activities. Over the past century, these impacts have intensified dramatically as population growth and technological advancements have increased our ability to exploit marine resources. From fishing and shipping to waste disposal and coastal development, human activities are placing unprecedented pressure on ocean ecosystems worldwide.<br><br>(2) One of the most significant threats to marine environments is pollution. Every year, millions of tons of plastic waste enter the oceans, harming marine animals who mistake it for food or become entangled in it. Chemical pollutants, including fertilizers from agricultural runoff, industrial waste, and oil spills, further contaminate ocean waters. These pollutants not only kill marine life directly but can also accumulate in the food chain, eventually affecting human health when we consume seafood.<br><br>(3) Overfishing represents another major human impact on oceans. Advanced fishing technologies and growing demand for seafood have led to the depletion of many fish populations worldwide. According to recent studies, more than one-third of fish stocks are being harvested at unsustainable levels. This overexploitation disrupts marine food webs and threatens the livelihoods of millions of people who depend on fishing for their income and food security.<br><br>(4) Climate change, largely driven by human emissions of greenhouse gases, is perhaps the most pervasive threat to ocean health. Rising ocean temperatures are causing coral bleaching events, while increased carbon dioxide levels are leading to ocean acidification. These changes make it difficult for shell-forming organisms like corals, mollusks, and some plankton species to build their calcium carbonate structures, potentially disrupting entire marine ecosystems.<br><br>(5) Despite these challenges, there are reasons for hope. Conservation efforts, including the establishment of marine protected areas, are helping to preserve biodiversity and allow depleted fish stocks to recover. Innovations in sustainable fishing practices, renewable energy, and plastic alternatives are reducing human impacts on the oceans. Public awareness about ocean conservation is growing, prompting individuals, businesses, and governments to take action to protect these vital ecosystems for future generations.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which verb form correctly completes the sentence? 'She _____ to the beach yesterday.'",
+      "options": {
+        "A": "go",
+        "B": "goes",
+        "C": "went",
+        "D": "going"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct preposition: 'I'm interested _____ learning English.'",
+      "options": {
+        "A": "for",
+        "B": "in",
+        "C": "at",
+        "D": "by"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "If I will see him, I will tell him.",
+        "B": "If I see him, I will tell him.",
+        "C": "If I would see him, I will tell him.",
+        "D": "If I see him, I would tell him."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Select the correct form: 'There _____ a lot of people at the concert last night.'",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "is",
+        "D": "are"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Which is the correct comparative form? 'This book is _____ than the one I read last week.'",
+      "options": {
+        "A": "more interesting",
+        "B": "interestinger",
+        "C": "most interesting",
+        "D": "the more interesting"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Choose the correct option: 'I _____ my homework by the time the teacher arrived.'",
+      "options": {
+        "A": "finish",
+        "B": "had finished",
+        "C": "was finishing",
+        "D": "have finished"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which sentence uses the past continuous correctly?",
+      "options": {
+        "A": "I was cook dinner when the phone rang.",
+        "B": "I cooking dinner when the phone rang.",
+        "C": "I was cooking dinner when the phone rang.",
+        "D": "I cooked dinner when the phone rang."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the correct modal verb: 'You _____ smoke in public places. It's against the law.'",
+      "options": {
+        "A": "don't have to",
+        "B": "shouldn't",
+        "C": "mustn't",
+        "D": "might not"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence contains a mistake?",
+      "options": {
+        "A": "She has lived here since five years.",
+        "B": "She has lived here for five years.",
+        "C": "She has lived here since 2018.",
+        "D": "She lived here five years ago."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct passive form: 'The letter _____ yesterday.'",
+      "options": {
+        "A": "sent",
+        "B": "was sent",
+        "C": "is sent",
+        "D": "has sent"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Select the correct article: 'I saw _____ interesting movie last weekend.'",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article needed"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence uses the relative pronoun correctly?",
+      "options": {
+        "A": "The man which lives next door is a doctor.",
+        "B": "The man who lives next door is a doctor.",
+        "C": "The man whose lives next door is a doctor.",
+        "D": "The man whom lives next door is a doctor."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct form: 'If I _____ rich, I would travel around the world.'",
+      "options": {
+        "A": "am",
+        "B": "would be",
+        "C": "were",
+        "D": "will be"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence is in the future continuous tense?",
+      "options": {
+        "A": "I will study tonight.",
+        "B": "I will be studying tonight.",
+        "C": "I am going to study tonight.",
+        "D": "I study tonight."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the correct verb agreement: 'Each of the students _____ a book to read.'",
+      "options": {
+        "A": "have",
+        "B": "has",
+        "C": "having",
+        "D": "are having"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Complete the sentence: 'I'm really looking forward _____ you again.'",
+      "options": {
+        "A": "see",
+        "B": "to see",
+        "C": "seeing",
+        "D": "to seeing"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct phrasal verb: 'Can you _____ the children while I go shopping?'",
+      "options": {
+        "A": "look at",
+        "B": "look after",
+        "C": "look for",
+        "D": "look up"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the best word to complete the sentence: 'The meeting was _____ because the manager was sick.'",
+      "options": {
+        "A": "cancelled",
+        "B": "stopped",
+        "C": "ended",
+        "D": "finished"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Which word correctly completes both sentences? 'Please _____ a seat.' and 'I need to _____ my breath.'",
+      "options": {
+        "A": "have",
+        "B": "take",
+        "C": "get",
+        "D": "make"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct collocation: 'She _____ a mistake in her calculations.'",
+      "options": {
+        "A": "did",
+        "B": "made",
+        "C": "took",
+        "D": "had"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the appropriate connector: 'I wanted to go to the beach, _____ it started raining.'",
+      "options": {
+        "A": "so",
+        "B": "because",
+        "C": "but",
+        "D": "and"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Which expression is used to give an opinion?",
+      "options": {
+        "A": "I'm afraid that",
+        "B": "In my view",
+        "C": "As a result",
+        "D": "Such as"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Complete the idiom: 'It's raining _____.'",
+      "options": {
+        "A": "dogs and cats",
+        "B": "cats and dogs",
+        "C": "cats and mice",
+        "D": "dogs and wolves"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct expression: 'Sorry I'm late. I got _____ in traffic.'",
+      "options": {
+        "A": "caught",
+        "B": "stuck",
+        "C": "held",
+        "D": "stopped"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the correct expression for making a suggestion: '_____ go to the cinema tonight?'",
+      "options": {
+        "A": "Will we",
+        "B": "Are we",
+        "C": "Would we",
+        "D": "Why don't we"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What is the best definition of 'substance'?",
+      "options": {
+        "A": "A type of medicine",
+        "B": "A solid or liquid material",
+        "C": "A chemical compound",
+        "D": "An important idea"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the sentence that uses 'promise' correctly:",
+      "options": {
+        "A": "I promise to helping you tomorrow.",
+        "B": "She promised that she comes early.",
+        "C": "They promised to finish the work by Friday.",
+        "D": "He is promising for a better future."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Which sentence uses 'species' correctly?",
+      "options": {
+        "A": "The panda is an endangered species.",
+        "B": "We found three different species of birds.",
+        "C": "That species are very rare.",
+        "D": "This plant has many species on it."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "What does 'courage' mean?",
+      "options": {
+        "A": "Physical strength",
+        "B": "Mental ability",
+        "C": "Bravery in facing difficulty",
+        "D": "Athletic skill"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Select the sentence that uses 'anybody' correctly:",
+      "options": {
+        "A": "Is there anybody home?",
+        "B": "Anybody come to the party yesterday.",
+        "C": "I didn't see anybody nowhere.",
+        "D": "She didn't tell anybody nothing."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Which sentence uses 'compare' correctly?",
+      "options": {
+        "A": "Please compare me the two options.",
+        "B": "We can compare between these two phones.",
+        "C": "Let's compare the prices before buying.",
+        "D": "I will compare against the original."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Choose the sentence that uses 'neither' correctly:",
+      "options": {
+        "A": "Neither I like coffee or tea.",
+        "B": "Neither of the students has finished the test.",
+        "C": "I like neither coffee and tea.",
+        "D": "Neither the boys is ready."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "What is 'clothing'?",
+      "options": {
+        "A": "Things people wear",
+        "B": "Material for making clothes",
+        "C": "A type of fashion",
+        "D": "A clothing store"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Which sentence uses 'fortune' correctly?",
+      "options": {
+        "A": "She made a fortune for her new job.",
+        "B": "He had the fortune to win the lottery.",
+        "C": "They spent a fortune on their wedding.",
+        "D": "I wish you good fortune of your exam."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Choose the correct use of 'achieve':",
+      "options": {
+        "A": "She achieved to finish the race.",
+        "B": "They achieved great success in their business.",
+        "C": "I want to achieve for a good job.",
+        "D": "We achieved the team by working hard."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What does 'company' mean in this sentence? 'I enjoy her company.'",
+      "options": {
+        "A": "A business organization",
+        "B": "Being together with someone",
+        "C": "A group of actors",
+        "D": "A military unit"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Which sentence uses 'talents' correctly?",
+      "options": {
+        "A": "She has many talents, including singing and dancing.",
+        "B": "The talents were expensive at the shop.",
+        "C": "We need more talents in our kitchen.",
+        "D": "The musician played three talents yesterday."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "What do you need a 'license' for?",
+      "options": {
+        "A": "To graduate from college",
+        "B": "To get a job",
+        "C": "To drive a car legally",
+        "D": "To buy a house"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Which word is closest in meaning to 'domestic'?",
+      "options": {
+        "A": "Foreign",
+        "B": "Home-related",
+        "C": "Wild",
+        "D": "Dangerous"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "What is a 'diploma'?",
+      "options": {
+        "A": "A type of certificate",
+        "B": "A university professor",
+        "C": "A formal speech",
+        "D": "A government official"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what factors have intensified human impact on oceans?",
+      "options": {
+        "A": "Weather changes and natural disasters",
+        "B": "Marine life evolution and adaptation",
+        "C": "Population growth and technological advancements",
+        "D": "Government regulations and conservation efforts"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following is NOT mentioned as a form of ocean pollution in paragraph 2?",
+      "options": {
+        "A": "Plastic waste",
+        "B": "Noise pollution",
+        "C": "Agricultural runoff",
+        "D": "Oil spills"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, what percentage of fish stocks are being harvested at unsustainable levels?",
+      "options": {
+        "A": "Less than 10 percent",
+        "B": "About 20 percent",
+        "C": "More than one-third",
+        "D": "Over 75 percent"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "What effect does ocean acidification have, according to paragraph 4?",
+      "options": {
+        "A": "It kills fish directly",
+        "B": "It makes it difficult for some organisms to build shells",
+        "C": "It causes more frequent hurricanes",
+        "D": "It increases sea levels globally"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "The word 'depleted' in paragraph 3 is closest in meaning to:",
+      "options": {
+        "A": "destroyed",
+        "B": "reduced",
+        "C": "endangered",
+        "D": "migrated"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "Which of the following is mentioned as a conservation effort in paragraph 5?",
+      "options": {
+        "A": "Banning all commercial fishing",
+        "B": "Building artificial coral reefs",
+        "C": "Establishing marine protected areas",
+        "D": "Developing new types of fishing boats"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What is the main purpose of the passage?",
+      "options": {
+        "A": "To blame humans for ocean destruction",
+        "B": "To inform about human impacts on oceans and efforts to address them",
+        "C": "To argue that ocean conservation is impossible",
+        "D": "To explain why marine life is becoming extinct"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The word 'pervasive' in paragraph 4 most nearly means:",
+      "options": {
+        "A": "dangerous",
+        "B": "temporary",
+        "C": "widespread",
+        "D": "unknown"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to the passage, which group of people is most directly affected by overfishing?",
+      "options": {
+        "A": "Tourists",
+        "B": "Scientists",
+        "C": "People who depend on fishing for income and food",
+        "D": "Coastal property owners"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What tone does the author adopt in the final paragraph?",
+      "options": {
+        "A": "Angry and accusatory",
+        "B": "Hopeful and encouraging",
+        "C": "Neutral and scientific",
+        "D": "Pessimistic and worried"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
