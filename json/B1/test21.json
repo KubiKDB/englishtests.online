@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The Great Wall of China is one of the most impressive structures ever built by humans. Stretching over 13,000 miles across northern China, this massive defensive wall was constructed over many centuries by different Chinese dynasties. While many people know about its impressive size, fewer understand the true reasons behind its construction.<br><br>(2) The primary purpose of the Great Wall was defense. Ancient China faced constant threats from nomadic tribes to the north, particularly the Xiongnu and later the Mongols. These groups would frequently raid Chinese settlements, stealing crops, livestock, and other valuable resources. The wall served as a physical barrier to slow down these invasions and give Chinese forces time to respond.<br><br>(3) Beyond its military function, the Great Wall also played an important economic role. It helped to control trade routes and enforce customs duties on goods traveling along the Silk Road. Guard towers positioned along the wall served as checkpoints where merchants had to pay taxes on their goods. In this way, the wall not only protected China's borders but also generated revenue for the empire.<br><br>(4) The wall additionally served as a powerful symbol of Chinese civilization and imperial power. Successive emperors expanded and reinforced the wall to demonstrate their strength and authority. Building such a massive structure required enormous resources and labor, showing the emperor's ability to organize and control a vast workforce. Some historians estimate that up to one million people died during the wall's construction.<br><br>(5) Today, the Great Wall remains an enduring symbol of China's long history and cultural heritage. While it ultimately failed to prevent invasions completely, it successfully slowed many attacks and helped shape the development of Chinese civilization. The wall now attracts millions of tourists each year, who come to witness this remarkable achievement of human engineering and determination.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which form correctly completes the sentence? 'She _____ here since 2018.'",
+      "options": {
+        "A": "is living",
+        "B": "has been living",
+        "C": "lives",
+        "D": "was living"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct form of the verb: 'If I _____ more time, I would help you.'",
+      "options": {
+        "A": "have",
+        "B": "will have",
+        "C": "had",
+        "D": "would have"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "Neither John or Mary are coming.",
+        "B": "Neither John nor Mary is coming.",
+        "C": "Neither John nor Mary are coming.",
+        "D": "Neither John or Mary is coming."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct preposition: 'I'm afraid _____ spiders.'",
+      "options": {
+        "A": "from",
+        "B": "of",
+        "C": "at",
+        "D": "with"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Which is the correct question form? '_____ to the park yesterday?'",
+      "options": {
+        "A": "Did they went",
+        "B": "Did they go",
+        "C": "Were they go",
+        "D": "Have they gone"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the correct sentence:",
+      "options": {
+        "A": "The children was playing when it started to rain.",
+        "B": "The children were playing when it started raining.",
+        "C": "The children were playing when it starts to rain.",
+        "D": "The children was playing when it starts raining."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct form: 'This is the book _____ I told you about.'",
+      "options": {
+        "A": "who",
+        "B": "whom",
+        "C": "which",
+        "D": "whose"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Which sentence uses the comparative form correctly?",
+      "options": {
+        "A": "This exercise is more easier than the last one.",
+        "B": "This exercise is easiest than the last one.",
+        "C": "This exercise is more easy than the last one.",
+        "D": "This exercise is easier than the last one."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Select the correct modal verb: 'You _____ wear a seatbelt when driving. It's the law.'",
+      "options": {
+        "A": "might",
+        "B": "could",
+        "C": "must",
+        "D": "may"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct form: 'By the time we arrived, the movie _____.'",
+      "options": {
+        "A": "had already started",
+        "B": "has already started",
+        "C": "already started",
+        "D": "was already starting"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Which sentence is in the passive voice?",
+      "options": {
+        "A": "The chef is cooking dinner.",
+        "B": "Dinner is being cooked by the chef.",
+        "C": "The chef cooks dinner.",
+        "D": "The chef has cooked dinner."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the correct sentence:",
+      "options": {
+        "A": "He doesn't have many friends.",
+        "B": "He don't have many friends.",
+        "C": "He doesn't has many friends.",
+        "D": "He not have many friends."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct article: 'She plays _____ piano very well.'",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article needed"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence uses the future continuous correctly?",
+      "options": {
+        "A": "This time tomorrow, I will flying to London.",
+        "B": "This time tomorrow, I will be flying to London.",
+        "C": "This time tomorrow, I am flying to London.",
+        "D": "This time tomorrow, I fly to London."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Choose the correct form: 'If only I _____ how to swim!'",
+      "options": {
+        "A": "know",
+        "B": "knows",
+        "C": "knew",
+        "D": "known"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the best word to complete the sentence: 'I need to _____ a doctor's appointment for next week.'",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "get",
+        "D": "take"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the correct phrasal verb: 'Can you _____ the children while I go shopping?'",
+      "options": {
+        "A": "look at",
+        "B": "look for",
+        "C": "look after",
+        "D": "look up"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Which expression is correct? 'I'm not sure if I'll pass the exam. It was really _____.'",
+      "options": {
+        "A": "piece of cake",
+        "B": "difficult",
+        "C": "a walk in the park",
+        "D": "easy as ABC"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct collocation: 'She wants to _____ some experience before applying to university.'",
+      "options": {
+        "A": "do",
+        "B": "make",
+        "C": "take",
+        "D": "gain"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the correct expression: 'I'm so tired. I think I'll _____ early tonight.'",
+      "options": {
+        "A": "go to sleep",
+        "B": "go to bed",
+        "C": "go sleeping",
+        "D": "go for bed"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Which phrase best completes the sentence? 'I'd like to _____ a complaint about the poor service.'",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "tell",
+        "D": "say"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct expression: 'I _____ a mistake in my calculation.'",
+      "options": {
+        "A": "did",
+        "B": "made",
+        "C": "had",
+        "D": "took"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the best linking word: 'I wanted to go to the beach, _____ it started raining.'",
+      "options": {
+        "A": "so",
+        "B": "because",
+        "C": "but",
+        "D": "and"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Which is the correct expression? 'Let's _____ a break. We've been working for hours.'",
+      "options": {
+        "A": "do",
+        "B": "make",
+        "C": "have",
+        "D": "take"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct expression: 'Could you please _____ me a favor?'",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "give",
+        "D": "take"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Which sentence uses 'worth' correctly?",
+      "options": {
+        "A": "That painting is worth of millions.",
+        "B": "The experience was worth for all the trouble.",
+        "C": "This book is worth reading.",
+        "D": "These shoes are worth to buy."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the correct meaning of 'follow' in this sentence: 'I couldn't follow his explanation.'",
+      "options": {
+        "A": "go after",
+        "B": "understand",
+        "C": "obey",
+        "D": "pursue"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What does 'hit' mean in this context: 'The movie hit the theaters last week.'?",
+      "options": {
+        "A": "physically struck",
+        "B": "damaged",
+        "C": "was released in",
+        "D": "attacked"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which sentence uses 'energy' correctly?",
+      "options": {
+        "A": "He spent all his energy to finish the race.",
+        "B": "The city uses solar energy for street lights.",
+        "C": "She made great energy in the competition.",
+        "D": "I don't have any energy left in my phone."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "What does 'youth' refer to in this sentence: 'The youth of today face many challenges.'?",
+      "options": {
+        "A": "a specific young person",
+        "B": "young people as a group",
+        "C": "childhood memories",
+        "D": "the time when someone was young"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Choose the correct meaning of 'fall' in this context: 'House prices may fall next year.'",
+      "options": {
+        "A": "drop down physically",
+        "B": "decrease",
+        "C": "collapse",
+        "D": "autumn season"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Which sentence uses 'stress' as a verb?",
+      "options": {
+        "A": "He's under a lot of stress at work.",
+        "B": "The teacher stressed the importance of practice.",
+        "C": "Financial stress can affect your health.",
+        "D": "The stress test showed some heart problems."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "What does 'model' mean in this sentence: 'She's a role model for young athletes.'?",
+      "options": {
+        "A": "a person who poses for photographers",
+        "B": "a miniature representation of something",
+        "C": "a person worthy of imitation",
+        "D": "a particular design or type of product"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Choose the correct meaning of 'become' in this context: 'The dress becomes her very well.'",
+      "options": {
+        "A": "changes into",
+        "B": "develops into",
+        "C": "suits",
+        "D": "arrives"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "What does 'rise' mean in this sentence: 'Prices continue to rise every year.'?",
+      "options": {
+        "A": "get up from a lying position",
+        "B": "increase",
+        "C": "rebel",
+        "D": "appear above the horizon"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Which sentence uses 'post' correctly?",
+      "options": {
+        "A": "I need to post this letter before noon.",
+        "B": "The post was too heavy to carry.",
+        "C": "She posts the fence around her garden.",
+        "D": "They post a meeting every Monday."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Choose the correct meaning of 'rely' in this context: 'You can rely on her to get the job done.'",
+      "options": {
+        "A": "depend",
+        "B": "trust",
+        "C": "believe",
+        "D": "hope"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "What does 'notice' mean in this sentence: 'Did you notice anything unusual?'",
+      "options": {
+        "A": "write a formal statement",
+        "B": "become aware of",
+        "C": "pay attention to",
+        "D": "take care of"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Which sentence uses 'connect' correctly?",
+      "options": {
+        "A": "I need to connect my homework tonight.",
+        "B": "Can you connect me the problem?",
+        "C": "The train connects London and Manchester.",
+        "D": "They connect a meeting every week."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Choose the correct meaning of 'throw' in this context: 'Let's throw a party this weekend.'",
+      "options": {
+        "A": "toss or fling",
+        "B": "discard",
+        "C": "organize or host",
+        "D": "vomit"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, the Great Wall of China:",
+      "options": {
+        "A": "was built by a single Chinese dynasty",
+        "B": "is exactly 13,000 miles long",
+        "C": "was constructed over several centuries",
+        "D": "is well understood by most people"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Based on paragraph 2, what was the main reason for building the Great Wall?",
+      "options": {
+        "A": "To symbolize Chinese power",
+        "B": "To control trade routes",
+        "C": "To protect against northern invaders",
+        "D": "To generate revenue for the empire"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, how did the Great Wall help the Chinese economy?",
+      "options": {
+        "A": "By attracting tourists",
+        "B": "By collecting taxes from merchants",
+        "C": "By creating jobs for builders",
+        "D": "By improving agricultural production"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "What does the passage suggest about the human cost of building the Great Wall?",
+      "options": {
+        "A": "It was relatively small.",
+        "B": "It was worth the protection provided.",
+        "C": "About one million people may have died during construction.",
+        "D": "The Chinese government minimized casualties."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "The word 'enduring' in paragraph 5 is closest in meaning to:",
+      "options": {
+        "A": "suffering",
+        "B": "lasting",
+        "C": "beautiful",
+        "D": "protected"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What can be inferred about the effectiveness of the Great Wall as a defensive structure?",
+      "options": {
+        "A": "It completely prevented all invasions.",
+        "B": "It was a total failure at protecting China.",
+        "C": "It delayed attacks but didn't stop all invasions.",
+        "D": "Its effectiveness is unknown."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to the passage, which groups threatened ancient China?",
+      "options": {
+        "A": "The Japanese and Koreans",
+        "B": "The Romans and Greeks",
+        "C": "The Xiongnu and Mongols",
+        "D": "The Indians and Persians"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What purpose did the guard towers serve according to the passage?",
+      "options": {
+        "A": "Military observation only",
+        "B": "Housing for soldiers",
+        "C": "Customs checkpoints",
+        "D": "Storage for weapons"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Why did emperors expand and reinforce the Great Wall according to paragraph 4?",
+      "options": {
+        "A": "To provide employment for citizens",
+        "B": "To demonstrate their power and authority",
+        "C": "To make it more attractive",
+        "D": "To improve trade relations"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "The passage primarily focuses on:",
+      "options": {
+        "A": "the construction techniques used to build the Great Wall",
+        "B": "the military history of China's northern border",
+        "C": "the purposes and significance of the Great Wall",
+        "D": "tourism at the Great Wall today"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
