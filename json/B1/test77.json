@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The Cold War, a period of geopolitical tension between the United States and the Soviet Union, came to an end in the late 1980s and early 1990s. This historic shift began with reforms in the Soviet Union under Mikhail Gorbachev, who introduced policies of glasnost (openness) and perestroika (restructuring). These reforms weakened the strict control of the Communist Party and allowed for more freedom of expression and economic experimentation within the Soviet system, ultimately contributing to its collapse.<br><br>(2) The fall of the Berlin Wall in November 1989 became the most powerful symbol of the Cold War's end. For nearly three decades, this concrete barrier had divided East and West Berlin, representing the larger division between communist and capitalist worlds. When East German authorities unexpectedly opened border crossings, jubilant crowds from both sides climbed onto the wall, using hammers and chisels to break off pieces as souvenirs. The images of these celebrations were broadcast globally, marking a visible end to decades of separation.<br><br>(3) The peaceful revolutions that swept across Eastern Europe shortly afterward led to the dissolution of the Warsaw Pact, the Soviet Union's military alliance. By December 1991, the Soviet Union itself had dissolved into fifteen independent states, with Russia emerging as the largest successor state. The end of the Cold War allowed many countries previously under Soviet influence to pursue democratic reforms and market economies. However, this transition was often difficult, leading to economic hardship and political instability in many former communist states.<br><br>(4) Globally, the end of the Cold War transformed international relations. The bipolar world order dominated by two competing superpowers gave way to a period of American dominance. International organizations like the United Nations gained more freedom to act without being paralyzed by U.S.-Soviet rivalry. Meanwhile, NATO expanded eastward, incorporating former Warsaw Pact countries, while the European Union grew in both size and influence. New security challenges emerged, shifting focus from the threat of nuclear conflict between superpowers to concerns about regional conflicts, terrorism, and failed states.<br><br>(5) The economic effects of the Cold War's end were equally significant. Defense spending decreased in many countries as the immediate threat of global conflict receded. Trade barriers fell between former adversaries, and global economic integration accelerated. The spread of capitalism to former communist countries created new markets and investment opportunities, contributing to what would later be called globalization. However, these changes also led to growing economic inequality both within and between nations, creating new challenges that continue to shape international politics today.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "She don't like coffee.",
+        "B": "She doesn't likes coffee.",
+        "C": "She doesn't like coffee.",
+        "D": "She not like coffee."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct form of the verb: 'Last summer, we _____ to Spain for our vacation.'",
+      "options": {
+        "A": "go",
+        "B": "goes",
+        "C": "going",
+        "D": "went"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the correct preposition: 'I'm really interested _____ learning English.'",
+      "options": {
+        "A": "for",
+        "B": "in",
+        "C": "at",
+        "D": "to"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct form: 'If I _____ more time, I would learn another language.'",
+      "options": {
+        "A": "have",
+        "B": "had",
+        "C": "would have",
+        "D": "having"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Which sentence uses the present perfect correctly?",
+      "options": {
+        "A": "I have seen that movie last week.",
+        "B": "I seen that movie yesterday.",
+        "C": "I have seen that movie three times.",
+        "D": "I have saw that movie already."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Choose the correct comparative form: 'This building is _____ than the one next to it.'",
+      "options": {
+        "A": "more taller",
+        "B": "tallest",
+        "C": "tall",
+        "D": "taller"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Select the correct modal verb: 'You _____ smoke in the hospital. It's against the rules.'",
+      "options": {
+        "A": "don't have to",
+        "B": "mustn't",
+        "C": "shouldn't",
+        "D": "couldn't"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct question form: '_____ does this train arrive in London?'",
+      "options": {
+        "A": "When time",
+        "B": "What time",
+        "C": "Which time",
+        "D": "How time"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Select the correct article: 'Can you pass me _____ salt, please?'",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article needed"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence is in the passive voice?",
+      "options": {
+        "A": "They built this house in 1990.",
+        "B": "This house was built in 1990.",
+        "C": "The house is beautiful.",
+        "D": "They are building houses."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct form of the verb: 'She _____ for three hours by the time I arrived.'",
+      "options": {
+        "A": "has been waiting",
+        "B": "was waiting",
+        "C": "had been waiting",
+        "D": "is waiting"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the correct relative pronoun: 'The woman _____ lives next door is a doctor.'",
+      "options": {
+        "A": "which",
+        "B": "who",
+        "C": "whom",
+        "D": "whose"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct conjunction: 'I wanted to go swimming, _____ the pool was closed.'",
+      "options": {
+        "A": "so",
+        "B": "because",
+        "C": "but",
+        "D": "and"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which form is correct? 'There _____ a lot of people at the concert last night.'",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "is",
+        "D": "are"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the correct tag question: 'You don't like spicy food, _____?'",
+      "options": {
+        "A": "do you",
+        "B": "don't you",
+        "C": "are you",
+        "D": "aren't you"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct collocation: 'Can you _____ me a favor?'",
+      "options": {
+        "A": "do",
+        "B": "make",
+        "C": "give",
+        "D": "take"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the most natural response to 'How are you?'",
+      "options": {
+        "A": "I'm 25 years old.",
+        "B": "I'm an engineer.",
+        "C": "I'm fine, thanks. How about you?",
+        "D": "Yes, I am."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the appropriate expression for making a suggestion:",
+      "options": {
+        "A": "Why don't we go to the cinema?",
+        "B": "I don't want to go to the cinema.",
+        "C": "We will go to the cinema.",
+        "D": "I went to the cinema."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Select the correct phrasal verb: 'The plane will _____ in ten minutes.'",
+      "options": {
+        "A": "take off",
+        "B": "take up",
+        "C": "take in",
+        "D": "take over"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct expression for apologizing:",
+      "options": {
+        "A": "Excuse me about that.",
+        "B": "I'm sorry for the delay.",
+        "C": "I regret from my mistake.",
+        "D": "Pardon of me."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the most appropriate start to a formal email:",
+      "options": {
+        "A": "Hey there,",
+        "B": "Dear Sir/Madam,",
+        "C": "Hi friend,",
+        "D": "What's up,"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct expression: 'She's very busy _____ for her exams.'",
+      "options": {
+        "A": "to prepare",
+        "B": "preparing",
+        "C": "prepare",
+        "D": "preparation"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the correct idiom to complete the sentence: 'Finding a job in this economy is like _____.'",
+      "options": {
+        "A": "a piece of cake",
+        "B": "looking for a needle in a haystack",
+        "C": "killing two birds with one stone",
+        "D": "barking up the wrong tree"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the most appropriate response to 'Could I speak to Jane, please?'",
+      "options": {
+        "A": "Speaking.",
+        "B": "I am speaking.",
+        "C": "I speak now.",
+        "D": "It's me speaking."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the correct phrase: 'I'm really looking forward _____ you next week.'",
+      "options": {
+        "A": "to see",
+        "B": "seeing",
+        "C": "to seeing",
+        "D": "see"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What does 'manual' mean in this sentence? 'Read the instruction manual before using the device.'",
+      "options": {
+        "A": "a book giving instructions or information",
+        "B": "a type of automatic system",
+        "C": "a tool used for repairs",
+        "D": "a digital guide"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Which word means 'a person who visits a place or person'?",
+      "options": {
+        "A": "painter",
+        "B": "visitor",
+        "C": "policy",
+        "D": "deliver"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What is a 'firearm'?",
+      "options": {
+        "A": "a safety device for fires",
+        "B": "an alarm that detects fires",
+        "C": "a weapon that fires bullets or shells",
+        "D": "equipment used by firefighters"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which word means 'based on clear reasoning'?",
+      "options": {
+        "A": "powerful",
+        "B": "common",
+        "C": "logical",
+        "D": "private"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "What does 'listing' refer to in this context? 'I saw your house on the real estate listing.'",
+      "options": {
+        "A": "a document with items written in a list",
+        "B": "a type of building material",
+        "C": "an advertisement offering something for sale",
+        "D": "a request for information"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Which word means 'having great power or strength'?",
+      "options": {
+        "A": "lifelong",
+        "B": "quality",
+        "C": "powerful",
+        "D": "specify"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "What does 'lifelong' mean?",
+      "options": {
+        "A": "lasting for a short time",
+        "B": "lasting or continuing throughout a person's life",
+        "C": "related to daily living",
+        "D": "creating new life"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "What does 'quality' refer to in this sentence? 'This restaurant serves high-quality food.'",
+      "options": {
+        "A": "the standard or level of how good something is",
+        "B": "the quantity or amount of something",
+        "C": "the popularity of something",
+        "D": "the price of something"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What is a 'policy' in this context? 'The company has a strict policy about being late.'",
+      "options": {
+        "A": "a financial plan",
+        "B": "a police document",
+        "C": "a course or principle of action adopted by an organization",
+        "D": "a political campaign"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Which word means 'occurring often or existing in large numbers'?",
+      "options": {
+        "A": "shortly",
+        "B": "private",
+        "C": "common",
+        "D": "specify"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What does 'specify' mean?",
+      "options": {
+        "A": "to identify clearly and definitely",
+        "B": "to simplify something complex",
+        "C": "to modify equipment",
+        "D": "to arrange in order"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Which word means 'belonging to or for the use of one particular person or group only'?",
+      "options": {
+        "A": "common",
+        "B": "deliver",
+        "C": "private",
+        "D": "manual"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "What does 'deliver' mean in this sentence? 'The postman will deliver the package tomorrow.'",
+      "options": {
+        "A": "to take something back",
+        "B": "to bring and hand over something to someone",
+        "C": "to open a package",
+        "D": "to sign for a package"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "What is a 'painter'?",
+      "options": {
+        "A": "someone who repairs roofs",
+        "B": "someone who writes books",
+        "C": "someone who creates pictures using paint",
+        "D": "someone who installs windows"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "What does 'shortly' mean?",
+      "options": {
+        "A": "in a brief or curt manner",
+        "B": "in or after a short time",
+        "C": "being short in height",
+        "D": "for a long period"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what contributed to the end of the Cold War?",
+      "options": {
+        "A": "Military conflict between the superpowers",
+        "B": "Gorbachev's reforms of glasnost and perestroika",
+        "C": "The formation of the European Union",
+        "D": "American economic sanctions"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "According to paragraph 2, what was the significance of the Berlin Wall?",
+      "options": {
+        "A": "It protected West Berlin from invasion",
+        "B": "It was built to prevent flooding",
+        "C": "It represented the division between communist and capitalist worlds",
+        "D": "It was a tourist attraction"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "Based on paragraph 3, what happened to the Soviet Union by December 1991?",
+      "options": {
+        "A": "It reformed its political system",
+        "B": "It joined NATO",
+        "C": "It expanded its territory",
+        "D": "It dissolved into fifteen independent states"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to paragraph 3, what challenge did many former communist states face after the Cold War?",
+      "options": {
+        "A": "Military invasions",
+        "B": "Economic hardship and political instability",
+        "C": "Natural disasters",
+        "D": "Overpopulation"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to paragraph 4, how did international relations change after the Cold War?",
+      "options": {
+        "A": "The Soviet Union became more powerful",
+        "B": "The bipolar world order gave way to American dominance",
+        "C": "The United Nations lost influence",
+        "D": "Europe became politically isolated"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What happened to NATO after the Cold War, according to the passage?",
+      "options": {
+        "A": "It was dissolved",
+        "B": "It remained the same size",
+        "C": "It expanded eastward",
+        "D": "It merged with the Warsaw Pact"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Based on paragraph 5, what happened to defense spending in many countries after the Cold War?",
+      "options": {
+        "A": "It increased significantly",
+        "B": "It decreased",
+        "C": "It remained the same",
+        "D": "The passage doesn't mention this"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to paragraph 5, what economic process accelerated after the Cold War?",
+      "options": {
+        "A": "Isolationism",
+        "B": "Global economic integration",
+        "C": "Communist expansion",
+        "D": "Agricultural development"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What negative consequence of post-Cold War changes is mentioned in the passage?",
+      "options": {
+        "A": "Environmental degradation",
+        "B": "Growing economic inequality",
+        "C": "Increased nuclear proliferation",
+        "D": "Declining educational standards"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the main purpose of this passage?",
+      "options": {
+        "A": "To argue that the Cold War never truly ended",
+        "B": "To compare communism and capitalism as economic systems",
+        "C": "To describe the end of the Cold War and its global effects",
+        "D": "To predict future conflicts between major powers"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
