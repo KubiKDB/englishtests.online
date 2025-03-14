@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Bartering is one of the oldest methods of exchange, dating back thousands of years before the invention of currency. It involves trading goods and services directly without using money as an intermediary. Though simple in concept, bartering allowed early civilizations to obtain resources they could not produce themselves and helped forge connections between different communities and regions.<br><br>(2) The basic principle of bartering is straightforward: two parties agree to exchange items of similar perceived value. For example, a farmer might trade excess crops for tools made by a blacksmith. Unlike monetary transactions, bartering requires a 'double coincidence of wants,' meaning both parties must desire what the other offers. This limitation sometimes made traditional bartering inefficient, as people had to search extensively for suitable trading partners.<br><br>(3) Despite its challenges, bartering systems became quite sophisticated in some ancient societies. The Mesopotamians, Phoenicians, and early Egyptians all developed elaborate networks where goods like grain, olive oil, and textiles were commonly exchanged. Some communities even created standardized values for commonly traded items, which helped facilitate more complex multi-party exchanges. In these systems, certain goods like salt, tea, or shells sometimes functioned as primitive forms of currency.<br><br>(4) Bartering continues to exist in modern times, particularly during economic hardships when currency loses value or becomes scarce. During the Great Depression, many Americans returned to bartering when cash was limited. Similarly, after the collapse of the Soviet Union, many citizens in the resulting countries relied on barter exchanges while their new currencies stabilized. Some rural communities around the world still regularly supplement monetary exchanges with bartering arrangements.<br><br>(5) Today, bartering has even adapted to the digital age. Online platforms allow people to exchange goods and services without cash, creating modern bartering communities. These systems often use credit systems to overcome the double coincidence of wants problem. Bartering also remains popular among businesses looking to conserve cash, with companies trading everything from advertising space to professional services. Despite the dominance of money in modern economies, the ancient practice of direct exchange continues to offer a resilient alternative method for people to trade value.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the sentence with the correct verb tense.",
+      "options": {
+        "A": "He has gone to the store yesterday.",
+        "B": "She have been studying for three hours.",
+        "C": "They are watching a movie right now.",
+        "D": "We did finished our homework already."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the correct form of the conditional sentence.",
+      "options": {
+        "A": "If it will rain tomorrow, we stay at home.",
+        "B": "If it rains tomorrow, we will stay at home.",
+        "C": "If it rain tomorrow, we will stay at home.",
+        "D": "If it raining tomorrow, we will stay at home."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence contains a grammatical error?",
+      "options": {
+        "A": "She doesn't like coffee very much.",
+        "B": "We enjoyed the concert last night.",
+        "C": "They are going to visit their grandparents next week.",
+        "D": "He don't understand the instructions."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct preposition to complete the sentence: 'I'm afraid _____ spiders.'",
+      "options": {
+        "A": "from",
+        "B": "of",
+        "C": "about",
+        "D": "with"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Select the sentence with the correct word order.",
+      "options": {
+        "A": "She quietly went upstairs.",
+        "B": "She went quietly upstairs.",
+        "C": "She went upstairs quietly.",
+        "D": "Quietly she went upstairs."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which of the following sentences uses the comparative form correctly?",
+      "options": {
+        "A": "This book is more interesting than that one.",
+        "B": "This book is interestinger than that one.",
+        "C": "This book is more interestinger than that one.",
+        "D": "This book is interesting more than that one."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct passive voice form: 'The window _____ by someone last night.'",
+      "options": {
+        "A": "break",
+        "B": "broke",
+        "C": "was broken",
+        "D": "has broken"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the correct form to complete the sentence: 'If I had more time, I _____ a new language.'",
+      "options": {
+        "A": "will learn",
+        "B": "would learn",
+        "C": "had learned",
+        "D": "will have learned"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence uses articles correctly?",
+      "options": {
+        "A": "I need a advice about my career.",
+        "B": "She bought the new car last week.",
+        "C": "We visited a Eiffel Tower in Paris.",
+        "D": "He is best player in the team."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct relative pronoun: 'The man _____ car was stolen called the police.'",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Select the correct form of the verb to complete the sentence: 'By the time we arrived, the movie _____.'",
+      "options": {
+        "A": "already started",
+        "B": "already start",
+        "C": "has already started",
+        "D": "had already started"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence contains a subject-verb agreement error?",
+      "options": {
+        "A": "The committee has made its decision.",
+        "B": "The children are playing in the garden.",
+        "C": "My family are going on vacation next month.",
+        "D": "Neither of the students were able to answer the question."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct modal verb: 'You _____ smoke in this building. It's against the rules.'",
+      "options": {
+        "A": "don't have to",
+        "B": "mustn't",
+        "C": "couldn't",
+        "D": "wouldn't"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Select the sentence that correctly uses the present perfect tense.",
+      "options": {
+        "A": "I have seen that movie last week.",
+        "B": "She has lived in Paris for three years.",
+        "C": "We have finished our homework yesterday.",
+        "D": "They have went to the supermarket."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Choose the correct future form: 'Look at those dark clouds. It _____ rain soon.'",
+      "options": {
+        "A": "will",
+        "B": "is going to",
+        "C": "goes to",
+        "D": "is will"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the best phrase to complete the sentence: 'I'm not sure if I'll be able to attend the meeting, but I'll _____.'",
+      "options": {
+        "A": "do my best",
+        "B": "make my best",
+        "C": "give my best",
+        "D": "try my best"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the correct collocation: 'Could you please _____ a favor for me?'",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "give",
+        "D": "take"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct phrasal verb to complete the sentence: 'The plane will _____ in ten minutes.'",
+      "options": {
+        "A": "take off",
+        "B": "take down",
+        "C": "take over",
+        "D": "take in"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Select the most appropriate response to 'How are you?'",
+      "options": {
+        "A": "I'm 25 years old.",
+        "B": "I'm fine, thanks. And you?",
+        "C": "I'm an engineer.",
+        "D": "I'm at the office."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct expression for making a suggestion: '_____  go to the cinema tonight?'",
+      "options": {
+        "A": "Would you like",
+        "B": "Why don't we",
+        "C": "Do you want",
+        "D": "I'd like to"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the correct linker to complete the sentence: 'I wanted to go to the beach, _____ it was raining.'",
+      "options": {
+        "A": "so",
+        "B": "because of",
+        "C": "but",
+        "D": "as a result"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct expression for apologizing: 'I'm really sorry. It was _____.'",
+      "options": {
+        "A": "my fault",
+        "B": "my mistake",
+        "C": "my blame",
+        "D": "my error"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the most suitable expression to respond to a thank you: 'Thank you for your help.' '_____'",
+      "options": {
+        "A": "It's nothing.",
+        "B": "You're welcome.",
+        "C": "Don't mention it.",
+        "D": "It was my pleasure."
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct expression to show agreement: 'I think we should leave early tomorrow.' '_____'",
+      "options": {
+        "A": "I don't think so.",
+        "B": "I don't agree.",
+        "C": "I couldn't agree more.",
+        "D": "I have my doubts."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the correct expression for offering help: '_____'",
+      "options": {
+        "A": "Would you mind helping me?",
+        "B": "Would you like a hand with that?",
+        "C": "Could you give me a hand?",
+        "D": "Can I have some help?"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What does 'pioneer' mean in this sentence: 'Marie Curie was a pioneer in the field of radioactivity'?",
+      "options": {
+        "A": "a person who is among the first to explore or develop something new",
+        "B": "a person who studies physics",
+        "C": "a person who teaches at a university",
+        "D": "a person who writes scientific papers"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the sentence where 'complex' is used correctly:",
+      "options": {
+        "A": "She complex to the store yesterday.",
+        "B": "The puzzle was too complex for a five-year-old to solve.",
+        "C": "They complex their homework on time.",
+        "D": "I complex what you mean."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What does 'limited' mean in the phrase 'limited edition'?",
+      "options": {
+        "A": "available in large quantities",
+        "B": "not available for purchase",
+        "C": "restricted in number or amount",
+        "D": "poor quality"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which sentence uses the word 'barrier' correctly?",
+      "options": {
+        "A": "The barrier was very delicious.",
+        "B": "Language can be a significant barrier to communication.",
+        "C": "She barrier the car in the garage.",
+        "D": "They barrier to the movie last week."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "What does 'connect' mean in this sentence: 'The bridge connects the two islands'?",
+      "options": {
+        "A": "separates",
+        "B": "joins or links",
+        "C": "destroys",
+        "D": "observes"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Choose the correct definition of 'parking':",
+      "options": {
+        "A": "the action of a vehicle moving quickly",
+        "B": "the action of driving a vehicle",
+        "C": "an area where vehicles can be left temporarily",
+        "D": "the action of repairing a vehicle"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "What does 'regular' mean in the phrase 'a regular customer'?",
+      "options": {
+        "A": "someone who visits occasionally",
+        "B": "someone who comes at fixed intervals or frequently",
+        "C": "someone who never visits",
+        "D": "someone who is dissatisfied"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Which sentence uses 'restore' correctly?",
+      "options": {
+        "A": "They will restore to the party later.",
+        "B": "She restored the painting to its original condition.",
+        "C": "We restore lunch at noon every day.",
+        "D": "I restore your opinion."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What does 'careful' mean?",
+      "options": {
+        "A": "full of care or concern for others",
+        "B": "taking care to avoid potential danger, harm, or errors",
+        "C": "careless or negligent",
+        "D": "full of joy or happiness"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Choose the sentence where 'tactical' is used correctly:",
+      "options": {
+        "A": "She made a tactical decision to delay the product launch.",
+        "B": "The flower was very tactical and beautiful.",
+        "C": "I tactical my breakfast this morning.",
+        "D": "They tactical to work every day."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What does 'arrival' mean?",
+      "options": {
+        "A": "the action of departing",
+        "B": "the action of coming to or reaching a place",
+        "C": "the action of staying in one place",
+        "D": "the action of being lost"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Select the correct definition of 'highway':",
+      "options": {
+        "A": "a small road in a rural area",
+        "B": "a path for walking only",
+        "C": "a main public road, especially one connecting major towns or cities",
+        "D": "a private road for exclusive use"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "What does 'revenue' refer to?",
+      "options": {
+        "A": "the total income produced by a given source",
+        "B": "the total expenses of a business",
+        "C": "a type of business document",
+        "D": "a type of tax"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Choose the sentence where 'journal' is used correctly:",
+      "options": {
+        "A": "She journal to school every day.",
+        "B": "I kept a journal during my travels through Europe.",
+        "C": "They journal the test yesterday.",
+        "D": "He journal very tall and handsome."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "What does 'pursue' mean in this sentence: 'She decided to pursue a career in medicine'?",
+      "options": {
+        "A": "to follow or chase",
+        "B": "to continue or proceed with",
+        "C": "to avoid or escape from",
+        "D": "to quit or abandon"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, what is bartering?",
+      "options": {
+        "A": "A modern form of currency exchange",
+        "B": "Trading goods and services directly without using money",
+        "C": "A type of digital payment system",
+        "D": "A form of investment strategy"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "What does the passage identify as a limitation of traditional bartering?",
+      "options": {
+        "A": "It was only used by wealthy merchants",
+        "B": "It required the 'double coincidence of wants'",
+        "C": "It was illegal in many ancient societies",
+        "D": "It only worked with agricultural products"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, what sometimes functioned as primitive forms of currency in ancient societies?",
+      "options": {
+        "A": "Gold and silver",
+        "B": "Coins and paper money",
+        "C": "Salt, tea, or shells",
+        "D": "Precious stones"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "When do people typically return to bartering in modern times according to the passage?",
+      "options": {
+        "A": "During times of economic prosperity",
+        "B": "When trading internationally",
+        "C": "During economic hardships when currency loses value",
+        "D": "When purchasing luxury goods"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Based on the passage, which statement is TRUE about modern bartering?",
+      "options": {
+        "A": "It has completely disappeared in developed countries",
+        "B": "It has adapted to the digital age with online platforms",
+        "C": "It is only practiced in rural communities",
+        "D": "It is mainly used for illegal transactions"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to the passage, what helped facilitate more complex multi-party exchanges in ancient societies?",
+      "options": {
+        "A": "The use of paper money",
+        "B": "Government regulations",
+        "C": "Standardized values for commonly traded items",
+        "D": "Banking systems"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What example does the passage give of modern businesses using bartering?",
+      "options": {
+        "A": "Trading manufacturing equipment",
+        "B": "Exchanging shares of stock",
+        "C": "Trading advertising space or professional services",
+        "D": "Bartering employee contracts"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to the passage, what historical period saw Americans returning to bartering?",
+      "options": {
+        "A": "The Civil War",
+        "B": "World War II",
+        "C": "The Great Depression",
+        "D": "The Industrial Revolution"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What does the passage identify as an advantage of modern online bartering platforms?",
+      "options": {
+        "A": "They eliminate the need for trust between parties",
+        "B": "They use credit systems to overcome the double coincidence of wants problem",
+        "C": "They are regulated by governments",
+        "D": "They completely replace monetary systems"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the main idea of the passage?",
+      "options": {
+        "A": "Bartering is an outdated practice with no relevance today",
+        "B": "Bartering is only useful in primitive societies",
+        "C": "Bartering is an ancient practice that continues to be relevant even in modern economies",
+        "D": "Digital currencies will eventually replace all forms of bartering"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
