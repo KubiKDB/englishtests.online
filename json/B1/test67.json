@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) In our daily lives, we constantly make decisions about what to spend our money on. Understanding the difference between needs and wants is essential for making wise financial choices. Needs are things that are necessary for survival and basic well-being, while wants are things we desire but can live without.<br><br>(2) Needs include basic requirements such as food, water, shelter, and clothing. These items are fundamental for our survival and health. For example, we need nutritious food to maintain our bodies, clean water to stay hydrated, a safe place to live, and appropriate clothing to protect ourselves from the weather. Healthcare and basic education are also considered needs in modern society.<br><br>(3) Wants, on the other hand, are things we wish to have but are not essential for survival. These might include the latest smartphone, designer clothes, luxury vacations, or eating at expensive restaurants. While wants can bring us pleasure and enjoyment, they are not necessary for our basic existence. It's important to note that some items can be both needs and wants, depending on their quality or quantity.<br><br>(4) The line between needs and wants can sometimes be blurry. For instance, transportation might be a need for someone who lives far from their workplace, but the type of vehicle they choose could be influenced by wants. Similarly, food is a need, but specific types of gourmet or processed foods are wants. Cultural expectations and social pressure can also influence what we perceive as needs versus wants.<br><br>(5) Learning to distinguish between needs and wants helps us make better financial decisions. By prioritizing needs over wants, we can ensure our basic requirements are met before spending on non-essential items. This awareness allows us to create effective budgets, save money for the future, and avoid unnecessary debt. In times of financial hardship, understanding this difference becomes even more crucial for managing limited resources wisely.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which verb form correctly completes this sentence? 'She _____ to the store yesterday.'",
+      "options": {
+        "A": "go",
+        "B": "went",
+        "C": "goes",
+        "D": "going"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "A": "They was happy about the news.",
+        "B": "He don't like chocolate ice cream.",
+        "C": "We didn't see any birds at the park.",
+        "D": "She have three brothers."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence uses the correct preposition?",
+      "options": {
+        "A": "I'm interested on learning a new language.",
+        "B": "She arrived at the station at 5 PM.",
+        "C": "He's afraid from spiders.",
+        "D": "They're waiting since two hours."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which is the correct comparative form? 'This book is _____ than the one I read last week.'",
+      "options": {
+        "A": "more interesting",
+        "B": "interestinger",
+        "C": "most interesting",
+        "D": "much interesting"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct modal verb: 'You _____ wear a seatbelt when driving. It's the law.'",
+      "options": {
+        "A": "should",
+        "B": "might",
+        "C": "must",
+        "D": "could"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which sentence is in the present perfect tense?",
+      "options": {
+        "A": "I am studying for my exam.",
+        "B": "She has lived here for five years.",
+        "C": "They visited Paris last summer.",
+        "D": "We will go to the beach tomorrow."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "What is the correct question form? '_____ do you usually wake up?'",
+      "options": {
+        "A": "When time",
+        "B": "What time",
+        "C": "Which time",
+        "D": "How time"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct passive voice: 'The teacher _____ the test yesterday.'",
+      "options": {
+        "A": "was checked",
+        "B": "is checking",
+        "C": "checked",
+        "D": "was checking"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence contains an error in subject-verb agreement?",
+      "options": {
+        "A": "The books on the shelf are dusty.",
+        "B": "Neither of the students have finished the assignment.",
+        "C": "My friend and I are going to the concert.",
+        "D": "The news is often depressing."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which is the correct article usage? 'She's _____ university student.'",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "No article needed"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct conditional form: 'If it rains tomorrow, we _____ stay at home.'",
+      "options": {
+        "A": "would",
+        "B": "will",
+        "C": "had",
+        "D": "were"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence uses the correct verb tense?",
+      "options": {
+        "A": "I know her since 2010.",
+        "B": "They are visiting their grandparents last weekend.",
+        "C": "She has already finished her homework.",
+        "D": "We will went to the movies tonight."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct relative pronoun: 'The man _____ car was stolen called the police.'",
+      "options": {
+        "A": "who",
+        "B": "whom",
+        "C": "whose",
+        "D": "which"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence contains a gerund?",
+      "options": {
+        "A": "She wants to study medicine.",
+        "B": "They enjoy swimming in the lake.",
+        "C": "He will travel to Spain next year.",
+        "D": "We should clean the house."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Choose the correct order of adjectives: 'She bought a _____ dress.'",
+      "options": {
+        "A": "silk beautiful new",
+        "B": "new beautiful silk",
+        "C": "beautiful new silk",
+        "D": "new silk beautiful"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Complete the sentence with the appropriate phrasal verb: 'I need to _____ this form before submitting my application.'",
+      "options": {
+        "A": "fill out",
+        "B": "fill up",
+        "C": "fill in",
+        "D": "fill over"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct collocation: 'She _____ a mistake in her calculations.'",
+      "options": {
+        "A": "did",
+        "B": "made",
+        "C": "took",
+        "D": "had"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the appropriate expression to complete this sentence: 'I'm not sure if I'll be able to attend the meeting tomorrow. I'll let you know _____.'",
+      "options": {
+        "A": "at the end",
+        "B": "in advance",
+        "C": "on time",
+        "D": "by heart"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Which word correctly completes both sentences? 'Please _____ your shoes before entering the house. / The teacher asked us to _____ our names on the test papers.'",
+      "options": {
+        "A": "remove",
+        "B": "write",
+        "C": "put",
+        "D": "take"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct idiom to complete this sentence: 'Learning a new language is difficult, but _____.'",
+      "options": {
+        "A": "it's a piece of cake",
+        "B": "practice makes perfect",
+        "C": "it costs an arm and a leg",
+        "D": "it's raining cats and dogs"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the appropriate connector: 'He studied hard for the exam; _____, he failed it.'",
+      "options": {
+        "A": "therefore",
+        "B": "furthermore",
+        "C": "nevertheless",
+        "D": "similarly"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Which response is appropriate to the question 'How do you do?'",
+      "options": {
+        "A": "I'm fine, thank you.",
+        "B": "How do you do?",
+        "C": "Not bad.",
+        "D": "Very well, thanks."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct collocation: 'Could you please _____ me a favor?'",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "give",
+        "D": "take"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Select the appropriate expression: 'I'm sorry for the delay. We'll be with you _____.'",
+      "options": {
+        "A": "in a minute",
+        "B": "on a minute",
+        "C": "for a minute",
+        "D": "by a minute"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Which phrase best completes this sentence? 'If you want to improve your English, you should practice _____.'",
+      "options": {
+        "A": "once in a blue moon",
+        "B": "out of the blue",
+        "C": "on a regular basis",
+        "D": "under the weather"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the word that means 'to make something less strong or effective':",
+      "options": {
+        "A": "weaken",
+        "B": "include",
+        "C": "obey",
+        "D": "represent"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Which word means 'to understand a situation completely'?",
+      "options": {
+        "A": "pass",
+        "B": "build",
+        "C": "realize",
+        "D": "inform"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Choose the word that means 'to construct or create something':",
+      "options": {
+        "A": "freeze",
+        "B": "release",
+        "C": "estimate",
+        "D": "build"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which definition best describes the word 'amount'?",
+      "options": {
+        "A": "To give information to someone",
+        "B": "A quantity of something",
+        "C": "To stop moving or working",
+        "D": "To follow a rule or law"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "What does the word 'estimate' mean?",
+      "options": {
+        "A": "To calculate the approximate value or quantity",
+        "B": "To represent or stand for something",
+        "C": "To send something to another person",
+        "D": "To make a clear and definite statement"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Choose the word that means 'something that a person does or takes part in':",
+      "options": {
+        "A": "state",
+        "B": "activity",
+        "C": "pass",
+        "D": "freeze"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "What does the word 'include' mean?",
+      "options": {
+        "A": "To make something part of a larger thing",
+        "B": "To move from one place to another",
+        "C": "To let something go free",
+        "D": "To make something known"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Which definition best describes the word 'state'?",
+      "options": {
+        "A": "To follow a rule or law",
+        "B": "To express something clearly in speech or writing",
+        "C": "To calculate approximately",
+        "D": "To construct or make"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What does the word 'freeze' mean?",
+      "options": {
+        "A": "To become very cold and turn to ice",
+        "B": "To understand suddenly",
+        "C": "To symbolize or stand for",
+        "D": "To let something go"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Choose the word that means 'to tell someone about something':",
+      "options": {
+        "A": "inform",
+        "B": "obey",
+        "C": "realize",
+        "D": "pass"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What does the word 'obey' mean?",
+      "options": {
+        "A": "To make something less strong",
+        "B": "To follow rules or instructions",
+        "C": "To understand completely",
+        "D": "To include as part of something"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Choose the word that means 'to set free or let go':",
+      "options": {
+        "A": "weaken",
+        "B": "represent",
+        "C": "release",
+        "D": "state"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "What does the word 'pass' mean in this sentence: 'Time seems to pass quickly when you're having fun.'?",
+      "options": {
+        "A": "To move from one place to another",
+        "B": "To go by or elapse",
+        "C": "To be successful in a test",
+        "D": "To give something to someone"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Choose the word that means 'to stand for or symbolize something':",
+      "options": {
+        "A": "amount",
+        "B": "estimate",
+        "C": "represent",
+        "D": "include"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "In which sentence is the word 'realize' used correctly?",
+      "options": {
+        "A": "She realized that she had left her keys at home.",
+        "B": "They are realizing a new project next month.",
+        "C": "The company realized many products last year.",
+        "D": "We need to realize these papers before tomorrow."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, what is the main difference between needs and wants?",
+      "options": {
+        "A": "Needs are always more expensive than wants.",
+        "B": "Needs are necessary for survival while wants are desirable but not essential.",
+        "C": "Wants are always luxury items while needs are basic items.",
+        "D": "Needs change over time while wants remain constant."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following is NOT mentioned as a basic need in the passage?",
+      "options": {
+        "A": "Food",
+        "B": "Transportation",
+        "C": "Shelter",
+        "D": "Water"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, which of the following is an example of a want?",
+      "options": {
+        "A": "Basic education",
+        "B": "Healthcare",
+        "C": "Nutritious food",
+        "D": "Designer clothes"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "What does the passage suggest about the line between needs and wants?",
+      "options": {
+        "A": "It is always very clear and distinct.",
+        "B": "It can sometimes be blurry depending on context.",
+        "C": "It is determined solely by an item's cost.",
+        "D": "It never changes over time."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to the passage, how can transportation be both a need and a want?",
+      "options": {
+        "A": "The necessity of transportation is a need, but the type of vehicle chosen is influenced by wants.",
+        "B": "Transportation is always a want and never a need.",
+        "C": "Transportation is always a need and never a want.",
+        "D": "The cost of transportation determines whether it is a need or a want."
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "Based on the passage, why is it important to distinguish between needs and wants?",
+      "options": {
+        "A": "To spend more money on luxury items",
+        "B": "To make better financial decisions and prioritize spending",
+        "C": "To eliminate all wants from our lives",
+        "D": "To increase our list of needs"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to the passage, what factors can influence our perception of needs versus wants?",
+      "options": {
+        "A": "Only personal preferences",
+        "B": "Only financial status",
+        "C": "Cultural expectations and social pressure",
+        "D": "Only geographical location"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "Which of the following statements best summarizes the main idea of the passage?",
+      "options": {
+        "A": "Wants are more important than needs for happiness.",
+        "B": "Understanding the difference between needs and wants helps make wise financial decisions.",
+        "C": "Modern society has too many wants and not enough needs.",
+        "D": "Basic needs should be eliminated to save money."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to the passage, when does understanding the difference between needs and wants become especially crucial?",
+      "options": {
+        "A": "When shopping for luxury items",
+        "B": "When creating a business",
+        "C": "During times of financial hardship",
+        "D": "When traveling abroad"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What benefit of distinguishing between needs and wants is mentioned in the final paragraph?",
+      "options": {
+        "A": "Increasing social status",
+        "B": "Avoiding unnecessary debt",
+        "C": "Improving cooking skills",
+        "D": "Building better relationships"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
