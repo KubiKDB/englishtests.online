@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Islands are fascinating geographical formations that can be found in oceans, seas, lakes, and rivers around the world. They are created through various natural processes, including volcanic activity, tectonic plate movement, and the accumulation of sediment. Volcanic islands form when underwater volcanoes erupt and build up layers of lava that eventually rise above the water's surface. Other islands are created when pieces of continental land break off due to tectonic activity or when rising sea levels isolate areas of higher ground.<br><br>(2) Once an island forms, it begins to develop its own unique ecosystem. The isolation of islands from mainland areas creates conditions for distinctive patterns of plant and animal life to evolve. Species that reach these isolated landmasses, either by flying, swimming, or floating on debris, often adapt to their new environment over time. This process of adaptation can lead to the development of species that exist nowhere else on Earth, a phenomenon known as endemism. The Galapagos Islands, for example, are famous for their high number of endemic species that helped Charles Darwin formulate his theory of evolution.<br><br>(3) The size and distance of an island from the mainland significantly influence its biodiversity. Generally, larger islands can support more diverse ecosystems than smaller ones because they offer a greater variety of habitats and resources. Islands located closer to continents typically host more species than remote ones, as they are more accessible to plants and animals from the mainland. However, this proximity can also make them more vulnerable to invasive species, which can disrupt the delicate balance of island ecosystems.<br><br>(4) Climate plays a crucial role in shaping island ecosystems as well. Tropical islands often support lush rainforests and diverse coral reefs in their surrounding waters, while islands in colder regions may feature tundra or coniferous forest habitats. The unique climate conditions on islands, influenced by their size, shape, and location, can create microclimates that further enhance biological diversity. For instance, mountains on islands can create rain shadows, resulting in dramatically different environments on opposite sides of the island.<br><br>(5) Unfortunately, island ecosystems are particularly vulnerable to human activities and environmental changes. Their limited size and isolation make them less resilient to disturbances such as habitat destruction, pollution, and climate change. The introduction of non-native species by humans has led to the extinction of numerous island species throughout history. Conservation efforts are now focused on protecting these unique ecosystems, which not only harbor exceptional biodiversity but also provide valuable insights into evolutionary processes and can serve as indicators of global environmental health.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct form of the verb: 'He _____ tennis every Saturday.'",
+      "options": {
+        "A": "play",
+        "B": "plays",
+        "C": "playing",
+        "D": "is playing"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the correct preposition: 'She has been working here _____ 2015.'",
+      "options": {
+        "A": "for",
+        "B": "since",
+        "C": "from",
+        "D": "during"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "I didn't saw him yesterday.",
+        "B": "She don't like chocolate.",
+        "C": "They aren't coming to the party.",
+        "D": "He have a new car."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct comparative form: 'This book is _____ than the one I read last week.'",
+      "options": {
+        "A": "more better",
+        "B": "more good",
+        "C": "gooder",
+        "D": "better"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Select the correct article: 'She plays _____ violin in an orchestra.'",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article needed"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Choose the correct past participle: 'Have you ever _____ to Paris?'",
+      "options": {
+        "A": "went",
+        "B": "gone",
+        "C": "going",
+        "D": "go"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which sentence uses the correct conditional form?",
+      "options": {
+        "A": "If it rains tomorrow, we stay at home.",
+        "B": "If I will study hard, I will pass the exam.",
+        "C": "If she would arrive early, she would get a good seat.",
+        "D": "If I had more time, I would learn another language."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the correct relative pronoun: 'The man _____ car was stolen called the police.'",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct modal verb: 'You _____ smoke in public places. It's against the law.'",
+      "options": {
+        "A": "don't have to",
+        "B": "mustn't",
+        "C": "shouldn't",
+        "D": "might not"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence is in the passive voice?",
+      "options": {
+        "A": "She bought a new computer yesterday.",
+        "B": "The package will arrive tomorrow.",
+        "C": "The window was broken by a baseball.",
+        "D": "They have lived here for ten years."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct form: 'By the time I got to the station, the train _____.'",
+      "options": {
+        "A": "had left",
+        "B": "has left",
+        "C": "was leaving",
+        "D": "left"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the correct question tag: 'You're coming to the party, _____?'",
+      "options": {
+        "A": "aren't you",
+        "B": "don't you",
+        "C": "isn't it",
+        "D": "is it"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Which sentence uses the correct form of the verb?",
+      "options": {
+        "A": "I am agree with you.",
+        "B": "He doesn't listening to me.",
+        "C": "We were studying when she called.",
+        "D": "They having dinner now."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct verb pattern: 'She suggested _____ to the beach.'",
+      "options": {
+        "A": "go",
+        "B": "to go",
+        "C": "going",
+        "D": "goes"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the correct sentence:",
+      "options": {
+        "A": "Neither he or I was invited.",
+        "B": "There's a lot of peoples waiting outside.",
+        "C": "I've known her since three years.",
+        "D": "She doesn't have much free time these days."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct phrasal verb: 'Could you please _____ this form and sign it?'",
+      "options": {
+        "A": "fill in",
+        "B": "fill out",
+        "C": "fill up",
+        "D": "fill over"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the best collocation: 'She _____ a good impression at the job interview.'",
+      "options": {
+        "A": "did",
+        "B": "made",
+        "C": "took",
+        "D": "gave"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Which expression is used to give an opinion?",
+      "options": {
+        "A": "I'm afraid I can't.",
+        "B": "I'd rather not.",
+        "C": "I believe that...",
+        "D": "What about...?"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct expression to make a suggestion:",
+      "options": {
+        "A": "Why don't we go for a walk?",
+        "B": "I'd love to join you.",
+        "C": "I'm really sorry about that.",
+        "D": "That sounds great!"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the best linking word: 'I wanted to go to the concert; _____, I had to work late.'",
+      "options": {
+        "A": "therefore",
+        "B": "moreover",
+        "C": "however",
+        "D": "consequently"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Which is the most appropriate response to 'Thank you for your help'?",
+      "options": {
+        "A": "It's nothing.",
+        "B": "You're welcome.",
+        "C": "Don't mention me.",
+        "D": "With pleasure."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct word to complete the idiom: 'It's _____ cake.' (meaning something is very easy)",
+      "options": {
+        "A": "a piece of",
+        "B": "a slice of",
+        "C": "a bit of",
+        "D": "a part of"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the best expression for apologizing:",
+      "options": {
+        "A": "Excuse me!",
+        "B": "Pardon!",
+        "C": "I'm really sorry about that.",
+        "D": "No problem."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct expression: 'I'm not sure if I can come to your party. It _____ on whether I have to work or not.'",
+      "options": {
+        "A": "counts",
+        "B": "depends",
+        "C": "bases",
+        "D": "relies"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the most appropriate way to begin a formal email:",
+      "options": {
+        "A": "Hi there,",
+        "B": "Hey,",
+        "C": "Dear Sir/Madam,",
+        "D": "Hello friend,"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What does 'often' mean in this sentence? 'She often goes to the gym after work.'",
+      "options": {
+        "A": "Sometimes",
+        "B": "Always",
+        "C": "Rarely",
+        "D": "Frequently"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the correct meaning of 'spaces' in this context: 'The new office building has large open spaces for collaborative work.'",
+      "options": {
+        "A": "Gaps",
+        "B": "Areas",
+        "C": "Rooms",
+        "D": "Distances"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What does 'dirty' mean in this sentence? 'The children got their clothes dirty while playing in the mud.'",
+      "options": {
+        "A": "Wet",
+        "B": "Clean",
+        "C": "Soiled",
+        "D": "Damaged"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Choose the correct meaning of 'mental' in this context: 'Regular exercise is good for both physical and mental health.'",
+      "options": {
+        "A": "Relating to the body",
+        "B": "Relating to the mind",
+        "C": "Relating to emotions",
+        "D": "Relating to behavior"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "What does 'decade' refer to in this sentence? 'He has lived in this city for over a decade.'",
+      "options": {
+        "A": "10 years",
+        "B": "10 months",
+        "C": "10 days",
+        "D": "10 weeks"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Choose the correct meaning of 'memory' in this context: 'I have a good memory of my childhood holidays.'",
+      "options": {
+        "A": "Storage device",
+        "B": "Recollection",
+        "C": "Ability to remember",
+        "D": "Monument"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "What does 'public' mean in this sentence? 'The information is available to the public.'",
+      "options": {
+        "A": "Private citizens",
+        "B": "Government officials",
+        "C": "Ordinary people in general",
+        "D": "Specific communities"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Choose the correct meaning of 'bureau' in this context: 'She works at the local tourism bureau.'",
+      "options": {
+        "A": "Office",
+        "B": "Desk",
+        "C": "Company",
+        "D": "Department"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What does 'senior' mean in this sentence? 'My grandfather is a senior citizen.'",
+      "options": {
+        "A": "Wealthy",
+        "B": "Respected",
+        "C": "Elderly",
+        "D": "Important"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Choose the correct meaning of 'differ' in this context: 'His opinion differs from mine on this issue.'",
+      "options": {
+        "A": "Is the same as",
+        "B": "Is similar to",
+        "C": "Is related to",
+        "D": "Is different from"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What does 'every' mean in this sentence? 'She visits her parents every Sunday.'",
+      "options": {
+        "A": "Some",
+        "B": "Each",
+        "C": "Most",
+        "D": "Few"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Choose the correct meaning of 'posted' in this context: 'He posted the letter this morning.'",
+      "options": {
+        "A": "Wrote",
+        "B": "Received",
+        "C": "Sent by mail",
+        "D": "Delivered"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "What does 'sample' mean in this sentence? 'Would you like to try a free sample of our new product?'",
+      "options": {
+        "A": "Example",
+        "B": "Small portion",
+        "C": "Model",
+        "D": "Advertisement"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Choose the correct meaning of 'impose' in this context: 'The government decided to impose new taxes.'",
+      "options": {
+        "A": "Remove",
+        "B": "Suggest",
+        "C": "Force upon",
+        "D": "Consider"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "What does 'notion' mean in this sentence? 'I disagree with the notion that money brings happiness.'",
+      "options": {
+        "A": "Idea",
+        "B": "Fact",
+        "C": "Proof",
+        "D": "Statement"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, how are volcanic islands formed?",
+      "options": {
+        "A": "By tectonic plates moving apart",
+        "B": "By underwater volcanoes erupting and building up lava",
+        "C": "By rising sea levels",
+        "D": "By sediment accumulation"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "What does the term 'endemism' refer to in the passage?",
+      "options": {
+        "A": "The process of islands forming in the ocean",
+        "B": "The adaption of plants to island environments",
+        "C": "Species that exist only in one particular place",
+        "D": "The theory developed by Charles Darwin"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to the passage, why do larger islands typically have more diverse ecosystems?",
+      "options": {
+        "A": "They are closer to mainland areas",
+        "B": "They have more endemic species",
+        "C": "They offer more habitats and resources",
+        "D": "They are less affected by climate"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "What disadvantage do islands closer to continents face, according to the passage?",
+      "options": {
+        "A": "They have fewer species",
+        "B": "They are more vulnerable to invasive species",
+        "C": "They experience more extreme climates",
+        "D": "They have less diverse ecosystems"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What is a microclimate as mentioned in the passage?",
+      "options": {
+        "A": "A type of island ecosystem",
+        "B": "A local atmospheric zone with different conditions from surrounding areas",
+        "C": "A tropical climate found on islands",
+        "D": "A climate created by human activities"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What example does the passage give of how mountains on islands affect their environments?",
+      "options": {
+        "A": "They create more diverse habitats",
+        "B": "They provide protection from storms",
+        "C": "They create rain shadows with different environments on opposite sides",
+        "D": "They increase overall rainfall on the island"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to the passage, why are island ecosystems particularly vulnerable?",
+      "options": {
+        "A": "Because they have too many endemic species",
+        "B": "Because they are too small and isolated",
+        "C": "Because they have extreme climates",
+        "D": "Because they are close to human populations"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to the passage, what has caused the extinction of many island species?",
+      "options": {
+        "A": "Natural disasters",
+        "B": "Climate change",
+        "C": "Introduction of non-native species",
+        "D": "Rising sea levels"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Why are island ecosystems valuable to scientists, according to the passage?",
+      "options": {
+        "A": "They provide natural resources for human use",
+        "B": "They offer insights into evolutionary processes",
+        "C": "They are easier to study than mainland ecosystems",
+        "D": "They contain more species than mainland areas"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the main purpose of this passage?",
+      "options": {
+        "A": "To explain how volcanoes create islands",
+        "B": "To compare different types of island ecosystems",
+        "C": "To describe how islands form and develop unique ecosystems",
+        "D": "To discuss the threats facing island environments"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
