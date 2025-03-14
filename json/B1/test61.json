@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Rainbows are one of nature's most spectacular light shows that occur when sunlight and water droplets meet in the atmosphere. A rainbow forms when sunlight enters a water droplet, slows down, and bends, or refracts. The light then reflects off the inside of the droplet and exits, separating into the different colors we see. This natural phenomenon requires specific conditions: sunlight, water droplets in the air, and the viewer positioned with their back to the sun.<br><br>(2) The science behind rainbows begins with understanding that white light from the sun is actually composed of all the colors of the visible spectrum. When this light passes through a water droplet, each color bends at a slightly different angle because each color has a different wavelength. Red light has the longest wavelength and bends the least, while violet has the shortest wavelength and bends the most. This separation of colors is called dispersion and is what creates the distinctive band of colors in a rainbow.<br><br>(3) The traditional rainbow displays seven colors: red, orange, yellow, green, blue, indigo, and violet. These colors always appear in the same order because of their different wavelengths. When conditions are perfect, observers may see a double rainbow. The secondary rainbow forms when light reflects twice inside water droplets, causing the colors to appear in reverse order and making the secondary bow fainter than the primary one. The area between the two rainbows often appears darker, a phenomenon known as Alexander's dark band.<br><br>(4) Light itself is a form of electromagnetic radiation that travels in waves. These waves move at an incredible speed—approximately 186,000 miles per second in a vacuum. When light travels through different materials, such as water or glass, it slows down and can change direction. This change in direction is what causes the bending, or refraction, that is essential to rainbow formation. The same principle explains why a pencil appears to bend when placed in a glass of water.<br><br>(5) Understanding rainbows has practical applications beyond appreciating their beauty. Scientists use similar principles of light refraction and dispersion in many technologies, from optical instruments like microscopes and telescopes to fiber optic communications. The study of light behavior has led to advances in fields ranging from astronomy to medicine. For instance, spectroscopy—analyzing how matter interacts with light—helps scientists identify elements in distant stars, examine blood samples, and develop new materials with specific properties.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct form. Tom _____ television when I called him yesterday.",
+      "options": {
+        "A": "watched",
+        "B": "watches",
+        "C": "was watching",
+        "D": "is watching"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the correct option. By the time we arrive, the movie _____.",
+      "options": {
+        "A": "will start",
+        "B": "starts",
+        "C": "will have started",
+        "D": "is starting"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "If I will see her, I will tell her the news.",
+        "B": "If I see her, I will tell her the news.",
+        "C": "If I would see her, I will tell her the news.",
+        "D": "If I seen her, I will tell her the news."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct passive form. The house _____ last year.",
+      "options": {
+        "A": "was built",
+        "B": "is built",
+        "C": "built",
+        "D": "has built"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Select the correct article. She gave me _____ useful advice about the project.",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article needed"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Choose the correct question tag. Mary is coming to the party, _____?",
+      "options": {
+        "A": "is she",
+        "B": "isn't she",
+        "C": "does she",
+        "D": "doesn't she"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Select the correct relative pronoun. The woman _____ works next door is a doctor.",
+      "options": {
+        "A": "which",
+        "B": "whose",
+        "C": "who",
+        "D": "whom"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct option. I _____ call you tomorrow when I have more information.",
+      "options": {
+        "A": "might",
+        "B": "shall",
+        "C": "would",
+        "D": "must"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence uses the present perfect correctly?",
+      "options": {
+        "A": "I have seen that movie last week.",
+        "B": "I have seen that movie yesterday.",
+        "C": "I have seen that movie three times.",
+        "D": "I have seen that movie tomorrow."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Select the correct preposition. The package should arrive _____ Tuesday.",
+      "options": {
+        "A": "in",
+        "B": "at",
+        "C": "on",
+        "D": "by"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct conjunction. I wanted to go out, _____ it was raining heavily.",
+      "options": {
+        "A": "because",
+        "B": "so",
+        "C": "but",
+        "D": "and"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the correct comparative form. This book is _____ than the one I read last month.",
+      "options": {
+        "A": "more interesting",
+        "B": "interestinger",
+        "C": "most interesting",
+        "D": "the more interesting"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Which sentence is in the correct tense? 'By next year, they _____ in that house for ten years.'",
+      "options": {
+        "A": "will live",
+        "B": "will be living",
+        "C": "will have lived",
+        "D": "would have lived"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct form of the verb. She _____ me to help her with the project.",
+      "options": {
+        "A": "ask",
+        "B": "asking",
+        "C": "asks",
+        "D": "asked"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the correct modal verb. You _____ smoke in the hospital.",
+      "options": {
+        "A": "don't have to",
+        "B": "mustn't",
+        "C": "shouldn't",
+        "D": "couldn't"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Complete the sentence with the correct expression. 'After the argument, they finally _____ their differences.'",
+      "options": {
+        "A": "made up",
+        "B": "made out",
+        "C": "made off",
+        "D": "made over"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct phrasal verb. 'Can you _____ the TV? I want to watch the news.'",
+      "options": {
+        "A": "turn up",
+        "B": "turn down",
+        "C": "turn on",
+        "D": "turn in"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the correct preposition. 'She always arrives _____ time for meetings.'",
+      "options": {
+        "A": "in",
+        "B": "on",
+        "C": "at",
+        "D": "by"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct collocation. 'He _____ a deep breath before diving into the pool.'",
+      "options": {
+        "A": "did",
+        "B": "made",
+        "C": "had",
+        "D": "took"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the appropriate response to 'How do you do?'",
+      "options": {
+        "A": "I'm fine, thank you.",
+        "B": "How do you do?",
+        "C": "I'm doing well.",
+        "D": "Not bad."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the correct linking word. 'He was tired; _____, he continued working.'",
+      "options": {
+        "A": "therefore",
+        "B": "moreover",
+        "C": "nevertheless",
+        "D": "furthermore"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Select the correct word to complete this idiom. 'Don't count your chickens before they _____.'",
+      "options": {
+        "A": "lay",
+        "B": "hatch",
+        "C": "grow",
+        "D": "fly"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the most appropriate word to complete the sentence. 'Let's _____ a date for our next meeting.'",
+      "options": {
+        "A": "put",
+        "B": "make",
+        "C": "do",
+        "D": "set"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Select the correct expression to offer assistance.",
+      "options": {
+        "A": "Should I help you?",
+        "B": "Would you like a hand?",
+        "C": "Do I help you?",
+        "D": "Can I to help you?"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct word order. 'She _____ a complaint to the manager.'",
+      "options": {
+        "A": "made yesterday",
+        "B": "yesterday made",
+        "C": "did yesterday",
+        "D": "yesterday did"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Which sentence uses 'open' correctly?",
+      "options": {
+        "A": "Please open on the window.",
+        "B": "Please open the window.",
+        "C": "Please open to the window.",
+        "D": "Please open for the window."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the correct meaning of 'strike' in this sentence: 'Workers decided to strike for better wages.'",
+      "options": {
+        "A": "to hit",
+        "B": "to stop working as a protest",
+        "C": "to make a sudden attack",
+        "D": "to discover something"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Select the correct form of 'decide' in this sentence: 'Have you _____ where to go for vacation yet?'",
+      "options": {
+        "A": "decide",
+        "B": "deciding",
+        "C": "decides",
+        "D": "decided"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which phrase correctly uses 'supply'?",
+      "options": {
+        "A": "The store will supply you the tools.",
+        "B": "The store will supply with you the tools.",
+        "C": "The store will supply the tools to you.",
+        "D": "The store will supply for you the tools."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the correct meaning of 'locate' in this context: 'We need to locate the source of the problem.'",
+      "options": {
+        "A": "to put something in a particular place",
+        "B": "to find the position of something",
+        "C": "to build or establish",
+        "D": "to move something"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Which sentence uses 'ski' correctly?",
+      "options": {
+        "A": "We went to ski on the mountain last weekend.",
+        "B": "We went to ski at the mountain last weekend.",
+        "C": "We went to ski over the mountain last weekend.",
+        "D": "We went to ski by the mountain last weekend."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Select the correct phrase with 'stop':",
+      "options": {
+        "A": "Please stop to talk.",
+        "B": "Please stop talk.",
+        "C": "Please stop talking.",
+        "D": "Please stop for talk."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Choose the correct meaning of 'recognize' in this sentence: 'I didn't recognize him with his new haircut.'",
+      "options": {
+        "A": "to know someone or something from a previous encounter",
+        "B": "to accept someone or something as legal",
+        "C": "to appreciate someone's work",
+        "D": "to notice something for the first time"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Which sentence uses 'prepare' correctly?",
+      "options": {
+        "A": "She is preparing for her exam.",
+        "B": "She is preparing to her exam.",
+        "C": "She is preparing on her exam.",
+        "D": "She is preparing at her exam."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Select the correct form of 'send' in this sentence: 'I have _____ the package yesterday.'",
+      "options": {
+        "A": "send",
+        "B": "sent",
+        "C": "sending",
+        "D": "sends"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Choose the correct meaning of 'fail' in this context: 'The business failed after just six months.'",
+      "options": {
+        "A": "to not pass a test",
+        "B": "to stop working properly",
+        "C": "to be unsuccessful",
+        "D": "to disappoint someone"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Which phrase correctly uses 'warn'?",
+      "options": {
+        "A": "The teacher warned the students about cheating.",
+        "B": "The teacher warned the students for cheating.",
+        "C": "The teacher warned the students of cheating.",
+        "D": "The teacher warned the students to cheating."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Select the correct meaning of 'settle' in this sentence: 'It took us a week to settle into our new home.'",
+      "options": {
+        "A": "to resolve a disagreement",
+        "B": "to pay a bill",
+        "C": "to become comfortable in a new place",
+        "D": "to decide something"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Which sentence uses 'search' correctly?",
+      "options": {
+        "A": "The police searched to evidence at the crime scene.",
+        "B": "The police searched for evidence at the crime scene.",
+        "C": "The police searched with evidence at the crime scene.",
+        "D": "The police searched on evidence at the crime scene."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Choose the correct meaning of 'slide' in this context: 'Be careful not to slide on the icy path.'",
+      "options": {
+        "A": "to move down a slope on purpose",
+        "B": "to move smoothly on a surface without control",
+        "C": "to insert something into a narrow space",
+        "D": "to decrease gradually"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, what is required for a rainbow to form?",
+      "options": {
+        "A": "Rain, wind, and clear skies",
+        "B": "Sunlight, water droplets, and specific viewer position",
+        "C": "Water droplets, clouds, and high altitude",
+        "D": "Sunlight, specific humidity levels, and fog"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "What happens when sunlight enters a water droplet?",
+      "options": {
+        "A": "It accelerates and brightens",
+        "B": "It slows down and bends",
+        "C": "It splits completely into separate beams",
+        "D": "It changes its electromagnetic properties"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 2, why does each color bend at a different angle?",
+      "options": {
+        "A": "Because each color has a different wavelength",
+        "B": "Because each color has a different temperature",
+        "C": "Because each color has a different intensity",
+        "D": "Because each color reflects differently"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Which color has the longest wavelength according to the passage?",
+      "options": {
+        "A": "Violet",
+        "B": "Blue",
+        "C": "Yellow",
+        "D": "Red"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What causes a secondary rainbow to form?",
+      "options": {
+        "A": "Light reflecting once inside water droplets",
+        "B": "Light reflecting twice inside water droplets",
+        "C": "Light refracting at steeper angles",
+        "D": "Light combining with atmospheric dust"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What is Alexander's dark band?",
+      "options": {
+        "A": "The violet section of the rainbow",
+        "B": "A special type of rainbow only seen at night",
+        "C": "The darker area between a primary and secondary rainbow",
+        "D": "A band of light that appears above rainbows"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to paragraph 4, how fast does light travel in a vacuum?",
+      "options": {
+        "A": "About 18,600 miles per second",
+        "B": "About 186,000 miles per second",
+        "C": "About 1,860 miles per second",
+        "D": "About 1,860,000 miles per second"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What happens when light travels through different materials like water or glass?",
+      "options": {
+        "A": "It speeds up and changes color",
+        "B": "It slows down and can change direction",
+        "C": "It becomes more intense and concentrated",
+        "D": "It loses energy and becomes dimmer"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to the final paragraph, which of the following is NOT mentioned as a practical application of light principles?",
+      "options": {
+        "A": "Fiber optic communications",
+        "B": "Microscopes and telescopes",
+        "C": "Weather prediction systems",
+        "D": "Spectroscopy"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is spectroscopy used for according to the passage?",
+      "options": {
+        "A": "Creating artificial rainbows",
+        "B": "Measuring the speed of light",
+        "C": "Identifying elements in distant stars",
+        "D": "Calculating the distance between planets"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
