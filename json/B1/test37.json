@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Climate change is having profound effects on wildlife populations around the world. As global temperatures continue to rise, many animal species are finding it increasingly difficult to adapt to their changing environments. Some animals are moving to new habitats, while others are altering their behavior or physical characteristics to survive.<br><br>(2) One of the most visible impacts of climate change is on polar animals. Species such as polar bears are losing their hunting grounds as Arctic sea ice melts. These magnificent creatures depend on sea ice to hunt seals, their primary food source. With less ice available, polar bears must swim longer distances, leading to exhaustion and, in some cases, starvation. Similarly, penguins in Antarctica are experiencing changes in their breeding patterns due to shifting ice conditions.<br><br>(3) Marine life is also suffering from the effects of climate change. As ocean temperatures rise and water becomes more acidic due to increased carbon dioxide levels, coral reefs are experiencing mass bleaching events. These reefs serve as crucial habitats for thousands of marine species, and their decline threatens entire underwater ecosystems. Additionally, fish populations are moving toward cooler waters, disrupting fishing industries and marine food chains.<br><br>(4) In forest ecosystems, changing weather patterns are affecting the life cycles of many animals. Birds are migrating earlier in spring and later in fall, sometimes becoming misaligned with the availability of their food sources. Mammals that hibernate, such as bears, may wake up earlier due to warmer winters, only to find that their food resources are not yet available. Insects are also experiencing changes in their development patterns, which can impact the animals that feed on them.<br><br>(5) Conservation efforts are increasingly focused on helping animals adapt to climate change. These include creating wildlife corridors to allow species to move to more suitable habitats, breeding programs for endangered species, and reducing other stressors like habitat loss and pollution. Scientists are also monitoring animal populations closely to better understand how they are responding to climate change and what measures might help protect them in the future.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which form of the verb is correct? She _____ to the store yesterday.",
+      "options": {
+        "A": "go",
+        "B": "went",
+        "C": "goes",
+        "D": "going"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct preposition: The book is _____ the table.",
+      "options": {
+        "A": "in",
+        "B": "at",
+        "C": "on",
+        "D": "by"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the correct tense: By the time we arrive, they _____ dinner.",
+      "options": {
+        "A": "will have finished",
+        "B": "will finish",
+        "C": "are finishing",
+        "D": "finish"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence uses the correct article?",
+      "options": {
+        "A": "She is best student in class.",
+        "B": "He bought a umbrella.",
+        "C": "We saw an interesting movie last night.",
+        "D": "I need the advice about my homework."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct modal verb: You _____ brush your teeth twice a day.",
+      "options": {
+        "A": "would",
+        "B": "might",
+        "C": "should",
+        "D": "will"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Identify the correct comparative form: This book is _____ than the one I read last week.",
+      "options": {
+        "A": "more interesting",
+        "B": "interestinger",
+        "C": "most interesting",
+        "D": "the more interesting"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Select the correct passive voice form: The email _____ yesterday.",
+      "options": {
+        "A": "is sent",
+        "B": "was sent",
+        "C": "has sent",
+        "D": "had sent"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "If I will see him, I will tell him.",
+        "B": "If I see him, I will tell him.",
+        "C": "If I see him, I would tell him.",
+        "D": "If I saw him, I will tell him."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct relative pronoun: The person _____ called you is my brother.",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "what",
+        "D": "whose"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Select the sentence with the correct subject-verb agreement:",
+      "options": {
+        "A": "The team are playing well today.",
+        "B": "The team is playing well today.",
+        "C": "The team play well today.",
+        "D": "The team were playing well today."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Which sentence uses the correct form of the verb?",
+      "options": {
+        "A": "I have never been seeing that movie.",
+        "B": "I never seen that movie.",
+        "C": "I have never saw that movie.",
+        "D": "I have never seen that movie."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Choose the correct preposition: We'll meet _____ Friday _____ 3 o'clock.",
+      "options": {
+        "A": "on, at",
+        "B": "in, at",
+        "C": "at, on",
+        "D": "in, in"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Which sentence uses the correct word order?",
+      "options": {
+        "A": "I know where is the restaurant.",
+        "B": "I know where the restaurant is.",
+        "C": "I know the restaurant where is.",
+        "D": "I know is where the restaurant."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Select the correct form: If I _____ rich, I would buy a big house.",
+      "options": {
+        "A": "am",
+        "B": "will be",
+        "C": "were",
+        "D": "would be"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Choose the correct past tense form:",
+      "options": {
+        "A": "She has wrote a letter.",
+        "B": "She have written a letter.",
+        "C": "She has written a letter.",
+        "D": "She has writen a letter."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Complete the sentence: Let's go to the café _____ a cup of coffee.",
+      "options": {
+        "A": "have",
+        "B": "to have",
+        "C": "for having",
+        "D": "having"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct phrasal verb: Can you _____ the children while I'm out?",
+      "options": {
+        "A": "look at",
+        "B": "look for",
+        "C": "look after",
+        "D": "look up"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the correct expression: I'm sorry, I didn't _____ what you said.",
+      "options": {
+        "A": "catch up",
+        "B": "catch on",
+        "C": "catch out",
+        "D": "catch"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct idiom: The test was very easy. It was a _____.",
+      "options": {
+        "A": "piece of cake",
+        "B": "cup of tea",
+        "C": "slice of bread",
+        "D": "drop of water"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Complete the sentence with the correct collocation: She _____ a decision to change jobs.",
+      "options": {
+        "A": "did",
+        "B": "took",
+        "C": "made",
+        "D": "had"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the correct expression: I need to _____ some money from the bank.",
+      "options": {
+        "A": "take out",
+        "B": "take off",
+        "C": "take away",
+        "D": "take over"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Select the correct preposition: The movie is based _____ a true story.",
+      "options": {
+        "A": "in",
+        "B": "of",
+        "C": "by",
+        "D": "on"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct linking phrase: _____, we decided to cancel the picnic.",
+      "options": {
+        "A": "Despite of the rain",
+        "B": "Although it was raining",
+        "C": "Because of the rain",
+        "D": "Even the rain"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Complete the sentence with an appropriate expression: I don't think we'll finish on time, but let's _____ and see what happens.",
+      "options": {
+        "A": "wait around",
+        "B": "take a chance",
+        "C": "keep at it",
+        "D": "give it a shot"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct word to complete the sentence: Could you please _____ me a favor and water my plants while I'm away?",
+      "options": {
+        "A": "get",
+        "B": "do",
+        "C": "make",
+        "D": "give"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What is the correct meaning of 'mean' in this sentence: 'What do you mean by that comment?'",
+      "options": {
+        "A": "to be unkind",
+        "B": "to intend to express",
+        "C": "to calculate an average",
+        "D": "to be stingy"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the correct usage of 'matter' in a sentence:",
+      "options": {
+        "A": "It doesn't matter what time we arrive.",
+        "B": "I need to matter the situation quickly.",
+        "C": "We should matter more attention to details.",
+        "D": "The teacher will matter our homework tomorrow."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Select the sentence with the correct usage of 'mind':",
+      "options": {
+        "A": "I mind to the store yesterday.",
+        "B": "Would you mind closing the window?",
+        "C": "She minds very intelligent.",
+        "D": "They mind at the restaurant last night."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "What is the correct meaning of 'care' in this sentence: 'I don't care what movie we watch.'",
+      "options": {
+        "A": "to look after someone",
+        "B": "to be worried about",
+        "C": "to be interested in or concerned about",
+        "D": "to like very much"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the correct usage of 'seem' in a sentence:",
+      "options": {
+        "A": "The food seems delicious.",
+        "B": "I will seem you tomorrow.",
+        "C": "She seemed the door shut.",
+        "D": "They seem the concert last night."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Select the sentence with the correct usage of 'appear':",
+      "options": {
+        "A": "He appeared the magic trick for us.",
+        "B": "The actor will appear in a new movie next month.",
+        "C": "I appeared my homework to the teacher.",
+        "D": "She appears the piano very well."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "What is the correct meaning of 'happen' in this sentence: 'What happened to your car?'",
+      "options": {
+        "A": "to occur by chance",
+        "B": "to take place as a result of planning",
+        "C": "to begin a journey",
+        "D": "to appear suddenly"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Choose the correct usage of 'occur' in a sentence:",
+      "options": {
+        "A": "The earthquake occurred at midnight.",
+        "B": "She will occur a new job next week.",
+        "C": "I occurred to visit my grandmother.",
+        "D": "They occur dinner at 7 PM."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Select the sentence with the correct usage of 'exist':",
+      "options": {
+        "A": "I exist to the park every Sunday.",
+        "B": "Dinosaurs existed millions of years ago.",
+        "C": "She existed her opinion during the meeting.",
+        "D": "They exist a party next weekend."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "What is the correct meaning of 'become' in this sentence: 'She became a doctor after years of study.'",
+      "options": {
+        "A": "to look attractive",
+        "B": "to change into",
+        "C": "to arrive at a place",
+        "D": "to belong to someone"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Choose the correct usage of 'grow' in a sentence:",
+      "options": {
+        "A": "The children grew quickly last year.",
+        "B": "I grow to the cinema last night.",
+        "C": "She grows her keys in her purse.",
+        "D": "They grow dinner every evening."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Select the sentence with the correct usage of 'increase':",
+      "options": {
+        "A": "The company increased profits by 10% last year.",
+        "B": "I increased to my friend's house.",
+        "C": "She increases the piano very well.",
+        "D": "They increase dinner at 8 PM."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "What is the correct meaning of 'decrease' in this sentence: 'The number of students decreased after the holiday.'",
+      "options": {
+        "A": "to become smaller in size, amount, or number",
+        "B": "to refuse politely",
+        "C": "to move downward suddenly",
+        "D": "to stop completely"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Choose the correct usage of 'rise' in a sentence:",
+      "options": {
+        "A": "The sun rises in the east.",
+        "B": "I rise the book on the shelf.",
+        "C": "She rises her children well.",
+        "D": "They rise a new car last month."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Select the sentence with the correct usage of 'fall':",
+      "options": {
+        "A": "She fell her bag on the floor.",
+        "B": "The leaves fall from the trees in autumn.",
+        "C": "I fall my friend at the mall yesterday.",
+        "D": "They fall dinner at 6 PM."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what are some animals doing to survive climate change?",
+      "options": {
+        "A": "Developing new hunting techniques",
+        "B": "Moving to different habitats or changing behavior",
+        "C": "Building more resilient nests",
+        "D": "Consuming different types of food"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Based on paragraph 2, why are polar bears facing difficulties?",
+      "options": {
+        "A": "They cannot find enough seals to eat",
+        "B": "Their fur is not thick enough for colder temperatures",
+        "C": "They must swim longer distances as sea ice melts",
+        "D": "They are being hunted by predators"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, what is happening to coral reefs?",
+      "options": {
+        "A": "They are growing at unprecedented rates",
+        "B": "They are experiencing mass bleaching events",
+        "C": "They are being damaged by fishing practices",
+        "D": "They are adapting well to warmer temperatures"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "In paragraph 3, why are fish populations moving toward cooler waters?",
+      "options": {
+        "A": "To escape predators",
+        "B": "To find more abundant food sources",
+        "C": "Due to rising ocean temperatures",
+        "D": "To find better breeding grounds"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Based on paragraph 4, what problem might hibernating mammals face?",
+      "options": {
+        "A": "Finding appropriate places to hibernate",
+        "B": "Waking up earlier to find food not yet available",
+        "C": "Being more vulnerable to predators",
+        "D": "Having to migrate to new territories"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to paragraph 4, how are birds affected by climate change?",
+      "options": {
+        "A": "They are losing their habitats",
+        "B": "They cannot build strong enough nests",
+        "C": "Their migration patterns are changing",
+        "D": "They are developing new flight patterns"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "In paragraph 5, what is one conservation effort mentioned to help animals adapt to climate change?",
+      "options": {
+        "A": "Relocating species to zoos",
+        "B": "Creating wildlife corridors",
+        "C": "Introducing non-native species",
+        "D": "Building artificial habitats"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What is the main purpose of this passage?",
+      "options": {
+        "A": "To argue that climate change is not affecting animals",
+        "B": "To describe how humans are being affected by climate change",
+        "C": "To explain how climate change is impacting animal populations",
+        "D": "To propose solutions to reverse climate change"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Which animals does the passage specifically mention as being affected by melting ice?",
+      "options": {
+        "A": "Whales and dolphins",
+        "B": "Bears and wolves",
+        "C": "Polar bears and penguins",
+        "D": "Seals and walruses"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "According to the passage, why is the decline of coral reefs concerning?",
+      "options": {
+        "A": "It affects tourism in coastal areas",
+        "B": "Coral has medicinal properties",
+        "C": "They serve as habitats for thousands of species",
+        "D": "It changes the color of the ocean"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
