@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Saving money is a fundamental financial habit that provides security and enables individuals to achieve their long-term goals. By setting aside a portion of income regularly, people create a financial buffer that can protect them during unexpected emergencies such as medical issues, car repairs, or sudden job loss. This practice of saving helps reduce stress and provides peace of mind knowing that resources are available when needed.<br><br>(2) Beyond emergency preparation, saving money allows individuals to make significant purchases without accumulating debt. Whether saving for a down payment on a house, a new vehicle, or higher education, having money set aside means avoiding high-interest loans that can burden finances for years. Additionally, saving for major expenses in advance gives people time to research options, compare prices, and make well-informed decisions rather than rushed purchases based on immediate needs.<br><br>(3) Perhaps the most important reason to save money is to prepare for retirement. With increasing life expectancy and uncertainty surrounding pension systems in many countries, personal savings have become essential for maintaining quality of life in later years. Financial experts typically recommend beginning retirement savings as early as possible to take advantage of compound interest, which allows even modest contributions to grow substantially over decades.<br><br>(4) Effective saving requires both discipline and strategy. Many financial advisors suggest following the 50/30/20 rule, which allocates 50% of income to necessities, 30% to wants, and 20% to savings and debt repayment. Automating savings through direct deposits can help maintain consistency by removing the temptation to spend. Additionally, exploring different savings vehicles such as high-yield savings accounts, certificates of deposit, or investment accounts can maximize returns depending on timeline and risk tolerance.<br><br>(5) While saving money offers numerous benefits, many people find it challenging to establish this habit in a consumer-oriented society that encourages immediate gratification. However, developing a savings mindset does not necessarily mean eliminating all pleasures or living frugally. Instead, it involves making thoughtful choices about spending priorities and recognizing that small, consistent actions can lead to significant financial security over time. By viewing saving as paying their future selves, individuals can balance current enjoyment with long-term financial well-being.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the sentence with the correct verb tense:",
+      "options": {
+        "A": "I have gone to the library yesterday.",
+        "B": "She is studying English since 2020.",
+        "C": "They will finished the project by next week.",
+        "D": "We visited our grandparents last weekend."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the sentence with the correct conditional form:",
+      "options": {
+        "A": "If I will have time tomorrow, I will call you.",
+        "B": "If I had more money, I will buy a new car.",
+        "C": "If she studies hard, she will pass the exam.",
+        "D": "If they would arrive early, we could go together."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence contains the correct comparative form?",
+      "options": {
+        "A": "This book is more interesting than the movie.",
+        "B": "She is taller than her sister, but her sister is more tall than their mother.",
+        "C": "The blue shirt is cheapest than the red one.",
+        "D": "The weather today is more better than yesterday."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the sentence with the correct article usage:",
+      "options": {
+        "A": "I saw an unique painting at the museum.",
+        "B": "He plays the guitar every evening.",
+        "C": "She is best student in our class.",
+        "D": "We had the dinner at a expensive restaurant."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Select the sentence with the correct preposition:",
+      "options": {
+        "A": "The book is at the table.",
+        "B": "We arrived to the airport on time.",
+        "C": "She has been working here since three years.",
+        "D": "They're waiting for us at the entrance."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which sentence uses the passive voice correctly?",
+      "options": {
+        "A": "The letter was wrote last week.",
+        "B": "The window has broken by the storm.",
+        "C": "The cake was eaten by the children.",
+        "D": "The car is repairing by the mechanic."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the sentence with the correct subject-verb agreement:",
+      "options": {
+        "A": "The news are very surprising.",
+        "B": "Each of the students have completed the assignment.",
+        "C": "Neither of the options are acceptable.",
+        "D": "Economics is my favorite subject."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the sentence with the correct pronoun usage:",
+      "options": {
+        "A": "Between you and I, the test was quite difficult.",
+        "B": "She gave the books to John and I.",
+        "C": "The teacher asked my friend and I to help.",
+        "D": "This is a matter between her and me."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence uses the modal verb correctly?",
+      "options": {
+        "A": "You must to finish your homework before dinner.",
+        "B": "She can swimming very well.",
+        "C": "They might be late because of the traffic.",
+        "D": "We should to visit our grandparents more often."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the sentence with the correct use of the present perfect tense:",
+      "options": {
+        "A": "I have seen that movie last week.",
+        "B": "She has lived in Paris for three years now.",
+        "C": "They have went to the supermarket.",
+        "D": "We have finish our homework already."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Select the sentence with the correct form of reported speech:",
+      "options": {
+        "A": "She said she will come tomorrow.",
+        "B": "He told me he is feeling sick yesterday.",
+        "C": "They said they had finished the project the day before.",
+        "D": "The teacher said we must to study harder."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence contains the correct relative pronoun?",
+      "options": {
+        "A": "The woman who car was stolen called the police.",
+        "B": "The house which I grew up in is being sold.",
+        "C": "The person who's responsible should be here soon.",
+        "D": "That's the restaurant what serves the best pizza."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the sentence with the correct use of gerund or infinitive:",
+      "options": {
+        "A": "I enjoy to read books in my free time.",
+        "B": "She decided buying a new car next month.",
+        "C": "They avoid driving during rush hour.",
+        "D": "We hope finding a solution soon."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence has the correct punctuation?",
+      "options": {
+        "A": "After we visited the museum we went to a restaurant.",
+        "B": "Although, it was raining we still went for a walk.",
+        "C": "When the movie ended, everyone applauded.",
+        "D": "If you need help, please call me, and I will come."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the sentence with the correct use of articles:",
+      "options": {
+        "A": "She plays piano very well.",
+        "B": "He gave me an useful advice.",
+        "C": "The dinner was delicious.",
+        "D": "We went to a movies last night."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Complete the sentence: She doesn't have much time, _____ she agreed to help us.",
+      "options": {
+        "A": "so",
+        "B": "because",
+        "C": "but",
+        "D": "therefore"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct phrasal verb to complete the sentence: Could you please _____ this form before the interview?",
+      "options": {
+        "A": "fill in",
+        "B": "fill out",
+        "C": "fill up",
+        "D": "fill down"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the correct option to complete the sentence: I'm not sure if I'll go to the party. It _____ on how I feel.",
+      "options": {
+        "A": "relies",
+        "B": "depends",
+        "C": "bases",
+        "D": "consists"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct expression: She wasn't feeling well, so she decided to _____ the meeting.",
+      "options": {
+        "A": "put off",
+        "B": "call off",
+        "C": "take off",
+        "D": "run off"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the appropriate word to complete the sentence: The company is looking for someone with _____ in marketing.",
+      "options": {
+        "A": "experiment",
+        "B": "experiencing",
+        "C": "experience",
+        "D": "experimented"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the correct collocation: You should _____ an appointment with your doctor.",
+      "options": {
+        "A": "do",
+        "B": "make",
+        "C": "take",
+        "D": "have"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Select the most appropriate response to the question 'Would you like some coffee?'",
+      "options": {
+        "A": "Yes, I'd love to.",
+        "B": "Yes, I'd love some.",
+        "C": "Yes, I'd love it.",
+        "D": "Yes, I like."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct option: I need to _____ some money from the bank today.",
+      "options": {
+        "A": "remove",
+        "B": "withdraw",
+        "C": "extract",
+        "D": "take out"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Select the correct phrase to complete the sentence: I'm not sure if I can come to the party. I'll let you know _____ today.",
+      "options": {
+        "A": "after",
+        "B": "by",
+        "C": "later",
+        "D": "in"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct option to complete this polite request: _____ if I opened the window?",
+      "options": {
+        "A": "Would you mind",
+        "B": "Do you mind",
+        "C": "Could you mind",
+        "D": "Might you mind"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What is the meaning of 'culture' in this sentence: 'Japan has a rich culture that dates back thousands of years.'?",
+      "options": {
+        "A": "The process of growing plants",
+        "B": "The customs, arts, and social institutions of a nation",
+        "C": "A scientific experiment",
+        "D": "A type of bacteria grown in a laboratory"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the sentence where 'serve' is used correctly:",
+      "options": {
+        "A": "The restaurant serves lunch from 12 to 3 PM.",
+        "B": "She served the exam with high grades.",
+        "C": "They serve early to catch the train.",
+        "D": "I will serve my homework tomorrow."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What does 'apologize' mean?",
+      "options": {
+        "A": "To explain something in detail",
+        "B": "To ask for permission",
+        "C": "To express regret for doing something wrong",
+        "D": "To refuse an offer politely"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Select the sentence where 'expect' is used correctly:",
+      "options": {
+        "A": "I expect my keys on the table.",
+        "B": "We're expecting a baby in June.",
+        "C": "She expected the bus stop for an hour.",
+        "D": "They expect to the party yesterday."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the correct meaning of 'join' in this sentence: 'Would you like to join us for dinner tonight?'",
+      "options": {
+        "A": "To connect two things together",
+        "B": "To become a member of a group",
+        "C": "To accompany someone for an activity",
+        "D": "To mix two ingredients"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "In which sentence is 'develop' used correctly?",
+      "options": {
+        "A": "She developed the light before leaving.",
+        "B": "The photographer will develop the photos tomorrow.",
+        "C": "They developed to the mountain last weekend.",
+        "D": "I develop sleep every night."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "What does 'report' mean in this sentence: 'The journalist will report on the election results.'?",
+      "options": {
+        "A": "To provide an official document about something",
+        "B": "To tell the police about a crime",
+        "C": "To give information about an event or situation",
+        "D": "To return to a place"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Choose the sentence where 'walk' is used correctly:",
+      "options": {
+        "A": "She walks her dog every morning.",
+        "B": "They walked the movie last night.",
+        "C": "He will walk the exam next week.",
+        "D": "I walk my coffee hot."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What does 'specialize' mean?",
+      "options": {
+        "A": "To become very general",
+        "B": "To focus on and become expert in a particular field",
+        "C": "To change completely",
+        "D": "To speak in public"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Select the sentence where 'pick' is used correctly:",
+      "options": {
+        "A": "She picked happiness after the sad news.",
+        "B": "I need to pick my knowledge of Spanish.",
+        "C": "They picked early to avoid traffic.",
+        "D": "He picked some flowers from the garden."
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What is the meaning of 'safety' in this sentence: 'Always wear a helmet for safety when riding a bicycle.'?",
+      "options": {
+        "A": "The state of being comfortable",
+        "B": "The state of being protected from danger or harm",
+        "C": "The quality of being polite",
+        "D": "The feeling of happiness"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Choose the sentence where 'dance' is used as a noun:",
+      "options": {
+        "A": "They dance every weekend at the club.",
+        "B": "She will dance at her wedding.",
+        "C": "The dance lasted for three hours.",
+        "D": "I don't know how to dance very well."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "What does 'attempt' mean?",
+      "options": {
+        "A": "To try to do something, especially something difficult",
+        "B": "To finish something successfully",
+        "C": "To avoid doing something",
+        "D": "To explain something in detail"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "In which sentence is 'judge' used correctly?",
+      "options": {
+        "A": "Don't judge the book by its cover.",
+        "B": "She judged the bus to work.",
+        "C": "They judge dinner at 7 PM.",
+        "D": "I will judge my room later."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Select the correct meaning of 'answer' in this sentence: 'He couldn't find the answer to the math problem.'",
+      "options": {
+        "A": "A question asked for information",
+        "B": "A solution to a problem or question",
+        "C": "A response to a letter",
+        "D": "An explanation for bad behavior"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, saving money provides:",
+      "options": {
+        "A": "Opportunities for immediate spending",
+        "B": "A way to impress others",
+        "C": "Protection during emergencies",
+        "D": "Better interest rates from banks"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Based on paragraph 2, what is an advantage of saving for major purchases?",
+      "options": {
+        "A": "It allows people to buy more expensive items",
+        "B": "It helps avoid accumulating debt",
+        "C": "It makes shopping more enjoyable",
+        "D": "It forces retailers to lower prices"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to the passage, why is saving for retirement especially important now?",
+      "options": {
+        "A": "Because people generally don't enjoy working",
+        "B": "Because retirement homes are becoming more expensive",
+        "C": "Because of increasing life expectancy and uncertainty about pension systems",
+        "D": "Because banks offer better interest rates for retirement accounts"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "The 50/30/20 rule mentioned in paragraph 4 suggests allocating what percentage to savings and debt repayment?",
+      "options": {
+        "A": "50%",
+        "B": "30%",
+        "C": "20%",
+        "D": "10%"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What strategy does the passage suggest to help maintain consistency in saving?",
+      "options": {
+        "A": "Setting strict budgets",
+        "B": "Using credit cards for all purchases",
+        "C": "Keeping money in cash at home",
+        "D": "Automating savings through direct deposits"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to paragraph 5, what makes saving money challenging for many people?",
+      "options": {
+        "A": "Low income levels",
+        "B": "Lack of financial education",
+        "C": "A consumer-oriented society that encourages immediate gratification",
+        "D": "Complex banking systems"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What does the passage suggest about the relationship between saving and lifestyle?",
+      "options": {
+        "A": "Saving requires eliminating all pleasures",
+        "B": "Saving and enjoying life are completely incompatible",
+        "C": "Saving involves making thoughtful choices about spending priorities",
+        "D": "People who save are generally unhappier"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to the passage, what is a benefit of compound interest?",
+      "options": {
+        "A": "It allows banks to offer better loans",
+        "B": "It helps even modest contributions grow substantially over time",
+        "C": "It makes saving more exciting",
+        "D": "It reduces the need to save consistently"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What metaphor does the passage use to describe saving money?",
+      "options": {
+        "A": "Building a fortress",
+        "B": "Growing a garden",
+        "C": "Climbing a mountain",
+        "D": "Paying your future self"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the main purpose of this passage?",
+      "options": {
+        "A": "To criticize people who don't save enough money",
+        "B": "To explain various investment strategies",
+        "C": "To explain the importance and benefits of saving money",
+        "D": "To compare saving habits across different countries"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
