@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The American Civil War (1861-1865) stands as one of the most significant conflicts in United States history, fundamentally reshaping the nation's political, social, and economic landscape. While many factors contributed to this devastating war, the issues of slavery, states' rights, and economic differences between the North and South were central to the conflict that divided the nation.<br><br>(2) Slavery was perhaps the most divisive issue leading to the Civil War. Northern states had gradually abolished slavery, while the Southern economy remained heavily dependent on slave labor for cotton production. As the nation expanded westward, tensions rose over whether new territories would allow slavery. The Missouri Compromise of 1820, the Compromise of 1850, and the Kansas-Nebraska Act of 1854 were all attempts to resolve these tensions, but ultimately failed to provide lasting solutions.<br><br>(3) The debate over states' rights also fueled the conflict. Southern states argued that the federal government had no authority to regulate slavery within their borders, viewing such attempts as violations of their sovereignty. When Abraham Lincoln, who opposed the expansion of slavery, was elected president in 1860, seven Southern states seceded from the Union, forming the Confederate States of America. They believed that states had the right to leave the Union if their interests were threatened.<br><br>(4) The war's effects were profound and far-reaching. Most immediately, it resulted in the abolition of slavery through the Thirteenth Amendment to the Constitution in 1865. Additionally, the conflict claimed over 600,000 lives, more than all other American wars combined up to that point. The South's economy and infrastructure were devastated, requiring years of reconstruction, while the North experienced industrial growth and economic expansion.<br><br>(5) Perhaps most significantly, the Civil War permanently altered the relationship between the federal government and the states. The Union victory established that states could not secede, strengthening federal authority over the states. The Fourteenth and Fifteenth Amendments expanded civil rights protections and granted voting rights to former slaves, though full equality would not be realized for another century. These constitutional changes laid the groundwork for the modern American government and continue to shape legal and political debates today.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct verb form to complete the sentence: \"By the time we arrived at the station, the train _____.\"",
+      "options": {
+        "A": "already left",
+        "B": "was already leaving",
+        "C": "had already left",
+        "D": "has already left"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the correct preposition: \"The children are excited _____ going to the zoo tomorrow.\"",
+      "options": {
+        "A": "about",
+        "B": "for",
+        "C": "with",
+        "D": "by"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence uses the correct form of the adjective?",
+      "options": {
+        "A": "This is the more difficult question in the test.",
+        "B": "This is the difficultest question in the test.",
+        "C": "This is the most difficult question in the test.",
+        "D": "This is the much difficult question in the test."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct form of the verb in the passive voice: \"The building _____ by the famous architect last year.\"",
+      "options": {
+        "A": "designed",
+        "B": "was designed",
+        "C": "is designed",
+        "D": "has designed"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Select the correct relative pronoun: \"The woman _____ car was stolen reported it to the police.\"",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which sentence contains a correct conditional structure?",
+      "options": {
+        "A": "If it will rain tomorrow, we cancel the picnic.",
+        "B": "If it rains tomorrow, we will cancel the picnic.",
+        "C": "If it rains tomorrow, we would cancel the picnic.",
+        "D": "If it would rain tomorrow, we will cancel the picnic."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct modal verb: \"You _____ smoke in the hospital. It's prohibited.\"",
+      "options": {
+        "A": "don't have to",
+        "B": "mustn't",
+        "C": "couldn't",
+        "D": "wouldn't"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the sentence with the correct word order:",
+      "options": {
+        "A": "She always goes to the gym after work on Fridays.",
+        "B": "She goes always to the gym on Fridays after work.",
+        "C": "She goes to the gym always after work on Fridays.",
+        "D": "Always she goes to the gym after work on Fridays."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct article: \"I need to buy _____ umbrella because it might rain later.\"",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article needed"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence uses the present perfect tense correctly?",
+      "options": {
+        "A": "I have seen that movie last week.",
+        "B": "I seen that movie already.",
+        "C": "I have seen that movie three times.",
+        "D": "I have see that movie yesterday."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct form of the gerund: \"She's interested in _____ photography as a hobby.\"",
+      "options": {
+        "A": "take up",
+        "B": "taking up",
+        "C": "to take up",
+        "D": "took up"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the correct form for reported speech: \"I will call you tomorrow,\" she said. She said that she _____ me the next day.",
+      "options": {
+        "A": "will call",
+        "B": "would call",
+        "C": "will be calling",
+        "D": "had called"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct quantifier: \"There isn't _____ milk left in the fridge.\"",
+      "options": {
+        "A": "many",
+        "B": "few",
+        "C": "much",
+        "D": "little bit"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Select the correct tag question: \"You've been to Paris, _____?\"",
+      "options": {
+        "A": "aren't you",
+        "B": "didn't you",
+        "C": "haven't you",
+        "D": "don't you"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Which sentence uses the correct form of the comparative?",
+      "options": {
+        "A": "His new apartment is more bigger than his old one.",
+        "B": "His new apartment is more big than his old one.",
+        "C": "His new apartment is bigger than his old one.",
+        "D": "His new apartment is the bigger than his old one."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct phrasal verb to complete the sentence: \"The plane will _____ in ten minutes.\"",
+      "options": {
+        "A": "take off",
+        "B": "take out",
+        "C": "take up",
+        "D": "take in"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the appropriate expression for making a suggestion:",
+      "options": {
+        "A": "Why don't we go for a walk?",
+        "B": "I hope you go for a walk.",
+        "C": "You need to go for a walk.",
+        "D": "I'm going for a walk."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct expression to begin a formal letter to someone whose name you don't know:",
+      "options": {
+        "A": "Hey there,",
+        "B": "Dear Sir or Madam,",
+        "C": "Hello friend,",
+        "D": "Hi everyone,"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Select the most appropriate response to: \"I'm really sorry I broke your vase.\"",
+      "options": {
+        "A": "You're welcome.",
+        "B": "Don't worry about it. These things happen.",
+        "C": "I don't care.",
+        "D": "That's not possible."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct collocation: \"She needs to _____ a decision about her future soon.\"",
+      "options": {
+        "A": "do",
+        "B": "take",
+        "C": "make",
+        "D": "give"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the appropriate linking word: \"I wanted to go to the beach; _____, it started raining.\"",
+      "options": {
+        "A": "therefore",
+        "B": "moreover",
+        "C": "however",
+        "D": "besides"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct idiomatic expression: \"Finding a job in this economy is not _____. It requires patience.\"",
+      "options": {
+        "A": "a piece of cake",
+        "B": "a cup of tea",
+        "C": "a slice of pie",
+        "D": "a scoop of ice cream"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the most natural way to ask for clarification:",
+      "options": {
+        "A": "I demand you explain that again.",
+        "B": "That makes no sense to me.",
+        "C": "Could you explain what you mean by that?",
+        "D": "You need to be clearer."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct preposition in this expression: \"_____ my opinion, the book was better than the movie.\"",
+      "options": {
+        "A": "For",
+        "B": "With",
+        "C": "By",
+        "D": "In"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the appropriate expression for apologizing when you're late:",
+      "options": {
+        "A": "I'm late.",
+        "B": "Sorry for being late.",
+        "C": "I knew I would be late.",
+        "D": "Better late than never."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What does 'natural' mean in this context: \"It's natural to feel nervous before an important exam.\"?",
+      "options": {
+        "A": "Unusual",
+        "B": "Normal",
+        "C": "Strange",
+        "D": "Artificial"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the correct meaning of 'sacred' in this sentence: \"The temple is considered a sacred place by many people.\"",
+      "options": {
+        "A": "Old",
+        "B": "Beautiful",
+        "C": "Holy",
+        "D": "Famous"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What does 'relieve' mean in this context: \"The medication should relieve your headache within an hour.\"?",
+      "options": {
+        "A": "Make worse",
+        "B": "Reduce the pain of",
+        "C": "Completely cure",
+        "D": "Identify"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Choose the correct definition of 'reduce' in this sentence: \"The company wants to reduce costs by using less electricity.\"",
+      "options": {
+        "A": "To make smaller in amount",
+        "B": "To increase gradually",
+        "C": "To measure accurately",
+        "D": "To replace completely"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "What does 'resist' mean in this context: \"She couldn't resist eating the chocolate cake.\"?",
+      "options": {
+        "A": "To avoid",
+        "B": "To stop oneself from",
+        "C": "To enjoy",
+        "D": "To prepare"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Choose the correct meaning of 'escape' in this sentence: \"The prisoners planned their escape for months.\"",
+      "options": {
+        "A": "Getting away from",
+        "B": "Returning to",
+        "C": "Fighting against",
+        "D": "Surrendering to"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "What does 'captain' refer to in this context: \"She was the captain of the basketball team in high school.\"?",
+      "options": {
+        "A": "Coach",
+        "B": "Leader",
+        "C": "Supporter",
+        "D": "Sponsor"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Choose the correct definition of 'briefly' in this sentence: \"He spoke briefly about his experiences in Japan.\"",
+      "options": {
+        "A": "For a long time",
+        "B": "With many details",
+        "C": "For a short time",
+        "D": "With great enthusiasm"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What does 'skilled' mean in this context: \"We need skilled workers for this construction project.\"?",
+      "options": {
+        "A": "Having special abilities or training",
+        "B": "Working very hard",
+        "C": "Having good luck",
+        "D": "Being very strong"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Choose the correct meaning of 'finance' in this sentence: \"He studied finance at university.\"",
+      "options": {
+        "A": "The management of money",
+        "B": "The history of banking",
+        "C": "Business leadership",
+        "D": "International trade"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What does 'outcome' refer to in this context: \"No one could predict the outcome of the election.\"?",
+      "options": {
+        "A": "Schedule",
+        "B": "Participants",
+        "C": "Result",
+        "D": "Process"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Choose the correct definition of 'vehicle' in this sentence: \"Electric vehicles are becoming more popular.\"",
+      "options": {
+        "A": "A means of transport",
+        "B": "A type of fuel",
+        "C": "A traffic system",
+        "D": "A driving license"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "What does 'railway' mean in this context: \"The new railway will connect the city to the airport.\"?",
+      "options": {
+        "A": "A bus route",
+        "B": "A track for trains",
+        "C": "A highway",
+        "D": "An airline"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Choose the correct meaning of 'familiar' in this sentence: \"This music sounds familiar – I think I've heard it before.\"",
+      "options": {
+        "A": "Strange",
+        "B": "Pleasant",
+        "C": "Known or recognized",
+        "D": "Complicated"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "What does 'brilliant' mean in this context: \"She came up with a brilliant solution to the problem.\"?",
+      "options": {
+        "A": "Expensive",
+        "B": "Extremely clever or impressive",
+        "C": "Simple",
+        "D": "Popular"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what were the central issues that led to the American Civil War?",
+      "options": {
+        "A": "Foreign policy and trade agreements",
+        "B": "Military strategy and leadership",
+        "C": "Slavery, states' rights, and economic differences",
+        "D": "Religious beliefs and cultural practices"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Based on paragraph 2, what happened to slavery in Northern states before the Civil War?",
+      "options": {
+        "A": "It became more important to the economy",
+        "B": "It was gradually abolished",
+        "C": "It was regulated by federal law",
+        "D": "It spread to new territories"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to the passage, what was a key failure that contributed to the Civil War?",
+      "options": {
+        "A": "The failure to elect Southern presidents",
+        "B": "The failure of compromise attempts like the Missouri Compromise",
+        "C": "The failure of the North to develop industry",
+        "D": "The failure of slavery as an economic system"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to paragraph 3, what did Southern states believe about their right to secede?",
+      "options": {
+        "A": "They had no legal right to leave the Union",
+        "B": "They could leave if the president opposed them",
+        "C": "They could leave if their interests were threatened",
+        "D": "They needed permission from the federal government"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to paragraph 4, how many American lives were lost in the Civil War?",
+      "options": {
+        "A": "More than all other American wars combined up to that point",
+        "B": "Approximately 100,000",
+        "C": "Fewer than in the Revolutionary War",
+        "D": "About 1 million"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "Based on the passage, what constitutional amendment abolished slavery?",
+      "options": {
+        "A": "The Fourteenth Amendment",
+        "B": "The Fifteenth Amendment",
+        "C": "The Thirteenth Amendment",
+        "D": "The Twelfth Amendment"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to the passage, how did the Civil War affect the South's economy?",
+      "options": {
+        "A": "It experienced rapid growth",
+        "B": "It was devastated",
+        "C": "It became more diversified",
+        "D": "It remained largely unchanged"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "Based on paragraph 5, what was a significant political effect of the Civil War?",
+      "options": {
+        "A": "It weakened the federal government",
+        "B": "It strengthened federal authority over the states",
+        "C": "It eliminated all tensions between the North and South",
+        "D": "It led to immediate full equality for former slaves"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to the passage, what did the Fourteenth and Fifteenth Amendments address?",
+      "options": {
+        "A": "Economic policies",
+        "B": "Foreign relations",
+        "C": "Civil rights protections and voting rights",
+        "D": "Military organization"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "According to the final paragraph, how long did it take for full equality to be realized after the Civil War?",
+      "options": {
+        "A": "Immediately after the war",
+        "B": "Within a decade",
+        "C": "About fifty years",
+        "D": "About a century"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    }
+  ]
+}
