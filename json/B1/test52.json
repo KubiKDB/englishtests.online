@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Pollination is one of the most important ecological processes on Earth, and bees play a crucial role in this system. When bees visit flowers to collect nectar, they inadvertently transfer pollen from the male parts of a flower to the female parts of the same or another flower. This transfer of pollen enables plants to reproduce and produce seeds, fruits, and new plants. Without this essential service provided by bees and other pollinators, many plant species would struggle to survive, and our food supply would be severely affected.<br><br>(2) The relationship between bees and flowering plants has evolved over millions of years, resulting in remarkable adaptations. Plants have developed colorful petals, sweet nectar, and enticing fragrances specifically to attract bees and other pollinators. Meanwhile, bees have evolved specialized body parts, such as hairy bodies and pollen baskets on their legs, which make them efficient pollen collectors and transporters. This mutually beneficial relationship is a perfect example of coevolution in nature.<br><br>(3) The pollination process begins when a bee lands on a flower in search of nectar, which serves as the bee's primary food source. As the bee moves around the flower, pollen grains from the flower's anthers (male parts) stick to the tiny hairs covering the bee's body. When the bee visits another flower of the same species, some of this pollen rubs off onto the stigma (female part) of the new flower. This transfer of genetic material is essential for plant reproduction and helps maintain genetic diversity within plant populations.<br><br>(4) Bees are responsible for pollinating approximately 80% of all flowering plants, including about one-third of the food crops consumed by humans. Fruits such as apples, berries, and melons, vegetables like squash and cucumbers, nuts including almonds, and even coffee and chocolate all depend on bee pollination. The economic value of this service is estimated to be in the billions of dollars annually. Without bees, the variety of foods available to humans would be dramatically reduced, and many wild plant species would decline.<br><br>(5) Unfortunately, bee populations around the world are facing numerous threats, including habitat loss, pesticide use, climate change, and disease. As bee numbers decline, so does their ability to provide essential pollination services. Conservation efforts are now focused on protecting existing bee habitats, creating new bee-friendly landscapes, reducing pesticide use, and supporting sustainable agricultural practices. By taking steps to protect these important pollinators, we are also protecting the intricate ecological relationships that sustain plant diversity and food production for future generations.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct form of the verb: 'If I _____ more time, I would visit my grandparents more often.'",
+      "options": {
+        "A": "have",
+        "B": "had",
+        "C": "would have",
+        "D": "am having"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the correct sentence:",
+      "options": {
+        "A": "She has been living in Paris since three years.",
+        "B": "She has been living in Paris for three years.",
+        "C": "She is living in Paris since three years.",
+        "D": "She lives in Paris for three years."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "The children are too young to looking after themselves.",
+        "B": "The children are too young to look after themselves.",
+        "C": "The children are too young for look after themselves.",
+        "D": "The children are too young for looking after themselves."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "A": "You must to arrive on time.",
+        "B": "You must arriving on time.",
+        "C": "You must arrive on time.",
+        "D": "You must for arrive on time."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Select the correct past passive form: 'The company _____ in 1995.'",
+      "options": {
+        "A": "founded",
+        "B": "was founding",
+        "C": "was founded",
+        "D": "is founded"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which form correctly completes the sentence? 'When I arrived at the party, most people _____.'",
+      "options": {
+        "A": "already left",
+        "B": "have already left",
+        "C": "had already left",
+        "D": "were already leaving"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "A": "Neither John or Mary was at the meeting.",
+        "B": "Neither John nor Mary was at the meeting.",
+        "C": "Neither John nor Mary were at the meeting.",
+        "D": "Neither John or Mary were at the meeting."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the correct form: 'She _____ her homework right now.'",
+      "options": {
+        "A": "does",
+        "B": "is doing",
+        "C": "do",
+        "D": "doing"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence contains an error?",
+      "options": {
+        "A": "This is the book that I told you about.",
+        "B": "She's the woman who I met yesterday.",
+        "C": "He's the man whose car was stolen.",
+        "D": "This is the house which I was born in it."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct comparative form:",
+      "options": {
+        "A": "This problem is more easy than the last one.",
+        "B": "This problem is easyer than the last one.",
+        "C": "This problem is easier than the last one.",
+        "D": "This problem is the easier than the last one."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Select the correct sentence:",
+      "options": {
+        "A": "She suggested to go to the movies.",
+        "B": "She suggested going to the movies.",
+        "C": "She suggested we to go to the movies.",
+        "D": "She suggested that we to go to the movies."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Choose the correct form: 'I wish I _____ more time to finish the project.'",
+      "options": {
+        "A": "have",
+        "B": "had",
+        "C": "would have",
+        "D": "has"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Which sentence is correctly punctuated?",
+      "options": {
+        "A": "My brother who lives in London, is visiting next week.",
+        "B": "My brother, who lives in London is visiting next week.",
+        "C": "My brother who lives in London is visiting next week.",
+        "D": "My brother, who lives in London, is visiting next week."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Select the correct reported speech: 'I will call you tomorrow,' she said.",
+      "options": {
+        "A": "She said she will call me tomorrow.",
+        "B": "She said she would call me tomorrow.",
+        "C": "She said she would call me the next day.",
+        "D": "She said she will call me the next day."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "A": "I'm used to get up early.",
+        "B": "I'm used to getting up early.",
+        "C": "I used to getting up early.",
+        "D": "I'm use to get up early."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Select the word that best completes the sentence: 'Scientists are working to _____ a new vaccine for this disease.'",
+      "options": {
+        "A": "improve",
+        "B": "develop",
+        "C": "make",
+        "D": "create"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct word: 'The solar _____ includes eight planets that orbit around the sun.'",
+      "options": {
+        "A": "structure",
+        "B": "network",
+        "C": "system",
+        "D": "arrangement"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 18,
+      "question": "Select the word that best completes the sentence: 'Some people _____ that the building is haunted, but there's no evidence.'",
+      "options": {
+        "A": "say",
+        "B": "state",
+        "C": "claim",
+        "D": "tell"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct word: 'Can you please _____ that you received my email by replying to it?'",
+      "options": {
+        "A": "verify",
+        "B": "check",
+        "C": "approve",
+        "D": "confirm"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 20,
+      "question": "Select the word that best completes the sentence: 'They are _____ a solution to the problem.'",
+      "options": {
+        "A": "looking for",
+        "B": "finding",
+        "C": "searching",
+        "D": "seeking"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 21,
+      "question": "Choose the correct word: 'The police are trying to _____ the missing child.'",
+      "options": {
+        "A": "find",
+        "B": "search",
+        "C": "locate",
+        "D": "discover"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 22,
+      "question": "Select the word that best completes the sentence: 'What would you do if an accident _____ in front of you?'",
+      "options": {
+        "A": "occurred",
+        "B": "happened",
+        "C": "made",
+        "D": "came"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct word: 'She wants to _____ as a teacher after she graduates.'",
+      "options": {
+        "A": "work",
+        "B": "learn",
+        "C": "train",
+        "D": "educate"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 24,
+      "question": "Select the word that best completes the sentence: 'Living in a hot and humid _____ can be difficult for some people.'",
+      "options": {
+        "A": "situation",
+        "B": "environment",
+        "C": "condition",
+        "D": "weather"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct word: 'Let's _____ for a new apartment online.'",
+      "options": {
+        "A": "search",
+        "B": "see",
+        "C": "watch",
+        "D": "look"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 26,
+      "question": "Select the word that best completes the sentence: 'What's the _____ with your car? Why won't it start?'",
+      "options": {
+        "A": "problem",
+        "B": "issue",
+        "C": "matter",
+        "D": "trouble"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the correct word: 'Would you _____ if I opened the window?'",
+      "options": {
+        "A": "care",
+        "B": "mind",
+        "C": "worry",
+        "D": "consider"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Select the word that best completes the sentence: 'Make sure you _____ your homework before coming to class.'",
+      "options": {
+        "A": "complete",
+        "B": "end",
+        "C": "conclude",
+        "D": "finish"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Choose the correct word: 'Let me _____ you to my friend Sarah.'",
+      "options": {
+        "A": "present",
+        "B": "introduce",
+        "C": "meet",
+        "D": "know"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Select the word that best completes the sentence: 'That doesn't _____ like a good idea to me.'",
+      "options": {
+        "A": "seem",
+        "B": "look",
+        "C": "sound",
+        "D": "feel"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Choose the correct preposition: 'I'm not very good _____ cooking.'",
+      "options": {
+        "A": "at",
+        "B": "in",
+        "C": "with",
+        "D": "for"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 32,
+      "question": "Select the correct phrasal verb: 'The plane will _____ in ten minutes.'",
+      "options": {
+        "A": "take off",
+        "B": "take away",
+        "C": "take over",
+        "D": "take on"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 33,
+      "question": "Choose the correct expression: 'I need to _____ some money from the bank.'",
+      "options": {
+        "A": "take out",
+        "B": "take off",
+        "C": "withdraw",
+        "D": "remove"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 34,
+      "question": "Select the correct collocation: 'Could you please _____ me a favor?'",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "give",
+        "D": "take"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 35,
+      "question": "Choose the correct connector: 'I wanted to go swimming, _____ the pool was closed.'",
+      "options": {
+        "A": "so",
+        "B": "because",
+        "C": "although",
+        "D": "but"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 36,
+      "question": "Select the correct response: 'Thank you for your help.' '_____'",
+      "options": {
+        "A": "Not at all.",
+        "B": "It's nothing.",
+        "C": "Don't mention it.",
+        "D": "All of the above are correct."
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 37,
+      "question": "Choose the correct expression for agreeing with someone:",
+      "options": {
+        "A": "I don't think so.",
+        "B": "That's right.",
+        "C": "I'm afraid not.",
+        "D": "Not really."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 38,
+      "question": "Select the best word to complete this idiom: 'It's raining _____ and dogs.'",
+      "options": {
+        "A": "cats",
+        "B": "frogs",
+        "C": "wolves",
+        "D": "lions"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 39,
+      "question": "Choose the correct expression: 'Could you _____ me your pen, please?'",
+      "options": {
+        "A": "borrow",
+        "B": "loan",
+        "C": "lend",
+        "D": "rent"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 40,
+      "question": "Select the correct expression for making a suggestion:",
+      "options": {
+        "A": "Why don't we go to the park?",
+        "B": "Let's going to the park.",
+        "C": "We should to go to the park.",
+        "D": "What about to go to the park?"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what would happen without bees and other pollinators?",
+      "options": {
+        "A": "Plants would grow faster",
+        "B": "Many plant species would struggle to survive",
+        "C": "Plants would produce more nectar",
+        "D": "The ecosystem would remain unchanged"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "What does paragraph 2 describe?",
+      "options": {
+        "A": "The economic importance of bees",
+        "B": "The threats to bee populations",
+        "C": "The evolutionary relationship between bees and plants",
+        "D": "The process of making honey"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to the passage, what makes bees efficient pollinators?",
+      "options": {
+        "A": "Their ability to fly long distances",
+        "B": "Their specialized body parts like hairy bodies and pollen baskets",
+        "C": "Their preference for colorful flowers",
+        "D": "Their complex social structure"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "What happens when a bee visits a flower according to paragraph 3?",
+      "options": {
+        "A": "It deliberately collects pollen for plant reproduction",
+        "B": "It changes the color of the flower",
+        "C": "It inadvertently transfers pollen while searching for nectar",
+        "D": "It helps the flower produce more nectar"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What percentage of flowering plants are pollinated by bees according to the passage?",
+      "options": {
+        "A": "33%",
+        "B": "50%",
+        "C": "80%",
+        "D": "100%"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to paragraph 4, which of the following foods depends on bee pollination?",
+      "options": {
+        "A": "Rice",
+        "B": "Wheat",
+        "C": "Chocolate",
+        "D": "Potatoes"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to paragraph 5, what are threats to bee populations?",
+      "options": {
+        "A": "Increased flower production",
+        "B": "Habitat loss and pesticide use",
+        "C": "Excessive honey consumption",
+        "D": "Increased agricultural diversity"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What is the main purpose of the passage?",
+      "options": {
+        "A": "To argue that honey production is declining",
+        "B": "To explain how bees help plants through pollination",
+        "C": "To describe how to become a beekeeper",
+        "D": "To compare different types of pollinators"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What does the passage suggest about the economic value of bee pollination?",
+      "options": {
+        "A": "It is minimal compared to other agricultural practices",
+        "B": "It is valued in the billions of dollars annually",
+        "C": "It cannot be calculated accurately",
+        "D": "It is decreasing every year"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "According to the passage, what is one conservation effort to protect bees?",
+      "options": {
+        "A": "Increasing pesticide use",
+        "B": "Creating more bee-friendly landscapes",
+        "C": "Reducing plant diversity",
+        "D": "Developing artificial pollination methods"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
