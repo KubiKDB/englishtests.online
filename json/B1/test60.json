@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Rivers and lakes are both essential bodies of water that sustain life on our planet, yet they differ significantly in their characteristics and functions. Rivers are flowing water bodies that move continuously in one direction, usually originating from mountains or hills and eventually emptying into seas, oceans, or larger rivers. In contrast, lakes are relatively still water bodies contained in depressions in the land, surrounded by land on all sides except where a river or stream enters or exits.<br><br>(2) The movement of water creates one of the most noticeable differences between these two water bodies. Rivers are characterized by their constant flow, which can range from gentle streams to powerful currents. This continuous movement affects everything from water temperature to the types of organisms that can survive in river environments. Lakes, however, are generally stationary bodies of water with minimal flow except near inlets and outlets. The still nature of lakes allows for temperature stratification, where different layers of water have distinct temperatures.<br><br>(3) The physical formation of rivers and lakes also differs considerably. Rivers typically form when precipitation or melting snow accumulates in sufficient quantity to create a flow of water that carves channels into the land. Over time, these channels deepen and widen through erosion. Lakes, on the other hand, can form through various geological processes including glacier movement, volcanic activity, tectonic plate shifts, or even human intervention through dam construction.<br><br>(4) The ecosystems supported by rivers and lakes vary due to their different physical conditions. River ecosystems must adapt to flowing water and changing conditions. Species living in rivers often have special adaptations to prevent being swept away by currents. Lake ecosystems tend to be more stable and can support a wider variety of plant life, particularly around their shores. Lakes often develop distinct zones of plant and animal life extending from the shoreline to the deepest areas.<br><br>(5) Finally, rivers and lakes serve different roles in human civilization and development. Throughout history, rivers have been crucial for transportation, agriculture, and as boundaries between territories. They continue to be important for navigation, hydroelectric power generation, and as sources of irrigation water. Lakes, while also providing water for human use, are often valued for their recreational opportunities, aesthetic beauty, and as habitats for fish that provide food sources. Both water bodies face threats from pollution and climate change, making their conservation increasingly important.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following correctly uses the present perfect tense?",
+      "options": {
+        "A": "I am studying English since 2020.",
+        "B": "She has lived in Paris for three years.",
+        "C": "We did not finished our homework yet.",
+        "D": "They are visiting London last summer."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct comparative form.",
+      "options": {
+        "A": "This book is more interesting than that one.",
+        "B": "She is taller that her brother.",
+        "C": "My car is more faster than yours.",
+        "D": "This exercise is difficulter than the previous one."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the sentence with the correct pronoun usage.",
+      "options": {
+        "A": "Him and me went to the cinema yesterday.",
+        "B": "The teacher gave the books to she and I.",
+        "C": "They invited my friend and me to dinner.",
+        "D": "Us students need more practice."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence uses the past continuous correctly?",
+      "options": {
+        "A": "I was cook dinner when the phone rang.",
+        "B": "She was watching TV when I arrived.",
+        "C": "We were ate lunch at 1 pm yesterday.",
+        "D": "They was playing football all afternoon."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct modal verb for giving advice.",
+      "options": {
+        "A": "You must see a doctor if you feel better.",
+        "B": "You might drink more water to stay hydrated.",
+        "C": "You should take some medicine if you have a headache.",
+        "D": "You will rest for a few hours."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the sentence with the correct preposition.",
+      "options": {
+        "A": "I'm interested on learning French.",
+        "B": "She arrived at the station in time.",
+        "C": "We'll meet on Monday at 3:00 pm.",
+        "D": "The book is in the table."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which sentence has the correct word order?",
+      "options": {
+        "A": "Always she goes to bed early.",
+        "B": "Where you are going tonight?",
+        "C": "I don't know where is the restaurant.",
+        "D": "He rarely visits his grandparents."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the sentence with the correct conditional form.",
+      "options": {
+        "A": "If it rains tomorrow, we will stays at home.",
+        "B": "If I had more money, I would buy a new car.",
+        "C": "If she would study harder, she will pass the exam.",
+        "D": "If we will arrive early, we get good seats."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence uses the present simple correctly?",
+      "options": {
+        "A": "She always walk to work.",
+        "B": "They doesn't like coffee.",
+        "C": "I am usually having breakfast at 7 am.",
+        "D": "He works in a bank."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Select the sentence with the correct passive voice.",
+      "options": {
+        "A": "This book was wrote by a famous author.",
+        "B": "English is speaking in many countries.",
+        "C": "The house was built last year.",
+        "D": "The letter been sent yesterday."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct future form to express a plan.",
+      "options": {
+        "A": "I will meeting my friends later.",
+        "B": "She going to travel next month.",
+        "C": "We are going to visit our grandparents this weekend.",
+        "D": "They will probably arriving tomorrow."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the sentence with the correct article usage.",
+      "options": {
+        "A": "I need an umbrella because it's raining.",
+        "B": "She is the best student in an class.",
+        "C": "He bought a orange and some apples.",
+        "D": "We visited a Eiffel Tower last year."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Which sentence contains a correct relative clause?",
+      "options": {
+        "A": "The woman who house is next to mine is a teacher.",
+        "B": "I know the boy which plays the piano.",
+        "C": "The book that I'm reading is very interesting.",
+        "D": "The city where I visited last year was beautiful."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the sentence with the correct verb agreement.",
+      "options": {
+        "A": "Neither of them are coming to the party.",
+        "B": "Each of the students have a notebook.",
+        "C": "The team are playing well this season.",
+        "D": "Everyone needs to bring their own lunch."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the correct form of the gerund or infinitive.",
+      "options": {
+        "A": "She enjoys to swim in the ocean.",
+        "B": "I decided studying more for the exam.",
+        "C": "They avoid eating fast food.",
+        "D": "We hope finding a solution soon."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Complete the sentence: 'If you had asked me earlier, I _____ you.'",
+      "options": {
+        "A": "would help",
+        "B": "would have helped",
+        "C": "will help",
+        "D": "had helped"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct phrasal verb: 'The plane will _____ in ten minutes.'",
+      "options": {
+        "A": "take off",
+        "B": "take up",
+        "C": "take in",
+        "D": "take over"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the correct word to complete the sentence: 'She _____ a lot of progress in her English studies.'",
+      "options": {
+        "A": "did",
+        "B": "made",
+        "C": "took",
+        "D": "had"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Complete the sentence with the correct preposition: 'I'm really interested _____ learning more about history.'",
+      "options": {
+        "A": "for",
+        "B": "about",
+        "C": "in",
+        "D": "with"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct expression: 'Sarah was feeling unwell, so she decided to _____ work today.'",
+      "options": {
+        "A": "take up",
+        "B": "take off",
+        "C": "take down",
+        "D": "take on"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the correct collocation: 'She needs to _____ a decision about her future soon.'",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "take",
+        "D": "have"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Complete the sentence: 'You should _____ advantage of the good weather and go for a walk.'",
+      "options": {
+        "A": "make",
+        "B": "get",
+        "C": "have",
+        "D": "take"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct expression: 'I need to _____ an appointment with my doctor.'",
+      "options": {
+        "A": "do",
+        "B": "take",
+        "C": "make",
+        "D": "get"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Select the correct word to complete this sentence: 'I don't _____ what you're trying to say.'",
+      "options": {
+        "A": "catch",
+        "B": "hold",
+        "C": "get",
+        "D": "take"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct connector: 'He studied hard for the exam; _____, he failed.'",
+      "options": {
+        "A": "therefore",
+        "B": "however",
+        "C": "moreover",
+        "D": "consequently"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Which of the following is closest in meaning to 'support'?",
+      "options": {
+        "A": "criticize",
+        "B": "help",
+        "C": "ignore",
+        "D": "delay"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the correct definition of 'oppose':",
+      "options": {
+        "A": "to be in favor of something",
+        "B": "to agree with someone's ideas",
+        "C": "to be against something",
+        "D": "to help someone achieve their goals"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Complete the sentence: 'They decided to _____ our invitation to dinner.'",
+      "options": {
+        "A": "accept",
+        "B": "refuse",
+        "C": "support",
+        "D": "collect"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Choose the word that means 'to say no to something':",
+      "options": {
+        "A": "supply",
+        "B": "accept",
+        "C": "refuse",
+        "D": "gather"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Which sentence uses 'reject' correctly?",
+      "options": {
+        "A": "I need to reject more books for my collection.",
+        "B": "She rejected his marriage proposal.",
+        "C": "They always reject to help their neighbors.",
+        "D": "We will reject the meeting until next week."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Complete the sentence: 'Can I _____ you some help with that?'",
+      "options": {
+        "A": "spend",
+        "B": "waste",
+        "C": "offer",
+        "D": "oppose"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Which word means 'to give something needed or wanted'?",
+      "options": {
+        "A": "save",
+        "B": "provide",
+        "C": "waste",
+        "D": "refuse"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Choose the correct sentence using 'supply':",
+      "options": {
+        "A": "The store supplies fresh bread daily.",
+        "B": "I need to supply this form before Friday.",
+        "C": "She supplied the meeting until tomorrow.",
+        "D": "We supply good grades this semester."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Complete the sentence: 'I'd be happy to _____ my notes with you.'",
+      "options": {
+        "A": "waste",
+        "B": "share",
+        "C": "collect",
+        "D": "reject"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Which word means 'to give things to several people'?",
+      "options": {
+        "A": "gather",
+        "B": "refuse",
+        "C": "distribute",
+        "D": "spend"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Choose the sentence that uses 'collect' correctly:",
+      "options": {
+        "A": "We need to collect the problem immediately.",
+        "B": "She collects stamps as a hobby.",
+        "C": "They collected the movie last night.",
+        "D": "I will collect your advice carefully."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Complete the sentence: 'We need to _____ information about the project.'",
+      "options": {
+        "A": "gather",
+        "B": "oppose",
+        "C": "spend",
+        "D": "waste"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Which word means 'to keep money for future use'?",
+      "options": {
+        "A": "reject",
+        "B": "distribute",
+        "C": "save",
+        "D": "refuse"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Complete the sentence: 'How much money do you _____ on food each week?'",
+      "options": {
+        "A": "gather",
+        "B": "spend",
+        "C": "share",
+        "D": "support"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Choose the sentence that uses 'waste' correctly:",
+      "options": {
+        "A": "Don't waste your time watching TV all day.",
+        "B": "She wastes a new car last month.",
+        "C": "They waste early every morning.",
+        "D": "I waste what you are saying."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, what is the main difference between rivers and lakes?",
+      "options": {
+        "A": "Rivers are larger than lakes.",
+        "B": "Rivers flow in one direction while lakes are relatively still.",
+        "C": "Lakes contain more diverse ecosystems than rivers.",
+        "D": "Rivers are artificial while lakes are natural."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following is NOT mentioned as a way lakes can form?",
+      "options": {
+        "A": "Glacier movement",
+        "B": "Volcanic activity",
+        "C": "Meteorite impacts",
+        "D": "Dam construction"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 2, what happens in lakes that doesn't typically occur in rivers?",
+      "options": {
+        "A": "Water movement",
+        "B": "Temperature stratification",
+        "C": "Erosion processes",
+        "D": "Channel formation"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "What adaptation is mentioned as necessary for species living in rivers?",
+      "options": {
+        "A": "Ability to survive in very deep water",
+        "B": "Resistance to pollution",
+        "C": "Ability to prevent being swept away by currents",
+        "D": "Tolerance for temperature changes"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Which statement best summarizes paragraph 5?",
+      "options": {
+        "A": "Rivers are more important to humans than lakes.",
+        "B": "Both rivers and lakes are threatened by pollution.",
+        "C": "Rivers and lakes serve different but important roles in human civilization.",
+        "D": "Rivers and lakes are primarily valued for their beauty."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What does the passage suggest about lake ecosystems compared to river ecosystems?",
+      "options": {
+        "A": "Lake ecosystems are generally more stable.",
+        "B": "River ecosystems support more species.",
+        "C": "Lake ecosystems are more resistant to pollution.",
+        "D": "River ecosystems have more plant life."
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to the passage, rivers typically originate from:",
+      "options": {
+        "A": "Lakes and ponds",
+        "B": "Oceans and seas",
+        "C": "Mountains or hills",
+        "D": "Human construction"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The passage mentions all of the following as historical uses of rivers EXCEPT:",
+      "options": {
+        "A": "Transportation",
+        "B": "Agriculture",
+        "C": "Mining",
+        "D": "Boundaries between territories"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What does the passage identify as a modern use of rivers?",
+      "options": {
+        "A": "Wildlife preservation",
+        "B": "Hydroelectric power generation",
+        "C": "Scientific research",
+        "D": "Cultural ceremonies"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the main purpose of this passage?",
+      "options": {
+        "A": "To argue that rivers are more important than lakes",
+        "B": "To explain the formation of water bodies",
+        "C": "To compare and contrast the characteristics of rivers and lakes",
+        "D": "To discuss the environmental threats to water bodies"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
