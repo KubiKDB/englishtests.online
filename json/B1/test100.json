@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The discovery of the Americas by Europeans is often attributed to Christopher Columbus, who sailed across the Atlantic Ocean in 1492. While Columbus is widely recognized for establishing contact between the Eastern and Western hemispheres, the first Europeans to reach North America were actually Viking explorers led by Leif Erikson around 1000 CE. However, Columbus's voyages had a more profound and lasting impact, as they led to permanent European colonization and dramatically changed the course of world history.<br><br>(2) Christopher Columbus, an Italian explorer sponsored by the Spanish monarchy, set sail with three ships—the Niña, the Pinta, and the Santa Maria—to find a western route to Asia. Instead, on October 12, 1492, he landed on an island in the Bahamas, which he claimed for Spain. Columbus made four voyages to the Americas, believing until his death that he had reached the East Indies rather than a previously unknown continent. This misconception led to the indigenous peoples of the Americas being called \"Indians,\" a term that persists in some contexts today.<br><br>(3) Following Columbus's initial voyages, other European explorers and conquistadors quickly followed. Spain's Hernán Cortés conquered the Aztec Empire in present-day Mexico between 1519 and 1521, while Francisco Pizarro overthrew the Inca Empire in Peru in the 1530s. Portuguese explorer Pedro Álvares Cabral reached Brazil in 1500, claiming it for Portugal. Meanwhile, John Cabot, sailing for England, explored the coastline of North America in 1497, and French explorer Jacques Cartier mapped the Gulf of St. Lawrence and the St. Lawrence River in the 1530s.<br><br>(4) The European discovery of the Americas had profound consequences for both the Old and New Worlds. Europeans gained access to new crops such as corn, potatoes, tomatoes, and chocolate, which significantly improved their nutrition and population growth. They also acquired vast resources of gold and silver, particularly from Spanish conquests in Mexico and Peru. However, the impact on indigenous populations was devastating. European diseases such as smallpox, measles, and influenza, to which Native Americans had no immunity, caused catastrophic population declines estimated at 80-95% in many areas.<br><br>(5) The discovery also initiated the Columbian Exchange, a widespread transfer of plants, animals, culture, human populations, technology, and ideas between the Americas, Europe, and Africa. This exchange transformed agriculture globally and led to significant changes in world trade patterns. Additionally, the European colonization that followed Columbus's voyages established the foundations for several modern nations in the Americas and initiated centuries of cultural and genetic mixing. The historical impact of this encounter between worlds continues to shape our cultural, political, and economic realities today.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Select the sentence with correct subject-verb agreement:",
+      "options": {
+        "A": "The news are interesting.",
+        "B": "Each of the students have completed the assignment.",
+        "C": "Neither of the cars were available.",
+        "D": "Economics is his favorite subject."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct form of the verb: By the time we arrived, the concert _____.",
+      "options": {
+        "A": "has already started",
+        "B": "had already started",
+        "C": "was already starting",
+        "D": "already started"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence uses the present perfect correctly?",
+      "options": {
+        "A": "I have seen that movie last week.",
+        "B": "She has lived in Paris for three years.",
+        "C": "We have finished the project yesterday.",
+        "D": "He has went to the store."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Select the correct passive voice for: 'Someone stole my bicycle yesterday.'",
+      "options": {
+        "A": "My bicycle was stealing yesterday.",
+        "B": "My bicycle is stolen yesterday.",
+        "C": "My bicycle was stolen yesterday.",
+        "D": "My bicycle had stolen yesterday."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct article: She wants to be _____ engineer when she grows up.",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "No article needed"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the sentence with the correct preposition usage:",
+      "options": {
+        "A": "I'm afraid from spiders.",
+        "B": "She's good in playing the piano.",
+        "C": "We arrived at the airport on time.",
+        "D": "They're waiting since two hours."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct comparative form: This book is _____ than the one I read last month.",
+      "options": {
+        "A": "more interesting",
+        "B": "interestinger",
+        "C": "most interesting",
+        "D": "more interestinger"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Which conditional sentence is formed correctly?",
+      "options": {
+        "A": "If it will rain tomorrow, we stay at home.",
+        "B": "If I would be rich, I will buy a yacht.",
+        "C": "If she studied harder, she would pass the exam.",
+        "D": "If we had time, we will visit you."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Select the correct relative pronoun: The woman _____ won the competition is my neighbor.",
+      "options": {
+        "A": "which",
+        "B": "whose",
+        "C": "whom",
+        "D": "who"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct form: You _____ smoke in this building. It's prohibited.",
+      "options": {
+        "A": "don't have to",
+        "B": "mustn't",
+        "C": "couldn't",
+        "D": "wouldn't"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Which sentence uses the correct verb tense?",
+      "options": {
+        "A": "I'm living in this city since 2010.",
+        "B": "She's visiting her parents last weekend.",
+        "C": "We've been waiting for the bus for 30 minutes.",
+        "D": "They know each other for a long time."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the correct question tag: Your sister doesn't like coffee, _____?",
+      "options": {
+        "A": "doesn't she",
+        "B": "does she",
+        "C": "isn't she",
+        "D": "is she"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the sentence with the correct word order:",
+      "options": {
+        "A": "Always she arrives on time.",
+        "B": "We yesterday went to the cinema.",
+        "C": "They have never visited Paris.",
+        "D": "Often I go to bed late."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence uses the past simple correctly?",
+      "options": {
+        "A": "I have gone to the gym yesterday.",
+        "B": "She didn't went to school last week.",
+        "C": "They buyed a new car last month.",
+        "D": "We didn't hear about the accident until this morning."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the sentence with correct use of reported speech: She said, 'I am working now.'",
+      "options": {
+        "A": "She said that she is working now.",
+        "B": "She said that she was working then.",
+        "C": "She said that I am working now.",
+        "D": "She said that she is working then."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct phrasal verb: We need to _____ a meeting to discuss the project.",
+      "options": {
+        "A": "set up",
+        "B": "set down",
+        "C": "set off",
+        "D": "set out"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the correct expression: I'm not sure if I'll finish the work on time, but I'll _____.",
+      "options": {
+        "A": "do my best",
+        "B": "do my better",
+        "C": "make my best",
+        "D": "make my better"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Which word is the odd one out?",
+      "options": {
+        "A": "happy",
+        "B": "cheerful",
+        "C": "sad",
+        "D": "pleased"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct collocation: Can you _____ me a favor and pick up my parcel?",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "give",
+        "D": "take"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the best word to complete the sentence: It was difficult to _____ the noise from the construction site next door.",
+      "options": {
+        "A": "maintain",
+        "B": "sustain",
+        "C": "contain",
+        "D": "tolerate"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Which idiom best completes this sentence: The final exam was very difficult, but he passed with _____.",
+      "options": {
+        "A": "piece of cake",
+        "B": "flying colors",
+        "C": "cold feet",
+        "D": "under the weather"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct fixed expression: I couldn't attend the meeting _____ my illness.",
+      "options": {
+        "A": "because",
+        "B": "due to",
+        "C": "in spite of",
+        "D": "although"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the sentence where the underlined word is used correctly:",
+      "options": {
+        "A": "She was CONSCIOUS about her appearance.",
+        "B": "They were CONSCIOUS of the risks involved.",
+        "C": "He was CONSCIOUS for his lateness.",
+        "D": "We are CONSCIOUS against pollution."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the word that best completes the sentence: His behavior was completely _____ for someone in his position.",
+      "options": {
+        "A": "unexpected",
+        "B": "inappropriate",
+        "C": "unaware",
+        "D": "unprepared"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the correct linking word: The weather was terrible; _____, we still enjoyed our vacation.",
+      "options": {
+        "A": "therefore",
+        "B": "nevertheless",
+        "C": "moreover",
+        "D": "besides"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Which sentence uses 'credit' correctly?",
+      "options": {
+        "A": "I need to credit some money from the bank.",
+        "B": "She deserves credit for the success of the project.",
+        "C": "They credited yesterday to the store.",
+        "D": "We will credit you unless you pay on time."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the sentence where 'keep' is used to mean 'continue':",
+      "options": {
+        "A": "Please keep this secret between us.",
+        "B": "They keep their car in the garage.",
+        "C": "She kept walking despite the rain.",
+        "D": "I keep a diary every day."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What does 'anyway' mean in this sentence: 'It's raining, but I'm going for a walk anyway.'?",
+      "options": {
+        "A": "In addition",
+        "B": "Therefore",
+        "C": "By the way",
+        "D": "Despite that"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which sentence uses 'however' correctly?",
+      "options": {
+        "A": "However did you manage to finish so quickly?",
+        "B": "We will go to the park, however it doesn't rain.",
+        "C": "She wanted to help; however, she was too busy.",
+        "D": "I will be there however 3 o'clock."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "In which sentence is 'last' used as a verb?",
+      "options": {
+        "A": "This is the last piece of cake.",
+        "B": "She came in last in the race.",
+        "C": "The meeting won't last more than an hour.",
+        "D": "I saw him last week."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Choose the sentence where 'collect' is used correctly:",
+      "options": {
+        "A": "He collects for his mother at the airport.",
+        "B": "She collects stamps as a hobby.",
+        "C": "They collect to the meeting on time.",
+        "D": "We collected very tired after the long journey."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Which sentence uses 'explain' correctly?",
+      "options": {
+        "A": "Can you explain me the directions?",
+        "B": "She explained that she would be late.",
+        "C": "They explained about the new policy.",
+        "D": "I need to explain with my teacher."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "What does 'mean' refer to in this sentence: 'I didn't mean to hurt your feelings.'?",
+      "options": {
+        "A": "Average",
+        "B": "Unkind",
+        "C": "Intend",
+        "D": "Signify"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "In which sentence is 'stand' used in the sense of 'tolerate'?",
+      "options": {
+        "A": "We stand in line for tickets.",
+        "B": "The statue stands in the town square.",
+        "C": "I can't stand the noise from next door.",
+        "D": "She stands for honesty and integrity."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Choose the sentence where 'lead' (pronounced like 'leed') is used correctly:",
+      "options": {
+        "A": "The pencil contains lead.",
+        "B": "She will lead the discussion tomorrow.",
+        "C": "The boat has a lead bottom.",
+        "D": "This box is very lead."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Which sentence uses 'shut' correctly?",
+      "options": {
+        "A": "Please shut on the light.",
+        "B": "They shut to the store before it closed.",
+        "C": "Could you shut the window? It's cold.",
+        "D": "We shut our homework before class."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Choose the correct meaning of 'variety' in this sentence: 'The supermarket offers a wide variety of fruits.'",
+      "options": {
+        "A": "Selection",
+        "B": "Quality",
+        "C": "Quantity",
+        "D": "Value"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "In which sentence is 'tend' used correctly?",
+      "options": {
+        "A": "I need to tend this letter to my friend.",
+        "B": "She tends to arrive late for meetings.",
+        "C": "They tended against the proposal.",
+        "D": "We tend our bags at the hotel."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Which sentence uses 'hurt' as an adjective?",
+      "options": {
+        "A": "Don't hurt yourself while exercising.",
+        "B": "She had a hurt expression on her face.",
+        "C": "It still hurts when I walk.",
+        "D": "They hurt their chances by arriving late."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Choose the sentence where 'settle' means 'to resolve':",
+      "options": {
+        "A": "New immigrants settled in the coastal regions.",
+        "B": "The dust settled on the furniture.",
+        "C": "We need to settle this argument once and for all.",
+        "D": "The bird settled on the branch."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, who is widely credited with discovering America?",
+      "options": {
+        "A": "Leif Erikson",
+        "B": "Christopher Columbus",
+        "C": "Hernán Cortés",
+        "D": "Pedro Álvares Cabral"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Who were actually the first Europeans to reach North America according to the passage?",
+      "options": {
+        "A": "Spanish explorers",
+        "B": "Portuguese sailors",
+        "C": "Viking explorers",
+        "D": "Italian merchants"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "Why were the indigenous peoples of the Americas called \"Indians\"?",
+      "options": {
+        "A": "Because they lived near the Indian Ocean",
+        "B": "Because Columbus thought he had reached the East Indies",
+        "C": "Because of their appearance",
+        "D": "Because they traded with India"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Which explorer claimed Brazil for Portugal?",
+      "options": {
+        "A": "John Cabot",
+        "B": "Francisco Pizarro",
+        "C": "Jacques Cartier",
+        "D": "Pedro Álvares Cabral"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What was one positive outcome for Europeans from the discovery of the Americas?",
+      "options": {
+        "A": "They gained immunity to new diseases",
+        "B": "They established control over Asia",
+        "C": "They gained access to new crops",
+        "D": "Their population decreased"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What was the main negative impact on indigenous populations after European contact?",
+      "options": {
+        "A": "Forced migration to Europe",
+        "B": "Catastrophic population decline due to disease",
+        "C": "Loss of agricultural knowledge",
+        "D": "Increased conflicts between tribes"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What was the Columbian Exchange?",
+      "options": {
+        "A": "A trade agreement between Columbus and Native Americans",
+        "B": "The exchange of gold between Spain and Portugal",
+        "C": "The transfer of plants, animals, culture, and ideas between continents",
+        "D": "The exchange of territories between European powers"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "When did Columbus make his first voyage to the Americas?",
+      "options": {
+        "A": "1000 CE",
+        "B": "1492",
+        "C": "1519",
+        "D": "1530"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What were the names of Columbus's three ships?",
+      "options": {
+        "A": "The Pinto, the Santa Fe, and the Nina",
+        "B": "The Santa Maria, the Isabella, and the Ferdinand",
+        "C": "The Victoria, the Trinidad, and the Santiago",
+        "D": "The Niña, the Pinta, and the Santa Maria"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What does the passage suggest about the historical significance of Columbus's voyages?",
+      "options": {
+        "A": "They were less important than Viking explorations",
+        "B": "They led to permanent European colonization and changed world history",
+        "C": "They primarily benefited the indigenous populations",
+        "D": "They had minimal long-term impact on the Americas"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
