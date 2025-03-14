@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Magnetism is one of the fundamental forces in our universe that has fascinated humans for thousands of years. The ancient Greeks discovered that certain stones, now known as magnetite, could attract iron objects. These naturally occurring magnets were called lodestones. Today, we understand that magnetism results from the motion of electric charges, particularly electrons, which create magnetic fields.<br><br>(2) At the atomic level, magnetism occurs because electrons spin and orbit around the nucleus of an atom, generating tiny magnetic fields. In most materials, these fields point in random directions and cancel each other out. However, in ferromagnetic materials like iron, nickel, and cobalt, the atomic magnetic fields align in the same direction, creating a strong magnetic effect. This alignment can happen naturally or when these materials are exposed to an existing magnetic field.<br><br>(3) Every magnet has two poles: north and south. Similar poles (north-north or south-south) repel each other, while opposite poles (north-south) attract. This fundamental property is known as the law of magnetic attraction and repulsion. The magnetic field surrounding a magnet is invisible but can be visualized using iron filings or a compass. The field lines always flow from the north pole to the south pole outside the magnet, forming closed loops.<br><br>(4) Magnets have countless applications in modern technology. They are essential components in electric motors, generators, and transformers, which convert electrical energy to mechanical energy and vice versa. Computer hard drives use magnetic materials to store data. Medical devices like MRI (Magnetic Resonance Imaging) machines use powerful magnets to create detailed images of the human body. Even everyday items like refrigerator magnets, credit cards, and speakers rely on magnetic principles.<br><br>(5) Earth itself acts as a giant magnet with magnetic poles located near the geographic North and South Poles. This planetary magnetism creates the Earth's magnetic field, which extends thousands of kilometers into space, forming the magnetosphere. This magnetic shield protects us from harmful solar radiation and cosmic rays. Interestingly, the Earth's magnetic poles have reversed multiple times throughout geological history, with the north becoming south and vice versa, a process that takes thousands of years to complete.",
+  "questions": [
+    { 
+      "id": 1, 
+      "question": "Choose the correct verb form: 'If he _____ harder, he would have passed the exam.'", 
+      "options": {
+        "A": "studies", 
+        "B": "studied", 
+        "C": "had studied", 
+        "D": "would study"
+      }, 
+      "correct_answer": "C", 
+      "category": "Grammar" 
+    },
+    { 
+      "id": 2, 
+      "question": "Select the correct option to complete the sentence: 'She _____ in this company since 2010.'", 
+      "options": {
+        "A": "works", 
+        "B": "is working", 
+        "C": "has worked", 
+        "D": "had worked"
+      }, 
+      "correct_answer": "C", 
+      "category": "Grammar" 
+    },
+    { 
+      "id": 3, 
+      "question": "Which sentence contains an error?", 
+      "options": {
+        "A": "Neither John nor his sisters are coming to the party.", 
+        "B": "The news is very exciting.", 
+        "C": "Each of the students have submitted their assignments.", 
+        "D": "Mathematics is my favorite subject."
+      }, 
+      "correct_answer": "C", 
+      "category": "Grammar" 
+    },
+    { 
+      "id": 4, 
+      "question": "Choose the correct preposition: 'She's been waiting _____ the bus for 20 minutes.'", 
+      "options": {
+        "A": "for", 
+        "B": "to", 
+        "C": "on", 
+        "D": "at"
+      }, 
+      "correct_answer": "A", 
+      "category": "Grammar" 
+    },
+    { 
+      "id": 5, 
+      "question": "Select the correct relative pronoun: 'The book _____ you lent me was very interesting.'", 
+      "options": {
+        "A": "which", 
+        "B": "who", 
+        "C": "whom", 
+        "D": "whose"
+      }, 
+      "correct_answer": "A", 
+      "category": "Grammar" 
+    },
+    { 
+      "id": 6, 
+      "question": "Which sentence is in the passive voice?", 
+      "options": {
+        "A": "They are building a new shopping mall.", 
+        "B": "A new shopping mall is being built.", 
+        "C": "We will visit the new shopping mall.", 
+        "D": "The new shopping mall opens next month."
+      }, 
+      "correct_answer": "B", 
+      "category": "Grammar" 
+    },
+    { 
+      "id": 7, 
+      "question": "Choose the correct comparative form: 'This exam is _____ than the previous one.'", 
+      "options": {
+        "A": "more difficult", 
+        "B": "difficulter", 
+        "C": "most difficult", 
+        "D": "the most difficult"
+      }, 
+      "correct_answer": "A", 
+      "category": "Grammar" 
+    },
+    { 
+      "id": 8, 
+      "question": "Select the correct modal verb: 'You _____ be tired after working all night.'", 
+      "options": {
+        "A": "would", 
+        "B": "should", 
+        "C": "might", 
+        "D": "must"
+      }, 
+      "correct_answer": "D", 
+      "category": "Grammar" 
+    },
+    { 
+      "id": 9, 
+      "question": "Choose the correct tense: 'By the time we arrive, the movie _____.'", 
+      "options": {
+        "A": "will start", 
+        "B": "will have started", 
+        "C": "starts", 
+        "D": "is starting"
+      }, 
+      "correct_answer": "B", 
+      "category": "Grammar" 
+    },
+    { 
+      "id": 10, 
+      "question": "Select the correct article: 'She plays _____ piano very well.'", 
+      "options": {
+        "A": "a", 
+        "B": "an", 
+        "C": "the", 
+        "D": "no article needed"
+      }, 
+      "correct_answer": "C", 
+      "category": "Grammar" 
+    },
+    { 
+      "id": 11, 
+      "question": "Which conditional sentence is correct?", 
+      "options": {
+        "A": "If it will rain tomorrow, we won't go to the beach.", 
+        "B": "If it rains tomorrow, we won't go to the beach.", 
+        "C": "If it rain tomorrow, we won't go to the beach.", 
+        "D": "If it would rain tomorrow, we won't go to the beach."
+      }, 
+      "correct_answer": "B", 
+      "category": "Grammar" 
+    },
+    { 
+      "id": 12, 
+      "question": "Choose the correct form of the verb: 'She suggested _____ to the museum.'", 
+      "options": {
+        "A": "to go", 
+        "B": "going", 
+        "C": "go", 
+        "D": "that we went"
+      }, 
+      "correct_answer": "B", 
+      "category": "Grammar" 
+    },
+    { 
+      "id": 13, 
+      "question": "Select the correct sentence in reported speech for: 'I will call you tomorrow,' she said.", 
+      "options": {
+        "A": "She said that she will call me tomorrow.", 
+        "B": "She said that she would call me the next day.", 
+        "C": "She said that she will call me the next day.", 
+        "D": "She said that she would call me tomorrow."
+      }, 
+      "correct_answer": "B", 
+      "category": "Grammar" 
+    },
+    { 
+      "id": 14, 
+      "question": "Choose the correct question tag: 'You've been to Paris, _____?'", 
+      "options": {
+        "A": "isn't it", 
+        "B": "don't you", 
+        "C": "haven't you", 
+        "D": "weren't you"
+      }, 
+      "correct_answer": "C", 
+      "category": "Grammar" 
+    },
+    { 
+      "id": 15, 
+      "question": "Select the sentence with the correct word order:", 
+      "options": {
+        "A": "Always he arrives late to the meetings.", 
+        "B": "He arrives to the meetings always late.", 
+        "C": "He always arrives late to the meetings.", 
+        "D": "He arrives always late to the meetings."
+      }, 
+      "correct_answer": "C", 
+      "category": "Grammar" 
+    },
+    { 
+      "id": 16, 
+      "question": "Choose the correct phrasal verb: 'Could you _____ the children while I go shopping?'", 
+      "options": {
+        "A": "look at", 
+        "B": "look up", 
+        "C": "look after", 
+        "D": "look for"
+      }, 
+      "correct_answer": "C", 
+      "category": "Use of English" 
+    },
+    { 
+      "id": 17, 
+      "question": "Select the appropriate idiom to complete the sentence: 'Finding a job in this economy is _____.'", 
+      "options": {
+        "A": "a piece of cake", 
+        "B": "a bed of roses", 
+        "C": "a walk in the park", 
+        "D": "an uphill battle"
+      }, 
+      "correct_answer": "D", 
+      "category": "Use of English" 
+    },
+    { 
+      "id": 18, 
+      "question": "Choose the correct collocation: 'She _____ a mistake in her calculations.'", 
+      "options": {
+        "A": "did", 
+        "B": "made", 
+        "C": "took", 
+        "D": "got"
+      }, 
+      "correct_answer": "B", 
+      "category": "Use of English" 
+    },
+    { 
+      "id": 19, 
+      "question": "Select the appropriate expression: 'I'm really tired. I think I'll _____.'", 
+      "options": {
+        "A": "hit the road", 
+        "B": "hit the roof", 
+        "C": "hit the hay", 
+        "D": "hit the books"
+      }, 
+      "correct_answer": "C", 
+      "category": "Use of English" 
+    },
+    { 
+      "id": 20, 
+      "question": "Choose the correct preposition: 'He's very good _____ playing the guitar.'", 
+      "options": {
+        "A": "at", 
+        "B": "in", 
+        "C": "for", 
+        "D": "with"
+      }, 
+      "correct_answer": "A", 
+      "category": "Use of English" 
+    },
+    { 
+      "id": 21, 
+      "question": "Select the correct connector: 'He didn't study for the exam; _____, he failed it.'", 
+      "options": {
+        "A": "however", 
+        "B": "therefore", 
+        "C": "although", 
+        "D": "despite"
+      }, 
+      "correct_answer": "B", 
+      "category": "Use of English" 
+    },
+    { 
+      "id": 22, 
+      "question": "Choose the most appropriate response to 'How do you do?'", 
+      "options": {
+        "A": "I'm fine, thanks.", 
+        "B": "How do you do?", 
+        "C": "I'm doing it well.", 
+        "D": "Very well, and yourself?"
+      }, 
+      "correct_answer": "B", 
+      "category": "Use of English" 
+    },
+    { 
+      "id": 23, 
+      "question": "Select the correct expression for making a suggestion:", 
+      "options": {
+        "A": "Why don't we go to the cinema?", 
+        "B": "I'm going to the cinema.", 
+        "C": "We must go to the cinema.", 
+        "D": "We are going to the cinema."
+      }, 
+      "correct_answer": "A", 
+      "category": "Use of English" 
+    },
+    { 
+      "id": 24, 
+      "question": "Choose the correct expression: 'I can't come to your party tonight. I have to _____.'", 
+      "options": {
+        "A": "take a rain check", 
+        "B": "break a leg", 
+        "C": "pull someone's leg", 
+        "D": "catch someone red-handed"
+      }, 
+      "correct_answer": "A", 
+      "category": "Use of English" 
+    },
+    { 
+      "id": 25, 
+      "question": "Select the most appropriate response to 'Would you mind opening the window?'", 
+      "options": {
+        "A": "Yes, I would.", 
+        "B": "No, I wouldn't.", 
+        "C": "Yes, I do.", 
+        "D": "No, I don't."
+      }, 
+      "correct_answer": "B", 
+      "category": "Use of English" 
+    },
+    { 
+      "id": 26, 
+      "question": "Choose the correct use of 'attend':", 
+      "options": {
+        "A": "I need to attend this problem immediately.", 
+        "B": "She attends English classes twice a week.", 
+        "C": "They attended the flowers in the garden.", 
+        "D": "We attended the movie last night."
+      }, 
+      "correct_answer": "B", 
+      "category": "Vocabulary" 
+    },
+    { 
+      "id": 27, 
+      "question": "Select the correct definition of 'classic':", 
+      "options": {
+        "A": "something very expensive", 
+        "B": "something old-fashioned and outdated", 
+        "C": "something of high quality that has stood the test of time", 
+        "D": "something that is currently popular"
+      }, 
+      "correct_answer": "C", 
+      "category": "Vocabulary" 
+    },
+    { 
+      "id": 28, 
+      "question": "Which sentence uses 'manner' correctly?", 
+      "options": {
+        "A": "He spoke in a polite manner to his teacher.", 
+        "B": "She mannered the situation very well.", 
+        "C": "They manner their house every weekend.", 
+        "D": "We mannered to finish the project on time."
+      }, 
+      "correct_answer": "A", 
+      "category": "Vocabulary" 
+    },
+    { 
+      "id": 29, 
+      "question": "Choose the correct sentence using 'assist':", 
+      "options": {
+        "A": "Can you assist me with my homework?", 
+        "B": "She assists to the gym every day.", 
+        "C": "They assist at home all weekend.", 
+        "D": "He assisted the movie from beginning to end."
+      }, 
+      "correct_answer": "A", 
+      "category": "Vocabulary" 
+    },
+    { 
+      "id": 30, 
+      "question": "Which sentence uses 'similar' correctly?", 
+      "options": {
+        "A": "His ideas are similar than mine.", 
+        "B": "The twins look very similar to each other.", 
+        "C": "She similars to arrive late every day.", 
+        "D": "We similar the project yesterday."
+      }, 
+      "correct_answer": "B", 
+      "category": "Vocabulary" 
+    },
+    { 
+      "id": 31, 
+      "question": "Select the correct use of 'handful':", 
+      "options": {
+        "A": "I need to handful all these documents.", 
+        "B": "They handful the situation very well.", 
+        "C": "She took a handful of candies from the jar.", 
+        "D": "We handful to the store yesterday."
+      }, 
+      "correct_answer": "C", 
+      "category": "Vocabulary" 
+    },
+    { 
+      "id": 32, 
+      "question": "Which sentence uses 'shortly' correctly?", 
+      "options": {
+        "A": "We shortly went to the beach.", 
+        "B": "The bus will arrive shortly.", 
+        "C": "She shortly lives in London.", 
+        "D": "They shortly the problem."
+      }, 
+      "correct_answer": "B", 
+      "category": "Vocabulary" 
+    },
+    { 
+      "id": 33, 
+      "question": "Choose the correct definition of 'mineral':", 
+      "options": {
+        "A": "a type of plant", 
+        "B": "a naturally occurring solid chemical substance", 
+        "C": "a kind of animal", 
+        "D": "a type of weather"
+      }, 
+      "correct_answer": "B", 
+      "category": "Vocabulary" 
+    },
+    { 
+      "id": 34, 
+      "question": "Select the sentence that uses 'positive' correctly:", 
+      "options": {
+        "A": "She always has a positive attitude towards challenges.", 
+        "B": "They positive at home all day.", 
+        "C": "He positives to work every morning.", 
+        "D": "We positive the test results."
+      }, 
+      "correct_answer": "A", 
+      "category": "Vocabulary" 
+    },
+    { 
+      "id": 35, 
+      "question": "Which sentence uses 'bother' correctly?", 
+      "options": {
+        "A": "Don't bother yourself with these small problems.", 
+        "B": "She bothers her room every day.", 
+        "C": "They bother to school by bus.", 
+        "D": "He bothered the movie last night."
+      }, 
+      "correct_answer": "A", 
+      "category": "Vocabulary" 
+    },
+    { 
+      "id": 36, 
+      "question": "Choose the correct use of 'assume':", 
+      "options": {
+        "A": "I assume to the park every Sunday.", 
+        "B": "She assumes her car very carefully.", 
+        "C": "Don't assume that everyone thinks like you do.", 
+        "D": "They assumed the furniture to the new house."
+      }, 
+      "correct_answer": "C", 
+      "category": "Vocabulary" 
+    },
+    { 
+      "id": 37, 
+      "question": "Select the correct definition of 'website':", 
+      "options": {
+        "A": "a book about the internet", 
+        "B": "a collection of web pages on the internet", 
+        "C": "a computer program", 
+        "D": "a place where spiders live"
+      }, 
+      "correct_answer": "B", 
+      "category": "Vocabulary" 
+    },
+    { 
+      "id": 38, 
+      "question": "Which sentence uses 'campaign' correctly?", 
+      "options": {
+        "A": "She campaigned the table for dinner.", 
+        "B": "The company launched a new advertising campaign.", 
+        "C": "They campaign to school every day.", 
+        "D": "He campaigned the letter to his friend."
+      }, 
+      "correct_answer": "B", 
+      "category": "Vocabulary" 
+    },
+    { 
+      "id": 39, 
+      "question": "Choose the correct sentence using 'recover':", 
+      "options": {
+        "A": "She is still recovering from the flu.", 
+        "B": "They recovered to the cinema yesterday.", 
+        "C": "He recovers his room every weekend.", 
+        "D": "We recover a book about history."
+      }, 
+      "correct_answer": "A", 
+      "category": "Vocabulary" 
+    },
+    { 
+      "id": 40, 
+      "question": "Select the correct use of 'morally':", 
+      "options": {
+        "A": "She morally goes to work at 8 am.", 
+        "B": "He thinks it's morally wrong to lie.", 
+        "C": "They morally the entire house last weekend.", 
+        "D": "We morally to the party."
+      }, 
+      "correct_answer": "B", 
+      "category": "Vocabulary" 
+    },
+    { 
+      "id": 41, 
+      "question": "According to paragraph 1, what creates magnetic fields?", 
+      "options": {
+        "A": "The motion of electric charges", 
+        "B": "Lodestones", 
+        "C": "Ancient Greeks", 
+        "D": "Iron objects"
+      }, 
+      "correct_answer": "A", 
+      "category": "Reading" 
+    },
+    { 
+      "id": 42, 
+      "question": "Based on paragraph 2, why do most materials not show magnetic properties?", 
+      "options": {
+        "A": "They don't contain electrons", 
+        "B": "Their atomic magnetic fields point in random directions", 
+        "C": "They don't have a nucleus", 
+        "D": "They are not exposed to magnetic fields"
+      }, 
+      "correct_answer": "B", 
+      "category": "Reading" 
+    },
+    { 
+      "id": 43, 
+      "question": "According to paragraph 3, what happens when two north poles of magnets are brought together?", 
+      "options": {
+        "A": "They attract each other", 
+        "B": "They repel each other", 
+        "C": "They cancel each other out", 
+        "D": "They create a stronger magnetic field"
+      }, 
+      "correct_answer": "B", 
+      "category": "Reading" 
+    },
+    { 
+      "id": 44, 
+      "question": "Which of the following is NOT mentioned as an application of magnets in paragraph 4?", 
+      "options": {
+        "A": "Electric motors", 
+        "B": "Computer hard drives", 
+        "C": "MRI machines", 
+        "D": "Television screens"
+      }, 
+      "correct_answer": "D", 
+      "category": "Reading" 
+    },
+    { 
+      "id": 45, 
+      "question": "According to paragraph 5, what is the magnetosphere?", 
+      "options": {
+        "A": "A type of magnetic material", 
+        "B": "Earth's magnetic field extending into space", 
+        "C": "The process of magnetic pole reversal", 
+        "D": "A region near the geographic poles"
+      }, 
+      "correct_answer": "B", 
+      "category": "Reading" 
+    },
+    { 
+      "id": 46, 
+      "question": "The word 'these' in paragraph 1 refers to:", 
+      "options": {
+        "A": "fundamental forces", 
+        "B": "humans", 
+        "C": "Greeks", 
+        "D": "certain stones"
+      }, 
+      "correct_answer": "D", 
+      "category": "Reading" 
+    },
+    { 
+      "id": 47, 
+      "question": "What is the main idea of the passage?", 
+      "options": {
+        "A": "The history of magnetism discoveries", 
+        "B": "How Earth's magnetic field works", 
+        "C": "The science of magnetism and its applications", 
+        "D": "How to create artificial magnets"
+      }, 
+      "correct_answer": "C", 
+      "category": "Reading" 
+    },
+    { 
+      "id": 48, 
+      "question": "Based on the passage, which of the following would most likely be ferromagnetic?", 
+      "options": {
+        "A": "Plastic", 
+        "B": "Wood", 
+        "C": "Gold", 
+        "D": "Nickel"
+      }, 
+      "correct_answer": "D", 
+      "category": "Reading" 
+    },
+    { 
+      "id": 49, 
+      "question": "According to the passage, what happens during Earth's magnetic pole reversal?", 
+      "options": {
+        "A": "The Earth moves to a different position", 
+        "B": "The north pole becomes the south pole and vice versa", 
+        "C": "The magnetosphere disappears", 
+        "D": "Harmful radiation reaches the Earth's surface"
+      }, 
+      "correct_answer": "B", 
+      "category": "Reading" 
+    },
+    { 
+      "id": 50, 
+      "question": "According to the passage, what protects Earth from harmful solar radiation?", 
+      "options": {
+        "A": "Lodestones", 
+        "B": "Ferromagnetic materials", 
+        "C": "The magnetosphere", 
+        "D": "Iron filings"
+      }, 
+      "correct_answer": "C", 
+      "category": "Reading" 
+    }
+  ]
+}
