@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Energy is essential for modern life, powering everything from homes and transportation to industries and technology. Energy sources are generally classified into two main categories: renewable and non-renewable. These different types of energy have significant impacts on our environment, economy, and future sustainability. Understanding the differences between them is crucial as the world faces growing energy demands and environmental challenges.<br><br>(2) Non-renewable energy sources include fossil fuels such as coal, oil, and natural gas, as well as nuclear energy. These sources formed over millions of years and exist in limited quantities on Earth. Once consumed, they cannot be replaced within a human lifetime. For decades, these sources have dominated global energy production due to their reliability, high energy output, and established infrastructure. However, they present serious drawbacks, including the release of greenhouse gases when burned, contribution to air and water pollution, and the inevitable problem of eventual depletion.<br><br>(3) Renewable energy, in contrast, comes from natural sources that replenish themselves relatively quickly. Solar energy harnesses power from the sun, while wind energy captures the kinetic energy of moving air. Hydropower utilizes flowing water, biomass energy comes from organic materials, and geothermal energy taps into Earth's internal heat. These sources offer significant environmental advantages as they produce minimal pollution and greenhouse gases during operation. Additionally, they represent inexhaustible energy supplies that will not run out as long as their natural sources exist.<br><br>(4) The transition from non-renewable to renewable energy presents both challenges and opportunities. Renewable technologies often require substantial initial investments, though operational costs typically decrease over time. Intermittency can be an issue, as solar and wind power depend on weather conditions. Energy storage systems and improved grid management are being developed to address these limitations. Despite these challenges, renewable energy capacity has grown dramatically in recent years as technology improves and costs decline, making these sources increasingly competitive with conventional fuels.<br><br>(5) The future energy landscape will likely feature a mix of sources, with renewables playing an increasingly dominant role. Many countries have established ambitious targets for renewable energy adoption and carbon emission reductions. Technological innovations continue to enhance efficiency and reduce costs for clean energy options. Individual consumers also have growing opportunities to participate in this transition through home solar installations, energy-efficient appliances, and support for clean energy policies. The shift toward sustainable energy represents one of the most significant global transformations of the 21st century, with profound implications for economies, environments, and societies worldwide.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct form of the verb: 'He _____ to the radio every morning.'",
+      "options": {
+        "A": "listen",
+        "B": "listening",
+        "C": "listens",
+        "D": "is listen"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the correct past tense form: 'Last weekend, we _____ to the beach.'",
+      "options": {
+        "A": "go",
+        "B": "gone",
+        "C": "was going",
+        "D": "went"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Choose the correct preposition: 'She arrived _____ the airport an hour ago.'",
+      "options": {
+        "A": "to",
+        "B": "at",
+        "C": "in",
+        "D": "on"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Select the correct comparative form: 'This book is _____ than that one.'",
+      "options": {
+        "A": "more interesting",
+        "B": "interestinger",
+        "C": "most interesting",
+        "D": "the most interesting"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Which sentence has the correct word order?",
+      "options": {
+        "A": "Yesterday went to the movies we.",
+        "B": "We yesterday to the movies went.",
+        "C": "We went to the movies yesterday.",
+        "D": "Went we to the movies yesterday."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Choose the correct modal verb: 'You _____ smoke in the hospital.'",
+      "options": {
+        "A": "don't have to",
+        "B": "mustn't",
+        "C": "shouldn't",
+        "D": "wouldn't"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Select the correct present perfect form: 'She _____ in London for three years.'",
+      "options": {
+        "A": "lives",
+        "B": "is living",
+        "C": "has lived",
+        "D": "was living"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct passive form: 'This house _____ in 1980.'",
+      "options": {
+        "A": "built",
+        "B": "was built",
+        "C": "is built",
+        "D": "has built"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Select the correct conditional form: 'If it rains tomorrow, I _____ at home.'",
+      "options": {
+        "A": "stay",
+        "B": "stayed",
+        "C": "will stay",
+        "D": "would stay"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct article: 'She plays _____ piano very well.'",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article needed"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Select the correct question form: '_____ does he work?'",
+      "options": {
+        "A": "Where",
+        "B": "When",
+        "C": "Who",
+        "D": "What"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Choose the correct relative pronoun: 'The woman _____ lives next door is a doctor.'",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Select the correct future form: 'The train _____ at 3 PM tomorrow.'",
+      "options": {
+        "A": "leaves",
+        "B": "is leaving",
+        "C": "will leave",
+        "D": "left"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct quantifier: 'There isn't _____ milk left in the fridge.'",
+      "options": {
+        "A": "many",
+        "B": "much",
+        "C": "few",
+        "D": "little"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the sentence with the correct subject-verb agreement:",
+      "options": {
+        "A": "The news are interesting today.",
+        "B": "The people is waiting for the bus.",
+        "C": "Each of the students have a book.",
+        "D": "Mathematics is my favorite subject."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Complete the expression: 'Let's _____ in touch!'",
+      "options": {
+        "A": "keep",
+        "B": "stay",
+        "C": "hold",
+        "D": "make"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the most appropriate response to 'How are you?'",
+      "options": {
+        "A": "I'm 25 years old.",
+        "B": "I'm an engineer.",
+        "C": "I'm fine, thanks. And you?",
+        "D": "I'm from Spain."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the correct phrasal verb: 'Can you _____ the children while I'm away?'",
+      "options": {
+        "A": "look at",
+        "B": "look for",
+        "C": "look after",
+        "D": "look up"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct collocation: 'She _____ a decision to change her job.'",
+      "options": {
+        "A": "made",
+        "B": "did",
+        "C": "took",
+        "D": "had"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the appropriate expression for making a suggestion:",
+      "options": {
+        "A": "I'm thinking about going to the cinema.",
+        "B": "Why don't we go to the cinema?",
+        "C": "I went to the cinema yesterday.",
+        "D": "The cinema is closed today."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the correct option to complete this request: 'Could you _____ me a favor, please?'",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "give",
+        "D": "take"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Select the most natural expression for apologizing:",
+      "options": {
+        "A": "I'm apologize for being late.",
+        "B": "I'm very apologize.",
+        "C": "I'm sorry for being late.",
+        "D": "I'm sorry that I am late."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct expression: 'I need to _____ a shower before going out.'",
+      "options": {
+        "A": "do",
+        "B": "make",
+        "C": "have",
+        "D": "take"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Complete the sentence correctly: 'The meeting has been _____ until next week.'",
+      "options": {
+        "A": "put off",
+        "B": "put away",
+        "C": "put down",
+        "D": "put up"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the most appropriate response to 'Would you like some coffee?'",
+      "options": {
+        "A": "Yes, I'd love to.",
+        "B": "Yes, please. That would be nice.",
+        "C": "Yes, I'm liking coffee.",
+        "D": "Yes, I'd want some."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the sentence where 'clean' is used correctly:",
+      "options": {
+        "A": "She cleans her teeth every morning.",
+        "B": "She cleans the dishes in the sink.",
+        "C": "She cleans the lights when she leaves.",
+        "D": "She cleans the TV before watching it."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Which is the opposite of 'clean'?",
+      "options": {
+        "A": "wet",
+        "B": "dirty",
+        "C": "messy",
+        "D": "damaged"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Complete the sentence: 'Can you _____ this bottle with water, please?'",
+      "options": {
+        "A": "fill",
+        "B": "full",
+        "C": "filling",
+        "D": "filled"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Choose the sentence where 'empty' is used correctly:",
+      "options": {
+        "A": "Please empty your glass before leaving.",
+        "B": "The bus was empty of passengers.",
+        "C": "She emptied the mail from her inbox.",
+        "D": "All of the above are correct."
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Complete the sentence: 'You need to _____ the door to open it, not pull it.'",
+      "options": {
+        "A": "press",
+        "B": "push",
+        "C": "hit",
+        "D": "throw"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Choose the correct sentence using 'pull':",
+      "options": {
+        "A": "You should pull the trigger to take a photo.",
+        "B": "Please pull your shoes before entering.",
+        "C": "Pull the handle to open the drawer.",
+        "D": "She pulled the button of her coat."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Which sentence uses 'open' correctly?",
+      "options": {
+        "A": "Can you open the lights, please?",
+        "B": "She opened the window to let in fresh air.",
+        "C": "He opened the TV to watch the news.",
+        "D": "They open the music very loud."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Complete the sentence: 'Don't forget to _____ the door when you leave.'",
+      "options": {
+        "A": "close",
+        "B": "shut",
+        "C": "lock",
+        "D": "Both A and B are correct."
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Choose the sentence where 'start' is used correctly:",
+      "options": {
+        "A": "I'll start you how to do it.",
+        "B": "The film starts at 8 PM.",
+        "C": "She started the book on the shelf.",
+        "D": "They start working hardly."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "What is the opposite of 'start'?",
+      "options": {
+        "A": "end",
+        "B": "finish",
+        "C": "stop",
+        "D": "All of the above"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Complete the sentence: 'It's never too late to _____ a new language.'",
+      "options": {
+        "A": "learn",
+        "B": "study",
+        "C": "know",
+        "D": "understand"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Choose the sentence where 'teach' is used correctly:",
+      "options": {
+        "A": "My father teaches me how to drive.",
+        "B": "She teaches English since ten years.",
+        "C": "He teaches a book about history.",
+        "D": "They teach in the university library."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Complete the sentence: 'I need to _____ for my exam tomorrow.'",
+      "options": {
+        "A": "learn",
+        "B": "know",
+        "C": "study",
+        "D": "read"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Choose the sentence where 'practice' is used correctly:",
+      "options": {
+        "A": "You need to practice more your English.",
+        "B": "He practices the piano every day.",
+        "C": "She practiced hardly before the competition.",
+        "D": "They practice many mistakes."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Complete the sentence: 'My English has really _____ since I started watching movies without subtitles.'",
+      "options": {
+        "A": "got better",
+        "B": "improved",
+        "C": "increased",
+        "D": "grown"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what is crucial to understand about energy sources?",
+      "options": {
+        "A": "How to extract them from the Earth",
+        "B": "Their differences and impacts",
+        "C": "Their cost effectiveness",
+        "D": "How they are transported globally"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "According to paragraph 2, why have non-renewable energy sources dominated global energy production?",
+      "options": {
+        "A": "They are more environmentally friendly",
+        "B": "They are cheaper to produce",
+        "C": "They are more reliable and have established infrastructure",
+        "D": "They produce less pollution"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "Which of the following is NOT mentioned as a type of renewable energy in paragraph 3?",
+      "options": {
+        "A": "Nuclear energy",
+        "B": "Solar energy",
+        "C": "Wind energy",
+        "D": "Hydropower"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to paragraph 3, what is a key environmental advantage of renewable energy sources?",
+      "options": {
+        "A": "They are cheaper to produce",
+        "B": "They produce minimal pollution during operation",
+        "C": "They are more reliable in all weather conditions",
+        "D": "They require less maintenance"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What challenge of renewable energy is mentioned in paragraph 4?",
+      "options": {
+        "A": "Low energy output",
+        "B": "Lack of public support",
+        "C": "Intermittency due to weather conditions",
+        "D": "Environmental damage"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to paragraph 4, what has happened to renewable energy in recent years?",
+      "options": {
+        "A": "It has become more expensive",
+        "B": "Its capacity has grown dramatically",
+        "C": "It has become less efficient",
+        "D": "It has been banned in many countries"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Based on paragraph 5, what is likely to happen in the future energy landscape?",
+      "options": {
+        "A": "Non-renewable energy will remain dominant",
+        "B": "Renewable energy will play an increasingly dominant role",
+        "C": "Energy consumption will decrease worldwide",
+        "D": "New types of fossil fuels will be discovered"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The word 'inexhaustible' in paragraph 3 is closest in meaning to:",
+      "options": {
+        "A": "Expensive",
+        "B": "Limited",
+        "C": "Endless",
+        "D": "Powerful"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What is the main idea of the passage?",
+      "options": {
+        "A": "Non-renewable energy is better than renewable energy",
+        "B": "Comparing different energy sources and their implications",
+        "C": "How to reduce energy consumption",
+        "D": "The history of energy production"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "According to the passage, how can individual consumers participate in the energy transition?",
+      "options": {
+        "A": "By using more electricity",
+        "B": "By investing in oil companies",
+        "C": "Through home solar installations and energy-efficient appliances",
+        "D": "By protesting against renewable energy projects"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
