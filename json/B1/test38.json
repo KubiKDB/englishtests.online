@@ -1,0 +1,605 @@
+{
+    "passage": "<br>(1) The invention of the telephone in 1876 by Alexander Graham Bell revolutionized human communication in ways that previous generations could never have imagined. Before the telephone, people relied on written letters or face-to-face conversations to exchange information, which often meant long delays or significant travel. The telephone changed this by enabling immediate vocal communication across great distances, connecting people in real-time despite physical separation.<br><br>(2) Within decades of its invention, telephone networks expanded rapidly across countries and continents. By the early 20th century, telephone lines linked major cities, and gradually extended to suburban and rural areas. This expansion transformed business operations, allowing companies to coordinate activities across different locations and respond quickly to changing market conditions. For ordinary citizens, the telephone reduced isolation and provided a sense of security, especially in emergencies when immediate contact was crucial.<br><br>(3) The social impact of the telephone was equally profound. Family relationships changed as relatives could maintain close connections despite living far apart. The telephone also altered social etiquette, creating new customs and expectations around communication. People developed specific telephone manners, including standard greetings and conversational patterns. The immediacy of telephone calls also meant that individuals had less time to consider their responses compared to written correspondence, making communication more spontaneous but sometimes less thoughtful.<br><br>(4) Throughout the 20th century, telephone technology continued to evolve. Rotary phones gave way to touch-tone systems, while the introduction of mobile phones in the 1980s freed people from fixed locations. By the early 21st century, smartphones combined telephone functionality with internet access, messaging, and various applications, further transforming how people connect with one another. These developments have blurred the distinction between telephone calls and other forms of communication.<br><br>(5) Despite the rise of text messaging, social media, and video conferencing, voice calls remain an essential form of communication. The human voice conveys emotional nuances that written messages cannot capture, making telephone conversations particularly valuable for sensitive discussions. Additionally, telephone systems have become more reliable and accessible than ever before, with global coverage reaching even remote areas. The telephone's journey from a novel invention to an indispensable tool illustrates how a single technology can fundamentally reshape human interaction across society.",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Which sentence uses the present perfect tense correctly?",
+        "options": {
+          "A": "I am living here since 2010.",
+          "B": "She has finished her homework yesterday.",
+          "C": "They have already seen that movie.",
+          "D": "We are visiting London three times."
+        },
+        "correct_answer": "C",
+        "category": "Grammar"
+      },
+      {
+        "id": 2,
+        "question": "Choose the correct passive form: 'Someone built this house in 1930.'",
+        "options": {
+          "A": "This house builds in 1930.",
+          "B": "This house was built in 1930.",
+          "C": "This house is built in 1930.",
+          "D": "This house has been building in 1930."
+        },
+        "correct_answer": "B",
+        "category": "Grammar"
+      },
+      {
+        "id": 3,
+        "question": "If I _____ more time, I would learn another language.",
+        "options": {
+          "A": "have",
+          "B": "had",
+          "C": "would have",
+          "D": "will have"
+        },
+        "correct_answer": "B",
+        "category": "Grammar"
+      },
+      {
+        "id": 4,
+        "question": "She _____ to the radio when her friend called.",
+        "options": {
+          "A": "listens",
+          "B": "listened",
+          "C": "was listening",
+          "D": "has listened"
+        },
+        "correct_answer": "C",
+        "category": "Grammar"
+      },
+      {
+        "id": 5,
+        "question": "_____ does it take to get to your school?",
+        "options": {
+          "A": "How long",
+          "B": "How much",
+          "C": "How far",
+          "D": "How often"
+        },
+        "correct_answer": "A",
+        "category": "Grammar"
+      },
+      {
+        "id": 6,
+        "question": "The children _____ play outside if it stops raining.",
+        "options": {
+          "A": "would",
+          "B": "could",
+          "C": "must",
+          "D": "will"
+        },
+        "correct_answer": "D",
+        "category": "Grammar"
+      },
+      {
+        "id": 7,
+        "question": "You don't need _____ an umbrella. It's not going to rain.",
+        "options": {
+          "A": "taking",
+          "B": "take",
+          "C": "to take",
+          "D": "took"
+        },
+        "correct_answer": "C",
+        "category": "Grammar"
+      },
+      {
+        "id": 8,
+        "question": "The book _____ you gave me was really interesting.",
+        "options": {
+          "A": "who",
+          "B": "whom",
+          "C": "whose",
+          "D": "which"
+        },
+        "correct_answer": "D",
+        "category": "Grammar"
+      },
+      {
+        "id": 9,
+        "question": "I wish I _____ how to swim when I was younger.",
+        "options": {
+          "A": "learned",
+          "B": "have learned",
+          "C": "had learned",
+          "D": "would learn"
+        },
+        "correct_answer": "C",
+        "category": "Grammar"
+      },
+      {
+        "id": 10,
+        "question": "By the time we arrived, the movie _____.",
+        "options": {
+          "A": "already started",
+          "B": "has already started",
+          "C": "had already started",
+          "D": "was already starting"
+        },
+        "correct_answer": "C",
+        "category": "Grammar"
+      },
+      {
+        "id": 11,
+        "question": "This is _____ expensive restaurant in the city.",
+        "options": {
+          "A": "more",
+          "B": "most",
+          "C": "the more",
+          "D": "the most"
+        },
+        "correct_answer": "D",
+        "category": "Grammar"
+      },
+      {
+        "id": 12,
+        "question": "She asked me _____ I wanted to join them for dinner.",
+        "options": {
+          "A": "that",
+          "B": "what",
+          "C": "if",
+          "D": "when"
+        },
+        "correct_answer": "C",
+        "category": "Grammar"
+      },
+      {
+        "id": 13,
+        "question": "We _____ to finish this project by Friday.",
+        "options": {
+          "A": "must",
+          "B": "should",
+          "C": "would",
+          "D": "could"
+        },
+        "correct_answer": "A",
+        "category": "Grammar"
+      },
+      {
+        "id": 14,
+        "question": "If he _____ harder, he would have passed the exam.",
+        "options": {
+          "A": "studied",
+          "B": "studies",
+          "C": "had studied",
+          "D": "would study"
+        },
+        "correct_answer": "C",
+        "category": "Grammar"
+      },
+      {
+        "id": 15,
+        "question": "The party was _____ boring that we left early.",
+        "options": {
+          "A": "such",
+          "B": "so",
+          "C": "too",
+          "D": "very"
+        },
+        "correct_answer": "B",
+        "category": "Grammar"
+      },
+      {
+        "id": 16,
+        "question": "After the accident, he needed physical _____ to help him walk again.",
+        "options": {
+          "A": "medicine",
+          "B": "therapy",
+          "C": "operation",
+          "D": "examination"
+        },
+        "correct_answer": "B",
+        "category": "Vocabulary"
+      },
+      {
+        "id": 17,
+        "question": "The factory uses a special _____ to package their products automatically.",
+        "options": {
+          "A": "device",
+          "B": "tool",
+          "C": "machine",
+          "D": "equipment"
+        },
+        "correct_answer": "C",
+        "category": "Vocabulary"
+      },
+      {
+        "id": 18,
+        "question": "She expressed her _____ for his loss by sending flowers to the funeral.",
+        "options": {
+          "A": "sympathy",
+          "B": "emotion",
+          "C": "understanding",
+          "D": "feeling"
+        },
+        "correct_answer": "A",
+        "category": "Vocabulary"
+      },
+      {
+        "id": 19,
+        "question": "Problem _____ is an important skill that many employers look for in candidates.",
+        "options": {
+          "A": "fixing",
+          "B": "solving",
+          "C": "answering",
+          "D": "managing"
+        },
+        "correct_answer": "B",
+        "category": "Vocabulary"
+      },
+      {
+        "id": 20,
+        "question": "There's _____ of time to finish the assignment before the deadline.",
+        "options": {
+          "A": "lots",
+          "B": "enough",
+          "C": "plenty",
+          "D": "many"
+        },
+        "correct_answer": "C",
+        "category": "Vocabulary"
+      },
+      {
+        "id": 21,
+        "question": "In business, a _____ is someone you work with to achieve common goals.",
+        "options": {
+          "A": "colleague",
+          "B": "employee",
+          "C": "associate",
+          "D": "partner"
+        },
+        "correct_answer": "D",
+        "category": "Vocabulary"
+      },
+      {
+        "id": 22,
+        "question": "The weather was beautiful; _____, we decided to stay indoors and watch a movie.",
+        "options": {
+          "A": "therefore",
+          "B": "moreover",
+          "C": "however",
+          "D": "furthermore"
+        },
+        "correct_answer": "C",
+        "category": "Vocabulary"
+      },
+      {
+        "id": 23,
+        "question": "Many people _____ with mental health issues at some point in their lives.",
+        "options": {
+          "A": "battle",
+          "B": "struggle",
+          "C": "fight",
+          "D": "conflict"
+        },
+        "correct_answer": "B",
+        "category": "Vocabulary"
+      },
+      {
+        "id": 24,
+        "question": "Please complete the questionnaire in the final _____ of the form.",
+        "options": {
+          "A": "area",
+          "B": "portion",
+          "C": "section",
+          "D": "part"
+        },
+        "correct_answer": "C",
+        "category": "Vocabulary"
+      },
+      {
+        "id": 25,
+        "question": "_____ students have complained about the difficulty of the exam.",
+        "options": {
+          "A": "Various",
+          "B": "Several",
+          "C": "Some",
+          "D": "Few"
+        },
+        "correct_answer": "B",
+        "category": "Vocabulary"
+      },
+      {
+        "id": 26,
+        "question": "The new sports _____ includes a swimming pool, gym, and tennis courts.",
+        "options": {
+          "A": "facility",
+          "B": "building",
+          "C": "center",
+          "D": "complex"
+        },
+        "correct_answer": "A",
+        "category": "Vocabulary"
+      },
+      {
+        "id": 27,
+        "question": "Scientists are concerned about the impact of _____ change on the environment.",
+        "options": {
+          "A": "weather",
+          "B": "climate",
+          "C": "atmosphere",
+          "D": "temperature"
+        },
+        "correct_answer": "B",
+        "category": "Vocabulary"
+      },
+      {
+        "id": 28,
+        "question": "The perfect _____ for a romantic dinner includes soft lighting and quiet music.",
+        "options": {
+          "A": "position",
+          "B": "location",
+          "C": "place",
+          "D": "setting"
+        },
+        "correct_answer": "D",
+        "category": "Vocabulary"
+      },
+      {
+        "id": 29,
+        "question": "The police have begun an _____ into the cause of the accident.",
+        "options": {
+          "A": "inspection",
+          "B": "inquiry",
+          "C": "investigation",
+          "D": "examination"
+        },
+        "correct_answer": "B",
+        "category": "Vocabulary"
+      },
+      {
+        "id": 30,
+        "question": "_____ the rain, they decided to continue with their outdoor wedding plans.",
+        "options": {
+          "A": "Although",
+          "B": "Despite",
+          "C": "Even",
+          "D": "Nevertheless"
+        },
+        "correct_answer": "B",
+        "category": "Vocabulary"
+      },
+      {
+        "id": 31,
+        "question": "You need to _____ attention to the teacher if you want to understand.",
+        "options": {
+          "A": "pay",
+          "B": "make",
+          "C": "do",
+          "D": "give"
+        },
+        "correct_answer": "A",
+        "category": "Use of English"
+      },
+      {
+        "id": 32,
+        "question": "Let's _____ a break; we've been working for hours.",
+        "options": {
+          "A": "do",
+          "B": "have",
+          "C": "make",
+          "D": "take"
+        },
+        "correct_answer": "D",
+        "category": "Use of English"
+      },
+      {
+        "id": 33,
+        "question": "I don't _____ watching horror movies. They frighten me too much.",
+        "options": {
+          "A": "enjoy",
+          "B": "prefer",
+          "C": "like",
+          "D": "want"
+        },
+        "correct_answer": "A",
+        "category": "Use of English"
+      },
+      {
+        "id": 34,
+        "question": "She _____ a mistake in her calculations, which caused the problem.",
+        "options": {
+          "A": "did",
+          "B": "made",
+          "C": "had",
+          "D": "took"
+        },
+        "correct_answer": "B",
+        "category": "Use of English"
+      },
+      {
+        "id": 35,
+        "question": "Could you please turn _____ the volume? The music is too loud.",
+        "options": {
+          "A": "down",
+          "B": "off",
+          "C": "over",
+          "D": "away"
+        },
+        "correct_answer": "A",
+        "category": "Use of English"
+      },
+      {
+        "id": 36,
+        "question": "I'm not very good _____ remembering people's names.",
+        "options": {
+          "A": "in",
+          "B": "on",
+          "C": "at",
+          "D": "with"
+        },
+        "correct_answer": "C",
+        "category": "Use of English"
+      },
+      {
+        "id": 37,
+        "question": "The movie was different _____ the book in several important ways.",
+        "options": {
+          "A": "from",
+          "B": "than",
+          "C": "to",
+          "D": "as"
+        },
+        "correct_answer": "A",
+        "category": "Use of English"
+      },
+      {
+        "id": 38,
+        "question": "She succeeded _____ passing all her exams with excellent grades.",
+        "options": {
+          "A": "for",
+          "B": "in",
+          "C": "at",
+          "D": "by"
+        },
+        "correct_answer": "B",
+        "category": "Use of English"
+      },
+      {
+        "id": 39,
+        "question": "I'm looking forward _____ you again soon.",
+        "options": {
+          "A": "to see",
+          "B": "for seeing",
+          "C": "to seeing",
+          "D": "see"
+        },
+        "correct_answer": "C",
+        "category": "Use of English"
+      },
+      {
+        "id": 40,
+        "question": "They arrived _____ the airport just in time for their flight.",
+        "options": {
+          "A": "to",
+          "B": "in",
+          "C": "at",
+          "D": "on"
+        },
+        "correct_answer": "C",
+        "category": "Use of English"
+      },
+      {
+        "id": 41,
+        "question": "According to paragraph 1, what was a major limitation of communication before the telephone?",
+        "options": {
+          "A": "People could not express emotions effectively",
+          "B": "Information exchange involved long delays or travel",
+          "C": "Written communication was too formal",
+          "D": "Only wealthy people could communicate over distances"
+        },
+        "correct_answer": "B",
+        "category": "Reading"
+      },
+      {
+        "id": 42,
+        "question": "Which benefit of telephone communication for ordinary citizens is mentioned in paragraph 2?",
+        "options": {
+          "A": "Lower cost of communication",
+          "B": "Entertainment value",
+          "C": "Reduced isolation",
+          "D": "Improved literacy"
+        },
+        "correct_answer": "C",
+        "category": "Reading"
+      },
+      {
+        "id": 43,
+        "question": "According to paragraph 3, how did telephone communication affect people's responses compared to written correspondence?",
+        "options": {
+          "A": "Responses became more formal",
+          "B": "People had more time to think",
+          "C": "Responses became more spontaneous but sometimes less thoughtful",
+          "D": "People could express emotions more clearly"
+        },
+        "correct_answer": "C",
+        "category": "Reading"
+      },
+      {
+        "id": 44,
+        "question": "Which development is mentioned as freeing people from fixed locations for communication?",
+        "options": {
+          "A": "Touch-tone systems",
+          "B": "Mobile phones",
+          "C": "Internet access",
+          "D": "Rotary phones"
+        },
+        "correct_answer": "B",
+        "category": "Reading"
+      },
+      {
+        "id": 45,
+        "question": "According to paragraph 5, what advantage do voice calls have over written messages?",
+        "options": {
+          "A": "They are faster to send",
+          "B": "They are more reliable",
+          "C": "They convey emotional nuances better",
+          "D": "They are less expensive"
+        },
+        "correct_answer": "C",
+        "category": "Reading"
+      },
+      {
+        "id": 46,
+        "question": "What major advancement in telephone technology occurred in the 1980s according to the passage?",
+        "options": {
+          "A": "The invention of smartphones",
+          "B": "The introduction of mobile phones",
+          "C": "The development of touch-tone systems",
+          "D": "The expansion of global coverage"
+        },
+        "correct_answer": "B",
+        "category": "Reading"
+      },
+      {
+        "id": 47,
+        "question": "Based on the passage, which word best describes the overall impact of the telephone on human communication?",
+        "options": {
+          "A": "Gradual",
+          "B": "Minimal",
+          "C": "Revolutionary",
+          "D": "Temporary"
+        },
+        "correct_answer": "C",
+        "category": "Reading"
+      },
+      {
+        "id": 48,
+        "question": "According to the passage, when was the telephone invented?",
+        "options": {
+          "A": "Early 20th century",
+          "B": "1980s",
+          "C": "1876",
+          "D": "Early 21st century"
+        },
+        "correct_answer": "C",
+        "category": "Reading"
+      },
+      {
+        "id": 49,
+        "question": "What development is described as blurring the distinction between telephone calls and other forms of communication?",
+        "options": {
+          "A": "Text messaging",
+          "B": "Social media",
+          "C": "Video conferencing",
+          "D": "Smartphones"
+        },
+        "correct_answer": "D",
+        "category": "Reading"
+      },
+      {
+        "id": 50,
+        "question": "Which of the following best expresses the main idea of the passage?",
+        "options": {
+          "A": "Telephone technology has made written communication obsolete",
+          "B": "The telephone has fundamentally reshaped human interaction across society",
+          "C": "Mobile phones are more important than traditional telephones",
+          "D": "Modern communication methods are superior to those of the past"
+        },
+        "correct_answer": "B",
+        "category": "Reading"
+      }
+    ]
+}
