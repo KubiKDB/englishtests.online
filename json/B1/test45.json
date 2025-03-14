@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Climate and weather are two terms that are often used interchangeably, but they actually refer to different aspects of atmospheric conditions. Weather describes the short-term state of the atmosphere in a specific place at a specific time, including factors such as temperature, humidity, precipitation, wind speed, and cloud cover. These conditions can change rapidly, sometimes within hours or even minutes.<br><br>(2) Climate, on the other hand, refers to the long-term patterns of weather in a particular region over an extended period, typically 30 years or more. It represents the average weather conditions and their variations in a given location over time. While weather can be unpredictable from day to day, climate tends to follow more stable patterns that allow scientists to make general predictions about seasonal changes.<br><br>(3) The difference between climate and weather can be understood through a simple analogy: climate is what you expect, while weather is what you get. For example, the climate of a desert region indicates hot and dry conditions overall, but on any given day, the weather might include an unexpected rainstorm. Similarly, while the climate of tropical regions is generally warm and humid year-round, daily weather can still include cooler periods or dry spells.<br><br>(4) Climate is influenced by various factors including latitude, elevation, proximity to large bodies of water, ocean currents, wind patterns, and geographical features like mountains. These factors work together to create distinct climate zones across the planet, from the icy polar regions to the hot and humid equatorial zones. Weather, meanwhile, is influenced by immediate atmospheric conditions and can be affected by local geography and short-term changes in air pressure and temperature.<br><br>(5) Understanding the difference between climate and weather is particularly important in the context of climate change. While unusual weather events, like a single cold snap or heat wave, cannot alone prove or disprove climate change, long-term shifts in average temperatures, precipitation patterns, and extreme weather frequency can indicate changing climate conditions. Scientists carefully distinguish between weather anomalies and climate trends when studying global environmental changes.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct past tense form: 'Last weekend, we _____ to the beach.'",
+      "options": {
+        "A": "go",
+        "B": "goes",
+        "C": "went",
+        "D": "going"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the correct preposition: 'She has been waiting _____ the bus for twenty minutes.'",
+      "options": {
+        "A": "to",
+        "B": "for",
+        "C": "at",
+        "D": "by"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence uses the present perfect correctly?",
+      "options": {
+        "A": "I have seen that movie last night.",
+        "B": "She has lived here since five years.",
+        "C": "They have already finished their homework.",
+        "D": "We have went to the museum yesterday."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct form: 'If it _____ tomorrow, we'll stay home.'",
+      "options": {
+        "A": "will rain",
+        "B": "rains",
+        "C": "would rain",
+        "D": "is raining"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Select the correct relative pronoun: 'The book _____ you recommended was very interesting.'",
+      "options": {
+        "A": "who",
+        "B": "whom",
+        "C": "whose",
+        "D": "that"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which sentence has the correct word order?",
+      "options": {
+        "A": "Always he arrives on time.",
+        "B": "He on time always arrives.",
+        "C": "He always arrives on time.",
+        "D": "He arrives always on time."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct passive form: 'The windows _____ every week.'",
+      "options": {
+        "A": "clean",
+        "B": "are cleaning",
+        "C": "are cleaned",
+        "D": "cleaned"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the correct comparative form: 'This exercise is _____ than the previous one.'",
+      "options": {
+        "A": "more difficult",
+        "B": "difficulter",
+        "C": "most difficult",
+        "D": "more difficulter"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which modal verb is correct? 'You _____ wear a uniform to school.'",
+      "options": {
+        "A": "should to",
+        "B": "must to",
+        "C": "can to",
+        "D": "must"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct article: 'She plays _____ piano very well.'",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article needed"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Which sentence uses the past continuous tense correctly?",
+      "options": {
+        "A": "I was cook dinner when you called.",
+        "B": "She were reading a book last night.",
+        "C": "They was playing chess yesterday.",
+        "D": "We were watching TV when the power went out."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the correct form: 'There _____ a lot of people at the concert last night.'",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "is",
+        "D": "are"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct verb form: 'My brother _____ in London now.'",
+      "options": {
+        "A": "live",
+        "B": "lives",
+        "C": "living",
+        "D": "is live"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Select the correct conjunction: 'I wanted to go swimming, _____ the pool was closed.'",
+      "options": {
+        "A": "so",
+        "B": "because",
+        "C": "and",
+        "D": "but"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Which sentence has the correct subject-verb agreement?",
+      "options": {
+        "A": "The news are good today.",
+        "B": "The people in the room is talking loudly.",
+        "C": "Each of the students has a computer.",
+        "D": "My family are coming to visit tomorrow."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Complete the sentence: 'Despite the rain, they decided _____ with their picnic plans.'",
+      "options": {
+        "A": "to continue",
+        "B": "continuing",
+        "C": "continue",
+        "D": "to continuing"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct phrasal verb: 'Can you _____ these old books for me?'",
+      "options": {
+        "A": "look after",
+        "B": "look up",
+        "C": "look for",
+        "D": "look into"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the appropriate idiom: 'Finding a parking space in the city center is _____.'",
+      "options": {
+        "A": "a piece of cake",
+        "B": "a hard nut to crack",
+        "C": "once in a blue moon",
+        "D": "under the weather"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct collocation: 'She _____ a presentation at the conference yesterday.'",
+      "options": {
+        "A": "made",
+        "B": "did",
+        "C": "gave",
+        "D": "took"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Complete the sentence with the appropriate preposition: 'She's very good _____ playing the guitar.'",
+      "options": {
+        "A": "in",
+        "B": "at",
+        "C": "for",
+        "D": "with"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the correct linking word: 'The weather was terrible; _____, we still enjoyed our holiday.'",
+      "options": {
+        "A": "therefore",
+        "B": "however",
+        "C": "otherwise",
+        "D": "although"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Select the correct fixed expression: 'We need to make a decision _____.'",
+      "options": {
+        "A": "at once in a while",
+        "B": "sooner or later",
+        "C": "on the edge",
+        "D": "against the clock"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Complete the sentence: 'I need to _____ a doctor's appointment for next week.'",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "take",
+        "D": "have"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct word form: 'The _____ of the new park will be next month.'",
+      "options": {
+        "A": "open",
+        "B": "opening",
+        "C": "opened",
+        "D": "opens"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the appropriate register for a formal letter: 'I am writing _____ inquire about the position advertised.'",
+      "options": {
+        "A": "to",
+        "B": "for to",
+        "C": "for",
+        "D": "about"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Which sentence uses the word 'lovely' correctly?",
+      "options": {
+        "A": "She has a lovely smile that brightens the room.",
+        "B": "The soup tastes very lovely with bread.",
+        "C": "We lovely going to the beach on weekends.",
+        "D": "This math problem is lovely difficult."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the correct definition of 'define': ",
+      "options": {
+        "A": "to make something bigger",
+        "B": "to state or explain the meaning of something",
+        "C": "to solve a difficult problem",
+        "D": "to create a new design"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Complete the sentence: 'The building has ten _____ including the ground floor.'",
+      "options": {
+        "A": "floors",
+        "B": "stages",
+        "C": "levels",
+        "D": "grounds"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which word CANNOT be used to describe something 'modern'?",
+      "options": {
+        "A": "contemporary",
+        "B": "current",
+        "C": "ancient",
+        "D": "up-to-date"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the sentence where 'waited' is used correctly:",
+      "options": {
+        "A": "We waited for the bus for over an hour.",
+        "B": "She waited the cake in the oven.",
+        "C": "They waited the bills to arrive.",
+        "D": "He waited his books on the desk."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Select the sentence where 'cannot' is used correctly:",
+      "options": {
+        "A": "I cannot to swim very well.",
+        "B": "She cannot remembering his name.",
+        "C": "They cannot find their car keys.",
+        "D": "We cannot went to the party."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Which sentence uses 'orders' correctly?",
+      "options": {
+        "A": "The chef orders the kitchen staff to work faster.",
+        "B": "She orders the shelf by color.",
+        "C": "They orders a pizza for dinner.",
+        "D": "He orders very tall."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Complete the sentence: 'Could you please _____ these books before you leave?'",
+      "options": {
+        "A": "shelf",
+        "B": "shelving",
+        "C": "shelves",
+        "D": "shelve"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Choose the sentence where 'pretty' is used correctly:",
+      "options": {
+        "A": "She speaks pretty good Spanish.",
+        "B": "The restaurant is pretty by the beach.",
+        "C": "They pretty their house with decorations.",
+        "D": "I pretty these cookies for dessert."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Select the correct meaning of 'doctor' in this context: 'She's going to doctor the photo before posting it online.'",
+      "options": {
+        "A": "to consult a medical professional about",
+        "B": "to alter or manipulate",
+        "C": "to diagnose a problem with",
+        "D": "to treat medically"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Which sentence uses 'wanted' correctly?",
+      "options": {
+        "A": "She wanted to become a doctor since childhood.",
+        "B": "They wanted happy about the exam results.",
+        "C": "He wanted the book on the table.",
+        "D": "I wanted running in the park."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Complete the sentence: 'Please _____ which dessert you would like.'",
+      "options": {
+        "A": "choice",
+        "B": "choose",
+        "C": "select",
+        "D": "decide"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "The word 'oiling' is used correctly in which sentence?",
+      "options": {
+        "A": "He is oiling the bicycle chain to make it run smoothly.",
+        "B": "She is oiling a cake for her birthday.",
+        "C": "They are oiling their shoes before the race.",
+        "D": "I am oiling the weather forecast."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Choose the sentence where 'travel' is used correctly:",
+      "options": {
+        "A": "News travel fast in small communities.",
+        "B": "Light travel faster than sound.",
+        "C": "She travel to Paris next month.",
+        "D": "They travel to Spain every summer."
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Complete the sentence: 'I received a _____ from my grandmother yesterday.'",
+      "options": {
+        "A": "email",
+        "B": "text",
+        "C": "letter",
+        "D": "phone"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "What is the main difference between weather and climate according to the passage?",
+      "options": {
+        "A": "Weather describes long-term patterns while climate describes short-term conditions.",
+        "B": "Weather is specific to a location while climate applies to the entire planet.",
+        "C": "Weather describes short-term atmospheric conditions while climate refers to long-term patterns.",
+        "D": "Weather is predictable while climate is unpredictable."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "According to paragraph 2, over what time period is climate typically measured?",
+      "options": {
+        "A": "One year",
+        "B": "Ten years",
+        "C": "Twenty years",
+        "D": "Thirty years or more"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "Which analogy is used in the passage to explain the difference between climate and weather?",
+      "options": {
+        "A": "Climate is what you expect, weather is what you get.",
+        "B": "Climate is the forest, weather is the trees.",
+        "C": "Climate is the ocean, weather is the waves.",
+        "D": "Climate is the journey, weather is the destination."
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Based on paragraph 3, which statement is true about desert regions?",
+      "options": {
+        "A": "They never experience rainfall.",
+        "B": "They have a hot and dry climate, but can occasionally experience rainstorms.",
+        "C": "Their weather is always predictable.",
+        "D": "Their climate changes significantly from day to day."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to paragraph 4, which of the following factors influence climate?",
+      "options": {
+        "A": "Human population density",
+        "B": "Local daily temperature fluctuations",
+        "C": "Short-term changes in air pressure",
+        "D": "Latitude and proximity to large bodies of water"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What does the passage suggest about a single cold snap or heat wave?",
+      "options": {
+        "A": "It provides definitive proof of climate change.",
+        "B": "It disproves climate change theories.",
+        "C": "It cannot alone prove or disprove climate change.",
+        "D": "It is the main indicator scientists use to study climate change."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Based on the passage, which of these is most clearly a climate characteristic rather than a weather event?",
+      "options": {
+        "A": "A thunderstorm occurring in the afternoon",
+        "B": "A hot day in summer",
+        "C": "A seasonal pattern of monsoon rains over several decades",
+        "D": "Strong winds during a particular week"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to the passage, why is understanding the difference between climate and weather important?",
+      "options": {
+        "A": "To predict daily temperature accurately",
+        "B": "For planning outdoor activities",
+        "C": "To understand the context of climate change",
+        "D": "To prepare for seasonal changes"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Which statement about tropical regions is supported by the passage?",
+      "options": {
+        "A": "They never experience cool periods.",
+        "B": "Their climate is generally warm and humid year-round.",
+        "C": "Their weather never varies from day to day.",
+        "D": "They have the same climate as desert regions."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What do scientists look for when studying climate change, according to the passage?",
+      "options": {
+        "A": "Daily weather patterns",
+        "B": "Short-term atmospheric conditions",
+        "C": "Long-term shifts in average temperatures and precipitation patterns",
+        "D": "Immediate changes in air pressure"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
