@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Temperature changes with elevation in our atmosphere in a phenomenon known as the lapse rate. As one climbs higher up a mountain or travels in an aircraft to higher altitudes, the temperature generally decreases. This relationship between elevation and temperature plays a crucial role in many atmospheric processes and affects climate patterns worldwide.<br><br>(2) On average, temperature decreases by about 6.5 degrees Celsius for every 1,000 meters of elevation gain. This occurs because air pressure decreases with height, causing the air to expand and cool. This cooling effect explains why mountain peaks remain snow-covered even in summer months, while valleys at lower elevations experience much warmer conditions.<br><br>(3) However, temperature inversions can sometimes disrupt this pattern. An inversion occurs when warm air sits above cooler air, reversing the normal temperature gradient. These inversions often happen in valleys during winter, when cold air flows downhill and becomes trapped beneath warmer air above. People living in valley towns may experience colder temperatures than those residing higher up the slopes.<br><br>(4) Elevation affects temperature differently depending on location and season. In tropical regions, the cooling effect of elevation creates distinct climate zones within short distances. This allows for diverse agriculture, where crops that would normally grow in temperate regions can be cultivated at higher elevations near the equator. Many coffee plantations, for example, occupy the middle elevations of tropical mountains where temperatures are ideal.<br><br>(5) Understanding the relationship between elevation and temperature has proven important for many fields, from agriculture to urban planning. Mountain communities must budget for heating costs differently than coastal areas, and building designs must account for temperature variations at different elevations. Climate scientists also study this relationship to better predict how global warming might affect different regions based on their topography.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which form of the verb is correct? 'She _____ her homework before her parents arrived.'",
+      "options": {
+        "A": "finish",
+        "B": "had finished",
+        "C": "will finish",
+        "D": "finishing"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct comparative form: 'This test is _____ than the previous one.'",
+      "options": {
+        "A": "more easier",
+        "B": "easiest",
+        "C": "easier",
+        "D": "more easy"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the correct preposition: 'I'm interested _____ learning new languages.'",
+      "options": {
+        "A": "for",
+        "B": "in",
+        "C": "at",
+        "D": "with"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence has the correct word order?",
+      "options": {
+        "A": "Yesterday went I to the store.",
+        "B": "Yesterday to the store I went.",
+        "C": "I yesterday went to the store.",
+        "D": "I went to the store yesterday."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct form: 'If it _____ tomorrow, we will cancel the picnic.'",
+      "options": {
+        "A": "will rain",
+        "B": "rains",
+        "C": "is raining",
+        "D": "would rain"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which sentence uses the modal verb correctly?",
+      "options": {
+        "A": "You should to visit Paris someday.",
+        "B": "He can swimming very well.",
+        "C": "They must be at home now.",
+        "D": "We might to go to the beach tomorrow."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Select the correct passive form: 'The book _____ by many students.'",
+      "options": {
+        "A": "reads",
+        "B": "is reading",
+        "C": "has been read",
+        "D": "was reading"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct relative pronoun: 'The woman _____ lives next door is a doctor.'",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence correctly uses the past continuous tense?",
+      "options": {
+        "A": "I was walk in the park when it started raining.",
+        "B": "She were reading a book last night.",
+        "C": "They was playing football yesterday.",
+        "D": "We were having dinner when the phone rang."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct article: 'I saw _____ interesting movie last weekend.'",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article needed"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Select the correct verb form: 'She _____ to work every day.'",
+      "options": {
+        "A": "go",
+        "B": "going",
+        "C": "goes",
+        "D": "went"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence uses the present perfect correctly?",
+      "options": {
+        "A": "I have seen that movie last week.",
+        "B": "She has lived here since three years.",
+        "C": "They have never been to Paris.",
+        "D": "We have went to the gym yesterday."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct form: 'There _____ many people at the party last night.'",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "is",
+        "D": "are"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Select the correct conjunction: 'I wanted to go to the concert, _____ I didn't have a ticket.'",
+      "options": {
+        "A": "so",
+        "B": "because",
+        "C": "but",
+        "D": "and"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Which sentence has the correct subject-verb agreement?",
+      "options": {
+        "A": "The news are interesting.",
+        "B": "Mathematics are my favorite subject.",
+        "C": "Everyone have finished the test.",
+        "D": "Each of the students has a computer."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Complete the sentence: 'Despite the rain, they decided _____ with their picnic plans.'",
+      "options": {
+        "A": "to proceed",
+        "B": "proceeding",
+        "C": "proceed",
+        "D": "to proceeding"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct phrasal verb: 'We need to _____ early tomorrow morning.'",
+      "options": {
+        "A": "get up",
+        "B": "get on",
+        "C": "get by",
+        "D": "get over"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the appropriate expression: 'That movie was really _____. I couldn't stop laughing!'",
+      "options": {
+        "A": "in the black",
+        "B": "down in the dumps",
+        "C": "a piece of cake",
+        "D": "a barrel of laughs"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct collocation: 'She _____ a mistake in her calculations.'",
+      "options": {
+        "A": "did",
+        "B": "made",
+        "C": "took",
+        "D": "had"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Complete the sentence with the appropriate preposition: 'We were amazed _____ the beautiful scenery.'",
+      "options": {
+        "A": "from",
+        "B": "by",
+        "C": "to",
+        "D": "of"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the correct linking word: 'I wanted to go swimming; _____, the pool was closed.'",
+      "options": {
+        "A": "therefore",
+        "B": "however",
+        "C": "moreover",
+        "D": "although"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Select the correct fixed expression: 'The new restaurant is _____ for its excellent pasta dishes.'",
+      "options": {
+        "A": "known far and wide",
+        "B": "once in a blue moon",
+        "C": "on the ball",
+        "D": "out of the blue"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Complete the sentence: 'I need to _____ a dentist appointment for next week.'",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "take",
+        "D": "have"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct word form: 'Her _____ of the problem was very insightful.'",
+      "options": {
+        "A": "analyze",
+        "B": "analysis",
+        "C": "analyzing",
+        "D": "analyzed"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the appropriate register for a formal email: 'I am writing _____ the job advertised in yesterday's newspaper.'",
+      "options": {
+        "A": "about",
+        "B": "for",
+        "C": "regarding",
+        "D": "on"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "The mountain _____ extend from north to south through the country.",
+      "options": {
+        "A": "ranges",
+        "B": "groups",
+        "C": "lines",
+        "D": "chains"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "The old castle now _____ a prominent position overlooking the city.",
+      "options": {
+        "A": "sits",
+        "B": "holds",
+        "C": "occupy",
+        "D": "occupies"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Recent studies have _____ that regular exercise improves mental health.",
+      "options": {
+        "A": "proven",
+        "B": "showed",
+        "C": "told",
+        "D": "demonstrated"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "We need to carefully plan our _____ for the upcoming vacation.",
+      "options": {
+        "A": "money",
+        "B": "budget",
+        "C": "savings",
+        "D": "expense"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "The small town is located in a picturesque _____ between two mountains.",
+      "options": {
+        "A": "gap",
+        "B": "space",
+        "C": "valley",
+        "D": "hole"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Riding a _____ to work is both eco-friendly and good exercise.",
+      "options": {
+        "A": "car",
+        "B": "bicycle",
+        "C": "train",
+        "D": "motorcycle"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "The treasure was found at the _____ of the ocean.",
+      "options": {
+        "A": "surface",
+        "B": "bottom",
+        "C": "middle",
+        "D": "top"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "In older texts, the word '_____ regions' often referred to the underworld.",
+      "options": {
+        "A": "lower",
+        "B": "nether",
+        "C": "deep",
+        "D": "unknown"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "The large _____ provided a beautiful view of the garden outside.",
+      "options": {
+        "A": "door",
+        "B": "roof",
+        "C": "wall",
+        "D": "window"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Next summer, they plan to go on a Caribbean _____.",
+      "options": {
+        "A": "journey",
+        "B": "trip",
+        "C": "cruise",
+        "D": "voyage"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Due to the severe weather, we were _____ to cancel our outdoor plans.",
+      "options": {
+        "A": "obliged",
+        "B": "forced",
+        "C": "made",
+        "D": "demanded"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "The movie will _____ be a success with its amazing special effects.",
+      "options": {
+        "A": "possibly",
+        "B": "maybe",
+        "C": "probably",
+        "D": "surely"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "There's a beautiful marble _____ in the entrance hall of the museum.",
+      "options": {
+        "A": "column",
+        "B": "pole",
+        "C": "pillar",
+        "D": "stick"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Can you help me _____ my missing keys?",
+      "options": {
+        "A": "find",
+        "B": "discover",
+        "C": "locate",
+        "D": "spot"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "The farm has extensive wheat _____ that stretch to the horizon.",
+      "options": {
+        "A": "gardens",
+        "B": "fields",
+        "C": "areas",
+        "D": "yards"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "What is the main topic of the passage?",
+      "options": {
+        "A": "Mountain climbing techniques",
+        "B": "The relationship between elevation and temperature",
+        "C": "Climate change in mountainous regions",
+        "D": "Agricultural practices at different elevations"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "According to paragraph 2, temperature generally decreases by approximately how much for every 1,000 meters of elevation gain?",
+      "options": {
+        "A": "3.5 degrees Celsius",
+        "B": "5.0 degrees Celsius",
+        "C": "6.5 degrees Celsius",
+        "D": "10.0 degrees Celsius"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "What is a temperature inversion, as described in the passage?",
+      "options": {
+        "A": "When temperature increases with elevation",
+        "B": "When warm air sits above cooler air",
+        "C": "When mountains are warmer than valleys",
+        "D": "When air pressure increases with height"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "In paragraph 3, where are temperature inversions said to commonly occur?",
+      "options": {
+        "A": "On mountain peaks",
+        "B": "In valleys during winter",
+        "C": "In tropical regions",
+        "D": "Near the equator"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to the passage, why can crops that normally grow in temperate regions be cultivated near the equator?",
+      "options": {
+        "A": "Because of irrigation techniques",
+        "B": "Due to special fertilizers",
+        "C": "Because higher elevations create cooler temperatures",
+        "D": "Due to genetic modifications"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "Which of the following is NOT mentioned as a field that benefits from understanding the relationship between elevation and temperature?",
+      "options": {
+        "A": "Agriculture",
+        "B": "Medicine",
+        "C": "Urban planning",
+        "D": "Climate science"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What example is given in paragraph 4 of a crop that grows well at middle elevations of tropical mountains?",
+      "options": {
+        "A": "Wheat",
+        "B": "Rice",
+        "C": "Coffee",
+        "D": "Corn"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "Why do mountain communities need to budget differently for heating costs compared to coastal areas?",
+      "options": {
+        "A": "Because mountain communities are generally wealthier",
+        "B": "Because of temperature differences due to elevation",
+        "C": "Because coastal areas use different heating systems",
+        "D": "Because energy costs more in mountainous regions"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What causes air to cool as elevation increases, according to the passage?",
+      "options": {
+        "A": "Proximity to snow",
+        "B": "Decreased air pressure causing expansion",
+        "C": "Increased wind speeds",
+        "D": "Less sunlight at higher elevations"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What term is used in the passage to describe the rate at which temperature changes with elevation?",
+      "options": {
+        "A": "Temperature gradient",
+        "B": "Lapse rate",
+        "C": "Cooling effect",
+        "D": "Climate zone"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
