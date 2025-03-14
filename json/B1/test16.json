@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Coral reefs are often called the \"rainforests of the sea\" because they are home to approximately 25% of all marine species. These vibrant underwater ecosystems are formed by colonies of tiny animals called coral polyps that secrete calcium carbonate to build protective structures. Found in warm, shallow waters around the world, coral reefs cover less than 1% of the ocean floor but support an incredible diversity of marine life. They provide essential habitats for thousands of species of fish, crustaceans, mollusks, and other sea creatures.<br><br>(2) For marine animals, coral reefs serve multiple important functions. First, they offer shelter and protection from predators. The complex three-dimensional structure of coral reefs, with numerous cracks, crevices, and caves, creates perfect hiding places for smaller fish and invertebrates. Second, coral reefs are vital feeding grounds. Many fish species directly feed on coral polyps, while others eat the algae that grow on and around the reef. The reef also attracts larger predatory fish that come to hunt the smaller species, creating a complete and balanced food web.<br><br>(3) Coral reefs also play a crucial role in the reproductive cycles of many marine species. They act as nursery grounds where young fish can develop in relative safety. Scientific studies suggest that some fish species can only reproduce successfully in the specific environments provided by healthy coral reefs. Without these protected spaces, the populations of many marine species would likely decline dramatically, potentially leading to local or even global extinctions of certain species.<br><br>(4) Unfortunately, coral reefs face numerous threats today. Rising sea temperatures due to climate change cause coral bleaching, a process where corals expel the algae living in their tissues, turning white and often leading to their death. Ocean acidification, pollution, overfishing, and destructive fishing practices also contribute to reef destruction. Scientists estimate that about 50% of the world's coral reefs have already been lost or severely damaged, and without significant intervention, we may lose up to 90% by 2050.<br><br>(5) Protecting coral reefs is essential not only for marine biodiversity but also for human communities worldwide. Healthy reefs support fishing industries that feed millions of people and provide livelihoods for coastal communities. They also generate billions of dollars through tourism and protect shorelines from storms and erosion. Conservation efforts include establishing marine protected areas, reducing carbon emissions, promoting sustainable fishing practices, and developing coral restoration projects. By taking action to preserve these underwater wonders, we can help ensure the survival of countless marine species and maintain the health of our oceans for future generations.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "She don't like coffee.",
+        "B": "She doesn't likes coffee.",
+        "C": "She doesn't like coffee.",
+        "D": "She not like coffee."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the correct past tense form: 'Last year, we _____ to Spain for our vacation.'",
+      "options": {
+        "A": "go",
+        "B": "goes",
+        "C": "went",
+        "D": "gone"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Choose the correct form: 'If it _____ tomorrow, we'll cancel the picnic.'",
+      "options": {
+        "A": "rains",
+        "B": "will rain",
+        "C": "would rain",
+        "D": "is raining"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence uses the present perfect correctly?",
+      "options": {
+        "A": "I have visited Paris three years ago.",
+        "B": "I have never visited Paris.",
+        "C": "I have visit Paris last summer.",
+        "D": "I have been visiting Paris when I was young."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Select the correct passive form: 'The report _____ by Friday.'",
+      "options": {
+        "A": "will complete",
+        "B": "will be completed",
+        "C": "is completing",
+        "D": "completes"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Choose the correct form: 'She _____ television when I called her.'",
+      "options": {
+        "A": "watched",
+        "B": "was watching",
+        "C": "watches",
+        "D": "has watched"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which sentence is in the correct reported speech form?",
+      "options": {
+        "A": "He said he is coming tomorrow.",
+        "B": "He said he was coming the next day.",
+        "C": "He said he will come tomorrow.",
+        "D": "He said he comes the next day."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the correct article: 'My father is _____ engineer.'",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article needed"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct comparative form: 'This book is _____ than the one I read last week.'",
+      "options": {
+        "A": "more interesting",
+        "B": "interestinger",
+        "C": "most interesting",
+        "D": "the interesting"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which modal verb best completes this sentence? 'You _____ not smoke in hospitals.'",
+      "options": {
+        "A": "can",
+        "B": "might",
+        "C": "should",
+        "D": "must"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Select the correct preposition: 'I'm really interested _____ learning a new language.'",
+      "options": {
+        "A": "for",
+        "B": "with",
+        "C": "in",
+        "D": "about"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence contains a correct relative clause?",
+      "options": {
+        "A": "The man which lives next door is a doctor.",
+        "B": "The man who lives next door is a doctor.",
+        "C": "The man whose lives next door is a doctor.",
+        "D": "The man whom lives next door is a doctor."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct form: 'By the time we arrived, the movie _____.'",
+      "options": {
+        "A": "already started",
+        "B": "has already started",
+        "C": "had already started",
+        "D": "was already starting"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Select the correct future form: 'I _____ you as soon as I arrive.'",
+      "options": {
+        "A": "will call",
+        "B": "am calling",
+        "C": "call",
+        "D": "am going to call"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Which sentence uses the correct quantifier?",
+      "options": {
+        "A": "There is many water in the bottle.",
+        "B": "There are much people at the party.",
+        "C": "There aren't many students in the class.",
+        "D": "There aren't much chairs in the room."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Select the correct phrasal verb: 'Can you _____ the children while I go shopping?'",
+      "options": {
+        "A": "look at",
+        "B": "look for",
+        "C": "look after",
+        "D": "look into"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct collocation: 'She needs to _____ a decision about her future soon.'",
+      "options": {
+        "A": "do",
+        "B": "take",
+        "C": "make",
+        "D": "have"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Complete the sentence with the appropriate expression: 'I'm not sure if I'll pass the exam. I haven't studied _____.'",
+      "options": {
+        "A": "too many",
+        "B": "too much",
+        "C": "enough",
+        "D": "very few"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Select the correct linking word: 'I wanted to go swimming, _____ the pool was closed.'",
+      "options": {
+        "A": "because",
+        "B": "so",
+        "C": "and",
+        "D": "but"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct word form: 'The _____ of the new park will be next month.'",
+      "options": {
+        "A": "open",
+        "B": "opener",
+        "C": "opening",
+        "D": "opened"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Which sentence uses the appropriate language register for a formal email?",
+      "options": {
+        "A": "Hey there, just checking about that thing.",
+        "B": "I am writing to inquire about the status of my application.",
+        "C": "What's up with my application?",
+        "D": "Wanted to know about my application."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Select the correct idiom to complete the sentence: 'Finding a job in this economy is like _____.'",
+      "options": {
+        "A": "piece of cake",
+        "B": "looking for a needle in a haystack",
+        "C": "killing two birds with one stone",
+        "D": "walking on thin ice"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct verb form after 'suggest': 'My teacher suggested _____ more practice tests.'",
+      "options": {
+        "A": "to do",
+        "B": "do",
+        "C": "doing",
+        "D": "that I will do"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Select the appropriate response to the question 'Would you like some coffee?'",
+      "options": {
+        "A": "Yes, I'd love to.",
+        "B": "Yes, I'd love some.",
+        "C": "Yes, I want.",
+        "D": "Yes, I want some."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct expression: 'It's _____ to rain, you should take an umbrella.'",
+      "options": {
+        "A": "likely",
+        "B": "probably",
+        "C": "possibly",
+        "D": "maybe"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the correct meaning of 'test' in this sentence: 'Scientists need to test the new vaccine before it can be used.'",
+      "options": {
+        "A": "to study something carefully",
+        "B": "to try something to see if it works properly",
+        "C": "to check if something is safe",
+        "D": "to compare different things"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Which sentence uses the word 'comment' correctly?",
+      "options": {
+        "A": "The teacher commented many mistakes in my essay.",
+        "B": "She commented about the weather being too cold.",
+        "C": "He commented on the new government policy.",
+        "D": "They commented the film last night."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What does 'express' mean in this sentence: 'It's important to express your feelings'?",
+      "options": {
+        "A": "to hide",
+        "B": "to communicate or show",
+        "C": "to change",
+        "D": "to understand"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which of the following is the correct meaning of 'fair' in the sentence 'The competition was fair'?",
+      "options": {
+        "A": "beautiful",
+        "B": "large",
+        "C": "just and following the rules",
+        "D": "interesting"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the sentence that uses 'suggest' correctly.",
+      "options": {
+        "A": "He suggested me to go to the doctor.",
+        "B": "She suggested that we should try the new restaurant.",
+        "C": "They suggested about going to the park.",
+        "D": "I suggested him the book."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "What is the correct meaning of 'suffer' in this context: 'Many people suffer from allergies in spring'?",
+      "options": {
+        "A": "to experience something unpleasant",
+        "B": "to cause pain to someone",
+        "C": "to allow something bad to happen",
+        "D": "to improve gradually"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Which sentence uses the word 'ground' correctly?",
+      "options": {
+        "A": "The coffee grounds were used as fertilizer.",
+        "B": "They ground across the field.",
+        "C": "She grounds to school every day.",
+        "D": "He was grounding after breaking the rules."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Choose the correct definition of 'device' in this sentence: 'This electronic device makes life easier.'",
+      "options": {
+        "A": "a tool or machine designed for a specific purpose",
+        "B": "a method or technique for doing something",
+        "C": "a plan or scheme",
+        "D": "an invention that doesn't work properly"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What does 'destroy' mean in this context: 'The fire destroyed the building'?",
+      "options": {
+        "A": "to damage slightly",
+        "B": "to change the appearance of",
+        "C": "to repair completely",
+        "D": "to damage something so badly that it no longer exists or works"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Which sentence uses 'welcome' correctly?",
+      "options": {
+        "A": "We welcomed for the guests at the party.",
+        "B": "They welcomed us warmly to their home.",
+        "C": "She welcomed about the good news.",
+        "D": "He welcomed with a smile."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Choose the correct meaning of 'identify' in this sentence: 'The police asked witnesses to identify the suspect.'",
+      "options": {
+        "A": "to name or recognize someone or something",
+        "B": "to find someone or something",
+        "C": "to describe someone or something",
+        "D": "to arrest someone"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "What does 'reduce' mean in this context: 'We need to reduce our energy consumption'?",
+      "options": {
+        "A": "to make something larger",
+        "B": "to make something smaller in size, amount, or number",
+        "C": "to change something completely",
+        "D": "to use something again"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Which sentence uses the word 'waste' correctly?",
+      "options": {
+        "A": "Don't waste your money for unnecessary things.",
+        "B": "She wastes a lot of time watching TV.",
+        "C": "They waste on buying expensive clothes.",
+        "D": "He wastes himself with video games."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Choose the correct meaning of 'hear' in this sentence: 'I couldn't hear what she was saying.'",
+      "options": {
+        "A": "to listen carefully",
+        "B": "to perceive sounds with your ears",
+        "C": "to understand completely",
+        "D": "to pay attention to"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "What does 'surround' mean in this context: 'The garden is surrounded by tall trees'?",
+      "options": {
+        "A": "to be near something",
+        "B": "to be on one side of something",
+        "C": "to be in the middle of something",
+        "D": "to be all around something"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, approximately what percentage of marine species live in coral reefs?",
+      "options": {
+        "A": "1%",
+        "B": "10%",
+        "C": "25%",
+        "D": "50%"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Based on paragraph 2, which is NOT mentioned as a function of coral reefs for marine animals?",
+      "options": {
+        "A": "Providing shelter from predators",
+        "B": "Serving as feeding grounds",
+        "C": "Creating migration routes",
+        "D": "Providing hiding places"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, why are coral reefs important for fish reproduction?",
+      "options": {
+        "A": "They provide food for young fish.",
+        "B": "They offer protected nursery areas for development.",
+        "C": "They teach young fish how to hunt.",
+        "D": "They attract more adult fish for mating."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "What is coral bleaching, according to the passage?",
+      "options": {
+        "A": "When corals change color due to pollution",
+        "B": "When corals expel algae and turn white",
+        "C": "When corals are damaged by fishing practices",
+        "D": "When corals are covered by white sand"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Based on paragraph 4, approximately what percentage of coral reefs have already been lost or severely damaged?",
+      "options": {
+        "A": "25%",
+        "B": "50%",
+        "C": "75%",
+        "D": "90%"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to the passage, which of the following is NOT a threat to coral reefs?",
+      "options": {
+        "A": "Rising sea temperatures",
+        "B": "Ocean acidification",
+        "C": "Marine tourism",
+        "D": "Overfishing"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What does the passage suggest about the relationship between coral reefs and human communities?",
+      "options": {
+        "A": "Humans only benefit from coral reefs through tourism.",
+        "B": "Coral reefs have no economic value for humans.",
+        "C": "Coral reefs support fishing industries and protect shorelines.",
+        "D": "Most humans are unaware of coral reefs' existence."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The word \"vital\" in paragraph 2 is closest in meaning to:",
+      "options": {
+        "A": "interesting",
+        "B": "new",
+        "C": "essential",
+        "D": "large"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What is the main purpose of this passage?",
+      "options": {
+        "A": "To explain how coral reefs are formed",
+        "B": "To highlight the importance of coral reefs and the need to protect them",
+        "C": "To compare coral reefs to rainforests",
+        "D": "To describe different types of marine animals"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "Based on the passage, which conservation effort is NOT mentioned as a way to protect coral reefs?",
+      "options": {
+        "A": "Establishing marine protected areas",
+        "B": "Reducing carbon emissions",
+        "C": "Banning all fishing in oceans",
+        "D": "Developing coral restoration projects"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
