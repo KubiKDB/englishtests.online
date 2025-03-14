@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Water is essential for all life on Earth, and the water cycle is the continuous movement of water within the Earth and atmosphere. Also known as the hydrologic cycle, this process ensures that water is constantly being recycled and redistributed around our planet. Without this cycle, freshwater would not be replenished, and life as we know it could not exist. The water cycle has several key stages including evaporation, condensation, precipitation, and collection.<br><br>(2) The cycle begins with evaporation, where the sun's heat causes water from oceans, lakes, and rivers to turn into water vapor and rise into the atmosphere. Plants also release water vapor through a process called transpiration. Together, these processes account for approximately 90% of the water vapor in our atmosphere. As water vapor rises, it cools and forms tiny water droplets around dust particles in the air, creating clouds through the process of condensation.<br><br>(3) When these water droplets become too heavy, they fall back to Earth as precipitation in the form of rain, snow, sleet, or hail. This precipitation can fall directly into bodies of water or onto land. Water that falls on land may flow over the surface as runoff, eventually making its way to streams, rivers, and ultimately back to the oceans. Some water also seeps into the ground through infiltration, becoming groundwater that can remain stored in underground aquifers for long periods.<br><br>(4) The final stage of the water cycle is collection, where water gathers in various reservoirs such as oceans, lakes, rivers, and groundwater. Oceans hold about 97% of Earth's water, while the remaining 3% is freshwater found in glaciers, lakes, rivers, groundwater, and the atmosphere. From these collection points, the cycle begins again as water evaporates back into the atmosphere.<br><br>(5) The water cycle plays a crucial role in regulating Earth's climate and supporting ecosystems. It helps distribute heat around the planet, influences weather patterns, and provides the freshwater necessary for both human societies and natural habitats. Climate change is affecting the water cycle through rising temperatures, which increase evaporation rates and can lead to more extreme weather events like floods and droughts. Understanding and protecting the water cycle is therefore vital for managing water resources and ensuring their availability for future generations.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which form of the verb is correct? 'She _____ in London since 2010.'",
+      "options": {
+        "A": "lives",
+        "B": "is living",
+        "C": "has lived",
+        "D": "was living"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct tense: 'By the time we arrived, the movie _____.'",
+      "options": {
+        "A": "already started",
+        "B": "has already started",
+        "C": "had already started",
+        "D": "was already starting"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "If I would know the answer, I will tell you.",
+        "B": "If I know the answer, I will tell you.",
+        "C": "If I knew the answer, I would told you.",
+        "D": "If I will know the answer, I tell you."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Select the correct relative pronoun: 'The book _____ you recommended was excellent.'",
+      "options": {
+        "A": "who",
+        "B": "whom",
+        "C": "whose",
+        "D": "which"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct passive form: 'The new bridge _____ next year.'",
+      "options": {
+        "A": "will build",
+        "B": "will be built",
+        "C": "will be building",
+        "D": "is going to build"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which sentence contains a correct modal verb usage?",
+      "options": {
+        "A": "You must to attend the meeting tomorrow.",
+        "B": "She can singing very well.",
+        "C": "They might be late for dinner.",
+        "D": "He should studying harder for the exam."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Identify the correct comparative form: 'This book is _____ than the one I read last month.'",
+      "options": {
+        "A": "more interesting",
+        "B": "interestinger",
+        "C": "most interesting",
+        "D": "the more interesting"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the correct preposition: 'She's been working _____ this project for weeks.'",
+      "options": {
+        "A": "in",
+        "B": "at",
+        "C": "on",
+        "D": "with"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct article: 'She gave me _____ useful advice about my career.'",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "-"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence uses the correct verb agreement?",
+      "options": {
+        "A": "Each of the students have their own textbook.",
+        "B": "The team are playing well this season.",
+        "C": "Neither of my parents speak English.",
+        "D": "The number of tourists visiting the city has increased."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Identify the correct future form: 'Look at those dark clouds. It _____ rain.'",
+      "options": {
+        "A": "will",
+        "B": "is going to",
+        "C": "shall",
+        "D": "would"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Choose the correct reported speech: He said, 'I am leaving tomorrow.'",
+      "options": {
+        "A": "He said he is leaving tomorrow.",
+        "B": "He said he was leaving the next day.",
+        "C": "He said he will be leaving tomorrow.",
+        "D": "He said he would be leaving tomorrow."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Select the correct form: 'If only I _____ more time to finish this assignment!'",
+      "options": {
+        "A": "have",
+        "B": "had",
+        "C": "would have",
+        "D": "has"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct gerund or infinitive form: 'She enjoys _____ in her free time.'",
+      "options": {
+        "A": "to read",
+        "B": "reading",
+        "C": "read",
+        "D": "reads"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Which sentence contains a correct use of 'used to'?",
+      "options": {
+        "A": "I used to going to that restaurant every week.",
+        "B": "I am used to get up early in the morning.",
+        "C": "I didn't used to like coffee, but now I do.",
+        "D": "I used to live in Paris when I was a child."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct phrasal verb to complete the sentence: 'Could you please _____ your jacket? It's on the floor.'",
+      "options": {
+        "A": "pick out",
+        "B": "pick up",
+        "C": "pick on",
+        "D": "pick over"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the correct collocation: 'She needs to _____ a decision about her future soon.'",
+      "options": {
+        "A": "do",
+        "B": "take",
+        "C": "make",
+        "D": "have"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the appropriate connector: 'He didn't study for the test, _____ he failed.'",
+      "options": {
+        "A": "so",
+        "B": "but",
+        "C": "and",
+        "D": "because"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Which expression is correct to ask for clarification?",
+      "options": {
+        "A": "What do you mean?",
+        "B": "How do you mean?",
+        "C": "Why do you mean?",
+        "D": "When do you mean?"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct idiom to complete the sentence: 'Learning a new language is not easy - you have to _____.'",
+      "options": {
+        "A": "pull your leg",
+        "B": "keep your head down",
+        "C": "break a leg",
+        "D": "stick with it"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the correct fixed expression: '_____, I'd like to thank everyone for coming today.'",
+      "options": {
+        "A": "First of all",
+        "B": "At first",
+        "C": "The first",
+        "D": "By first"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct linker for contrast: 'She studied hard; _____, she didn't pass the exam.'",
+      "options": {
+        "A": "furthermore",
+        "B": "therefore",
+        "C": "however",
+        "D": "moreover"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Which is the correct expression to offer help?",
+      "options": {
+        "A": "Would you like me to help you?",
+        "B": "Do you want I help you?",
+        "C": "Shall I to help you?",
+        "D": "Can I helping you?"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct expression of frequency: 'I go to the gym _____.'",
+      "options": {
+        "A": "in every two days",
+        "B": "each two days",
+        "C": "all two days",
+        "D": "every other day"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the correct multi-word verb: 'I need to _____ this report by Friday.'",
+      "options": {
+        "A": "hand in",
+        "B": "hand out",
+        "C": "hand over",
+        "D": "hand on"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the correct meaning of 'exist':",
+      "options": {
+        "A": "to live or be real",
+        "B": "to move forward",
+        "C": "to appear suddenly",
+        "D": "to communicate"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "What does 'include' mean?",
+      "options": {
+        "A": "to remove something",
+        "B": "to make something part of a group or set",
+        "C": "to replace something",
+        "D": "to hide something"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Select the correct definition of 'exclude':",
+      "options": {
+        "A": "to keep something in",
+        "B": "to leave something out",
+        "C": "to explain something",
+        "D": "to expand something"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which sentence uses 'invite' correctly?",
+      "options": {
+        "A": "She invited a new dress for the party.",
+        "B": "They invited the problem by leaving the door open.",
+        "C": "He invited me to his birthday celebration.",
+        "D": "We invited the food for the guests."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "What is the best definition of 'accept'?",
+      "options": {
+        "A": "to give something",
+        "B": "to take or receive something offered",
+        "C": "to create something",
+        "D": "to move something"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Choose the sentence that uses 'reject' correctly:",
+      "options": {
+        "A": "The company rejected to increase salaries this year.",
+        "B": "She rejected the job offer because the salary was too low.",
+        "C": "They rejected the house with a new paint color.",
+        "D": "He rejected at the concert last night."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "What does 'continue' mean?",
+      "options": {
+        "A": "to start something new",
+        "B": "to finish something",
+        "C": "to keep doing or being something",
+        "D": "to change direction"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Select the correct definition of 'stop':",
+      "options": {
+        "A": "to begin an activity",
+        "B": "to make something faster",
+        "C": "to cease moving or operating",
+        "D": "to change something"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Which sentence uses 'follow' correctly?",
+      "options": {
+        "A": "She followed a mistake in her calculations.",
+        "B": "They are following the instructions carefully.",
+        "C": "He followed the dinner quickly.",
+        "D": "We followed happy about the news."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "What is the meaning of 'avoid'?",
+      "options": {
+        "A": "to seek out",
+        "B": "to keep away from",
+        "C": "to protect",
+        "D": "to solve"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Choose the correct definition of 'support':",
+      "options": {
+        "A": "to be against something",
+        "B": "to help or encourage something",
+        "C": "to delay something",
+        "D": "to forget about something"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "What does 'oppose' mean?",
+      "options": {
+        "A": "to be in favor of something",
+        "B": "to help something happen",
+        "C": "to be against something",
+        "D": "to create something"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Which sentence uses 'achieve' correctly?",
+      "options": {
+        "A": "She achieved to the top of the mountain.",
+        "B": "They achieved excellent results in the competition.",
+        "C": "He achieved the book on the shelf.",
+        "D": "We achieved at the concert last night."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "What is the best definition of 'fail'?",
+      "options": {
+        "A": "to succeed in doing something",
+        "B": "to not succeed in achieving something",
+        "C": "to start something new",
+        "D": "to explain something"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Choose the sentence that uses 'offer' correctly:",
+      "options": {
+        "A": "She offered at the new job yesterday.",
+        "B": "They offered with their friends.",
+        "C": "He offered to help us move this weekend.",
+        "D": "We offered from the cold weather."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, the water cycle is also known as:",
+      "options": {
+        "A": "the atmospheric cycle",
+        "B": "the hydrologic cycle",
+        "C": "the aquatic cycle",
+        "D": "the precipitation cycle"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Which process is NOT mentioned as a key stage of the water cycle in paragraph 1?",
+      "options": {
+        "A": "evaporation",
+        "B": "condensation",
+        "C": "infiltration",
+        "D": "precipitation"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 2, approximately what percentage of water vapor in our atmosphere comes from evaporation and transpiration?",
+      "options": {
+        "A": "50%",
+        "B": "75%",
+        "C": "90%",
+        "D": "100%"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "In paragraph 3, what happens when water droplets become too heavy?",
+      "options": {
+        "A": "They form clouds",
+        "B": "They cause floods",
+        "C": "They fall as precipitation",
+        "D": "They return to the oceans"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to paragraph 4, approximately what percentage of Earth's water is found in oceans?",
+      "options": {
+        "A": "3%",
+        "B": "50%",
+        "C": "75%",
+        "D": "97%"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "Which is NOT mentioned as a location where freshwater can be found?",
+      "options": {
+        "A": "lakes",
+        "B": "rivers",
+        "C": "plants",
+        "D": "glaciers"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to paragraph 5, how does the water cycle help regulate Earth's climate?",
+      "options": {
+        "A": "By creating glaciers",
+        "B": "By distributing heat around the planet",
+        "C": "By creating more clouds",
+        "D": "By reducing carbon emissions"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The passage suggests that climate change is affecting the water cycle by:",
+      "options": {
+        "A": "decreasing ocean levels",
+        "B": "reducing the amount of water on Earth",
+        "C": "increasing evaporation rates",
+        "D": "eliminating the condensation process"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What can be inferred from the passage about the relationship between the water cycle and human societies?",
+      "options": {
+        "A": "Human activities have no impact on the water cycle",
+        "B": "The water cycle is essential for providing freshwater resources",
+        "C": "Human societies are not dependent on the water cycle",
+        "D": "The water cycle only affects natural ecosystems"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "The main purpose of this passage is to:",
+      "options": {
+        "A": "warn about the dangers of climate change",
+        "B": "explain the importance and processes of the water cycle",
+        "C": "compare freshwater and saltwater resources",
+        "D": "describe how humans can better conserve water"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
