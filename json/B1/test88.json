@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Wetlands are among the most vital yet underappreciated ecosystems on our planet. These areas, where water covers the soil or is present at or near the surface for varying periods, serve as transitional zones between land and aquatic environments. Wetlands come in many forms, including marshes, swamps, bogs, and fens, each with distinctive characteristics shaped by their specific geography, water patterns, and climate conditions. Despite occupying only about six percent of Earth's land surface, wetlands provide essential services that support both wildlife and human communities in numerous ways.<br><br>(2) Perhaps the most recognized function of wetlands is their remarkable ability to support biodiversity. These ecosystems create ideal habitats for countless plant and animal species, many of which cannot survive elsewhere. Wetlands provide critical breeding grounds for fish, serving as nurseries where young can develop in relative safety. They also offer essential habitats for amphibians, reptiles, and mammals, while providing vital rest stops and feeding areas for migratory birds. Scientists estimate that more than one-third of endangered species in the United States depend on wetlands for their survival, highlighting these ecosystems' irreplaceable role in conservation efforts.<br><br>(3) Beyond supporting wildlife, wetlands provide crucial environmental services that benefit human communities. They act as natural water filters, trapping sediments and removing pollutants as water moves through them. This filtration process significantly improves water quality in surrounding areas. Wetlands also function as nature's sponges, absorbing excess water during heavy rainfall and releasing it slowly during drier periods, which helps prevent flooding and reduces drought impacts. In coastal areas, wetlands form protective barriers against storms and erosion, shielding inland communities from the full force of hurricanes and other severe weather events.<br><br>(4) Wetlands also play a vital role in addressing climate change. These ecosystems are remarkably efficient at capturing and storing carbon dioxide from the atmosphere. Peatlands, a type of wetland, cover just three percent of the Earth's land surface but store approximately twice as much carbon as all the world's forests combined. By sequestering carbon that would otherwise contribute to global warming, healthy wetlands help mitigate climate change effects. Additionally, they moderate local temperatures and contribute to regional rainfall patterns, further influencing climate conditions.<br><br>(5) Despite their immense ecological value, wetlands face numerous threats worldwide. Drainage for agricultural expansion, urban development, pollution, and invasive species have already destroyed more than half of the world's wetlands since 1900. Climate change poses additional challenges through altered precipitation patterns and rising sea levels. Recognizing the critical importance of these ecosystems, many countries have implemented protection measures and restoration initiatives. International agreements like the Ramsar Convention aim to promote wetland conservation and sustainable use. As understanding of wetlands' value grows, efforts to preserve these vital ecosystems continue to expand, although much work remains to ensure their benefits endure for future generations.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct present perfect form:",
+      "options": {
+        "A": "I have ate lunch already.",
+        "B": "She have seen that movie twice.",
+        "C": "They has finished their homework.",
+        "D": "We have lived here for three years."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the correct past simple form:",
+      "options": {
+        "A": "I goed to the store yesterday.",
+        "B": "She didn't watched the show.",
+        "C": "They didn't go to school last week.",
+        "D": "He doesn't arrived on time."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence uses the future tense correctly?",
+      "options": {
+        "A": "I will going to the party tomorrow.",
+        "B": "She is going to visit her grandmother next week.",
+        "C": "They will eating dinner at 7 PM.",
+        "D": "He going to buy a new car soon."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct comparative form:",
+      "options": {
+        "A": "This book is more better than the other one.",
+        "B": "She is taller that her brother.",
+        "C": "The blue shirt is cheaper than the red one.",
+        "D": "This test is more easier than I expected."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Which sentence contains the correct article usage?",
+      "options": {
+        "A": "She is best student in the class.",
+        "B": "I need an umbrella because it's raining.",
+        "C": "He bought a orange at the market.",
+        "D": "They visited a hospital in an city center."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the correct passive voice form:",
+      "options": {
+        "A": "The book written by a famous author.",
+        "B": "The window was broken by the children.",
+        "C": "The meal is preparing by the chef.",
+        "D": "The test will taking by students tomorrow."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which sentence has the correct subject-verb agreement?",
+      "options": {
+        "A": "The team are playing well this season.",
+        "B": "The children is playing in the park.",
+        "C": "Each of the students have a book.",
+        "D": "Neither of them wants to go."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct modal verb: 'You _____ smoke in this building. It's against the rules.'",
+      "options": {
+        "A": "don't have to",
+        "B": "mustn't",
+        "C": "couldn't",
+        "D": "wouldn't"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Select the correct form of the conditional:",
+      "options": {
+        "A": "If it rains tomorrow, we stay at home.",
+        "B": "If I will have time, I will call you.",
+        "C": "If we had more money, we would travel more.",
+        "D": "If she would study harder, she would passed the exam."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence uses the present continuous correctly?",
+      "options": {
+        "A": "I am think about my vacation plans.",
+        "B": "She cooking dinner right now.",
+        "C": "They are studying for their exam.",
+        "D": "He wearing a new shirt today."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct preposition: 'She arrived _____ the airport an hour ago.'",
+      "options": {
+        "A": "to",
+        "B": "at",
+        "C": "in",
+        "D": "on"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence contains the correct relative pronoun?",
+      "options": {
+        "A": "The woman who car I borrowed is my neighbor.",
+        "B": "The movie which we saw was excellent.",
+        "C": "The house who I grew up in was sold.",
+        "D": "The restaurant where we had dinner was closed."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Select the sentence with the correct noun form:",
+      "options": {
+        "A": "I need to buy some new furnitures for my apartment.",
+        "B": "There are many different informations on the website.",
+        "C": "The children enjoyed playing with their new toys.",
+        "D": "She gave me some good advices about my problem."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct verb form after 'used to':",
+      "options": {
+        "A": "I used to going to that restaurant every weekend.",
+        "B": "She used to lived in Paris when she was younger.",
+        "C": "They used to drive to work together.",
+        "D": "He used to studying more in high school."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Which sentence uses reported speech correctly?",
+      "options": {
+        "A": "She said that she is happy.",
+        "B": "He told me that he will come tomorrow.",
+        "C": "They said that they had finished the project.",
+        "D": "The teacher told us that the test is difficult."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Complete the collocation: 'make a _____'",
+      "options": {
+        "A": "noise",
+        "B": "time",
+        "C": "weather",
+        "D": "travel"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct phrasal verb: 'Can you _____ the children while I go shopping?'",
+      "options": {
+        "A": "look at",
+        "B": "look up",
+        "C": "look after",
+        "D": "look for"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the appropriate expression: 'I think we should _____ our meeting until next week.'",
+      "options": {
+        "A": "put off",
+        "B": "put out",
+        "C": "put away",
+        "D": "put down"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Which word correctly completes the sentence? 'I need to _____ some money from the bank.'",
+      "options": {
+        "A": "take",
+        "B": "make",
+        "C": "withdraw",
+        "D": "borrow"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Complete the idiom: 'It's raining _____'",
+      "options": {
+        "A": "dogs and cats",
+        "B": "cats and dogs",
+        "C": "horses and cows",
+        "D": "elephants and tigers"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the correct linking word: 'She wanted to go to the concert; _____, she was too busy.'",
+      "options": {
+        "A": "so",
+        "B": "because",
+        "C": "therefore",
+        "D": "however"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Select the correct word to complete this sentence: 'You can _____ an appointment with the doctor online.'",
+      "options": {
+        "A": "do",
+        "B": "have",
+        "C": "make",
+        "D": "take"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Which expression is used to give an opinion?",
+      "options": {
+        "A": "I'm afraid so.",
+        "B": "In my view,",
+        "C": "You're welcome.",
+        "D": "Never mind."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct word to complete the sentence: 'The teacher asked us to _____ attention to the explanation.'",
+      "options": {
+        "A": "make",
+        "B": "pay",
+        "C": "give",
+        "D": "do"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the appropriate expression for offering help:",
+      "options": {
+        "A": "Would you like a hand?",
+        "B": "Could I help myself?",
+        "C": "Should I assist?",
+        "D": "Do I help you?"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What does 'convince' mean?",
+      "options": {
+        "A": "To make someone believe something",
+        "B": "To confuse someone completely",
+        "C": "To argue with someone",
+        "D": "To avoid telling the truth"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the sentence where 'certain' is used correctly:",
+      "options": {
+        "A": "I'm certain whether I'll go to the party.",
+        "B": "She feels certain that she passed the exam.",
+        "C": "They certain bought a new car yesterday.",
+        "D": "He is certain hungry after the long walk."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What does 'caution' mean in this sentence? 'The doctor advised caution when taking this medication.'",
+      "options": {
+        "A": "Speed",
+        "B": "Care and attention to avoid danger",
+        "C": "Excitement",
+        "D": "Regularity"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which sentence uses 'warrant' correctly?",
+      "options": {
+        "A": "The situation warrants immediate action.",
+        "B": "She warrants to the store every day.",
+        "C": "They warrant very happy about the news.",
+        "D": "He warrants his car to work."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the correct meaning of 'retired' in this sentence: 'My grandfather is retired now and enjoys gardening.'",
+      "options": {
+        "A": "Unemployed",
+        "B": "No longer working due to age",
+        "C": "Working part-time",
+        "D": "Very tired"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "What does 'potentially' mean?",
+      "options": {
+        "A": "Currently",
+        "B": "Actually",
+        "C": "Possibly in the future",
+        "D": "Definitely"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Which sentence uses 'endorse' correctly?",
+      "options": {
+        "A": "She endorsed to the park yesterday.",
+        "B": "The famous athlete endorsed the new sports drink.",
+        "C": "They endorse very tall for their age.",
+        "D": "He endorsed sleeping early every night."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "What does 'exhibit' mean in this sentence? 'The museum will exhibit paintings by local artists next month.'",
+      "options": {
+        "A": "Sell",
+        "B": "Display publicly",
+        "C": "Create",
+        "D": "Photograph"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Choose the sentence where 'recognize' is used correctly:",
+      "options": {
+        "A": "I didn't recognize her because she had changed her hairstyle.",
+        "B": "She recognizes to school every morning.",
+        "C": "They recognize the movie last night.",
+        "D": "He recognizes happy about his new job."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "What is the meaning of 'engage' in this sentence? 'The teacher tried to engage the students in the discussion.'",
+      "options": {
+        "A": "To involve or interest someone in something",
+        "B": "To employ someone",
+        "C": "To marry someone",
+        "D": "To fight with someone"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Which sentence uses 'factory' correctly?",
+      "options": {
+        "A": "My mother works in a car factory.",
+        "B": "She factorys her homework every day.",
+        "C": "They factory very well in English.",
+        "D": "He factory to school by bus."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "What does 'voltage' refer to?",
+      "options": {
+        "A": "The strength of an electrical current",
+        "B": "The volume of a sound",
+        "C": "The speed of a vehicle",
+        "D": "The height of a building"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Choose the sentence where 'schedule' is used correctly:",
+      "options": {
+        "A": "I need to schedule happy this weekend.",
+        "B": "She schedules an appointment with her doctor.",
+        "C": "They schedule to the cinema last night.",
+        "D": "He schedule reading books in his free time."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "What is the meaning of 'effect' in this sentence? 'Climate change has a significant effect on wildlife.'",
+      "options": {
+        "A": "Result or consequence",
+        "B": "Purpose or intention",
+        "C": "Problem or difficulty",
+        "D": "Beginning or start"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Which sentence uses 'totally' correctly?",
+      "options": {
+        "A": "She totally to work every morning.",
+        "B": "I am totally agree with your opinion.",
+        "C": "They totally finished the project yesterday.",
+        "D": "He is totally exhausted after the marathon."
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what percentage of Earth's land surface is covered by wetlands?",
+      "options": {
+        "A": "About three percent",
+        "B": "About six percent",
+        "C": "About ten percent",
+        "D": "About fifteen percent"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Based on paragraph 2, which of the following is NOT mentioned as benefiting from wetlands?",
+      "options": {
+        "A": "Fish",
+        "B": "Migratory birds",
+        "C": "Endangered species",
+        "D": "Domestic animals"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, how do wetlands help improve water quality?",
+      "options": {
+        "A": "By adding minerals to the water",
+        "B": "By increasing water temperature",
+        "C": "By trapping sediments and removing pollutants",
+        "D": "By adding beneficial bacteria to the water"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "What does the passage mean when it describes wetlands as 'nature's sponges'?",
+      "options": {
+        "A": "They are soft and absorbent ecosystems",
+        "B": "They absorb excess water during heavy rainfall and release it slowly during drier periods",
+        "C": "They clean water like a sponge cleans surfaces",
+        "D": "They have a sponge-like appearance"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to paragraph 4, how do peatlands compare to forests in terms of carbon storage?",
+      "options": {
+        "A": "Peatlands store about half as much carbon as forests",
+        "B": "Peatlands and forests store equal amounts of carbon",
+        "C": "Peatlands store approximately twice as much carbon as all forests combined",
+        "D": "The passage doesn't compare their carbon storage"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to paragraph 5, approximately what percentage of the world's wetlands have been destroyed since 1900?",
+      "options": {
+        "A": "More than 25%",
+        "B": "More than 50%",
+        "C": "More than 75%",
+        "D": "More than 90%"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Which of the following is mentioned as a threat to wetlands?",
+      "options": {
+        "A": "Tourism",
+        "B": "Overprotection",
+        "C": "Agricultural expansion",
+        "D": "Wildlife overpopulation"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What is the purpose of the Ramsar Convention mentioned in paragraph 5?",
+      "options": {
+        "A": "To drain wetlands for development",
+        "B": "To promote wetland conservation and sustainable use",
+        "C": "To study wetland ecosystems",
+        "D": "To create artificial wetlands"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What is the main idea of paragraph 4?",
+      "options": {
+        "A": "Wetlands are disappearing at an alarming rate",
+        "B": "Wetlands support a wide variety of wildlife",
+        "C": "Wetlands help prevent flooding in surrounding areas",
+        "D": "Wetlands play an important role in addressing climate change"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the author's main purpose in writing this passage?",
+      "options": {
+        "A": "To argue that wetlands are more important than forests",
+        "B": "To explain how wetlands form and develop",
+        "C": "To inform readers about the environmental importance of wetlands",
+        "D": "To criticize efforts to protect wetlands"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
