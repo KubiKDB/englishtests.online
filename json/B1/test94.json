@@ -1,0 +1,606 @@
+{
+  "passage": "<br>(1) National parks play a crucial role in wildlife conservation efforts around the world. These protected areas provide safe habitats for countless animal and plant species that might otherwise face extinction due to human activities such as deforestation, pollution, and urban development. By designating certain regions as national parks, governments create sanctuaries where wildlife can thrive without the constant threat of habitat destruction.<br><br>(2) One of the most significant benefits of national parks is that they preserve biodiversity. Each ecosystem contains unique species that have evolved over thousands of years to fill specific ecological niches. When these ecosystems are damaged or destroyed, entire species may disappear forever, disrupting the delicate balance of nature. National parks protect these complex systems, allowing them to function naturally and maintain their biodiversity.<br><br>(3) National parks also serve as living laboratories for scientific research. Scientists can study wildlife in their natural habitats, gaining valuable insights into animal behavior, ecological relationships, and the impacts of climate change. This research helps conservationists develop more effective strategies for protecting endangered species and managing wildlife populations both inside and outside protected areas.<br><br>(4) Beyond their conservation value, national parks provide educational opportunities for visitors. When people observe animals in their natural environments, they often develop a deeper appreciation for wildlife and a stronger commitment to conservation. Many parks offer guided tours, educational programs, and informational displays that teach visitors about local ecosystems and conservation challenges.<br><br>(5) Despite their importance, national parks face numerous challenges, including limited funding, pressure from development interests, and the impacts of climate change. Protecting these valuable conservation areas requires ongoing commitment from governments, conservation organizations, and the public. By supporting national parks through sustainable tourism, advocacy, and conservation initiatives, we can help ensure that these vital wildlife sanctuaries continue to protect our planet's biodiversity for generations to come.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which verb form correctly completes the sentence? 'She _____ to the gym three times a week.'",
+      "options": {
+        "A": "go",
+        "B": "goes",
+        "C": "going",
+        "D": "gone"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct preposition: 'I'm interested _____ learning a new language.'",
+      "options": {
+        "A": "for",
+        "B": "at",
+        "C": "in",
+        "D": "by"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the correct tense: 'By the time we arrived, the movie _____.'",
+      "options": {
+        "A": "already started",
+        "B": "has already started",
+        "C": "had already started",
+        "D": "was already starting"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "Neither of them are going to the party.",
+        "B": "Neither of them is going to the party.",
+        "C": "Neither of them going to the party.",
+        "D": "Neither of them goes to the party."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct modal verb: 'You _____ smoke in the hospital.'",
+      "options": {
+        "A": "don't have to",
+        "B": "mustn't",
+        "C": "shouldn't",
+        "D": "might not"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which sentence uses the correct comparative form?",
+      "options": {
+        "A": "This book is more interesting than that one.",
+        "B": "This book is interestinger than that one.",
+        "C": "This book is more interestinger than that one.",
+        "D": "This book is the more interesting than that one."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct relative pronoun: 'The man _____ car was stolen called the police.'",
+      "options": {
+        "A": "who",
+        "B": "whom",
+        "C": "whose",
+        "D": "which"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the correct passive voice form: 'The company _____ fifty new employees last year.'",
+      "options": {
+        "A": "hired",
+        "B": "was hired",
+        "C": "was hiring",
+        "D": "were hired"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence contains a mistake in subject-verb agreement?",
+      "options": {
+        "A": "The group of students are studying for the exam.",
+        "B": "The committee has reached a decision.",
+        "C": "My family is coming to visit next week.",
+        "D": "The team is playing well this season."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct form: 'If I _____ rich, I would travel around the world.'",
+      "options": {
+        "A": "am",
+        "B": "were",
+        "C": "would be",
+        "D": "had been"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Select the correct article: 'He gave me _____ useful advice.'",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "No article needed"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence uses the past perfect correctly?",
+      "options": {
+        "A": "After she has finished her homework, she went to bed.",
+        "B": "After she had finished her homework, she went to bed.",
+        "C": "After she had finished her homework, she had gone to bed.",
+        "D": "After she finished her homework, she had gone to bed."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct phrasal verb: 'Can you _____ the children while I go shopping?'",
+      "options": {
+        "A": "look at",
+        "B": "look for",
+        "C": "look after",
+        "D": "look up"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence is in the correct tense? 'I _____ here since 2010.'",
+      "options": {
+        "A": "am living",
+        "B": "live",
+        "C": "lived",
+        "D": "have been living"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the correct order of adjectives: 'She bought a _____ dress.'",
+      "options": {
+        "A": "silk beautiful red",
+        "B": "beautiful red silk",
+        "C": "red beautiful silk",
+        "D": "red silk beautiful"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the best option to complete the sentence: 'The meeting was _____ until next week due to bad weather.'",
+      "options": {
+        "A": "put off",
+        "B": "put away",
+        "C": "put out",
+        "D": "put up"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the most appropriate response: 'Would you mind closing the window?' '_____.'"
+      ,
+      "options": {
+        "A": "Yes, I would.",
+        "B": "No, I wouldn't.",
+        "C": "Not at all.",
+        "D": "Yes, please."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Which expression is most appropriate in a formal email to a company?",
+      "options": {
+        "A": "Hey there!",
+        "B": "Dear Sir/Madam,",
+        "C": "What's up?",
+        "D": "Hi guys,"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct idiom to complete the sentence: 'The test was very easy. I passed with _____.'",
+      "options": {
+        "A": "flying colors",
+        "B": "a piece of cake",
+        "C": "a hot potato",
+        "D": "a cold shoulder"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the most natural response: 'Thanks for your help.' '_____.'",
+      "options": {
+        "A": "It doesn't matter.",
+        "B": "Don't mention it.",
+        "C": "Never mind.",
+        "D": "Not at once."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Which collocation is correct?",
+      "options": {
+        "A": "do a mistake",
+        "B": "make a mistake",
+        "C": "have a mistake",
+        "D": "take a mistake"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct phrase to complete the sentence: 'I'm really tired. I think I'll _____ tonight.'",
+      "options": {
+        "A": "hit the road",
+        "B": "hit the roof",
+        "C": "hit the hay",
+        "D": "hit the books"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the most appropriate way to make a suggestion:",
+      "options": {
+        "A": "Why don't we go to the cinema?",
+        "B": "I want to go to the cinema.",
+        "C": "You should go to the cinema.",
+        "D": "Going to the cinema is good."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the best connector to complete the sentence: 'He studied hard, _____ he failed the exam.'",
+      "options": {
+        "A": "so",
+        "B": "and",
+        "C": "but",
+        "D": "or"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the most appropriate response to the question: 'How do you feel about working overtime?' '_____.'",
+      "options": {
+        "A": "At 5 o'clock.",
+        "B": "In the office.",
+        "C": "I'd rather not, if possible.",
+        "D": "By working hard."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What is the correct meaning of 'found' in the sentence: 'They found the missing cat in the garden.'?",
+      "options": {
+        "A": "established",
+        "B": "created",
+        "C": "discovered",
+        "D": "funded"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the sentence with the correct use of 'phones':",
+      "options": {
+        "A": "The company phones its customers regularly.",
+        "B": "He likes to collect antique phones as a hobby.",
+        "C": "She phones the recipes in her notebook.",
+        "D": "They phones us yesterday."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What does 'tokens' refer to in this sentence: 'The museum visitors were given tokens to exchange for guidebooks.'?",
+      "options": {
+        "A": "large sums of money",
+        "B": "small pieces of metal or paper used instead of money",
+        "C": "valuable antique coins",
+        "D": "electronic payment methods"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which sentence uses 'severe' correctly?",
+      "options": {
+        "A": "They served a severe of different dishes at the party.",
+        "B": "The thunderstorm caused severe damage to the roof.",
+        "C": "She felt severe when she heard the good news.",
+        "D": "The children played in the severe garden."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "What is the meaning of 'thrown' in the sentence: 'She was thrown from her horse during the competition.'?",
+      "options": {
+        "A": "forcibly propelled",
+        "B": "gently placed",
+        "C": "carefully positioned",
+        "D": "slowly moved"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Choose the sentence with the correct use of 'injury':",
+      "options": {
+        "A": "The doctor injury the patient's symptoms.",
+        "B": "They injury to win the game.",
+        "C": "The football player suffered a knee injury during the match.",
+        "D": "She injury her new dress yesterday."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Which sentence uses 'father' correctly?",
+      "options": {
+        "A": "My father works as an engineer in a construction company.",
+        "B": "The book father several interesting chapters.",
+        "C": "They father the garden every Sunday.",
+        "D": "We need to father this project by next week."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "What does 'mature' mean in this context: 'Mature students often perform better academically due to their life experience.'?",
+      "options": {
+        "A": "elderly",
+        "B": "adult or older",
+        "C": "childish",
+        "D": "young"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Choose the correct meaning of 'pocket' in the sentence: 'He put the keys in his pocket.'",
+      "options": {
+        "A": "a small bag for carrying things",
+        "B": "a small bag attached to clothing for carrying small items",
+        "C": "a container for storing valuable items",
+        "D": "a section in a wallet"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Which sentence uses 'survey' correctly?",
+      "options": {
+        "A": "The company conducted a survey to gather customer feedback.",
+        "B": "She survey to work every day.",
+        "C": "They survey their lunch in the cafeteria.",
+        "D": "He survey his new car to his friends."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What is the meaning of 'others' in the sentence: 'Some students preferred to study at home, while others chose to use the library.'?",
+      "options": {
+        "A": "different people",
+        "B": "the same people",
+        "C": "all people",
+        "D": "no people"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Choose the sentence with the correct use of 'scenes':",
+      "options": {
+        "A": "The movie had several dramatic scenes that made the audience cry.",
+        "B": "The teacher scenes the students for their behavior.",
+        "C": "They scenes the room before the guests arrived.",
+        "D": "She scenes her car keys on the table."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "What does 'recent' mean in this context: 'The company announced recent changes to its policy.'?",
+      "options": {
+        "A": "happening or beginning a long time ago",
+        "B": "happening or beginning a short time ago",
+        "C": "happening in the future",
+        "D": "happening regularly"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Which sentence uses 'income' correctly?",
+      "options": {
+        "A": "They income to the party late.",
+        "B": "She income her friend with a gift.",
+        "C": "His monthly income is sufficient to cover all his expenses.",
+        "D": "We income the classroom before the lesson."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Choose the correct meaning of 'august' in the sentence: 'The august ceremony was attended by many dignitaries.'",
+      "options": {
+        "A": "the eighth month of the year",
+        "B": "respected and impressive",
+        "C": "casual and informal",
+        "D": "brief and hurried"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what is one reason national parks are important for wildlife conservation?",
+      "options": {
+        "A": "They provide funding for endangered species.",
+        "B": "They create safe habitats for animals and plants.",
+        "C": "They prevent all human activities in natural areas.",
+        "D": "They help animals adapt to urban environments."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "What does the passage suggest about ecosystems in paragraph 2?",
+      "options": {
+        "A": "They are simple systems that can be easily recreated.",
+        "B": "They are valuable only if they contain endangered species.",
+        "C": "They are complex systems with interdependent species.",
+        "D": "They function better with human intervention."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, how do national parks contribute to conservation science?",
+      "options": {
+        "A": "By funding international research projects",
+        "B": "By providing natural settings for wildlife research",
+        "C": "By creating artificial habitats for endangered species",
+        "D": "By training new conservation scientists"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "What educational benefit of national parks is mentioned in paragraph 4?",
+      "options": {
+        "A": "They offer formal degrees in environmental science.",
+        "B": "They produce textbooks about wildlife conservation.",
+        "C": "They help visitors develop appreciation for wildlife.",
+        "D": "They provide training for conservation careers."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Which of the following is NOT mentioned as a challenge facing national parks in paragraph 5?",
+      "options": {
+        "A": "Limited funding",
+        "B": "Development pressure",
+        "C": "Climate change impacts",
+        "D": "Excessive tourism"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What is the main purpose of the passage?",
+      "options": {
+        "A": "To criticize government policies on conservation",
+        "B": "To explain the role of national parks in wildlife protection",
+        "C": "To compare different national parks around the world",
+        "D": "To promote tourism to national parks"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "The word 'sanctuaries' in paragraph 1 is closest in meaning to:",
+      "options": {
+        "A": "churches",
+        "B": "safe places",
+        "C": "museums",
+        "D": "universities"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to the passage, what happens when ecosystems are damaged?",
+      "options": {
+        "A": "New species evolve quickly.",
+        "B": "Species may become extinct.",
+        "C": "Animals relocate to urban areas.",
+        "D": "Biodiversity increases."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "The phrase 'these valuable conservation areas' in paragraph 5 refers to:",
+      "options": {
+        "A": "scientific laboratories",
+        "B": "educational programs",
+        "C": "government offices",
+        "D": "national parks"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What does the author suggest people can do to support national parks?",
+      "options": {
+        "A": "Visit parks only during off-season",
+        "B": "Participate in sustainable tourism and conservation initiatives",
+        "C": "Avoid visiting parks to reduce human impact",
+        "D": "Move near national parks to monitor activities"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
