@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The heart is a powerful muscular organ that serves as the central pump of the circulatory system. Located in the chest between the lungs, this fist-sized organ beats approximately 100,000 times per day, pumping about 7,500 liters of blood throughout the body. The heart is divided into four chambers: two upper chambers called atria and two lower chambers called ventricles. A wall of muscle called the septum separates the left and right sides of the heart, preventing oxygen-rich blood from mixing with oxygen-poor blood.<br><br>(2) The primary function of the heart is to maintain a continuous circulation of blood throughout the body. This circulation delivers essential oxygen and nutrients to all cells while removing waste products such as carbon dioxide. The heart performs this vital function through a coordinated sequence of contractions and relaxations that moves blood in a one-way flow through the circulatory system. This rhythmic pumping action is controlled by electrical signals that originate from a natural pacemaker called the sinoatrial node, located in the right atrium.<br><br>(3) Blood circulation follows a specific pathway through the heart and body. First, oxygen-depleted blood returns from the body through large veins called the superior and inferior vena cavae, entering the right atrium. The blood then flows through the tricuspid valve into the right ventricle. When the heart contracts, this blood is pumped through the pulmonary valve into the pulmonary arteries, which carry it to the lungs where it releases carbon dioxide and absorbs oxygen. The newly oxygenated blood then returns to the heart through the pulmonary veins, entering the left atrium.<br><br>(4) From the left atrium, the oxygen-rich blood passes through the mitral valve into the left ventricle, which is the heart's most powerful chamber. When the left ventricle contracts, it forces the blood through the aortic valve into the aorta, the body's largest artery. From there, the blood travels through a network of increasingly smaller arteries and arterioles until it reaches the capillaries, where the exchange of oxygen, nutrients, and waste products occurs at the cellular level. After this exchange, the oxygen-depleted blood returns to the heart through venules and veins, completing the cycle.<br><br>(5) The heart's ability to function properly is essential for overall health. Various factors can affect heart performance, including diet, exercise, stress, and hereditary conditions. Heart disease remains one of the leading causes of death worldwide, often resulting from lifestyle factors such as poor diet, lack of exercise, smoking, and excessive alcohol consumption. Regular physical activity, a balanced diet, stress management, and routine medical check-ups can help maintain heart health and prevent cardiovascular problems. Medical advances have also provided treatments for many heart conditions, including medications, surgical procedures, and implantable devices that can help the heart function more effectively.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct form of the verb: 'If she _____ harder, she would have passed the exam.'",
+      "options": {
+        "A": "would study",
+        "B": "had studied",
+        "C": "has studied",
+        "D": "was studying"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the correct relative pronoun: 'The man _____ car was stolen called the police.'",
+      "options": {
+        "A": "who",
+        "B": "whom",
+        "C": "which",
+        "D": "whose"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence contains a correctly used modal verb?",
+      "options": {
+        "A": "She must to go to the doctor yesterday.",
+        "B": "You shouldn't to eat so much sugar.",
+        "C": "He might be late for the meeting.",
+        "D": "They could going to the party tomorrow."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct form of the reported speech: 'I will call you tomorrow,' she said.",
+      "options": {
+        "A": "She said she will call me tomorrow.",
+        "B": "She said she would call me the next day.",
+        "C": "She said I will call you tomorrow.",
+        "D": "She said she will call me the next day."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Select the sentence with the correct use of the present perfect tense:",
+      "options": {
+        "A": "I have seen that movie last week.",
+        "B": "She has lived in Paris for three years.",
+        "C": "They have finished the project yesterday.",
+        "D": "He has gone to the store since two hours."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which sentence uses the correct form of the passive voice?",
+      "options": {
+        "A": "The book was writing by a famous author.",
+        "B": "The house is being painted by the workers.",
+        "C": "The car was repair yesterday.",
+        "D": "The letter is send last week."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct form of the article: 'She plays _____ violin in _____ orchestra.'",
+      "options": {
+        "A": "a, an",
+        "B": "the, an",
+        "C": "the, the",
+        "D": "a, the"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the sentence with the correct use of the comparative form:",
+      "options": {
+        "A": "This book is more interesting than that one.",
+        "B": "She is more taller than her sister.",
+        "C": "The blue car is more faster than the red one.",
+        "D": "This exercise is more easier than I expected."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct form of the verb: 'Everyone in the room _____ when the fire alarm went off.'",
+      "options": {
+        "A": "were sleeping",
+        "B": "are sleeping",
+        "C": "was sleeping",
+        "D": "is sleeping"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence uses the future continuous correctly?",
+      "options": {
+        "A": "I will studying English next year.",
+        "B": "She will be visit her parents tomorrow.",
+        "C": "They will working at six o'clock.",
+        "D": "He will be playing tennis at this time tomorrow."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Select the sentence with the correct use of quantifiers:",
+      "options": {
+        "A": "There are a few sand on the beach.",
+        "B": "She has a little books on her shelf.",
+        "C": "He drinks a lot of water every day.",
+        "D": "We need a few money for the trip."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Choose the correct preposition: 'She arrived _____ the airport _____ midnight.'",
+      "options": {
+        "A": "at, in",
+        "B": "in, at",
+        "C": "at, at",
+        "D": "in, in"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Which sentence has the correct word order?",
+      "options": {
+        "A": "Always she arrives early to class.",
+        "B": "She early arrives always to class.",
+        "C": "She always arrives early to class.",
+        "D": "She arrives always early to class."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Select the sentence with the correct use of gerunds and infinitives:",
+      "options": {
+        "A": "She enjoys to swim in the lake.",
+        "B": "I look forward to seeing you soon.",
+        "C": "They decided going to the movies.",
+        "D": "He stopped to drinking coffee."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Choose the correctly punctuated sentence:",
+      "options": {
+        "A": "When, it rains the streets get wet.",
+        "B": "When it rains, the streets get wet.",
+        "C": "When it rains the streets, get wet.",
+        "D": "When it, rains the streets get wet."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct phrasal verb: 'Can you _____ the children while I go to the store?'",
+      "options": {
+        "A": "look at",
+        "B": "look up",
+        "C": "look after",
+        "D": "look into"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the correct expression to show disagreement:",
+      "options": {
+        "A": "I couldn't agree more.",
+        "B": "That's exactly what I think.",
+        "C": "I'm afraid I don't agree with you.",
+        "D": "You've got a point there."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct collocation:",
+      "options": {
+        "A": "make a decision",
+        "B": "do a decision",
+        "C": "take a decision",
+        "D": "have a decision"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Which expression is used to make a suggestion?",
+      "options": {
+        "A": "I'd rather not.",
+        "B": "How about going to the beach?",
+        "C": "I don't mind.",
+        "D": "That's fine with me."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the correct linking phrase to show contrast:",
+      "options": {
+        "A": "In addition",
+        "B": "Such as",
+        "C": "However",
+        "D": "Therefore"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the correct expression: 'I'm sorry, but I can't come to your party. I have a previous _____.'",
+      "options": {
+        "A": "compromise",
+        "B": "engagement",
+        "C": "appointment",
+        "D": "meeting"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Which phrase is used to express gratitude?",
+      "options": {
+        "A": "Don't mention it.",
+        "B": "It's my pleasure.",
+        "C": "I'm much obliged to you.",
+        "D": "You're welcome."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the correct idiom: 'The project is very difficult. We have to _____ to finish it on time.'",
+      "options": {
+        "A": "cut corners",
+        "B": "pull our socks up",
+        "C": "hit the road",
+        "D": "face the music"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct word to complete the sentence: 'She _____ a lot of time researching for her project.'",
+      "options": {
+        "A": "spent",
+        "B": "passed",
+        "C": "made",
+        "D": "took"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Which expression is correct to ask for clarification?",
+      "options": {
+        "A": "Sorry, I didn't catch that. Could you repeat it?",
+        "B": "I don't know what you're talking about.",
+        "C": "That doesn't make any sense.",
+        "D": "You're wrong about that."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What does it mean to 'regret' something?",
+      "options": {
+        "A": "To feel happy about a decision",
+        "B": "To feel sorry about something you did or didn't do",
+        "C": "To forget about an event",
+        "D": "To plan for the future"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Which word means to combine different things together?",
+      "options": {
+        "A": "separate",
+        "B": "divide",
+        "C": "mix",
+        "D": "sort"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What is a 'zone'?",
+      "options": {
+        "A": "A specific area with particular characteristics",
+        "B": "A type of vehicle",
+        "C": "A kind of animal",
+        "D": "A musical instrument"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which sentence uses the word 'shift' correctly?",
+      "options": {
+        "A": "I like to shift my breakfast.",
+        "B": "She will shift to a new apartment next month.",
+        "C": "The dog shifts very loudly.",
+        "D": "They shift the song together."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "What does it mean to give someone 'advice'?",
+      "options": {
+        "A": "To give them money",
+        "B": "To give them a present",
+        "C": "To tell them what you think they should do",
+        "D": "To tell them a story"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Choose the word that means to speak very loudly:",
+      "options": {
+        "A": "whisper",
+        "B": "shout",
+        "C": "mumble",
+        "D": "sigh"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "What does it mean to 'perform'?",
+      "options": {
+        "A": "To act, sing, or play music for an audience",
+        "B": "To sleep deeply",
+        "C": "To eat quickly",
+        "D": "To run slowly"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Which definition best describes the word 'land' as a verb?",
+      "options": {
+        "A": "To arrive on the ground after being in the air",
+        "B": "To swim in deep water",
+        "C": "To climb a mountain",
+        "D": "To drive a car"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What does it mean to 'update' something?",
+      "options": {
+        "A": "To make it smaller",
+        "B": "To make it older",
+        "C": "To bring it up to date with new information",
+        "D": "To delete it completely"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Which of the following is the best definition of 'stage'?",
+      "options": {
+        "A": "A small box",
+        "B": "A platform where performances take place",
+        "C": "A type of vehicle",
+        "D": "A kind of vegetable"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Choose the sentence that uses the word 'possible' correctly:",
+      "options": {
+        "A": "Is it possible that we will finish on time?",
+        "B": "She possible went to the store.",
+        "C": "They are very possible people.",
+        "D": "I possible like chocolate ice cream."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "What does it mean to say something 'exists'?",
+      "options": {
+        "A": "It is no longer available",
+        "B": "It is very expensive",
+        "C": "It is alive or present in reality",
+        "D": "It is broken or damaged"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Which word is closest in meaning to 'require'?",
+      "options": {
+        "A": "suggest",
+        "B": "need",
+        "C": "offer",
+        "D": "provide"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "What does it mean to 'refer' to something?",
+      "options": {
+        "A": "To destroy it",
+        "B": "To buy it",
+        "C": "To mention or talk about it",
+        "D": "To hide it"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Which sentence uses the word 'suppose' correctly?",
+      "options": {
+        "A": "I suppose my keys on the table.",
+        "B": "Can you suppose this bag for me?",
+        "C": "I suppose we should leave soon.",
+        "D": "She supposed the door closed."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, where is the heart located?",
+      "options": {
+        "A": "Below the lungs",
+        "B": "Above the lungs",
+        "C": "Between the lungs",
+        "D": "To the right of the lungs"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "How many chambers does the heart have?",
+      "options": {
+        "A": "Two",
+        "B": "Three",
+        "C": "Four",
+        "D": "Six"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "What is the function of the septum in the heart?",
+      "options": {
+        "A": "To pump blood through the body",
+        "B": "To separate oxygen-rich blood from oxygen-poor blood",
+        "C": "To control the heart's electrical signals",
+        "D": "To connect the atria to the ventricles"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to paragraph 2, what is the primary function of the heart?",
+      "options": {
+        "A": "To filter waste products from the blood",
+        "B": "To produce oxygen for the body",
+        "C": "To maintain a continuous circulation of blood",
+        "D": "To generate electrical signals"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What controls the rhythmic pumping action of the heart?",
+      "options": {
+        "A": "The aorta",
+        "B": "The septum",
+        "C": "The ventricles",
+        "D": "The sinoatrial node"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to the passage, where does the oxygen-depleted blood enter the heart?",
+      "options": {
+        "A": "Left atrium",
+        "B": "Right atrium",
+        "C": "Left ventricle",
+        "D": "Right ventricle"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Which chamber of the heart is described as the most powerful?",
+      "options": {
+        "A": "Right atrium",
+        "B": "Left atrium",
+        "C": "Right ventricle",
+        "D": "Left ventricle"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "Where does the exchange of oxygen, nutrients, and waste products occur?",
+      "options": {
+        "A": "In the heart",
+        "B": "In the lungs",
+        "C": "In the capillaries",
+        "D": "In the aorta"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to paragraph 5, which of the following can affect heart performance?",
+      "options": {
+        "A": "Only hereditary conditions",
+        "B": "Only diet and exercise",
+        "C": "Only stress and lifestyle factors",
+        "D": "Diet, exercise, stress, and hereditary conditions"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the main idea of the passage?",
+      "options": {
+        "A": "Heart disease is a leading cause of death worldwide.",
+        "B": "The heart pumps blood through a specific pathway in the body.",
+        "C": "The heart's function and role in the circulatory system.",
+        "D": "Medical advances have improved treatments for heart conditions."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
