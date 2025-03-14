@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Air pollution is a growing problem that affects millions of people around the world. It occurs when harmful substances are released into the air, including gases, particles, and biological molecules. These pollutants come from various sources such as factories, vehicles, power plants, and even household products. While some air pollution is visible as smoke or smog, many dangerous pollutants are invisible to the naked eye.<br><br>(2) The health effects of air pollution can be both short-term and long-term. In the short term, exposure to polluted air can cause irritation to the eyes, nose, and throat, as well as headaches, dizziness, and fatigue. People with pre-existing conditions like asthma or heart disease may experience worsening symptoms when air quality is poor. Children and the elderly are particularly vulnerable to these immediate effects.<br><br>(3) Long-term exposure to air pollution has been linked to more serious health problems. Research has shown that living in areas with high levels of air pollution increases the risk of respiratory diseases such as bronchitis and emphysema. Studies have also found connections between air pollution and heart disease, with pollutants potentially causing inflammation and narrowing of blood vessels. Additionally, there is growing evidence that air pollution may contribute to the development of certain types of cancer.<br><br>(4) The World Health Organization estimates that air pollution is responsible for millions of premature deaths each year. In urban areas, where pollution levels tend to be highest, the impact on public health can be significant. The economic costs are also substantial, including increased healthcare expenses, reduced productivity due to illness, and days missed from work or school. These costs affect not only individuals but also society as a whole.<br><br>(5) Fortunately, there are steps that can be taken to reduce air pollution and its effects on human health. Governments can implement stricter regulations on emissions from industries and vehicles. Individuals can help by using public transportation, carpooling, or choosing cleaner energy sources for their homes. Monitoring air quality and staying indoors on particularly polluted days can also help reduce exposure. By working together, we can improve air quality and protect public health for current and future generations.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "She have been to Paris twice.",
+        "B": "She has been to Paris twice.",
+        "C": "She having been to Paris twice.",
+        "D": "She been to Paris twice."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct form of the verb: They _____ television when I called.",
+      "options": {
+        "A": "watch",
+        "B": "watching",
+        "C": "were watching",
+        "D": "watches"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the correct preposition: The book is _____ the shelf.",
+      "options": {
+        "A": "in",
+        "B": "at",
+        "C": "on",
+        "D": "of"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which is the correct comparative form?",
+      "options": {
+        "A": "This exercise is more easier than the last one.",
+        "B": "This exercise is easyer than the last one.",
+        "C": "This exercise is more easy than the last one.",
+        "D": "This exercise is easier than the last one."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct form: If it _____ tomorrow, we will cancel the picnic.",
+      "options": {
+        "A": "rains",
+        "B": "will rain",
+        "C": "would rain",
+        "D": "is raining"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the correct past form: Last year, we _____ to Italy for our vacation.",
+      "options": {
+        "A": "go",
+        "B": "going",
+        "C": "gone",
+        "D": "went"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which sentence contains a modal verb used correctly?",
+      "options": {
+        "A": "You must to study harder.",
+        "B": "She can speaks three languages.",
+        "C": "We should arrive by 8 o'clock.",
+        "D": "They might to come later."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct article: She plays _____ piano very well.",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article needed"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Select the correct passive form: The window _____ yesterday.",
+      "options": {
+        "A": "broke",
+        "B": "was broken",
+        "C": "has broken",
+        "D": "is breaking"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence uses the present perfect correctly?",
+      "options": {
+        "A": "I have seen that movie last week.",
+        "B": "She has lived here since three years.",
+        "C": "We have never visited Australia.",
+        "D": "They have went to the store."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct question form: _____ do you exercise?",
+      "options": {
+        "A": "How time",
+        "B": "How many",
+        "C": "How often",
+        "D": "How much time"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the correct relative pronoun: The woman _____ lives next door is a doctor.",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Which sentence has the correct word order?",
+      "options": {
+        "A": "Always I take the bus to work.",
+        "B": "I take always the bus to work.",
+        "C": "I always take the bus to work.",
+        "D": "I take the bus always to work."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct future form for a planned action: I _____ my grandmother this weekend.",
+      "options": {
+        "A": "visit",
+        "B": "will visit",
+        "C": "am visiting",
+        "D": "visited"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the correct form for making suggestions:",
+      "options": {
+        "A": "Why don't we going to the beach?",
+        "B": "Let's to go to the beach.",
+        "C": "Why don't to go to the beach?",
+        "D": "Let's go to the beach."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct phrasal verb: Could you please _____ this form?",
+      "options": {
+        "A": "fill up",
+        "B": "fill in",
+        "C": "fill out",
+        "D": "fill over"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the correct expression: It's _____ to rain, so take an umbrella.",
+      "options": {
+        "A": "going",
+        "B": "thinking",
+        "C": "wanting",
+        "D": "planning"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Complete the expression: I need to _____ a decision soon.",
+      "options": {
+        "A": "do",
+        "B": "take",
+        "C": "make",
+        "D": "have"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct expression for agreeing with someone:",
+      "options": {
+        "A": "I am agree.",
+        "B": "You're right.",
+        "C": "I think you wrong.",
+        "D": "I am thinking same."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the correct preposition: The meeting starts _____ 10 AM.",
+      "options": {
+        "A": "in",
+        "B": "on",
+        "C": "at",
+        "D": "by"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Which connector correctly completes this sentence? I wanted to go out, _____ it was raining heavily.",
+      "options": {
+        "A": "so",
+        "B": "but",
+        "C": "because of",
+        "D": "therefore"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct expression: We need to leave _____.",
+      "options": {
+        "A": "in time",
+        "B": "at time",
+        "C": "on time",
+        "D": "by time"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the correct response to 'Would you like some tea?'",
+      "options": {
+        "A": "Yes, I'd love to.",
+        "B": "Yes, I'd love some.",
+        "C": "Yes, I love.",
+        "D": "Yes, I want."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Complete the idiom: She's feeling under the _____.",
+      "options": {
+        "A": "sun",
+        "B": "weather",
+        "C": "cloud",
+        "D": "sky"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct expression for asking someone to wait: Could you _____ a moment, please?",
+      "options": {
+        "A": "hold up",
+        "B": "hold on",
+        "C": "hold in",
+        "D": "hold by"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "The word 'master' in 'She is a master chef' means:",
+      "options": {
+        "A": "a beginner",
+        "B": "highly skilled",
+        "C": "a teacher",
+        "D": "a student"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Which sentence uses the word 'guests' correctly?",
+      "options": {
+        "A": "We had many guests at our wedding.",
+        "B": "I guests you are right about that.",
+        "C": "She guests for a living.",
+        "D": "The house guests to the left."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "The phrase 'make sense' means:",
+      "options": {
+        "A": "to create a feeling",
+        "B": "to be logical or understandable",
+        "C": "to smell something",
+        "D": "to touch something"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "The word 'potent' most closely means:",
+      "options": {
+        "A": "weak",
+        "B": "polite",
+        "C": "powerful",
+        "D": "careful"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Which sentence uses 'charge' correctly?",
+      "options": {
+        "A": "I need to charge my phone battery.",
+        "B": "We charge to the beach yesterday.",
+        "C": "She charge a good singer.",
+        "D": "They charge swimming every day."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "A 'knight' is associated with:",
+      "options": {
+        "A": "modern warfare",
+        "B": "medieval times",
+        "C": "space exploration",
+        "D": "cooking"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Which of these would a 'driver' most likely use?",
+      "options": {
+        "A": "a boat",
+        "B": "a car",
+        "C": "a bicycle",
+        "D": "a skateboard"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "The word 'beside' means:",
+      "options": {
+        "A": "inside of",
+        "B": "next to",
+        "C": "below",
+        "D": "far from"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "In the sentence 'The plant shoots up quickly', the word 'shoots' means:",
+      "options": {
+        "A": "grows",
+        "B": "fires a weapon",
+        "C": "takes pictures",
+        "D": "falls down"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "The word 'accident' refers to:",
+      "options": {
+        "A": "a planned event",
+        "B": "an unplanned and unfortunate event",
+        "C": "a celebration",
+        "D": "a regular occurrence"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "In 'She raised her hand to ask a question', the word 'raised' means:",
+      "options": {
+        "A": "lowered",
+        "B": "lifted up",
+        "C": "waved",
+        "D": "pointed"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Something that is 'faulty' is:",
+      "options": {
+        "A": "working properly",
+        "B": "defective or not working correctly",
+        "C": "very expensive",
+        "D": "very old"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "The adverb 'gently' describes:",
+      "options": {
+        "A": "doing something in a rough way",
+        "B": "doing something quickly",
+        "C": "doing something in a soft, careful way",
+        "D": "doing something loudly"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "A 'league' is best described as:",
+      "options": {
+        "A": "a type of food",
+        "B": "a group of teams that compete against each other",
+        "C": "a type of building",
+        "D": "a kind of animal"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "A 'studio' is most likely to be:",
+      "options": {
+        "A": "a place where artists or musicians work",
+        "B": "a type of car",
+        "C": "a kind of fruit",
+        "D": "a piece of furniture"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, air pollution occurs when:",
+      "options": {
+        "A": "people burn wood in their homes",
+        "B": "harmful substances are released into the air",
+        "C": "too many people live in one area",
+        "D": "there is too much oxygen in the air"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Based on paragraph 2, which group is particularly vulnerable to the immediate effects of air pollution?",
+      "options": {
+        "A": "Middle-aged adults",
+        "B": "Teenagers",
+        "C": "Children and the elderly",
+        "D": "Pregnant women"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, long-term exposure to air pollution has been linked to:",
+      "options": {
+        "A": "improved lung capacity",
+        "B": "respiratory diseases such as bronchitis",
+        "C": "stronger immune systems",
+        "D": "decreased risk of heart disease"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to the passage, how does air pollution affect blood vessels?",
+      "options": {
+        "A": "It strengthens them",
+        "B": "It has no effect on them",
+        "C": "It may cause inflammation and narrowing",
+        "D": "It causes them to expand"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Based on paragraph 4, the World Health Organization estimates that air pollution causes:",
+      "options": {
+        "A": "few health problems",
+        "B": "only short-term illnesses",
+        "C": "millions of premature deaths each year",
+        "D": "problems only in developing countries"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to the passage, where are pollution levels typically highest?",
+      "options": {
+        "A": "Rural areas",
+        "B": "Urban areas",
+        "C": "Coastal regions",
+        "D": "Mountains"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Based on paragraph 5, which of these is NOT mentioned as a way to reduce air pollution?",
+      "options": {
+        "A": "Using public transportation",
+        "B": "Carpooling",
+        "C": "Moving to rural areas",
+        "D": "Choosing cleaner energy sources"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What is the main purpose of this passage?",
+      "options": {
+        "A": "To explain the causes and health effects of air pollution",
+        "B": "To compare air quality in different countries",
+        "C": "To describe how to measure air pollution",
+        "D": "To discuss the history of environmental regulations"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to the passage, what is one economic cost of air pollution?",
+      "options": {
+        "A": "Increased tourism",
+        "B": "Higher real estate values",
+        "C": "Increased healthcare expenses",
+        "D": "More job opportunities"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "The passage suggests that reducing air pollution requires:",
+      "options": {
+        "A": "only government action",
+        "B": "only individual action",
+        "C": "both government and individual efforts",
+        "D": "only new technology"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
