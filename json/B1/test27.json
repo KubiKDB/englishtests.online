@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Fossils form when plants and animals die and are quickly buried by sediment such as mud, sand, or volcanic ash. Over time, as more layers of sediment build up, the pressure turns the lower layers into rock. The soft parts of the organism decompose, but the hard parts like bones, teeth, and shells can leave impressions or become mineralized, creating fossils. This process usually takes thousands or even millions of years to complete.<br><br>(2) Several types of fossils exist, including body fossils, trace fossils, and chemical fossils. Body fossils preserve the actual remains of an organism, such as bones, shells, or leaves. Trace fossils record the activity of ancient organisms, like footprints, burrows, or nests. Chemical fossils are substances that provide indirect evidence of ancient life, such as the chemical signatures left behind by microorganisms in rocks.<br><br>(3) Paleontologists, scientists who study fossils, use them to understand what life was like in the past. Fossils can reveal information about an organism's appearance, behavior, diet, and environment. By studying fossils from different time periods, scientists can see how species have evolved over millions of years. Fossils also help scientists understand how ecosystems functioned in the past and how they responded to environmental changes.<br><br>(4) The age of fossils can be determined through various dating methods. Relative dating examines the position of fossils in rock layers, with deeper layers generally being older. Absolute dating uses techniques such as radiometric dating to determine the exact age of fossils. These methods allow scientists to create a timeline of Earth's history and place fossils in their correct historical context.<br><br>(5) Fossils have significantly contributed to our understanding of evolution and Earth's history. They provide evidence for major evolutionary transitions, such as the development of mammals from reptiles and the evolution of humans from earlier primates. Fossils also help scientists reconstruct ancient environments and climates, offering valuable insights into how our planet has changed over time. This knowledge is crucial for understanding current environmental challenges and predicting future changes to Earth's ecosystems.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which verb form correctly completes the sentence? 'She _____ to the cinema every weekend.'",
+      "options": {
+        "A": "go",
+        "B": "goes",
+        "C": "going",
+        "D": "gone"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct preposition: 'I'm afraid _____ spiders.'",
+      "options": {
+        "A": "of",
+        "B": "from",
+        "C": "about",
+        "D": "with"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the correct past tense form: 'Yesterday, they _____ at the beach all day.'",
+      "options": {
+        "A": "are",
+        "B": "was",
+        "C": "were",
+        "D": "be"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which is the correct comparative form? 'This book is _____ than the one I read last week.'",
+      "options": {
+        "A": "more interesting",
+        "B": "interestinger",
+        "C": "most interesting",
+        "D": "the most interesting"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct modal verb: 'You _____ smoke in this building. It's against the rules.'",
+      "options": {
+        "A": "don't have to",
+        "B": "shouldn't",
+        "C": "mustn't",
+        "D": "might not"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which sentence uses the present perfect correctly?",
+      "options": {
+        "A": "I have seen that movie yesterday.",
+        "B": "She has lived here since five years.",
+        "C": "They have never visited Paris.",
+        "D": "We have went to the museum last week."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Identify the correct conditional sentence:",
+      "options": {
+        "A": "If it will rain, I stay at home.",
+        "B": "If it rains, I will stay at home.",
+        "C": "If it rains, I would stay at home.",
+        "D": "If it raining, I will stay at home."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct passive form: 'The house _____ last year.'",
+      "options": {
+        "A": "was built",
+        "B": "is built",
+        "C": "built",
+        "D": "has built"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Select the correct article usage: 'My father is _____ engineer.'",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article needed"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence uses the past continuous correctly?",
+      "options": {
+        "A": "I was cooking dinner when the phone rang.",
+        "B": "I was cook dinner when the phone rang.",
+        "C": "I cooking dinner when the phone rang.",
+        "D": "I cooked dinner when the phone was ringing."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct order of adjectives: 'She bought a _____ dress.'",
+      "options": {
+        "A": "silk beautiful red",
+        "B": "red beautiful silk",
+        "C": "beautiful red silk",
+        "D": "beautiful silk red"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the correct reported speech: 'I'm going to the store,' she said.",
+      "options": {
+        "A": "She said she goes to the store.",
+        "B": "She said she went to the store.",
+        "C": "She said she was going to the store.",
+        "D": "She said she had gone to the store."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct relative pronoun: 'The woman _____ lives next door is a doctor.'",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Identify the correct use of 'too' and 'enough': 'The coffee is _____ hot to drink.'",
+      "options": {
+        "A": "too much",
+        "B": "too",
+        "C": "enough",
+        "D": "very"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the correct future form: 'Look at those clouds. It _____ soon.'",
+      "options": {
+        "A": "will rain",
+        "B": "is going to rain",
+        "C": "rains",
+        "D": "is raining"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct word to complete the sentence: 'I need to _____ my homework before dinner.'",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "take",
+        "D": "give"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the appropriate phrasal verb: 'Can you _____ the children while I go shopping?'",
+      "options": {
+        "A": "look at",
+        "B": "look for",
+        "C": "look after",
+        "D": "look up"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct collocation: 'She _____ a mistake in her calculations.'",
+      "options": {
+        "A": "did",
+        "B": "made",
+        "C": "took",
+        "D": "had"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Select the correct idiom: 'The test was very easy. It was a _____.'",
+      "options": {
+        "A": "piece of cake",
+        "B": "cup of tea",
+        "C": "slice of bread",
+        "D": "bowl of soup"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct linking word: 'I wanted to go swimming, _____ the pool was closed.'",
+      "options": {
+        "A": "so",
+        "B": "because",
+        "C": "but",
+        "D": "and"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Identify the correct expression: 'I'm tired. I think I'll _____ early tonight.'",
+      "options": {
+        "A": "go to bed",
+        "B": "go to sleep",
+        "C": "go to rest",
+        "D": "go to dream"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Which word correctly completes this common expression? 'It's raining _____, very heavily.'",
+      "options": {
+        "A": "dogs and cats",
+        "B": "cats and dogs",
+        "C": "mice and rats",
+        "D": "horses and cows"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct fixed expression: '_____ Alex nor Sarah came to the party.'",
+      "options": {
+        "A": "Both",
+        "B": "Either",
+        "C": "Neither",
+        "D": "Also"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Select the appropriate expression: 'Could you _____ me a favor and post this letter?'",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "give",
+        "D": "take"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct response to 'Thank you': 'Thank you for your help.' '_____.'"",
+      "options": {
+        "A": "It's nothing",
+        "B": "You're welcome",
+        "C": "Don't mention it",
+        "D": "Both B and C are correct"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the correct usage of 'want': 'I _____ to travel around the world someday.'",
+      "options": {
+        "A": "want",
+        "B": "wanting",
+        "C": "wanted",
+        "D": "wants"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Which sentence uses 'like' correctly?",
+      "options": {
+        "A": "I like go to the beach.",
+        "B": "She like dancing.",
+        "C": "They like to watch movies.",
+        "D": "He like playing football."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Select the correct sentence using 'love':",
+      "options": {
+        "A": "I'm love chocolate ice cream.",
+        "B": "She loving to paint.",
+        "C": "We love going to concerts.",
+        "D": "He love his new car."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Choose the correct usage of 'hate':",
+      "options": {
+        "A": "I hate when it rains on weekends.",
+        "B": "She hate getting up early.",
+        "C": "They hating loud music.",
+        "D": "He hates to waiting in lines."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Which sentence uses 'hope' correctly?",
+      "options": {
+        "A": "I hope you to succeed.",
+        "B": "She hopes passing the exam.",
+        "C": "We hope that the weather will improve.",
+        "D": "They hope for they win."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Identify the correct usage of 'fear':",
+      "options": {
+        "A": "I fear of heights.",
+        "B": "She fears that she will miss the train.",
+        "C": "They fear from dogs.",
+        "D": "He fear going to the dentist."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Choose the correct sentence with 'worry':",
+      "options": {
+        "A": "I worry about losing my job.",
+        "B": "She worry for her exam results.",
+        "C": "They worrying too much.",
+        "D": "He worries of his health."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Select the correct usage of 'believe':",
+      "options": {
+        "A": "I believe in ghosts.",
+        "B": "She believe that aliens exist.",
+        "C": "They believing in miracles.",
+        "D": "He believes on luck."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Which sentence uses 'doubt' correctly?",
+      "options": {
+        "A": "I doubt if she telling the truth.",
+        "B": "She doubts that he will come to the party.",
+        "C": "They doubt about his honesty.",
+        "D": "He doubting her story."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Identify the correct sentence with 'know':",
+      "options": {
+        "A": "I know how to riding a bike.",
+        "B": "She know the answer.",
+        "C": "They knowing where the keys are.",
+        "D": "He knows how to cook spaghetti."
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Choose the correct usage of 'think':",
+      "options": {
+        "A": "I thinking about my vacation.",
+        "B": "She think it's a good idea.",
+        "C": "They thinks we should leave now.",
+        "D": "He thinks the movie was boring."
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Select the correct sentence using 'guess':",
+      "options": {
+        "A": "I guess what you're thinking.",
+        "B": "She guessing the answer.",
+        "C": "They guess that we coming.",
+        "D": "He guess what happen next."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Which sentence uses 'remember' correctly?",
+      "options": {
+        "A": "I remember to lock the door yesterday.",
+        "B": "She remember her childhood clearly.",
+        "C": "They remembering their first day at school.",
+        "D": "He remembers to call his mother every Sunday."
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Identify the correct usage of 'forget':",
+      "options": {
+        "A": "I always forget where I put my keys.",
+        "B": "She forget to do her homework.",
+        "C": "They forgetting their anniversary.",
+        "D": "He forgot bringing his lunch."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Choose the sentence that uses 'understand' correctly:",
+      "options": {
+        "A": "I not understand the instructions.",
+        "B": "She understand the problem.",
+        "C": "They understanding the situation.",
+        "D": "He doesn't understand why she's upset."
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, fossils form when organisms:",
+      "options": {
+        "A": "evolve over millions of years",
+        "B": "are studied by paleontologists",
+        "C": "are quickly buried by sediment",
+        "D": "decompose completely"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following is NOT mentioned as a type of fossil in the passage?",
+      "options": {
+        "A": "Body fossils",
+        "B": "Trace fossils",
+        "C": "Chemical fossils",
+        "D": "Transitional fossils"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "What information can fossils reveal about organisms according to paragraph 3?",
+      "options": {
+        "A": "Their DNA structure",
+        "B": "Their appearance and behavior",
+        "C": "Their extinction causes",
+        "D": "Their reproductive cycles"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Which dating method determines the exact age of fossils?",
+      "options": {
+        "A": "Relative dating",
+        "B": "Absolute dating",
+        "C": "Carbon dating",
+        "D": "Evolutionary dating"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to the passage, deeper rock layers are generally:",
+      "options": {
+        "A": "more accurate for dating",
+        "B": "better preserved",
+        "C": "older",
+        "D": "richer in fossils"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What is the main purpose of the passage?",
+      "options": {
+        "A": "To explain how paleontologists work",
+        "B": "To describe how fossils form and what they teach us",
+        "C": "To argue for better fossil preservation",
+        "D": "To compare different types of dating methods"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "The term 'paleontologists' in paragraph 3 refers to:",
+      "options": {
+        "A": "people who collect fossils as a hobby",
+        "B": "museum curators who arrange fossil exhibits",
+        "C": "scientists who study fossils",
+        "D": "technicians who extract fossils from rocks"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to the passage, which parts of organisms are most likely to become fossilized?",
+      "options": {
+        "A": "Soft tissues",
+        "B": "Hard parts like bones and shells",
+        "C": "Only the largest parts",
+        "D": "Only the smallest parts"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "The author suggests that fossils are valuable for understanding:",
+      "options": {
+        "A": "only prehistoric animals",
+        "B": "only human ancestors",
+        "C": "evolution and Earth's history",
+        "D": "future environmental changes only"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "Which of the following would be an example of a trace fossil?",
+      "options": {
+        "A": "A dinosaur bone",
+        "B": "A fossilized leaf",
+        "C": "A footprint preserved in rock",
+        "D": "A shell turned to stone"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
