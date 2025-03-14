@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Clouds are one of the most visible and important features of our atmosphere. They form when water vapor in the air condenses into tiny water droplets or ice crystals. This process begins when warm air containing water vapor rises into the cooler regions of the atmosphere. As the air temperature decreases with altitude, the water vapor cools and its density increases, leading to condensation. However, water vapor needs a surface to condense on, and in the atmosphere, these surfaces are typically microscopic particles called condensation nuclei.<br><br>(2) The formation of clouds depends on several factors. First, there must be sufficient moisture in the air. Second, there must be a cooling mechanism to lower the temperature of the air. Finally, there must be condensation nuclei present for water droplets to form. Different types of clouds develop based on the altitude at which they form and the atmospheric conditions present. For example, cumulus clouds, with their flat bottoms and fluffy tops, form at lower altitudes, while high, wispy cirrus clouds develop in the upper troposphere where temperatures are much colder.<br><br>(3) Rain occurs when cloud droplets grow large enough to fall to the earth's surface. In the early stages of cloud formation, water droplets are extremely small and light, allowing them to remain suspended in the air. For rain to form, these droplets must increase in size. This happens through a process called coalescence, where droplets collide and merge to form larger drops. As droplets grow, they become heavier until gravity eventually pulls them toward the ground. The ultimate size of raindrops depends on several factors, including the height of the cloud and the conditions through which the drops fall.<br><br>(4) Different types of rainfall result from various cloud formation processes. Convective rainfall occurs when the sun heats the ground, causing warm air to rise rapidly and create tall cumulonimbus clouds. These often lead to heavy but short-lived showers. Orographic rainfall happens when moist air is forced to rise over mountains or hills, cooling as it ascends and creating clouds that release their moisture on the windward side. Frontal rainfall develops when warm and cold air masses meet, with the lighter warm air being forced to rise over the denser cold air, forming clouds along the front.<br><br>(5) Scientists use various tools to study cloud formation and predict rainfall. Weather balloons collect data on temperature and humidity at different atmospheric levels. Satellites provide a broader view of cloud patterns across large regions. Radar systems detect the movement and intensity of precipitation, allowing meteorologists to track storms. This thorough monitoring helps in developing accurate forecasts, which are essential for agriculture, water storage management, transportation, and emergency preparedness. Understanding the cycle of cloud formation and rainfall also helps researchers study climate patterns and how they might change in the future.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "She have been studying English for two years.",
+        "B": "She has been studying English for two years.",
+        "C": "She having been studying English for two years.",
+        "D": "She been studying English for two years."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct past tense form: 'Last weekend, I _____ to the beach.'",
+      "options": {
+        "A": "go",
+        "B": "goes",
+        "C": "went",
+        "D": "gone"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the correct comparative form: 'This test is _____ than the previous one.'",
+      "options": {
+        "A": "more easy",
+        "B": "easyer",
+        "C": "more easier",
+        "D": "easier"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence uses the present perfect correctly?",
+      "options": {
+        "A": "I have finished my homework yesterday.",
+        "B": "I finished my homework already.",
+        "C": "I have already finished my homework.",
+        "D": "I did finish my homework since morning."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct form: 'If it _____ tomorrow, we will cancel the picnic.'",
+      "options": {
+        "A": "rains",
+        "B": "will rain",
+        "C": "would rain",
+        "D": "is raining"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the correct passive voice: 'They built this house in 1990.'",
+      "options": {
+        "A": "This house builds in 1990.",
+        "B": "This house was built in 1990.",
+        "C": "This house has built in 1990.",
+        "D": "This house is built in 1990."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which of the following uses articles correctly?",
+      "options": {
+        "A": "I need a apple and an banana.",
+        "B": "I need an apple and a banana.",
+        "C": "I need the apple and the banana.",
+        "D": "I need apple and banana."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct relative pronoun: 'The woman _____ car was stolen called the police.'",
+      "options": {
+        "A": "who",
+        "B": "whom",
+        "C": "whose",
+        "D": "which"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence uses the correct preposition?",
+      "options": {
+        "A": "I'm afraid from spiders.",
+        "B": "I'm afraid of spiders.",
+        "C": "I'm afraid with spiders.",
+        "D": "I'm afraid at spiders."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Select the correct modal verb: 'You _____ smoke in the hospital. It's prohibited.'",
+      "options": {
+        "A": "don't have to",
+        "B": "wouldn't",
+        "C": "mustn't",
+        "D": "couldn't"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct verb form: 'She suggested _____ a break.'",
+      "options": {
+        "A": "take",
+        "B": "to take",
+        "C": "taking",
+        "D": "took"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence has the correct word order?",
+      "options": {
+        "A": "Where you did go yesterday?",
+        "B": "Where did you go yesterday?",
+        "C": "Where you went yesterday?",
+        "D": "Where did went you yesterday?"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Select the correct future form: 'This time tomorrow, I _____ on the beach.'",
+      "options": {
+        "A": "will lie",
+        "B": "am lying",
+        "C": "will be lying",
+        "D": "will lying"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct quantifier: 'There aren't _____ students in the class today.'",
+      "options": {
+        "A": "much",
+        "B": "a little",
+        "C": "many",
+        "D": "a few"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Which sentence uses the past continuous correctly?",
+      "options": {
+        "A": "I was cook dinner when he arrived.",
+        "B": "I cooking dinner when he arrived.",
+        "C": "I was cooking dinner when he arrived.",
+        "D": "I were cooking dinner when he arrived."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct phrasal verb: 'Can you _____ this form, please?'",
+      "options": {
+        "A": "fill in",
+        "B": "fill off",
+        "C": "fill across",
+        "D": "fill above"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the appropriate response to 'How are you?'",
+      "options": {
+        "A": "I'm 25 years old.",
+        "B": "I'm fine, thanks. And you?",
+        "C": "Yes, I am.",
+        "D": "My name is John."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct collocation: 'She needs to _____ a decision soon.'",
+      "options": {
+        "A": "do",
+        "B": "have",
+        "C": "take",
+        "D": "make"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Which is the correct expression for giving an opinion?",
+      "options": {
+        "A": "I'm agreeing with you.",
+        "B": "In my opinion, this is correct.",
+        "C": "I'm thinking this is wrong.",
+        "D": "According for me, that's true."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct linking word: 'He was tired; _____, he kept working.'",
+      "options": {
+        "A": "so",
+        "B": "because",
+        "C": "therefore",
+        "D": "nevertheless"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the appropriate expression for making a suggestion:",
+      "options": {
+        "A": "Why don't we go to the cinema?",
+        "B": "I don't want to go to the cinema.",
+        "C": "We should to go to the cinema.",
+        "D": "Let's not going to the cinema."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct expression: 'I'm sorry, but I can't _____ what you mean.'",
+      "options": {
+        "A": "understand",
+        "B": "know",
+        "C": "realize",
+        "D": "think"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Complete the sentence with the appropriate idiom: 'Learning a new language is not _____.'",
+      "options": {
+        "A": "a piece of pie",
+        "B": "a piece of cake",
+        "C": "a cup of tea",
+        "D": "a walk in the garden"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Select the correct response to 'Thank you.'",
+      "options": {
+        "A": "Thank you too.",
+        "B": "You're welcome.",
+        "C": "Not at all.",
+        "D": "Both B and C are correct."
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct expression for polite disagreement:",
+      "options": {
+        "A": "You're wrong!",
+        "B": "I'm not agree with you.",
+        "C": "I'm afraid I don't agree with you.",
+        "D": "I disagree."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What does 'feature' mean in this sentence? 'The large windows are an important feature of this building.'",
+      "options": {
+        "A": "a part or aspect of something",
+        "B": "a problem or difficulty",
+        "C": "a type of decoration",
+        "D": "a special offer"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the sentence that uses 'resolve' correctly:",
+      "options": {
+        "A": "They need to resolve more employees.",
+        "B": "She resolved to study harder next semester.",
+        "C": "We resolved the table for dinner.",
+        "D": "The doctor resolved him to rest."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What does 'density' refer to?",
+      "options": {
+        "A": "the speed of an object",
+        "B": "how heavy something is",
+        "C": "how closely packed the matter in a substance is",
+        "D": "the size of an area"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "What is a 'payment'?",
+      "options": {
+        "A": "a sum of money given or received",
+        "B": "a type of bank account",
+        "C": "a form of identification",
+        "D": "a financial plan"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Which sentence uses 'develop' correctly?",
+      "options": {
+        "A": "She developed her keys in her pocket.",
+        "B": "The company is developing a new smartphone.",
+        "C": "They developed the meeting until Friday.",
+        "D": "We develop the food in the fridge."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "What is a 'chamber'?",
+      "options": {
+        "A": "a type of musical instrument",
+        "B": "a room or enclosed space",
+        "C": "a piece of furniture",
+        "D": "a cooking device"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "What does 'ultimate' mean?",
+      "options": {
+        "A": "the first in a series",
+        "B": "the last or final in a series",
+        "C": "the most expensive",
+        "D": "the most common"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Choose the sentence that uses 'commit' correctly:",
+      "options": {
+        "A": "She committed the recipe to memory.",
+        "B": "They committed the party next week.",
+        "C": "He committed very tall and strong.",
+        "D": "We committed the restaurant for dinner."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What is a 'textbook'?",
+      "options": {
+        "A": "a novel or storybook",
+        "B": "a book containing a record of events",
+        "C": "a book used for teaching a subject",
+        "D": "a book of maps"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "What does 'aspect' mean?",
+      "options": {
+        "A": "a particular part or feature of something",
+        "B": "a tool used for measuring",
+        "C": "a type of insect",
+        "D": "a mathematical calculation"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Choose the sentence that uses 'written' correctly:",
+      "options": {
+        "A": "She has written a letter to her friend.",
+        "B": "They written a book last year.",
+        "C": "He is written an email now.",
+        "D": "We will written a report tomorrow."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "What are 'results' in this sentence? 'The test results will be available next week.'",
+      "options": {
+        "A": "questions on an exam",
+        "B": "the consequences or outcomes of something",
+        "C": "a type of measurement",
+        "D": "instructions for a process"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "What does 'thorough' mean?",
+      "options": {
+        "A": "quick and efficient",
+        "B": "complete and careful",
+        "C": "simple and easy",
+        "D": "old and traditional"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "What is 'storage'?",
+      "options": {
+        "A": "the process of moving things",
+        "B": "the act of selling goods",
+        "C": "the space for keeping things",
+        "D": "the method of making things"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "What is an 'expense'?",
+      "options": {
+        "A": "an amount of money spent",
+        "B": "a type of income",
+        "C": "a financial document",
+        "D": "a method of saving money"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what is needed for water vapor to condense?",
+      "options": {
+        "A": "High temperatures",
+        "B": "Condensation nuclei",
+        "C": "Heavy rainfall",
+        "D": "Strong winds"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Based on paragraph 2, which of the following is NOT a factor in cloud formation?",
+      "options": {
+        "A": "Moisture in the air",
+        "B": "A cooling mechanism",
+        "C": "Condensation nuclei",
+        "D": "Wind direction"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, how do water droplets in clouds become large enough to fall as rain?",
+      "options": {
+        "A": "They freeze and become heavier",
+        "B": "They are pushed down by wind",
+        "C": "They collide and merge through coalescence",
+        "D": "They absorb more water from the atmosphere"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Which type of rainfall occurs when the sun heats the ground?",
+      "options": {
+        "A": "Frontal rainfall",
+        "B": "Convective rainfall",
+        "C": "Orographic rainfall",
+        "D": "Strategic rainfall"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to paragraph 4, orographic rainfall happens when:",
+      "options": {
+        "A": "warm and cold air masses meet",
+        "B": "the sun heats the ground",
+        "C": "moist air is forced to rise over mountains",
+        "D": "two low-pressure systems collide"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "Based on paragraph 5, which tool provides a broader view of cloud patterns across large regions?",
+      "options": {
+        "A": "Weather balloons",
+        "B": "Radar systems",
+        "C": "Satellites",
+        "D": "Thermometers"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "The word 'density' in paragraph 1 is closest in meaning to:",
+      "options": {
+        "A": "weight",
+        "B": "concentration",
+        "C": "pressure",
+        "D": "volume"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "Which of the following is NOT mentioned as a use for weather forecasting in paragraph 5?",
+      "options": {
+        "A": "Agriculture",
+        "B": "Water storage management",
+        "C": "Emergency preparedness",
+        "D": "Entertainment"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "The main purpose of this passage is to:",
+      "options": {
+        "A": "compare different types of clouds",
+        "B": "explain the process of cloud formation and rainfall",
+        "C": "describe weather forecasting techniques",
+        "D": "warn about the dangers of heavy rainfall"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "From the passage, we can infer that:",
+      "options": {
+        "A": "all clouds produce rainfall",
+        "B": "clouds only form at high altitudes",
+        "C": "raindrops vary in size depending on conditions",
+        "D": "weather forecasting is always accurate"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
