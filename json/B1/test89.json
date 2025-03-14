@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The question of why some countries are richer than others has puzzled economists for generations. Many factors contribute to a nation's wealth, including natural resources, historical development, and geographical location. Countries with abundant natural resources such as oil, minerals, or fertile land often have advantages in economic development, though this alone does not guarantee prosperity.<br><br>(2) Another important factor is the quality of institutions. Countries with stable governments, strong legal systems, and protection of property rights tend to attract more investment and experience sustained economic growth. When citizens trust their institutions, they are more likely to start businesses, invest in education, and participate in the formal economy.<br><br>(3) Human capital development also plays a crucial role in economic success. Nations that invest heavily in education and healthcare create a skilled workforce capable of innovation and adaptation to changing economic conditions. These investments typically yield long-term benefits as educated populations can develop new technologies and improve productivity.<br><br>(4) Trade relationships and global integration significantly impact a country's wealth as well. Nations that engage in international trade can specialize in producing goods and services where they have a comparative advantage. Open economies often experience faster growth through increased market access, knowledge transfer, and competition that drives efficiency.<br><br>(5) Finally, cultural attitudes toward entrepreneurship, risk-taking, and innovation contribute to economic disparities between nations. Societies that encourage entrepreneurial activity and embrace change tend to develop more dynamic economies. However, it's important to recognize that economic development is complex and rarely determined by a single factor. The interplay between these various elements creates the diverse economic landscape we see across the world today.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which form correctly completes the sentence? She _____ in this company since 2018.",
+      "options": {
+        "A": "works",
+        "B": "has been working",
+        "C": "is working",
+        "D": "worked"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "A": "I don't have much money.",
+        "B": "I don't have many money.",
+        "C": "I don't has much money.",
+        "D": "I not have much money."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Complete the sentence: If it _____ tomorrow, we will cancel the picnic.",
+      "options": {
+        "A": "rains",
+        "B": "will rain",
+        "C": "is raining",
+        "D": "rained"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "She told to me about her new job.",
+        "B": "She told me about her new job.",
+        "C": "She tell me about her new job.",
+        "D": "She is telling to me about her new job."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Select the correct relative pronoun: The book _____ I borrowed from the library is very interesting.",
+      "options": {
+        "A": "who",
+        "B": "when",
+        "C": "which",
+        "D": "whose"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Choose the correct form: He suggested _____ for a walk.",
+      "options": {
+        "A": "go",
+        "B": "to go",
+        "C": "going",
+        "D": "goes"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which sentence contains an error?",
+      "options": {
+        "A": "My brother is taller than me.",
+        "B": "She speaks English better than him.",
+        "C": "They arrived earlier than us.",
+        "D": "The teacher knows more than they."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct passive form: The building _____ last year.",
+      "options": {
+        "A": "was constructed",
+        "B": "constructed",
+        "C": "has constructed",
+        "D": "is constructing"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Select the correct option: You _____ wear a uniform at this school. It's optional.",
+      "options": {
+        "A": "must",
+        "B": "should",
+        "C": "don't have to",
+        "D": "might not"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence is in the present perfect tense?",
+      "options": {
+        "A": "I am going to the store.",
+        "B": "She has visited Paris twice.",
+        "C": "They went to the concert last night.",
+        "D": "We will travel to Spain next month."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Complete the sentence: _____ he was tired, he continued working.",
+      "options": {
+        "A": "However",
+        "B": "Even though",
+        "C": "Moreover",
+        "D": "Otherwise"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Choose the correct word order:",
+      "options": {
+        "A": "I don't know where is the station.",
+        "B": "I don't know where the station is.",
+        "C": "I don't know the station where is.",
+        "D": "I don't know is where the station."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Select the correct preposition: The plane will arrive _____ 6:30 PM.",
+      "options": {
+        "A": "in",
+        "B": "on",
+        "C": "at",
+        "D": "by"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence contains a mistake?",
+      "options": {
+        "A": "There aren't any students in the classroom.",
+        "B": "There isn't no one at home.",
+        "C": "There weren't many people at the meeting.",
+        "D": "There isn't much time left."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Choose the correct form: By the time we arrived, the movie _____.",
+      "options": {
+        "A": "already started",
+        "B": "has already started",
+        "C": "had already started",
+        "D": "was already starting"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Complete the sentence: The weather was so bad that we had no choice _____ staying home.",
+      "options": {
+        "A": "except",
+        "B": "besides",
+        "C": "apart",
+        "D": "instead"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the appropriate phrasal verb: Could you please _____ your presentation for tomorrow?",
+      "options": {
+        "A": "put away",
+        "B": "put off",
+        "C": "put up",
+        "D": "put on"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the correct option to complete the idiom: She passed her exam with flying _____.",
+      "options": {
+        "A": "marks",
+        "B": "grades",
+        "C": "colors",
+        "D": "points"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Which collocates with 'decision'?",
+      "options": {
+        "A": "do a",
+        "B": "make a",
+        "C": "take a",
+        "D": "have a"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the most appropriate response: 'How do you do?'",
+      "options": {
+        "A": "I'm fine, thank you.",
+        "B": "How do you do?",
+        "C": "Very well, and you?",
+        "D": "Not bad."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Complete the sentence: He's very reliable; you can always _____ him.",
+      "options": {
+        "A": "count on",
+        "B": "rely at",
+        "C": "depend of",
+        "D": "trust with"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Select the correct option: I'd rather _____ at home than go to the party.",
+      "options": {
+        "A": "to stay",
+        "B": "staying",
+        "C": "stay",
+        "D": "stayed"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct expression: The movie was _____ boring that I fell asleep.",
+      "options": {
+        "A": "such",
+        "B": "so",
+        "C": "too",
+        "D": "very"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Complete the sentence: I'm not _____ good at math as my sister.",
+      "options": {
+        "A": "as",
+        "B": "so",
+        "C": "such",
+        "D": "like"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct connector: _____ the rain, the football match was canceled.",
+      "options": {
+        "A": "Because",
+        "B": "Due to",
+        "C": "Although",
+        "D": "Unless"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the best definition for the word 'without':",
+      "options": {
+        "A": "Not including something",
+        "B": "Inside of something",
+        "C": "Together with something",
+        "D": "Before something happens"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "What does 'respond' mean?",
+      "options": {
+        "A": "To ignore someone",
+        "B": "To reply to someone or something",
+        "C": "To sleep deeply",
+        "D": "To travel quickly"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Which sentence uses 'blanket' correctly?",
+      "options": {
+        "A": "I need to blanket my essay by tomorrow.",
+        "B": "She covered the baby with a warm blanket.",
+        "C": "They blanketed the food before eating.",
+        "D": "He likes to blanket early in the morning."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "What is a 'bicycle'?",
+      "options": {
+        "A": "A three-wheeled vehicle",
+        "B": "A type of boat",
+        "C": "A two-wheeled vehicle powered by pedals",
+        "D": "A small airplane"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the sentence that uses 'instant' correctly:",
+      "options": {
+        "A": "She made some instant coffee for breakfast.",
+        "B": "The weather was very instant yesterday.",
+        "C": "His car is the most instant on the street.",
+        "D": "They instant their homework every day."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Which sentence uses 'trouble' correctly?",
+      "options": {
+        "A": "She troubles her hair every morning.",
+        "B": "The car is having engine trouble.",
+        "C": "I trouble my friends when I'm happy.",
+        "D": "He troubled a new house last year."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "What does 'confirm' mean?",
+      "options": {
+        "A": "To cancel something",
+        "B": "To verify that something is true or correct",
+        "C": "To create something new",
+        "D": "To destroy something"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Choose the correct usage of 'occasion':",
+      "options": {
+        "A": "We should occasion more often.",
+        "B": "It was a special occasion, so we dressed up.",
+        "C": "The food was very occasion.",
+        "D": "She occasions to work every day."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What does 'industry' refer to?",
+      "options": {
+        "A": "A specific type of business activity or manufacturing",
+        "B": "A place where people go for vacation",
+        "C": "A type of weather condition",
+        "D": "A method of cooking food"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Choose the sentence that uses 'chapter' correctly:",
+      "options": {
+        "A": "I chaptered my dinner quickly.",
+        "B": "The weather is chapter today.",
+        "C": "She read the first chapter of the book.",
+        "D": "They chapter to school by bus."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What does 'doubtful' mean?",
+      "options": {
+        "A": "Very happy and excited",
+        "B": "Extremely tired",
+        "C": "Uncertain or unlikely",
+        "D": "Angry and upset"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Which sentence uses 'transit' correctly?",
+      "options": {
+        "A": "The package is in transit to your address.",
+        "B": "She transits her hair every week.",
+        "C": "The weather is very transit today.",
+        "D": "He transit his dinner quickly."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "What is a 'guardian'?",
+      "options": {
+        "A": "A type of vehicle",
+        "B": "A person who protects or is legally responsible for someone",
+        "C": "A kind of vegetable",
+        "D": "A musical instrument"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Choose the correct meaning of 'invalid':",
+      "options": {
+        "A": "Very powerful",
+        "B": "Not legally or factually valid",
+        "C": "A special type of medication",
+        "D": "A celebration or festival"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "What does 'nursing' refer to?",
+      "options": {
+        "A": "The profession of providing medical care for the sick",
+        "B": "A type of sport",
+        "C": "A way of cooking food",
+        "D": "A method of transportation"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, which of the following is NOT mentioned as a factor contributing to a nation's wealth?",
+      "options": {
+        "A": "Natural resources",
+        "B": "Historical development",
+        "C": "Geographical location",
+        "D": "Population size"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "The word 'sustained' in paragraph 2 is closest in meaning to:",
+      "options": {
+        "A": "brief",
+        "B": "continuous",
+        "C": "decreasing",
+        "D": "unpredictable"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, which of the following is a benefit of investing in education?",
+      "options": {
+        "A": "Immediate economic returns",
+        "B": "Reduced need for healthcare",
+        "C": "A workforce that can innovate",
+        "D": "Decreased global competition"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "The passage suggests that countries with 'comparative advantage' can:",
+      "options": {
+        "A": "Avoid international trade",
+        "B": "Produce all goods more efficiently",
+        "C": "Specialize in certain goods and services",
+        "D": "Close their economies to outside influence"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Which of the following best describes the main idea of paragraph 5?",
+      "options": {
+        "A": "Cultural factors influence economic development",
+        "B": "Entrepreneurial activity is the most important factor in wealth creation",
+        "C": "Risk-taking is always beneficial for economic growth",
+        "D": "Economic development is determined by a single factor"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "The word 'disparities' in paragraph 5 is closest in meaning to:",
+      "options": {
+        "A": "similarities",
+        "B": "advantages",
+        "C": "differences",
+        "D": "improvements"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Based on the passage, which of the following would most likely lead to economic growth?",
+      "options": {
+        "A": "Restricting international trade",
+        "B": "Weakening legal systems",
+        "C": "Investing in education",
+        "D": "Discouraging entrepreneurship"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to the passage, natural resources:",
+      "options": {
+        "A": "Are the most important factor in economic development",
+        "B": "Always lead to national prosperity",
+        "C": "Can provide advantages but don't guarantee wealth",
+        "D": "Are irrelevant to economic growth"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "The author's purpose in writing this passage is to:",
+      "options": {
+        "A": "Argue that cultural factors are the only important elements in economic development",
+        "B": "Explain various factors that contribute to differences in national wealth",
+        "C": "Persuade readers that all countries should adopt the same economic policies",
+        "D": "Criticize nations with lower economic development"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "The passage indicates that economic development is:",
+      "options": {
+        "A": "A simple process with clear solutions",
+        "B": "Determined primarily by geographical location",
+        "C": "Influenced by a complex interplay of many factors",
+        "D": "Impossible to understand or analyze"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
