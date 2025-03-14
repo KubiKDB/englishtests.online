@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Energy is a crucial resource that powers our daily lives in countless ways. There are several different types of energy, each with its own unique characteristics and applications. Energy can be broadly classified into renewable and non-renewable sources, depending on whether they can be naturally replenished within a human lifetime. Understanding these different forms of energy and their uses is partial to making informed decisions about our energy consumption and its impact on the environment.<br><br>(2) Non-renewable energy sources include fossil fuels such as coal, oil, and natural gas. These resources formed over millions of years from the remains of plants and animals and cannot be replaced once they are used up. Fossil fuels currently provide about 80% of the world's energy needs. They are burned to generate electricity, power vehicles, and heat buildings. Nuclear energy is another non-renewable source that produces electricity through nuclear fission, where atoms are split to release energy with minimal greenhouse gas emissions.<br><br>(3) Renewable energy comes from natural sources that replenish themselves over short periods. Solar energy harnesses the power of sunlight using panels that convert it into electricity or heat. Wind energy captures the kinetic energy of moving air through turbines. Hydroelectric power generates electricity by using the force of flowing water. Geothermal energy taps into the internal heat of the Earth, while biomass energy comes from burning organic materials like wood, crops, and waste. These clean energy sources produce little to no pollution and help reduce our dependence on fossil fuels.<br><br>(4) Energy storage and distribution are important aspects of our energy systems. Batteries store energy for later use, while power grids distribute electricity across vast distances to homes and businesses. As technology advances, we continue to develop more efficient ways to store and transmit energy. Smart grids, for instance, use digital technology to monitor and manage electricity flow, improving reliability and reducing waste. Meanwhile, researchers are working to improve battery technology to store renewable energy more effectively.<br><br>(5) The future of energy will likely involve a mix of different sources, with renewable energy playing an increasingly important role. Many countries have set ambitious targets to increase their use of renewable energy and reduce carbon emissions. Individuals can also make a difference by choosing energy-efficient appliances, improving home insulation, or even installing solar panels. As we move forward, the transition to cleaner energy sources will be essential for addressing climate change and creating a sustainable energy future for generations to come.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which verb form correctly completes the sentence? 'She _____ here since 2010.'",
+      "options": {
+        "A": "works",
+        "B": "is working",
+        "C": "worked",
+        "D": "has been working"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct conditional form: 'If it _____ tomorrow, we will cancel the picnic.'",
+      "options": {
+        "A": "rains",
+        "B": "will rain",
+        "C": "would rain",
+        "D": "is raining"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the correct past tense form: 'They _____ dinner when I arrived.'",
+      "options": {
+        "A": "eat",
+        "B": "ate",
+        "C": "were eating",
+        "D": "had eat"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence contains an error in subject-verb agreement?",
+      "options": {
+        "A": "The committee has made its decision.",
+        "B": "My family are going on vacation next week.",
+        "C": "Each of the students has completed the assignment.",
+        "D": "The number of participants is increasing."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct relative pronoun: 'The woman _____ car was stolen called the police.'",
+      "options": {
+        "A": "who",
+        "B": "whom",
+        "C": "whose",
+        "D": "which"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the correct comparative form: 'This book is _____ than the one I read last week.'",
+      "options": {
+        "A": "interestinger",
+        "B": "more interesting",
+        "C": "most interesting",
+        "D": "the most interesting"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Identify the correct passive voice: 'The cake _____ by my mother yesterday.'",
+      "options": {
+        "A": "was baked",
+        "B": "is baking",
+        "C": "baked",
+        "D": "has baked"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Which sentence uses the present perfect correctly?",
+      "options": {
+        "A": "I have seen him yesterday.",
+        "B": "She has lived here since three years.",
+        "C": "We have already finished our homework.",
+        "D": "They have went to the museum."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct modal verb: 'You _____ brush your teeth twice a day.'",
+      "options": {
+        "A": "would",
+        "B": "will",
+        "C": "should",
+        "D": "might"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Select the correct preposition: 'She arrived _____ the airport an hour ago.'",
+      "options": {
+        "A": "to",
+        "B": "at",
+        "C": "in",
+        "D": "on"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Which sentence uses the future continuous correctly?",
+      "options": {
+        "A": "I will working at 8 PM tonight.",
+        "B": "She will be study when you call.",
+        "C": "They will be watching a movie at this time tomorrow.",
+        "D": "He will been sleeping by then."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Choose the correct article: 'I saw _____ one-eyed cat in our neighborhood.'",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article needed"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Select the correct form of reported speech: 'I am tired,' she said.",
+      "options": {
+        "A": "She said she is tired.",
+        "B": "She said she was tired.",
+        "C": "She said I was tired.",
+        "D": "She said I am tired."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence contains a gerund?",
+      "options": {
+        "A": "She wants to swim in the lake.",
+        "B": "They enjoyed swimming in the pool.",
+        "C": "We will swim tomorrow if it's warm.",
+        "D": "He swims every morning."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Choose the correct conditional form: 'If I _____ you, I would accept the job offer.'",
+      "options": {
+        "A": "am",
+        "B": "was",
+        "C": "were",
+        "D": "would be"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Select the correct phrasal verb: 'Please _____ your coat when you enter the house.'",
+      "options": {
+        "A": "take off",
+        "B": "take away",
+        "C": "take up",
+        "D": "take out"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the appropriate expression for making a suggestion:",
+      "options": {
+        "A": "I'm afraid I can't.",
+        "B": "How about going to the cinema?",
+        "C": "That's a good idea.",
+        "D": "I'd rather not."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the correct connector: 'He didn't study, _____ he failed the exam.'",
+      "options": {
+        "A": "so",
+        "B": "but",
+        "C": "because",
+        "D": "although"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct word to complete this collocation: 'He _____ a mistake on his tax form.'",
+      "options": {
+        "A": "did",
+        "B": "took",
+        "C": "made",
+        "D": "had"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the correct question tag: 'You don't like coffee, _____?'",
+      "options": {
+        "A": "do you",
+        "B": "don't you",
+        "C": "are you",
+        "D": "aren't you"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the appropriate response to 'Thank you.'",
+      "options": {
+        "A": "Thanks.",
+        "B": "Good luck.",
+        "C": "You're welcome.",
+        "D": "Excuse me."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Complete the idiom: 'It's not rocket _____.'",
+      "options": {
+        "A": "science",
+        "B": "study",
+        "C": "research",
+        "D": "project"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct word to complete the sentence: 'I'm sorry, but I have to _____ your invitation.'",
+      "options": {
+        "A": "refuse",
+        "B": "deny",
+        "C": "reject",
+        "D": "decline"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Select the correct preposition: 'She's been working _____ this project for weeks.'",
+      "options": {
+        "A": "at",
+        "B": "in",
+        "C": "on",
+        "D": "with"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct quantifier: 'There isn't _____ sugar left in the bowl.'",
+      "options": {
+        "A": "many",
+        "B": "much",
+        "C": "few",
+        "D": "little"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What does 'partial' mean in this sentence? 'I only have a partial understanding of quantum physics.'",
+      "options": {
+        "A": "complete",
+        "B": "detailed",
+        "C": "incomplete",
+        "D": "advanced"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "What does 'counsel' mean?",
+      "options": {
+        "A": "to give advice",
+        "B": "to criticize",
+        "C": "to lead",
+        "D": "to complain"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What does 'forward' mean in this context? 'Please forward this email to the entire team.'",
+      "options": {
+        "A": "delete",
+        "B": "send on to someone else",
+        "C": "reply to",
+        "D": "save"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "What does 'suppose' mean in this sentence? 'I suppose we could meet at 6 instead of 5.'",
+      "options": {
+        "A": "know for certain",
+        "B": "believe or assume",
+        "C": "refuse to accept",
+        "D": "be afraid of"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "What does 'include' mean?",
+      "options": {
+        "A": "to contain as part of something",
+        "B": "to exclude from a group",
+        "C": "to hide something",
+        "D": "to lose something"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "What does 'version' refer to?",
+      "options": {
+        "A": "a type of illness",
+        "B": "a form of something that varies from other forms",
+        "C": "a kind of animal",
+        "D": "a mathematical formula"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "What does 'dispose' mean in this context? 'Please dispose of your trash properly.'",
+      "options": {
+        "A": "to keep",
+        "B": "to recycle",
+        "C": "to throw away",
+        "D": "to clean"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "What does 'install' mean?",
+      "options": {
+        "A": "to place equipment in position and make it ready for use",
+        "B": "to remove something",
+        "C": "to break something",
+        "D": "to sell something"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What does 'internal' mean?",
+      "options": {
+        "A": "outside",
+        "B": "inside or within something",
+        "C": "between two things",
+        "D": "around something"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "What does 'distance' refer to?",
+      "options": {
+        "A": "how fast something is",
+        "B": "how heavy something is",
+        "C": "how far apart things are",
+        "D": "how loud something is"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What are 'remarks'?",
+      "options": {
+        "A": "things someone says or writes",
+        "B": "special awards",
+        "C": "types of exams",
+        "D": "measurement tools"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "What is a 'diamond'?",
+      "options": {
+        "A": "a type of metal",
+        "B": "a precious stone",
+        "C": "a musical instrument",
+        "D": "a type of animal"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "What is a 'soldier'?",
+      "options": {
+        "A": "a person who works in a hospital",
+        "B": "a person who fixes cars",
+        "C": "a person who serves in an army",
+        "D": "a person who teaches in a school"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "What does 'passive' mean?",
+      "options": {
+        "A": "accepting what happens without resistance",
+        "B": "very active and energetic",
+        "C": "extremely angry",
+        "D": "highly intelligent"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "What does 'nowhere' mean?",
+      "options": {
+        "A": "everywhere",
+        "B": "somewhere",
+        "C": "not in any place",
+        "D": "in a specific location"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, how are energy sources broadly classified?",
+      "options": {
+        "A": "As expensive or inexpensive",
+        "B": "As renewable or non-renewable",
+        "C": "As clean or dirty",
+        "D": "As natural or artificial"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "According to paragraph 2, what percentage of the world's energy needs currently come from fossil fuels?",
+      "options": {
+        "A": "50%",
+        "B": "65%",
+        "C": "80%",
+        "D": "95%"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "Which of the following is NOT a renewable energy source mentioned in the passage?",
+      "options": {
+        "A": "Solar energy",
+        "B": "Wind energy",
+        "C": "Nuclear energy",
+        "D": "Geothermal energy"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "What is the main advantage of renewable energy sources according to the passage?",
+      "options": {
+        "A": "They are less expensive",
+        "B": "They produce little to no pollution",
+        "C": "They are more powerful",
+        "D": "They are easier to transport"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What does a smart grid do according to paragraph 4?",
+      "options": {
+        "A": "It converts sunlight into electricity",
+        "B": "It stores energy for later use",
+        "C": "It monitors and manages electricity flow",
+        "D": "It captures the energy from wind"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "The word 'harnesses' in paragraph 3 is closest in meaning to:",
+      "options": {
+        "A": "creates",
+        "B": "captures and utilizes",
+        "C": "destroys",
+        "D": "transforms"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to the passage, what formed fossil fuels?",
+      "options": {
+        "A": "Chemical reactions in laboratories",
+        "B": "Nuclear fission processes",
+        "C": "The remains of plants and animals over millions of years",
+        "D": "The internal heat of the Earth"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What does the passage suggest about the future of energy?",
+      "options": {
+        "A": "We will use only fossil fuels",
+        "B": "Renewable energy will play an increasingly important role",
+        "C": "Nuclear energy will be the main source",
+        "D": "We will stop using electricity"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to the passage, which of the following can individuals do to contribute to a more sustainable energy future?",
+      "options": {
+        "A": "Build their own power plants",
+        "B": "Stop using electricity completely",
+        "C": "Choose energy-efficient appliances",
+        "D": "Move to areas with no energy consumption"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the main purpose of this passage?",
+      "options": {
+        "A": "To argue that renewable energy is better than non-renewable energy",
+        "B": "To explain how electricity is generated",
+        "C": "To describe different types of energy and their applications",
+        "D": "To predict future energy consumption patterns"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
