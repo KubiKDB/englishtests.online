@@ -1,0 +1,606 @@
+{
+  "passage": "<br>(1) Earth experiences four distinct seasons throughout the year due to its tilted axis as it orbits around the sun. This tilt, which is approximately 23.5 degrees, means that different parts of our planet receive varying amounts of sunlight at different times of the year. When the Northern Hemisphere is tilted toward the sun, it experiences summer, while the Southern Hemisphere simultaneously experiences winter.<br><br>(2) Spring marks the transition from winter to summer and is characterized by warming temperatures and renewed plant growth. As the days grow longer, frozen ground thaws, and dormant plants begin to bloom. Many animals emerge from hibernation during this time, while migratory birds return from their winter habitats. Spring also brings more rainfall in many regions, which helps facilitate the growth of new vegetation.<br><br>(3) Summer arrives when a hemisphere is tilted most directly toward the sun, resulting in longer days and shorter nights. This season typically brings the highest temperatures of the year, causing many plants to flourish and produce fruits. Bodies of water become warmer, and many animals become more active during this period. People often engage in outdoor activities during summer months, taking advantage of the warmer weather and extended daylight hours.<br><br>(4) As summer transitions to autumn, the days gradually become shorter and temperatures begin to cool. Many deciduous trees display vibrant colors as their leaves change from green to yellow, orange, and red before eventually falling to the ground. This process occurs because trees stop producing chlorophyll as daylight decreases. Autumn is also harvest time in many agricultural regions, when crops reach maturity and are gathered.<br><br>(5) Winter occurs when a hemisphere is tilted away from the sun, resulting in shorter days and longer nights. This season is characterized by colder temperatures, and in many regions, precipitation falls as snow rather than rain. Lakes and rivers may freeze over, and many plants become dormant. Some animals hibernate during winter months, while others grow thicker coats or migrate to warmer climates. Despite the challenging conditions, winter landscapes can be strikingly beautiful, with snow-covered scenery creating a peaceful atmosphere.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which form correctly completes the sentence? 'She _____ to the radio when the phone rang.'",
+      "options": {
+        "A": "listen",
+        "B": "listened",
+        "C": "was listening",
+        "D": "listening"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "A": "I've been work here since three years.",
+        "B": "I've been working here for three years.",
+        "C": "I've worked here since three years.",
+        "D": "I work here for three years."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the correct sentence:",
+      "options": {
+        "A": "If I will see him, I will tell him.",
+        "B": "If I see him, I tell him.",
+        "C": "If I see him, I will tell him.",
+        "D": "If I would see him, I will tell him."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct option: 'By the time we arrived, the movie _____.'",
+      "options": {
+        "A": "already started",
+        "B": "was already started",
+        "C": "had already started",
+        "D": "has already started"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "She told to me about her vacation.",
+        "B": "She told me about her vacation.",
+        "C": "She said me about her vacation.",
+        "D": "She told for me about her vacation."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the correct form: 'You _____ take an umbrella. It's not going to rain.'",
+      "options": {
+        "A": "mustn't",
+        "B": "shouldn't",
+        "C": "don't have to",
+        "D": "couldn't"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "A": "I'm interesting in learning new languages.",
+        "B": "I'm interested in learning new languages.",
+        "C": "I'm interest in learning new languages.",
+        "D": "I'm interests in learning new languages."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Which is correct? 'There _____ a lot of people at the concert last night.'",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "had",
+        "D": "have been"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "A": "I don't know where is the bank.",
+        "B": "I don't know where the bank is.",
+        "C": "I don't know where does the bank is.",
+        "D": "I don't know where the bank was."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Select the correct form: 'She _____ television every evening.'",
+      "options": {
+        "A": "watch",
+        "B": "watches",
+        "C": "is watching",
+        "D": "watching"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Which sentence uses the correct comparative form?",
+      "options": {
+        "A": "This book is more interesting than that one.",
+        "B": "This book is interestinger than that one.",
+        "C": "This book is more interesting as that one.",
+        "D": "This book is more interestinger than that one."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Choose the correct option: 'We _____ to the beach if the weather is nice tomorrow.'",
+      "options": {
+        "A": "go",
+        "B": "goes",
+        "C": "going",
+        "D": "will go"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Select the correct passive form: 'They build new houses in this area.'",
+      "options": {
+        "A": "New houses build in this area.",
+        "B": "New houses are build in this area.",
+        "C": "New houses are built in this area.",
+        "D": "New houses built in this area."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence contains a mistake?",
+      "options": {
+        "A": "I've known him for a long time.",
+        "B": "She has lived here since ten years.",
+        "C": "They haven't finished their project yet.",
+        "D": "We have already seen that movie."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Choose the correct option: 'If I _____ rich, I would travel around the world.'",
+      "options": {
+        "A": "am",
+        "B": "would be",
+        "C": "were",
+        "D": "will be"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct option to complete the sentence: 'I need to _____ the broken chair with a new one.'",
+      "options": {
+        "A": "replace",
+        "B": "place",
+        "C": "displace",
+        "D": "misplace"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 17,
+      "question": "Select the word that best completes the sentence: 'They will _____ for the missing keys in every room of the house.'",
+      "options": {
+        "A": "look",
+        "B": "search",
+        "C": "find",
+        "D": "seek"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct word: 'Please _____ this form with your personal information.'",
+      "options": {
+        "A": "fill",
+        "B": "write",
+        "C": "complete",
+        "D": "make"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 19,
+      "question": "Select the best word to complete the sentence: 'We decided to _____ at the hotel for an extra night.'",
+      "options": {
+        "A": "remain",
+        "B": "live",
+        "C": "stand",
+        "D": "stay"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 20,
+      "question": "Which word correctly completes this sentence? 'The thief tried to _____ my wallet, but I caught him.'",
+      "options": {
+        "A": "rob",
+        "B": "theft",
+        "C": "steal",
+        "D": "take"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 21,
+      "question": "Choose the correct word: 'The price of the tour does not _____ meals.'",
+      "options": {
+        "A": "contain",
+        "B": "include",
+        "C": "have",
+        "D": "consist"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 22,
+      "question": "Select the best word: 'The virus began to _____ quickly throughout the city.'",
+      "options": {
+        "A": "move",
+        "B": "extend",
+        "C": "increase",
+        "D": "spread"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct word: 'Lack of exercise can _____ in health problems.'",
+      "options": {
+        "A": "make",
+        "B": "cause",
+        "C": "result",
+        "D": "lead"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 24,
+      "question": "Which word completes this sentence? 'The theater has a _____ of 500 people.'",
+      "options": {
+        "A": "space",
+        "B": "room",
+        "C": "size",
+        "D": "capacity"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 25,
+      "question": "Select the best word: 'The committee _____ of five members.'",
+      "options": {
+        "A": "consists",
+        "B": "includes",
+        "C": "contains",
+        "D": "has"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 26,
+      "question": "Choose the correct word: 'There is a high _____ for skilled workers in this industry.'",
+      "options": {
+        "A": "need",
+        "B": "requirement",
+        "C": "demand",
+        "D": "request"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Select the word that best completes the sentence: 'I want to _____ you for your help with this project.'",
+      "options": {
+        "A": "appreciate",
+        "B": "thank",
+        "C": "praise",
+        "D": "congratulate"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Choose the correct word: 'My grandfather plans to _____ next year after working for 40 years.'",
+      "options": {
+        "A": "stop",
+        "B": "leave",
+        "C": "quit",
+        "D": "retire"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which word correctly completes this sentence? 'Teachers should _____ students to ask questions.'",
+      "options": {
+        "A": "allow",
+        "B": "let",
+        "C": "encourage",
+        "D": "permit"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Select the correct word: 'You should carefully _____ all options before making a decision.'",
+      "options": {
+        "A": "consider",
+        "B": "think",
+        "C": "ponder",
+        "D": "reflect"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Choose the correct preposition: 'The book is different _____ what I expected.'",
+      "options": {
+        "A": "from",
+        "B": "than",
+        "C": "to",
+        "D": "with"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 32,
+      "question": "Select the correct phrasal verb: 'Can you _____ these documents for me?'",
+      "options": {
+        "A": "look at",
+        "B": "look over",
+        "C": "look out",
+        "D": "look after"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 33,
+      "question": "Choose the correct expression: 'I'm really tired. I think I'll _____ early tonight.'",
+      "options": {
+        "A": "go sleep",
+        "B": "go to sleep",
+        "C": "go to bed",
+        "D": "go in bed"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 34,
+      "question": "Select the correct collocation: 'She wants to _____ a good impression at the job interview.'",
+      "options": {
+        "A": "do",
+        "B": "make",
+        "C": "have",
+        "D": "give"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 35,
+      "question": "Choose the correct expression: 'Sorry I'm late. I got _____ in traffic.'",
+      "options": {
+        "A": "held up",
+        "B": "taken up",
+        "C": "caught up",
+        "D": "picked up"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 36,
+      "question": "Select the best response: 'Would you mind opening the window?' '_____.'"
+      ,
+      "options": {
+        "A": "Yes, I mind.",
+        "B": "No, not at all.",
+        "C": "Yes, please.",
+        "D": "No, I don't mind."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 37,
+      "question": "Choose the correct connector: 'He was tired, _____ he went to bed early.'",
+      "options": {
+        "A": "but",
+        "B": "because",
+        "C": "so",
+        "D": "although"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 38,
+      "question": "Select the correct article: '_____ Nile is the longest river in Africa.'",
+      "options": {
+        "A": "A",
+        "B": "An",
+        "C": "The",
+        "D": "No article"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 39,
+      "question": "Choose the correct expression: 'I'm going to _____ shopping this afternoon.'",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "go",
+        "D": "have"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 40,
+      "question": "Select the correct option: 'I'd rather _____ at home than go out tonight.'",
+      "options": {
+        "A": "to stay",
+        "B": "staying",
+        "C": "stay",
+        "D": "stayed"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, why does Earth experience different seasons?",
+      "options": {
+        "A": "Because of varying distances from the sun",
+        "B": "Because of its tilted axis as it orbits the sun",
+        "C": "Because of changes in the sun's temperature",
+        "D": "Because of the moon's gravitational pull"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "What characterizes spring according to the passage?",
+      "options": {
+        "A": "The shortest days of the year",
+        "B": "Snow and ice formation",
+        "C": "Warming temperatures and renewed plant growth",
+        "D": "Leaves changing color and falling"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "In which season do many deciduous trees display vibrant colors?",
+      "options": {
+        "A": "Spring",
+        "B": "Summer",
+        "C": "Autumn",
+        "D": "Winter"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to paragraph 3, when does summer arrive?",
+      "options": {
+        "A": "When days are shortest",
+        "B": "When a hemisphere is tilted most directly toward the sun",
+        "C": "After autumn ends",
+        "D": "When rainfall increases"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Why do leaves change color in autumn according to the passage?",
+      "options": {
+        "A": "Because temperatures rise",
+        "B": "Because of increased rainfall",
+        "C": "Because trees stop producing chlorophyll as daylight decreases",
+        "D": "Because of changes in soil composition"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "Which statement about winter is true according to the passage?",
+      "options": {
+        "A": "Plants grow more actively",
+        "B": "Days are longer than nights",
+        "C": "Many animals hibernate",
+        "D": "Temperatures are milder"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What can be inferred about the relationship between the Northern and Southern Hemispheres?",
+      "options": {
+        "A": "They experience the same seasons at the same time",
+        "B": "They experience opposite seasons at the same time",
+        "C": "The Northern Hemisphere has no distinct seasons",
+        "D": "The Southern Hemisphere has more extreme seasons"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to the passage, what happens to migratory birds in spring?",
+      "options": {
+        "A": "They begin hibernation",
+        "B": "They return from their winter habitats",
+        "C": "They prepare for winter migration",
+        "D": "They build new nests in trees"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What is the main topic of the passage?",
+      "options": {
+        "A": "How animals adapt to seasonal changes",
+        "B": "How the Earth's climate is changing",
+        "C": "How the seasons change on Earth",
+        "D": "How plants respond to different seasons"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is mentioned as a characteristic of autumn in the passage?",
+      "options": {
+        "A": "Frozen ground thawing",
+        "B": "Harvest time in agricultural regions",
+        "C": "Longest days of the year",
+        "D": "Animals emerging from hibernation"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
