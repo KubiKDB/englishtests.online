@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Rivers have played a crucial role in the development of human civilizations throughout history. Many of the world's greatest ancient civilizations, including those in Egypt, Mesopotamia, India, and China, emerged along major river systems. These waterways provided fertile soil for agriculture, allowing early communities to produce surplus food and establish permanent settlements.<br><br>(2) Beyond agriculture, rivers served as vital transportation routes long before the invention of railroads or motor vehicles. They enabled the movement of people, goods, and ideas between distant regions, facilitating trade and cultural exchange. Cities strategically located along rivers often became important commercial centers, where merchants from different regions would gather to exchange their wares and share knowledge.<br><br>(3) Rivers also contributed significantly to technological innovation. Early water management systems, such as irrigation canals and dams, represented remarkable engineering achievements that helped societies control their water supply and reduce the impact of seasonal flooding. Later, the power of flowing water was harnessed through waterwheels and, eventually, hydroelectric dams, providing energy for various industrial processes.<br><br>(4) From a cultural perspective, rivers have inspired art, literature, and spiritual practices across diverse societies. Many rivers are considered sacred in different religious traditions, serving as sites for rituals and ceremonies. Rivers frequently appear in mythology, poetry, and paintings, symbolizing life, renewal, and the passage of time.<br><br>(5) Today, rivers continue to be essential resources, though their relationship with human society has evolved. Modern cities still depend on rivers for water supply, waste disposal, transportation, and recreation. However, pollution, over-extraction, and dam construction have created new challenges. As we face environmental concerns like climate change, finding sustainable ways to interact with river systems has become increasingly important for the future of human civilization.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which verb form correctly completes this sentence? 'She _____ to the store yesterday.'",
+      "options": {
+        "A": "go",
+        "B": "went",
+        "C": "gone",
+        "D": "going"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct verb tense: 'By the time we arrived, the movie _____.'",
+      "options": {
+        "A": "already started",
+        "B": "has already started",
+        "C": "had already started",
+        "D": "was already starting"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the correct preposition: 'I'm interested _____ learning new languages.'",
+      "options": {
+        "A": "for",
+        "B": "about",
+        "C": "in",
+        "D": "with"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct conditional form: 'If it _____ tomorrow, we will cancel the picnic.'",
+      "options": {
+        "A": "will rain",
+        "B": "would rain",
+        "C": "rains",
+        "D": "rained"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Which sentence uses the modal verb correctly?",
+      "options": {
+        "A": "You must to attend the meeting.",
+        "B": "She can swimming very well.",
+        "C": "They might be late for dinner.",
+        "D": "He should studying harder."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the correct comparative form: 'This book is _____ than the one I read last week.'",
+      "options": {
+        "A": "more interesting",
+        "B": "interestinger",
+        "C": "most interesting",
+        "D": "the most interesting"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which sentence uses the correct article?",
+      "options": {
+        "A": "I saw a interesting movie last night.",
+        "B": "She is the best student in class.",
+        "C": "He bought an house near the beach.",
+        "D": "We visited the Europe last summer."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct relative pronoun: 'The woman _____ lives next door is a doctor.'",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "whom"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence has the correct word order?",
+      "options": {
+        "A": "I know not what to do.",
+        "B": "Always she arrives early.",
+        "C": "He watched quietly the movie.",
+        "D": "They often go to the beach in summer."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Select the correct passive voice form: 'The package _____.'",
+      "options": {
+        "A": "will delivered tomorrow",
+        "B": "will be deliver tomorrow",
+        "C": "will be delivered tomorrow",
+        "D": "will delivering tomorrow"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Which sentence uses the present perfect correctly?",
+      "options": {
+        "A": "I have seen that movie last week.",
+        "B": "She has lived in Paris since three years.",
+        "C": "They have never visited New York.",
+        "D": "He has went to the store."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Choose the correct question tag: 'You like coffee, _____?'",
+      "options": {
+        "A": "aren't you",
+        "B": "don't you",
+        "C": "isn't it",
+        "D": "do you"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Select the correct reported speech: 'She said, \"I am happy.\"'",
+      "options": {
+        "A": "She said she is happy.",
+        "B": "She said she was happy.",
+        "C": "She said I am happy.",
+        "D": "She said I was happy."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence contains a gerund?",
+      "options": {
+        "A": "She wants to study medicine.",
+        "B": "They enjoyed watching the sunset.",
+        "C": "He will travel to Japan next month.",
+        "D": "We can meet tomorrow."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Choose the correct plural form: 'The _____ are flying south for the winter.'",
+      "options": {
+        "A": "gooses",
+        "B": "geese",
+        "C": "goose",
+        "D": "geeses"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Complete the sentence with the appropriate collocation: 'The teacher asked us to _____ attention to the instructions.'",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "pay",
+        "D": "give"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct phrasal verb: 'Can you _____ these figures? They don't seem right.'",
+      "options": {
+        "A": "look out",
+        "B": "look into",
+        "C": "look after",
+        "D": "look up"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the appropriate idiom: 'Finding a job in this economy is like _____.'",
+      "options": {
+        "A": "a piece of cake",
+        "B": "looking for a needle in a haystack",
+        "C": "killing two birds with one stone",
+        "D": "cutting corners"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct linking word: 'She studied hard, _____, she failed the exam.'",
+      "options": {
+        "A": "therefore",
+        "B": "however",
+        "C": "furthermore",
+        "D": "consequently"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Complete the sentence with the correct expression: 'I'm not sure if I'll go to the party. It _____.'",
+      "options": {
+        "A": "depends on the weather",
+        "B": "doesn't matter",
+        "C": "makes no difference",
+        "D": "takes no time"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the correct fixed expression: 'I'd like to book a table _____ two people for tomorrow evening.'",
+      "options": {
+        "A": "with",
+        "B": "to",
+        "C": "for",
+        "D": "by"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Select the appropriate discourse marker: 'I enjoy hiking. _____, I don't like camping.'",
+      "options": {
+        "A": "In addition",
+        "B": "On the other hand",
+        "C": "Similarly",
+        "D": "Therefore"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct collocation: 'The government needs to _____ action on climate change.'",
+      "options": {
+        "A": "do",
+        "B": "make",
+        "C": "take",
+        "D": "have"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Complete the sentence with the appropriate expression: 'It's raining heavily. We should _____ until it stops.'",
+      "options": {
+        "A": "hold on",
+        "B": "keep up",
+        "C": "take over",
+        "D": "set off"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the correct register for a formal email: '_____'",
+      "options": {
+        "A": "Hi there! Just checking in about that thing we discussed.",
+        "B": "I am writing to inquire about the status of my application.",
+        "C": "Hey! What's up with my application?",
+        "D": "Wanted to know if you got my stuff."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the word that best completes the sentence: 'His _____ of speaking made everyone feel welcome.'",
+      "options": {
+        "A": "manner",
+        "B": "way",
+        "C": "habit",
+        "D": "custom"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "What does 'fellow' mean in this sentence? 'He introduced me to his fellow researchers at the conference.'",
+      "options": {
+        "A": "friendly",
+        "B": "competitor",
+        "C": "associate",
+        "D": "subordinate"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Choose the sentence that uses 'written' correctly:",
+      "options": {
+        "A": "She has written a letter to her grandmother.",
+        "B": "He written the report yesterday.",
+        "C": "They are writing the test tomorrow.",
+        "D": "I will written a book someday."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "What does 'comply' mean in this sentence? 'All employees must comply with the new safety regulations.'",
+      "options": {
+        "A": "understand",
+        "B": "obey",
+        "C": "create",
+        "D": "enforce"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the correct use of 'inform' in a sentence:",
+      "options": {
+        "A": "Please inform your decision by tomorrow.",
+        "B": "They informed the police about the accident.",
+        "C": "The book informed very interesting facts.",
+        "D": "She informed the cake with chocolate."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "What does 'mixing' mean in this context? 'Mixing different cultural influences can lead to innovation.'",
+      "options": {
+        "A": "separating",
+        "B": "combining",
+        "C": "avoiding",
+        "D": "rotating"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Choose the sentence that uses 'sector' correctly:",
+      "options": {
+        "A": "He works in the healthcare sector.",
+        "B": "We need to sector the files alphabetically.",
+        "C": "The cake was cut into four sectors.",
+        "D": "They sectored all of their income."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "What does 'tables' refer to in this sentence? 'The restaurant has several tables available for dinner tonight.'",
+      "options": {
+        "A": "diagrams",
+        "B": "furniture pieces for eating",
+        "C": "lists of numbers",
+        "D": "reservation times"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Choose the correct sentence using 'husband':",
+      "options": {
+        "A": "She husbanded her resources carefully.",
+        "B": "They husbanded the children well.",
+        "C": "Her husband works as an engineer.",
+        "D": "The farm was husbanded by machinery."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "What does 'needed' mean in this context? 'The project needed more time to be completed.'",
+      "options": {
+        "A": "wanted",
+        "B": "required",
+        "C": "suggested",
+        "D": "preferred"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Choose the sentence that uses 'gather' correctly:",
+      "options": {
+        "A": "We will gather for dinner at 7 PM.",
+        "B": "She gathered her essay from facts.",
+        "C": "They gathered the meeting for tomorrow.",
+        "D": "He gathered very tired after work."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "What does 'joined' mean in this sentence? 'They joined the club last year.'",
+      "options": {
+        "A": "created",
+        "B": "connected",
+        "C": "became members of",
+        "D": "left"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Choose the correct use of 'desire' in a sentence:",
+      "options": {
+        "A": "I desire you to leave now.",
+        "B": "She has a strong desire to travel the world.",
+        "C": "They desired the project last week.",
+        "D": "He will desire the book tomorrow."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "What does 'affect' mean in this context? 'Climate change will affect many species.'",
+      "options": {
+        "A": "improve",
+        "B": "influence",
+        "C": "create",
+        "D": "define"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Choose the sentence that uses 'powers' correctly:",
+      "options": {
+        "A": "The superhero has amazing powers.",
+        "B": "She powers to work every day.",
+        "C": "They power the exam difficult.",
+        "D": "He will powers the machine."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, why were rivers important for early civilizations?",
+      "options": {
+        "A": "They provided protection from enemies",
+        "B": "They enabled the development of writing systems",
+        "C": "They created natural boundaries between territories",
+        "D": "They provided fertile soil for agriculture"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "In paragraph 2, what is described as a consequence of rivers serving as transportation routes?",
+      "options": {
+        "A": "The invention of motor vehicles",
+        "B": "The facilitation of trade and cultural exchange",
+        "C": "The establishment of permanent settlements",
+        "D": "The development of advanced farming techniques"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, what is one way rivers contributed to technological innovation?",
+      "options": {
+        "A": "By enabling the invention of steam engines",
+        "B": "By providing water for drinking",
+        "C": "By helping to develop water management systems",
+        "D": "By creating natural barriers for defense"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "What cultural role of rivers is mentioned in paragraph 4?",
+      "options": {
+        "A": "Rivers inspired art and literature",
+        "B": "Rivers helped define political boundaries",
+        "C": "Rivers were used for recreational activities",
+        "D": "Rivers provided settings for battles"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Based on paragraph 5, what is a modern challenge related to rivers?",
+      "options": {
+        "A": "Declining importance for transportation",
+        "B": "Pollution and over-extraction",
+        "C": "Increased flooding due to climate change",
+        "D": "Reduced cultural significance"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "The phrase \"emerged along\" in paragraph 1 is closest in meaning to:",
+      "options": {
+        "A": "moved away from",
+        "B": "developed beside",
+        "C": "crossed over",
+        "D": "fought against"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What can be inferred about ancient cities from paragraph 2?",
+      "options": {
+        "A": "Most were located in mountainous regions",
+        "B": "They often suffered from flooding",
+        "C": "Strategic river locations often led to commercial success",
+        "D": "They were primarily religious centers"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "The word \"harnessed\" in paragraph 3 is closest in meaning to:",
+      "options": {
+        "A": "controlled and utilized",
+        "B": "restricted and limited",
+        "C": "discovered and explored",
+        "D": "analyzed and studied"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Based on the passage, which of the following best describes the relationship between rivers and human civilization?",
+      "options": {
+        "A": "A relationship that was important in the past but is no longer relevant",
+        "B": "A relationship that has been consistently harmful to river ecosystems",
+        "C": "A relationship that has evolved but remains essential",
+        "D": "A relationship focused primarily on spiritual practices"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the main purpose of this passage?",
+      "options": {
+        "A": "To argue that ancient civilizations were more advanced than modern ones",
+        "B": "To describe the historical and continuing importance of rivers to human civilization",
+        "C": "To explain how to prevent river pollution",
+        "D": "To compare different river systems around the world"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
