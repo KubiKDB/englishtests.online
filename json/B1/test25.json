@@ -1,0 +1,605 @@
+{
+    "passage": "<br>(1) The Eiffel Tower, one of the world's most recognizable landmarks, was built for the 1889 World's Fair in Paris. The tower was designed by engineer Gustave Eiffel, whose company specialized in constructing metal frameworks and structures. Initially, many Parisians opposed the tower, considering it an eyesore that would dominate the city's elegant skyline.<br><br>(2) Construction of the Eiffel Tower began in January 1887 and was completed in just over two years. The tower consists of 18,038 pieces of wrought iron held together by 2.5 million rivets. The innovative design used an open lattice structure, which reduced wind resistance while maintaining strength. This engineering approach allowed the tower to reach a height of 984 feet (300 meters), making it the tallest man-made structure in the world at that time.<br><br>(3) Building the Eiffel Tower required meticulous planning and precise execution. Workers assembled each section on the ground before lifting it into place using steam-powered cranes. Remarkably, only one worker died during construction, which was an impressive safety record for the era. The total cost of the project was approximately 7.8 million francs, but ticket sales during the 1889 World's Fair covered much of this expense.<br><br>(4) Although initially intended as a temporary structure to be dismantled after 20 years, the Eiffel Tower was saved because of its value for communication purposes. During World War I, the tower intercepted enemy radio transmissions and relayed messages to troops. Today, the tower serves as a broadcasting antenna for radio and television signals throughout Paris.<br><br>(5) The Eiffel Tower has become not only a symbol of Paris but also a global icon of French culture and ingenuity. It attracts nearly seven million visitors annually, making it one of the world's most visited paid monuments. The tower has inspired replicas in various cities and has been featured in countless films, photographs, and works of art. Its enduring popularity demonstrates how a once-controversial structure has transformed into a beloved masterpiece of architectural and engineering achievement.",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Which of the following is the correct past simple form of 'buy'?",
+        "options": {
+          "A": "buyed",
+          "B": "bought",
+          "C": "buyed",
+          "D": "buies"
+        },
+        "correct_answer": "B",
+        "category": "Grammar"
+      },
+      {
+        "id": 2,
+        "question": "She _____ in London for three years.",
+        "options": {
+          "A": "lives",
+          "B": "living",
+          "C": "has lived",
+          "D": "live"
+        },
+        "correct_answer": "C",
+        "category": "Grammar"
+      },
+      {
+        "id": 3,
+        "question": "If I _____ rich, I would travel around the world.",
+        "options": {
+          "A": "am",
+          "B": "would be",
+          "C": "were",
+          "D": "will be"
+        },
+        "correct_answer": "C",
+        "category": "Grammar"
+      },
+      {
+        "id": 4,
+        "question": "She asked me _____ I could help her with the project.",
+        "options": {
+          "A": "that",
+          "B": "if",
+          "C": "when",
+          "D": "which"
+        },
+        "correct_answer": "B",
+        "category": "Grammar"
+      },
+      {
+        "id": 5,
+        "question": "The movie was _____ boring that I fell asleep.",
+        "options": {
+          "A": "such",
+          "B": "so",
+          "C": "too",
+          "D": "very"
+        },
+        "correct_answer": "B",
+        "category": "Grammar"
+      },
+      {
+        "id": 6,
+        "question": "You _____ smoke in the hospital.",
+        "options": {
+          "A": "don't have to",
+          "B": "shouldn't",
+          "C": "mustn't",
+          "D": "might not"
+        },
+        "correct_answer": "C",
+        "category": "Grammar"
+      },
+      {
+        "id": 7,
+        "question": "By the time we arrived, the concert _____.",
+        "options": {
+          "A": "already started",
+          "B": "has already started",
+          "C": "had already started",
+          "D": "was already starting"
+        },
+        "correct_answer": "C",
+        "category": "Grammar"
+      },
+      {
+        "id": 8,
+        "question": "The test was _____ difficult than we expected.",
+        "options": {
+          "A": "less",
+          "B": "more",
+          "C": "most",
+          "D": "the most"
+        },
+        "correct_answer": "A",
+        "category": "Grammar"
+      },
+      {
+        "id": 9,
+        "question": "I _____ to the gym three times a week.",
+        "options": {
+          "A": "going",
+          "B": "goes",
+          "C": "went",
+          "D": "go"
+        },
+        "correct_answer": "D",
+        "category": "Grammar"
+      },
+      {
+        "id": 10,
+        "question": "She _____ be at home now; I'm not sure.",
+        "options": {
+          "A": "must",
+          "B": "should",
+          "C": "might",
+          "D": "can"
+        },
+        "correct_answer": "C",
+        "category": "Grammar"
+      },
+      {
+        "id": 11,
+        "question": "This is the woman _____ helped me yesterday.",
+        "options": {
+          "A": "which",
+          "B": "who",
+          "C": "whose",
+          "D": "whom"
+        },
+        "correct_answer": "B",
+        "category": "Grammar"
+      },
+      {
+        "id": 12,
+        "question": "If you had studied harder, you _____ the exam.",
+        "options": {
+          "A": "would pass",
+          "B": "had passed",
+          "C": "would have passed",
+          "D": "will pass"
+        },
+        "correct_answer": "C",
+        "category": "Grammar"
+      },
+      {
+        "id": 13,
+        "question": "She _____ TV when I called her.",
+        "options": {
+          "A": "watched",
+          "B": "watches",
+          "C": "was watching",
+          "D": "has watched"
+        },
+        "correct_answer": "C",
+        "category": "Grammar"
+      },
+      {
+        "id": 14,
+        "question": "We _____ dinner by the time they arrived.",
+        "options": {
+          "A": "finished",
+          "B": "had finished",
+          "C": "have finished",
+          "D": "were finishing"
+        },
+        "correct_answer": "B",
+        "category": "Grammar"
+      },
+      {
+        "id": 15,
+        "question": "I wish I _____ more time to finish this project.",
+        "options": {
+          "A": "have",
+          "B": "had",
+          "C": "will have",
+          "D": "would have"
+        },
+        "correct_answer": "B",
+        "category": "Grammar"
+      },
+      {
+        "id": 16,
+        "question": "The government plans to _____ the sale of single-use plastics in the near future.",
+        "options": {
+          "A": "restrict",
+          "B": "enlarge",
+          "C": "promote",
+          "D": "celebrate"
+        },
+        "correct_answer": "A",
+        "category": "Vocabulary"
+      },
+      {
+        "id": 17,
+        "question": "There's an exciting job _____ at the new company in town.",
+        "options": {
+          "A": "suggestion",
+          "B": "opening",
+          "C": "entrance",
+          "D": "beginning"
+        },
+        "correct_answer": "B",
+        "category": "Vocabulary"
+      },
+      {
+        "id": 18,
+        "question": "Modern technology can _____ people with disabilities to live more independently.",
+        "options": {
+          "A": "force",
+          "B": "require",
+          "C": "enable",
+          "D": "demand"
+        },
+        "correct_answer": "C",
+        "category": "Vocabulary"
+      },
+      {
+        "id": 19,
+        "question": "Creative _____ is an important skill that many employers value.",
+        "options": {
+          "A": "write",
+          "B": "writer",
+          "C": "wrote",
+          "D": "writing"
+        },
+        "correct_answer": "D",
+        "category": "Vocabulary"
+      },
+      {
+        "id": 20,
+        "question": "They signed a _____ to provide cleaning services for one year.",
+        "options": {
+          "A": "contract",
+          "B": "paper",
+          "C": "letter",
+          "D": "form"
+        },
+        "correct_answer": "A",
+        "category": "Vocabulary"
+      },
+      {
+        "id": 21,
+        "question": "I would _____ taking the train rather than driving in this weather.",
+        "options": {
+          "A": "advise",
+          "B": "tell",
+          "C": "recommend",
+          "D": "speak"
+        },
+        "correct_answer": "C",
+        "category": "Vocabulary"
+      },
+      {
+        "id": 22,
+        "question": "To fully understand the joke, you need to know the _____ in which it was told.",
+        "options": {
+          "A": "meaning",
+          "B": "content",
+          "C": "context",
+          "D": "summary"
+        },
+        "correct_answer": "C",
+        "category": "Vocabulary"
+      },
+      {
+        "id": 23,
+        "question": "We booked our tickets with a budget _____ to save money on our vacation.",
+        "options": {
+          "A": "aircraft",
+          "B": "airplane",
+          "C": "flight",
+          "D": "airline"
+        },
+        "correct_answer": "D",
+        "category": "Vocabulary"
+      },
+      {
+        "id": 24,
+        "question": "She was _____ to share her personal information with a stranger.",
+        "options": {
+          "A": "eager",
+          "B": "willing",
+          "C": "reluctant",
+          "D": "excited"
+        },
+        "correct_answer": "C",
+        "category": "Vocabulary"
+      },
+      {
+        "id": 25,
+        "question": "The company developed a new marketing _____ to increase sales.",
+        "options": {
+          "A": "plan",
+          "B": "strategy",
+          "C": "method",
+          "D": "way"
+        },
+        "correct_answer": "B",
+        "category": "Vocabulary"
+      },
+      {
+        "id": 26,
+        "question": "You need to pay a _____ of $200 to reserve the apartment.",
+        "options": {
+          "A": "deposit",
+          "B": "fee",
+          "C": "payment",
+          "D": "cost"
+        },
+        "correct_answer": "A",
+        "category": "Vocabulary"
+      },
+      {
+        "id": 27,
+        "question": "The hotel offers room _____ 24 hours a day.",
+        "options": {
+          "A": "helping",
+          "B": "working",
+          "C": "service",
+          "D": "assistance"
+        },
+        "correct_answer": "C",
+        "category": "Vocabulary"
+      },
+      {
+        "id": 28,
+        "question": "When traveling abroad, it's useful to know the local _____ and exchange rates.",
+        "options": {
+          "A": "money",
+          "B": "coins",
+          "C": "currency",
+          "D": "cash"
+        },
+        "correct_answer": "C",
+        "category": "Vocabulary"
+      },
+      {
+        "id": 29,
+        "question": "If you are not satisfied with your purchase, you have the right to _____ to the manager.",
+        "options": {
+          "A": "tell",
+          "B": "talk",
+          "C": "speak",
+          "D": "complain"
+        },
+        "correct_answer": "D",
+        "category": "Vocabulary"
+      },
+      {
+        "id": 30,
+        "question": "Can you _____ a good restaurant for dinner tonight?",
+        "options": {
+          "A": "advise",
+          "B": "suggest",
+          "C": "tell",
+          "D": "say"
+        },
+        "correct_answer": "B",
+        "category": "Vocabulary"
+      },
+      {
+        "id": 31,
+        "question": "Could you please _____ the window? It's getting cold in here.",
+        "options": {
+          "A": "close",
+          "B": "closing",
+          "C": "to close",
+          "D": "closed"
+        },
+        "correct_answer": "A",
+        "category": "Use of English"
+      },
+      {
+        "id": 32,
+        "question": "I'm sorry, but I don't _____ what you're trying to say.",
+        "options": {
+          "A": "understand",
+          "B": "know",
+          "C": "get to",
+          "D": "realize"
+        },
+        "correct_answer": "A",
+        "category": "Use of English"
+      },
+      {
+        "id": 33,
+        "question": "We need to _____ a decision before the end of the day.",
+        "options": {
+          "A": "do",
+          "B": "make",
+          "C": "take",
+          "D": "give"
+        },
+        "correct_answer": "B",
+        "category": "Use of English"
+      },
+      {
+        "id": 34,
+        "question": "The meeting has been _____ off because the manager is sick.",
+        "options": {
+          "A": "called",
+          "B": "put",
+          "C": "taken",
+          "D": "brought"
+        },
+        "correct_answer": "A",
+        "category": "Use of English"
+      },
+      {
+        "id": 35,
+        "question": "You should _____ advantage of the sale prices this weekend.",
+        "options": {
+          "A": "make",
+          "B": "do",
+          "C": "take",
+          "D": "have"
+        },
+        "correct_answer": "C",
+        "category": "Use of English"
+      },
+      {
+        "id": 36,
+        "question": "She's been working _____ a doctor for over fifteen years.",
+        "options": {
+          "A": "like",
+          "B": "as",
+          "C": "for",
+          "D": "by"
+        },
+        "correct_answer": "B",
+        "category": "Use of English"
+      },
+      {
+        "id": 37,
+        "question": "I'm not very good _____ remembering people's names.",
+        "options": {
+          "A": "at",
+          "B": "with",
+          "C": "in",
+          "D": "for"
+        },
+        "correct_answer": "A",
+        "category": "Use of English"
+      },
+      {
+        "id": 38,
+        "question": "We arrived _____ the airport two hours before our flight.",
+        "options": {
+          "A": "to",
+          "B": "in",
+          "C": "at",
+          "D": "on"
+        },
+        "correct_answer": "C",
+        "category": "Use of English"
+      },
+      {
+        "id": 39,
+        "question": "I _____ rather stay at home than go to the party.",
+        "options": {
+          "A": "would",
+          "B": "had",
+          "C": "did",
+          "D": "have"
+        },
+        "correct_answer": "A",
+        "category": "Use of English"
+      },
+      {
+        "id": 40,
+        "question": "Let's meet _____ Saturday morning at the café.",
+        "options": {
+          "A": "in",
+          "B": "at",
+          "C": "on",
+          "D": "during"
+        },
+        "correct_answer": "C",
+        "category": "Use of English"
+      },
+      {
+        "id": 41,
+        "question": "According to paragraph 1, how did many Parisians initially feel about the Eiffel Tower?",
+        "options": {
+          "A": "They admired its design",
+          "B": "They thought it was too expensive",
+          "C": "They considered it an eyesore",
+          "D": "They were excited about it"
+        },
+        "correct_answer": "C",
+        "category": "Reading"
+      },
+      {
+        "id": 42,
+        "question": "What was remarkable about the safety record during the construction of the Eiffel Tower?",
+        "options": {
+          "A": "No accidents occurred",
+          "B": "Only one worker died",
+          "C": "Workers used modern safety equipment",
+          "D": "The tower was built without scaffolding"
+        },
+        "correct_answer": "B",
+        "category": "Reading"
+      },
+      {
+        "id": 43,
+        "question": "Why was the Eiffel Tower not dismantled after 20 years as initially planned?",
+        "options": {
+          "A": "It became too expensive to dismantle",
+          "B": "The public protested against its removal",
+          "C": "It was valuable for communication purposes",
+          "D": "The government wanted to keep it as a tourist attraction"
+        },
+        "correct_answer": "C",
+        "category": "Reading"
+      },
+      {
+        "id": 44,
+        "question": "How many pieces of wrought iron were used to build the Eiffel Tower?",
+        "options": {
+          "A": "2.5 million",
+          "B": "7.8 million",
+          "C": "984",
+          "D": "18,038"
+        },
+        "correct_answer": "D",
+        "category": "Reading"
+      },
+      {
+        "id": 45,
+        "question": "What does the passage suggest about the construction cost of the Eiffel Tower?",
+        "options": {
+          "A": "It was fully funded by the government",
+          "B": "It exceeded the initial budget",
+          "C": "It was paid for by private investors",
+          "D": "Much of it was covered by ticket sales"
+        },
+        "correct_answer": "D",
+        "category": "Reading"
+      },
+      {
+        "id": 46,
+        "question": "When was the Eiffel Tower completed?",
+        "options": {
+          "A": "January 1887",
+          "B": "Early 1889",
+          "C": "After the 1889 World's Fair",
+          "D": "20 years after construction began"
+        },
+        "correct_answer": "B",
+        "category": "Reading"
+      },
+      {
+        "id": 47,
+        "question": "What engineering approach was used in the tower's design?",
+        "options": {
+          "A": "Solid steel construction",
+          "B": "Reinforced concrete foundation",
+          "C": "Open lattice structure",
+          "D": "Innovative glass panels"
+        },
+        "correct_answer": "C",
+        "category": "Reading"
+      },
+      {
+        "id": 48,
+        "question": "Approximately how many visitors does the Eiffel Tower attract annually?",
+        "options": {
+          "A": "2.5 million",
+          "B": "Seven million",
+          "C": "18 million",
+          "D": "300 thousand"
+        },
+        "correct_answer": "B",
+        "category": "Reading"
+      },
+      {
+        "id": 49,
+        "question": "What was significant about the height of the Eiffel Tower when it was built?",
+        "options": {
+          "A": "It was taller than any church in Paris",
+          "B": "It was the tallest man-made structure in the world",
+          "C": "It was visible from 300 meters away",
+          "D": "It was designed to be exactly 984 feet tall"
+        },
+        "correct_answer": "B",
+        "category": "Reading"
+      },
+      {
+        "id": 50,
+        "question": "According to the passage, what role did the Eiffel Tower play during World War I?",
+        "options": {
+          "A": "It was used as a lookout post",
+          "B": "It served as military headquarters",
+          "C": "It was temporarily dismantled",
+          "D": "It intercepted enemy radio transmissions"
+        },
+        "correct_answer": "D",
+        "category": "Reading"
+      }
+    ]
+}
