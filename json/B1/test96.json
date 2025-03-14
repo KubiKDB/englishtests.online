@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Credit cards and loans are common financial tools that allow people to borrow money for different purposes. Credit cards are plastic cards issued by banks that let users make purchases without using cash immediately. When someone uses a credit card, they are borrowing money from the card issuer with the promise to pay it back later. Most credit cards have a credit limit, which is the maximum amount a person can borrow.<br><br>(2) When credit card users don't pay their full balance by the due date, they must pay interest on the remaining amount. Interest is a percentage of the borrowed money that the lender charges as a fee for lending the money. Credit card interest rates are usually higher than other types of loans, often between 15% and 25% annually. This is why financial experts recommend paying off credit card balances in full each month.<br><br>(3) Loans work differently from credit cards. A loan is a fixed amount of money that a person borrows and agrees to pay back over a specific period. Common types of loans include personal loans, student loans, auto loans, and mortgages. When someone takes out a loan, they typically receive the entire amount at once and then make regular monthly payments until the loan is fully repaid.<br><br>(4) Most loans have fixed interest rates, meaning the rate stays the same throughout the loan term. Some loans, however, have variable interest rates that can change based on market conditions. The interest rate for a loan is usually determined by factors such as the borrower's credit score, income, and the amount of money being borrowed. People with higher credit scores generally qualify for loans with lower interest rates.<br><br>(5) Both credit cards and loans can be useful financial tools when used responsibly. They can help people make important purchases, manage emergencies, or build credit history. However, they can also lead to financial problems if not managed properly. Taking on too much debt can result in high interest payments and damage to one's credit score. This is why it's important to understand how these financial products work before using them.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "She don't like coffee.",
+        "B": "They doesn't work on Sundays.",
+        "C": "He doesn't want to go.",
+        "D": "I doesn't understand the question."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct form of the verb:",
+      "options": {
+        "A": "I have see that movie last week.",
+        "B": "I have seen that movie last week.",
+        "C": "I saw that movie last week.",
+        "D": "I am seeing that movie last week."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the correct sentence:",
+      "options": {
+        "A": "If I will see him, I will tell him.",
+        "B": "If I see him, I will tell him.",
+        "C": "If I would see him, I will tell him.",
+        "D": "If I saw him, I will tell him."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct preposition:",
+      "options": {
+        "A": "She arrived at Monday.",
+        "B": "She arrived in Monday.",
+        "C": "She arrived on Monday.",
+        "D": "She arrived by Monday."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Which is the correct comparative form?",
+      "options": {
+        "A": "This building is more taller than that one.",
+        "B": "This building is tallest than that one.",
+        "C": "This building is more tall than that one.",
+        "D": "This building is taller than that one."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the correct sentence:",
+      "options": {
+        "A": "I've been living here since three years.",
+        "B": "I've been living here for three years.",
+        "C": "I've been living here during three years.",
+        "D": "I've been living here by three years."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "A": "She told me that she is coming tomorrow.",
+        "B": "She told me that she was coming tomorrow.",
+        "C": "She told me that she will coming tomorrow.",
+        "D": "She told me that she comes tomorrow."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Which modal verb is correct in this sentence? 'You ___ smoke in hospitals.'",
+      "options": {
+        "A": "don't have to",
+        "B": "mustn't",
+        "C": "couldn't",
+        "D": "wouldn't"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Select the correct sentence:",
+      "options": {
+        "A": "Neither John or Mary came to the party.",
+        "B": "Neither John nor Mary came to the party.",
+        "C": "Neither John nor Mary didn't come to the party.",
+        "D": "Neither John nor Mary comes to the party."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which is the correct form?",
+      "options": {
+        "A": "The letter writed by John arrived yesterday.",
+        "B": "The letter written by John arrived yesterday.",
+        "C": "The letter wrote by John arrived yesterday.",
+        "D": "The letter writing by John arrived yesterday."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "A": "I wish I can speak French.",
+        "B": "I wish I will speak French.",
+        "C": "I wish I could speak French.",
+        "D": "I wish I would speak French."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the correct sentence:",
+      "options": {
+        "A": "If I had studied harder, I will pass the exam.",
+        "B": "If I had studied harder, I would passed the exam.",
+        "C": "If I had studied harder, I pass the exam.",
+        "D": "If I had studied harder, I would have passed the exam."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Which sentence is correct?",
+      "options": {
+        "A": "The children are too young for watch this movie.",
+        "B": "The children are too young to watching this movie.",
+        "C": "The children are too young to watch this movie.",
+        "D": "The children are too young for to watch this movie."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct form:",
+      "options": {
+        "A": "By the time I arrived, they already left.",
+        "B": "By the time I arrived, they had already left.",
+        "C": "By the time I arrived, they have already left.",
+        "D": "By the time I arrived, they were already leaving."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the correct question form:",
+      "options": {
+        "A": "Where you did go last weekend?",
+        "B": "Where did you went last weekend?",
+        "C": "Where you went last weekend?",
+        "D": "Where did you go last weekend?"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Complete the sentence: 'She's very busy at work, ___ she still finds time for her hobbies.'",
+      "options": {
+        "A": "so",
+        "B": "but",
+        "C": "because",
+        "D": "therefore"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct phrase to complete the sentence: 'I'm not sure ___ to the party tomorrow.'",
+      "options": {
+        "A": "if I can come",
+        "B": "if I coming",
+        "C": "if I to come",
+        "D": "if I came"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the correct phrase: 'She ___ TV when I called her.'",
+      "options": {
+        "A": "watched",
+        "B": "was watching",
+        "C": "has watched",
+        "D": "watches"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct option: 'I've been waiting for you ___ two hours.'",
+      "options": {
+        "A": "since",
+        "B": "for",
+        "C": "during",
+        "D": "while"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Complete the sentence: 'It was ___ cold that we couldn't go outside.'",
+      "options": {
+        "A": "such",
+        "B": "so",
+        "C": "very",
+        "D": "too"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the correct option: 'Would you mind ___ the window?'",
+      "options": {
+        "A": "to open",
+        "B": "open",
+        "C": "opening",
+        "D": "opened"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Select the correct phrase: 'I don't have ___ free time these days.'",
+      "options": {
+        "A": "many",
+        "B": "few",
+        "C": "plenty",
+        "D": "much"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Complete the sentence: 'The movie was ___ boring that I fell asleep.'",
+      "options": {
+        "A": "such",
+        "B": "so",
+        "C": "very",
+        "D": "quite"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct option: 'She ___ be at home now; I saw her at the supermarket an hour ago.'",
+      "options": {
+        "A": "mustn't",
+        "B": "can't",
+        "C": "shouldn't",
+        "D": "wouldn't"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the correct phrase: 'I'm really looking forward ___ you next week.'",
+      "options": {
+        "A": "to see",
+        "B": "seeing",
+        "C": "to seeing",
+        "D": "see"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What does 'employ' mean in this sentence: 'The company employs over 500 people.'",
+      "options": {
+        "A": "to fire",
+        "B": "to train",
+        "C": "to hire and pay",
+        "D": "to help"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Which word is closest in meaning to 'disaster'?",
+      "options": {
+        "A": "celebration",
+        "B": "catastrophe",
+        "C": "success",
+        "D": "adventure"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Choose the correct meaning of 'systems' in this context: 'The company is updating its computer systems.'",
+      "options": {
+        "A": "buildings",
+        "B": "employees",
+        "C": "networks of connected equipment",
+        "D": "rules"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "What is 'science'?",
+      "options": {
+        "A": "a type of art",
+        "B": "a systematic study of the natural world",
+        "C": "a religious belief",
+        "D": "a type of government"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "What does a 'lawyer' do?",
+      "options": {
+        "A": "treats sick people",
+        "B": "teaches students",
+        "C": "provides legal advice and represents people in court",
+        "D": "designs buildings"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Which is the best synonym for 'obvious'?",
+      "options": {
+        "A": "hidden",
+        "B": "clear",
+        "C": "difficult",
+        "D": "strange"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "What does 'century' refer to?",
+      "options": {
+        "A": "10 years",
+        "B": "50 years",
+        "C": "100 years",
+        "D": "1000 years"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "What does it mean to 'analyze' something?",
+      "options": {
+        "A": "to build it",
+        "B": "to examine it carefully",
+        "C": "to destroy it",
+        "D": "to buy it"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What does 'reverse' mean in this sentence: 'The driver had to reverse the car out of the parking space.'",
+      "options": {
+        "A": "to move forward",
+        "B": "to move backward",
+        "C": "to repair",
+        "D": "to accelerate"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Which word best describes something 'ancient'?",
+      "options": {
+        "A": "very old",
+        "B": "very new",
+        "C": "very big",
+        "D": "very small"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What is a 'uniform'?",
+      "options": {
+        "A": "a type of food",
+        "B": "special clothes worn by members of the same group",
+        "C": "a musical instrument",
+        "D": "a type of vehicle"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "What does 'honesty' mean?",
+      "options": {
+        "A": "telling lies",
+        "B": "being funny",
+        "C": "telling the truth",
+        "D": "being wealthy"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "What does 'western' refer to in this sentence: 'They live in the western part of the country.'",
+      "options": {
+        "A": "northern",
+        "B": "eastern",
+        "C": "southern",
+        "D": "toward the direction where the sun sets"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "What is a 'carriage'?",
+      "options": {
+        "A": "a vehicle pulled by horses",
+        "B": "a type of food",
+        "C": "a musical instrument",
+        "D": "a large bag"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "What does 'terminal' mean in this context: 'We need to go to Terminal 3 at the airport.'",
+      "options": {
+        "A": "a bus stop",
+        "B": "a building at an airport where passengers arrive and depart",
+        "C": "a computer",
+        "D": "a type of disease"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what is a credit card?",
+      "options": {
+        "A": "A plastic card used only for cash withdrawals",
+        "B": "A card that lets users make purchases without immediate cash payment",
+        "C": "A card with unlimited borrowing potential",
+        "D": "A type of loan with fixed monthly payments"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Based on paragraph 2, why do financial experts recommend paying off credit card balances in full each month?",
+      "options": {
+        "A": "Because credit cards have low interest rates",
+        "B": "Because it improves your credit score",
+        "C": "Because credit cards have high interest rates",
+        "D": "Because it's illegal not to pay in full"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, how do loans differ from credit cards?",
+      "options": {
+        "A": "Loans are not a form of borrowing money",
+        "B": "Loans have no interest rates",
+        "C": "Loans are borrowed as a fixed amount and repaid over a specific period",
+        "D": "Loans can only be used for educational purposes"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "What determines the interest rate for a loan according to paragraph 4?",
+      "options": {
+        "A": "Only the borrower's income",
+        "B": "Only the amount being borrowed",
+        "C": "Only market conditions",
+        "D": "Factors such as credit score, income, and loan amount"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to paragraph 4, people with higher credit scores generally:",
+      "options": {
+        "A": "Qualify for loans with lower interest rates",
+        "B": "Pay higher interest rates",
+        "C": "Cannot get loans",
+        "D": "Must pay their loans back faster"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "Based on paragraph 5, what can happen if credit cards and loans are not managed properly?",
+      "options": {
+        "A": "They can help build credit history",
+        "B": "They can lead to financial problems and credit score damage",
+        "C": "They can reduce interest payments",
+        "D": "They become free to use"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What is the main purpose of this passage?",
+      "options": {
+        "A": "To convince readers to avoid using credit cards and loans",
+        "B": "To explain how credit cards and loans work and their proper use",
+        "C": "To promote specific credit card companies",
+        "D": "To compare international banking systems"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "From the passage, what is interest?",
+      "options": {
+        "A": "The total amount borrowed",
+        "B": "A percentage fee charged for borrowing money",
+        "C": "The credit limit on a card",
+        "D": "The minimum monthly payment"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to the passage, what is a fixed interest rate?",
+      "options": {
+        "A": "A rate that changes based on market conditions",
+        "B": "A rate that stays the same throughout the loan term",
+        "C": "A rate that only applies to credit cards",
+        "D": "A rate that only applies to mortgages"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "The passage suggests that people should:",
+      "options": {
+        "A": "Never use credit cards or loans",
+        "B": "Only use loans, not credit cards",
+        "C": "Understand financial products before using them",
+        "D": "Borrow as much money as possible"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
