@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Democracy, which originated in ancient Greece around 500 BCE, has significantly influenced modern governmental systems worldwide. The word \"democracy\" comes from the Greek words \"demos\" (people) and \"kratos\" (power), literally meaning \"power of the people.\" In ancient Athens, citizens would gather in the Agora to debate and vote on important matters affecting their city-state. This direct participation in decision-making processes represented a revolutionary approach to governance that challenged the prevailing monarchical and aristocratic systems of the time.<br><br>(2) One of the most important contributions of Greek democracy to modern governments is the concept of citizenship with equal rights. In Athens, all citizens (though limited to free adult males) had the right to speak in the assembly, vote on legislation, and participate in the judicial system. This fundamental principle of political equality among citizens forms the cornerstone of modern democratic systems. Today, most democratic nations extend these rights to all adult citizens regardless of gender, property ownership, or social status, representing an evolution of the original Greek concept.<br><br>(3) The separation of powers, another crucial element in modern democracies, also finds its roots in Greek political thought. Although not formally structured as in today's governments, ancient Athens had different institutions that performed various functions: the Assembly (legislative), magistrates (executive), and the courts (judicial). Philosophers like Aristotle discussed the importance of balanced governance, an idea later developed by thinkers such as Montesquieu and incorporated into many modern constitutions, most notably that of the United States with its three branches of government.<br><br>(4) Representative democracy, the predominant form in modern nations, differs from the direct democracy practiced in ancient Athens. Due to larger populations and geographical constraints, modern democracies typically elect representatives who make decisions on behalf of their constituents. However, the fundamental Greek principle that government should be responsive to its citizens remains central. Many modern governments incorporate elements of direct democracy through referendums and initiatives, allowing citizens to vote directly on specific issues, thus preserving some aspects of the Athenian model.<br><br>(5) Despite these connections, modern democratic systems have evolved significantly from their Greek predecessors. Contemporary democracies typically include constitutional protections for individual rights, extensive bureaucracies, and complex electoral systems—all developments beyond the Athenian model. Additionally, modern democracies have had to address challenges unknown to the ancient Greeks, such as managing diverse multicultural populations and responding to globalization. Nevertheless, the core principle established by the Greeks—that legitimate political authority stems from the governed—continues to inspire democratic movements and governments around the world.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is grammatically correct?",
+      "options": {
+        "A": "She don't like coffee.",
+        "B": "They doesn't work here.",
+        "C": "He doesn't want to go.",
+        "D": "I doesn't know the answer."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct form of the verb.",
+      "options": {
+        "A": "I have been to Paris last year.",
+        "B": "I went to Paris last year.",
+        "C": "I have gone to Paris last year.",
+        "D": "I had been going to Paris last year."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Select the correct sentence.",
+      "options": {
+        "A": "The book who I read was interesting.",
+        "B": "The book what I read was interesting.",
+        "C": "The book which I read was interesting.",
+        "D": "The book when I read was interesting."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence uses the correct preposition?",
+      "options": {
+        "A": "I'm afraid from spiders.",
+        "B": "I'm afraid of spiders.",
+        "C": "I'm afraid with spiders.",
+        "D": "I'm afraid at spiders."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct comparative form.",
+      "options": {
+        "A": "This exercise is more easier than the last one.",
+        "B": "This exercise is easyer than the last one.",
+        "C": "This exercise is more easy than the last one.",
+        "D": "This exercise is easier than the last one."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the correct passive voice sentence.",
+      "options": {
+        "A": "The letter is writing by John.",
+        "B": "The letter was wrote by John.",
+        "C": "The letter was written by John.",
+        "D": "The letter is written by John since yesterday."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which sentence uses the correct article?",
+      "options": {
+        "A": "I saw a interesting movie yesterday.",
+        "B": "I saw an interesting movie yesterday.",
+        "C": "I saw the interesting movie yesterday.",
+        "D": "I saw interesting movie yesterday."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct conditional sentence.",
+      "options": {
+        "A": "If it will rain tomorrow, I will stay home.",
+        "B": "If it rains tomorrow, I will stay home.",
+        "C": "If it rain tomorrow, I will stay home.",
+        "D": "If it raining tomorrow, I will stay home."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence is in the correct tense?",
+      "options": {
+        "A": "I am living in this city since 2010.",
+        "B": "I live in this city since 2010.",
+        "C": "I have been living in this city since 2010.",
+        "D": "I had lived in this city since 2010."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Select the sentence with correct word order.",
+      "options": {
+        "A": "Always she arrives on time.",
+        "B": "She always arrives on time.",
+        "C": "She arrives always on time.",
+        "D": "She arrives on time always."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct form of the modal verb.",
+      "options": {
+        "A": "You should to visit the museum.",
+        "B": "You must visiting the museum.",
+        "C": "You might to go to the museum.",
+        "D": "You could visit the museum."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence uses the correct form of the verb 'to be'?",
+      "options": {
+        "A": "The team are playing well.",
+        "B": "The team is playing well.",
+        "C": "The team be playing well.",
+        "D": "The team were playing well now."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Select the correct question form.",
+      "options": {
+        "A": "Where you did go last weekend?",
+        "B": "Where did you went last weekend?",
+        "C": "Where did you go last weekend?",
+        "D": "Where you went last weekend?"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct plural form.",
+      "options": {
+        "A": "The childs are playing in the garden.",
+        "B": "The childrens are playing in the garden.",
+        "C": "The children is playing in the garden.",
+        "D": "The children are playing in the garden."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Which sentence uses the correct form of 'used to'?",
+      "options": {
+        "A": "I used to playing tennis every weekend.",
+        "B": "I use to play tennis every weekend.",
+        "C": "I used to play tennis every weekend.",
+        "D": "I am used to play tennis every weekend."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct sentence to complete the conversation: 'Would you like to go to the cinema?' '________'",
+      "options": {
+        "A": "I'd rather not. I'm tired.",
+        "B": "I'd rather not. I'm tiring.",
+        "C": "I rather not. I'm tired.",
+        "D": "I'd better not. I'm tiring."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the correct expression for giving advice.",
+      "options": {
+        "A": "You should better see a doctor.",
+        "B": "You would see a doctor.",
+        "C": "You ought see a doctor.",
+        "D": "You ought to see a doctor."
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct response to the question: 'Do you mind if I open the window?'",
+      "options": {
+        "A": "Yes, please do.",
+        "B": "No, go ahead.",
+        "C": "Yes, go ahead.",
+        "D": "No, please don't."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Select the correct phrasal verb: 'Can you _____ the children while I go shopping?'",
+      "options": {
+        "A": "look at",
+        "B": "look for",
+        "C": "look after",
+        "D": "look up"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct expression to make a suggestion.",
+      "options": {
+        "A": "Why don't we going to the beach?",
+        "B": "Let's to go to the beach.",
+        "C": "What about go to the beach?",
+        "D": "How about going to the beach?"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the appropriate expression for making a polite request.",
+      "options": {
+        "A": "Give me that book.",
+        "B": "I want that book.",
+        "C": "Could you pass me that book, please?",
+        "D": "You should give me that book."
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct connector: 'She was tired, _____ she went to bed early.'",
+      "options": {
+        "A": "so",
+        "B": "because",
+        "C": "although",
+        "D": "but"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the correct expression to show disagreement.",
+      "options": {
+        "A": "I'm afraid I don't agree with you.",
+        "B": "I'm afraid I don't agree to you.",
+        "C": "I'm afraid I don't agree on you.",
+        "D": "I'm afraid I don't agree for you."
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct expression to apologize.",
+      "options": {
+        "A": "I apologize for be late.",
+        "B": "I'm sorry for being late.",
+        "C": "I'm sorry to being late.",
+        "D": "I apologize to be late."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the appropriate response to the statement: 'I've got a new job.'",
+      "options": {
+        "A": "I don't believe it.",
+        "B": "Congratulations!",
+        "C": "It doesn't matter.",
+        "D": "I don't care."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the correct meaning of 'meet' in the sentence: 'We need to meet the deadline by Friday.'",
+      "options": {
+        "A": "to be introduced to someone",
+        "B": "to come together with someone",
+        "C": "to achieve or fulfill something",
+        "D": "to encounter something by chance"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "What does 'lack' mean in the sentence: 'The project failed due to a lack of funds.'?",
+      "options": {
+        "A": "shortage or absence of something",
+        "B": "abundance of something",
+        "C": "requirement for something",
+        "D": "rejection of something"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Choose the correct meaning of 'disagree' in the sentence: 'I disagree with your opinion on this matter.'",
+      "options": {
+        "A": "to have the same opinion",
+        "B": "to not have the same opinion",
+        "C": "to misunderstand something",
+        "D": "to argue violently"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "What does 'solution' mean in the context: 'We need to find a solution to this problem.'?",
+      "options": {
+        "A": "a way of dealing with a difficult situation",
+        "B": "a liquid mixture of substances",
+        "C": "an explanation of something complicated",
+        "D": "a process of dissolving"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Select the correct meaning of 'purchase' in the sentence: 'I need to purchase a new laptop.'",
+      "options": {
+        "A": "to rent something",
+        "B": "to borrow something",
+        "C": "to buy something",
+        "D": "to fix something"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "What does 'sign' mean in the sentence: 'Please sign the contract before Friday.'?",
+      "options": {
+        "A": "to indicate or point to something",
+        "B": "to write your name on a document",
+        "C": "to design a document",
+        "D": "to read a document carefully"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Choose the correct meaning of 'save' in the context: 'I need to save money for my vacation.'",
+      "options": {
+        "A": "to rescue from danger",
+        "B": "to store information on a computer",
+        "C": "to keep something for future use",
+        "D": "to protect from harm"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "What does 'wear' mean in the sentence: 'She likes to wear elegant clothes to formal events.'?",
+      "options": {
+        "A": "to be dressed in something",
+        "B": "to damage something gradually",
+        "C": "to carry something",
+        "D": "to display something"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Select the correct meaning of 'change' in the sentence: 'We need to change our strategy to be more successful.'",
+      "options": {
+        "A": "to exchange one thing for another",
+        "B": "to give someone money in smaller denominations",
+        "C": "to make or become different",
+        "D": "to replace something worn out"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Choose the correct meaning of 'invite' in the context: 'They invited us to their wedding next month.'",
+      "options": {
+        "A": "to encourage someone to do something",
+        "B": "to ask someone formally to go somewhere or do something",
+        "C": "to allow someone to enter a place",
+        "D": "to suggest that something will happen"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What does 'surprise' mean in the sentence: 'The news came as a complete surprise to everyone.'?",
+      "options": {
+        "A": "something expected",
+        "B": "something that causes shock or amazement",
+        "C": "something disappointing",
+        "D": "something that causes fear"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Select the correct meaning of 'contact' in the sentence: 'Please contact me if you need any help.'",
+      "options": {
+        "A": "to touch something",
+        "B": "to communicate with someone",
+        "C": "to infect someone",
+        "D": "to contract a disease"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Choose the correct meaning of 'refuse' in the context: 'She refused to answer the question.'",
+      "options": {
+        "A": "to say or show that you will not do something",
+        "B": "to accept something reluctantly",
+        "C": "to consider something carefully",
+        "D": "to throw something away"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "What does 'teach' mean in the sentence: 'She teaches English at the local school.'?",
+      "options": {
+        "A": "to give instructions to someone",
+        "B": "to show someone how to do something",
+        "C": "to help someone learn knowledge or skills",
+        "D": "to train someone in a particular skill"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Select the correct meaning of 'protect' in the sentence: 'The government should protect the environment.'",
+      "options": {
+        "A": "to keep something safe from harm or damage",
+        "B": "to preserve something for the future",
+        "C": "to repair something that is damaged",
+        "D": "to improve the quality of something"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, what does the word 'democracy' literally mean?",
+      "options": {
+        "A": "Rule by the wealthy",
+        "B": "Power of the people",
+        "C": "Government by representation",
+        "D": "Freedom for all"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Where did citizens of ancient Athens gather to debate and vote?",
+      "options": {
+        "A": "In the Senate",
+        "B": "In the Parliament",
+        "C": "In the Agora",
+        "D": "In the Forum"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 2, who had citizenship rights in ancient Athens?",
+      "options": {
+        "A": "All adult residents",
+        "B": "Free adult males only",
+        "C": "All adults regardless of gender",
+        "D": "Property owners of any gender"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Which political philosopher discussed the importance of balanced governance?",
+      "options": {
+        "A": "Socrates",
+        "B": "Plato",
+        "C": "Aristotle",
+        "D": "Pericles"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "How does modern democracy primarily differ from ancient Athenian democracy?",
+      "options": {
+        "A": "Modern democracy is not based on citizen participation",
+        "B": "Modern democracy uses representatives rather than direct citizen voting",
+        "C": "Modern democracy does not have a judicial system",
+        "D": "Modern democracy excludes certain groups from voting"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "Which features mentioned in the passage are present in modern democracies but were not part of the Athenian model?",
+      "options": {
+        "A": "Voting rights",
+        "B": "Separation of powers",
+        "C": "Constitutional protections for individual rights",
+        "D": "Public debates"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What does the passage identify as the core principle established by the Greeks that continues to inspire democratic movements?",
+      "options": {
+        "A": "The right to free speech",
+        "B": "The right to vote on legislation",
+        "C": "The idea that political authority stems from the governed",
+        "D": "The concept of judicial review"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to the passage, which institution in ancient Athens performed a function similar to modern legislative bodies?",
+      "options": {
+        "A": "The Assembly",
+        "B": "The magistrates",
+        "C": "The courts",
+        "D": "The Agora"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What modern democratic practice most resembles the direct democracy of ancient Athens?",
+      "options": {
+        "A": "Presidential elections",
+        "B": "Judicial appointments",
+        "C": "Referendums and initiatives",
+        "D": "Parliamentary debates"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "When did democracy originate in ancient Greece, according to the passage?",
+      "options": {
+        "A": "Around 300 BCE",
+        "B": "Around 400 BCE",
+        "C": "Around 500 BCE",
+        "D": "Around 600 BCE"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
