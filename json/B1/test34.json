@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Oceans play a crucial role in regulating Earth's climate system. Covering more than 70 percent of our planet's surface, oceans absorb and store enormous amounts of heat from the sun. This heat absorption helps maintain global temperatures at levels suitable for life. Without oceans, Earth would experience much more extreme temperature variations, making many regions uninhabitable for numerous plant and animal species.<br><br>(2) One of the most important functions of oceans is carbon dioxide absorption. Oceans act as carbon sinks, taking in about one-quarter of the carbon dioxide that humans release into the atmosphere through activities like burning fossil fuels. This process helps slow the pace of climate change by reducing the amount of greenhouse gases in the atmosphere. However, as carbon dioxide dissolves in seawater, it forms carbonic acid, leading to ocean acidification, which threatens marine life, particularly organisms with calcium carbonate shells or skeletons.<br><br>(3) Ocean currents serve as global conveyor belts, transporting heat from the equator toward the poles. The Gulf Stream, for example, carries warm water from the Gulf of Mexico across the Atlantic Ocean to Europe, making the European climate much milder than it would otherwise be at that latitude. These currents are driven by differences in water temperature and salinity, a complex system known as thermohaline circulation. Scientists worry that climate change could disrupt these crucial current patterns, potentially causing dramatic shifts in regional climates.<br><br>(4) The relationship between oceans and weather patterns is particularly evident in phenomena like El Niño and La Niña. These periodic changes in ocean temperature in the Pacific can influence weather around the globe, causing droughts in some regions and flooding in others. Such events demonstrate how oceanic conditions can have far-reaching effects on climate worldwide, affecting agriculture, water resources, and natural ecosystems thousands of miles away from the source.<br><br>(5) As global temperatures rise due to climate change, oceans face numerous challenges. Sea levels are increasing as ice sheets and glaciers melt and as seawater expands when warmed. Ocean circulation patterns may shift, affecting marine ecosystems and coastal communities. Despite these challenges, oceans continue to buffer the effects of climate change, highlighting their importance to Earth's climate system. Protecting ocean health is therefore not only vital for marine life but also essential for maintaining the stability of our global climate.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Select the correct form of the verb: She _____ tennis every Saturday.",
+      "options": {
+        "A": "play",
+        "B": "plays",
+        "C": "playing",
+        "D": "is play"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct past form: They _____ to the museum last weekend.",
+      "options": {
+        "A": "go",
+        "B": "goes",
+        "C": "went",
+        "D": "gone"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Identify the correct future form: This time tomorrow, I _____ on the beach.",
+      "options": {
+        "A": "will lie",
+        "B": "am lying",
+        "C": "will be lying",
+        "D": "will lying"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Select the correct preposition: The book is _____ the shelf.",
+      "options": {
+        "A": "in",
+        "B": "on",
+        "C": "at",
+        "D": "by"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct article: She wants to become _____ engineer.",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article needed"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Identify the correct comparative form: This exercise is _____ than the previous one.",
+      "options": {
+        "A": "more easier",
+        "B": "easyer",
+        "C": "more easy",
+        "D": "easier"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Select the correct conditional form: If it rains tomorrow, we _____ the picnic.",
+      "options": {
+        "A": "will cancel",
+        "B": "would cancel",
+        "C": "canceled",
+        "D": "canceling"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct passive voice: The report _____ by next Friday.",
+      "options": {
+        "A": "will finish",
+        "B": "will be finished",
+        "C": "is finishing",
+        "D": "finishes"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Identify the correct question form: _____ you like to have dinner with us tonight?",
+      "options": {
+        "A": "Do",
+        "B": "Are",
+        "C": "Would",
+        "D": "Have"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Select the correct relative pronoun: The woman _____ car was stolen reported it to the police.",
+      "options": {
+        "A": "who",
+        "B": "whom",
+        "C": "which",
+        "D": "whose"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct verb form: She _____ in this company since 2015.",
+      "options": {
+        "A": "works",
+        "B": "is working",
+        "C": "has been working",
+        "D": "worked"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Identify the correct modal verb form: You _____ smoke in this building. It's prohibited.",
+      "options": {
+        "A": "don't have to",
+        "B": "mustn't",
+        "C": "shouldn't",
+        "D": "couldn't"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Select the correct reported speech: He said, \"I am going to the store.\" → He said that he _____ to the store.",
+      "options": {
+        "A": "goes",
+        "B": "went",
+        "C": "was going",
+        "D": "had gone"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct gerund/infinitive form: She avoided _____ to him after their argument.",
+      "options": {
+        "A": "to speak",
+        "B": "speak",
+        "C": "speaking",
+        "D": "spoke"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Identify the sentence with correct subject-verb agreement:",
+      "options": {
+        "A": "The number of students in the class are increasing.",
+        "B": "Neither of the girls have finished their homework.",
+        "C": "Each of the apartments has a balcony.",
+        "D": "A group of children were playing in the park."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct phrasal verb: Could you please _____ this form?",
+      "options": {
+        "A": "fill in",
+        "B": "fill out",
+        "C": "fill up",
+        "D": "fill down"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the correct collocation: She _____ a mistake in her calculations.",
+      "options": {
+        "A": "did",
+        "B": "made",
+        "C": "took",
+        "D": "had"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Identify the correct expression: Let's _____ a decision before the meeting ends.",
+      "options": {
+        "A": "do",
+        "B": "take",
+        "C": "make",
+        "D": "have"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct idiom to complete the sentence: The exam was very easy. It was a _____.",
+      "options": {
+        "A": "piece of cake",
+        "B": "cup of tea",
+        "C": "walk in the garden",
+        "D": "child's play"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the correct preposition: The meeting was postponed _____ next week.",
+      "options": {
+        "A": "for",
+        "B": "until",
+        "C": "since",
+        "D": "during"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Identify the correct connector: _____ the rain, we decided to go for a walk.",
+      "options": {
+        "A": "Although",
+        "B": "Despite",
+        "C": "However",
+        "D": "Otherwise"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct expression: I'm really tired. I think I'll _____ early tonight.",
+      "options": {
+        "A": "go to bed",
+        "B": "go to sleep",
+        "C": "fall to bed",
+        "D": "fall asleep"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the correct phrase: Could you _____ me a favor and mail this letter?",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "give",
+        "D": "take"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Identify the correct expression: I need to _____ some money from my bank account.",
+      "options": {
+        "A": "take out",
+        "B": "take off",
+        "C": "withdraw",
+        "D": "remove"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct word to complete this fixed expression: We should _____ in touch after the conference.",
+      "options": {
+        "A": "keep",
+        "B": "stay",
+        "C": "remain",
+        "D": "hold"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the correct usage of 'plan' in a sentence:",
+      "options": {
+        "A": "We plan visiting Paris next summer.",
+        "B": "They plan to renovate their house next year.",
+        "C": "She plans going to the gym tomorrow.",
+        "D": "I plan meet my friends after work."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Select the correct meaning of 'expect' in this sentence: 'We expect the package to arrive tomorrow.'",
+      "options": {
+        "A": "to demand something",
+        "B": "to hope for something",
+        "C": "to believe something will happen",
+        "D": "to wait for something"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Identify the correct usage of 'intend' in a sentence:",
+      "options": {
+        "A": "I intend to apply for that job.",
+        "B": "She intends going to the party.",
+        "C": "They intend me to finish by Friday.",
+        "D": "We intended the movie last night."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Choose the correct usage of 'try' in a sentence:",
+      "options": {
+        "A": "I'll try call you tomorrow.",
+        "B": "She tried solving the puzzle for hours.",
+        "C": "They try going to that restaurant last week.",
+        "D": "We'll try to find a solution to this problem."
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Select the correct meaning of 'manage' in this sentence: 'Despite the difficulties, we managed to complete the project on time.'",
+      "options": {
+        "A": "to be in charge of something",
+        "B": "to succeed in doing something difficult",
+        "C": "to control or organize something",
+        "D": "to handle finances"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Identify the correct usage of 'succeed' in a sentence:",
+      "options": {
+        "A": "She succeeded to pass the exam.",
+        "B": "They succeeded a lot of money from their parents.",
+        "C": "We succeeded in solving the problem.",
+        "D": "I succeeded the book back to the library."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Choose the correct usage of 'fail' in a sentence:",
+      "options": {
+        "A": "The business failed because of poor management.",
+        "B": "She failed to the exam last week.",
+        "C": "They failed at going to the meeting.",
+        "D": "We failed with finding the address."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Select the correct meaning of 'achieve' in this sentence: 'She achieved her goal of running a marathon.'",
+      "options": {
+        "A": "to try to do something",
+        "B": "to want something very much",
+        "C": "to succeed in doing something you planned",
+        "D": "to work toward something"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Identify the correct usage of 'complete' in a sentence:",
+      "options": {
+        "A": "I need to complete with this form.",
+        "B": "She completed her homework before dinner.",
+        "C": "They complete to the movie theater.",
+        "D": "We will complete in the race tomorrow."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Choose the correct usage of 'finish' in a sentence:",
+      "options": {
+        "A": "I'll finish these emails by 5 PM.",
+        "B": "She finishes to work at 6 PM.",
+        "C": "They finish with making dinner.",
+        "D": "We finished to the project last week."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Select the correct meaning of 'produce' in this sentence: 'The factory produces thousands of cars each month.'",
+      "options": {
+        "A": "to buy or purchase",
+        "B": "to make or manufacture",
+        "C": "to sell or market",
+        "D": "to design or engineer"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Identify the correct usage of 'create' in a sentence:",
+      "options": {
+        "A": "The artist created a beautiful painting.",
+        "B": "She creates to the office early.",
+        "C": "They created with a new product.",
+        "D": "We will create on the project next week."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Choose the correct usage of 'build' in a sentence:",
+      "options": {
+        "A": "We build to a new house next year.",
+        "B": "She builds her career in marketing.",
+        "C": "They built a strong relationship over many years.",
+        "D": "I'll build with the team tomorrow."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Select the correct meaning of 'develop' in this sentence: 'The company is developing a new smartphone app.'",
+      "options": {
+        "A": "to market or advertise",
+        "B": "to create or produce gradually",
+        "C": "to sell or distribute",
+        "D": "to test or evaluate"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Identify the correct usage of 'invent' in a sentence:",
+      "options": {
+        "A": "Thomas Edison invented the light bulb.",
+        "B": "She invents to the gym every day.",
+        "C": "They invented with a new recipe.",
+        "D": "We will invent on this problem tomorrow."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, why are oceans important for Earth's climate?",
+      "options": {
+        "A": "They create weather patterns",
+        "B": "They absorb and store heat from the sun",
+        "C": "They prevent hurricanes and storms",
+        "D": "They generate oxygen for the atmosphere"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Based on paragraph 2, approximately what fraction of human-produced carbon dioxide do oceans absorb?",
+      "options": {
+        "A": "One-half",
+        "B": "One-third",
+        "C": "One-quarter",
+        "D": "Three-quarters"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 2, what is a negative consequence of oceans absorbing carbon dioxide?",
+      "options": {
+        "A": "Rising sea levels",
+        "B": "Ocean acidification",
+        "C": "Changes in ocean currents",
+        "D": "Increased water temperature"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Based on paragraph 3, what makes Europe's climate milder than expected for its latitude?",
+      "options": {
+        "A": "Proximity to mountains",
+        "B": "The Gulf Stream",
+        "C": "Prevailing wind patterns",
+        "D": "Dense forest coverage"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to paragraph 3, what drives ocean currents?",
+      "options": {
+        "A": "Wind patterns and air pressure",
+        "B": "Earth's rotation and gravitational pull",
+        "C": "Differences in water temperature and salinity",
+        "D": "Underwater volcanic activity"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "Based on paragraph 4, what are El Niño and La Niña?",
+      "options": {
+        "A": "Types of ocean currents",
+        "B": "Tropical storms in the Pacific",
+        "C": "Periodic changes in Pacific Ocean temperature",
+        "D": "Seasonal wind patterns"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to paragraph 4, how can oceanic conditions affect areas far from the oceans?",
+      "options": {
+        "A": "By influencing global weather patterns",
+        "B": "By changing atmospheric carbon levels",
+        "C": "By altering Earth's magnetic field",
+        "D": "By causing tectonic plate movement"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to paragraph 5, what are two causes of rising sea levels mentioned in the passage?",
+      "options": {
+        "A": "Ocean acidification and coral bleaching",
+        "B": "Melting ice and seawater expansion",
+        "C": "Changing currents and increased rainfall",
+        "D": "Coastal erosion and tectonic activity"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What is the main purpose of this passage?",
+      "options": {
+        "A": "To explain how human activities are damaging oceans",
+        "B": "To describe marine ecosystems and biodiversity",
+        "C": "To explain the role of oceans in regulating Earth's climate",
+        "D": "To propose solutions to climate change"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "Which statement best summarizes the relationship between oceans and climate described in the passage?",
+      "options": {
+        "A": "Oceans cause climate change through natural warming cycles",
+        "B": "Oceans are victims of climate change but play no role in regulating it",
+        "C": "Oceans buffer climate change effects while facing challenges from it",
+        "D": "Oceans completely prevent climate change from affecting terrestrial ecosystems"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
