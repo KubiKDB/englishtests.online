@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Plants are remarkable organisms that have evolved to thrive in nearly every environment on Earth. From the scorching deserts to the freezing tundra, plants have developed various adaptations that allow them to survive and reproduce in different climatic conditions. These adaptations involve changes in their physical structure, internal processes, and life cycles to match the challenges posed by their surroundings.<br><br>(2) In desert environments, plants face extreme heat, intense sunlight, and scarce water. To combat these conditions, many desert plants have developed thick, waxy coatings on their leaves to reduce water loss. Some species, like cacti, have modified their leaves into spines to minimize surface area and water evaporation. Additionally, desert plants often have extensive root systems that spread wide rather than deep to capture as much rainfall as possible when it occurs.<br><br>(3) In contrast, plants in tropical rainforests must adapt to high humidity, constant warmth, and competition for sunlight. Many tropical plants have broad leaves with drip tips that allow water to run off easily, preventing mold and fungal growth. Climbing vines and epiphytes (plants that grow on other plants) have evolved to reach the canopy where sunlight is abundant. Some tropical species have also developed vibrant flowers and fruits to attract animals that help with pollination and seed dispersal.<br><br>(4) Plants in cold climates face challenges such as freezing temperatures and short growing seasons. Alpine and arctic plants are often small and grow close to the ground, which helps them avoid the worst of the cold winds. Many cold-climate plants have special compounds in their cells that act as natural antifreeze. Some species enter dormancy during winter, shedding their leaves and suspending growth until favorable conditions return in spring.<br><br>(5) Wetland plants must adapt to waterlogged soil with low oxygen levels. These plants often have specialized tissues that form air channels, allowing oxygen to reach their submerged roots. Mangroves, which grow in coastal saltwater environments, have developed specialized filtration systems in their roots to exclude salt while absorbing water. These diverse adaptations demonstrate how plants have evolved to overcome environmental challenges, making them successful in almost every climate on our planet.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct form of the verb to complete this sentence: 'She _____ television when I called her yesterday.'",
+      "options": {
+        "A": "watched",
+        "B": "was watching",
+        "C": "is watching",
+        "D": "watches"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the correct preposition: 'I'm really looking forward _____ the concert next week.'",
+      "options": {
+        "A": "for",
+        "B": "at",
+        "C": "to",
+        "D": "on"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "Neither John or Mary were at the meeting.",
+        "B": "Neither John nor Mary were at the meeting.",
+        "C": "Neither John nor Mary was at the meeting.",
+        "D": "Neither John or Mary was at the meeting."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct form: 'If I _____ more time, I would travel more.'",
+      "options": {
+        "A": "have",
+        "B": "had",
+        "C": "would have",
+        "D": "having"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Select the correct relative pronoun: 'The man _____ car broke down called for help.'",
+      "options": {
+        "A": "who",
+        "B": "whom",
+        "C": "which",
+        "D": "whose"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which sentence uses the present perfect correctly?",
+      "options": {
+        "A": "I've seen that movie last week.",
+        "B": "She has lived here since five years.",
+        "C": "They have visited Paris three times.",
+        "D": "We have gone there yesterday."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct modal verb: 'You _____ smoke in the hospital. It's against the rules.'",
+      "options": {
+        "A": "don't have to",
+        "B": "mustn't",
+        "C": "shouldn't",
+        "D": "couldn't"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the correct form: 'By the time we arrived, the movie _____.'",
+      "options": {
+        "A": "already started",
+        "B": "has already started",
+        "C": "had already started",
+        "D": "was already starting"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence contains an error in the comparative form?",
+      "options": {
+        "A": "This book is more interesting than that one.",
+        "B": "My house is bigger than yours.",
+        "C": "The weather today is more better than yesterday.",
+        "D": "Their car is more expensive than ours."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct passive voice form: 'The window _____ during the storm last night.'",
+      "options": {
+        "A": "broke",
+        "B": "was broken",
+        "C": "is broken",
+        "D": "has broken"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Select the correct question tag: 'You've been to Paris, _____?'",
+      "options": {
+        "A": "haven't you",
+        "B": "didn't you",
+        "C": "aren't you",
+        "D": "don't you"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence contains a grammatical error?",
+      "options": {
+        "A": "I can't help thinking about the problem.",
+        "B": "He suggested to go to the cinema.",
+        "C": "They avoided meeting her at the party.",
+        "D": "We enjoy playing tennis on weekends."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct article: 'She plays _____ piano very well.'",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article needed"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Select the correct form of the verb: 'I wish I _____ how to swim.'",
+      "options": {
+        "A": "know",
+        "B": "knew",
+        "C": "knows",
+        "D": "had known"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Which sentence uses the future continuous correctly?",
+      "options": {
+        "A": "This time tomorrow I will traveling to London.",
+        "B": "This time tomorrow I will be traveling to London.",
+        "C": "This time tomorrow I will traveled to London.",
+        "D": "This time tomorrow I travel to London."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct phrasal verb to complete this sentence: 'Could you please _____ this form and return it to me?'",
+      "options": {
+        "A": "fill out",
+        "B": "fill over",
+        "C": "fill away",
+        "D": "fill above"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the appropriate expression: 'I'll call you as soon as I _____.'",
+      "options": {
+        "A": "will arrive",
+        "B": "would arrive",
+        "C": "arrive",
+        "D": "am arriving"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct collocation: 'She _____ a mistake in her calculations.'",
+      "options": {
+        "A": "did",
+        "B": "made",
+        "C": "took",
+        "D": "had"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Select the appropriate expression to complete this sentence: 'The manager was very busy, but she agreed to see me _____.'",
+      "options": {
+        "A": "at the end",
+        "B": "on time",
+        "C": "at a time",
+        "D": "at short notice"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct idiom to complete this sentence: 'I was very nervous before the interview, but I decided to _____.'",
+      "options": {
+        "A": "take the bull by the horns",
+        "B": "bark up the wrong tree",
+        "C": "miss the boat",
+        "D": "let the cat out of the bag"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the appropriate connector: 'He studied hard for the exam; _____, he failed it.'",
+      "options": {
+        "A": "therefore",
+        "B": "consequently",
+        "C": "however",
+        "D": "furthermore"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct expression for making a suggestion: 'It's a beautiful day. _____ go for a walk?'",
+      "options": {
+        "A": "How about",
+        "B": "What about",
+        "C": "Why don't we",
+        "D": "All of the above"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the most appropriate response to: 'I'm sorry I'm late.'",
+      "options": {
+        "A": "It doesn't matter.",
+        "B": "Never mind.",
+        "C": "Don't worry about it.",
+        "D": "All of the above"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct expression to complete this sentence: 'I need to finish this report _____.'",
+      "options": {
+        "A": "by the end of the day",
+        "B": "in the end of the day",
+        "C": "on the end of the day",
+        "D": "with the end of the day"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the appropriate expression for giving advice: '_____try speaking to your manager about it.'",
+      "options": {
+        "A": "It might be a good idea to",
+        "B": "I recommend to",
+        "C": "I suggest to",
+        "D": "Maybe you would"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the sentence where 'imagine' is used correctly:",
+      "options": {
+        "A": "I can't imagine to live without my phone.",
+        "B": "Can you imagine yourself in ten years?",
+        "C": "They imagined for a better future.",
+        "D": "She is imagining about her vacation."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "What does 'feature' mean in this sentence: 'The new smartphone features a better camera.'?",
+      "options": {
+        "A": "To include as an important part",
+        "B": "To advertise widely",
+        "C": "To look like",
+        "D": "To focus on"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Which sentence uses 'recommend' correctly?",
+      "options": {
+        "A": "I recommend you to visit that museum.",
+        "B": "She recommended that he visits the doctor.",
+        "C": "They recommend taking the early train.",
+        "D": "He recommends me for studying harder."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "What does 'factor' mean?",
+      "options": {
+        "A": "A problem or difficulty",
+        "B": "An element or circumstance that contributes to a result",
+        "C": "A person who makes things",
+        "D": "A mathematical equation"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the sentence where 'accident' is used correctly:",
+      "options": {
+        "A": "She met her husband by accident.",
+        "B": "They had an accident discussion about politics.",
+        "C": "The book fell on the floor with accident.",
+        "D": "I learned French by accident from my mother."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "What does 'surround' mean in this sentence: 'The garden is surrounded by tall trees.'?",
+      "options": {
+        "A": "To be near",
+        "B": "To be inside",
+        "C": "To be on all sides of something",
+        "D": "To be similar to"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Choose the correct definition of 'challenge':",
+      "options": {
+        "A": "Something easy to do",
+        "B": "A demanding or stimulating situation",
+        "C": "A type of competition",
+        "D": "A formal invitation"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "In which sentence is 'belong' used correctly?",
+      "options": {
+        "A": "This book belongs reading in school.",
+        "B": "She belongs to visit her grandmother.",
+        "C": "These shoes belong to my sister.",
+        "D": "He belongs going to the gym."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What does 'specialize' mean?",
+      "options": {
+        "A": "To become expert in a particular area",
+        "B": "To work in a special place",
+        "C": "To create special effects",
+        "D": "To pay special attention"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Choose the sentence where 'plan' is used correctly:",
+      "options": {
+        "A": "We plan going to Italy next summer.",
+        "B": "They planned to renovate their house.",
+        "C": "She is planning for study medicine.",
+        "D": "I plan with visiting my parents."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What does 'value' mean in this sentence: 'I value your opinion.'?",
+      "options": {
+        "A": "To calculate the worth of",
+        "B": "To consider important or beneficial",
+        "C": "To compare with others",
+        "D": "To understand completely"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Which sentence uses 'spill' correctly?",
+      "options": {
+        "A": "She spilled the beans about the surprise party.",
+        "B": "He spilled opening the door.",
+        "C": "They spilled to tell me the truth.",
+        "D": "I spilled to work this morning."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "What does 'examine' mean?",
+      "options": {
+        "A": "To look at something carefully",
+        "B": "To take an exam",
+        "C": "To explain something",
+        "D": "To solve a problem"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Choose the sentence where 'intend' is used correctly:",
+      "options": {
+        "A": "I intend going to the meeting.",
+        "B": "She intends for becoming a doctor.",
+        "C": "They intend to move to Canada next year.",
+        "D": "He intended in helping his friend."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "What does 'enter' mean in this sentence: 'She entered the competition and won first prize.'?",
+      "options": {
+        "A": "To go into",
+        "B": "To take part in",
+        "C": "To write down",
+        "D": "To introduce"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, what is the main reason plants have developed various adaptations?",
+      "options": {
+        "A": "To compete with other plants",
+        "B": "To increase their size",
+        "C": "To survive and reproduce in different climatic conditions",
+        "D": "To attract animals for pollination"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Based on paragraph 2, which adaptation helps desert plants reduce water loss?",
+      "options": {
+        "A": "Broad leaves",
+        "B": "Thick, waxy coatings on leaves",
+        "C": "Air channels in roots",
+        "D": "Bright colored flowers"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to the passage, why do many tropical plants have drip tips on their leaves?",
+      "options": {
+        "A": "To collect more sunlight",
+        "B": "To compete with other plants",
+        "C": "To allow water to run off easily",
+        "D": "To reduce their surface area"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Why are plants in cold climates often small and grow close to the ground?",
+      "options": {
+        "A": "To avoid cold winds",
+        "B": "To absorb more sunlight",
+        "C": "To conserve water",
+        "D": "To avoid detection by animals"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What adaptation helps wetland plants overcome the problem of low oxygen in waterlogged soil?",
+      "options": {
+        "A": "Extensive root systems",
+        "B": "Specialized tissues that form air channels",
+        "C": "Thick, waxy coatings",
+        "D": "Modified leaves"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What type of plants have developed specialized filtration systems in their roots?",
+      "options": {
+        "A": "Desert plants",
+        "B": "Alpine plants",
+        "C": "Mangroves",
+        "D": "Tropical rainforest plants"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to the passage, how have cacti modified their leaves?",
+      "options": {
+        "A": "Made them broader",
+        "B": "Turned them into spines",
+        "C": "Grown them underground",
+        "D": "Developed drip tips"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What is the main challenge for plants in tropical rainforests according to the passage?",
+      "options": {
+        "A": "Extreme heat",
+        "B": "Lack of water",
+        "C": "Competition for sunlight",
+        "D": "Freezing temperatures"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Based on the passage, how do some cold-climate plants survive freezing temperatures?",
+      "options": {
+        "A": "By growing taller",
+        "B": "By having special compounds that act as natural antifreeze",
+        "C": "By growing under the snow",
+        "D": "By having thick bark"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the main conclusion about plant adaptations in the passage?",
+      "options": {
+        "A": "Plants can only survive in moderate climates.",
+        "B": "Plant adaptations are all physical in nature.",
+        "C": "Plants have evolved to overcome environmental challenges in almost every climate.",
+        "D": "Most plants cannot adapt to extreme environments."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
