@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The Mediterranean region is a diverse geographical area that surrounds the Mediterranean Sea, encompassing portions of Europe, Asia, and Africa. This region has played a crucial role in human history, serving as a crossroads for various civilizations for thousands of years. The Mediterranean Sea itself is almost completely enclosed by land, connecting to the Atlantic Ocean through the narrow Strait of Gibraltar between Spain and Morocco.<br><br>(2) The climate of the Mediterranean region is characterized by hot, dry summers and mild, rainy winters. This distinct climate pattern has influenced the development of specific vegetation types and agricultural practices throughout the region. Olive trees, grape vines, and citrus fruits are particularly well-suited to these conditions and have become staple crops, shaping both the landscape and the cuisine of Mediterranean countries.<br><br>(3) Geographically, the Mediterranean region features a diverse terrain. Coastal plains give way to mountain ranges such as the Alps in the north, the Atlas Mountains in the northwest, and the Taurus Mountains in the east. Between these mountains and the sea, fertile valleys support agriculture, while in some areas, particularly in North Africa, desert conditions prevail not far from the coast. Many islands dot the Mediterranean Sea, including major ones like Sicily, Sardinia, Corsica, Cyprus, and Crete.<br><br>(4) The Mediterranean coastline is highly irregular, creating numerous bays, gulfs, and peninsulas. This geographical feature has historically facilitated maritime trade and cultural exchange among different societies. Important peninsulas include the Iberian, Italian, and Balkan peninsulas in Europe, and the Anatolian Peninsula in Asia. These landforms have contributed to the development of distinct regional identities while still maintaining connections across the sea.<br><br>(5) Today, more than 20 countries border the Mediterranean Sea, each with its own cultural heritage influenced by this shared geographical setting. Despite political divisions, the Mediterranean region continues to function as an important zone of interaction. Environmental challenges, including water scarcity, coastal development pressures, and pollution, have become significant concerns for all Mediterranean countries, requiring cooperative efforts to ensure sustainable management of this historically significant and ecologically unique region.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct form: 'When I arrived at the station, the train _____.'",
+      "options": {
+        "A": "already left",
+        "B": "has already left",
+        "C": "had already left",
+        "D": "was already leaving"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the correct sentence:",
+      "options": {
+        "A": "If I would know the answer, I will tell you.",
+        "B": "If I know the answer, I would tell you.",
+        "C": "If I knew the answer, I would tell you.",
+        "D": "If I knew the answer, I will tell you."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence contains an error?",
+      "options": {
+        "A": "Neither John nor his brothers are going to the party.",
+        "B": "Either Mary or Susan is bringing the cake.",
+        "C": "Both the teacher and the students is excited about the trip.",
+        "D": "Not only the principal but also the teachers were impressed."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct option: 'She_____ here since 2015.'",
+      "options": {
+        "A": "lives",
+        "B": "is living",
+        "C": "has lived",
+        "D": "lived"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Select the grammatically correct sentence:",
+      "options": {
+        "A": "The book who I read last week was interesting.",
+        "B": "The book which I read last week was interesting.",
+        "C": "The book what I read last week was interesting.",
+        "D": "The book whose I read last week was interesting."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Choose the correct form: 'By the time we get there, the movie _____.'",
+      "options": {
+        "A": "will start",
+        "B": "would start",
+        "C": "will have started",
+        "D": "starts"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which sentence is in the correct passive voice? 'Someone cleans this room every day.'",
+      "options": {
+        "A": "This room is cleaned by someone every day.",
+        "B": "This room is being cleaned by someone every day.",
+        "C": "This room is clean every day.",
+        "D": "This room cleans every day."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct option: 'I wish I _____ how to swim.'",
+      "options": {
+        "A": "know",
+        "B": "knowing",
+        "C": "knew",
+        "D": "to know"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Select the sentence with the correct word order:",
+      "options": {
+        "A": "I know well very that neighborhood.",
+        "B": "I know very well that neighborhood.",
+        "C": "I know that neighborhood very well.",
+        "D": "I very well know that neighborhood."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct form: 'It's important that he _____ on time.'",
+      "options": {
+        "A": "arrives",
+        "B": "arrive",
+        "C": "will arrive",
+        "D": "arrived"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Which sentence contains a mistake?",
+      "options": {
+        "A": "She doesn't need to work tomorrow.",
+        "B": "I couldn't find my keys anywhere.",
+        "C": "We mustn't to be late for the meeting.",
+        "D": "They won't be able to attend the conference."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the correct comparative form: 'This exercise is _____ the previous one.'",
+      "options": {
+        "A": "more easier than",
+        "B": "easyer than",
+        "C": "more easy than",
+        "D": "easier than"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "A": "She told me that she is coming tomorrow.",
+        "B": "She told me that she was coming the next day.",
+        "C": "She told me that she will come tomorrow.",
+        "D": "She told me that she comes tomorrow."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "I would rather to stay at home tonight.",
+        "B": "I would rather staying at home tonight.",
+        "C": "I would rather stay at home tonight.",
+        "D": "I would rather stayed at home tonight."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the correct form: 'The concert _____ by the time we arrive.'",
+      "options": {
+        "A": "will finish",
+        "B": "finishes",
+        "C": "will have finished",
+        "D": "is finishing"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "What does the word 'message' mean in this context: 'I'll leave a message for him.'?",
+      "options": {
+        "A": "A written or verbal communication",
+        "B": "A massage treatment",
+        "C": "A newspaper article",
+        "D": "A warning sign"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 17,
+      "question": "Which is the best definition of 'kitchen'?",
+      "options": {
+        "A": "A place where food is stored",
+        "B": "A room where meals are eaten",
+        "C": "A room equipped for preparing and cooking food",
+        "D": "A place where dishes are washed"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 18,
+      "question": "What does 'effort' mean?",
+      "options": {
+        "A": "A period of time",
+        "B": "A strenuous attempt",
+        "C": "A natural talent",
+        "D": "An easy task"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct meaning of 'sometime':",
+      "options": {
+        "A": "At an unspecified point in time",
+        "B": "Immediately",
+        "C": "Never",
+        "D": "Always"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 20,
+      "question": "What does 'medical' relate to?",
+      "options": {
+        "A": "Money and finances",
+        "B": "Education and schools",
+        "C": "The treatment of illness and injuries",
+        "D": "Legal matters and courts"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 21,
+      "question": "The word 'instruct' is closest in meaning to:",
+      "options": {
+        "A": "confuse",
+        "B": "destroy",
+        "C": "teach",
+        "D": "question"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 22,
+      "question": "What does 'rather' mean in the sentence: 'I would rather stay at home'?",
+      "options": {
+        "A": "More likely",
+        "B": "Prefer to",
+        "C": "Have to",
+        "D": "Completely"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct definition of 'worthy':",
+      "options": {
+        "A": "Having adequate qualities or value",
+        "B": "Very expensive",
+        "C": "Completely useless",
+        "D": "Extremely heavy"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 24,
+      "question": "What does 'unknown' mean?",
+      "options": {
+        "A": "Famous and well-recognized",
+        "B": "Not identified or familiar",
+        "C": "Very important",
+        "D": "Extremely rare"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 25,
+      "question": "The word 'towards' indicates:",
+      "options": {
+        "A": "Away from a place or direction",
+        "B": "In the direction of",
+        "C": "Above something",
+        "D": "Inside something"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 26,
+      "question": "What does 'protect' mean?",
+      "options": {
+        "A": "To attack or harm",
+        "B": "To keep safe from harm or injury",
+        "C": "To destroy completely",
+        "D": "To ignore intentionally"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "The word 'conduct' as a verb means:",
+      "options": {
+        "A": "To behave in a particular way",
+        "B": "To build or construct",
+        "C": "To organize and direct",
+        "D": "To destroy or damage"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What is the meaning of 'interim'?",
+      "options": {
+        "A": "Permanent and unchanging",
+        "B": "Temporary or provisional",
+        "C": "Extremely urgent",
+        "D": "Very expensive"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "The verb 'infect' means:",
+      "options": {
+        "A": "To clean thoroughly",
+        "B": "To affect with a disease-causing organism",
+        "C": "To repair or fix",
+        "D": "To build or create"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "What does it mean to 'invest'?",
+      "options": {
+        "A": "To spend money with the expectation of profit",
+        "B": "To lose money deliberately",
+        "C": "To borrow money from someone",
+        "D": "To steal money or valuables"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Complete the sentence: 'I've been waiting for you _____ two hours.'",
+      "options": {
+        "A": "since",
+        "B": "during",
+        "C": "for",
+        "D": "while"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 32,
+      "question": "Choose the correct option: 'She _____ me a favor yesterday.'",
+      "options": {
+        "A": "made",
+        "B": "did",
+        "C": "gave",
+        "D": "took"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 33,
+      "question": "Select the correct phrasal verb: 'Could you _____ these figures for me?'",
+      "options": {
+        "A": "look on",
+        "B": "look through",
+        "C": "look after",
+        "D": "look over"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 34,
+      "question": "Choose the correct expression: 'The test was really difficult, but I passed with _____.'",
+      "options": {
+        "A": "flying colors",
+        "B": "blue moon",
+        "C": "heavy rain",
+        "D": "cold feet"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 35,
+      "question": "Complete the sentence: 'We need to find a solution _____ this problem.'",
+      "options": {
+        "A": "of",
+        "B": "to",
+        "C": "for",
+        "D": "with"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 36,
+      "question": "Select the correct option: 'I'm not very good _____ drawing.'",
+      "options": {
+        "A": "at",
+        "B": "in",
+        "C": "on",
+        "D": "with"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 37,
+      "question": "Choose the correct collocation: 'She always _____ attention to detail.'",
+      "options": {
+        "A": "makes",
+        "B": "takes",
+        "C": "pays",
+        "D": "gives"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 38,
+      "question": "Complete the sentence: 'The meeting was canceled _____ the bad weather.'",
+      "options": {
+        "A": "because",
+        "B": "despite",
+        "C": "due to",
+        "D": "even though"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 39,
+      "question": "Choose the correct expression: 'I'm really tired. I think I'll _____ early tonight.'",
+      "options": {
+        "A": "go to sleep",
+        "B": "go to bed",
+        "C": "go for sleep",
+        "D": "go in bed"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 40,
+      "question": "Select the correct form: 'Let's _____ a coffee before the meeting.'",
+      "options": {
+        "A": "drink",
+        "B": "take",
+        "C": "make",
+        "D": "have"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what connects the Mediterranean Sea to the Atlantic Ocean?",
+      "options": {
+        "A": "The Bosporus Strait",
+        "B": "The Strait of Gibraltar",
+        "C": "The Suez Canal",
+        "D": "The Dardanelles"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Based on paragraph 2, what characterizes the Mediterranean climate?",
+      "options": {
+        "A": "Hot, humid summers and cold winters",
+        "B": "Mild, rainy summers and cold, dry winters",
+        "C": "Hot, dry summers and mild, rainy winters",
+        "D": "Warm, wet weather year-round"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to the passage, which of the following is NOT mentioned as a major mountain range in the Mediterranean region?",
+      "options": {
+        "A": "The Alps",
+        "B": "The Andes",
+        "C": "The Atlas Mountains",
+        "D": "The Taurus Mountains"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to paragraph 3, which of the following is a major island in the Mediterranean Sea?",
+      "options": {
+        "A": "Madagascar",
+        "B": "Cyprus",
+        "C": "Bali",
+        "D": "Jamaica"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What geographical feature has facilitated maritime trade in the Mediterranean region according to paragraph 4?",
+      "options": {
+        "A": "The region's hot, dry climate",
+        "B": "The highly irregular coastline",
+        "C": "The presence of desert conditions",
+        "D": "The mountain ranges"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to the passage, approximately how many countries border the Mediterranean Sea?",
+      "options": {
+        "A": "More than 10",
+        "B": "More than 20",
+        "C": "More than 30",
+        "D": "More than 40"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Based on paragraph 5, what is NOT mentioned as an environmental challenge in the Mediterranean region?",
+      "options": {
+        "A": "Water scarcity",
+        "B": "Coastal development pressures",
+        "C": "Pollution",
+        "D": "Deforestation"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to the passage, what crops are particularly well-suited to the Mediterranean climate?",
+      "options": {
+        "A": "Rice, corn, and wheat",
+        "B": "Potatoes, carrots, and onions",
+        "C": "Olives, grapes, and citrus fruits",
+        "D": "Coffee, tea, and cocoa"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What does the passage suggest about the relationship between geography and culture in the Mediterranean region?",
+      "options": {
+        "A": "Geography has had no impact on cultural development",
+        "B": "The geographical setting has influenced cultural heritage across the region",
+        "C": "Cultural exchange has been limited due to geographical barriers",
+        "D": "All Mediterranean cultures are identical due to shared geography"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the main purpose of this passage?",
+      "options": {
+        "A": "To argue for environmental protection in the Mediterranean",
+        "B": "To provide an overview of the geography of the Mediterranean region",
+        "C": "To compare the Mediterranean region to other regions",
+        "D": "To explain the political conflicts in Mediterranean countries"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
