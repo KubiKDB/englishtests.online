@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The Arctic and Antarctic regions, located at the northernmost and southernmost parts of our planet respectively, are two of Earth's most extreme environments. Despite both being characterized by frigid temperatures and icy landscapes, these polar regions differ significantly in their geographical features. The Arctic is primarily a frozen ocean surrounded by continental landmasses and islands, while the Antarctic is a continent itself, covered by an immense ice sheet and surrounded entirely by the Southern Ocean.<br><br>(2) The Arctic region encompasses the area around the North Pole, including parts of Canada, Russia, the United States (Alaska), Norway, Sweden, Finland, and Greenland. Unlike its southern counterpart, the Arctic has no permanent land at its center, just sea ice that expands in winter and contracts in summer. This region is home to diverse wildlife including polar bears, seals, and various bird species, as well as indigenous human populations who have adapted to the harsh conditions over thousands of years. The temperature in the Arctic can range from around -40°C in winter to 10°C in summer in some areas.<br><br>(3) The Antarctic, centered on the South Pole, presents a starkly different geographical profile. It is the fifth-largest continent, with 98% of its land mass covered by ice averaging 1.9 kilometers in thickness. No indigenous human population exists in Antarctica; instead, the continent hosts researchers from various countries at scientific stations. The wildlife in Antarctica is primarily found in coastal areas and includes penguins, seals, and various marine species. Antarctic temperatures are significantly colder than the Arctic, with winter averages around -60°C and summer temperatures rarely rising above 0°C even in coastal areas.<br><br>(4) Both polar regions play crucial roles in Earth's climate system. The vast ice sheets reflect solar radiation back into space, helping to regulate global temperatures. As these regions warm due to climate change, the melting ice contributes to rising sea levels worldwide. The Arctic is warming at nearly twice the global average rate, leading to reduced sea ice coverage, which further accelerates warming as darker ocean water absorbs more solar radiation than reflective ice—a phenomenon known as the ice-albedo feedback loop.<br><br>(5) The governance of these regions also differs considerably. The Arctic is subject to the territorial claims and economic interests of the nations that border it, though international cooperation exists through the Arctic Council. Antarctica, however, is governed under the Antarctic Treaty System, which designates the continent as a scientific preserve and prohibits military activities, mineral mining, and territorial claims. This unique international agreement has fostered scientific collaboration in one of Earth's most remote and challenging environments, making Antarctica a model for global cooperation.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the sentence with the correct verb tense.",
+      "options": {
+        "A": "She has arrived yesterday.",
+        "B": "I am working here since 2010.",
+        "C": "They visited Paris last summer.",
+        "D": "We will finished the project tomorrow."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the correct comparative form.",
+      "options": {
+        "A": "This exercise is more easier than the last one.",
+        "B": "My apartment is more bigger than yours.",
+        "C": "Her job is more interesting than mine.",
+        "D": "That restaurant is more cheaper than this one."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence contains a grammatically correct question?",
+      "options": {
+        "A": "Where you are going?",
+        "B": "What time does the train leave?",
+        "C": "Why she is crying?",
+        "D": "How much costs it?"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the sentence with the correct modal verb usage.",
+      "options": {
+        "A": "You must to study harder for the exam.",
+        "B": "She can swimming very well.",
+        "C": "They might be late for the meeting.",
+        "D": "We would to help you if we could."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Select the sentence with the correct article usage.",
+      "options": {
+        "A": "I saw an interesting movie last night.",
+        "B": "She is the best student in an class.",
+        "C": "He bought a orange at the market.",
+        "D": "They live in the Europe."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which sentence uses the passive voice correctly?",
+      "options": {
+        "A": "The book was wrote by a famous author.",
+        "B": "The car is being repaired by the mechanic.",
+        "C": "The house is build last year.",
+        "D": "The letter has sending yesterday."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the sentence with the correct conditional form.",
+      "options": {
+        "A": "If I will see him, I will tell him the news.",
+        "B": "If it rains tomorrow, I would stay at home.",
+        "C": "If he had studied harder, he would have passed the exam.",
+        "D": "If I am you, I will accept the offer."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the sentence with the correct preposition.",
+      "options": {
+        "A": "I'm afraid from spiders.",
+        "B": "She's interested on photography.",
+        "C": "He's good at playing the guitar.",
+        "D": "We arrived to the station early."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence has the correct subject-verb agreement?",
+      "options": {
+        "A": "The news are not good today.",
+        "B": "Each of the students have a book.",
+        "C": "Neither of them are coming to the party.",
+        "D": "Economics is my favorite subject."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the sentence with the correct pronoun.",
+      "options": {
+        "A": "Between you and I, this is a secret.",
+        "B": "She gave the book to my friend and I.",
+        "C": "Him and me went to the cinema yesterday.",
+        "D": "The teacher asked my friend and me to help."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Select the sentence with the correct relative pronoun.",
+      "options": {
+        "A": "The man which lives next door is a doctor.",
+        "B": "The book who I'm reading is interesting.",
+        "C": "The house that they bought is very expensive.",
+        "D": "The woman who's car is red is my teacher."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence uses the present perfect correctly?",
+      "options": {
+        "A": "I have seen that movie last week.",
+        "B": "She has lived in London for three years.",
+        "C": "We have gone to Paris in 2018.",
+        "D": "They have ate lunch already."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the sentence with the correct word order.",
+      "options": {
+        "A": "I know where is the restaurant.",
+        "B": "Always I go to bed at 10 pm.",
+        "C": "She well speaks English.",
+        "D": "They never have been to Japan."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Select the sentence that correctly uses gerunds and infinitives.",
+      "options": {
+        "A": "I enjoy to swim in the ocean.",
+        "B": "She decided writing a novel.",
+        "C": "They want go to the party.",
+        "D": "He promised to call me later."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Which sentence uses the past continuous correctly?",
+      "options": {
+        "A": "I was cook dinner when the phone rang.",
+        "B": "She was reading a book when I arrived.",
+        "C": "They were ate lunch at 1 pm yesterday.",
+        "D": "He was drove to work when he saw the accident."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct word to complete the sentence: 'Can you _____ the difference between these two pictures?'",
+      "options": {
+        "A": "recognize",
+        "B": "know",
+        "C": "find",
+        "D": "look"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the correct phrasal verb: 'The meeting has been _____ until next week.'",
+      "options": {
+        "A": "put off",
+        "B": "put down",
+        "C": "put up",
+        "D": "put away"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Complete the sentence: 'If you _____ harder, you would get better results.'",
+      "options": {
+        "A": "will work",
+        "B": "would work",
+        "C": "worked",
+        "D": "had worked"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct expression: 'I'm really tired. I think I'll _____ tonight.'",
+      "options": {
+        "A": "go to bed early",
+        "B": "go to sleep early",
+        "C": "go to early bed",
+        "D": "go early to sleep"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the correct collocation: 'She _____ a mistake in her calculations.'",
+      "options": {
+        "A": "did",
+        "B": "made",
+        "C": "had",
+        "D": "took"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Complete the sentence: 'I need to _____ a decision about my future soon.'",
+      "options": {
+        "A": "do",
+        "B": "have",
+        "C": "make",
+        "D": "take"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct option: 'I don't feel well. I think I'm coming _____ with a cold.'",
+      "options": {
+        "A": "down",
+        "B": "up",
+        "C": "over",
+        "D": "through"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the correct preposition: 'She's very good _____ learning languages.'",
+      "options": {
+        "A": "in",
+        "B": "at",
+        "C": "with",
+        "D": "for"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Complete the sentence: 'You should _____ advantage of this opportunity.'",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "have",
+        "D": "take"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct connector: 'I wanted to go out; _____, it was raining heavily.'",
+      "options": {
+        "A": "therefore",
+        "B": "moreover",
+        "C": "however",
+        "D": "consequently"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the correct meaning of 'seat':",
+      "options": {
+        "A": "a place where one can sit",
+        "B": "a type of food",
+        "C": "a kind of vehicle",
+        "D": "a mathematical calculation"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Complete the sentence: 'I didn't _____ him at first because he had changed so much.'",
+      "options": {
+        "A": "break",
+        "B": "understand",
+        "C": "recognize",
+        "D": "treat"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Which sentence uses 'break' correctly?",
+      "options": {
+        "A": "We need to break this information into smaller parts.",
+        "B": "She breaks a new car every year.",
+        "C": "They break their homework last night.",
+        "D": "I break to work by bus."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Choose the sentence where 'understand' is used correctly:",
+      "options": {
+        "A": "I don't understand where is the problem.",
+        "B": "She understands how to fix the computer.",
+        "C": "They understand the bus to school yesterday.",
+        "D": "He doesn't understand never what I'm saying."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Complete the sentence: 'Regular exercise can help _____ your muscles.'",
+      "options": {
+        "A": "turn",
+        "B": "reach",
+        "C": "strengthen",
+        "D": "design"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Choose the sentence where 'avoid' is used correctly:",
+      "options": {
+        "A": "He avoided to talk about his problems.",
+        "B": "They avoid sugar in their diet.",
+        "C": "She avoids the book on the shelf.",
+        "D": "We avoided the success of the project."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Complete the sentence: 'I'm trying to _____ this math problem, but it's very difficult.'",
+      "options": {
+        "A": "solve",
+        "B": "turn",
+        "C": "reach",
+        "D": "bring"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "Which sentence uses 'treat' correctly?",
+      "options": {
+        "A": "The doctor will treat your illness.",
+        "B": "We treated the movie last night.",
+        "C": "She treats to work every day.",
+        "D": "They treat their success by hard work."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Choose the correct meaning of 'turn' in this sentence: 'It's your turn to wash the dishes.'",
+      "options": {
+        "A": "to rotate or move in a circular direction",
+        "B": "to change direction",
+        "C": "an opportunity or obligation that comes to a person in a regular sequence",
+        "D": "to transform or change"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Complete the sentence: 'She wants to _____ a new website for her business.'",
+      "options": {
+        "A": "last",
+        "B": "design",
+        "C": "believe",
+        "D": "bring"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Choose the sentence where 'invent' is used correctly:",
+      "options": {
+        "A": "Thomas Edison invented the light bulb.",
+        "B": "She invents to the party last Saturday.",
+        "C": "They invent their car in the garage.",
+        "D": "He invents the song on the radio."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Complete the sentence: 'I don't _____ in ghosts or supernatural phenomena.'",
+      "options": {
+        "A": "understand",
+        "B": "solve",
+        "C": "believe",
+        "D": "avoid"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Choose the correct meaning of 'last' in this sentence: 'How long did the meeting last?'",
+      "options": {
+        "A": "to be sufficient",
+        "B": "to continue to exist or function",
+        "C": "to be the final item",
+        "D": "to appear at the end"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Which sentence uses 'bring' correctly?",
+      "options": {
+        "A": "Can you bring me that book, please?",
+        "B": "She brings to school yesterday.",
+        "C": "They bring the meeting until tomorrow.",
+        "D": "He brings the email last week."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Complete the sentence: 'We need to _____ an agreement before the end of the day.'",
+      "options": {
+        "A": "solve",
+        "B": "treat",
+        "C": "reach",
+        "D": "strengthen"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to the passage, what is the main geographical difference between the Arctic and Antarctic?",
+      "options": {
+        "A": "The Arctic is colder than the Antarctic.",
+        "B": "The Arctic is a frozen ocean surrounded by land, while the Antarctic is a continent covered by ice.",
+        "C": "The Arctic has more diverse wildlife than the Antarctic.",
+        "D": "The Antarctic is larger than the Arctic."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Based on the passage, which statement is TRUE about the Arctic?",
+      "options": {
+        "A": "It is completely uninhabited by humans.",
+        "B": "It is a continent covered by an ice sheet.",
+        "C": "It includes parts of several countries including Russia and Canada.",
+        "D": "It has permanent land at the North Pole."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "What does the passage state about the Antarctic continent?",
+      "options": {
+        "A": "It has indigenous human populations.",
+        "B": "Only 50% of it is covered by ice.",
+        "C": "It is the third-largest continent on Earth.",
+        "D": "About 98% of it is covered by ice."
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "According to paragraph 4, how do the polar regions affect Earth's climate?",
+      "options": {
+        "A": "By producing oxygen for the atmosphere",
+        "B": "By reflecting solar radiation back into space",
+        "C": "By absorbing carbon dioxide from the atmosphere",
+        "D": "By regulating ocean currents"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "What is the ice-albedo feedback loop mentioned in the passage?",
+      "options": {
+        "A": "A process where melting ice leads to more warming because darker water absorbs more solar radiation",
+        "B": "A procedure used by scientists to measure ice thickness",
+        "C": "A natural cycle of ice formation and melting",
+        "D": "A method of preserving ice samples for research"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to the passage, how is Antarctica governed?",
+      "options": {
+        "A": "By the territorial claims of bordering nations",
+        "B": "By the United Nations",
+        "C": "By the Antarctic Treaty System",
+        "D": "By scientific research stations"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Which statement about temperatures in the polar regions is correct according to the passage?",
+      "options": {
+        "A": "The Arctic and Antarctic have similar temperature ranges.",
+        "B": "The Antarctic is significantly colder than the Arctic.",
+        "C": "Summer temperatures in the Antarctic regularly exceed 10°C.",
+        "D": "Winter temperatures in the Arctic rarely fall below -10°C."
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to the passage, what is prohibited in Antarctica under the Antarctic Treaty System?",
+      "options": {
+        "A": "Scientific research",
+        "B": "International cooperation",
+        "C": "Weather monitoring",
+        "D": "Mineral mining"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Based on the passage, which animal is mentioned as living in the Arctic but NOT in the Antarctic?",
+      "options": {
+        "A": "Seals",
+        "B": "Polar bears",
+        "C": "Marine species",
+        "D": "Penguins"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What does the passage suggest about climate change in the Arctic region?",
+      "options": {
+        "A": "It is occurring at a slower rate than the global average.",
+        "B": "It has no effect on sea ice coverage.",
+        "C": "It is occurring at nearly twice the global average rate.",
+        "D": "It only affects the summer temperatures."
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
