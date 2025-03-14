@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Earthquakes are natural events that occur when there is a sudden release of energy in the Earth's crust, creating seismic waves. Most earthquakes happen along fault lines, which are cracks in the Earth's surface where tectonic plates meet and move against each other. These tectonic plates are large sections of the Earth's crust that float on the semi-liquid layer beneath them. When these plates move, they can either slide past each other, collide, or pull apart, creating tension that builds up over time.<br><br>(2) The point where an earthquake originates beneath the Earth's surface is called the hypocenter, while the location directly above it on the surface is known as the epicenter. The energy released during an earthquake travels in waves, much like ripples on a pond when a stone is thrown into it. There are several types of seismic waves, including primary waves (P-waves), which are compression waves that move quickly through the Earth, and secondary waves (S-waves), which travel more slowly and cause more violent shaking.<br><br>(3) Scientists measure earthquakes using instruments called seismographs, which detect and record the movement of the ground during seismic events. The traditional seismograph consists of a heavy weight suspended from a frame; when the earth shakes, the frame moves while the weight tends to stay still due to inertia. Modern digital seismographs use electronic sensors to detect ground motion with greater precision. These instruments allow scientists to determine both the location and strength of earthquakes.<br><br>(4) The magnitude of an earthquake is commonly measured using the Richter scale, developed by Charles Richter in 1935, or the more modern moment magnitude scale, which has largely replaced it for measuring larger earthquakes. Both scales are logarithmic, meaning that each whole number increase represents a tenfold increase in the amplitude of the waves and approximately 31.6 times more energy released. For example, a magnitude 7.0 earthquake releases about 31.6 times more energy than a magnitude 6.0 earthquake and about 1,000 times more energy than a magnitude 5.0 earthquake.<br><br>(5) Another important measurement is the Modified Mercalli Intensity Scale, which describes the effects of an earthquake on people, structures, and the natural environment. Unlike magnitude scales, which measure the energy released, the intensity scale measures the damage and human impact of an earthquake, ranging from I (not felt) to XII (total destruction). This scale is particularly useful for assessing earthquakes that occurred before modern seismic instruments were available, as historical accounts of damage can be used to estimate intensity. Today, scientists combine data from various measurement systems to develop a complete understanding of earthquakes and their impacts.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "If I would know the answer, I will tell you.",
+        "B": "If I knew the answer, I would tell you.",
+        "C": "If I know the answer, I would tell you.",
+        "D": "If I would know the answer, I would tell you."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the grammatically correct sentence:",
+      "options": {
+        "A": "She has been working here since three years.",
+        "B": "She has been working here for three years.",
+        "C": "She has been working here during three years.",
+        "D": "She been working here for three years."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Choose the sentence with the correct verb form:",
+      "options": {
+        "A": "I going to the market yesterday.",
+        "B": "They didn't went to the party last night.",
+        "C": "She has eaten breakfast already.",
+        "D": "We will shopping tomorrow."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence uses the correct article?",
+      "options": {
+        "A": "I bought a apple at the store.",
+        "B": "She is an university student.",
+        "C": "He plays the guitar in a band.",
+        "D": "They visited an hospital yesterday."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Select the sentence with the correct pronoun:",
+      "options": {
+        "A": "Between you and I, the test was difficult.",
+        "B": "The teacher gave the books to my friend and I.",
+        "C": "The teacher gave the books to my friend and me.",
+        "D": "Me and my brother went to the movie."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Choose the grammatically correct sentence:",
+      "options": {
+        "A": "Neither of the students have finished their exams.",
+        "B": "Neither of the students has finished their exams.",
+        "C": "Neither of the students have finished his exam.",
+        "D": "Neither of the student has finished their exams."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which sentence shows the correct subject-verb agreement?",
+      "options": {
+        "A": "The committee are discussing the proposal.",
+        "B": "Each of the students have submitted their papers.",
+        "C": "A number of people was waiting outside.",
+        "D": "The team is preparing for the tournament."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the sentence with the correct preposition:",
+      "options": {
+        "A": "I'm interested on learning French.",
+        "B": "She arrived at Paris last week.",
+        "C": "We're waiting for the bus since an hour.",
+        "D": "He's been working at this company since 2020."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which of the following sentences uses the passive voice correctly?",
+      "options": {
+        "A": "The thief was caught by the police yesterday.",
+        "B": "The police caught by the thief yesterday.",
+        "C": "The thief is catching by the police yesterday.",
+        "D": "The thief been caught by the police yesterday."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the sentence with the correct comparative form:",
+      "options": {
+        "A": "This book is more better than the other one.",
+        "B": "She runs more faster than her brother.",
+        "C": "Their house is more bigger than ours.",
+        "D": "This exercise is more difficult than the previous one."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Select the sentence with the correct modal verb usage:",
+      "options": {
+        "A": "You must to attend the meeting tomorrow.",
+        "B": "She can to speak three languages fluently.",
+        "C": "We should finish this project by Friday.",
+        "D": "They must going to the doctor soon."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence uses the correct tense form?",
+      "options": {
+        "A": "I live in this city since 2015.",
+        "B": "She has visited Paris three times already.",
+        "C": "They are studying English since last year.",
+        "D": "We have finished the project yesterday."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the sentence with the correct punctuation:",
+      "options": {
+        "A": "After he finished, work he went home.",
+        "B": "After he finished work, he went home.",
+        "C": "After he finished work he, went home.",
+        "D": "After, he finished work he went home."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Select the sentence with the correct word order:",
+      "options": {
+        "A": "I know not what to do.",
+        "B": "Where you are going?",
+        "C": "She always is late for meetings.",
+        "D": "He rarely comes to class on time."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Which sentence uses the gerund form correctly?",
+      "options": {
+        "A": "I enjoy to swim in the ocean.",
+        "B": "She avoids to talk about politics.",
+        "C": "They suggested to visit the museum.",
+        "D": "He admitted stealing the money."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Complete the sentence: 'I don't think he's capable _____ solving this problem.'",
+      "options": {
+        "A": "of",
+        "B": "at",
+        "C": "for",
+        "D": "in"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct phrasal verb: 'Can you _____ the children while I'm out?'",
+      "options": {
+        "A": "look at",
+        "B": "look after",
+        "C": "look up",
+        "D": "look into"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the correct option to complete the sentence: 'She _____ a lot of money on clothes last month.'",
+      "options": {
+        "A": "spent",
+        "B": "paid",
+        "C": "cost",
+        "D": "took"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Complete the sentence: 'We need to _____ a decision before tomorrow.'",
+      "options": {
+        "A": "do",
+        "B": "take",
+        "C": "make",
+        "D": "have"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct collocation: 'He _____ a mistake in his calculations.'",
+      "options": {
+        "A": "did",
+        "B": "made",
+        "C": "took",
+        "D": "had"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the correct option: 'I'm _____ forward to seeing you next week.'",
+      "options": {
+        "A": "looking",
+        "B": "going",
+        "C": "coming",
+        "D": "getting"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Complete the sentence: 'Could you _____ me a favor and post this letter?'",
+      "options": {
+        "A": "make",
+        "B": "give",
+        "C": "do",
+        "D": "have"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct expression: 'It's raining heavily. I think we should _____ until it stops.'",
+      "options": {
+        "A": "hold up",
+        "B": "hold on",
+        "C": "hold in",
+        "D": "hold off"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Select the correct option: 'The medicine had no _____ on his condition.'",
+      "options": {
+        "A": "result",
+        "B": "outcome",
+        "C": "effect",
+        "D": "affect"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Complete the sentence: 'She _____ her mind about going to the party.'",
+      "options": {
+        "A": "changed",
+        "B": "altered",
+        "C": "modified",
+        "D": "switched"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Which sentence uses the word 'claim' correctly?",
+      "options": {
+        "A": "She claimed her lost bag from the airport office.",
+        "B": "They claim the weather every day.",
+        "C": "I claim on my chair reading a book.",
+        "D": "He claimed the table with a cloth."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "What does 'argument' mean in this sentence: 'They had a heated argument about politics'?",
+      "options": {
+        "A": "A friendly conversation",
+        "B": "A verbal disagreement",
+        "C": "A formal presentation",
+        "D": "A scientific experiment"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Choose the correct meaning of 'find' in this context: 'The police couldn't find any evidence.'",
+      "options": {
+        "A": "Create",
+        "B": "Invent",
+        "C": "Discover",
+        "D": "Build"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "Which sentence uses the word 'update' correctly?",
+      "options": {
+        "A": "I need to update my computer with the latest software.",
+        "B": "She update the milk in the refrigerator.",
+        "C": "They update to school by bus.",
+        "D": "He update the book on the shelf."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "What does 'divide' mean in this sentence: 'The teacher divided the class into four groups'?",
+      "options": {
+        "A": "To join or combine",
+        "B": "To separate into parts",
+        "C": "To remove completely",
+        "D": "To examine closely"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Choose the correct meaning of 'relate' in this context: 'How does this information relate to our project?'",
+      "options": {
+        "A": "To tell a story",
+        "B": "To have a connection with",
+        "C": "To explain in detail",
+        "D": "To translate into another language"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Which sentence uses the word 'forget' correctly?",
+      "options": {
+        "A": "I forget my keys at home this morning.",
+        "B": "She forget her umbrella when it started raining.",
+        "C": "Don't forget to call me when you arrive.",
+        "D": "They forget their homework on the desk."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "What does 'unite' mean in this sentence: 'The crisis united the country'?",
+      "options": {
+        "A": "To separate or divide",
+        "B": "To bring together",
+        "C": "To destroy completely",
+        "D": "To rebuild or reconstruct"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Choose the correct meaning of 'count' in this context: 'I can count on my friends for support.'",
+      "options": {
+        "A": "To calculate numbers",
+        "B": "To rely on",
+        "C": "To consider important",
+        "D": "To include in a total"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Which sentence uses the word 'tear' correctly?",
+      "options": {
+        "A": "She had tears in her eyes after watching the sad movie.",
+        "B": "He tear to the store yesterday.",
+        "C": "They tear a meeting last week.",
+        "D": "I tear my dinner at 7 PM."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What does 'intend' mean in this sentence: 'I intend to finish this project by Friday'?",
+      "options": {
+        "A": "To plan or have as a purpose",
+        "B": "To forget completely",
+        "C": "To avoid or prevent",
+        "D": "To start immediately"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "Choose the correct meaning of 'arrive' in this context: 'The train arrives at 3 PM.'",
+      "options": {
+        "A": "To depart or leave",
+        "B": "To reach a destination",
+        "C": "To miss a scheduled time",
+        "D": "To travel quickly"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Which sentence uses the word 'return' correctly?",
+      "options": {
+        "A": "I return my book to the library yesterday.",
+        "B": "She will return from her vacation next week.",
+        "C": "They return the meeting for Tuesday.",
+        "D": "He return with his car last night."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "What does 'difference' mean in this sentence: 'There's a big difference between the two proposals'?",
+      "options": {
+        "A": "A similarity or resemblance",
+        "B": "A point or way in which things are dissimilar",
+        "C": "An agreement or accord",
+        "D": "A conflict or argument"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Choose the correct meaning of 'reduce' in this context: 'We need to reduce our expenses.'",
+      "options": {
+        "A": "To increase or expand",
+        "B": "To make smaller in amount",
+        "C": "To avoid completely",
+        "D": "To organize better"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what causes earthquakes?",
+      "options": {
+        "A": "Volcanic eruptions",
+        "B": "Heavy rainfall",
+        "C": "Sudden release of energy in the Earth's crust",
+        "D": "Human activities"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Based on paragraph 2, what is the epicenter of an earthquake?",
+      "options": {
+        "A": "The point where the earthquake originates beneath the surface",
+        "B": "The location directly above the hypocenter on the surface",
+        "C": "The area where seismic waves first arrive",
+        "D": "The place where tectonic plates meet"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, how does a traditional seismograph work?",
+      "options": {
+        "A": "It uses electronic sensors to detect ground motion",
+        "B": "It measures the energy released during an earthquake",
+        "C": "It uses a heavy weight that stays still while the frame moves",
+        "D": "It records the time between P-waves and S-waves"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Based on paragraph 4, how much more energy does a magnitude 7.0 earthquake release compared to a magnitude 5.0 earthquake?",
+      "options": {
+        "A": "10 times more",
+        "B": "31.6 times more",
+        "C": "100 times more",
+        "D": "1,000 times more"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to paragraph 5, what does the Modified Mercalli Intensity Scale measure?",
+      "options": {
+        "A": "The energy released during an earthquake",
+        "B": "The movement of tectonic plates",
+        "C": "The effects and damage caused by an earthquake",
+        "D": "The depth of an earthquake's hypocenter"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "The word 'inertia' in paragraph 3 is closest in meaning to:",
+      "options": {
+        "A": "Movement",
+        "B": "Resistance to change in motion",
+        "C": "Weight",
+        "D": "Energy"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "Which statement is true about tectonic plates according to the passage?",
+      "options": {
+        "A": "They are fixed and don't move",
+        "B": "They float on a semi-liquid layer beneath the crust",
+        "C": "They can only be found in areas with frequent earthquakes",
+        "D": "They are created during earthquake events"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to the passage, why is the Mercalli scale useful for studying historical earthquakes?",
+      "options": {
+        "A": "It provides more accurate measurements than modern instruments",
+        "B": "It can be applied based on accounts of damage from past events",
+        "C": "It was developed before modern seismographs",
+        "D": "It is easier to understand than the Richter scale"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What can be inferred from the passage about P-waves and S-waves?",
+      "options": {
+        "A": "P-waves cause more damage than S-waves",
+        "B": "S-waves travel faster than P-waves",
+        "C": "P-waves arrive before S-waves during an earthquake",
+        "D": "S-waves can only travel through solid material"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the main purpose of this passage?",
+      "options": {
+        "A": "To warn people about earthquake dangers",
+        "B": "To explain how earthquakes form and how they are measured",
+        "C": "To describe the history of seismology",
+        "D": "To compare different types of earthquakes"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
+}
