@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) The Wright brothers, Orville and Wilbur, revolutionized transportation in the early 20th century with their invention of the first successful airplane. Before their achievement, humans had dreamed of flying for thousands of years, but all previous attempts had failed. The brothers, who ran a bicycle shop in Dayton, Ohio, combined mechanical skills with careful scientific observation to solve the complex problems of flight. Their determination and methodical approach ultimately changed how people and goods would move around the world.<br><br>(2) The brothers began their aviation experiments in 1899, studying birds and existing research on flight. Unlike many inventors of their time, they focused on three essential elements: lift, control, and power. They built and tested numerous gliders to understand how wings generate lift, developed a control system that allowed the pilot to balance and steer the aircraft, and designed a lightweight engine powerful enough for flight. After years of testing, they were ready to attempt powered flight.<br><br>(3) On December 17, 1903, near Kitty Hawk, North Carolina, the Wright brothers made history. Orville piloted the first powered flight, which lasted just 12 seconds and covered 120 feet. Though brief, this achievement proved that powered flight was possible. They made three more flights that day, with Wilbur's final flight covering 852 feet in 59 seconds. The age of aviation had begun, though many people initially doubted the reports of their success.<br><br>(4) In the years following their first flight, the Wright brothers continued to improve their designs. By 1905, they had developed the Wright Flyer III, which could stay airborne for up to 39 minutes and fly in circles and figure-eights. They secured patents for their inventions and began demonstrating their aircraft in Europe and America, finally gaining recognition for their achievement. Governments and businesses quickly recognized the potential of airplanes for military use, mail delivery, and eventually passenger transportation.<br><br>(5) The impact of the Wright brothers' invention on transportation cannot be overstated. Within decades, airplanes transformed from experimental machines into essential tools for global commerce and travel. Air travel shortened journeys that once took weeks or months to just hours, connecting distant parts of the world like never before. Today's massive aviation industry, with its worldwide network of flights carrying billions of passengers annually, began with those 12 seconds at Kitty Hawk. The Wright brothers' innovation fundamentally altered human mobility and helped create our interconnected modern world.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct form of the verb: 'If he _____ harder, he would have passed the exam.'",
+      "options": {
+        "A": "studies",
+        "B": "studied",
+        "C": "had studied",
+        "D": "would study"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the sentence with correct subject-verb agreement:",
+      "options": {
+        "A": "The news are very interesting today.",
+        "B": "Mathematics are my favorite subject.",
+        "C": "Each of the students have a different opinion.",
+        "D": "The committee has made its decision."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence contains a correctly used relative pronoun?",
+      "options": {
+        "A": "The man which lives next door is a doctor.",
+        "B": "The book who I bought yesterday is interesting.",
+        "C": "The woman whose car was stolen called the police.",
+        "D": "The dog whom barked all night kept me awake."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct preposition: 'He has been working here _____ May.'",
+      "options": {
+        "A": "for",
+        "B": "since",
+        "C": "from",
+        "D": "during"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Identify the sentence with the correct use of articles:",
+      "options": {
+        "A": "She is best student in our class.",
+        "B": "I had a dinner with my parents last night.",
+        "C": "He plays the piano every weekend.",
+        "D": "We saw movie at cinema yesterday."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Which sentence uses the present perfect tense correctly?",
+      "options": {
+        "A": "I have seen him yesterday at the mall.",
+        "B": "She has lived in Paris for five years now.",
+        "C": "We have went to the museum last month.",
+        "D": "They have finish their homework already."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Select the correct passive voice form: 'Someone stole my bicycle last week.'",
+      "options": {
+        "A": "My bicycle stolen last week.",
+        "B": "My bicycle was stealed last week.",
+        "C": "My bicycle was stolen last week.",
+        "D": "My bicycle has been stolen last week."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct comparative form: 'This exercise is _____ than the previous one.'",
+      "options": {
+        "A": "more easy",
+        "B": "easyer",
+        "C": "more easier",
+        "D": "easier"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence contains a correctly used modal verb?",
+      "options": {
+        "A": "She must to finish her project by Friday.",
+        "B": "You should studying for your exam.",
+        "C": "He can swim very well.",
+        "D": "They might to visit us next weekend."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Identify the sentence with the correct word order:",
+      "options": {
+        "A": "Always she arrives late for class.",
+        "B": "She always arrives late for class.",
+        "C": "She arrives always late for class.",
+        "D": "She arrives late always for class."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct form of reported speech: 'I am going to the store,' he said.",
+      "options": {
+        "A": "He said that he is going to the store.",
+        "B": "He said that he was going to the store.",
+        "C": "He said that he will go to the store.",
+        "D": "He said that he has gone to the store."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence uses the past perfect tense correctly?",
+      "options": {
+        "A": "After she had finished her homework, she watched TV.",
+        "B": "After she has finished her homework, she watched TV.",
+        "C": "After she had finish her homework, she watched TV.",
+        "D": "After she finished her homework, she had watched TV."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Select the sentence with correct use of the future continuous tense:",
+      "options": {
+        "A": "This time next week, I will flying to Paris.",
+        "B": "This time next week, I will be flying to Paris.",
+        "C": "This time next week, I flying to Paris.",
+        "D": "This time next week, I be flying to Paris."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the sentence with the correct conditional form:",
+      "options": {
+        "A": "If I win the lottery, I would buy a new house.",
+        "B": "If I will win the lottery, I will buy a new house.",
+        "C": "If I win the lottery, I will buy a new house.",
+        "D": "If I winning the lottery, I will buy a new house."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Identify the sentence with correct use of quantifiers:",
+      "options": {
+        "A": "There is few people waiting outside.",
+        "B": "She doesn't have many money left.",
+        "C": "How much students are in your class?",
+        "D": "I don't have much free time these days."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct phrasal verb: 'I need to _____ my application before the deadline.'",
+      "options": {
+        "A": "fill out",
+        "B": "fill up",
+        "C": "fill in",
+        "D": "fill down"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the appropriate expression: 'Let's meet at 8 o'clock, _____ ?'",
+      "options": {
+        "A": "will we",
+        "B": "shall we",
+        "C": "don't we",
+        "D": "aren't we"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct collocation: 'He always _____ a shower in the morning.'",
+      "options": {
+        "A": "does",
+        "B": "makes",
+        "C": "takes",
+        "D": "has"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Which word best completes this sentence? 'The movie was so boring that I fell _____ during it.'",
+      "options": {
+        "A": "asleep",
+        "B": "sleeping",
+        "C": "sleepy",
+        "D": "sleep"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Select the best connector for this sentence: 'I wanted to go to the concert; _____, I didn't have enough money for a ticket.'",
+      "options": {
+        "A": "therefore",
+        "B": "however",
+        "C": "furthermore",
+        "D": "meanwhile"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Choose the correct expression: 'I'm not sure if I'll pass the exam. It _____ on how much I study.'",
+      "options": {
+        "A": "works out",
+        "B": "comes down",
+        "C": "depends",
+        "D": "matters"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Which phrase best completes this sentence? 'The new restaurant is very popular, so you should _____ a table in advance.'",
+      "options": {
+        "A": "book",
+        "B": "order",
+        "C": "reserve",
+        "D": "arrange"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the correct form: 'If you want to improve your English, you need to _____ regularly.'",
+      "options": {
+        "A": "practice",
+        "B": "train",
+        "C": "rehearse",
+        "D": "perform"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct idiomatic expression: 'Learning a new language is not easy; you need to _____ .'",
+      "options": {
+        "A": "hit the roof",
+        "B": "break a leg",
+        "C": "keep your chin up",
+        "D": "break the ice"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Which option best completes this sentence? 'Sarah _____ a lot of time preparing for her presentation.'",
+      "options": {
+        "A": "spent",
+        "B": "passed",
+        "C": "made",
+        "D": "took"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Which sentence uses the word 'driving' correctly?",
+      "options": {
+        "A": "They are driving to visit their grandparents this weekend.",
+        "B": "She is driving a book about car maintenance.",
+        "C": "The children driving in the park every afternoon.",
+        "D": "He driving his new car yesterday."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "What does the verb 'endure' mean?",
+      "options": {
+        "A": "To create or produce something",
+        "B": "To tolerate or survive a difficult situation",
+        "C": "To move quickly from one place to another",
+        "D": "To understand something completely"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Choose the correct definition of 'mystery':",
+      "options": {
+        "A": "Something that is clearly understood",
+        "B": "A type of historical document",
+        "C": "Something difficult or impossible to understand or explain",
+        "D": "A mathematical equation"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "What does 'guidance' refer to?",
+      "options": {
+        "A": "A strong opinion about something",
+        "B": "Advice or information aimed at resolving a problem",
+        "C": "A formal written agreement",
+        "D": "A difficult situation or problem"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Which sentence uses 'percent' correctly?",
+      "options": {
+        "A": "I need to percent my homework to the teacher.",
+        "B": "Only fifteen percent of the students passed the test.",
+        "C": "She percent her coffee with milk and sugar.",
+        "D": "They percent to the cinema every weekend."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "What does 'utility' most commonly refer to?",
+      "options": {
+        "A": "Something that is useful or designed for use",
+        "B": "A type of musical instrument",
+        "C": "A legal document",
+        "D": "A specific part of a computer"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Choose the correct definition of 'personal':",
+      "options": {
+        "A": "Related to a person's job or profession",
+        "B": "Concerning or affecting a particular person",
+        "C": "Available to the general public",
+        "D": "Very formal or official"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "What does 'portion' refer to?",
+      "options": {
+        "A": "A complete object or item",
+        "B": "A part or share of something larger",
+        "C": "A specific type of container",
+        "D": "A way of organizing information"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Which sentence uses 'pressure' correctly?",
+      "options": {
+        "A": "The doctor pressure her temperature every day.",
+        "B": "I need to pressure my clothes before the interview.",
+        "C": "Students often feel pressure before exams.",
+        "D": "They pressure a new car last month."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "What is a 'product'?",
+      "options": {
+        "A": "A person who teaches in a school",
+        "B": "Something that is made to be sold",
+        "C": "A place where people live",
+        "D": "A type of transportation"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Which sentence uses 'injured' correctly?",
+      "options": {
+        "A": "She injured a new dress for the party.",
+        "B": "He injured his ankle while playing football.",
+        "C": "They injured their house with modern furniture.",
+        "D": "I injured a letter to my friend yesterday."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "What does 'husband' refer to?",
+      "options": {
+        "A": "A male parent of a child",
+        "B": "A married man in relation to his spouse",
+        "C": "A man who is engaged to be married",
+        "D": "A male relative"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Choose the sentence that uses 'monthly' correctly:",
+      "options": {
+        "A": "She monthly visited her grandmother yesterday.",
+        "B": "The bill must be paid on a monthly basis.",
+        "C": "They monthly to school by bus.",
+        "D": "He monthly a new computer last week."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "What does the verb 'consist' mean in this sentence: 'The committee consists of ten members.'?",
+      "options": {
+        "A": "To argue or disagree",
+        "B": "To be made up of",
+        "C": "To meet regularly",
+        "D": "To decide or determine"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Which sentence uses 'comfort' correctly?",
+      "options": {
+        "A": "The mother tried to comfort her crying baby.",
+        "B": "I need to comfort this letter immediately.",
+        "C": "They comfort to the airport by taxi.",
+        "D": "She comfort a delicious meal for her guests."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what was the Wright brothers' profession before they became famous?",
+      "options": {
+        "A": "Engineers",
+        "B": "Teachers",
+        "C": "Bicycle shop owners",
+        "D": "Scientists"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "According to paragraph 2, what three elements did the Wright brothers focus on in their aviation experiments?",
+      "options": {
+        "A": "Speed, altitude, and distance",
+        "B": "Lift, control, and power",
+        "C": "Design, weight, and materials",
+        "D": "Navigation, safety, and fuel efficiency"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "When did the Wright brothers make their first successful powered flight?",
+      "options": {
+        "A": "December 17, 1903",
+        "B": "January 1, 1900",
+        "C": "July 4, 1905",
+        "D": "October 15, 1899"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "How long did the first powered flight last?",
+      "options": {
+        "A": "59 seconds",
+        "B": "39 minutes",
+        "C": "120 seconds",
+        "D": "12 seconds"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to paragraph 4, what was the name of the improved aircraft the Wright brothers developed by 1905?",
+      "options": {
+        "A": "The Flying Machine",
+        "B": "Wright Glider",
+        "C": "Wright Flyer III",
+        "D": "Kitty Hawk Flyer"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What helped the Wright brothers gain recognition for their achievement?",
+      "options": {
+        "A": "Publishing scientific papers",
+        "B": "Winning a government competition",
+        "C": "Demonstrating their aircraft in Europe and America",
+        "D": "Selling their patents to major companies"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "According to the passage, how did airplanes affect transportation?",
+      "options": {
+        "A": "They made transportation more expensive",
+        "B": "They shortened journey times significantly",
+        "C": "They replaced trains completely",
+        "D": "They were used only for military purposes"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What was the initial reaction of many people to reports of the Wright brothers' success?",
+      "options": {
+        "A": "Immediate celebration",
+        "B": "Government funding",
+        "C": "Skepticism",
+        "D": "Scientific analysis"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "According to the passage, what was one of the first practical uses recognized for airplanes?",
+      "options": {
+        "A": "Tourism",
+        "B": "Scientific research",
+        "C": "Mail delivery",
+        "D": "Photography"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "What is the main idea of paragraph 5?",
+      "options": {
+        "A": "The Wright brothers became wealthy from their invention",
+        "B": "Modern airplanes are much better than the Wright brothers' design",
+        "C": "Air travel has had a profound impact on global transportation",
+        "D": "The aviation industry employs millions of people worldwide"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
