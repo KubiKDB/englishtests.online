@@ -1,0 +1,605 @@
+{
+  "passage": "<br>(1) Taxation is a key tool that governments use to manage their economies. When a government raises taxes, it collects more money from individuals and businesses. This additional revenue can be used to fund public services such as healthcare, education, and infrastructure. Higher taxes may also help reduce government debt or decrease budget deficits. However, increased taxation typically means that people have less money to spend on goods and services, which can slow down economic growth in the short term.<br><br>(2) When taxes are lowered, people and businesses have more money available to spend and invest. This often leads to increased consumer spending, which can stimulate economic growth and job creation. Businesses may use their tax savings to expand operations, hire more employees, or increase wages. Lower taxes can also attract foreign investment and encourage entrepreneurship. Tax cuts are therefore often implemented during economic downturns to help revive struggling economies.<br><br>(3) The effects of tax changes can vary significantly depending on which taxes are modified. Income tax changes directly affect how much money workers take home, while changes to sales taxes influence consumer purchasing decisions. Corporate tax adjustments impact business operations and investment choices. Property taxes affect housing markets and local government revenues. Each type of tax change produces different economic outcomes and affects various groups of people in different ways.<br><br>(4) The timing of tax changes also matters greatly. Tax increases during strong economic growth periods may help prevent inflation without severely hampering the economy. Conversely, tax increases during recessions can deepen economic problems by further reducing consumer spending when the economy is already struggling. Similarly, tax cuts during economic booms might overstimulate the economy and lead to inflation, while tax reductions during downturns might provide the necessary boost to economic activity.<br><br>(5) There is ongoing debate among economists about the overall impact of tax policies. Some argue that lower taxes always lead to economic growth, while others maintain that reasonable taxation is necessary to fund essential services that support long-term prosperity. Most experts agree that the effectiveness of tax changes depends on many factors, including the current economic situation, which taxes are changed, how the changes are implemented, and how government spending is adjusted in response to tax revenue changes.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the grammatically correct sentence:",
+      "options": {
+        "A": "She have been studying English for two years.",
+        "B": "She has been studying English for two years.",
+        "C": "She having been studying English for two years.",
+        "D": "She been studying English for two years."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the correct form of the verb:",
+      "options": {
+        "A": "If it rains tomorrow, we stay at home.",
+        "B": "If it rains tomorrow, we staying at home.",
+        "C": "If it rains tomorrow, we will stay at home.",
+        "D": "If it rains tomorrow, we would stay at home."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "I didn't saw him yesterday.",
+        "B": "I didn't seen him yesterday.",
+        "C": "I didn't seeing him yesterday.",
+        "D": "I didn't see him yesterday."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Select the correct passive form:",
+      "options": {
+        "A": "The house was build last year.",
+        "B": "The house was built last year.",
+        "C": "The house were built last year.",
+        "D": "The house is built last year."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct question form:",
+      "options": {
+        "A": "Where you are going?",
+        "B": "Where are you going?",
+        "C": "Where going you are?",
+        "D": "Where you going?"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Select the correct sentence:",
+      "options": {
+        "A": "She's not enough tall to reach the shelf.",
+        "B": "She's not tall enough to reach the shelf.",
+        "C": "She's not too tall to reach the shelf.",
+        "D": "She's enough not tall to reach the shelf."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct form:",
+      "options": {
+        "A": "I've known him since five years.",
+        "B": "I've known him for five years.",
+        "C": "I've known him during five years.",
+        "D": "I've known him by five years."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "He made me to do it.",
+        "B": "He made me doing it.",
+        "C": "He made me do it.",
+        "D": "He made me for do it."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Select the correct form of reported speech:",
+      "options": {
+        "A": "She said that she is happy.",
+        "B": "She said that she was happy.",
+        "C": "She said that she be happy.",
+        "D": "She said that she were happy."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "A": "I go usually to the gym on Fridays.",
+        "B": "I usually go to the gym on Fridays.",
+        "C": "I go to the gym usually on Fridays.",
+        "D": "Usually I go to the gym on Fridays."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Select the correct comparative form:",
+      "options": {
+        "A": "This exercise is more easier than the last one.",
+        "B": "This exercise is easyer than the last one.",
+        "C": "This exercise is more easy than the last one.",
+        "D": "This exercise is easier than the last one."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Which is grammatically correct?",
+      "options": {
+        "A": "When I will arrive, I will call you.",
+        "B": "When I arrive, I will call you.",
+        "C": "When I arrived, I will call you.",
+        "D": "When I arriving, I will call you."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "A": "If I were you, I will accept the offer.",
+        "B": "If I was you, I would accept the offer.",
+        "C": "If I were you, I would accept the offer.",
+        "D": "If I am you, I would accept the offer."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Select the correct form:",
+      "options": {
+        "A": "I'm looking forward to see you.",
+        "B": "I'm looking forward to seeing you.",
+        "C": "I'm looking forward for seeing you.",
+        "D": "I'm looking forward seeing you."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "You should to visit this museum.",
+        "B": "You should visiting this museum.",
+        "C": "You should visit this museum.",
+        "D": "You should visit to this museum."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Complete the sentence: 'He works hard ___ he can save money for a new car.'",
+      "options": {
+        "A": "so that",
+        "B": "because of",
+        "C": "even though",
+        "D": "unless"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct phrase: 'I'm not sure ___ to believe him or not.'",
+      "options": {
+        "A": "if",
+        "B": "whether",
+        "C": "that",
+        "D": "what"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Select the correct phrase: 'She ___ her keys and couldn't get into her apartment.'",
+      "options": {
+        "A": "missed",
+        "B": "failed",
+        "C": "lost",
+        "D": "forgot"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Complete the sentence: 'I'd rather ___ at home than go to the party.'",
+      "options": {
+        "A": "stay",
+        "B": "staying",
+        "C": "to stay",
+        "D": "stayed"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct phrase: 'It's no use ___ about the past.'",
+      "options": {
+        "A": "to worry",
+        "B": "worry",
+        "C": "worried",
+        "D": "worrying"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the correct option: 'I wish I ___ how to swim when I was younger.'",
+      "options": {
+        "A": "learned",
+        "B": "had learned",
+        "C": "would learn",
+        "D": "have learned"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Complete the sentence: 'She ___ me not to be late for the meeting.'",
+      "options": {
+        "A": "said",
+        "B": "told",
+        "C": "spoke",
+        "D": "talked"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Choose the correct option: 'The museum is open ___ Monday ___ Friday.'",
+      "options": {
+        "A": "from / to",
+        "B": "from / until",
+        "C": "since / until",
+        "D": "between / and"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Select the correct phrase: 'You ___ your homework before watching TV.'",
+      "options": {
+        "A": "might finish",
+        "B": "could finish",
+        "C": "would finish",
+        "D": "should finish"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Complete the sentence: 'If only I ___ more time to finish this project.'",
+      "options": {
+        "A": "have",
+        "B": "had",
+        "C": "would have",
+        "D": "will have"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "What does 'youthful' mean?",
+      "options": {
+        "A": "childish and immature",
+        "B": "characteristic of or relating to youth; young-looking",
+        "C": "very old and wise",
+        "D": "middle-aged"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Choose the meaning of 'express' in this sentence: 'She couldn't express her feelings clearly.'",
+      "options": {
+        "A": "to hide",
+        "B": "to communicate or convey",
+        "C": "to create",
+        "D": "to forget"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "What is a 'crystal'?",
+      "options": {
+        "A": "a type of metal",
+        "B": "a clear, transparent mineral or glass",
+        "C": "a kind of plant",
+        "D": "a musical instrument"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "What does 'optical' relate to?",
+      "options": {
+        "A": "hearing",
+        "B": "taste",
+        "C": "vision or sight",
+        "D": "smell"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Select the correct meaning of 'reading' in this context: 'My reading of the situation is that we need more time.'",
+      "options": {
+        "A": "looking at a book",
+        "B": "understanding or interpretation",
+        "C": "speaking aloud",
+        "D": "studying"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "What does 'average' mean?",
+      "options": {
+        "A": "exceptionally good",
+        "B": "typical or normal",
+        "C": "very poor",
+        "D": "the highest value"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Choose the meaning of 'supreme' in this context: 'The supreme court made its final decision.'",
+      "options": {
+        "A": "highest in authority or rank",
+        "B": "very angry",
+        "C": "extremely friendly",
+        "D": "most beautiful"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "What does it mean to 'enquire'?",
+      "options": {
+        "A": "to answer",
+        "B": "to demand",
+        "C": "to ask for information",
+        "D": "to explain"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "What is 'reality'?",
+      "options": {
+        "A": "a dream or fantasy",
+        "B": "the state of things as they actually exist",
+        "C": "a television show",
+        "D": "happiness"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Choose the meaning of 'content' in this sentence: 'The content of the book was very interesting.'",
+      "options": {
+        "A": "the cover",
+        "B": "the size",
+        "C": "the material or information contained within something",
+        "D": "the author"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "What does 'survive' mean?",
+      "options": {
+        "A": "to die",
+        "B": "to continue to live or exist despite difficulty",
+        "C": "to grow quickly",
+        "D": "to become famous"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "What does 'ongoing' describe?",
+      "options": {
+        "A": "something that has stopped",
+        "B": "something that is continuing or still in progress",
+        "C": "something that happens only once",
+        "D": "something from the past"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Choose the meaning of 'indicate' in this context: 'The arrow indicates which way to go.'",
+      "options": {
+        "A": "to hide",
+        "B": "to point out or show",
+        "C": "to create",
+        "D": "to remove"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "What does it mean to 'assure' someone?",
+      "options": {
+        "A": "to make someone worried",
+        "B": "to make someone feel certain or confident about something",
+        "C": "to make someone angry",
+        "D": "to make someone leave"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "What are 'affairs' in this context: 'She manages the financial affairs of the company.'",
+      "options": {
+        "A": "parties and celebrations",
+        "B": "business or financial matters",
+        "C": "employees",
+        "D": "building and facilities"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, what can higher taxes be used for?",
+      "options": {
+        "A": "To increase consumer spending",
+        "B": "To fund public services and reduce government debt",
+        "C": "To slow down economic growth permanently",
+        "D": "To attract foreign investment"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "Based on paragraph 2, what is a potential benefit of lowering taxes?",
+      "options": {
+        "A": "Increased government revenue",
+        "B": "Reduced consumer spending",
+        "C": "Stimulated economic growth and job creation",
+        "D": "Lower foreign investment"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 3, how do different types of tax changes affect the economy?",
+      "options": {
+        "A": "All tax changes have the same effect",
+        "B": "Only income tax changes have significant effects",
+        "C": "Different types of tax changes produce different economic outcomes",
+        "D": "Tax changes have no effect on the economy"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Based on paragraph 4, when might tax increases be less harmful to the economy?",
+      "options": {
+        "A": "During strong economic growth periods",
+        "B": "During recessions",
+        "C": "When inflation is already high",
+        "D": "They are always equally harmful"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "According to paragraph 4, what might happen if taxes are cut during economic booms?",
+      "options": {
+        "A": "The economy might slow down",
+        "B": "Government debt will decrease",
+        "C": "It might lead to inflation",
+        "D": "Unemployment will increase"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "Based on paragraph 5, which statement accurately reflects economists' views on taxation?",
+      "options": {
+        "A": "All economists agree that lower taxes always lead to growth",
+        "B": "All economists believe higher taxes are always better",
+        "C": "There is debate about the impact of tax policies",
+        "D": "Economists have no opinions on taxation"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "What is the main purpose of this passage?",
+      "options": {
+        "A": "To argue that taxes should always be lowered",
+        "B": "To explain how tax changes affect the economy in different contexts",
+        "C": "To criticize government taxation policies",
+        "D": "To explain how to avoid paying taxes"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "According to the passage, what factors determine the effectiveness of tax changes?",
+      "options": {
+        "A": "Only the current economic situation",
+        "B": "Only which taxes are changed",
+        "C": "Multiple factors including economic situation, which taxes are changed, and government spending",
+        "D": "Only how government spending is adjusted"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What does the passage suggest about the relationship between taxes and government services?",
+      "options": {
+        "A": "Government services are not related to taxation",
+        "B": "Some level of taxation is necessary to fund essential services",
+        "C": "Government services should be eliminated to lower taxes",
+        "D": "Higher taxes always lead to better government services"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "Based on the passage, which statement is true about the timing of tax changes?",
+      "options": {
+        "A": "Timing does not matter when implementing tax changes",
+        "B": "Tax increases should always be implemented during recessions",
+        "C": "The economic context when tax changes are implemented affects their impact",
+        "D": "Tax cuts should never be implemented during economic downturns"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    }
+  ]
+}
