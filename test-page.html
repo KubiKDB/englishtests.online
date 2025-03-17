@@ -117,57 +117,83 @@
         .home-button:hover .home-icon {
             fill: #2980b9;
         }
-
         
-    /* Footer Styling */
-    .footer {
-        background-color: #ffffff;
-        color: #000000;
-        text-align: bottom;
-        padding: 5px;
-        margin-top: 50px;
-/*         width: 100%; */
-        max-width: 800px;
-        flex-shrink: 0;
-    }
-    
-    .footer-content {
-        max-width: 600px;
-        margin: 0 auto;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-    }
-    
-    .footer p {
-        margin: 5px 0;
-        font-size: 1.1em;
-        font-weight: 300;
-    }
-    
-    .footer-email {
-        color: #3498db; /* blue color for the email link */
-        text-decoration: none;
-        transition: color 0.3s ease;
-    }
-    
-    .footer-email:hover {
-        color: #2980b9; /* darker blue on hover */
-        text-decoration: underline;
-    }
-    
-    .footer-spacer {
-        height: 30px;
-        width: 100%;
-    }
-    
-    .footer-made {
-        margin-top: 10px;
-    }
-    
-    .footer-maker {
-        font-size: 1.3em;
-    }
+        /* Footer Styling */
+        .footer {
+            background-color: #ffffff;
+            color: #000000;
+            text-align: bottom;
+            padding: 5px;
+            margin-top: 50px;
+    /*         width: 100%; */
+            max-width: 800px;
+            flex-shrink: 0;
+        }
+        
+        .footer-content {
+            max-width: 600px;
+            margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        
+        .footer p {
+            margin: 5px 0;
+            font-size: 1.1em;
+            font-weight: 300;
+        }
+        
+        .footer-email {
+            color: #3498db; /* blue color for the email link */
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+        
+        .footer-email:hover {
+            color: #2980b9; /* darker blue on hover */
+            text-decoration: underline;
+        }
+        
+        .footer-spacer {
+            height: 30px;
+            width: 100%;
+        }
+        
+        .footer-made {
+            margin-top: 10px;
+        }
+        
+        .footer-maker {
+            font-size: 1.3em;
+        }
+
+        /* Progress bar styles */
+        .score-display {
+            font-size: 18px;
+            font-weight: bold;
+            text-align: center;
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #e9f7ef;
+            border-radius: 5px;
+        }
+        
+        .progress-container {
+            margin-top: 10px;
+            width: 100%;
+            background-color: #f1f1f1;
+            border-radius: 5px;
+        }
+        
+        .progress-bar {
+            height: 24px;
+            border-radius: 5px;
+            background-color: #4CAF50;
+            text-align: center;
+            line-height: 24px;
+            color: white;
+        }
     </style>
 </head>
 <body>
@@ -185,6 +211,15 @@
         </a>
     </div>
     <div id="passageContainer"></div> <form id="quizForm"></form>
+    
+    <!-- Adding score display container -->
+    <div class="score-display" id="scoreDisplay" style="display: none;">
+        <div>Your Score: <span id="scoreValue">0</span> / <span id="totalQuestions">0</span></div>
+        <div class="progress-container">
+            <div class="progress-bar" id="progressBar" style="width: 0%">0%</div>
+        </div>
+    </div>
+    
     <button type="submit" class="submit-btn" id="submitBtn">Submit</button>
     <div id="result" class="result"></div>
     <script>
@@ -267,6 +302,28 @@
 
                     resultText += `<p><strong>Your Score: ${score} / ${total}</strong></p>`;
                     document.getElementById("result").innerHTML = resultText;
+                    
+                    // Show score display
+                    const scoreDisplay = document.getElementById("scoreDisplay");
+                    scoreDisplay.style.display = "block";
+                    document.getElementById("scoreValue").textContent = score;
+                    document.getElementById("totalQuestions").textContent = total;
+                    
+                    // Update progress bar
+                    const percentage = Math.round((score / total) * 100);
+                    const progressBar = document.getElementById("progressBar");
+                    progressBar.style.width = `${percentage}%`;
+                    progressBar.textContent = `${percentage}%`;
+                    
+                    // Color code the progress bar
+                    if (score < 30) {
+                        progressBar.style.backgroundColor = "#dc3545"; // Red
+                    } else if (score < 43) {
+                        progressBar.style.backgroundColor = "#ffc107"; // Yellow
+                    } else {
+                        progressBar.style.backgroundColor = "#28a745"; // Green
+                    }
+                    
                     // Save the score in localStorage
                     // Get the current test level from URL
                     const urlParams = new URLSearchParams(window.location.search);
