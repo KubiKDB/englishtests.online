@@ -3,7 +3,7 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which verb form correctly completes this sentence: 'She _____ to school every day.'",
+      "question": "Which verb form correctly completes this sentence: 'Maria _____ to school every day.'",
       "options": {
         "A": "go",
         "B": "goes",
@@ -27,7 +27,7 @@
     },
     {
       "id": 3,
-      "question": "Select the correct preposition: 'The book is _____ the table.'",
+      "question": "Select the correct preposition: 'The pens are _____ the table.'",
       "options": {
         "A": "on",
         "B": "in",
@@ -113,8 +113,8 @@
       "id": 10,
       "question": "Select the correct verb tense: 'Yesterday, I _____ to the store.'",
       "options": {
-        "A": "go",
-        "B": "goes",
+        "A": "gone",
+        "B": "did go",
         "C": "going",
         "D": "went"
       },
@@ -149,10 +149,10 @@
       "id": 13,
       "question": "Select the correct comparative form: 'This book is _____ than that one.'",
       "options": {
-        "A": "big",
-        "B": "bigger",
-        "C": "biggest",
-        "D": "more big"
+        "A": "interesting",
+        "B": "more interesting",
+        "C": "much interesting",
+        "D": "interested"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -173,7 +173,7 @@
       "id": 15,
       "question": "Select the correct modal verb: 'You _____ brush your teeth every day.'",
       "options": {
-        "A": "can",
+        "A": "ought",
         "B": "would",
         "C": "should",
         "D": "might"
@@ -197,7 +197,7 @@
       "id": 17,
       "question": "Which word means 'not cold'?",
       "options": {
-        "A": "hot",
+        "A": "soft",
         "B": "warm",
         "C": "cool",
         "D": "wet"
@@ -211,7 +211,7 @@
       "options": {
         "A": "goed",
         "B": "going",
-        "C": "gone",
+        "C": "goes",
         "D": "went"
       },
       "correct_answer": "D",
@@ -303,12 +303,12 @@
     },
     {
       "id": 26,
-      "question": "Which phrase refers to a time before now?",
+      "question": "Which phrase refers to a time before?",
       "options": {
-        "A": "next week",
+        "A": "today",
         "B": "tomorrow",
         "C": "in the future",
-        "D": "in the past"
+        "D": "yesterday"
       },
       "correct_answer": "D",
       "category": "Vocabulary"
@@ -524,7 +524,7 @@
         "A": "In the stamens",
         "B": "In the petals",
         "C": "In the sepals",
-        "D": "In the ovary part of the pistil"
+        "D": "In the pistil"
       },
       "correct_answer": "D",
       "category": "Reading"
@@ -581,7 +581,7 @@
       "id": 49,
       "question": "What helps move pollen from one flower to another?",
       "options": {
-        "A": "The pistil",
+        "A": "The pistil and the petal",
         "B": "The stamens",
         "C": "Insects and birds",
         "D": "The sepals"
@@ -593,8 +593,8 @@
       "id": 50,
       "question": "What is the main purpose of all parts of a flower according to the passage?",
       "options": {
-        "A": "To look beautiful",
-        "B": "To help the plant make new seeds",
+        "A": "To look beautiful and attractive",
+        "B": "To help it make new seeds",
         "C": "To attract animals",
         "D": "To grow into fruit"
       },
