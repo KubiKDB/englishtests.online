@@ -294,16 +294,16 @@
       "question": "Choose the correct phrase to complete the sentence: 'I'm sorry, but I don't _____ what you're saying.'",
       "options": {
         "A": "understand",
-        "B": "know",
+        "B": "feel",
         "C": "listen",
-        "D": "hear"
+        "D": "watch"
       },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 26,
-      "question": "What do we use to _____ a hot drink after dinner?",
+      "question": "What do we use to mix a hot drink after dinner?",
       "options": {
         "A": "vegetable",
         "B": "paper",
@@ -332,7 +332,7 @@
         "A": "cloud",
         "B": "evening",
         "C": "month",
-        "D": "repeat"
+        "D": "morning"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -343,7 +343,7 @@
       "options": {
         "A": "once",
         "B": "pass",
-        "C": "month",
+        "C": "week",
         "D": "expect"
       },
       "correct_answer": "C",
@@ -354,9 +354,9 @@
       "question": "The room where you sleep is called a _____.",
       "options": {
         "A": "bedroom",
-        "B": "vegetable",
-        "C": "evening",
-        "D": "paper"
+        "B": "dining",
+        "C": "living",
+        "D": "kitchen"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -377,10 +377,10 @@
       "id": 32,
       "question": "A carrot is an example of a _____.",
       "options": {
-        "A": "cloud",
+        "A": "fruit",
         "B": "vegetable",
-        "C": "bedroom",
-        "D": "spoon"
+        "C": "animal",
+        "D": "insect"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -390,9 +390,9 @@
       "question": "Something that happened only one time happened _____.",
       "options": {
         "A": "once",
-        "B": "pass",
-        "C": "expect",
-        "D": "repeat"
+        "B": "one",
+        "C": "first",
+        "D": "again"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -401,7 +401,7 @@
       "id": 34,
       "question": "To _____ means to say or do something again.",
       "options": {
-        "A": "call",
+        "A": "make",
         "B": "expect",
         "C": "repeat",
         "D": "pass"
@@ -413,9 +413,9 @@
       "id": 35,
       "question": "You can _____ an exam if you get a good score.",
       "options": {
-        "A": "call",
-        "B": "expect",
-        "C": "repeat",
+        "A": "move",
+        "B": "make",
+        "C": "mind",
         "D": "pass"
       },
       "correct_answer": "D",
@@ -426,9 +426,9 @@
       "question": "When you think something will happen, you _____ it.",
       "options": {
         "A": "expect",
-        "B": "pass",
-        "C": "cover",
-        "D": "repeat"
+        "B": "wait",
+        "C": "close",
+        "D": "open"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -439,8 +439,8 @@
       "options": {
         "A": "cool",
         "B": "fresh",
-        "C": "once",
-        "D": "cloud"
+        "C": "hot",
+        "D": "wet"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -449,10 +449,10 @@
       "id": 38,
       "question": "You write or print on _____.",
       "options": {
-        "A": "cloud",
-        "B": "spoon",
+        "A": "table",
+        "B": "stone",
         "C": "paper",
-        "D": "evening"
+        "D": "paint"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -461,10 +461,10 @@
       "id": 39,
       "question": "A _____ is a white or gray object in the sky that brings rain.",
       "options": {
-        "A": "month",
+        "A": "rain",
         "B": "cloud",
-        "C": "bedroom",
-        "D": "vegetable"
+        "C": "rainbow",
+        "D": "storm"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -473,9 +473,9 @@
       "id": 40,
       "question": "To put something over another thing is to _____ it.",
       "options": {
-        "A": "call",
-        "B": "pass",
-        "C": "expect",
+        "A": "correct",
+        "B": "write",
+        "C": "make",
         "D": "cover"
       },
       "correct_answer": "D",
@@ -485,8 +485,8 @@
       "id": 41,
       "question": "According to paragraph 1, why did Europeans want to find new sea routes to Asia?",
       "options": {
-        "A": "To discover new countries",
-        "B": "To avoid paying high prices to land merchants",
+        "A": "To discover new countries and continents",
+        "B": "To avoid paying money to land merchants",
         "C": "To start wars with Asian countries",
         "D": "To learn about different cultures"
       },
@@ -524,7 +524,7 @@
         "A": "That the Earth is flat",
         "B": "That Asia was rich in spices",
         "C": "That sailing was dangerous",
-        "D": "That the Earth is round and oceans are connected"
+        "D": "That the oceans are connected"
       },
       "correct_answer": "D",
       "category": "Reading"
@@ -534,7 +534,7 @@
       "question": "According to paragraph 4, how did Vasco da Gama reach India?",
       "options": {
         "A": "By sailing around South America",
-        "B": "By sailing around the southern tip of Africa",
+        "B": "By sailing around Africa",
         "C": "By using land routes",
         "D": "By sailing west across the Atlantic"
       },
@@ -559,7 +559,7 @@
       "options": {
         "A": "In the early 15th century",
         "B": "In 1492",
-        "C": "In 1519",
+        "C": "In the early 16th century",
         "D": "In 1497"
       },
       "correct_answer": "A",
