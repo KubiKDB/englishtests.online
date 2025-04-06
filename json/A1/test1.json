@@ -44,7 +44,7 @@
         "A": "go",
         "B": "went",
         "C": "goes",
-        "D": "going"
+        "D": "gone"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -139,8 +139,8 @@
       "options": {
         "A": "should",
         "B": "would",
-        "C": "could",
-        "D": "might"
+        "C": "have",
+        "D": "ought"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -195,7 +195,7 @@
     },
     {
       "id": 17,
-      "question": "Choose the appropriate greeting for morning:",
+      "question": "Choose the appropriate greeting for sunrise:",
       "options": {
         "A": "Good night",
         "B": "Good evening",
@@ -234,9 +234,9 @@
       "question": "Select the correct phrase to ask for help:",
       "options": {
         "A": "I am help you.",
-        "B": "Can you help me, please?",
+        "B": "Can you help me?",
         "C": "Help is good.",
-        "D": "You help me."
+        "D": "You help me?"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -246,7 +246,7 @@
       "question": "Choose the correct way to ask for the price:",
       "options": {
         "A": "How cost is this?",
-        "B": "What is the cost?",
+        "B": "What is cost?",
         "C": "How much is this?",
         "D": "What price is?"
       },
@@ -260,7 +260,7 @@
         "A": "My name is John.",
         "B": "I call John.",
         "C": "Me John.",
-        "D": "John is my."
+        "D": "John is mine."
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -343,7 +343,7 @@
       "options": {
         "A": "Break it",
         "B": "Sell it",
-        "C": "Give money for it",
+        "C": "Buy it",
         "D": "Take it home"
       },
       "correct_answer": "C",
@@ -354,7 +354,7 @@
       "question": "What is a 'society'?",
       "options": {
         "A": "A type of plant",
-        "B": "A group of people living together",
+        "B": "A group of people",
         "C": "A kind of animal",
         "D": "A time of day"
       },
@@ -378,9 +378,9 @@
       "question": "When you 'compare' two things, you:",
       "options": {
         "A": "Put them together",
-        "B": "Look at how they are different or similar",
-        "C": "Break them",
-        "D": "Buy them"
+        "B": "Look at how they are different",
+        "C": "Break them into four",
+        "D": "Buy them and bring home"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -390,9 +390,9 @@
       "question": "What is a 'star'?",
       "options": {
         "A": "A bright light in the night sky",
-        "B": "A type of food",
-        "C": "A part of a house",
-        "D": "A type of car"
+        "B": "A type of food in a restaurant",
+        "C": "An upper part of a house",
+        "D": "A type of truck"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -404,7 +404,7 @@
         "A": "Throw it away",
         "B": "Break it",
         "C": "Give it to someone else",
-        "D": "Have it and do not give it away"
+        "D": "Have and hold it"
       },
       "correct_answer": "D",
       "category": "Vocabulary"
@@ -414,7 +414,7 @@
       "question": "If an animal is 'wild', it:",
       "options": {
         "A": "Lives in a zoo",
-        "B": "Lives in nature and not with people",
+        "B": "Lives in nature",
         "C": "Lives in a house",
         "D": "Is very small"
       },
@@ -425,10 +425,10 @@
       "id": 36,
       "question": "When you 'explain' something, you:",
       "options": {
-        "A": "Make it more difficult",
-        "B": "Help someone understand it",
-        "C": "Break it",
-        "D": "Buy it"
+        "A": "Make it confusing",
+        "B": "Help understand",
+        "C": "Break the thing",
+        "D": "Buy the item"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -437,12 +437,12 @@
       "id": 37,
       "question": "If something is 'hard', it is:",
       "options": {
-        "A": "Soft",
-        "B": "Easy",
-        "C": "Not easy to break or bend",
-        "D": "Wet"
+        "A": "Strong and firm",
+        "B": "Cold and wet",
+        "C": "Big and round",
+        "D": "Fast and loud"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
@@ -462,7 +462,7 @@
       "question": "If there are 'various' types of food, there are:",
       "options": {
         "A": "Few types",
-        "B": "Many different types",
+        "B": "Many types",
         "C": "No types",
         "D": "Only one type"
       },
@@ -473,7 +473,7 @@
       "id": 40,
       "question": "If something is 'expensive', it:",
       "options": {
-        "A": "Costs a lot of money",
+        "A": "Costs a lot",
         "B": "Is very cheap",
         "C": "Has no price",
         "D": "Is free"
@@ -548,7 +548,7 @@
         "A": "In winter",
         "B": "In summer",
         "C": "In spring",
-        "D": "In autumn when it is sunny during the day but cold at night"
+        "D": "In autumn"
       },
       "correct_answer": "D",
       "category": "Reading"
