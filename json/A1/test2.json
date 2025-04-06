@@ -5,10 +5,10 @@
       "id": 1,
       "question": "Which sentence is grammatically correct?",
       "options": {
-        "A": "She don't like coffee.",
-        "B": "She doesn't likes coffee.",
-        "C": "She doesn't like coffee.",
-        "D": "She not like coffee."
+        "A": "She don't like tea.",
+        "B": "She doesn't likes tea.",
+        "C": "She doesn't like tea.",
+        "D": "She not like tea."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -29,7 +29,7 @@
       "id": 3,
       "question": "Select the correct sentence:",
       "options": {
-        "A": "They are go to school every day.",
+        "A": "They are gone to school every day.",
         "B": "They goes to school every day.",
         "C": "They going to school every day.",
         "D": "They go to school every day."
@@ -185,7 +185,7 @@
       "id": 16,
       "question": "Choose the word that best completes the sentence: 'My friend and I _____ to the cinema yesterday.'",
       "options": {
-        "A": "go",
+        "A": "gone",
         "B": "goes",
         "C": "went",
         "D": "going"
@@ -306,7 +306,7 @@
       "question": "What is a 'dress'?",
       "options": {
         "A": "A type of food",
-        "B": "A piece of clothing for women",
+        "B": "A piece of clothing",
         "C": "A kind of drink",
         "D": "A place to live"
       },
@@ -317,8 +317,8 @@
       "id": 27,
       "question": "What does 'spread' mean?",
       "options": {
-        "A": "To move something over a large area",
-        "B": "To talk loudly",
+        "A": "To move over space",
+        "B": "To talk with noise",
         "C": "To run quickly",
         "D": "To sleep deeply"
       },
@@ -329,10 +329,10 @@
       "id": 28,
       "question": "What is your 'face'?",
       "options": {
-        "A": "Your hands",
-        "B": "Your feet",
-        "C": "The front part of your head",
-        "D": "Your hair"
+        "A": "Part you walk on",
+        "B": "Part you hold with",
+        "C": "Part of your head",
+        "D": "Part with the nail"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -379,7 +379,7 @@
       "options": {
         "A": "Yesterday",
         "B": "Today",
-        "C": "Tomorrow and later",
+        "C": "Tomorrow",
         "D": "Last week"
       },
       "correct_answer": "C",
@@ -413,7 +413,7 @@
       "id": 35,
       "question": "What is a 'mission'?",
       "options": {
-        "A": "An important job or task",
+        "A": "An important task",
         "B": "A type of building",
         "C": "A kind of animal",
         "D": "A piece of furniture"
@@ -426,7 +426,7 @@
       "question": "What does 'supply' mean?",
       "options": {
         "A": "To ask a question",
-        "B": "To provide something needed",
+        "B": "To give something",
         "C": "To clean something",
         "D": "To break something"
       },
@@ -437,7 +437,7 @@
       "id": 37,
       "question": "What is a 'letter'?",
       "options": {
-        "A": "A message you write on paper",
+        "A": "A message on paper",
         "B": "A type of food",
         "C": "A kind of building",
         "D": "A part of a computer"
@@ -510,7 +510,7 @@
       "question": "According to paragraph 2, why are some animals on islands not afraid of people?",
       "options": {
         "A": "They are very friendly",
-        "B": "They have never seen people before",
+        "B": "They don't know people",
         "C": "They are too small",
         "D": "They can swim away"
       },
@@ -523,7 +523,7 @@
       "options": {
         "A": "They can fly",
         "B": "They are very colorful",
-        "C": "They cannot be found anywhere else",
+        "C": "They only live there",
         "D": "They are very large"
       },
       "correct_answer": "C",
@@ -555,7 +555,7 @@
     },
     {
       "id": 47,
-      "question": "According to paragraph 4, some islands are:",
+      "question": "According to paragraph 4, islands are:",
       "options": {
         "A": "All the same",
         "B": "All hot",
@@ -594,9 +594,9 @@
       "question": "According to the passage, what do some people like to learn about on islands?",
       "options": {
         "A": "How to build boats",
-        "B": "How to swim",
-        "C": "The people who live there and their way of life",
-        "D": "How to fish"
+        "B": "How to swim on boats",
+        "C": "The people who live there",
+        "D": "How to fish properly"
       },
       "correct_answer": "C",
       "category": "Reading"
