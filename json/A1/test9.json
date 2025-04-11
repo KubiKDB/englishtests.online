@@ -305,7 +305,7 @@
       "id": 26,
       "question": "What does the word 'short' mean?",
       "options": {
-        "A": "Not tall or long",
+        "A": "Not long",
         "B": "Very big",
         "C": "Very old",
         "D": "Not wide"
@@ -331,7 +331,7 @@
       "options": {
         "A": "To sell something",
         "B": "To lose something",
-        "C": "To have something that belongs to you",
+        "C": "To have something",
         "D": "To break something"
       },
       "correct_answer": "C",
@@ -354,7 +354,7 @@
       "question": "What does 'main' mean?",
       "options": {
         "A": "Small",
-        "B": "Most important",
+        "B": "Important",
         "C": "Last",
         "D": "New"
       },
@@ -380,7 +380,7 @@
         "A": "Something everyone knows",
         "B": "Something you tell everyone",
         "C": "Something you don't tell others",
-        "D": "A type of food"
+        "D": "Something you need to tell"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -427,7 +427,7 @@
       "options": {
         "A": "For everyone to see",
         "B": "Very large",
-        "C": "Not for everyone to see or know",
+        "C": "Not for everyone",
         "D": "Very important"
       },
       "correct_answer": "C",
@@ -440,18 +440,18 @@
         "A": "A very young child",
         "B": "A very old person",
         "C": "A type of animal",
-        "D": "A type of food"
+        "D": "A type of plant"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 38,
-      "question": "What is 'blood'?",
+      "question": "What is 'boots'?",
       "options": {
         "A": "A type of food",
-        "B": "The red liquid in your body",
-        "C": "A color",
+        "B": "A type of footwear",
+        "C": "A type of vehicle",
         "D": "A type of clothing"
       },
       "correct_answer": "B",
@@ -463,8 +463,8 @@
       "options": {
         "A": "One man",
         "B": "One woman",
-        "C": "Two or more people",
-        "D": "A place"
+        "C": "Many people",
+        "D": "Everyone"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -498,7 +498,7 @@
       "question": "What do librarians help people find?",
       "options": {
         "A": "Food",
-        "B": "Books and information",
+        "B": "Books",
         "C": "Clothes",
         "D": "Friends"
       },
@@ -581,10 +581,10 @@
       "id": 49,
       "question": "How do librarians help students?",
       "options": {
-        "A": "They give them money",
-        "B": "They drive them home",
+        "A": "They read them books",
+        "B": "They buy them new study books",
         "C": "They help them with homework and research",
-        "D": "They teach them to swim"
+        "D": "They teach them to use computers"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -593,10 +593,10 @@
       "id": 50,
       "question": "According to the passage, what is the main purpose of a librarian's job?",
       "options": {
-        "A": "To sell books",
+        "A": "To sell books and newspapers",
         "B": "To help people find knowledge and information",
-        "C": "To teach children to read",
-        "D": "To fix computers"
+        "C": "To teach children to read and write",
+        "D": "To use computers"
       },
       "correct_answer": "B",
       "category": "Reading"
