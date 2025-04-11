@@ -2,16 +2,16 @@
   "passage": "<br>(1) Trade is when people exchange goods or services. It happens when one person has something that another person wants. For example, a farmer might have extra vegetables that a fisherman wants. The fisherman can trade fish for the farmer's vegetables. In this way, both people get what they need without using money.<br><br>(2) Trade has existed for thousands of years. Long ago, people in different villages traded with each other. They exchanged things like food, tools, and clothes. As time passed, trade between different countries became common. Ships carried goods across oceans, and people learned about new products from far away.<br><br>(3) Today, trade happens all over the world. Countries buy and sell products to each other every day. Some countries grow food, while others make cars or computers. Trade helps countries get things they cannot produce themselves. For example, countries with cold weather buy fruits that grow only in warm places.<br><br>(4) Modern trade is different from trade in the past. Now, people can buy products online from other countries. Companies ship goods quickly around the world. Money is usually used instead of exchanging one item for another. However, the basic idea of trade is still the same – people exchange things they have for things they want.",
   "questions": [
     {
-      "id": 1,
-      "question": "She _____ to school every day.",
-      "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "going",
-        "D": "is go"
-      },
-      "correct_answer": "B",
-      "category": "Grammar"
+    "id": 1,
+    "question": "I _____ never _____ sushi.",
+    "options": {
+      "A": "have / tried",
+      "B": "had / tried",
+      "C": "did / try",
+      "D": "was / trying"
+    },
+    "correct_answer": "A",
+    "category": "Grammar"
     },
     {
       "id": 2,
@@ -127,8 +127,8 @@
       "options": {
         "A": "must to",
         "B": "must",
-        "C": "musting",
-        "D": "musted"
+        "C": "have",
+        "D": "ought"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -152,7 +152,7 @@
         "A": "much",
         "B": "many",
         "C": "some",
-        "D": "any"
+        "D": "more"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -282,7 +282,7 @@
       "question": "I need to _____ my homework before I go out.",
       "options": {
         "A": "finish",
-        "B": "complete",
+        "B": "make",
         "C": "end",
         "D": "close"
       },
@@ -306,8 +306,8 @@
       "question": "You need to _____ one option from the list.",
       "options": {
         "A": "take",
-        "B": "pick",
-        "C": "select",
+        "B": "grab",
+        "C": "give",
         "D": "choose"
       },
       "correct_answer": "D",
@@ -330,7 +330,7 @@
       "question": "We watched an interesting _____ about space last night.",
       "options": {
         "A": "film",
-        "B": "show",
+        "B": "image",
         "C": "picture",
         "D": "view"
       },
@@ -377,7 +377,7 @@
       "id": 32,
       "question": "She _____ goes to the gym three times a week.",
       "options": {
-        "A": "usually",
+        "A": "frequently",
         "B": "often",
         "C": "sometimes",
         "D": "always"
@@ -389,7 +389,7 @@
       "id": 33,
       "question": "It _____ rain later, so take an umbrella.",
       "options": {
-        "A": "will",
+        "A": "shall",
         "B": "can",
         "C": "should",
         "D": "might"
@@ -427,7 +427,7 @@
       "options": {
         "A": "dollar",
         "B": "euro",
-        "C": "pound",
+        "C": "pounds",
         "D": "money"
       },
       "correct_answer": "C",
@@ -449,9 +449,9 @@
       "id": 38,
       "question": "I need to go to the _____ to buy some food.",
       "options": {
-        "A": "market",
+        "A": "library",
         "B": "place",
-        "C": "shop",
+        "C": "school",
         "D": "store"
       },
       "correct_answer": "D",
@@ -499,7 +499,7 @@
       "options": {
         "A": "Buying vegetables online",
         "B": "Selling fish at the market",
-        "C": "A fisherman trading fish for a farmer's vegetables",
+        "C": "Trading fish for vegetables",
         "D": "Countries exchanging goods"
       },
       "correct_answer": "C",
@@ -511,8 +511,8 @@
       "options": {
         "A": "It became less common",
         "B": "It started to happen between different countries",
-        "C": "It only happened in villages",
-        "D": "People stopped trading food"
+        "C": "It only happened in villages, not in the cities",
+        "D": "People stopped trading food between them"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -523,8 +523,8 @@
       "options": {
         "A": "To make more money",
         "B": "To learn about new cultures",
-        "C": "To get things they cannot produce themselves",
-        "D": "To travel across oceans"
+        "C": "To get things they cannot produce",
+        "D": "To travel across oceans and continents"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -536,7 +536,7 @@
         "A": "Trading cars for computers",
         "B": "Cold countries buying fruits from warm countries",
         "C": "Exchanging tools for clothes",
-        "D": "Trading fish for vegetables"
+        "D": "Sea countries trading fish for vegetables from warm countries"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -557,8 +557,8 @@
       "id": 47,
       "question": "Based on the passage, what is still the same about trade today?",
       "options": {
-        "A": "People only trade food items",
-        "B": "Trade only happens between villages",
+        "A": "People only trade food items for clothes",
+        "B": "Trade only happens between villages and cities",
         "C": "People exchange things they have for things they want",
         "D": "All trade happens without money"
       },
