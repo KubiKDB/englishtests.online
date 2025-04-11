@@ -3,26 +3,26 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which is the correct form of the verb: 'She ___ breakfast every morning.'",
-      "options": {
-        "A": "eat",
-        "B": "eats",
-        "C": "eating",
-        "D": "to eat"
-      },
-      "correct_answer": "B",
+      "question": "In the magic garden, there is ___ big, talking flower.",
+  "options": {
+    "A": "a",
+    "B": "an",
+    "C": "the",
+    "D": "-"
+  },
+  "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 2,
-      "question": "Choose the correct form: 'They ___ to the park yesterday.'",
-      "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "went",
-        "D": "going"
-      },
-      "correct_answer": "C",
+      "question": "Look at the night sky! So many shiny ___!",
+  "options": {
+    "A": "star",
+    "B": "stares",
+    "C": "starring",
+    "D": "stars"
+  },
+  "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -63,7 +63,7 @@
     },
     {
       "id": 6,
-      "question": "Select the correct possessive form: 'That is ___ book.'",
+      "question": "Select the correct possessive form: 'That is ___ phone.'",
       "options": {
         "A": "Mary",
         "B": "Marys",
@@ -99,14 +99,14 @@
     },
     {
       "id": 9,
-      "question": "Which sentence is correct?",
-      "options": {
-        "A": "He no like apples.",
-        "B": "He doesn't likes apples.",
-        "C": "He don't like apples.",
-        "D": "He doesn't like apples."
-      },
-      "correct_answer": "D",
+      "question": "The friendly dragon shares ___ fire to warm the castle.",
+  "options": {
+    "A": "it",
+    "B": "it's",
+    "C": "its",
+    "D": "he"
+  },
+  "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -123,7 +123,7 @@
     },
     {
       "id": 11,
-      "question": "Select the correct adverb: 'She speaks English _____ well.'",
+      "question": "Select the correct adverb: 'He speaks English _____ well.'",
       "options": {
         "A": "very",
         "B": "much",
@@ -159,19 +159,19 @@
     },
     {
       "id": 14,
-      "question": "Choose the correct comparative form: 'This house is ___ than that one.'",
-      "options": {
-        "A": "small",
-        "B": "more small",
-        "C": "smaller",
-        "D": "the smallest"
-      },
-      "correct_answer": "C",
+      "question": "Wow! This fast car ___ fly like a plane!",
+  "options": {
+    "A": "is",
+    "B": "have",
+    "C": "are",
+    "D": "can"
+  },
+  "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 15,
-      "question": "Which is the correct past tense of 'write'?",
+      "question": "Which is the correct past simple tense of 'write'?",
       "options": {
         "A": "writed",
         "B": "writen",
@@ -183,38 +183,38 @@
     },
     {
       "id": 16,
-      "question": "Complete the sentence: 'I usually have breakfast ___ 7 o'clock.'",
-      "options": {
-        "A": "in",
-        "B": "on",
-        "C": "at",
-        "D": "for"
-      },
-      "correct_answer": "C",
+      "question": "My favourite ___ is pizza.",
+  "options": {
+    "A": "food",
+    "B": "drink",
+    "C": "colour",
+    "D": "animal"
+  },
+  "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 17,
-      "question": "Choose the best response: 'How old are you?' '_____'",
-      "options": {
-        "A": "I'm fine.",
-        "B": "I'm 25 years old.",
-        "C": "My name is Tom.",
-        "D": "I'm from Spain."
-      },
-      "correct_answer": "B",
+      "question": "What ___ is it? Is it lunchtime?",
+  "options": {
+    "A": "day",
+    "B": "time",
+    "C": "when",
+    "D": "hour"
+  },
+  "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 18,
-      "question": "Select the correct option to complete the sentence: 'Would you like _____ tea?'",
-      "options": {
-        "A": "a",
-        "B": "some",
-        "C": "many",
-        "D": "much"
-      },
-      "correct_answer": "B",
+      "question": "There are ___ apples in the basket.",
+  "options": {
+    "A": "a",
+    "B": "any",
+    "C": "some",
+    "D": "an"
+  },
+  "correct_answer": "C",
       "category": "Use of English"
     },
     {
@@ -306,7 +306,7 @@
       "question": "Choose the meaning of the word 'thing':",
       "options": {
         "A": "a person",
-        "B": "an object or item",
+        "B": "an item",
         "C": "a place",
         "D": "an animal"
       },
@@ -319,7 +319,7 @@
       "options": {
         "A": "the center of something",
         "B": "a type of food",
-        "C": "the outside limit of an area",
+        "C": "the outside limit",
         "D": "a kind of animal"
       },
       "correct_answer": "C",
@@ -329,7 +329,7 @@
       "id": 28,
       "question": "What is 'spring'?",
       "options": {
-        "A": "a season between winter and summer",
+        "A": "a season",
         "B": "a type of fruit",
         "C": "a color",
         "D": "a day of the week"
@@ -343,7 +343,7 @@
       "options": {
         "A": "very large",
         "B": "very small",
-        "C": "middle size or amount",
+        "C": "middle size",
         "D": "excellent quality"
       },
       "correct_answer": "C",
@@ -354,7 +354,7 @@
       "question": "What does the word 'bad' mean?",
       "options": {
         "A": "good quality",
-        "B": "not good, poor quality",
+        "B": "poor quality",
         "C": "beautiful",
         "D": "expensive"
       },
@@ -391,7 +391,7 @@
       "options": {
         "A": "happy",
         "B": "angry",
-        "C": "unhappy or sorrowful",
+        "C": "unhappy",
         "D": "tired"
       },
       "correct_answer": "C",
@@ -415,7 +415,7 @@
       "options": {
         "A": "never",
         "B": "rarely",
-        "C": "frequently, many times",
+        "C": "many times",
         "D": "only once"
       },
       "correct_answer": "C",
@@ -426,9 +426,9 @@
       "question": "An 'expert' is someone who:",
       "options": {
         "A": "knows very little",
-        "B": "has special knowledge or skill",
+        "B": "knows a lot",
         "C": "is very young",
-        "D": "works in a shop"
+        "D": "works in a library"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -471,12 +471,12 @@
     },
     {
       "id": 40,
-      "question": "What is a 'wall'?",
+      "question": "The wall is between _____?",
       "options": {
-        "A": "a structure that separates rooms or areas",
-        "B": "a piece of furniture",
-        "C": "a type of clothing",
-        "D": "a kind of food"
+        "A": "rooms",
+        "B": "streets",
+        "C": "trees",
+        "D": "cars"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -548,7 +548,7 @@
         "A": "Like white lines in the sky",
         "B": "Like cotton balls",
         "C": "Very tall and dark",
-        "D": "Flat and gray, covering the sky"
+        "D": "Flat and gray"
       },
       "correct_answer": "D",
       "category": "Reading"
