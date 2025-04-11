@@ -87,7 +87,7 @@
     },
     {
       "id": 8,
-      "question": "'Where ___ you born?' 'I was born in Kyiv.'",
+      "question": "'Where ___ you born?' 'I was born in London.'",
       "options": {
         "A": "is",
         "B": "am",
@@ -123,11 +123,11 @@
     },
      {
       "id": 11,
-      "question": "'Are ___ your keys on the table?' 'No, those aren't mine.'",
+      "question": "'Are ___ your keys on the table?' 'No, they aren't mine.'",
       "options": {
           "A": "this",
           "B": "that",
-          "C": "these",
+          "C": "they",
           "D": "those"
         },
       "correct_answer": "D",
