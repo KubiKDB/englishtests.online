@@ -27,12 +27,12 @@
   },
   {
     "id": 3,
-    "question": "Which is the correct plural form of 'mouse'?",
+    "question": "Which is the correct plural form of 'goose'?",
     "options": {
-      "A": "mouses",
-      "B": "mice",
-      "C": "mices",
-      "D": "mousees"
+      "A": "gooses",
+      "B": "geese",
+      "C": "geeses",
+      "D": "goosees"
     },
     "correct_answer": "B",
     "category": "Grammar"
@@ -79,7 +79,7 @@
     "options": {
       "A": "on",
       "B": "at",
-      "C": "under",
+      "C": "in",
       "D": "of"
     },
     "correct_answer": "C",
@@ -91,7 +91,7 @@
     "options": {
       "A": "She wants a apple.",
       "B": "She wants an apple.",
-      "C": "She wants the apple.",
+      "C": "She want an apple.",
       "D": "She wants apple."
     },
     "correct_answer": "B",
@@ -138,7 +138,7 @@
     "question": "Select the correct possessive form:",
     "options": {
       "A": "The toys of the boys",
-      "B": "The boy's toys",
+      "B": "The boyes toys",
       "C": "The boys' toys",
       "D": "The boys toys"
     },
@@ -248,7 +248,7 @@
       "A": "sit",
       "B": "stand",
       "C": "walk",
-      "D": "run"
+      "D": "lay"
     },
     "correct_answer": "C",
     "category": "Vocabulary"
@@ -291,10 +291,10 @@
   },
   {
     "id": 25,
-    "question": "Choose the word that means 'something you write with':",
+    "question": "Choose the word that means 'something you draw with':",
     "options": {
       "A": "book",
-      "B": "pen",
+      "B": "pencil",
       "C": "table",
       "D": "phone"
     },
@@ -387,14 +387,14 @@
   },
   {
     "id": 33,
-    "question": "Select the correct response to 'Where are you from?'",
-    "options": {
-      "A": "I am fine.",
-      "B": "My name is Maria.",
-      "C": "I am 20.",
-      "D": "I am from Italy."
-    },
-    "correct_answer": "D",
+    "question": "In my dream, a friendly green alien ___ pizza with me.",
+  "options": {
+    "A": "eat",
+    "B": "is eating",
+    "C": "eats",
+    "D": "to eat"
+  },
+  "correct_answer": "C",
     "category": "Use of English"
   },
   {
@@ -451,7 +451,7 @@
     "options": {
       "A": "You're welcome",
       "B": "Thank you",
-      "C": "That's okay / No problem",
+      "C": "That's okay",
       "D": "Please"
     },
     "correct_answer": "C",
@@ -459,14 +459,14 @@
   },
   {
     "id": 39,
-    "question": "Select the appropriate phrase to ask for the bill in a restaurant:",
-    "options": {
-      "A": "Where is the food?",
-      "B": "Can I have the bill, please?",
-      "C": "Is the food good?",
-      "D": "I want to leave now."
-    },
-    "correct_answer": "B",
+    "question": "This magic carpet ___ fly us to the stars!",
+  "options": {
+    "A": "can",
+    "B": "is",
+    "C": "have",
+    "D": "are"
+  },
+  "correct_answer": "A",
     "category": "Use of English"
   },
   {
