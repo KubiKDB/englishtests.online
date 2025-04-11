@@ -17,8 +17,13 @@
     },
     {
       "id": 3,
-      "question": "Select the correct preposition. The book is _____ the table.",
-      "options": {"A": "on", "B": "in", "C": "by", "D": "of"},
+      "question": "We need _____ milk. Can you go to the store?",
+      "options": {
+        "A": "some",
+        "B": "any",
+        "C": "much",
+        "D": "a"
+      },
       "correct_answer": "A",
       "category": "Grammar"
     },
@@ -52,9 +57,14 @@
     },
     {
       "id": 8,
-      "question": "Select the correct negative form. She _____ like coffee.",
-      "options": {"A": "no", "B": "not", "C": "doesn't", "D": "don't"},
-      "correct_answer": "C",
+      "question": "The film was _____ boring that I fell asleep.",
+      "options": {
+        "A": "such",
+        "B": "so",
+        "C": "too",
+        "D": "very"
+      },
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
@@ -102,7 +112,7 @@
     {
       "id": 15,
       "question": "Choose the correct future form. I _____ you tomorrow.",
-      "options": {"A": "call", "B": "calling", "C": "will call", "D": "called"},
+      "options": {"A": "will be call", "B": "calling", "C": "will call", "D": "called"},
       "correct_answer": "C",
       "category": "Grammar"
     },
@@ -123,91 +133,96 @@
     {
       "id": 18,
       "question": "Which word means 'important'?",
-      "options": {"A": "any", "B": "significant", "C": "no", "D": "nine"},
+      "options": {"A": "anything", "B": "significant", "C": "none", "D": "some"},
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 19,
       "question": "Complete the sentence: Can you _____ me the answer to question five?",
-      "options": {"A": "many", "B": "old", "C": "tell", "D": "finish"},
+      "options": {"A": "speak", "B": "ask", "C": "tell", "D": "finish"},
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 20,
       "question": "Choose the word that means 'rules of a country':",
-      "options": {"A": "finish", "B": "main", "C": "law", "D": "tell"},
+      "options": {"A": "borders", "B": "rights", "C": "laws", "D": "orders"},
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 21,
       "question": "What is the meaning of 'public'?",
-      "options": {"A": "for everyone to use", "B": "very important", "C": "not new", "D": "not possible"},
+      "options": {"A": "for everyone to use", "B": "very important", "C": "available", "D": "impossible"},
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 22,
       "question": "Complete the sentence: I _____ a student at this school.",
-      "options": {"A": "am", "B": "main", "C": "no", "D": "for"},
+      "options": {"A": "am", "B": "been", "C": "never", "D": "were"},
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 23,
       "question": "Which word means 'a large number of'?",
-      "options": {"A": "nine", "B": "any", "C": "many", "D": "no"},
+      "options": {"A": "some", "B": "any", "C": "many", "D": "none"},
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 24,
       "question": "Choose the word that means 'complete':",
-      "options": {"A": "huge", "B": "finish", "C": "many", "D": "main"},
+      "options": {"A": "find", "B": "finish", "C": "think", "D": "mind"},
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 25,
-      "question": "What is the opposite of 'yes'?",
-      "options": {"A": "any", "B": "old", "C": "no", "D": "for"},
+      "question": "What is the opposite of 'give'?",
+      "options": {"A": "forgive", "B": "forget", "C": "take", "D": "forge"},
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 26,
-      "question": "Complete the sentence: The test is _____ Saturday morning.",
-      "options": {"A": "am", "B": "for", "C": "many", "D": "no"},
+      "question": "Complete the sentence: The test is set _____ Saturday morning.",
+      "options": {"A": "done", "B": "for", "C": "be", "D": "none"},
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 27,
       "question": "What number comes after eight?",
-      "options": {"A": "no", "B": "many", "C": "nine", "D": "old"},
+      "options": {"A": "seven", "B": "zero", "C": "nine", "D": "one"},
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 28,
       "question": "Choose the word that means 'not new':",
-      "options": {"A": "significant", "B": "main", "C": "old", "D": "possible"},
+      "options": {"A": "close", "B": "main", "C": "old", "D": "open"},
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 29,
       "question": "Complete the sentence: Do you have _____ questions?",
-      "options": {"A": "main", "B": "any", "C": "finish", "D": "am"},
+      "options": {"A": "some", "B": "any", "C": "much", "D": "many"},
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 30,
-      "question": "Which word means 'most important'?",
-      "options": {"A": "main", "B": "nine", "C": "huge", "D": "no"},
+      "question": "Which word means 'not expensive'?",
+    "options": {
+      "A": "cheap",
+      "B": "fast",
+      "C": "short",
+      "D": "easy"
+    },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
@@ -228,7 +243,7 @@
     {
       "id": 33,
       "question": "Complete the conversation: 'Would you like some coffee?' '_______________'",
-      "options": {"A": "Yes, I do.", "B": "Yes, please.", "C": "Yes, I am.", "D": "Yes, I like."},
+      "options": {"A": "Yes, I do.", "B": "Yes, I would.", "C": "Yes, I am.", "D": "Yes, I like."},
       "correct_answer": "B",
       "category": "Use of English"
     },
@@ -256,21 +271,21 @@
     {
       "id": 37,
       "question": "Which phrase is correct for offering help?",
-      "options": {"A": "Can I help you?", "B": "I can help?", "C": "Help me?", "D": "You help me?"},
+      "options": {"A": "Can I help you?", "B": "I can help?", "C": "Help me?", "D": "Can you help me?"},
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 38,
       "question": "Choose the correct phrase for apologizing:",
-      "options": {"A": "Excuse me", "B": "I'm sorry", "C": "Thank you", "D": "You're welcome"},
+      "options": {"A": "Don't mention it", "B": "I'm sorry", "C": "Thank you", "D": "You're welcome"},
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 39,
       "question": "Select the correct phrase to use when meeting someone for the first time:",
-      "options": {"A": "Goodbye", "B": "See you later", "C": "Nice to meet you", "D": "How are you doing"},
+      "options": {"A": "Goodbye", "B": "See you later", "C": "Nice to meet you", "D": "You're welcome"},
       "correct_answer": "C",
       "category": "Use of English"
     },
