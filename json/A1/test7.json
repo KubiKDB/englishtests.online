@@ -56,7 +56,7 @@
         "A": "She has a umbrella.",
         "B": "He is a honest man.",
         "C": "I eat a apple every day.",
-        "D": "That is a orange car."
+        "D": "That is a black car."
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -183,74 +183,74 @@
     },
     {
       "id": 16,
-      "question": "Choose the correct sentence.",
-      "options": {
-        "A": "I have breakfast every morning at 7 o'clock.",
-        "B": "I have breakfast at every morning 7 o'clock.",
-        "C": "I breakfast have every morning at 7 o'clock.",
-        "D": "I have at every morning breakfast 7 o'clock."
-      },
-      "correct_answer": "A",
+      "question": "My brother ___ playing football with his friends.",
+  "options": {
+    "A": "likes",
+    "B": "like",
+    "C": "is liking",
+    "D": "to like"
+  },
+  "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 17,
-      "question": "Which is the correct response to 'How are you?'",
-      "options": {
-        "A": "I am 25 years old.",
-        "B": "I'm fine, thank you.",
-        "C": "My name is John.",
-        "D": "I am from Spain."
-      },
-      "correct_answer": "B",
+      "question": "Look ___ that colourful bird in the tree!",
+  "options": {
+    "A": "on",
+    "B": "in",
+    "C": "to",
+    "D": "at"
+  },
+  "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 18,
-      "question": "Choose the correct way to ask for someone's name.",
-      "options": {
-        "A": "How do you?",
-        "B": "What is your name?",
-        "C": "Where are you from?",
-        "D": "How old are you?"
-      },
-      "correct_answer": "B",
+      "question": "She ___ got blue eyes and long hair.",
+  "options": {
+    "A": "is",
+    "B": "have",
+    "C": "has",
+    "D": "are"
+  },
+  "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 19,
-      "question": "Which phrase is used to thank someone?",
-      "options": {
-        "A": "Good morning.",
-        "B": "See you later.",
-        "C": "Thank you very much.",
-        "D": "Nice to meet you."
-      },
-      "correct_answer": "C",
+      "question": "My father is a ___. He helps sick people.",
+  "options": {
+    "A": "teacher",
+    "B": "driver",
+    "C": "doctor",
+    "D": "singer"
+  },
+  "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 20,
-      "question": "Choose the correct way to ask for the time.",
-      "options": {
-        "A": "What is the time?",
-        "B": "What time is?",
-        "C": "How is the time?",
-        "D": "What is time the?"
-      },
-      "correct_answer": "A",
+      "question": "'___ is this bag?' 'It's Maria's.'",
+  "options": {
+    "A": "What",
+    "B": "Who",
+    "C": "Whose",
+    "D": "Where"
+  },
+  "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 21,
-      "question": "Which is the correct response to 'Would you like a cup of tea?'",
-      "options": {
-        "A": "I like tea.",
-        "B": "Yes, I'd love one.",
-        "C": "I drink tea every day.",
-        "D": "Tea is my favorite drink."
-      },
-      "correct_answer": "B",
+      "question": "He ___ speak Spanish, only English.",
+  "options": {
+    "A": "no",
+    "B": "don't",
+    "C": "isn't",
+    "D": "can't"
+  },
+  "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -378,7 +378,7 @@
       "question": "Which item do you use to write?",
       "options": {
         "A": "Book",
-        "B": "Paper",
+        "B": "Bag",
         "C": "Desk",
         "D": "Pen"
       },
@@ -534,7 +534,7 @@
       "question": "What is a hive?",
       "options": {
         "A": "A type of flower",
-        "B": "A place where bees live together",
+        "B": "A place bees live in",
         "C": "A kind of honey",
         "D": "A type of fruit"
       },
@@ -572,7 +572,7 @@
         "A": "People will have less honey",
         "B": "Flowers will be less colorful",
         "C": "Bees might attack people",
-        "D": "We need bees to help grow many foods"
+        "D": "Bees help to grow many foods"
       },
       "correct_answer": "D",
       "category": "Reading"
