@@ -3,14 +3,14 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is the correct verb form? She ____ to school every day.",
+      "question": "What is the correct pronoun? ____ is my friend.",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "going",
-        "D": "went"
+        "A": "He",
+        "B": "Him",
+        "C": "His",
+        "D": "They"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
@@ -27,14 +27,14 @@
     },
     {
       "id": 3,
-      "question": "Select the correct plural form: one child, two ____.",
-      "options": {
-        "A": "childs",
-        "B": "childes",
-        "C": "childrens",
-        "D": "children"
-      },
-      "correct_answer": "D",
+      "question": "Choose the correct verb: They ____ happy today.",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "am",
+      "D": "be"
+    },
+    "correct_answer": "B",
       "category": "Grammar"
     },
     {
@@ -68,45 +68,45 @@
         "A": "The dog toy",
         "B": "The dogs toy",
         "C": "The dog's toy",
-        "D": "The dogs' toy"
+        "D": "The doges toy"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 7,
-      "question": "Which sentence is grammatically correct?",
-      "options": {
-        "A": "They is happy.",
-        "B": "They are happy.",
-        "C": "They am happy.",
-        "D": "They be happy."
-      },
-      "correct_answer": "B",
+      "question": "What is the correct plural form? One cat, two ____.",
+    "options": {
+      "A": "cat",
+      "B": "cats",
+      "C": "cat's",
+      "D": "cates"
+    },
+    "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 8,
-      "question": "Choose the correct preposition: The book is ____ the table.",
-      "options": {
-        "A": "in",
-        "B": "at",
-        "C": "on",
-        "D": "by"
-      },
-      "correct_answer": "C",
+      "question": "Choose the correct verb: I ____ coffee every morning.",
+    "options": {
+      "A": "drinks",
+      "B": "drink",
+      "C": "drinking",
+      "D": "drank"
+    },
+    "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 9,
-      "question": "Select the correct form: I ____ TV yesterday.",
-      "options": {
-        "A": "watch",
-        "B": "watches",
-        "C": "watching",
-        "D": "watched"
-      },
-      "correct_answer": "D",
+      "question": "Choose the correct word: This is ____ ball.",
+    "options": {
+      "A": "me",
+      "B": "my",
+      "C": "mine",
+      "D": "I"
+    },
+    "correct_answer": "B",
       "category": "Grammar"
     },
     {
@@ -123,7 +123,7 @@
     },
     {
       "id": 11,
-      "question": "Choose the correct option: Those are ____ books.",
+      "question": "Choose the correct option: Those are ____ pencils.",
       "options": {
         "A": "they",
         "B": "them",
@@ -137,7 +137,7 @@
       "id": 12,
       "question": "Select the correct adverb: She sings ____.",
       "options": {
-        "A": "good",
+        "A": "wells",
         "B": "well",
         "C": "goodly",
         "D": "nice"
@@ -159,24 +159,24 @@
     },
     {
       "id": 14,
-      "question": "Choose the correct article: I saw ____ elephant at the zoo.",
+      "question": "Choose the correct article: I saw ____ monkey at the zoo.",
       "options": {
         "A": "a",
         "B": "an",
         "C": "the",
         "D": "No article needed"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 15,
-      "question": "Which is the correct comparative form? This book is ____ than that one.",
+      "question": "Which is the correct comparative form? This ice cream is ____ than that one.",
       "options": {
-        "A": "more big",
-        "B": "bigger",
-        "C": "most big",
-        "D": "biggest"
+        "A": "more cold",
+        "B": "colder",
+        "C": "most cold",
+        "D": "coldest"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -200,7 +200,7 @@
         "A": "I am John.",
         "B": "I'm fine, thank you.",
         "C": "I am 25 years old.",
-        "D": "I am from Spain."
+        "D": "I am a student."
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -243,7 +243,7 @@
     },
     {
       "id": 21,
-      "question": "Select the appropriate response: 'Would you like some coffee?' ____",
+      "question": "Select the appropriate response: 'Would you like more sugar?' ____",
       "options": {
         "A": "Yes, I would.",
         "B": "Yes, I'd like.",
@@ -267,14 +267,14 @@
     },
     {
       "id": 23,
-      "question": "Choose the correct expression for offering help.",
-      "options": {
-        "A": "Can I help you?",
-        "B": "I help you?",
-        "C": "Want help?",
-        "D": "Help me?"
-      },
-      "correct_answer": "A",
+      "question": "Choose the correct word: She is ____ teacher.",
+    "options": {
+      "A": "good",
+      "B": "a good",
+      "C": "the good",
+      "D": "good a"
+    },
+    "correct_answer": "B",
       "category": "Use of English"
     },
     {
@@ -399,11 +399,11 @@
     },
     {
       "id": 34,
-      "question": "____ means first or at the beginning.",
+      "question": "____ means at the beginning.",
       "options": {
         "A": "final",
         "B": "last",
-        "C": "initial",
+        "C": "first",
         "D": "end"
       },
       "correct_answer": "C",
@@ -546,7 +546,7 @@
       "question": "The word 'adapt' in paragraph 4 means ____.",
       "options": {
         "A": "to change to suit new conditions",
-        "B": "to move quickly",
+        "B": "to move quickly to survive",
         "C": "to eat food",
         "D": "to sleep deeply"
       },
