@@ -65,36 +65,36 @@
       "id": 6,
       "question": "Choose the correct possessive form.",
       "options": {
-        "A": "This is Johns book.",
-        "B": "This is John's book.",
-        "C": "This is Johns' book.",
-        "D": "This is book of John."
+        "A": "This is Johns jacket.",
+        "B": "This is John's jacket.",
+        "C": "This is Johns' jacket.",
+        "D": "This is jacket of John."
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 7,
-      "question": "Which is the correct question form?",
-      "options": {
-        "A": "What time it is?",
-        "B": "What time is?",
-        "C": "What time is it?",
-        "D": "What is time it?"
-      },
-      "correct_answer": "C",
+      "question": "Look! A funny monkey ___ on the tree.",
+  "options": {
+    "A": "am",
+    "B": "are",
+    "C": "is",
+    "D": "be"
+  },
+  "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 8,
-      "question": "Select the correct present continuous form.",
-      "options": {
-        "A": "She reading a book now.",
-        "B": "She is read a book now.",
-        "C": "She is reading a book now.",
-        "D": "She are reading a book now."
-      },
-      "correct_answer": "C",
+      "question": "My little robot friend ___ happy songs.",
+  "options": {
+    "A": "sing",
+    "B": "sings",
+    "C": "singing",
+    "D": "is sing"
+  },
+  "correct_answer": "B",
       "category": "Grammar"
     },
     {
@@ -111,14 +111,14 @@
     },
     {
       "id": 10,
-      "question": "Select the correct form of the comparative.",
-      "options": {
-        "A": "My house is big than yours.",
-        "B": "My house is bigger than yours.",
-        "C": "My house is more bigger than yours.",
-        "D": "My house is the bigger than yours."
-      },
-      "correct_answer": "B",
+      "question": "'___ do the colourful birds fly?' 'They fly high in the sky!'",
+  "options": {
+    "A": "What",
+    "B": "Where",
+    "C": "Who",
+    "D": "How"
+  },
+  "correct_answer": "B",
       "category": "Grammar"
     },
     {
@@ -147,11 +147,11 @@
     },
     {
       "id": 13,
-      "question": "Select the correct future form with 'going to'.",
+      "question": "Select the correct future form with 'going'.",
       "options": {
         "A": "I going to swim tomorrow.",
         "B": "I am going swim tomorrow.",
-        "C": "I go to swim tomorrow.",
+        "C": "I will be going to swim tomorrow.",
         "D": "I am going to swim tomorrow."
       },
       "correct_answer": "D",
@@ -161,10 +161,10 @@
       "id": 14,
       "question": "Which sentence uses 'can' correctly?",
       "options": {
-        "A": "She can to swim very well.",
-        "B": "She can swimming very well.",
-        "C": "She can swim very well.",
-        "D": "She cans swim very well."
+        "A": "She can to run very well.",
+        "B": "She can running very well.",
+        "C": "She can run very well.",
+        "D": "She cans run very well."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -195,62 +195,62 @@
     },
     {
       "id": 17,
-      "question": "Choose the correct response to 'How are you?'",
-      "options": {
-        "A": "I am a teacher.",
-        "B": "I am fine, thank you.",
-        "C": "I am 30 years old.",
-        "D": "I am at home."
-      },
-      "correct_answer": "B",
+      "question": "I often ___ music on my phone.",
+  "options": {
+    "A": "listen to",
+    "B": "hear",
+    "C": "look at",
+    "D": "speak"
+  },
+  "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 18,
-      "question": "Select the appropriate response to 'What's your name?'",
-      "options": {
-        "A": "I am from Spain.",
-        "B": "I am 25 years old.",
-        "C": "Nice to meet you.",
-        "D": "My name is John."
-      },
-      "correct_answer": "D",
+      "question": "We go to the ___ to swim in the summer.",
+  "options": {
+    "A": "mountain",
+    "B": "library",
+    "C": "beach",
+    "D": "shop"
+  },
+  "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 19,
-      "question": "Complete the sentence: 'Would you like _____ coffee?'",
-      "options": {
-        "A": "a",
-        "B": "some",
-        "C": "any",
-        "D": "many"
-      },
-      "correct_answer": "B",
+      "question": "She has a blue dress and ___ shoes.",
+  "options": {
+    "A": "a red",
+    "B": "red",
+    "C": "the red",
+    "D": "reds"
+  },
+  "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 20,
-      "question": "Choose the correct phrase to ask for the time.",
-      "options": {
-        "A": "What is the hour?",
-        "B": "What time is it?",
-        "C": "How long is the time?",
-        "D": "When is the time?"
-      },
-      "correct_answer": "B",
+      "question": "'Do you like chocolate ice cream?' 'Yes, I ___.'",
+  "options": {
+    "A": "am",
+    "B": "like",
+    "C": "does",
+    "D": "do"
+  },
+  "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 21,
-      "question": "Select the correct phrase for offering help.",
-      "options": {
-        "A": "Do you need help?",
-        "B": "Can I help you?",
-        "C": "Do you want I help you?",
-        "D": "May I to help you?"
-      },
-      "correct_answer": "B",
+      "question": "My cat sleeps ___ the sofa.",
+  "options": {
+    "A": "on",
+    "B": "at",
+    "C": "in",
+    "D": "to"
+  },
+  "correct_answer": "A",
       "category": "Use of English"
     },
     {
@@ -267,14 +267,14 @@
     },
     {
       "id": 23,
-      "question": "Choose the correct answer to the question 'Where is the bathroom?'",
-      "options": {
-        "A": "It's 3 o'clock.",
-        "B": "It's down the hall on the right.",
-        "C": "It's very nice.",
-        "D": "It's on Monday."
-      },
-      "correct_answer": "B",
+      "question": "He doesn't ___ coffee, he prefers tea.",
+  "options": {
+    "A": "drinks",
+    "B": "drink",
+    "C": "to drink",
+    "D": "drinking"
+  },
+  "correct_answer": "B",
       "category": "Use of English"
     },
     {
@@ -291,14 +291,14 @@
     },
     {
       "id": 25,
-      "question": "Select the correct response to 'Thank you.'",
-      "options": {
-        "A": "Please.",
-        "B": "It's well.",
-        "C": "You're welcome.",
-        "D": "That's fine."
-      },
-      "correct_answer": "C",
+      "question": "Can you ___ me your pen, please?",
+  "options": {
+    "A": "take",
+    "B": "give",
+    "C": "put",
+    "D": "see"
+  },
+  "correct_answer": "B",
       "category": "Use of English"
     },
     {
@@ -342,7 +342,7 @@
       "question": "Which word means 'not noisy'?",
       "options": {
         "A": "loud",
-        "B": "noisy",
+        "B": "slow",
         "C": "quiet",
         "D": "fast"
       },
