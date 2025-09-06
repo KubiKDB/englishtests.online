@@ -210,7 +210,7 @@
       "question": "Select the best word to complete the sentence: 'He ___ breakfast every morning at 7 AM.'",
       "options": {
         "A": "does",
-        "B": "makes",
+        "B": "tries",
         "C": "has",
         "D": "takes"
       },
@@ -258,11 +258,11 @@
       "question": "Choose the best response: 'Would you like some coffee?' '___'",
       "options": {
         "A": "Yes, I like.",
-        "B": "Yes, please.",
+        "B": "Yes, I please.",
         "C": "Yes, I do.",
         "D": "Yes, I would."
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -426,7 +426,7 @@
       "question": "What is a 'club'?",
       "options": {
         "A": "A type of food",
-        "B": "A group of people with the same interest",
+        "B": "A group of people",
         "C": "A kind of shoe",
         "D": "A school subject"
       },
@@ -438,9 +438,9 @@
       "question": "Choose the correct meaning of 'gate' in this context: 'Please close the gate when you leave.'",
       "options": {
         "A": "A door in a fence",
-        "B": "A window",
-        "C": "A key",
-        "D": "A lock"
+        "B": "A window in a house",
+        "C": "A key for a lock",
+        "D": "A lock on a door"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -497,10 +497,10 @@
       "id": 42,
       "question": "Based on paragraph 2, how do sports teams help students stay healthy?",
       "options": {
-        "A": "By eating good food",
-        "B": "By sleeping more",
+        "A": "By eating healthy food",
+        "B": "By sleeping more than 8 hours",
         "C": "By running, jumping, and playing",
-        "D": "By visiting doctors"
+        "D": "By visiting doctors frequently"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -557,10 +557,10 @@
       "id": 47,
       "question": "According to paragraph 4, what do people do at games?",
       "options": {
-        "A": "They sleep",
+        "A": "They run",
         "B": "They study",
-        "C": "They cheer for their team",
-        "D": "They play sports"
+        "C": "They cheer",
+        "D": "They play"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -579,7 +579,7 @@
     },
     {
       "id": 49,
-      "question": "Which word in paragraph 3 means the same as 'important'?",
+      "question": "Which word in paragraph 3 is described as 'important'?",
       "options": {
         "A": "skills",
         "B": "manage",
@@ -594,7 +594,7 @@
       "question": "What does the passage suggest about school sports teams?",
       "options": {
         "A": "They are only for the best students.",
-        "B": "They are good for students and the school community.",
+        "B": "They are good for the school community.",
         "C": "They are more important than studying.",
         "D": "They are too difficult for many students."
       },
