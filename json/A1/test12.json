@@ -128,7 +128,7 @@
         "A": "That is Mary book.",
         "B": "That is Marys book.",
         "C": "That is Mary's book.",
-        "D": "That is the book of Mary."
+        "D": "That is the book for Mary."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -306,8 +306,8 @@
       "question": "What is a 'chart'?",
       "options": {
         "A": "A type of food",
-        "B": "A diagram that shows information",
-        "C": "A small animal",
+        "B": "A diagram",
+        "C": "A small talk",
         "D": "A type of clothing"
       },
       "correct_answer": "B",
@@ -331,7 +331,7 @@
       "options": {
         "A": "To be very happy",
         "B": "To be very tired",
-        "C": "To feel anxious about something",
+        "C": "To feel anxious",
         "D": "To sleep well"
       },
       "correct_answer": "C",
@@ -343,8 +343,8 @@
       "options": {
         "A": "A place where you can buy things",
         "B": "A place where you sleep",
-        "C": "A type of car",
-        "D": "A type of food"
+        "C": "A place where you can get a car",
+        "D": "A place where you can play"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -353,7 +353,7 @@
       "id": 30,
       "question": "What is a 'reward'?",
       "options": {
-        "A": "Something you get for doing something good",
+        "A": "A prize for success",
         "B": "A type of food",
         "C": "A type of animal",
         "D": "A place to live"
@@ -377,10 +377,10 @@
       "id": 32,
       "question": "What does 'exactly' mean?",
       "options": {
-        "A": "Completely correct",
-        "B": "Very fast",
-        "C": "Very slow",
-        "D": "Not sure"
+        "A": "Right",
+        "B": "Wrong",
+        "C": "Fast",
+        "D": "Big"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -390,7 +390,7 @@
       "question": "What does it mean to 'perform'?",
       "options": {
         "A": "To cook food",
-        "B": "To do or accomplish something",
+        "B": "To do something",
         "C": "To go to sleep",
         "D": "To buy something"
       },
@@ -402,9 +402,9 @@
       "question": "What is a 'chicken'?",
       "options": {
         "A": "A type of vegetable",
-        "B": "A bird that people often eat",
+        "B": "A type of bird",
         "C": "A type of car",
-        "D": "A piece of furniture"
+        "D": "A type of furniture"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -425,34 +425,34 @@
       "id": 36,
       "question": "What is 'sand'?",
       "options": {
-        "A": "Small grains of rock found on beaches",
-        "B": "A type of food",
-        "C": "A large animal",
-        "D": "A type of clothing"
+        "A": "Grains of glass",
+        "B": "Grains of wheat",
+        "C": "Grains of grape",
+        "D": "Grains of rice"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 37,
-      "question": "What is a 'store'?",
+      "question": "What is the opposite of 'hot'?",
       "options": {
-        "A": "A place where people live",
-        "B": "A place where you can buy things",
-        "C": "A type of animal",
-        "D": "A type of car"
+        "A": "Small",
+        "B": "Fast",
+        "C": "Cold",
+        "D": "Happy"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 38,
       "question": "What is a 'phase'?",
       "options": {
-        "A": "A stage in a process or development",
-        "B": "A type of food",
-        "C": "A place to live",
-        "D": "A kind of animal"
+        "A": "A stage in a process",
+        "B": "A type of sentence",
+        "C": "A place in a shop",
+        "D": "A kind of a savanna animal"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -462,7 +462,7 @@
       "question": "What is a 'number'?",
       "options": {
         "A": "A type of food",
-        "B": "A mathematical value",
+        "B": "A type of value",
         "C": "A type of clothing",
         "D": "A place to live"
       },
@@ -471,14 +471,14 @@
     },
     {
       "id": 40,
-      "question": "What is a 'member'?",
+      "question": "I usually drink ___ in the morning.",
       "options": {
-        "A": "A person who belongs to a group",
-        "B": "A type of fruit",
-        "C": "A type of furniture",
-        "D": "A kind of weather"
+        "A": "bread",
+        "B": "milk",
+        "C": "banana",
+        "D": "cereals"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
@@ -521,8 +521,8 @@
       "id": 44,
       "question": "What is a 'rain shadow'?",
       "options": {
-        "A": "A type of cloud",
-        "B": "A very light rain",
+        "A": "A type of cloud in a desert",
+        "B": "A very light rain over a mountain",
         "C": "A dry area on the other side of a mountain",
         "D": "A shadow caused by rain"
       },
