@@ -294,7 +294,7 @@
       "id": 25,
       "question": "The restaurant is _____ to the bank.",
       "options": {
-        "A": "close",
+        "A": "behind",
         "B": "next",
         "C": "near",
         "D": "beside"
@@ -344,7 +344,7 @@
       "options": {
         "A": "ear",
         "B": "nose",
-        "C": "mouth",
+        "C": "lips",
         "D": "hair"
       },
       "correct_answer": "B",
@@ -355,9 +355,9 @@
       "question": "Our _____ to London is at 6 PM tomorrow.",
       "options": {
         "A": "car",
-        "B": "bus",
+        "B": "taxi",
         "C": "flight",
-        "D": "train"
+        "D": "bike"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -378,8 +378,8 @@
       "id": 32,
       "question": "I _____ that you are right about this.",
       "options": {
-        "A": "know",
-        "B": "think",
+        "A": "make",
+        "B": "do",
         "C": "believe",
         "D": "see"
       },
@@ -415,11 +415,11 @@
       "question": "He is a very interesting _____. Everyone likes him.",
       "options": {
         "A": "people",
-        "B": "character",
+        "B": "student",
         "C": "person",
         "D": "name"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -486,7 +486,7 @@
       "id": 41,
       "question": "According to paragraph 1, what is magma?",
       "options": {
-        "A": "A type of mountain",
+        "A": "A type of mountain range",
         "B": "Hot melted rock inside the Earth",
         "C": "The opening of a volcano",
         "D": "Rock that has cooled down"
