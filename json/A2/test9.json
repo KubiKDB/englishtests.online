@@ -3,12 +3,12 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which form of the verb is correct? She _____ to school every day.",
+      "question": "Which form of the verb is correct? He _____ sports once a week.",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "going",
-        "D": "went"
+        "A": "do",
+        "B": "does",
+        "C": "doing",
+        "D": "done"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -75,14 +75,14 @@
     },
     {
       "id": 7,
-      "question": "Choose the correct question form: '_____ you like coffee?'",
+      "question": "Choose the correct question form: '_____ you like some water?'",
       "options": {
         "A": "Are",
         "B": "Do",
         "C": "Is",
-        "D": "Does"
+        "D": "Would"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -233,8 +233,8 @@
       "id": 20,
       "question": "Choose the best way to ask for clarification:",
       "options": {
-        "A": "I don't understand. Can you repeat that?",
-        "B": "Repeat, please.",
+        "A": "Can you repeat that?",
+        "B": "Sorry, please.",
         "C": "What you say?",
         "D": "Say again your words."
       },
@@ -270,7 +270,7 @@
       "question": "Which is the correct way to accept an offer?",
       "options": {
         "A": "No, thank you.",
-        "B": "Yes, I would. Thank you.",
+        "B": "Yes, I would.",
         "C": "I am agree.",
         "D": "I want it."
       },
@@ -281,10 +281,10 @@
       "id": 24,
       "question": "Choose the best way to apologize:",
       "options": {
-        "A": "It's my mistake.",
+        "A": "It's my problem.",
         "B": "Sorry for the problem.",
-        "C": "I'm really sorry about that.",
-        "D": "I have a problem."
+        "C": "I'm sorry about that.",
+        "D": "I have a mistake."
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -305,10 +305,10 @@
       "id": 26,
       "question": "What does 'island' mean?",
       "options": {
-        "A": "A large building",
-        "B": "A piece of land surrounded by water",
-        "C": "A type of mountain",
-        "D": "A small village"
+        "A": "A large building in a city",
+        "B": "A piece of land in a sea",
+        "C": "A type of mountain in Asia",
+        "D": "A small village in Europe"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -342,7 +342,7 @@
       "question": "A 'report' is usually:",
       "options": {
         "A": "A type of food",
-        "B": "Information about something that happened",
+        "B": "A type of information",
         "C": "A place to live",
         "D": "A type of clothing"
       },
@@ -390,7 +390,7 @@
       "question": "If you 'notice' something, you:",
       "options": {
         "A": "Forget it",
-        "B": "See or observe it",
+        "B": "See it",
         "C": "Buy it",
         "D": "Create it"
       },
@@ -404,7 +404,7 @@
         "A": "Write it",
         "B": "Read it",
         "C": "Keep it",
-        "D": "Mail it to someone"
+        "D": "Mail it"
       },
       "correct_answer": "D",
       "category": "Vocabulary"
@@ -415,7 +415,7 @@
       "options": {
         "A": "Short",
         "B": "Wide",
-        "C": "High in height",
+        "C": "High",
         "D": "Heavy"
       },
       "correct_answer": "C",
@@ -439,7 +439,7 @@
       "options": {
         "A": "Before",
         "B": "After",
-        "C": "In addition",
+        "C": "Also",
         "D": "Instead"
       },
       "correct_answer": "C",
@@ -450,7 +450,7 @@
       "question": "What does it mean to 'point' at something?",
       "options": {
         "A": "To look at it",
-        "B": "To indicate it with your finger",
+        "B": "To indicate it",
         "C": "To speak about it",
         "D": "To touch it"
       },
@@ -511,7 +511,7 @@
       "options": {
         "A": "A shoot",
         "B": "A leaf",
-        "C": "A radicle (root)",
+        "C": "A radicle",
         "D": "Cotyledons"
       },
       "correct_answer": "C",
@@ -535,7 +535,7 @@
       "options": {
         "A": "Water",
         "B": "Soil",
-        "C": "The right temperature",
+        "C": "Temperature",
         "D": "Fertilizer"
       },
       "correct_answer": "D",
@@ -584,7 +584,7 @@
         "A": "Only water",
         "B": "Only sunlight",
         "C": "Only nutrients",
-        "D": "Water, nutrients, and sunlight"
+        "D": "All of the above"
       },
       "correct_answer": "D",
       "category": "Reading"
