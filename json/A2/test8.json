@@ -3,9 +3,9 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which form of the verb is correct? She _____ to the store yesterday.",
+      "question": "Which form of the verb is correct? She _____ to the store everyday.",
       "options": {"A": "go", "B": "goes", "C": "went", "D": "going"},
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
@@ -17,8 +17,8 @@
     },
     {
       "id": 3,
-      "question": "Choose the correct preposition. The book is _____ the table.",
-      "options": {"A": "on", "B": "in", "C": "at", "D": "from"},
+      "question": "Choose the correct preposition. The store is _____ the corner.",
+      "options": {"A": "around", "B": "in", "C": "for", "D": "from"},
       "correct_answer": "A",
       "category": "Grammar"
     },
@@ -80,7 +80,7 @@
     },
     {
       "id": 12,
-      "question": "Which is the correct negative form? She _____ like coffee.",
+      "question": "Which is the correct negative form? She _____ like peanuts.",
       "options": {"A": "no", "B": "not", "C": "doesn't", "D": "don't"},
       "correct_answer": "C",
       "category": "Grammar"
@@ -143,9 +143,9 @@
     },
     {
       "id": 21,
-      "question": "What does the word 'cost' mean?",
-      "options": {"A": "to buy something", "B": "to read something", "C": "the price of something", "D": "to sell something"},
-      "correct_answer": "C",
+      "question": "What does the word 'purchase' mean?",
+      "options": {"A": "to buy something", "B": "to read something", "C": "to price something", "D": "to sell something"},
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
@@ -158,28 +158,28 @@
     {
       "id": 23,
       "question": "Which word can be both a noun and a verb?",
-      "options": {"A": "across", "B": "dream", "C": "and", "D": "less"},
+      "options": {"A": "across", "B": "dream", "C": "lend", "D": "less"},
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 24,
       "question": "Choose the correct word: I need to _____ the library book by Friday.",
-      "options": {"A": "return", "B": "dream", "C": "juice", "D": "research"},
+      "options": {"A": "return", "B": "dream", "C": "back", "D": "search"},
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 25,
       "question": "What does 'true' mean?",
-      "options": {"A": "not real", "B": "a lie", "C": "correct or real", "D": "a question"},
+      "options": {"A": "not real", "B": "a lie", "C": "correct", "D": "a question"},
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 26,
       "question": "Complete the sentence: Orange _____ is my favorite drink for breakfast.",
-      "options": {"A": "book", "B": "map", "C": "research", "D": "juice"},
+      "options": {"A": "book", "B": "maple", "C": "fruit", "D": "juice"},
       "correct_answer": "D",
       "category": "Vocabulary"
     },
@@ -193,14 +193,14 @@
     {
       "id": 28,
       "question": "Choose the correct word: I will _____ home at 5 o'clock.",
-      "options": {"A": "dream", "B": "leave", "C": "book", "D": "juice"},
+      "options": {"A": "dream", "B": "leave", "C": "make", "D": "find"},
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 29,
       "question": "What does 'research' mean?",
-      "options": {"A": "to sleep", "B": "to study carefully", "C": "to walk quickly", "D": "to speak loudly"},
+      "options": {"A": "to sleep deeply", "B": "to study carefully", "C": "to walk quickly", "D": "to speak loudly"},
       "correct_answer": "B",
       "category": "Vocabulary"
     },
@@ -213,7 +213,7 @@
     },
     {
       "id": 31,
-      "question": "The word 'She _____ her homework every day' needs which word to be correct?",
+      "question": "'She _____ her breakfast every morning' needs which word to be correct?",
       "options": {"A": "make", "B": "makes", "C": "making", "D": "made"},
       "correct_answer": "B",
       "category": "Use of English"
@@ -228,7 +228,7 @@
     {
       "id": 33,
       "question": "Select the correct response to 'How are you?'",
-      "options": {"A": "I am 25 years old.", "B": "I am fine, thank you.", "C": "I am from Spain.", "D": "I am a student."},
+      "options": {"A": "I am 25 years old.", "B": "I am fine.", "C": "I am from Spain.", "D": "I am a student."},
       "correct_answer": "B",
       "category": "Use of English"
     },
@@ -249,21 +249,21 @@
     {
       "id": 36,
       "question": "Complete the conversation: 'Would you like some tea?' '_____, thank you.'",
-      "options": {"A": "Yes, I would", "B": "Yes, I do", "C": "No, I don't", "D": "No, I wouldn't"},
+      "options": {"A": "Yes, I would", "B": "Yes, I do", "C": "No, I don't", "D": "No, I couldn't"},
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 37,
       "question": "Choose the correct phrase to offer help:",
-      "options": {"A": "Can I help you?", "B": "I can help?", "C": "Help me?", "D": "You help me?"},
+      "options": {"A": "Can I help you?", "B": "I can help?", "C": "Help me?", "D": "Can you help me?"},
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 38,
       "question": "Select the correct phrase to apologize:",
-      "options": {"A": "Thank you", "B": "Excuse me", "C": "I'm sorry", "D": "Please"},
+      "options": {"A": "Thank you", "B": "You're welcome", "C": "I'm sorry", "D": "Please"},
       "correct_answer": "C",
       "category": "Use of English"
     },
@@ -333,14 +333,14 @@
     {
       "id": 48,
       "question": "The main idea of paragraph 4 is:",
-      "options": {"A": "Pets are expensive", "B": "Taking care of pets requires responsibility", "C": "Veterinarians help pets", "D": "Pets make people happy"},
+      "options": {"A": "Pets are expensive", "B": "Care of pets requires responsibility", "C": "Veterinarians can help pets", "D": "Pets make people happier"},
       "correct_answer": "B",
       "category": "Reading"
     },
     {
       "id": 49,
       "question": "According to the passage, before choosing a pet, people should think about:",
-      "options": {"A": "what their friends have", "B": "where they live", "C": "time and money for pet care", "D": "which pet is most popular"},
+      "options": {"A": "what their friends have", "B": "where their pets will live", "C": "time and money for pet care", "D": "which pet is most popular"},
       "correct_answer": "C",
       "category": "Reading"
     },
