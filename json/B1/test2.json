@@ -187,7 +187,7 @@
       "options": {
         "A": "lend",
         "B": "borrow",
-        "C": "give",
+        "C": "carry",
         "D": "take"
       },
       "correct_answer": "A",
@@ -294,7 +294,7 @@
       "question": "Choose the most appropriate response to 'How was your flight?'",
       "options": {
         "A": "It took three hours.",
-        "B": "It was a bit delayed but otherwise fine.",
+        "B": "It was a bit delayed.",
         "C": "I went by plane.",
         "D": "I don't like flying."
       },
@@ -306,7 +306,7 @@
       "question": "Choose the correct definition for 'receive':",
       "options": {
         "A": "To give something to someone",
-        "B": "To be given or presented with something",
+        "B": "To be given something",
         "C": "To reject something offered",
         "D": "To ask for something"
       },
@@ -414,7 +414,7 @@
       "question": "Choose the correct definition for 'develop':",
       "options": {
         "A": "To make something worse",
-        "B": "To grow or change into a more advanced state",
+        "B": "To grow or change",
         "C": "To destroy something",
         "D": "To repair something"
       },
@@ -438,7 +438,7 @@
       "question": "Which is the correct definition for 'describe'?",
       "options": {
         "A": "To draw a picture of something",
-        "B": "To give a detailed account of something",
+        "B": "To give a detailed account",
         "C": "To criticize something",
         "D": "To analyze something"
       },
@@ -447,12 +447,12 @@
     },
     {
       "id": 38,
-      "question": "Choose the correct preposition: 'Can you _____ your hometown to mine?'",
+      "question": "Choose the correct preposition: 'Can you compare your hometown ____ mine?'",
       "options": {
-        "A": "compare with",
-        "B": "compare on",
-        "C": "compare for",
-        "D": "compare about"
+        "A": "with",
+        "B": "on",
+        "C": "for",
+        "D": "about"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -486,7 +486,7 @@
       "question": "According to paragraph 1, birds use multiple navigation methods in order to:",
       "options": {
         "A": "Travel faster during migration",
-        "B": "Adapt to different conditions during journeys",
+        "B": "Adapt to different conditions",
         "C": "Avoid predators during migration",
         "D": "Save energy during long flights"
       },
