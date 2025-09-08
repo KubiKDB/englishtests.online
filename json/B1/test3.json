@@ -207,7 +207,7 @@
     },
     {
       "id": 18,
-      "question": "Select the correct option: 'My sister is very _____ of spiders.'",
+      "question": "Select the correct option: 'My sister is _____ of spiders.'",
       "options": {
         "A": "afraid",
         "B": "scared",
@@ -402,7 +402,7 @@
       "question": "What is the difference between 'answer' and 'reply'?",
       "options": {
         "A": "'Answer' is formal, 'reply' is informal.",
-        "B": "'Answer' is used for questions, 'reply' for statements or messages.",
+        "B": "'Answer' is used for questions, 'reply' for statements.",
         "C": "'Answer' is spoken, 'reply' is written.",
         "D": "There is no difference; they mean exactly the same thing."
       },
@@ -415,7 +415,7 @@
       "options": {
         "A": "discuss in a friendly way",
         "B": "present reasons to support an idea",
-        "C": "disagree with each other in an angry way",
+        "C": "disagree with each other",
         "D": "talk about different options"
       },
       "correct_answer": "C",
@@ -438,8 +438,8 @@
       "question": "What does 'debate' mean in this sentence: 'The politicians will debate the new law tomorrow'?",
       "options": {
         "A": "vote on",
-        "B": "formally discuss, giving different opinions",
-        "C": "approve",
+        "B": "formally discuss",
+        "C": "approve something",
         "D": "write about"
       },
       "correct_answer": "B",
@@ -485,7 +485,7 @@
       "id": 41,
       "question": "According to paragraph 1, why is the Amazon Rainforest called the 'lungs of the planet'?",
       "options": {
-        "A": "Because it covers 5.5 million square kilometers.",
+        "A": "Because it covers about 5.5 million square kilometers.",
         "B": "Because it produces about 20% of the world's oxygen.",
         "C": "Because it contains the Amazon River.",
         "D": "Because it spans nine countries."
@@ -523,7 +523,7 @@
       "options": {
         "A": "It causes climate change by releasing carbon dioxide.",
         "B": "It helps reduce climate change by absorbing carbon dioxide.",
-        "C": "It has no significant impact on climate change.",
+        "C": "It has no significant impact on climate change in South America.",
         "D": "It only affects the climate in South America."
       },
       "correct_answer": "B",
@@ -535,7 +535,7 @@
       "options": {
         "A": "created",
         "B": "shared",
-        "C": "gathered over time",
+        "C": "gathered",
         "D": "forgotten"
       },
       "correct_answer": "C",
@@ -545,7 +545,7 @@
       "id": 46,
       "question": "What does the passage suggest about indigenous communities in the Amazon?",
       "options": {
-        "A": "They contribute to deforestation.",
+        "A": "They contribute to deforestation by burning trees.",
         "B": "They have valuable knowledge about sustainable practices.",
         "C": "They are a recent addition to the rainforest.",
         "D": "They oppose international conservation efforts."
@@ -583,7 +583,7 @@
       "options": {
         "A": "criticize governments for not protecting the Amazon",
         "B": "compare the Amazon to other rainforests around the world",
-        "C": "provide information about the Amazon and highlight its importance",
+        "C": "provide information about the Amazon and its importance",
         "D": "explain how to visit the Amazon as a tourist"
       },
       "correct_answer": "C",
@@ -593,9 +593,9 @@
       "id": 50,
       "question": "According to the passage, which approach would be most effective for conserving the Amazon?",
       "options": {
-        "A": "Completely restricting all human activity in the rainforest",
+        "A": "Completely restricting all human activity in the rainforest of the Amazon",
         "B": "Learning from indigenous communities and implementing international cooperation",
-        "C": "Focusing only on reducing climate change globally",
+        "C": "Focusing only on reducing climate change globally and preserve indigenous communities",
         "D": "Allowing only scientists to access the rainforest"
       },
       "correct_answer": "B",
