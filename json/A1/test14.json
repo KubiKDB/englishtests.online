@@ -211,7 +211,7 @@
       "options": {
         "A": "I am fine",
         "B": "I am from Spain",
-        "C": "My name is John",
+        "C": "I am John",
         "D": "I am 25 years old"
       },
       "correct_answer": "C",
@@ -306,7 +306,7 @@
       "question": "What does the word 'policy' refer to?",
       "options": {
         "A": "A type of food",
-        "B": "A set of rules or plan of action",
+        "B": "A set of rules",
         "C": "A kind of animal",
         "D": "A place to visit"
       },
@@ -317,7 +317,7 @@
       "id": 27,
       "question": "What is 'exercise'?",
       "options": {
-        "A": "Physical activity to stay healthy",
+        "A": "A physical activity",
         "B": "A type of food",
         "C": "A place to sleep",
         "D": "A kind of clothing"
@@ -330,7 +330,7 @@
       "question": "What does 'shock' mean?",
       "options": {
         "A": "To feel very happy",
-        "B": "To feel very surprised or upset",
+        "B": "To feel very surprised",
         "C": "To feel very tired",
         "D": "To feel very hungry"
       },
@@ -344,7 +344,7 @@
         "A": "I am since the park.",
         "B": "She is since happy.",
         "C": "We have lived here since 2020.",
-        "D": "They work since the office."
+        "D": "They work at the office since a decade."
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -353,9 +353,9 @@
       "id": 30,
       "question": "What is a 'coach'?",
       "options": {
-        "A": "A type of food",
-        "B": "A person who teaches sports",
-        "C": "A place to live",
+        "A": "A type of building",
+        "B": "A sports teacher",
+        "C": "A place to walk",
         "D": "A small animal"
       },
       "correct_answer": "B",
@@ -377,7 +377,7 @@
       "id": 32,
       "question": "What does 'identify' mean?",
       "options": {
-        "A": "To recognize or name something",
+        "A": "To recognize something",
         "B": "To forget something",
         "C": "To eat something",
         "D": "To break something"
@@ -391,7 +391,7 @@
       "options": {
         "A": "Very soft",
         "B": "Very small",
-        "C": "Strong or solid",
+        "C": "Very solid",
         "D": "Very cold"
       },
       "correct_answer": "C",
@@ -413,7 +413,7 @@
       "id": 35,
       "question": "Which body part is the 'head'?",
       "options": {
-        "A": "The part of the body with the eyes, nose, and mouth",
+        "A": "The part of the body with the eyes",
         "B": "The part of the body with the toes",
         "C": "The part of the body with the fingers",
         "D": "The part of the body with the stomach"
@@ -427,7 +427,7 @@
       "options": {
         "A": "To find something",
         "B": "To break something",
-        "C": "To put something in the place of another thing",
+        "C": "To put something else",
         "D": "To make something dirty"
       },
       "correct_answer": "C",
@@ -462,7 +462,7 @@
       "question": "What does 'just' mean in the sentence 'I just finished my homework'?",
       "options": {
         "A": "I finished my homework a long time ago",
-        "B": "I finished my homework right now or very recently",
+        "B": "I finished my homework right now",
         "C": "I will finish my homework tomorrow",
         "D": "I never finish my homework"
       },
@@ -474,9 +474,9 @@
       "question": "If something is 'popular', it is:",
       "options": {
         "A": "Liked by many people",
-        "B": "Very boring",
-        "C": "Very small",
-        "D": "Very expensive"
+        "B": "Boring to everyone",
+        "C": "Cheap in use",
+        "D": "Too expensive"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -486,7 +486,7 @@
       "question": "According to paragraph 1, what is a colony?",
       "options": {
         "A": "A type of ant",
-        "B": "A group of ants living together",
+        "B": "A group of ants",
         "C": "A place where ants find food",
         "D": "The queen ant"
       },
@@ -534,7 +534,7 @@
       "question": "According to paragraph 3, how do ants communicate?",
       "options": {
         "A": "By making sounds",
-        "B": "By using special chemicals called pheromones",
+        "B": "By using pheromones",
         "C": "By dancing",
         "D": "By writing messages"
       },
@@ -547,7 +547,7 @@
       "options": {
         "A": "It eats all the food",
         "B": "It makes a loud noise",
-        "C": "It leaves a chemical trail for other ants to follow",
+        "C": "It leaves a chemical trail",
         "D": "It calls the queen"
       },
       "correct_answer": "C",
@@ -595,7 +595,7 @@
       "options": {
         "A": "How ants find food",
         "B": "How ants communicate",
-        "C": "How ants work together in a colony",
+        "C": "How ants work together",
         "D": "How the queen ant lays eggs"
       },
       "correct_answer": "C",
