@@ -116,7 +116,7 @@
     {
       "id": 17,
       "question": "Choose the correct response to 'Would you like some cake?'",
-      "options": {"A": "Yes, I'd love to.", "B": "Yes, please.", "C": "Yes, I am.", "D": "Yes, I would."},
+      "options": {"A": "Yes, I'd love to.", "B": "Yes, I do.", "C": "Yes, I am.", "D": "Yes, I would."},
       "correct_answer": "B",
       "category": "Use of English"
     },
@@ -130,7 +130,7 @@
     {
       "id": 19,
       "question": "Which expression do you use to ask for help?",
-      "options": {"A": "Could you help me, please?", "B": "Do you want help?", "C": "I help you?", "D": "Do I help you?"},
+      "options": {"A": "Could you help me?", "B": "Do you want help?", "C": "I help you?", "D": "Do I help you?"},
       "correct_answer": "A",
       "category": "Use of English"
     },
@@ -179,28 +179,28 @@
     {
       "id": 26,
       "question": "What does 'introduce' mean in this sentence? 'Let me introduce my friend Tom.'",
-      "options": {"A": "to show someone to others for the first time", "B": "to bring something new", "C": "to explain something", "D": "to invite someone"},
+      "options": {"A": "to show someone to others", "B": "to bring something new", "C": "to explain something", "D": "to invite someone"},
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 27,
       "question": "Choose the correct meaning of 'record' in 'I want to record this song.'",
-      "options": {"A": "to write down", "B": "to save sound or video", "C": "to remember", "D": "to play music"},
+      "options": {"A": "to write down", "B": "to save sound", "C": "to remember", "D": "to play music"},
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 28,
       "question": "Which sentence uses 'cold' correctly?",
-      "options": {"A": "I have a cold tea.", "B": "The winter is very cold.", "C": "She speaks in a cold.", "D": "They cold the food."},
+      "options": {"A": "I have a cold chicken.", "B": "The winter is very cold.", "C": "She speaks in a cold.", "D": "They cold the food."},
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 29,
       "question": "What does 'home' mean in 'I'm going home now.'?",
-      "options": {"A": "a place where someone lives", "B": "a building", "C": "a country", "D": "a family"},
+      "options": {"A": "a place to lives", "B": "a building in a city", "C": "a country in Europe", "D": "a big family"},
       "correct_answer": "A",
       "category": "Vocabulary"
     },
@@ -221,8 +221,8 @@
     {
       "id": 32,
       "question": "Choose the correct meaning of 'over' in 'The cat jumped over the wall.'",
-      "options": {"A": "above", "B": "inside", "C": "from one side to the other side", "D": "under"},
-      "correct_answer": "C",
+      "options": {"A": "above", "B": "inside", "C": "next to", "D": "under"},
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
@@ -270,14 +270,14 @@
     {
       "id": 39,
       "question": "What is a 'forest'?",
-      "options": {"A": "a place with many trees", "B": "a large city", "C": "a small river", "D": "a type of animal"},
+      "options": {"A": "a group of trees", "B": "a large city", "C": "a small river", "D": "a type of animal"},
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 40,
       "question": "Choose the correct meaning of 'miss' in 'I miss my family.'",
-      "options": {"A": "to fail to see", "B": "to feel sad because someone is not there", "C": "to not like", "D": "to forget"},
+      "options": {"A": "to fail to see", "B": "to want to see", "C": "to not like", "D": "to forget"},
       "correct_answer": "B",
       "category": "Vocabulary"
     },
@@ -340,8 +340,8 @@
     {
       "id": 49,
       "question": "According to the passage, when do our senses work?",
-      "options": {"A": "Only during the day", "B": "Only when we are awake", "C": "Always, even when we are sleeping", "D": "Only when we need them"},
-      "correct_answer": "C",
+      "options": {"A": "Only during the day", "B": "Only when we are awake", "C": "Only when we need them", "D": "Always"},
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
