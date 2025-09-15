@@ -15,38 +15,38 @@
     },
     {
       "id": 2,
-      "question": "Choose the correct preposition: The book is _____ the table.",
+      "question": "Choose the correct preposition: She’s really good _____ playing the guitar.",
       "options": {
-        "A": "in",
-        "B": "on",
-        "C": "at",
-        "D": "by"
+        "A": "on",
+        "B": "at",
+        "C": "in",
+        "D": "for"
       },
       "correct_answer": "B",
-      "category": "Grammar"
-    },
-    {
-      "id": 3,
-      "question": "Select the correct form: If it _____ tomorrow, we will cancel the picnic.",
-      "options": {
-        "A": "rains",
-        "B": "will rain",
-        "C": "would rain",
-        "D": "is raining"
-      },
-      "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 4,
       "question": "Which sentence is grammatically correct?",
       "options": {
-        "A": "She don't like coffee.",
-        "B": "She doesn't likes coffee.",
-        "C": "She doesn't like coffee.",
-        "D": "She not like coffee."
+        "A": "If it will rain tomorrow, we stay at home.",
+        "B": "If it rains tomorrow, we will stay at home.",
+        "C": "If it raining tomorrow, we stay at home.",
+        "D": "If it rain tomorrow, we will staying at home."
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence is grammatically correct?",
+      "options": {
+        "A": "I have visited Paris last summer.",
+        "B": "I visited Paris last summer.",
+        "C": "I was visit Paris last summer.",
+        "D": "I have been in Paris last summer."
+      },
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
@@ -269,10 +269,10 @@
       "id": 23,
       "question": "Which is the correct response to 'Thank you'?",
       "options": {
-        "A": "With pleasure",
+        "A": "Of course not",
         "B": "You're welcome",
-        "C": "It doesn't matter",
-        "D": "Not at all bad"
+        "C": "Why not",
+        "D": "Never mind it"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -389,10 +389,10 @@
       "id": 33,
       "question": "A 'branch' of a bank is:",
       "options": {
-        "A": "the main headquarters",
+        "A": "the main headquarters of a bank",
         "B": "a separate location of the same bank",
-        "C": "a type of account",
-        "D": "a security system"
+        "C": "a type of account in the same bank",
+        "D": "a security system of a bank"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -427,7 +427,7 @@
       "options": {
         "A": "She instead going to the party.",
         "B": "Instead of going to the party, she stayed home.",
-        "C": "She went to the party instead of.",
+        "C": "She went to the party instead of her illness.",
         "D": "She instead of went to the party."
       },
       "correct_answer": "B",
