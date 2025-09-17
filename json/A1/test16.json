@@ -15,12 +15,12 @@
     },
     {
       "id": 2,
-      "question": "Choose the correct plural form of 'woman':",
+      "question": "Choose the correct plural form of 'goose':",
       "options": {
-        "A": "womans",
-        "B": "womens",
-        "C": "woman",
-        "D": "women"
+        "A": "gooses",
+        "B": "geeses",
+        "C": "goeses",
+        "D": "geese"
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -56,14 +56,14 @@
         "A": "friend",
         "B": "friends",
         "C": "friend's",
-        "D": "friends'"
+        "D": "friend'"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 6,
-      "question": "Which is the correct past tense form of the verb 'go'?",
+      "question": "Which is the correct past simple tense form of the verb 'go'?",
       "options": {
         "A": "goed",
         "B": "went",
@@ -137,12 +137,12 @@
       "id": 12,
       "question": "Choose the correct sentence:",
       "options": {
-        "A": "She not like pizza.",
-        "B": "She doesn't likes pizza.",
-        "C": "She don't like pizza.",
-        "D": "She doesn't like pizza."
+        "A": "He like to swim.",
+        "B": "He likes swim.",
+        "C": "He likes to swim.",
+        "D": "He liking to swim."
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -161,22 +161,21 @@
       "id": 14,
       "question": "Which sentence has the correct word order?",
       "options": {
-        "A": "I like very much coffee.",
-        "B": "I very like much coffee.",
-        "C": "I like coffee very much.",
-        "D": "I coffee like very much."
-      },
+        "A": "Always I read books in the evening.",
+        "B": "I read books always in the evening.",
+        "C": "I always read books in the evening.",
+        "D": "I read always books in the evening.",
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 15,
-      "question": "Choose the correct form for a habitual action: 'She ___ coffee every morning.'",
+      "question": "Choose the correct word: 'My birthday is ___ May.'",
       "options": {
-        "A": "drink",
-        "B": "drinking",
-        "C": "drinks",
-        "D": "is drinking"
+        "A": "at",
+        "B": "on",
+        "C": "in",
+        "D": "by"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -200,7 +199,7 @@
         "A": "ago",
         "B": "beside",
         "C": "still",
-        "D": "whole"
+        "D": "across"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -209,10 +208,10 @@
       "id": 18,
       "question": "Choose the correct word to complete the sentence: 'I ___ to listen to music in my free time.'",
       "options": {
-        "A": "term",
-        "B": "sheep",
-        "C": "want",
-        "D": "cinema"
+        "A": "never",
+        "B": "ever",
+        "C": "like",
+        "D": "am"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -224,7 +223,7 @@
         "A": "want",
         "B": "listen",
         "C": "voice",
-        "D": "sheep"
+        "D": "hear"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -234,9 +233,9 @@
       "question": "Select the best word: 'The movie at the ___ starts at 7 PM.'",
       "options": {
         "A": "cinema",
-        "B": "union",
-        "C": "shelter",
-        "D": "voice"
+        "B": "shop",
+        "C": "street",
+        "D": "school"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -245,10 +244,10 @@
       "id": 21,
       "question": "Choose the correct word: 'We need a ___ from the rain.'",
       "options": {
-        "A": "voice",
-        "B": "term",
+        "A": "umbrella",
+        "B": "car",
         "C": "shelter",
-        "D": "cinema"
+        "D": "house"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -257,10 +256,10 @@
       "id": 22,
       "question": "Complete the sentence: 'The ___ helped me find the book I needed.'",
       "options": {
-        "A": "sheep",
-        "B": "lady",
-        "C": "union",
-        "D": "term"
+        "A": "baker",
+        "B": "librarian",
+        "C": "policeman",
+        "D": "driver"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -270,9 +269,9 @@
       "question": "Select the correct word: 'This problem is ___ to the one we solved yesterday.'",
       "options": {
         "A": "related",
-        "B": "cinema",
-        "C": "voice",
-        "D": "lady"
+        "B": "same",
+        "C": "as",
+        "D": "however"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -283,8 +282,8 @@
       "options": {
         "A": "ago",
         "B": "beside",
-        "C": "term",
-        "D": "still"
+        "C": "above",
+        "D": "about"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -293,10 +292,10 @@
       "id": 25,
       "question": "Complete the sentence: 'She is ___ waiting for her friend to arrive.'",
       "options": {
-        "A": "related",
-        "B": "whole",
+        "A": "style",
+        "B": "for",
         "C": "still",
-        "D": "sheep"
+        "D": "much"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -305,10 +304,10 @@
       "id": 26,
       "question": "Which word means 'sound made when speaking or singing'?",
       "options": {
-        "A": "lady",
+        "A": "noise",
         "B": "voice",
-        "C": "sheep",
-        "D": "union"
+        "C": "hear",
+        "D": "here"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -317,10 +316,10 @@
       "id": 27,
       "question": "Which word means 'a word or phrase used for a specific thing'?",
       "options": {
-        "A": "cinema",
-        "B": "union",
+        "A": "norm",
+        "B": "name",
         "C": "term",
-        "D": "shelter"
+        "D": "sentence"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -329,34 +328,34 @@
       "id": 28,
       "question": "Which word means 'next to something or someone'?",
       "options": {
-        "A": "ago",
+        "A": "behind",
         "B": "beside",
         "C": "related",
-        "D": "whole"
+        "D": "closed"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 29,
-      "question": "Which word means 'to say yes to something offered'?",
+      "question": "Which word means 'to say no to something offered'?",
       "options": {
         "A": "listen",
-        "B": "accept",
+        "B": "reject",
         "C": "want",
-        "D": "shelter"
+        "D": "accept"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 30,
-      "question": "Which word means 'a place that protects from bad weather or danger'?",
+      "question": "Which word means 'a thing that protects from rain'?",
       "options": {
-        "A": "shelter",
-        "B": "cinema",
-        "C": "lady",
-        "D": "union"
+        "A": "umbrella",
+        "B": "hat",
+        "C": "pocket",
+        "D": "pants"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -365,10 +364,10 @@
       "id": 31,
       "question": "Which word refers to an animal that gives wool?",
       "options": {
-        "A": "term",
-        "B": "shelter",
+        "A": "chicken",
+        "B": "cow",
         "C": "sheep",
-        "D": "voice"
+        "D": "wolf"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -377,10 +376,10 @@
       "id": 32,
       "question": "Which word means 'an adult female person'?",
       "options": {
-        "A": "cinema",
+        "A": "girl",
         "B": "lady",
-        "C": "union",
-        "D": "shelter"
+        "C": "daughter",
+        "D": "sister"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -389,9 +388,9 @@
       "id": 33,
       "question": "Which word means 'to pay attention to sounds'?",
       "options": {
-        "A": "accept",
+        "A": "speak",
         "B": "voice",
-        "C": "want",
+        "C": "ears",
         "D": "listen"
       },
       "correct_answer": "D",
@@ -402,9 +401,9 @@
       "question": "Which word means 'to desire something'?",
       "options": {
         "A": "want",
-        "B": "accept",
-        "C": "listen",
-        "D": "related"
+        "B": "need",
+        "C": "have",
+        "D": "own"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -413,9 +412,9 @@
       "id": 35,
       "question": "Which word means 'connected to something'?",
       "options": {
-        "A": "whole",
-        "B": "still",
-        "C": "ago",
+        "A": "needed",
+        "B": "wanted",
+        "C": "planted",
         "D": "related"
       },
       "correct_answer": "D",
@@ -426,9 +425,9 @@
       "question": "Which word means 'in the past'?",
       "options": {
         "A": "still",
-        "B": "beside",
+        "B": "now",
         "C": "ago",
-        "D": "whole"
+        "D": "yet"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -437,10 +436,10 @@
       "id": 37,
       "question": "Which word means 'a group of people or organizations joined together'?",
       "options": {
-        "A": "term",
+        "A": "class",
         "B": "union",
-        "C": "cinema",
-        "D": "shelter"
+        "C": "town",
+        "D": "city"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -449,10 +448,10 @@
       "id": 38,
       "question": "Which word means 'continuing to happen or not moving'?",
       "options": {
-        "A": "whole",
+        "A": "gone",
         "B": "still",
-        "C": "ago",
-        "D": "related"
+        "C": "stay",
+        "D": "stand"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -462,21 +461,21 @@
       "question": "Which word means 'complete or entire'?",
       "options": {
         "A": "whole",
-        "B": "related",
-        "C": "still",
-        "D": "ago"
+        "B": "full",
+        "C": "hole",
+        "D": "owl"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 40,
-      "question": "Which word means 'a place where people go to watch movies'?",
+      "question": "Which word means 'a place where people go to watch plays'?",
       "options": {
-        "A": "shelter",
-        "B": "union",
-        "C": "cinema",
-        "D": "term"
+        "A": "cinema",
+        "B": "store",
+        "C": "theater",
+        "D": "library"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -500,7 +499,7 @@
         "A": "In the morning",
         "B": "At night",
         "C": "Before it rains",
-        "D": "In the late afternoon"
+        "D": "In the afternoon"
       },
       "correct_answer": "D",
       "category": "Reading"
@@ -546,8 +545,8 @@
       "question": "According to the passage, why do the colors in sunlight separate?",
       "options": {
         "A": "Because the sun is far away",
-        "B": "Because each color bends at a different angle",
-        "C": "Because raindrops are round",
+        "B": "Because colors bend at different angles",
+        "C": "Because raindrops are round and transparent",
         "D": "Because the sky is blue"
       },
       "correct_answer": "B",
@@ -572,7 +571,7 @@
         "A": "Because the sun is too bright",
         "B": "Because the ground blocks the lower half",
         "C": "Because rainbows are too big",
-        "D": "Because our eyes can only see half"
+        "D": "Because our eyes can only see half a rainbow"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -593,9 +592,9 @@
       "id": 50,
       "question": "According to the passage, where else can you see small rainbows?",
       "options": {
-        "A": "In mountains and forests",
+        "A": "In mountains, especially volcanoes, and forests",
         "B": "In soap bubbles, garden sprinklers, and waterfalls",
-        "C": "In lakes and oceans",
+        "C": "In lakes, seas, and oceans",
         "D": "In windows and mirrors"
       },
       "correct_answer": "B",
