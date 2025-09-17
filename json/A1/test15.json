@@ -55,7 +55,7 @@
       "options": {
         "A": "I has a dog.",
         "B": "You has two brothers.",
-        "C": "She have a new car.",
+        "C": "We has a new car.",
         "D": "He has blue eyes."
       },
       "correct_answer": "D",
@@ -128,7 +128,7 @@
         "A": "He is an doctor.",
         "B": "I need a umbrella.",
         "C": "She has an orange.",
-        "D": "They have a hour."
+        "D": "They ran a hour."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -183,7 +183,7 @@
     },
     {
       "id": 16,
-      "question": "Choose the correct way to greet someone in the morning.",
+      "question": "Choose the correct way to greet someone when the sun rises.",
       "options": {
         "A": "Good night!",
         "B": "Good evening!",
@@ -267,14 +267,14 @@
     },
     {
       "id": 23,
-      "question": "Which is the correct response to 'How are you?'",
+      "question": "You see a cat on a chair. What can you say?",
       "options": {
-        "A": "I am John.",
-        "B": "I am from London.",
-        "C": "I am fine, thank you.",
-        "D": "I am 25 years old."
+        "A": "The cat is on the chair.",
+        "B": "The chair is a cat.",
+        "C": "Cat chair!",
+        "D": "The chair on the cat."
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Use of English"
     },
     {
@@ -282,7 +282,7 @@
       "question": "Choose the correct way to ask for help.",
       "options": {
         "A": "You help me?",
-        "B": "Can you help me, please?",
+        "B": "Can you help me?",
         "C": "Help, you?",
         "D": "Help me, can?"
       },
@@ -294,23 +294,23 @@
       "question": "Which is the correct way to order food in a restaurant?",
       "options": {
         "A": "I eating fish, please.",
-        "B": "Give me fish.",
+        "B": "Give me fish, please.",
         "C": "I would like the fish, please.",
-        "D": "Fish for me."
+        "D": "Fish for me, please."
       },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 26,
-      "question": "What do animals do to find food?",
+      "question": "What sound does a dog make?",
       "options": {
-        "A": "Hunt",
-        "B": "Sleep",
-        "C": "Read",
-        "D": "Write"
+        "A": "Meow",
+        "B": "Woof",
+        "C": "Moo",
+        "D": "Quack"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
@@ -356,7 +356,7 @@
         "A": "Plate",
         "B": "Cup",
         "C": "Bowl",
-        "D": "Fork"
+        "D": "Vase"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -497,7 +497,7 @@
       "id": 42,
       "question": "According to the passage, what makes giraffes so tall?",
       "options": {
-        "A": "Their heads",
+        "A": "Their long heads and tails",
         "B": "Their bodies",
         "C": "Their long necks and legs",
         "D": "Their feet"
@@ -511,7 +511,7 @@
       "options": {
         "A": "Brown",
         "B": "Yellow",
-        "C": "Yellow and brown spotted",
+        "C": "Yellow and brown",
         "D": "White and black"
       },
       "correct_answer": "C",
@@ -524,7 +524,7 @@
         "A": "Only leaves",
         "B": "Leaves, fruits, and flowers",
         "C": "Only fruits",
-        "D": "Grass and plants"
+        "D": "Only grass and plants"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -533,10 +533,10 @@
       "id": 45,
       "question": "Why do giraffes need a strong heart?",
       "options": {
-        "A": "Because they run fast",
+        "A": "Because they can run very fast",
         "B": "Because they are very heavy",
-        "C": "Because they need to pump blood to their brain",
-        "D": "Because they eat a lot"
+        "C": "Because they need to pump blood",
+        "D": "Because they eat a lot of food"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -559,7 +559,7 @@
       "options": {
         "A": "They bend their necks",
         "B": "They sit down",
-        "C": "They spread their front legs wide",
+        "C": "They spread their legs",
         "D": "They use their tongues"
       },
       "correct_answer": "C",
@@ -583,8 +583,8 @@
       "options": {
         "A": "Six months",
         "B": "One year",
-        "C": "About one and a half years",
-        "D": "Two years"
+        "C": "One and a half years",
+        "D": "Two and a half years"
       },
       "correct_answer": "C",
       "category": "Reading"
