@@ -3,14 +3,14 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which sentence is grammatically correct?",
+      "question": "Which sentence is correct about a future plan?",
       "options": {
-        "A": "She don't like coffee.",
-        "B": "She doesn't likes coffee.",
-        "C": "She not like coffee.",
-        "D": "She doesn't like coffee."
+        "A": "I going to visit my cousin tomorrow.",
+        "B": "I am going visit my cousin tomorrow.",
+        "C": "I am going to visit my cousin tomorrow.",
+        "D": "I will going to visit my cousin tomorrow."
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -41,10 +41,10 @@
       "id": 4,
       "question": "Which sentence uses the present continuous correctly?",
       "options": {
-        "A": "He watching TV now.",
-        "B": "He is watching TV now.",
-        "C": "He watch TV now.",
-        "D": "He watches TV now."
+        "A": "He listening podcasts now.",
+        "B": "He is listening podcasts now.",
+        "C": "He listen podcasts now.",
+        "D": "He listens podcasts now."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -80,7 +80,7 @@
         "A": "have",
         "B": "having",
         "C": "are having",
-        "D": "has"
+        "D": "were having"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -147,14 +147,14 @@
     },
     {
       "id": 13,
-      "question": "Choose the correct order of adjectives: 'She has a ___ car.'",
+      "question": "Choose the correct order of adjectives: 'He bought a ___ hat.'",
       "options": {
-        "A": "new red big",
-        "B": "red big new",
-        "C": "big new red",
-        "D": "big red new"
+        "A": "woolen blue nice",
+        "B": "nice blue woolen",
+        "C": "blue woolen nice",
+        "D": "woolen nice blue"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
@@ -171,14 +171,14 @@
     },
     {
       "id": 15,
-      "question": "Select the correct form: 'If it ___ tomorrow, we'll stay at home.'",
+      "question": "Select the correct form: 'If we ___ hungry later, we'll order pizza.'",
       "options": {
-        "A": "rain",
-        "B": "rains",
-        "C": "raining",
-        "D": "will rain"
+        "A": "get",
+        "B": "gets",
+        "C": "getting",
+        "D": "will get"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
@@ -207,12 +207,12 @@
     },
     {
       "id": 18,
-      "question": "Choose the correct response: 'Would you like some tea?' '___'",
+      "question": "Choose the correct response: 'Do you want a slice of cake?' '___'",
       "options": {
-        "A": "Yes, I'd like.",
+        "A": "Yes, I want.",
         "B": "Yes, please.",
         "C": "Yes, I am.",
-        "D": "Yes, I do."
+        "D": "Yes, I do want.",
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -233,7 +233,7 @@
       "id": 20,
       "question": "Select the best phrase: '___ you help me, please?'",
       "options": {
-        "A": "Would",
+        "A": "Should",
         "B": "Are",
         "C": "Could",
         "D": "Do"
@@ -247,8 +247,8 @@
       "options": {
         "A": "slowly",
         "B": "fastly",
-        "C": "quick",
-        "D": "good"
+        "C": "quicker",
+        "D": "better"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -294,8 +294,8 @@
       "question": "Select the best response: 'How was your weekend?' '___'",
       "options": {
         "A": "Yes, it was.",
-        "B": "I'm fine, thanks.",
-        "C": "It was great, thanks.",
+        "B": "I'm fine.",
+        "C": "It was great.",
         "D": "No, I didn't."
       },
       "correct_answer": "C",
@@ -306,9 +306,9 @@
       "question": "What does the word 'police' refer to?",
       "options": {
         "A": "People who protect citizens and enforce laws",
-        "B": "People who teach in schools",
-        "C": "People who work in hospitals",
-        "D": "People who work in restaurants"
+        "B": "People who teach in schools and help children",
+        "C": "People who work in hospitals and treat patients",
+        "D": "People who work in restaurants and serve customers"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -330,9 +330,9 @@
       "question": "What is the meaning of 'return'?",
       "options": {
         "A": "To come back",
-        "B": "To leave",
-        "C": "To start",
-        "D": "To forget"
+        "B": "To leave again",
+        "C": "To start over",
+        "D": "To forget about"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -342,9 +342,9 @@
       "question": "Choose the correct definition for 'trouble':",
       "options": {
         "A": "A happy situation",
-        "B": "A difficult situation or problem",
+        "B": "A difficult situation",
         "C": "A surprise party",
-        "D": "A type of food"
+        "D": "A second chance"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -353,10 +353,10 @@
       "id": 30,
       "question": "What is a 'hospital'?",
       "options": {
-        "A": "A place where people go shopping",
-        "B": "A place where children learn",
+        "A": "A place where people go for shopping and entertainment",
+        "B": "A place where children learn and play together",
         "C": "A place where sick people receive medical care",
-        "D": "A place where people live"
+        "D": "A place where people live and work"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -377,10 +377,10 @@
       "id": 32,
       "question": "What does the word 'bring' mean?",
       "options": {
-        "A": "To take away",
+        "A": "To take away something",
         "B": "To come with something",
-        "C": "To forget",
-        "D": "To break"
+        "C": "To forget about something",
+        "D": "To break something down"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -389,9 +389,9 @@
       "id": 33,
       "question": "Choose the correct definition for 'describe':",
       "options": {
-        "A": "To hide something",
-        "B": "To say what someone or something is like",
-        "C": "To break something",
+        "A": "To hide something from everyone",
+        "B": "To say what something is like",
+        "C": "To clean something",
         "D": "To run quickly"
       },
       "correct_answer": "B",
@@ -404,7 +404,7 @@
         "A": "To get ready for something",
         "B": "To forget about something",
         "C": "To destroy something",
-        "D": "To sleep"
+        "D": "To learn something"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -413,10 +413,10 @@
       "id": 35,
       "question": "What is 'money'?",
       "options": {
-        "A": "Things we wear",
-        "B": "Things we eat",
-        "C": "Coins and notes we use to buy things",
-        "D": "Places we visit"
+        "A": "Things we use to wear",
+        "B": "Things we use to eat",
+        "C": "Things we use to buy",
+        "D": "Places we use to visit"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -425,10 +425,10 @@
       "id": 36,
       "question": "What is a 'ticket'?",
       "options": {
-        "A": "A small piece of paper that allows you to enter or travel",
-        "B": "A type of food",
-        "C": "A piece of furniture",
-        "D": "A kind of animal"
+        "A": "A thing that allows you to enter",
+        "B": "A thing that allows you to buy food",
+        "C": "A thing that allows you to see",
+        "D": "A thing that allows you to hear"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -437,7 +437,7 @@
       "id": 37,
       "question": "What part of the body is the 'head'?",
       "options": {
-        "A": "The part below your neck where your brain is",
+        "A": "The part above your neck",
         "B": "The part you stand on",
         "C": "The middle part of your body",
         "D": "The part you use to hold things"
@@ -451,7 +451,7 @@
       "options": {
         "A": "Not at all",
         "B": "Completely",
-        "C": "Nearly but not completely",
+        "C": "Nearly",
         "D": "Very far away"
       },
       "correct_answer": "C",
@@ -461,10 +461,10 @@
       "id": 39,
       "question": "What does 'date' refer to?",
       "options": {
-        "A": "A specific day of the month or year",
-        "B": "A type of animal",
-        "C": "A kind of weather",
-        "D": "A place to live"
+        "A": "A specific day",
+        "B": "A specific form",
+        "C": "A specific color",
+        "D": "A specific place"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -475,7 +475,7 @@
       "options": {
         "A": "The part you see with",
         "B": "The part you hear with",
-        "C": "The part in the middle of your face that you smell with",
+        "C": "The part you smell with",
         "D": "The part you speak with"
       },
       "correct_answer": "C",
@@ -522,7 +522,7 @@
       "question": "What can phone apps do to help with saving money?",
       "options": {
         "A": "Give you free money",
-        "B": "Remind you to save and show your savings",
+        "B": "Remind you to save money",
         "C": "Make your budget for you",
         "D": "Find sales at stores"
       },
@@ -570,7 +570,7 @@
       "question": "Which of these is mentioned as a way to save money in paragraph 2?",
       "options": {
         "A": "Using credit cards",
-        "B": "Looking for sales when shopping",
+        "B": "Looking for sales",
         "C": "Borrowing from friends",
         "D": "Living in a small house"
       },
@@ -581,7 +581,7 @@
       "id": 49,
       "question": "According to the passage, what can savings help you pay for during difficult times?",
       "options": {
-        "A": "Vacations",
+        "A": "Vacations and leisure",
         "B": "Luxury items",
         "C": "Food and housing",
         "D": "New cars"
@@ -593,9 +593,9 @@
       "id": 50,
       "question": "What is the main topic of this passage?",
       "options": {
-        "A": "How to spend money",
+        "A": "How to spend money properly",
         "B": "The importance of saving money",
-        "C": "Different types of banks",
+        "C": "Different types of banks and currencies",
         "D": "How to make a budget"
       },
       "correct_answer": "B",
