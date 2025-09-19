@@ -3,12 +3,12 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which verb form correctly completes this sentence? 'She ___ to the store yesterday.'",
+      "question": "Which verb form correctly completes this sentence? 'They ___ a great movie last night.'",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "went",
-        "D": "going"
+        "A": "watch",
+        "B": "watches",
+        "C": "watched",
+        "D": "watching"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -27,12 +27,12 @@
     },
     {
       "id": 3,
-      "question": "Select the correct preposition: 'The book is ___ the table.'",
+      "question": "Select the correct preposition: 'There is a mirror ___ the wall above the sofa.'",
       "options": {
         "A": "on",
         "B": "in",
-        "C": "at",
-        "D": "by"
+        "C": "over",
+        "D": "at"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -41,24 +41,24 @@
       "id": 4,
       "question": "Which sentence is grammatically correct?",
       "options": {
-        "A": "They doesn't like coffee.",
-        "B": "They don't likes coffee.",
-        "C": "They don't like coffee.",
-        "D": "They not like coffee."
+        "A": "He don't eat breakfast early.",
+        "B": "He doesn't eats breakfast early.",
+        "C": "He doesn't eat breakfast early.",
+        "D": "He not eat breakfast early."
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 5,
-      "question": "Choose the correct past tense form: 'I ___ breakfast at 8 AM today.'",
+      "question": "Choose the correct past tense form: 'We ___ football in the park yesterday.'",
       "options": {
-        "A": "eat",
-        "B": "eating",
-        "C": "ate",
-        "D": "eats"
+        "A": "play",
+        "B": "played",
+        "C": "playing",
+        "D": "plays"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
@@ -75,14 +75,14 @@
     },
     {
       "id": 7,
-      "question": "Choose the correct article: 'I saw ___ elephant at the zoo.'",
+      "question": "Choose the correct article: 'I saw ___ lion at the zoo.'",
       "options": {
         "A": "a",
         "B": "an",
         "C": "the",
         "D": "no article needed"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
@@ -111,12 +111,12 @@
     },
     {
       "id": 10,
-      "question": "Choose the correct possessive form: 'That is ___ car.'",
+      "question": "Choose the correct possessive form: 'This is ___ backpack.'",
       "options": {
-        "A": "they",
-        "B": "them",
-        "C": "their",
-        "D": "theirs"
+        "A": "he",
+        "B": "him",
+        "C": "his",
+        "D": "hers"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -185,7 +185,7 @@
       "id": 16,
       "question": "Complete the sentence with the correct expression: 'I need to ___ this form before Friday.'",
       "options": {
-        "A": "fill in",
+        "A": "fill over",
         "B": "fill out",
         "C": "fill up",
         "D": "fill down"
@@ -207,19 +207,19 @@
     },
     {
       "id": 18,
-      "question": "Choose the correct response to the question 'How are you?'",
+      "question": "Choose the correct response to the question 'Where are you from?'",
       "options": {
-        "A": "I am 25 years old.",
+        "A": "I am at Spain.",
         "B": "I am from Spain.",
-        "C": "I am fine, thank you.",
-        "D": "I am a teacher."
+        "C": "I am in Spain.",
+        "D": "I am of Spain."
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 19,
-      "question": "Select the best option to complete this sentence: 'Would you like ___ coffee?'",
+      "question": "Select the best option to complete this sentence: 'Would you like ___ sugar?'",
       "options": {
         "A": "a",
         "B": "an",
@@ -243,14 +243,14 @@
     },
     {
       "id": 21,
-      "question": "Choose the correct option: 'I usually ___ breakfast at 7 AM.'",
+      "question": "Choose the correct option: 'Every evening, I ___ a shower before dinner.'",
       "options": {
         "A": "do",
-        "B": "make",
-        "C": "have",
-        "D": "take"
+        "B": "take",
+        "C": "make",
+        "D": "have"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
@@ -267,7 +267,7 @@
     },
     {
       "id": 23,
-      "question": "Which phrase best completes this sentence? 'She plays tennis ___ Saturdays.'",
+      "question": "Which phrase best completes this sentence? 'We visit our grandparents ___ Sundays.'",
       "options": {
         "A": "in",
         "B": "at",
@@ -306,7 +306,7 @@
       "question": "What does the word 'post' mean in this sentence? 'I need to post this letter to my friend.'",
       "options": {
         "A": "to write",
-        "B": "to send by mail",
+        "B": "to send",
         "C": "to read",
         "D": "to draw"
       },
@@ -315,12 +315,12 @@
     },
     {
       "id": 27,
-      "question": "Choose the correct word: 'What ___ shoe do you wear?'",
+      "question": "Choose the correct word: 'What shoe ___ do you wear?'",
       "options": {
-        "A": "color",
+        "A": "number",
         "B": "size",
-        "C": "shape",
-        "D": "style"
+        "C": "length",
+        "D": "figure"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -378,7 +378,7 @@
       "question": "Choose the correct definition of 'neighbor':",
       "options": {
         "A": "a person who lives in your country",
-        "B": "a person who lives next to or near you",
+        "B": "a person who lives near you",
         "C": "a person in your family",
         "D": "a person you work with"
       },
@@ -402,7 +402,7 @@
       "question": "Which sentence uses 'angry' correctly?",
       "options": {
         "A": "She feels angry because she lost her keys.",
-        "B": "The cake tastes angry.",
+        "B": "The cake tastes angry without coffee.",
         "C": "The weather is angry today.",
         "D": "He drives angry to work."
       },
@@ -414,8 +414,8 @@
       "question": "What does 'several' mean in this sentence? 'I have visited that city several times.'",
       "options": {
         "A": "two",
-        "B": "a few, more than two",
-        "C": "many, hundreds",
+        "B": "a few",
+        "C": "many",
         "D": "once"
       },
       "correct_answer": "B",
@@ -425,8 +425,8 @@
       "id": 36,
       "question": "Choose the correct sentence using 'topic':",
       "options": {
-        "A": "We talked about an interesting topic at the meeting.",
-        "B": "I ate a topic for lunch.",
+        "A": "We talked about an interesting topic.",
+        "B": "I ate a delicious topic for lunch.",
         "C": "She drives a new topic to work.",
         "D": "The topic was sunny yesterday."
       },
@@ -449,10 +449,10 @@
       "id": 38,
       "question": "Which sentence uses 'smile' correctly?",
       "options": {
-        "A": "She smiled happily when she saw her friend.",
-        "B": "I smiled my homework yesterday.",
-        "C": "They smiled the car in the garage.",
-        "D": "He smiled his breakfast quickly."
+        "A": "She smiled when she saw her friend.",
+        "B": "I smiled my reflection in the mirror.",
+        "C": "They smiled the cat in the garden.",
+        "D": "He smiled his best friend quickly."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -473,8 +473,8 @@
       "id": 40,
       "question": "Complete the sentence: 'The movie will ___ at 8 PM.'",
       "options": {
-        "A": "finish",
-        "B": "begin",
+        "A": "close",
+        "B": "open",
         "C": "start",
         "D": "stop"
       },
@@ -510,7 +510,7 @@
       "question": "Based on paragraph 2, desert plants survive by:",
       "options": {
         "A": "requiring very little water",
-        "B": "growing only at night",
+        "B": "gathering water from fog only at night",
         "C": "having special ways to find or store water",
         "D": "living near oases"
       },
@@ -558,7 +558,7 @@
       "question": "The passage states that sand dunes:",
       "options": {
         "A": "never change shape",
-        "B": "change shape when it rains",
+        "B": "change shape when the rains pour",
         "C": "change shape when the wind blows",
         "D": "are always the same color"
       },
@@ -594,7 +594,7 @@
       "question": "What is the author's attitude toward deserts?",
       "options": {
         "A": "They are dangerous places to avoid",
-        "B": "They are interesting and beautiful places",
+        "B": "They are interesting and beautiful",
         "C": "They are too hot for humans to live in",
         "D": "They are becoming too polluted"
       },
