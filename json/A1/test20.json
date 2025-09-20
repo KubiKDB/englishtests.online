@@ -2,61 +2,61 @@
   "passage": "<br>(1) Cacti are special plants that live in deserts. Deserts are very hot and dry places. There is very little water in deserts. Most plants cannot live there. But cacti can live in deserts because they are different from other plants.<br><br>(2) Cacti have special bodies that help them live with little water. They have thick, green stems that store water. These stems can hold water for a long time. Cacti do not have leaves like other plants. Instead, they have spines. Spines are sharp and keep animals away. Spines also help cacti stay cool in the hot sun.<br><br>(3) The roots of cacti are also special. They spread out near the top of the ground. When it rains, these roots quickly take in water. Cacti can take in a lot of water when it rains. Then they use this water slowly. This helps them live for a long time without rain.<br><br>(4) Inside a cactus, the water is safe. The thick skin of a cactus keeps the water from going away. Cacti also make a special kind of food. This food helps them grow even when there is little water. That is why cacti can live in the desert when other plants cannot.",
   "questions": [
     {
-      "id": 1,
-      "question": "Which word is the correct form of the verb in the sentence: 'She _____ to school every day.'",
-      "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "going",
-        "D": "gone"
-      },
-      "correct_answer": "B",
-      "category": "Grammar"
+    "id": 1,
+    "question": "Choose the correct form of the verb: 'She _____ pictures in her notebook every day.'",
+    "options": { 
+      "A": "draw", 
+      "B": "draws", 
+      "C": "drawing", 
+      "D": "drew" 
     },
+    "correct_answer": "B",
+    "category": "Grammar"
+  },
     {
       "id": 2,
-      "question": "Choose the correct form: 'There _____ a book on the table.'",
+      "question": "Choose the correct form: 'There ___ a rainbow in the sky after the rain.'",
       "options": {
-        "A": "is",
+        "A": "be",
         "B": "are",
-        "C": "be",
+        "C": "is",
         "D": "am"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 3,
-      "question": "Select the correct article: 'I have _____ orange in my bag.'",
+      "question": "Select the correct article: 'I have _____ oranges in my bag.'",
       "options": {
         "A": "a",
         "B": "an",
         "C": "the",
         "D": "no article"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 4,
-      "question": "Choose the correct preposition: 'The cat is _____ the table.'",
+      "question": "Choose the correct preposition: 'The cat is _____ the bed.'",
       "options": {
-        "A": "on",
-        "B": "in",
-        "C": "at",
-        "D": "of"
+        "A": "over",
+        "B": "next",
+        "C": "under",
+        "D": "out"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 5,
-      "question": "Select the correct plural form: 'There are three _____ in the room.'",
+      "question": "Select the correct plural form: 'There are three _____ in the garden.'",
       "options": {
-        "A": "child",
-        "B": "childs",
-        "C": "childrens",
-        "D": "children"
+        "A": "goose",
+        "B": "gooses",
+        "C": "geeses",
+        "D": "geese"
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -75,7 +75,7 @@
     },
     {
       "id": 7,
-      "question": "Select the correct pronoun: 'This book is _____.'",
+      "question": "Select the correct pronoun: 'This appartment is _____.'",
       "options": {
         "A": "me",
         "B": "I",
@@ -111,12 +111,12 @@
     },
     {
       "id": 10,
-      "question": "Choose the correct form: 'He _____ TV now.'",
+      "question": "Choose the correct form: 'He _____ dinner now.'",
       "options": {
-        "A": "watch",
-        "B": "watches",
-        "C": "watching",
-        "D": "is watching"
+        "A": "cook",
+        "B": "cooks",
+        "C": "cooking",
+        "D": "is cooking"
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -147,19 +147,19 @@
     },
     {
       "id": 13,
-      "question": "Select the correct possessive form: 'That is _____ car.'",
+      "question": "Select the correct possessive form: 'That is _____ house.'",
       "options": {
-        "A": "they",
-        "B": "them",
-        "C": "their",
-        "D": "theirs"
+        "A": "we",
+        "B": "us",
+        "C": "our",
+        "D": "hour"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 14,
-      "question": "Choose the correct form: 'We _____ to school yesterday.'",
+      "question": "Choose the correct form: 'We _____ to the store yesterday.'",
       "options": {
         "A": "go",
         "B": "goes",
@@ -171,7 +171,7 @@
     },
     {
       "id": 15,
-      "question": "Select the correct negative form: 'I _____ like coffee.'",
+      "question": "Select the correct negative form: 'I _____ like zoos.'",
       "options": {
         "A": "not",
         "B": "don't",
@@ -198,7 +198,7 @@
       "question": "Select the best response to the question: 'How are you?' ",
       "options": {
         "A": "I am John.",
-        "B": "I am fine, thank you.",
+        "B": "I am fine.",
         "C": "I am at home.",
         "D": "I am a teacher."
       },
@@ -211,7 +211,7 @@
       "options": {
         "A": "How do you do?",
         "B": "How are you?",
-        "C": "What is your name?",
+        "C": "Who are you?",
         "D": "Where are you from?"
       },
       "correct_answer": "C",
@@ -219,7 +219,7 @@
     },
     {
       "id": 19,
-      "question": "Select the correct word to complete the sentence: 'I want _____ an apple.'",
+      "question": "Select the correct word to complete the sentence: 'I want _____ a mango.'",
       "options": {
         "A": "eat",
         "B": "to eat",
@@ -245,12 +245,12 @@
       "id": 21,
       "question": "Select the correct phrase to tell the time: 'It's 3:15.'",
       "options": {
-        "A": "It's quarter past three.",
+        "A": "It's half past three.",
         "B": "It's quarter to three.",
-        "C": "It's half past three.",
-        "D": "It's three half."
+        "C": "It's quarter past three.",
+        "D": "It's three quarters."
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
@@ -259,8 +259,8 @@
       "options": {
         "A": "What is your work?",
         "B": "What do you do?",
-        "C": "How is your job?",
-        "D": "Where is your job?"
+        "C": "How much is your job?",
+        "D": "When is your job?"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -269,10 +269,10 @@
       "id": 23,
       "question": "Select the correct way to ask for directions:",
       "options": {
-        "A": "Where is the bank, please?",
-        "B": "When is the bank, please?",
-        "C": "Why is the bank, please?",
-        "D": "Who is the bank, please?"
+        "A": "Where is the bank?",
+        "B": "When is the bank?",
+        "C": "Why is the bank?",
+        "D": "Who is the bank?"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -281,12 +281,12 @@
       "id": 24,
       "question": "Choose the correct expression to make a suggestion:",
       "options": {
-        "A": "Let's go to the park.",
-        "B": "I go to the park.",
+        "A": "Going to the park.",
+        "B": "I will go to the park.",
         "C": "I went to the park.",
-        "D": "Going to the park."
+        "D": "Let's go to the park."
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -305,7 +305,7 @@
       "id": 26,
       "question": "The word 'offer' means:",
       "options": {
-        "A": "to give something to someone",
+        "A": "to propose something",
         "B": "to take something away",
         "C": "to break something",
         "D": "to close the door"
@@ -315,7 +315,7 @@
     },
     {
       "id": 27,
-      "question": "Which part of the 'body' is used for walking?",
+      "question": "Which part of the body is used for walking?",
       "options": {
         "A": "hands",
         "B": "ears",
@@ -329,10 +329,10 @@
       "id": 28,
       "question": "When you 'sit', you:",
       "options": {
-        "A": "stand up",
-        "B": "rest on a chair",
-        "C": "walk slowly",
-        "D": "run fast"
+        "A": "stand",
+        "B": "rest",
+        "C": "walk",
+        "D": "run"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -344,7 +344,7 @@
         "A": "dark",
         "B": "rainy",
         "C": "cloudy",
-        "D": "blue without clouds"
+        "D": "blue"
       },
       "correct_answer": "D",
       "category": "Vocabulary"
@@ -354,7 +354,7 @@
       "question": "When you walk 'along' a street, you:",
       "options": {
         "A": "cross it",
-        "B": "move from one end to another",
+        "B": "move on one side",
         "C": "stay in one place",
         "D": "run away from it"
       },
@@ -366,7 +366,7 @@
       "question": "The opposite of 'light' is:",
       "options": {
         "A": "dark",
-        "B": "heavy",
+        "B": "hard",
         "C": "soft",
         "D": "small"
       },
@@ -375,24 +375,24 @@
     },
     {
       "id": 32,
-      "question": "'Football' is a:",
+      "question": "We use 'cups' to:",
       "options": {
-        "A": "type of food",
-        "B": "game or sport",
-        "C": "kind of animal",
-        "D": "part of a house"
+        "A": "cook",
+        "B": "drink",
+        "C": "store",
+        "D": "move"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 33,
-      "question": "If something is 'inside', it is:",
+      "question": "If something is 'within', it is:",
       "options": {
         "A": "outside",
         "B": "far away",
-        "C": "in a building or container",
-        "D": "above the ground"
+        "C": "inside",
+        "D": "above"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -401,10 +401,10 @@
       "id": 34,
       "question": "A 'computer' is used for:",
       "options": {
-        "A": "cooking food",
-        "B": "washing clothes",
-        "C": "working with information",
-        "D": "driving a car"
+        "A": "cooking",
+        "B": "washing",
+        "C": "studying",
+        "D": "drinking"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -461,10 +461,10 @@
       "id": 39,
       "question": "A 'process' is a:",
       "options": {
-        "A": "type of food",
-        "B": "way of doing something",
-        "C": "kind of animal",
-        "D": "part of a house"
+        "A": "cooking method",
+        "B": "way of doing",
+        "C": "difficult task",
+        "D": "way to a house"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -509,10 +509,10 @@
       "id": 43,
       "question": "According to paragraph 2, what do spines do?",
       "options": {
-        "A": "Store water",
-        "B": "Help cacti grow",
+        "A": "Store water in large amounts",
+        "B": "Help cacti grow and accumulate water",
         "C": "Keep animals away and help cacti stay cool",
-        "D": "Take in water quickly"
+        "D": "Take in water quickly and efficiently"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -522,7 +522,7 @@
       "question": "Where are the roots of cacti located?",
       "options": {
         "A": "Deep in the ground",
-        "B": "Near the top of the ground",
+        "B": "Near the surface",
         "C": "Inside the stem",
         "D": "Under the spines"
       },
@@ -572,7 +572,7 @@
         "A": "They have leaves that collect water",
         "B": "They do not need sunlight",
         "C": "They have special bodies that store water",
-        "D": "They get water from other plants"
+        "D": "They get water from other plants and from the air"
       },
       "correct_answer": "C",
       "category": "Reading"
