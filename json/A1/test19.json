@@ -3,7 +3,7 @@
   "questions": [
     {
       "id": 1,
-      "question": "She ___ not like coffee.",
+      "question": "He ___ not enjoy getting up early on weekends.",
       "options": {
         "A": "do",
         "B": "does",
@@ -51,12 +51,12 @@
     },
     {
       "id": 5,
-      "question": "I ___ TV every evening.",
+      "question": "I ___ computer games every evening.",
       "options": {
-        "A": "watching",
-        "B": "watch",
-        "C": "watches",
-        "D": "am watch"
+        "A": "playing",
+        "B": "play",
+        "C": "plays",
+        "D": "am play"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -123,7 +123,7 @@
     },
     {
       "id": 11,
-      "question": "The book ___ on the table.",
+      "question": "The cat ___ asleep on the sofa.",
       "options": {
         "A": "are",
         "B": "am",
@@ -147,14 +147,14 @@
     },
     {
       "id": 13,
-      "question": "We ___ to the beach last summer.",
+      "question": "She ___ a big cake for her birthday last week.",
       "options": {
-        "A": "go",
-        "B": "went",
-        "C": "going",
-        "D": "goes"
+        "A": "did",
+        "B": "have",
+        "C": "made",
+        "D": "take"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -171,24 +171,24 @@
     },
     {
       "id": 15,
-      "question": "They ___ breakfast at 8 AM every day.",
+      "question": "Lisa and Tom ___ a walk in the park every evening.",
       "options": {
-        "A": "have",
-        "B": "has",
-        "C": "having",
-        "D": "had"
+        "A": "take",
+        "B": "takes",
+        "C": "taking",
+        "D": "took",
       },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 16,
-      "question": "What's the correct response to 'How are you?'",
+      "question": "What’s the best reply to 'Could you help me carry this box?'",
       "options": {
-        "A": "I'm 25 years old.",
-        "B": "I'm from Spain.",
-        "C": "I'm fine, thank you.",
-        "D": "I'm a student."
+        "A": "Maybe, I will help you yesterday.",
+        "B": "No, I don’t like boxes.",
+        "C": "Yes, I can help you.",
+        "D": "I don’t know how to carry it."
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -231,14 +231,14 @@
     },
     {
       "id": 20,
-      "question": "Can you ___ me with my homework?",
+      "question": "Can you ___ the door, please?",
       "options": {
-        "A": "helping",
-        "B": "help",
-        "C": "to help",
-        "D": "helps"
+        "A": "open",
+        "B": "opens",
+        "C": "opening",
+        "D": "to open"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Use of English"
     },
     {
@@ -267,12 +267,12 @@
     },
     {
       "id": 23,
-      "question": "Excuse me, where is the ___ room?",
+      "question": "Excuse me, where is the ___? I need to wash my hands",
       "options": {
-        "A": "bath",
-        "B": "bathing",
+        "A": "garage",
+        "B": "kitchen",
         "C": "bathroom",
-        "D": "bathed"
+        "D": "bedroom"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -318,16 +318,16 @@
       "question": "I have ___ brothers and one sister.",
       "options": {
         "A": "one",
-        "B": "three",
+        "B": "some",
         "C": "two",
-        "D": "four"
+        "D": "much"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 28,
-      "question": "I ___ eat breakfast in the morning.",
+      "question": "I have ___ been to Australia.",
       "options": {
         "A": "always",
         "B": "never",
@@ -343,7 +343,7 @@
       "options": {
         "A": "week",
         "B": "night",
-        "C": "morning",
+        "C": "month",
         "D": "day"
       },
       "correct_answer": "D",
@@ -375,31 +375,31 @@
     },
     {
       "id": 32,
-      "question": "My ___ is three years older than me.",
+      "question": "My ___ is three months older than me.",
       "options": {
         "A": "sister",
         "B": "brother",
         "C": "friend",
         "D": "father"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 33,
       "question": "I don't ___ what you're saying.",
       "options": {
-        "A": "know",
-        "B": "hear",
-        "C": "understand",
-        "D": "listen"
+        "A": "see",
+        "B": "use",
+        "C": "get",
+        "D": "make"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 34,
-      "question": "The hero in the movie performs an ___ to save the city.",
+      "question": "The hero in the movie takes an ___ to save the city.",
       "options": {
         "A": "idea",
         "B": "action",
@@ -438,7 +438,7 @@
       "question": "Please ___ off the light before you leave the room.",
       "options": {
         "A": "put",
-        "B": "turn",
+        "B": "rotate",
         "C": "switch",
         "D": "close"
       },
@@ -462,8 +462,8 @@
       "question": "This fabric feels very ___ to touch.",
       "options": {
         "A": "hard",
-        "B": "rough",
-        "C": "soft",
+        "B": "blue",
+        "C": "solid",
         "D": "smooth"
       },
       "correct_answer": "D",
@@ -488,7 +488,7 @@
         "A": "an adult kangaroo",
         "B": "a baby kangaroo",
         "C": "a type of pouch",
-        "D": "an animal from Australia"
+        "D": "an animal from Tasmania"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -511,7 +511,7 @@
       "options": {
         "A": "a small baby",
         "B": "a type of milk",
-        "C": "a pocket on the mother's stomach",
+        "C": "a pocket",
         "D": "a journey"
       },
       "correct_answer": "C",
@@ -546,9 +546,9 @@
       "question": "In paragraph 3, when does the joey jump back into the pouch?",
       "options": {
         "A": "when it feels danger or needs food",
-        "B": "when it wants to sleep",
+        "B": "when it wants to sleep or drink",
         "C": "when it sees other kangaroos",
-        "D": "when it wants to play"
+        "D": "when it wants to play or sleep"
       },
       "correct_answer": "A",
       "category": "Reading"
@@ -594,7 +594,7 @@
       "question": "What is the main idea of this passage?",
       "options": {
         "A": "Kangaroos are the fastest animals in Australia.",
-        "B": "How kangaroo mothers carry and protect their babies.",
+        "B": "How kangaroos carry and protect their babies.",
         "C": "Why kangaroos are endangered animals.",
         "D": "The different types of kangaroos in Australia."
       },
