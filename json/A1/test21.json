@@ -29,10 +29,10 @@
       "id": 3,
       "question": "Which is the correct sentence?",
       "options": {
-        "A": "I don't like coffee.",
-        "B": "I not like coffee.",
-        "C": "I no like coffee.",
-        "D": "I doesn't like coffee."
+        "A": "I don't enjoy waking up early.",
+        "B": "I not enjoy waking up early.",
+        "C": "I no enjoy waking up early.",
+        "D": "I doesn't enjoy waking up early."
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -75,14 +75,14 @@
     },
     {
       "id": 7,
-      "question": "Select the correct preposition: 'The cat is ___ the table.'",
+      "question": "Select the correct preposition: 'The car is ___ the street.'",
       "options": {
-        "A": "under",
+        "A": "in",
         "B": "between",
         "C": "on",
         "D": "at"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -137,7 +137,7 @@
       "id": 12,
       "question": "Which is the correct article?",
       "options": {
-        "A": "She is ___ university student.",
+        "A": "She is university student.",
         "B": "She is a university student.",
         "C": "She is an university student.",
         "D": "She is the university student."
@@ -150,7 +150,7 @@
       "question": "Choose the correct form for the future: 'I ___ my grandmother next weekend.'",
       "options": {
         "A": "visit",
-        "B": "visiting",
+        "B": "am going visiting",
         "C": "am going to visit",
         "D": "visited"
       },
@@ -159,7 +159,7 @@
     },
     {
       "id": 14,
-      "question": "Select the correct past tense of the verb 'eat':",
+      "question": "Select the correct past simple tense of the verb 'eat':",
       "options": {
         "A": "eat",
         "B": "eated",
@@ -209,10 +209,10 @@
       "id": 18,
       "question": "Which word completes this sentence: 'January is the first ___ of the year.'",
       "options": {
-        "A": "scene",
+        "A": "week",
         "B": "month",
-        "C": "field",
-        "D": "professor"
+        "C": "day",
+        "D": "season"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -221,10 +221,10 @@
       "id": 19,
       "question": "Select the word that means 'in general' or 'in total':",
       "options": {
-        "A": "far",
+        "A": "next",
         "B": "previous",
         "C": "overall",
-        "D": "promise"
+        "D": "final"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -235,8 +235,8 @@
       "options": {
         "A": "child",
         "B": "professor",
-        "C": "field",
-        "D": "month"
+        "C": "parent",
+        "D": "grandfather"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -245,10 +245,10 @@
       "id": 21,
       "question": "Choose the word that means 'a large number':",
       "options": {
-        "A": "far",
+        "A": "some",
         "B": "many",
-        "C": "previous",
-        "D": "overall"
+        "C": "none",
+        "D": "all"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -258,9 +258,9 @@
       "question": "Which word completes this sentence: 'The school is ___ from my house.'",
       "options": {
         "A": "far",
-        "B": "many",
-        "C": "our",
-        "D": "risk"
+        "B": "close",
+        "C": "next",
+        "D": "behind"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -269,7 +269,7 @@
       "id": 23,
       "question": "Select the word that means 'to get something':",
       "options": {
-        "A": "say",
+        "A": "give",
         "B": "follow",
         "C": "receive",
         "D": "promise"
@@ -281,9 +281,9 @@
       "id": 24,
       "question": "Which word means 'coming before'?",
       "options": {
-        "A": "overall",
-        "B": "many",
-        "C": "far",
+        "A": "last",
+        "B": "first",
+        "C": "new",
         "D": "previous"
       },
       "correct_answer": "D",
@@ -295,8 +295,8 @@
       "options": {
         "A": "scene",
         "B": "field",
-        "C": "month",
-        "D": "professor"
+        "C": "block",
+        "D": "street"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -305,10 +305,10 @@
       "id": 26,
       "question": "Which word completes this sentence: 'There is a ___ of rain today.'",
       "options": {
-        "A": "field",
-        "B": "scene",
+        "A": "need",
+        "B": "right",
         "C": "risk",
-        "D": "month"
+        "D": "cloud"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -318,9 +318,9 @@
       "question": "Select the word that means 'belonging to us':",
       "options": {
         "A": "our",
-        "B": "far",
-        "C": "many",
-        "D": "previous"
+        "B": "hour",
+        "C": "hours",
+        "D": "aura"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -329,9 +329,9 @@
       "id": 28,
       "question": "Which word means 'to say you will definitely do something'?",
       "options": {
-        "A": "receive",
-        "B": "say",
-        "C": "follow",
+        "A": "refuse",
+        "B": "accept",
+        "C": "demand",
         "D": "promise"
       },
       "correct_answer": "D",
@@ -341,10 +341,10 @@
       "id": 29,
       "question": "Choose the word that means 'to go after someone or something':",
       "options": {
-        "A": "promise",
-        "B": "receive",
+        "A": "move",
+        "B": "check",
         "C": "follow",
-        "D": "say"
+        "D": "call"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -353,9 +353,9 @@
       "id": 30,
       "question": "Which word completes this sentence: 'The ___ teaches biology at the university.'",
       "options": {
-        "A": "child",
-        "B": "field",
-        "C": "scene",
+        "A": "student",
+        "B": "lesson",
+        "C": "lecture",
         "D": "professor"
       },
       "correct_answer": "D",
@@ -363,7 +363,7 @@
     },
     {
       "id": 31,
-      "question": "Which is the correct greeting for meeting someone in the evening?",
+      "question": "Which is the correct greeting for meeting someone when the sun goes down?",
       "options": {
         "A": "Good night!",
         "B": "Good morning!",
@@ -375,14 +375,14 @@
     },
     {
       "id": 32,
-      "question": "Choose the appropriate response to 'How are you?'",
+      "question": "Choose the best response to 'What time does the bus arrive?'",
       "options": {
-        "A": "I am 25 years old.",
-        "B": "I am from London.",
-        "C": "I am fine, thank you.",
-        "D": "I am a teacher."
+        "A": "It goes to school.",
+        "B": "It was yesterday.",
+        "C": "I like buses.",
+        "D": "It comes at 8 o’clock."
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -403,7 +403,7 @@
       "options": {
         "A": "Who are you?",
         "B": "My name is John.",
-        "C": "What is your name?",
+        "C": "Yourself is John.",
         "D": "I am 30."
       },
       "correct_answer": "B",
@@ -413,22 +413,22 @@
       "id": 35,
       "question": "Choose the correct phrase to ask for directions:",
       "options": {
-        "A": "Where is the train station?",
+        "A": "Who is at the train station?",
         "B": "When is the train station?",
-        "C": "Who is at the train station?",
+        "C": "Where is the train station?",
         "D": "How is the train station?"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 36,
       "question": "Select the correct response when someone says 'Thank you':",
       "options": {
-        "A": "Please",
-        "B": "Excuse me",
-        "C": "You're welcome",
-        "D": "Good morning"
+        "A": "Please, thanks",
+        "B": "Excuse me, please",
+        "C": "Don't mention it",
+        "D": "Good for you"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -447,12 +447,12 @@
     },
     {
       "id": 38,
-      "question": "Choose the appropriate way to ask for something in a shop:",
+      "question": "Choose the appropriate way to ask politely for something in a shop:",
       "options": {
-        "A": "I need this.",
-        "B": "Give me this.",
+        "A": "I need this, please.",
+        "B": "Give me this, please.",
         "C": "Could I have this, please?",
-        "D": "I take this."
+        "D": "I take this from you, please."
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -462,7 +462,7 @@
       "question": "Select the correct phrase to offer help:",
       "options": {
         "A": "Can I help you?",
-        "B": "Do you help me?",
+        "B": "Can you help me?",
         "C": "Help me?",
         "D": "I help?"
       },
@@ -524,7 +524,7 @@
         "A": "a few hours",
         "B": "a few minutes",
         "C": "a few weeks",
-        "D": "days"
+        "D": "a few days"
       },
       "correct_answer": "D",
       "category": "Reading"
@@ -545,9 +545,9 @@
       "id": 46,
       "question": "How are mountains usually formed according to the passage?",
       "options": {
-        "A": "When hills grow taller",
+        "A": "When hills grow taller because of extreme weather",
         "B": "When people build them",
-        "C": "When parts of the Earth's surface push against each other",
+        "C": "When Earth's surface plates push together",
         "D": "When water wears down the land"
       },
       "correct_answer": "C",
@@ -557,10 +557,10 @@
       "id": 47,
       "question": "According to paragraph 4, people like to walk in hills because:",
       "options": {
-        "A": "they are dangerous",
+        "A": "they are too difficult to climb",
         "B": "they are not too difficult to climb",
         "C": "they have snow on top",
-        "D": "they have many animals"
+        "D": "they have many unique animals and plants"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -570,7 +570,7 @@
       "question": "The passage describes mountains as:",
       "options": {
         "A": "easy and safe",
-        "B": "ugly but safe",
+        "B": "beatiful and safe",
         "C": "dangerous but beautiful",
         "D": "only good for animals"
       },
@@ -581,9 +581,9 @@
       "id": 49,
       "question": "According to paragraph 4, why do some animals and plants only live on mountains?",
       "options": {
-        "A": "Because they like people",
-        "B": "Because mountains are small",
-        "C": "Because mountains are dangerous",
+        "A": "Because they don't like people",
+        "B": "Because mountains are small and suitable for them",
+        "C": "Because mountains are dangerous for them",
         "D": "Because they need the special conditions there"
       },
       "correct_answer": "D",
@@ -593,7 +593,7 @@
       "id": 50,
       "question": "What is the main purpose of this passage?",
       "options": {
-        "A": "To explain how to climb mountains",
+        "A": "To explain how to climb mountains and see animals and plants",
         "B": "To explain the difference between hills and mountains",
         "C": "To describe animals that live on mountains",
         "D": "To tell people where to go on holiday"
