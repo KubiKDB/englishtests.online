@@ -3,24 +3,24 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which sentence is correct?",
+      "question": "Choose the correct sentence:",
       "options": {
-        "A": "She don't like pizza.",
-        "B": "She doesn't likes pizza.",
-        "C": "She doesn't like pizza.",
-        "D": "She not like pizza."
+        "A": "He can sings very well.",
+        "B": "He can sing very well.",
+        "C": "He cans sing very well.",
+        "D": "He sing can very well."
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 2,
-      "question": "Select the correct plural form of 'man'.",
+      "question": "Select the correct plural form of 'deer'.",
       "options": {
-        "A": "Mans",
-        "B": "Men",
-        "C": "Manes",
-        "D": "Mens"
+        "A": "Dear",
+        "B": "Deer",
+        "C": "Deers",
+        "D": "Dears"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -39,14 +39,14 @@
     },
     {
       "id": 4,
-      "question": "Choose the correct form of the verb.",
+      "question": "Pick the correct sentence about daily habits:",
       "options": {
-        "A": "She play tennis every Sunday.",
-        "B": "She playing tennis every Sunday.",
-        "C": "She plays tennis every Sunday.",
-        "D": "She is play tennis every Sunday."
+        "A": "Tom go to school by bike every day.",
+        "B": "Tom goes to school by bike every day.",
+        "C": "Tom going to school by bike every day.",
+        "D": "Tom is goes to school by bike every day."
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
@@ -63,7 +63,7 @@
     },
     {
       "id": 6,
-      "question": "Choose the correct past tense form of 'swim'.",
+      "question": "Choose the correct past simple tense form of 'swim'.",
       "options": {
         "A": "Swim",
         "B": "Swam",
@@ -75,14 +75,14 @@
     },
     {
       "id": 7,
-      "question": "Which sentence has the correct preposition?",
+      "question": "Which sentence uses the correct preposition?",
       "options": {
-        "A": "The book is in the table.",
-        "B": "The book is on the table.",
-        "C": "The book is at the table.",
-        "D": "The book is of the table."
+        "A": "There is a dog under the chair.",
+        "B": "There is a dog over the chair.",
+        "C": "There is a dog inside the chair.",
+        "D": "There is a dog of the chair."
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
@@ -128,21 +128,21 @@
         "A": "I am eat dinner now.",
         "B": "I eating dinner now.",
         "C": "I am eating dinner now.",
-        "D": "I eat dinner now."
+        "D": "I have been eating dinner now."
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 12,
-      "question": "Select the correct sentence.",
+      "question": "Pick the correct sentence about last winter:",
       "options": {
-        "A": "We went to school yesterday.",
-        "B": "We go to school yesterday.",
-        "C": "We going to school yesterday.",
-        "D": "We are go to school yesterday."
+        "A": "We build a snowman last winter.",
+        "B": "We built a snowman last winter.",
+        "C": "We building a snowman last winter.",
+        "D": "We are build a snowman last winter."
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
@@ -195,14 +195,14 @@
     },
     {
       "id": 17,
-      "question": "Choose the best response to 'How are you?'",
+      "question": "Choose the positive reply to 'Do you want to play football this afternoon?'",
       "options": {
-        "A": "I am John.",
-        "B": "I am at school.",
-        "C": "I am fine, thank you.",
-        "D": "I am 25 years old."
+        "A": "Yes, I’d love to!",
+        "B": "No, I’m busy today.",
+        "C": "Maybe later, I have homework.",
+        "D": "I don’t like football."
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Use of English"
     },
     {
@@ -230,16 +230,16 @@
       "category": "Use of English"
     },
     {
-      "id": 20,
-      "question": "Choose the correct phrase: 'Would you like ___ coffee?'",
-      "options": {
-        "A": "a",
-        "B": "some",
-        "C": "any",
-        "D": "the"
-      },
-      "correct_answer": "B",
-      "category": "Use of English"
+        "id": 20,
+        "question": "Choose the correct word: 'Hello! How ___ you today?'",
+        "options": {
+            "A": "is",
+            "B": "are",
+            "C": "do",
+            "D": "am"
+        },
+        "correct_answer": "B",
+        "category": "Use of English"
     },
     {
       "id": 21,
@@ -257,7 +257,7 @@
       "id": 22,
       "question": "Complete the sentence: 'She ___ three languages: English, Spanish, and French.'",
       "options": {
-        "A": "talk",
+        "A": "talks",
         "B": "tells",
         "C": "says",
         "D": "speaks"
@@ -267,7 +267,7 @@
     },
     {
       "id": 23,
-      "question": "Choose the correct phrase: 'My birthday is ___ May.'",
+      "question": "Choose the correct phrase: 'My birthday is ___ July.'",
       "options": {
         "A": "in",
         "B": "on",
@@ -291,24 +291,24 @@
     },
     {
       "id": 25,
-      "question": "Complete the sentence: 'I ___ TV every evening.'",
+      "question": "Complete the sentence: 'Every Saturday I ___ bread at the bakery near my house.'",
       "options": {
-        "A": "look",
-        "B": "see",
-        "C": "watch",
-        "D": "view"
+        "A": "bake",
+        "B": "buy",
+        "C": "taste",
+        "D": "order"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 26,
       "question": "What is a 'bus'?",
       "options": {
-        "A": "A place to buy food",
-        "B": "A large vehicle that carries many people",
-        "C": "A type of train",
-        "D": "A building where people work"
+        "A": "A platform",
+        "B": "A vehicle",
+        "C": "A connection",
+        "D": "A building"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -317,7 +317,7 @@
       "id": 27,
       "question": "What does 'list' mean?",
       "options": {
-        "A": "A set of items written one after another",
+        "A": "A set of items",
         "B": "A small book",
         "C": "A type of car",
         "D": "A part of a house"
@@ -330,21 +330,21 @@
       "question": "What does 'weather' refer to?",
       "options": {
         "A": "The time of day",
-        "B": "The condition outside (rain, sun, etc.)",
+        "B": "A season of the year",
         "C": "A type of clothing",
-        "D": "A season of the year"
+        "D": "The condition outside"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 29,
       "question": "What does 'stand' mean in this sentence: 'Please stand in line.'?",
       "options": {
-        "A": "To sit",
+        "A": "To sit down",
         "B": "To be on your feet",
-        "C": "To walk",
-        "D": "To run"
+        "C": "To walk around",
+        "D": "To run fast"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -354,11 +354,11 @@
       "question": "What does 'similar' mean?",
       "options": {
         "A": "Different",
-        "B": "Like each other",
-        "C": "Opposite",
+        "B": "Opposite",
+        "C": "Same",
         "D": "Strange"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -366,9 +366,9 @@
       "question": "What is a 'portrait'?",
       "options": {
         "A": "A picture of a person",
-        "B": "A type of food",
-        "C": "A musical instrument",
-        "D": "A kind of animal"
+        "B": "A picture of nature",
+        "C": "A picture of food",
+        "D": "A picture of animal"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -378,11 +378,11 @@
       "question": "What does 'grow' mean?",
       "options": {
         "A": "To become smaller",
-        "B": "To become bigger",
-        "C": "To break",
-        "D": "To stop"
+        "B": "To stop developing",
+        "C": "To break through",
+        "D": "To become bigger"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -390,7 +390,7 @@
       "question": "What does 'see' mean in this sentence: 'I can see a bird in the tree.'?",
       "options": {
         "A": "To hear",
-        "B": "To look at and notice",
+        "B": "To notice",
         "C": "To touch",
         "D": "To smell"
       },
@@ -401,12 +401,12 @@
       "id": 34,
       "question": "What is 'water'?",
       "options": {
-        "A": "A type of food",
-        "B": "A clear liquid that we drink",
+        "A": "A liquid to drink",
+        "B": "A type of food",
         "C": "A kind of clothing",
-        "D": "A color"
+        "D": "A color of a rainbow"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
@@ -425,10 +425,10 @@
       "id": 36,
       "question": "What does 'measure' mean?",
       "options": {
-        "A": "To find the size or amount of something",
-        "B": "To lose something",
-        "C": "To break something",
-        "D": "To clean something"
+        "A": "To find the amount of something",
+        "B": "To find the keys to something",
+        "C": "To open the window of a building",
+        "D": "To clean the bathroom in a house"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -437,12 +437,12 @@
       "id": 37,
       "question": "What is a 'couple'?",
       "options": {
-        "A": "One person",
-        "B": "Two people",
-        "C": "Many people",
-        "D": "No people"
+        "A": "No people",
+        "B": "One person",
+        "C": "Two people",
+        "D": "Many people"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -451,7 +451,7 @@
       "options": {
         "A": "A long break",
         "B": "A type of food",
-        "C": "A period of time used for a particular activity",
+        "C": "A period of time",
         "D": "A place to sit"
       },
       "correct_answer": "C",
@@ -459,12 +459,12 @@
     },
     {
       "id": 39,
-      "question": "What is 'earth'?",
+      "question": "What is 'Earth'?",
       "options": {
         "A": "A star",
-        "B": "The planet we live on",
-        "C": "A type of animal",
-        "D": "A building"
+        "B": "A planet",
+        "C": "A satellite",
+        "D": "A comet"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -473,10 +473,10 @@
       "id": 40,
       "question": "What does 'hit' mean?",
       "options": {
-        "A": "To touch something hard with your hand or an object",
+        "A": "To beat something",
         "B": "To walk slowly",
         "C": "To speak quietly",
-        "D": "To sleep"
+        "D": "To sleep peacefully"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -486,7 +486,7 @@
       "question": "According to paragraph 1, what do teachers do during lunch in Japan?",
       "options": {
         "A": "They prepare the food.",
-        "B": "They eat with students and teach about healthy food.",
+        "B": "They eat with students.",
         "C": "They watch the students eat.",
         "D": "They clean the classroom."
       },
@@ -499,7 +499,7 @@
       "options": {
         "A": "One course",
         "B": "Two courses",
-        "C": "Three courses",
+        "C": "Couple of courses",
         "D": "Several courses"
       },
       "correct_answer": "D",
@@ -521,10 +521,10 @@
       "id": 44,
       "question": "Based on paragraph 3, what is a common food in Brazil?",
       "options": {
-        "A": "Pasta",
+        "A": "Pasta and ketchup",
         "B": "Beans and rice",
-        "C": "Fish",
-        "D": "Cheese"
+        "C": "Fish and chips",
+        "D": "Cheese and cream"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -546,7 +546,7 @@
       "question": "Based on paragraph 4, what do school lunches in India often include?",
       "options": {
         "A": "Pizza and pasta",
-        "B": "Rice or bread with lentils",
+        "B": "Rice or bread",
         "C": "Fish and vegetables",
         "D": "Salad and fruit"
       },
@@ -558,11 +558,11 @@
       "question": "According to paragraph 4, how do school meals help students?",
       "options": {
         "A": "They help students sleep better.",
-        "B": "They give students energy to learn and play.",
+        "B": "They make students happy.",
         "C": "They teach students how to cook.",
-        "D": "They make students happy."
+        "D": "They give students energy."
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -571,7 +571,7 @@
       "options": {
         "A": "Japanese food is the healthiest.",
         "B": "All school lunches are the same around the world.",
-        "C": "School lunches differ around the world but are all important.",
+        "C": "School lunches differ around the world.",
         "D": "Schools should improve their lunch programs."
       },
       "correct_answer": "C",
@@ -596,7 +596,7 @@
         "A": "Japanese students",
         "B": "French students",
         "C": "Brazilian students",
-        "D": "Some Indian students"
+        "D": "Indian students"
       },
       "correct_answer": "D",
       "category": "Reading"
