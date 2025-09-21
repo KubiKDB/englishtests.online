@@ -3,12 +3,12 @@
   "questions": [
     {
       "id": 1,
-      "question": "Choose the correct form of the verb: 'She ___ to school every day.'",
+      "question": "Choose the correct word to complete the sentence: 'My cat always ___ under the sofa.'",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "going",
-        "D": "went"
+        "A": "hide",
+        "B": "hides",
+        "C": "hiding",
+        "D": "hid"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -17,10 +17,10 @@
       "id": 2,
       "question": "Which sentence is grammatically correct?",
       "options": {
-        "A": "I not like apples.",
-        "B": "I doesn't like apples.",
-        "C": "I don't like apples.",
-        "D": "I do not likes apples."
+        "A": "We not like apples.",
+        "B": "We doesn't like apples.",
+        "C": "We don't like apples.",
+        "D": "We do not likes apples."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -39,36 +39,36 @@
     },
     {
       "id": 4,
-      "question": "Choose the correct preposition: 'The book is ___ the table.'",
+      "question": "Choose the correct preposition: 'There is a note ___ the fridge door.'",
       "options": {
         "A": "on",
         "B": "in",
         "C": "at",
-        "D": "from"
+        "D": "over"
       },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 5,
-      "question": "Which is the correct past tense form? 'Yesterday, I ___ a movie.'",
+      "question": "Yesterday, I watched ___ interesting movie.",
       "options": {
-        "A": "see",
-        "B": "sees",
-        "C": "seeing",
-        "D": "saw"
+        "A": "a",
+        "B": "the",
+        "C": "no article needed",
+        "D": "an"
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 6,
-      "question": "Select the correct article: 'I need ___ umbrella because it's raining.'",
+      "question": "Choose the correct verb form: 'While the parrot ___ loudly, the dog slept on the sofa.'",
       "options": {
-        "A": "a",
-        "B": "an",
-        "C": "the",
-        "D": "no article needed"
+        "A": "sings",
+        "B": "sang",
+        "C": "singing",
+        "D": "sung"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -77,29 +77,29 @@
       "id": 7,
       "question": "Which plural form is correct?",
       "options": {
-        "A": "childs",
-        "B": "childrens",
-        "C": "children",
-        "D": "child"
+        "A": "sheeps",
+        "B": "sheet",
+        "C": "sheep",
+        "D": "ship"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 8,
-      "question": "Choose the correct comparative form: 'This book is ___ than that one.'",
+      "question": "Choose the correct comparative form: 'This car is ___ than that one.'",
       "options": {
-        "A": "more bigger",
-        "B": "more big",
-        "C": "most big",
-        "D": "bigger"
+        "A": "more expensiver",
+        "B": "expensiver",
+        "C": "most expensive",
+        "D": "more expensive"
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 9,
-      "question": "Select the correct possessive form: '___ car is red.'",
+      "question": "Select the correct possessive form: '___ baseball cap is red.'",
       "options": {
         "A": "John",
         "B": "Johns",
@@ -135,19 +135,19 @@
     },
     {
       "id": 12,
-      "question": "Select the correct modal verb: 'You ___ smoke in this building.'",
+      "question": "Select the correct modal verb: 'You are ___ smoke in this building.'",
       "options": {
         "A": "don't have to",
-        "B": "mustn't",
-        "C": "aren't",
-        "D": "don't"
+        "B": "not allowed",
+        "C": "must not",
+        "D": "have not"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 13,
-      "question": "Which is the correct negative form? 'She ___ like coffee.'",
+      "question": "Choose the correct negative form: 'My brother ___ enjoy waking up early on weekends.'",
       "options": {
         "A": "don't",
         "B": "isn't",
@@ -159,11 +159,11 @@
     },
     {
       "id": 14,
-      "question": "Choose the correct form: 'They ___ to the beach last weekend.'",
+      "question": "Choose the correct form: 'They ___ to the beach tomorrow morning.'",
       "options": {
         "A": "go",
         "B": "goes",
-        "C": "went",
+        "C": "will go",
         "D": "going"
       },
       "correct_answer": "C",
@@ -173,7 +173,7 @@
       "id": 15,
       "question": "Select the correct adverb: 'She speaks English ___.'",
       "options": {
-        "A": "good",
+        "A": "goodly",
         "B": "well",
         "C": "nice",
         "D": "perfect"
@@ -221,10 +221,10 @@
       "id": 19,
       "question": "Which is the correct response to 'Thank you'?",
       "options": {
-        "A": "Please.",
-        "B": "You're welcome.",
-        "C": "Yes, please.",
-        "D": "Yes, you are."
+        "A": "Not at all.",
+        "B": "My pleasure.",
+        "C": "Yes, pleasure.",
+        "D": "You mention it."
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -257,7 +257,7 @@
       "id": 22,
       "question": "Which is the correct way to ask for the time?",
       "options": {
-        "A": "What time is it?",
+        "A": "What is the time?",
         "B": "How time is it?",
         "C": "What is the time of now?",
         "D": "How much time is it?"
@@ -284,7 +284,7 @@
         "A": "stand",
         "B": "go",
         "C": "get",
-        "D": "wake"
+        "D": "take"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -331,8 +331,8 @@
       "options": {
         "A": "We together the broken vase.",
         "B": "They worked together on the project.",
-        "C": "She together her homework quickly.",
-        "D": "He together to the party."
+        "C": "She quickly her homework together.",
+        "D": "They together to the party."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -341,7 +341,7 @@
       "id": 29,
       "question": "What does 'mouth' refer to in this sentence: 'She put food in her mouth.'?",
       "options": {
-        "A": "A part of the face used for eating",
+        "A": "A part of the face",
         "B": "A part of a river",
         "C": "A type of container",
         "D": "An entrance to a building"
@@ -367,7 +367,7 @@
       "options": {
         "A": "She popular her room every day.",
         "B": "That singer is very popular with teenagers.",
-        "C": "They popular to the cinema last night.",
+        "C": "They went popular to the cinema last night.",
         "D": "He popular some water into the glass."
       },
       "correct_answer": "B",
@@ -377,10 +377,10 @@
       "id": 32,
       "question": "Choose the sentence with the correct use of 'another':",
       "options": {
-        "A": "I need another pen because this one doesn't work.",
-        "B": "She another her hair yesterday.",
+        "A": "I need another pen.",
+        "B": "Her hair another yesterday.",
         "C": "They another to school by bus.",
-        "D": "He another very tall."
+        "D": "He very tall in another way."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -390,7 +390,7 @@
       "question": "What color is 'brown'?",
       "options": {
         "A": "The color of grass",
-        "B": "The color of the sky",
+        "B": "The color of the morning sky",
         "C": "The color of chocolate",
         "D": "The color of snow"
       },
@@ -401,9 +401,9 @@
       "id": 34,
       "question": "Which sentence uses 'hour' correctly?",
       "options": {
-        "A": "I hour my breakfast at 7 AM.",
+        "A": "I had my breakfast at 7 hour.",
         "B": "The meeting lasted for one hour.",
-        "C": "She hour to work by bus.",
+        "C": "She walked to work by hour.",
         "D": "They hour their homework quickly."
       },
       "correct_answer": "B",
@@ -416,7 +416,7 @@
         "A": "I gift to the store yesterday.",
         "B": "He gift very smart.",
         "C": "She gave me a birthday gift.",
-        "D": "They gift the room clean."
+        "D": "They cleaned the room in gift."
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -427,7 +427,7 @@
       "options": {
         "A": "Let's meet for coffee tomorrow.",
         "B": "I meet my homework last night.",
-        "C": "She meet the floor every day.",
+        "C": "She meets the floor every day.",
         "D": "They meet a new house last year."
       },
       "correct_answer": "A",
@@ -437,10 +437,10 @@
       "id": 37,
       "question": "Choose the sentence with the correct use of 'idea':",
       "options": {
-        "A": "She idea to the party late.",
-        "B": "That's a good idea!",
-        "C": "He idea his car yesterday.",
-        "D": "They idea their room clean."
+        "A": "She ideas to the party late.",
+        "B": "That was a great idea.",
+        "C": "He idead his car yesterday.",
+        "D": "They had idea fly to vacation."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -452,7 +452,7 @@
         "A": "She break the homework.",
         "B": "I'll break to the store later.",
         "C": "Be careful not to break the glass.",
-        "D": "They break the weather is nice."
+        "D": "The weather break was nice."
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -462,8 +462,8 @@
       "question": "Choose the sentence with the correct use of 'protect':",
       "options": {
         "A": "The umbrella will protect you from the rain.",
-        "B": "She protect to school every day.",
-        "C": "I protect my dinner at 7 PM.",
+        "B": "She protects to school every day from bus station.",
+        "C": "I protect my dinner at 7 PM at a restaurant.",
         "D": "They protect the TV to watch a movie."
       },
       "correct_answer": "A",
@@ -474,9 +474,9 @@
       "question": "Which sentence uses 'smell' correctly?",
       "options": {
         "A": "The flowers smell very nice.",
-        "B": "She smell to work by bus.",
-        "C": "I smell my homework last night.",
-        "D": "They smell the TV on."
+        "B": "She smells the taste of latte.",
+        "C": "I smelled my phone to my friend.",
+        "D": "Their house is very smell."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -570,8 +570,8 @@
       "question": "According to the passage, why are oceans important?",
       "options": {
         "A": "They provide food only",
-        "B": "They are only for swimming",
-        "C": "They only transport goods",
+        "B": "They are for swimming and fishing",
+        "C": "They only transport goods between countries",
         "D": "They provide food and help control weather"
       },
       "correct_answer": "D",
@@ -582,11 +582,11 @@
       "question": "What does the passage say people enjoy doing in oceans?",
       "options": {
         "A": "Only swimming",
-        "B": "Swimming, sailing, and fishing",
+        "B": "Only fishing",
         "C": "Only sailing",
-        "D": "Only fishing"
+        "D": "Swimming, sailing, and fishing"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -595,7 +595,7 @@
       "options": {
         "A": "Make them bigger",
         "B": "Build more ships",
-        "C": "Keep them clean and protect life in them",
+        "C": "Keep them clean",
         "D": "Find new oceans"
       },
       "correct_answer": "C",
