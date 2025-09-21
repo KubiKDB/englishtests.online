@@ -51,24 +51,24 @@
     },
     {
       "id": 5,
-      "question": "Select the correct plural form.",
+      "question": "Select the incorrect plural form.",
       "options": {
-        "A": "One woman, two womans",
-        "B": "One woman, two womens",
-        "C": "One woman, two woman",
-        "D": "One woman, two women"
+        "A": "One cactus, two cactuses",
+        "B": "One cactus, two cactus",
+        "C": "One cactus, two cactusi",
+        "D": "One cactus, two cacti"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 6,
       "question": "Which sentence has the correct word order?",
       "options": {
-        "A": "My father never watches television in the morning.",
-        "B": "My father watches never television in the morning.",
-        "C": "My father watches television never in the morning.",
-        "D": "My father watches television in never the morning."
+        "A": "My father never reads news in the morning.",
+        "B": "My father reads never news in the morning.",
+        "C": "My father reads news never in the morning.",
+        "D": "My father reads news in never the morning."
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -92,7 +92,7 @@
         "A": "I will to visit my grandmother tomorrow.",
         "B": "I will visiting my grandmother tomorrow.",
         "C": "I will visit my grandmother tomorrow.",
-        "D": "I will visited my grandmother tomorrow."
+        "D": "I will have visited my grandmother tomorrow."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -128,7 +128,7 @@
         "A": "I was reading when the phone rang.",
         "B": "I were reading when the phone rang.",
         "C": "I was read when the phone rang.",
-        "D": "I reading when the phone rang."
+        "D": "I am reading when the phone rang."
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -183,12 +183,12 @@
     },
     {
       "id": 16,
-      "question": "Complete the sentence: 'He enjoys ___ soccer on weekends.'",
+      "question": "Complete the sentence: 'He enjoys ___ chocolate for breakfast.'",
       "options": {
-        "A": "play",
-        "B": "playing",
-        "C": "to playing",
-        "D": "plays"
+        "A": "drink",
+        "B": "drinking",
+        "C": "to drinking",
+        "D": "drinks"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -243,24 +243,24 @@
     },
     {
       "id": 21,
-      "question": "Select the best way to end an email to a friend:",
+      "question": "Select the best way to start an email to a friend:",
       "options": {
-        "A": "Yours sincerely,",
-        "B": "Best regards,",
+        "A": "Dear Sir/Madam,",
+        "B": "Hi,",
         "C": "Love,",
         "D": "Regards,"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 22,
-      "question": "Complete the sentence: 'She ___ TV every evening.'",
+      "question": "Complete the sentence: 'Her new ___ is beutiful'",
       "options": {
-        "A": "watches",
-        "B": "is watching",
-        "C": "watch",
-        "D": "watching"
+        "A": "haircut",
+        "B": "cuthair",
+        "C": "hearcut",
+        "D": "haircutting"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -319,7 +319,7 @@
       "options": {
         "A": "Water",
         "B": "Sky",
-        "C": "Ground or soil",
+        "C": "Soil",
         "D": "Air"
       },
       "correct_answer": "C",
@@ -343,7 +343,7 @@
       "options": {
         "A": "left",
         "B": "side",
-        "C": "corner",
+        "C": "above",
         "D": "middle"
       },
       "correct_answer": "D",
@@ -378,7 +378,7 @@
       "question": "Choose the correct word: 'Can I ask you a ___?'",
       "options": {
         "A": "question",
-        "B": "ask",
+        "B": "story",
         "C": "query",
         "D": "wonder"
       },
@@ -390,7 +390,7 @@
       "question": "Complete the sentence: 'Is this the correct ___ to the station?'",
       "options": {
         "A": "road",
-        "B": "path",
+        "B": "highway",
         "C": "way",
         "D": "street"
       },
@@ -413,7 +413,7 @@
       "id": 35,
       "question": "Complete the sentence: 'It might ___ tomorrow.'",
       "options": {
-        "A": "snow",
+        "A": "fog",
         "B": "wind",
         "C": "sun",
         "D": "rain"
@@ -425,7 +425,7 @@
       "id": 36,
       "question": "Choose the correct preposition: 'She is ___ London.'",
       "options": {
-        "A": "in",
+        "A": "on",
         "B": "at",
         "C": "from",
         "D": "to"
@@ -451,8 +451,8 @@
       "options": {
         "A": "Dirty",
         "B": "Cloudy",
-        "C": "Blue",
-        "D": "Without clouds"
+        "C": "Grey",
+        "D": "Cloudless"
       },
       "correct_answer": "D",
       "category": "Vocabulary"
@@ -464,9 +464,9 @@
         "A": "talk",
         "B": "speak",
         "C": "tell",
-        "D": "call"
+        "D": "say"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -510,7 +510,7 @@
       "question": "Based on paragraph 2, how do snakes move?",
       "options": {
         "A": "By jumping",
-        "B": "By sliding from side to side",
+        "B": "By sliding",
         "C": "By flying",
         "D": "By running"
       },
@@ -546,7 +546,7 @@
       "question": "According to the passage, what is special about a turtle's shell?",
       "options": {
         "A": "It is very colorful",
-        "B": "It is part of the turtle's skeleton",
+        "B": "It is part of its skeleton",
         "C": "It is made of metal",
         "D": "It falls off every year"
       },
@@ -569,10 +569,10 @@
       "id": 48,
       "question": "According to paragraph 4, how long can some turtles live?",
       "options": {
-        "A": "10 years",
-        "B": "50 years",
+        "A": "Less than 10 years",
+        "B": "Around 50 years",
         "C": "More than 100 years",
-        "D": "200 years"
+        "D": "More than 200 years"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -583,7 +583,7 @@
       "options": {
         "A": "How to take care of reptiles as pets",
         "B": "Types of reptiles and their characteristics",
-        "C": "Why reptiles are dangerous",
+        "C": "Why reptiles are dangerous and how to avoid them",
         "D": "Where to find reptiles in the wild"
       },
       "correct_answer": "B",
@@ -594,9 +594,9 @@
       "question": "What do turtles do when they feel threatened?",
       "options": {
         "A": "They run away quickly",
-        "B": "They attack their enemies",
+        "B": "They attack their enemies with their shell",
         "C": "They hide underwater",
-        "D": "They pull their head and legs inside their shell"
+        "D": "They hide inside their shell"
       },
       "correct_answer": "D",
       "category": "Reading"
