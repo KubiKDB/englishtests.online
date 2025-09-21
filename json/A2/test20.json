@@ -5,12 +5,12 @@
       "id": 1,
       "question": "Which sentence is grammatically correct?",
       "options": {
-        "A": "He don't like coffee.",
-        "B": "He doesn't likes coffee.",
-        "C": "He doesn't like coffee.",
-        "D": "He not like coffee."
+        "A": "She don't enjoys puzzles in the evening.",
+        "B": "She doesn't enjoy puzzles in the evening.",
+        "C": "She doesn't enjoys puzzles in the evening.",
+        "D": "She not enjoy puzzles in the evening."
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
@@ -27,50 +27,50 @@
     },
     {
       "id": 3,
-      "question": "Which is the correct preposition? The book is ____ the table.",
+      "question": "Which is the correct preposition? 'A tiny frog is sitting ___ a big green leaf.'",
       "options": {
         "A": "on",
         "B": "in",
         "C": "at",
-        "D": "by"
+        "D": "under"
       },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 4,
-      "question": "Select the correct plural form. There are two ____ in the garden.",
+      "question": "Select the correct plural form. There are two ____ in the zoo.",
       "options": {
-        "A": "child",
-        "B": "childs",
-        "C": "childrens",
-        "D": "children"
+        "A": "bear",
+        "B": "beer",
+        "C": "beers",
+        "D": "bears"
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 5,
-      "question": "Choose the correct article. He bought ____ umbrella because it was raining.",
+      "question": "Choose the correct article: 'Mia packed ___ apples for her picnic.'",
       "options": {
         "A": "a",
         "B": "an",
         "C": "the",
         "D": "no article needed"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 6,
-      "question": "Which is the correct form of the verb? They ____ football every Saturday.",
+      "question": "Which is the correct form of the verb? They enjoy ____ football every Saturday.",
       "options": {
         "A": "plays",
         "B": "play",
         "C": "playing",
         "D": "are play"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -80,19 +80,19 @@
         "A": "heavy",
         "B": "more heavy",
         "C": "heavier",
-        "D": "heaviest"
+        "D": "heavyer"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 8,
-      "question": "Choose the correct form. She ____ TV when I called her.",
+      "question": "Choose the correct form: 'They ___ a campfire when it suddenly started to rain.'",
       "options": {
-        "A": "watched",
-        "B": "watches",
-        "C": "was watching",
-        "D": "is watching"
+        "A": "make",
+        "B": "have made",
+        "C": "were making",
+        "D": "were made"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -113,24 +113,24 @@
       "id": 10,
       "question": "Select the correct word order.",
       "options": {
-        "A": "She always arrives at work early.",
-        "B": "She arrives always at work early.",
-        "C": "She arrives at work always early.",
-        "D": "Always she arrives at work early."
+        "A": "They always arrive at work early.",
+        "B": "They arrive always at work early.",
+        "C": "They arrive at work always early.",
+        "D": "Always they arrive at work early."
       },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 11,
-      "question": "Choose the correct possessive form. This is ____ house.",
+      "question": "Choose the correct form: '___ two sandwiches on the plate.'",
       "options": {
-        "A": "they",
-        "B": "them",
-        "C": "their",
-        "D": "theirs"
+        "A": "There is",
+        "B": "There are",
+        "C": "It is",
+        "D": "They are"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
@@ -147,11 +147,11 @@
     },
     {
       "id": 13,
-      "question": "Select the correct modal verb. You ____ smoke in the hospital.",
+      "question": "Select the correct modal verb: 'You ___ feed the ducks in this park — it’s prohibited.'",
       "options": {
-        "A": "don't have to",
-        "B": "shouldn't",
-        "C": "mustn't",
+        "A": "don’t have to",
+        "B": "shouldn’t",
+        "C": "mustn’t",
         "D": "might not"
       },
       "correct_answer": "C",
@@ -183,14 +183,14 @@
     },
     {
       "id": 16,
-      "question": "Choose the best word to complete the sentence. Can you please ____ the door?",
+      "question": "Choose the best word to complete the sentence. Can you please ____ the window? We need some fresh air.",
       "options": {
         "A": "close",
         "B": "open",
         "C": "put",
         "D": "make"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
@@ -221,9 +221,9 @@
       "id": 19,
       "question": "Choose the correct expression. When meeting someone for the first time, you say ____.",
       "options": {
-        "A": "Good night",
+        "A": "I am introduced",
         "B": "Nice to meet you",
-        "C": "See you later",
+        "C": "Nice to see you later",
         "D": "How are things?"
       },
       "correct_answer": "B",
@@ -231,7 +231,7 @@
     },
     {
       "id": 20,
-      "question": "Select the best word to complete this sentence. I'm sorry, I don't ____ what you're saying.",
+      "question": "Select the best word to complete the sentence: 'Can you speak more slowly? I don’t ___ your accent very well.'",
       "options": {
         "A": "hear",
         "B": "listen",
@@ -243,7 +243,7 @@
     },
     {
       "id": 21,
-      "question": "Which is the correct way to end an email to a friend?",
+      "question": "Which is the correct way to end an email to a girlfriend?",
       "options": {
         "A": "Yours sincerely,",
         "B": "Best regards,",
@@ -255,7 +255,7 @@
     },
     {
       "id": 22,
-      "question": "Choose the correct expression to make a suggestion.",
+      "question": "Choose the correct expression to make a suggestion to go to the cinema.",
       "options": {
         "A": "Why don't we go to the cinema?",
         "B": "Let's not go to the cinema.",
@@ -269,22 +269,22 @@
       "id": 23,
       "question": "Select the best phrase to complete the sentence. The weather is nice today, ____?",
       "options": {
-        "A": "isn't it",
+        "A": "doesn't it",
         "B": "is it",
-        "C": "doesn't it",
+        "C": "isn't it",
         "D": "wasn't it"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 24,
       "question": "Choose the correct response to 'How are you?'",
       "options": {
-        "A": "I'm 25 years old.",
-        "B": "I'm from Spain.",
-        "C": "I'm fine, thanks.",
-        "D": "I'm a teacher."
+        "A": "I don't think so.",
+        "B": "I am feel good.",
+        "C": "I'm fine.",
+        "D": "I'm goodly."
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -293,10 +293,10 @@
       "id": 25,
       "question": "Which is the correct way to ask for directions?",
       "options": {
-        "A": "Where is the nearest bank, please?",
-        "B": "When is the nearest bank, please?",
-        "C": "Why is the nearest bank, please?",
-        "D": "Who is the nearest bank, please?"
+        "A": "Where is the nearest bank?",
+        "B": "When is the nearest bank?",
+        "C": "Why is the nearest bank?",
+        "D": "Who is the nearest bank?"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -305,8 +305,8 @@
       "id": 26,
       "question": "Choose the correct meaning of 'last'.",
       "options": {
-        "A": "to be the first",
-        "B": "to continue for a period of time",
+        "A": "to be in the first place",
+        "B": "to be in the end",
         "C": "to move quickly",
         "D": "to be heavy"
       },
@@ -329,9 +329,9 @@
       "id": 28,
       "question": "Choose the correct meaning of 'have'.",
       "options": {
-        "A": "to give something away",
+        "A": "to give something",
         "B": "to look at something",
-        "C": "to own or possess something",
+        "C": "to own something",
         "D": "to lose something"
       },
       "correct_answer": "C",
@@ -341,10 +341,10 @@
       "id": 29,
       "question": "What does 'minute' mean?",
       "options": {
-        "A": "a long period of time",
-        "B": "a unit of time equal to 60 seconds",
-        "C": "a small amount of money",
-        "D": "a large room"
+        "A": "120 seconds",
+        "B": "60 seconds",
+        "C": "100 seconds",
+        "D": "12 seconds"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -353,10 +353,10 @@
       "id": 30,
       "question": "Choose the correct meaning of 'tell'.",
       "options": {
-        "A": "to ask a question",
-        "B": "to say something to someone",
-        "C": "to write a letter",
-        "D": "to make a mistake"
+        "A": "to ask",
+        "B": "to say",
+        "C": "to write",
+        "D": "to make"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -366,7 +366,7 @@
       "question": "What does 'part' mean?",
       "options": {
         "A": "the whole of something",
-        "B": "a piece or section of something",
+        "B": "a piece of something",
         "C": "the end of something",
         "D": "the top of something"
       },
@@ -375,12 +375,12 @@
     },
     {
       "id": 32,
-      "question": "Choose the correct meaning of 'party'.",
+      "question": "Choose the correct meaning of 'make a party'.",
       "options": {
-        "A": "a sad event",
-        "B": "a type of food",
-        "C": "a social gathering to celebrate something",
-        "D": "a place to work"
+        "A": "to investigate",
+        "B": "to invest",
+        "C": "to celebrate",
+        "D": "to participate"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -389,10 +389,10 @@
       "id": 33,
       "question": "What does 'check' mean?",
       "options": {
-        "A": "to look at something carefully",
+        "A": "to look carefully",
         "B": "to sleep deeply",
         "C": "to speak loudly",
-        "D": "to eat quickly"
+        "D": "to prepare quickly"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -403,7 +403,7 @@
       "options": {
         "A": "to make cold",
         "B": "to clean something",
-        "C": "to prepare food by heating it",
+        "C": "to prepare food",
         "D": "to break something"
       },
       "correct_answer": "C",
@@ -426,7 +426,7 @@
       "question": "Choose the correct meaning of 'produce'.",
       "options": {
         "A": "to destroy something",
-        "B": "to make or create something",
+        "B": "to create something",
         "C": "to find something",
         "D": "to buy something"
       },
@@ -438,7 +438,7 @@
       "question": "What does 'quick' mean?",
       "options": {
         "A": "moving or doing something slowly",
-        "B": "moving or doing something with speed",
+        "B": "moving or doing something fast",
         "C": "being very careful",
         "D": "being very loud"
       },
@@ -452,19 +452,19 @@
         "A": "to stay the same",
         "B": "to become different",
         "C": "to feel tired",
-        "D": "to say hello"
+        "D": "to become indifferent"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 39,
-      "question": "What does 'blood' mean?",
+      "question": "What does 'toe' mean?",
       "options": {
-        "A": "the red liquid that flows in our bodies",
-        "B": "a type of food",
-        "C": "a piece of clothing",
-        "D": "a part of a house"
+        "A": "a finger",
+        "B": "a hair",
+        "C": "an ear",
+        "D": "a leg"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -474,9 +474,9 @@
       "question": "Choose the correct meaning of 'cake'.",
       "options": {
         "A": "a type of vegetable",
-        "B": "a sweet baked food made from flour, sugar, and other ingredients",
+        "B": "a type of food",
         "C": "a type of drink",
-        "D": "a piece of furniture"
+        "D": "a type of furniture"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -487,7 +487,7 @@
       "options": {
         "A": "A picture of a person",
         "B": "A book about travel",
-        "C": "A drawing that shows a place from above",
+        "C": "A drawing of an area",
         "D": "A modern technology like GPS"
       },
       "correct_answer": "C",
@@ -499,7 +499,7 @@
       "options": {
         "A": "Because GPS doesn't work well",
         "B": "Because modern technology is too expensive",
-        "C": "Because it's a useful skill for travel and outdoor activities",
+        "C": "Because it's a useful skill for travel",
         "D": "Because maps are more accurate than GPS"
       },
       "correct_answer": "C",
@@ -510,7 +510,7 @@
       "question": "According to paragraph 2, what does the scale on a map show?",
       "options": {
         "A": "The colors used on the map",
-        "B": "How distances on the map compare to real distances",
+        "B": "The proportions to real distances",
         "C": "The direction of north",
         "D": "The symbols used on the map"
       },
@@ -571,7 +571,7 @@
       "options": {
         "A": "Modern technology is better than maps",
         "B": "Maps are complicated and hard to use",
-        "C": "Basic instructions on how to read and use maps",
+        "C": "Basic instructions on how to read maps",
         "D": "How maps are made and designed"
       },
       "correct_answer": "C",
