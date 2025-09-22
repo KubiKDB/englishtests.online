@@ -3,24 +3,24 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is the correct form of the verb?",
+      "question": "Choose the correct sentence:",
       "options": {
-        "A": "She go to school every day.",
-        "B": "She goes to school every day.",
-        "C": "She going to school every day.",
-        "D": "She goed to school every day."
+        "A": "He brush his teeth every morning.",
+        "B": "He brushing his teeth every morning.",
+        "C": "He brushes his teeth every morning.",
+        "D": "He brushed his teeth every morning."
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 2,
-      "question": "Choose the correct sentence.",
+      "question": "Choose the correct sentence:",
       "options": {
-        "A": "They has a new car.",
-        "B": "They having a new car.",
-        "C": "They have a new car.",
-        "D": "They haves a new car."
+        "A": "She take the bus to work every day.",
+        "B": "She took the bus to work every day.",
+        "C": "She takes the bus to work every day.",
+        "D": "She taked the bus to work every day."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -31,7 +31,7 @@
       "options": {
         "A": "I walk to the store yesterday.",
         "B": "I walking to the store yesterday.",
-        "C": "I walks to the store yesterday.",
+        "C": "I worked to the store yesterday.",
         "D": "I walked to the store yesterday."
       },
       "correct_answer": "D",
@@ -41,34 +41,34 @@
       "id": 4,
       "question": "Which is the correct plural form?",
       "options": {
-        "A": "Three childs",
-        "B": "Three childen",
-        "C": "Three childs'",
-        "D": "Three children"
+        "A": "mooses",
+        "B": "meese",
+        "C": "meeses",
+        "D": "moose"
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 5,
-      "question": "Choose the correct preposition.",
+      "question": "Choose the correct preposition:",
       "options": {
-        "A": "The book is in the table.",
-        "B": "The book is at the table.",
-        "C": "The book is on the table.",
-        "D": "The book is by the table."
+        "A": "There is a funny hat in the rabbit.",
+        "B": "There is a funny hat on the rabbit.",
+        "C": "There is a funny hat at the rabbit.",
+        "D": "There is a funny hat by the rabbit."
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 6,
-      "question": "Select the correct possessive form.",
+      "question": "Select the correct possessive form:",
       "options": {
-        "A": "That is Johns book.",
-        "B": "That is John's book.",
-        "C": "That is Johns' book.",
-        "D": "That is John book."
+        "A": "Look at Marias dress.",
+        "B": "Look at Maria's dress.",
+        "C": "Look at Marias' dress.",
+        "D": "Look at Maria dress."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -99,14 +99,14 @@
     },
     {
       "id": 9,
-      "question": "Choose the correct comparative form.",
+      "question": "Choose the correct comparative form:",
       "options": {
-        "A": "This book is gooder than that one.",
-        "B": "This book is more good than that one.",
-        "C": "This book is better than that one.",
-        "D": "This book is goodest than that one."
+        "A": "Today is coldest than yesterday.",
+        "B": "Today is colder than yesterday.",
+        "C": "Today is more cold than yesterday.",
+        "D": "Today is cold than yesterday."
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
@@ -135,12 +135,12 @@
     },
     {
       "id": 12,
-      "question": "Select the correct negative form.",
+      "question": "Select the correct negative form:",
       "options": {
-        "A": "She don't like apples.",
-        "B": "She doesn't likes apples.",
-        "C": "She not like apples.",
-        "D": "She doesn't like apples."
+        "A": "He won't plays the guitar.",
+        "B": "He willn't plays the guitar.",
+        "C": "He want play the guitar.",
+        "D": "He won't play the guitar."
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -159,12 +159,12 @@
     },
     {
       "id": 14,
-      "question": "Select the correct order of adjectives.",
+      "question": "Select the correct order of adjectives:",
       "options": {
-        "A": "She has a red big bag.",
-        "B": "She has a big red bag.",
-        "C": "She has a bag big red.",
-        "D": "She has a bag red big."
+        "A": "They live in a wooden small house.",
+        "B": "They live in a small wooden house.",
+        "C": "They live in a house small wooden.",
+        "D": "They live in a house wooden small."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -173,29 +173,29 @@
       "id": 15,
       "question": "Choose the correct modal verb.",
       "options": {
-        "A": "You should to go now.",
-        "B": "You should going now.",
-        "C": "You should go now.",
-        "D": "You should goes now."
+        "A": "You should to leave now.",
+        "B": "You should leaving now.",
+        "C": "You should leave now.",
+        "D": "You should leaves now."
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 16,
-      "question": "Complete the sentence: 'He ____ breakfast every morning.'",
+      "question": "Complete the sentence: 'Emma has already ____ the letter to her friend.'",
       "options": {
-        "A": "eat",
-        "B": "eats",
-        "C": "eating",
-        "D": "to eat"
+        "A": "write",
+        "B": "wrote",
+        "C": "written",
+        "D": "writing"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 17,
-      "question": "Fill in the blank: 'I need ____ buy some milk.'",
+      "question": "Fill in the blank: 'I need ____ buy some juice.'",
       "options": {
         "A": "for",
         "B": "at",
@@ -207,28 +207,28 @@
     },
     {
       "id": 18,
-      "question": "Choose the correct response: 'How are you?' '____'",
+      "question": "Choose the correct response: 'What time is it?' '____'",
       "options": {
-        "A": "I am 25 years old.",
-        "B": "I am from Spain.",
-        "C": "I'm fine, thank you.",
-        "D": "My name is John."
+        "A": "It's 3 o'clock.",
+        "B": "It's 3 hour.",
+        "C": "It's a good time.",
+        "D": "It's a 3 hours."
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Use of English"
     },
     {
-      "id": 19,
-      "question": "Complete the sentence: 'We ____ TV last night.'",
-      "options": {
-        "A": "watch",
-        "B": "watching",
-        "C": "watched",
-        "D": "watches"
-      },
-      "correct_answer": "C",
-      "category": "Use of English"
-    },
+      "id": 19,
+      "question": "Complete the sentence: 'She has a cat ____ a dog.'",
+      "options": {
+        "A": "nor",
+        "B": "and",
+        "C": "but",
+        "D": "so"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
     {
       "id": 20,
       "question": "Fill in the blank: 'There ____ many people at the party.'",
@@ -248,7 +248,7 @@
         "A": "a coffee please",
         "B": "coffee a please",
         "C": "please a coffee",
-        "D": "coffee please a"
+        "D": "coffee please"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -267,7 +267,7 @@
     },
     {
       "id": 23,
-      "question": "Fill in the blank: 'My birthday is ____ May.'",
+      "question": "Fill in the blank: 'My birthday is ____ September.'",
       "options": {
         "A": "in",
         "B": "at",
@@ -317,10 +317,10 @@
       "id": 27,
       "question": "What is a 'symbol'?",
       "options": {
-        "A": "A picture or sign that represents something",
-        "B": "A type of food",
-        "C": "A kind of animal",
-        "D": "A place to live"
+        "A": "A sign",
+        "B": "An animal",
+        "C": "A plant",
+        "D": "A place"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -341,22 +341,22 @@
       "id": 29,
       "question": "What is a 'theory'?",
       "options": {
-        "A": "A kind of food",
-        "B": "An idea that explains something",
-        "C": "A place to visit",
-        "D": "A type of clothing"
+        "A": "A religion",
+        "B": "An idea",
+        "C": "A proof",
+        "D": "A belief"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 30,
-      "question": "Something that is 'wet' is:",
+      "question": "Something that is 'moist' is:",
       "options": {
-        "A": "covered with water",
-        "B": "very hot",
-        "C": "very cold",
-        "D": "very dry"
+        "A": "wet",
+        "B": "hot",
+        "C": "cold",
+        "D": "dry"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -389,7 +389,7 @@
       "id": 33,
       "question": "Someone who is 'famous' is:",
       "options": {
-        "A": "known by many people",
+        "A": "very known",
         "B": "very tall",
         "C": "very strong",
         "D": "very old"
@@ -414,7 +414,7 @@
       "question": "What does 'wash' mean?",
       "options": {
         "A": "To make something dry",
-        "B": "To make something clean with water",
+        "B": "To make something clean",
         "C": "To break something",
         "D": "To eat something quickly"
       },
@@ -438,7 +438,7 @@
       "question": "What is 'color'?",
       "options": {
         "A": "How something tastes",
-        "B": "How something looks, like red or blue",
+        "B": "How something looks",
         "C": "How something feels",
         "D": "How something sounds"
       },
@@ -449,22 +449,22 @@
       "id": 38,
       "question": "What does 'collect' mean?",
       "options": {
-        "A": "To give things away",
-        "B": "To break things",
-        "C": "To gather many things together",
-        "D": "To lose things"
+        "A": "To give",
+        "B": "To break",
+        "C": "To gather",
+        "D": "To lose"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 39,
-      "question": "What is 'nature'?",
+      "question": "What is 'environment'?",
       "options": {
-        "A": "Things like trees, animals, and mountains",
-        "B": "A type of car",
-        "C": "A kind of food",
-        "D": "A place to shop"
+        "A": "Nature",
+        "B": "Sea",
+        "C": "Ocean",
+        "D": "Forest"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -473,10 +473,10 @@
       "id": 40,
       "question": "What is 'stock'?",
       "options": {
-        "A": "A part of a tree",
-        "B": "A supply of something kept for use",
-        "C": "A type of shoe",
-        "D": "A small animal"
+        "A": "A demand",
+        "B": "A supply",
+        "C": "A reason",
+        "D": "A wish"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -497,9 +497,9 @@
       "id": 42,
       "question": "What does the principal do for teachers according to paragraph 1?",
       "options": {
-        "A": "Gives them money",
+        "A": "Gives them money and food",
         "B": "Takes their place",
-        "C": "Helps them do their jobs well",
+        "C": "Helps them do their jobs",
         "D": "Teaches their classes"
       },
       "correct_answer": "C",
@@ -547,8 +547,8 @@
       "options": {
         "A": "How students learn in school",
         "B": "How teachers teach in school",
-        "C": "The role and importance of a principal in school",
-        "D": "The problems in schools today"
+        "C": "The role of a principal in school",
+        "D": "The problems and solutions in schools today"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -558,9 +558,9 @@
       "question": "According to the passage, what happens when a school has a good principal?",
       "options": {
         "A": "The school gets more money",
-        "B": "Students learn more and teachers teach better",
+        "B": "Students and teachers get better",
         "C": "The school becomes bigger",
-        "D": "Parents become teachers"
+        "D": "Parents become teachers and help the principal"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -571,7 +571,7 @@
       "options": {
         "A": "To enjoy learning",
         "B": "To go home early",
-        "C": "To become teachers",
+        "C": "To become a teacher",
         "D": "To pay more money"
       },
       "correct_answer": "A",
@@ -581,7 +581,7 @@
       "id": 49,
       "question": "According to paragraph 3, why does the principal talk to teachers?",
       "options": {
-        "A": "To fire them",
+        "A": "To discuss students' behavior",
         "B": "To give them money",
         "C": "To discuss new ways to teach",
         "D": "To make them work harder"
@@ -594,7 +594,7 @@
       "question": "What does the passage suggest the principal makes the school?",
       "options": {
         "A": "A sad place",
-        "B": "A happy place to learn",
+        "B": "A happy place",
         "C": "A difficult place",
         "D": "An expensive place"
       },
