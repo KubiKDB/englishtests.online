@@ -3,12 +3,12 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which form correctly completes the sentence: 'She _____ to the store every day.'",
+      "question": "Which form correctly completes the sentence: 'Water ___ at 100^C.'",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "going",
-        "D": "went"
+        "A": "boil",
+        "B": "boils",
+        "C": "boiling",
+        "D": "boiled"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -51,24 +51,24 @@
     },
     {
       "id": 5,
-      "question": "Complete the sentence with the correct comparative form: 'This book is _____ than that one.'",
+      "question": "Complete the sentence with the correct comparative form: 'This scene is _____ than that one.'",
       "options": {
-        "A": "more interesting",
-        "B": "interestinger",
-        "C": "most interesting",
-        "D": "the most interesting"
+        "A": "more vivid",
+        "B": "vivider",
+        "C": "most vivid",
+        "D": "the most vivid"
       },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 6,
-      "question": "Choose the correct option: 'They _____ TV when I called.'",
+      "question": "Choose the correct option: 'They _____ dinner when I called.'",
       "options": {
-        "A": "watched",
-        "B": "were watching",
-        "C": "are watching",
-        "D": "watch"
+        "A": "served",
+        "B": "were serving",
+        "C": "are serving",
+        "D": "serve"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -87,26 +87,26 @@
     },
     {
       "id": 8,
-      "question": "Choose the correct form: 'There _____ a book on the table.'",
+      "question": "Choose the correct form: 'There _____ strict rules in this game.'",
       "options": {
         "A": "is",
         "B": "are",
         "C": "be",
         "D": "been"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 9,
       "question": "Which sentence is grammatically correct?",
       "options": {
-        "A": "I don't like never pizza.",
-        "B": "I never like pizza.",
-        "C": "I like never pizza.",
-        "D": "Never I like pizza."
+        "A": "I used to smoke but quit.",
+        "B": "I use to smoke but quit.",
+        "C": "I used smoking but quit.",
+        "D": "I am used to smoke but quit."
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
@@ -139,7 +139,7 @@
       "options": {
         "A": "The boy kicked the ball.",
         "B": "The ball was kicked by the boy.",
-        "C": "The ball is kicking.",
+        "C": "The ball is kicking by the boy.",
         "D": "The boy kicks the ball."
       },
       "correct_answer": "B",
@@ -147,7 +147,7 @@
     },
     {
       "id": 13,
-      "question": "Choose the correct modal verb: 'You _____ brush your teeth every day.'",
+      "question": "Choose the correct modal verb: 'You _____ take a shower every day.'",
       "options": {
         "A": "can",
         "B": "might",
@@ -159,31 +159,31 @@
     },
     {
       "id": 14,
-      "question": "Select the correct question form: '_____ do you live?'",
+      "question": "Select the correct question form: '_____ town do you live in?'",
       "options": {
         "A": "What",
         "B": "When",
         "C": "Where",
         "D": "Who"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 15,
       "question": "Which sentence uses the correct conditional form?",
       "options": {
-        "A": "If it rains, I stay at home.",
-        "B": "If it rains, I staying at home.",
-        "C": "If it rains, I will stay at home.",
-        "D": "If it rains, I stayed at home."
+        "A": "If it snows, I ski.",
+        "B": "If it snows, I skiing.",
+        "C": "If it snows, I will ski.",
+        "D": "If it snows, I will sky."
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 16,
-      "question": "Complete the sentence: 'She _____ the piano very well.'",
+      "question": "Complete the sentence: 'She _____ the sax very well.'",
       "options": {
         "A": "plays with",
         "B": "plays",
@@ -195,26 +195,26 @@
     },
     {
       "id": 17,
-      "question": "Choose the best response to: 'How are you?'",
+      "question": "Choose the best response to: 'Who are you?'",
       "options": {
-        "A": "I am 25 years old.",
-        "B": "I'm fine, thank you.",
-        "C": "I am a student.",
-        "D": "I am from Spain."
+        "A": "I am a dentist.",
+        "B": "I am dentistry.",
+        "C": "I am a dent.",
+        "D": "I am a denter."
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 18,
-      "question": "Select the correct phrase to complete the dialogue: 'Would you like some tea?' '___________'",
+      "question": "Select the correct article: 'Can you pass me ___ salt?'",
       "options": {
-        "A": "Yes, I'd love to.",
-        "B": "Yes, please.",
-        "C": "Yes, I am.",
-        "D": "Yes, I do."
+        "A": "a",
+        "B": "no article needed",
+        "C": "an",
+        "D": "the"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -243,12 +243,12 @@
     },
     {
       "id": 21,
-      "question": "Select the correct collocation: 'She _____ a mistake in her homework.'",
+      "question": "Select the correct collocation: 'He _____ the password from his computer.'",
       "options": {
-        "A": "did",
-        "B": "made",
-        "C": "took",
-        "D": "had"
+        "A": "forgive",
+        "B": "forgot",
+        "C": "forgave",
+        "D": "forgotten"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -267,7 +267,7 @@
     },
     {
       "id": 23,
-      "question": "Complete the sentence: 'We need to _____ a decision soon.'",
+      "question": "Complete the sentence: 'We need to _____ an action soon.'",
       "options": {
         "A": "do",
         "B": "make",
@@ -317,10 +317,10 @@
       "id": 27,
       "question": "Which sentence uses 'on' correctly?",
       "options": {
-        "A": "The book is on the desk.",
-        "B": "The book is in the desk.",
-        "C": "The book is at the desk.",
-        "D": "The book is with the desk."
+        "A": "The book is on the shelf.",
+        "B": "The book is in the shelf.",
+        "C": "The book is at the shelf.",
+        "D": "The book is with the shelf."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -354,7 +354,7 @@
       "question": "The word 'traditional' means:",
       "options": {
         "A": "new and modern",
-        "B": "following old customs or ways of doing things",
+        "B": "old and standard",
         "C": "unusual or strange",
         "D": "related to technology"
       },
@@ -365,9 +365,9 @@
       "id": 31,
       "question": "Choose the correct sentence using the word 'two':",
       "options": {
-        "A": "I have two brother.",
-        "B": "She bought two apple.",
-        "C": "There are two books on the table.",
+        "A": "I have two little brother and two older sister.",
+        "B": "She bought two apple on the market.",
+        "C": "Two geese are pecking at the grass.",
         "D": "They have two child."
       },
       "correct_answer": "C",
@@ -411,7 +411,7 @@
     },
     {
       "id": 35,
-      "question": "Complete the sentence: 'Please close the _____ when you leave the room.'",
+      "question": "Complete the sentence: 'Please lock the _____ when you leave the room.'",
       "options": {
         "A": "door",
         "B": "window",
@@ -427,7 +427,7 @@
       "options": {
         "A": "I need to borrow some moneys.",
         "B": "How many money do you have?",
-        "C": "I don't have enough money to buy a car.",
+        "C": "I don't have enough money.",
         "D": "She gave me five moneys."
       },
       "correct_answer": "C",
@@ -533,10 +533,10 @@
       "id": 45,
       "question": "According to paragraph 3, why is it important to protect endangered animals?",
       "options": {
-        "A": "Because they are beautiful",
-        "B": "Because they might become dangerous",
+        "A": "Because they are beautiful and unique",
+        "B": "Because they might become dangerous to humans",
         "C": "Because each animal has a special role in nature",
-        "D": "Because it's illegal not to"
+        "D": "Because it's illegal not to protect them"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -560,7 +560,7 @@
         "A": "describe different endangered animals",
         "B": "explain why animals become extinct",
         "C": "explain why we should protect endangered animals",
-        "D": "teach people about animal habitats"
+        "D": "teach people about animal habitats and their importance"
       },
       "correct_answer": "C",
       "category": "Reading"
