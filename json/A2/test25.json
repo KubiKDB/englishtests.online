@@ -3,12 +3,12 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which form of the verb is correct? She ____ to school every day.",
+      "question": "Which form of the verb is correct? She ____ him to a restaurant.",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "going",
-        "D": "gone"
+        "A": "invite",
+        "B": "invited",
+        "C": "invitation",
+        "D": "inviting"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -17,10 +17,10 @@
       "id": 2,
       "question": "Choose the correct sentence.",
       "options": {
-        "A": "They doesn't like coffee.",
-        "B": "They don't likes coffee.",
-        "C": "They don't like coffee.",
-        "D": "They doesn't likes coffee."
+        "A": "I doesn't have a clue.",
+        "B": "I don't has a clue.",
+        "C": "I don't have a clue.",
+        "D": "I don't have a clues."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -41,12 +41,12 @@
       "id": 4,
       "question": "Select the correct sentence.",
       "options": {
-        "A": "I am student.",
-        "B": "I am a student.",
-        "C": "I am an student.",
-        "D": "I a student am."
+        "A": "I am undergraduate student.",
+        "B": "I am a undergraduate student.",
+        "C": "I am an undergraduate student.",
+        "D": "I undergraduate student."
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -65,34 +65,34 @@
       "id": 6,
       "question": "Which sentence is correct?",
       "options": {
-        "A": "She have a new car.",
-        "B": "She has a new car.",
-        "C": "She having a new car.",
-        "D": "She haves a new car."
-      },
-      "correct_answer": "B",
-      "category": "Grammar"
-    },
-    {
-      "id": 7,
-      "question": "Select the correct preposition. The book is ____ the table.",
-      "options": {
-        "A": "on",
-        "B": "in",
-        "C": "at",
-        "D": "by"
+        "A": "They have flown to Paris many times.",
+        "B": "They have flew to Paris many times.",
+        "C": "They having flown to Paris many times.",
+        "D": "They haves flown to Paris many times."
       },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
-      "id": 8,
-      "question": "Choose the correct plural form of 'child'.",
+      "id": 7,
+      "question": "Select the correct preposition. He ____ the street.",
       "options": {
-        "A": "childs",
-        "B": "childes",
-        "C": "children",
-        "D": "childrens"
+        "A": "across",
+        "B": "cross",
+        "C": "crossed",
+        "D": "have crossed"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct plural form of 'half'.",
+      "options": {
+        "A": "halfs",
+        "B": "halfes",
+        "C": "halves",
+        "D": "halve"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -123,12 +123,12 @@
     },
     {
       "id": 11,
-      "question": "Select the correct possessive form. That is ____ book.",
+      "question": "Select the correct possessive form. That is ____ notebook.",
       "options": {
-        "A": "John",
-        "B": "Johns",
-        "C": "John's",
-        "D": "Johns'"
+        "A": "Marcus'",
+        "B": "Marcu's",
+        "C": "Marcus's",
+        "D": "Marcuses"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -137,10 +137,10 @@
       "id": 12,
       "question": "Choose the correct sentence.",
       "options": {
-        "A": "I not like pizza.",
-        "B": "I don't like pizza.",
-        "C": "I no like pizza.",
-        "D": "I doesn't like pizza."
+        "A": "I not like him.",
+        "B": "I am not like him.",
+        "C": "I no like him.",
+        "D": "I doesn't like him."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -159,12 +159,12 @@
     },
     {
       "id": 14,
-      "question": "Choose the correct past tense form. They ____ to the park yesterday.",
+      "question": "Choose the correct past tense form. They ____ portraits in the park yesterday.",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "going",
-        "D": "went"
+        "A": "draw",
+        "B": "drown",
+        "C": "drow",
+        "D": "drew"
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -195,12 +195,12 @@
     },
     {
       "id": 17,
-      "question": "Select the best response. 'How are you?' '____'",
+      "question": "The pool was ____ of people",
       "options": {
-        "A": "I'm John.",
-        "B": "I'm fine, thank you.",
-        "C": "I'm 30 years old.",
-        "D": "I'm a teacher."
+        "A": "fool",
+        "B": "full",
+        "C": "foul",
+        "D": "fill"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -212,7 +212,7 @@
         "A": "Can I help you?",
         "B": "Do I help you?",
         "C": "Will I help you?",
-        "D": "Help I you?"
+        "D": "Can you help me?"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -222,9 +222,9 @@
       "question": "Select the correct expression for suggesting. '____'",
       "options": {
         "A": "Let's go to the movies.",
-        "B": "We go to the movies.",
-        "C": "Going to the movies.",
-        "D": "Movies are good."
+        "B": "We will go to the movies.",
+        "C": "We are going to the movies.",
+        "D": "Going to the movies is good."
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -246,9 +246,9 @@
       "question": "Choose the correct expression for asking for permission.",
       "options": {
         "A": "Can I use your phone?",
-        "B": "I use your phone.",
+        "B": "I use your phone?",
         "C": "I will use your phone.",
-        "D": "Using your phone."
+        "D": "Let me use your phone."
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -257,24 +257,24 @@
       "id": 22,
       "question": "Select the correct response to 'Thank you.'",
       "options": {
-        "A": "Thank you too.",
+        "A": "Thank for you too.",
         "B": "You're welcome.",
         "C": "Yes, please.",
-        "D": "No problem you."
+        "D": "No problem for you."
       },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 23,
-      "question": "Choose the correct way to ask for the time.",
+      "question": "Choose the correct way to say the time.",
       "options": {
-        "A": "What is hour?",
-        "B": "What time is?",
-        "C": "What time is it?",
-        "D": "What is the hour of now?"
+        "A": "It was ten past three",
+        "B": "It was ten after three",
+        "C": "It was ten over three",
+        "D": "It was ten future three"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Use of English"
     },
     {
@@ -283,7 +283,7 @@
       "options": {
         "A": "Please help me.",
         "B": "Help me please?",
-        "C": "You help me.",
+        "C": "You helped me.",
         "D": "Help please me."
       },
       "correct_answer": "A",
@@ -293,10 +293,10 @@
       "id": 25,
       "question": "Choose the correct way to introduce yourself.",
       "options": {
-        "A": "I am call John.",
-        "B": "I call John.",
-        "C": "My name is John.",
-        "D": "Name I John."
+        "A": "I will call John.",
+        "B": "I am calling John.",
+        "C": "Call me John.",
+        "D": "John will call me."
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -306,9 +306,9 @@
       "question": "The statement 'The sun rises in the east' is a ____.",
       "options": {
         "A": "fact",
-        "B": "danger",
+        "B": "thought",
         "C": "situation",
-        "D": "type"
+        "D": "theory"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -317,10 +317,10 @@
       "id": 27,
       "question": "Swimming alone in deep water can be a ____.",
       "options": {
-        "A": "music",
+        "A": "pleasure",
         "B": "danger",
-        "C": "dance",
-        "D": "shower"
+        "C": "dangerously",
+        "D": "deepness"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -329,7 +329,7 @@
       "id": 28,
       "question": "There are ____ cookies left in the jar. We ate them all.",
       "options": {
-        "A": "none",
+        "A": "no",
         "B": "bad",
         "C": "other",
         "D": "similar"
@@ -341,10 +341,10 @@
       "id": 29,
       "question": "I need to take a ____ after playing sports.",
       "options": {
-        "A": "horse",
-        "B": "music",
+        "A": "water",
+        "B": "towel",
         "C": "shower",
-        "D": "situation"
+        "D": "soap"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -355,8 +355,8 @@
       "options": {
         "A": "dance",
         "B": "music",
-        "C": "horse",
-        "D": "shower"
+        "C": "hear",
+        "D": "dog"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -365,10 +365,10 @@
       "id": 31,
       "question": "Do you have any ____ questions?",
       "options": {
-        "A": "long",
+        "A": "another",
         "B": "other",
-        "C": "sell",
-        "D": "bad"
+        "C": "none",
+        "D": "many"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -378,9 +378,9 @@
       "question": "We need to talk about this difficult ____.",
       "options": {
         "A": "situation",
-        "B": "before",
-        "C": "type",
-        "D": "horse"
+        "B": "idea",
+        "C": "theory",
+        "D": "therapy"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -389,10 +389,10 @@
       "id": 33,
       "question": "She loves to ____ at parties.",
       "options": {
-        "A": "fact",
-        "B": "danger",
+        "A": "fly",
+        "B": "ski",
         "C": "dance",
-        "D": "long"
+        "D": "skate"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -401,10 +401,10 @@
       "id": 34,
       "question": "What ____ of movie do you like?",
       "options": {
-        "A": "sell",
+        "A": "series",
         "B": "type",
-        "C": "similar",
-        "D": "other"
+        "C": "sort",
+        "D": "shape"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -413,10 +413,10 @@
       "id": 35,
       "question": "This milk smells ____. Don't drink it.",
       "options": {
-        "A": "before",
-        "B": "none",
+        "A": "good",
+        "B": "bed",
         "C": "bad",
-        "D": "fact"
+        "D": "worse"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -426,9 +426,9 @@
       "question": "The river is very ____ and takes many days to travel from end to end.",
       "options": {
         "A": "long",
-        "B": "music",
-        "C": "situation",
-        "D": "fact"
+        "B": "short",
+        "C": "fast",
+        "D": "easy"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -437,10 +437,10 @@
       "id": 37,
       "question": "The shop will ____ these products at a discount next week.",
       "options": {
-        "A": "dance",
+        "A": "buy",
         "B": "sell",
-        "C": "shower",
-        "D": "none"
+        "C": "move",
+        "D": "take"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -449,10 +449,10 @@
       "id": 38,
       "question": "You need to finish your homework ____ dinner.",
       "options": {
-        "A": "music",
-        "B": "bad",
+        "A": "to",
+        "B": "across",
         "C": "before",
-        "D": "similar"
+        "D": "with"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -461,10 +461,10 @@
       "id": 39,
       "question": "These two phones look very ____.",
       "options": {
-        "A": "other",
-        "B": "none",
+        "A": "another",
+        "B": "same",
         "C": "similar",
-        "D": "type"
+        "D": "much"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -473,9 +473,9 @@
       "id": 40,
       "question": "The ____ is a strong animal that people can ride.",
       "options": {
-        "A": "shower",
-        "B": "dance",
-        "C": "fact",
+        "A": "dog",
+        "B": "fox",
+        "C": "giraffe",
         "D": "horse"
       },
       "correct_answer": "D",
@@ -521,9 +521,9 @@
       "id": 44,
       "question": "According to the passage, Earth is special because:",
       "options": {
-        "A": "it is the biggest planet",
+        "A": "it is the biggest planet in our system",
         "B": "it is the only planet with life",
-        "C": "it has beautiful rings",
+        "C": "it has beautiful rings and many satellites",
         "D": "it is closest to the Sun"
       },
       "correct_answer": "B",
@@ -557,7 +557,7 @@
       "id": 47,
       "question": "Why do Uranus and Neptune look blue?",
       "options": {
-        "A": "because of water on their surface",
+        "A": "because of water on their surface and blue sky",
         "B": "because of the gases in their atmospheres",
         "C": "because they are cold",
         "D": "because they are far from the Sun"
