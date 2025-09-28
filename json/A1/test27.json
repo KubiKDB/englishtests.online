@@ -3,12 +3,12 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which verb form correctly completes the sentence: 'She ___ to school every day.'",
+      "question": "Which verb form correctly completes the sentence: 'She always ___ her day with a healthy breakfast.'",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "going",
-        "D": "went"
+        "A": "begin",
+        "B": "begins",
+        "C": "began",
+        "D": "begun"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -99,12 +99,12 @@
     },
     {
       "id": 9,
-      "question": "Choose the correct plural form of 'child':",
+      "question": "Choose the correct plural form of 'wife':",
       "options": {
-        "A": "childs",
-        "B": "childes",
-        "C": "childrens",
-        "D": "children"
+        "A": "wifes",
+        "B": "wive",
+        "C": "wivees",
+        "D": "wives"
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -147,12 +147,12 @@
     },
     {
       "id": 13,
-      "question": "Select the correct form: 'Yesterday, I ___ to the movies.'",
+      "question": "Select the correct form: 'Yesterday, I ___ a sand castle.'",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "going",
-        "D": "went"
+        "A": "build",
+        "B": "builds",
+        "C": "builded",
+        "D": "built"
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -175,7 +175,7 @@
       "options": {
         "A": "This are my books.",
         "B": "This is my friends.",
-        "C": "This is a pen.",
+        "C": "This is a lipstick.",
         "D": "This am a good idea."
       },
       "correct_answer": "C",
@@ -186,7 +186,7 @@
       "question": "Complete the sentence: 'Can you ___ me with this problem?'",
       "options": {
         "A": "improve",
-        "B": "deep",
+        "B": "solve",
         "C": "help",
         "D": "limit"
       },
@@ -200,7 +200,7 @@
         "A": "school",
         "B": "house",
         "C": "company",
-        "D": "lesson"
+        "D": "garage"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -210,9 +210,9 @@
       "question": "Select the best word for the space: 'The ___ is very clean and fresh here in the mountains.'",
       "options": {
         "A": "house",
-        "B": "company",
+        "B": "hair",
         "C": "air",
-        "D": "band"
+        "D": "grass"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -222,9 +222,9 @@
       "question": "Complete the sentence: 'I go to ___ to learn English.'",
       "options": {
         "A": "school",
-        "B": "house",
+        "B": "party",
         "C": "company",
-        "D": "band"
+        "D": "concert"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -233,10 +233,10 @@
       "id": 20,
       "question": "Choose the correct option: 'My sister works for a big ___.'",
       "options": {
-        "A": "school",
+        "A": "building",
         "B": "house",
         "C": "company",
-        "D": "lesson"
+        "D": "library"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -245,10 +245,10 @@
       "id": 21,
       "question": "Select the best word: 'There is a ___ to how many people can enter the building.'",
       "options": {
-        "A": "help",
+        "A": "ceiling",
         "B": "limit",
-        "C": "improve",
-        "D": "available"
+        "C": "number",
+        "D": "close"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -257,10 +257,10 @@
       "id": 22,
       "question": "Complete the sentence: 'This product is ___ in three different colors.'",
       "options": {
-        "A": "limit",
-        "B": "improve",
+        "A": "needed",
+        "B": "suitable",
         "C": "available",
-        "D": "deep"
+        "D": "able"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -269,10 +269,10 @@
       "id": 23,
       "question": "Choose the correct word: 'You need to practice if you want to ___ your English.'",
       "options": {
-        "A": "available",
-        "B": "house",
+        "A": "better",
+        "B": "clean",
         "C": "improve",
-        "D": "limit"
+        "D": "raise"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -282,9 +282,9 @@
       "question": "Select the correct word: 'The lake is very ___.'",
       "options": {
         "A": "deep",
-        "B": "fast",
-        "C": "available",
-        "D": "improve"
+        "B": "tall",
+        "C": "high",
+        "D": "low"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -293,10 +293,10 @@
       "id": 25,
       "question": "Complete the sentence: 'I like to ___ letters to my grandmother.'",
       "options": {
-        "A": "improve",
+        "A": "draw",
         "B": "write",
-        "C": "help",
-        "D": "limit"
+        "C": "right",
+        "D": "spend"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -306,9 +306,9 @@
       "question": "Which word means 'a period of teaching'?",
       "options": {
         "A": "school",
-        "B": "company",
+        "B": "class",
         "C": "lesson",
-        "D": "band"
+        "D": "place"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -317,10 +317,10 @@
       "id": 27,
       "question": "Which word means 'a group of musicians'?",
       "options": {
-        "A": "lesson",
-        "B": "company",
+        "A": "bond",
+        "B": "bend",
         "C": "band",
-        "D": "school"
+        "D": "bind"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -329,9 +329,9 @@
       "id": 28,
       "question": "Which word means 'moving quickly'?",
       "options": {
-        "A": "deep",
+        "A": "slow",
         "B": "large",
-        "C": "beautiful",
+        "C": "small",
         "D": "fast"
       },
       "correct_answer": "D",
@@ -341,34 +341,34 @@
       "id": 29,
       "question": "Which word means 'to make words on paper or a computer'?",
       "options": {
-        "A": "help",
-        "B": "write",
-        "C": "improve",
-        "D": "limit"
+        "A": "form",
+        "B": "type",
+        "C": "draw",
+        "D": "create"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 30,
-      "question": "Which word describes something that goes far down?",
+      "question": "Which word describes going down in the water?",
       "options": {
-        "A": "fast",
-        "B": "large",
-        "C": "deep",
-        "D": "beautiful"
+        "A": "think",
+        "B": "tink",
+        "C": "sink",
+        "D": "dink"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 31,
-      "question": "Which word describes something that looks very nice?",
+      "question": "Which word describes something that looks beautiful?",
       "options": {
-        "A": "large",
-        "B": "deep",
-        "C": "beautiful",
-        "D": "fast"
+        "A": "very large",
+        "B": "very deep",
+        "C": "very nice",
+        "D": "very fast"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -377,10 +377,10 @@
       "id": 32,
       "question": "Which word means 'a building where people live'?",
       "options": {
-        "A": "school",
+        "A": "office",
         "B": "house",
-        "C": "company",
-        "D": "band"
+        "C": "shop",
+        "D": "station"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -389,9 +389,9 @@
       "id": 33,
       "question": "Which word means 'big in size'?",
       "options": {
-        "A": "beautiful",
-        "B": "deep",
-        "C": "fast",
+        "A": "sharp",
+        "B": "shallow",
+        "C": "scale",
         "D": "large"
       },
       "correct_answer": "D",
@@ -399,12 +399,12 @@
     },
     {
       "id": 34,
-      "question": "Which word means 'to assist someone'?",
+      "question": "Which word means 'to help someone'?",
       "options": {
-        "A": "help",
-        "B": "write",
-        "C": "improve",
-        "D": "limit"
+        "A": "assist",
+        "B": "effect",
+        "C": "affect",
+        "D": "resist"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -413,34 +413,34 @@
       "id": 35,
       "question": "Which word means 'to make better'?",
       "options": {
-        "A": "limit",
+        "A": "invite",
         "B": "improve",
-        "C": "write",
-        "D": "help"
+        "C": "insult",
+        "D": "impress"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 36,
-      "question": "Which word means 'a place where children learn'?",
+      "question": "Which word means 'a place where students learn'?",
       "options": {
-        "A": "house",
-        "B": "company",
-        "C": "school",
-        "D": "band"
+        "A": "universal",
+        "B": "universe",
+        "C": "university",
+        "D": "universality"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 37,
-      "question": "Which word means 'the invisible substance around us that we breathe'?",
+      "question": "The air is:",
       "options": {
-        "A": "deep",
-        "B": "air",
-        "C": "house",
-        "D": "fast"
+        "A": "liquid",
+        "B": "invisible",
+        "C": "invincible",
+        "D": "inventive"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -449,10 +449,10 @@
       "id": 38,
       "question": "Which word means 'a business organization'?",
       "options": {
-        "A": "house",
-        "B": "school",
-        "C": "band",
-        "D": "company"
+        "A": "correlation",
+        "B": "operation",
+        "C": "cooperation",
+        "D": "corporation"
       },
       "correct_answer": "D",
       "category": "Vocabulary"
@@ -461,22 +461,22 @@
       "id": 39,
       "question": "Which word means 'a maximum amount'?",
       "options": {
-        "A": "improve",
-        "B": "help",
+        "A": "barrier",
+        "B": "wall",
         "C": "limit",
-        "D": "write"
+        "D": "obstacle"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 40,
-      "question": "Which word means 'ready to use or obtain'?",
+      "question": "All people want ___",
       "options": {
-        "A": "limit",
-        "B": "available",
-        "C": "improve",
-        "D": "deep"
+        "A": "piece",
+        "B": "peace",
+        "C": "pease",
+        "D": "pierce"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -487,7 +487,7 @@
       "options": {
         "A": "Eggs",
         "B": "Tadpoles",
-        "C": "Adults",
+        "C": "Toddlers",
         "D": "Fish"
       },
       "correct_answer": "B",
@@ -559,7 +559,7 @@
       "options": {
         "A": "Their tails",
         "B": "Their front legs",
-        "C": "Their large back legs",
+        "C": "Their back legs",
         "D": "Their gills"
       },
       "correct_answer": "C",
