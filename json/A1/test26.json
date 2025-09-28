@@ -3,14 +3,14 @@
   "questions": [
     {
       "id": 1,
-      "question": "She _____ to school every day.",
+      "question": "She likes _____ PE at school.",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "going",
-        "D": "is go"
+        "A": "do",
+        "B": "does",
+        "C": "doing",
+        "D": "is do"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "id": 3,
-      "question": "They _____ watching TV now.",
+      "question": "They _____ cooking food now.",
       "options": {
         "A": "is",
         "B": "am",
@@ -39,14 +39,14 @@
     },
     {
       "id": 4,
-      "question": "I _____ like coffee.",
+      "question": "I'd like _____ coffee or tea.",
       "options": {
         "A": "don't",
-        "B": "doesn't",
-        "C": "am not",
-        "D": "not"
+        "B": "either",
+        "C": "neither",
+        "D": "both"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
@@ -63,36 +63,36 @@
     },
     {
       "id": 6,
-      "question": "There _____ a book on the table.",
+      "question": "There are _____ books in the library.",
       "options": {
-        "A": "is",
-        "B": "are",
-        "C": "be",
-        "D": "am"
-      },
-      "correct_answer": "A",
-      "category": "Grammar"
-    },
-    {
-      "id": 7,
-      "question": "She _____ English very well.",
-      "options": {
-        "A": "speak",
-        "B": "speaks",
-        "C": "speaking",
-        "D": "is speak"
+        "A": "any",
+        "B": "many",
+        "C": "much",
+        "D": "more"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
-      "id": 8,
-      "question": "I want _____ apple.",
+      "id": 7,
+      "question": "She speaks _____ very well.",
       "options": {
-        "A": "a",
-        "B": "an",
-        "C": "the",
-        "D": "–"
+        "A": "Portugal",
+        "B": "Portugal's",
+        "C": "Portuese",
+        "D": "Portuguese"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "I ate _____ apple and _____ banana.",
+      "options": {
+        "A": "a/an",
+        "B": "an/a",
+        "C": "a/a",
+        "D": "an/an"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -147,7 +147,7 @@
     },
     {
       "id": 13,
-      "question": "The children _____ playing in the park.",
+      "question": "The geese _____ swimming in the pond.",
       "options": {
         "A": "is",
         "B": "am",
@@ -159,26 +159,26 @@
     },
     {
       "id": 14,
-      "question": "I _____ to the movies yesterday.",
+      "question": "I _____ in the park yesterday.",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "going",
-        "D": "went"
+        "A": "walk",
+        "B": "walks",
+        "C": "woke",
+        "D": "walked"
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 15,
-      "question": "These are _____ books.",
+      "question": "These books are _____.",
       "options": {
         "A": "I",
         "B": "me",
         "C": "my",
         "D": "mine"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -195,12 +195,12 @@
     },
     {
       "id": 17,
-      "question": "I want _____ to the park.",
+      "question": "I wanted _____ my grandpa.",
       "options": {
-        "A": "go",
-        "B": "to go",
-        "C": "going",
-        "D": "goes"
+        "A": "visit",
+        "B": "to visit",
+        "C": "visiting",
+        "D": "visits"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -210,7 +210,7 @@
       "question": "_____ is your phone number?",
       "options": {
         "A": "What",
-        "B": "Where",
+        "B": "When",
         "C": "Who",
         "D": "Why"
       },
@@ -219,14 +219,14 @@
     },
     {
       "id": 19,
-      "question": "She _____ have a car.",
+      "question": "The Himalayas has the _____ mountain called Everest.",
       "options": {
-        "A": "not",
-        "B": "don't",
-        "C": "doesn't",
-        "D": "no"
+        "A": "higher",
+        "B": "high",
+        "C": "highly",
+        "D": "highest"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -243,7 +243,7 @@
     },
     {
       "id": 21,
-      "question": "_____ do you live? In New York.",
+      "question": "_____ do you live?",
       "options": {
         "A": "What",
         "B": "Where",
@@ -257,46 +257,46 @@
       "id": 22,
       "question": "This is _____ friend Tom.",
       "options": {
-        "A": "I",
-        "B": "me",
-        "C": "my",
-        "D": "mine"
+        "A": "we",
+        "B": "hour",
+        "C": "our",
+        "D": "ours"
       },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 23,
-      "question": "I'm sorry, I don't _____ .",
+      "question": "What is the _____ now?",
       "options": {
-        "A": "know",
-        "B": "understanding",
-        "C": "understand",
-        "D": "understands"
+        "A": "hour",
+        "B": "timing",
+        "C": "clock",
+        "D": "time"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 24,
-      "question": "There _____ some milk in the fridge.",
+      "question": "We visited the ____ Gallery in London.",
       "options": {
-        "A": "is",
-        "B": "are",
-        "C": "be",
-        "D": "have"
+        "A": "Nation",
+        "B": "National",
+        "C": "Nationally",
+        "D": "Nationality"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 25,
-      "question": "I like _____ music.",
+      "question": "We crossed the river by bridge _____ of taking the ferry.",
       "options": {
-        "A": "hear",
-        "B": "hearing",
-        "C": "to hear",
-        "D": "listen"
+        "A": "because",
+        "B": "instead",
+        "C": "in case",
+        "D": "thanks"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -306,9 +306,9 @@
       "question": "The weather is very _____ today.",
       "options": {
         "A": "nice",
-        "B": "monkey",
-        "C": "sea",
-        "D": "kitchen"
+        "B": "pretty",
+        "C": "tasty",
+        "D": "colorful"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -317,34 +317,34 @@
       "id": 27,
       "question": "The _____ is jumping in the tree.",
       "options": {
-        "A": "sea",
-        "B": "device",
+        "A": "elephant",
+        "B": "snake",
         "C": "monkey",
-        "D": "network"
+        "D": "giraffe"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 28,
-      "question": "She has a _____ dress for the party.",
+      "question": "She has an _____ dress for the party.",
       "options": {
-        "A": "personal",
+        "A": "unique",
         "B": "pretty",
-        "C": "network",
-        "D": "center"
+        "C": "original",
+        "D": "light"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 29,
       "question": "I use the internet to connect to the _____.",
       "options": {
-        "A": "kitchen",
-        "B": "row",
-        "C": "sea",
-        "D": "network"
+        "A": "fridge",
+        "B": "oven",
+        "C": "toaster",
+        "D": "computer"
       },
       "correct_answer": "D",
       "category": "Vocabulary"
@@ -354,7 +354,7 @@
       "question": "_____ pass me the salt.",
       "options": {
         "A": "Nice",
-        "B": "Sometimes",
+        "B": "Thank",
         "C": "Please",
         "D": "Behind"
       },
@@ -367,8 +367,8 @@
       "options": {
         "A": "express",
         "B": "join",
-        "C": "device",
-        "D": "center"
+        "C": "send",
+        "D": "connect"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -377,10 +377,10 @@
       "id": 32,
       "question": "This is my _____ computer.",
       "options": {
-        "A": "sea",
+        "A": "public",
         "B": "personal",
-        "C": "sometimes",
-        "D": "kitchen"
+        "C": "job",
+        "D": "close"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -390,9 +390,9 @@
       "question": "The dog is _____ the door.",
       "options": {
         "A": "center",
-        "B": "join",
+        "B": "middle",
         "C": "behind",
-        "D": "please"
+        "D": "back"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -401,10 +401,10 @@
       "id": 34,
       "question": "The shopping mall is in the _____ of town.",
       "options": {
-        "A": "please",
-        "B": "monkey",
+        "A": "city",
+        "B": "across",
         "C": "center",
-        "D": "row"
+        "D": "above"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -413,10 +413,10 @@
       "id": 35,
       "question": "I _____ go to the movies on weekends.",
       "options": {
-        "A": "behind",
+        "A": "ever",
         "B": "sometimes",
-        "C": "express",
-        "D": "pretty"
+        "C": "maybe",
+        "D": "popularly"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -426,9 +426,9 @@
       "question": "Please _____ our team!",
       "options": {
         "A": "join",
-        "B": "device",
-        "C": "network",
-        "D": "nice"
+        "B": "connect",
+        "C": "share",
+        "D": "plug"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -437,10 +437,10 @@
       "id": 37,
       "question": "We went swimming in the _____.",
       "options": {
-        "A": "kitchen",
-        "B": "device",
+        "A": "puddle",
+        "B": "pull",
         "C": "sea",
-        "D": "center"
+        "D": "see"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -449,21 +449,21 @@
       "id": 38,
       "question": "Please sit in the front _____ of the classroom.",
       "options": {
-        "A": "sea",
+        "A": "side",
         "B": "row",
-        "C": "network",
-        "D": "express"
+        "C": "back",
+        "D": "share"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 39,
-      "question": "My mother is cooking in the _____.",
+      "question": "My mother is preparing lunch in the _____.",
       "options": {
-        "A": "network",
-        "B": "center",
-        "C": "row",
+        "A": "garage",
+        "B": "living room",
+        "C": "bathroom",
         "D": "kitchen"
       },
       "correct_answer": "D",
@@ -471,12 +471,12 @@
     },
     {
       "id": 40,
-      "question": "I need a new _____ to connect to the internet.",
+      "question": "Their _____ was postponed.",
       "options": {
-        "A": "device",
-        "B": "monkey",
-        "C": "sea",
-        "D": "center"
+        "A": "flight",
+        "B": "light",
+        "C": "night",
+        "D": "sight"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -497,7 +497,7 @@
       "id": 42,
       "question": "According to the passage, what would happen without the sun?",
       "options": {
-        "A": "Plants would grow faster",
+        "A": "Plants would grow faster, but animals would grow slower",
         "B": "The Earth would be dark and cold",
         "C": "We would have better sleep",
         "D": "We would have more energy"
@@ -510,7 +510,7 @@
       "question": "According to paragraph 2, what helps make our bones strong?",
       "options": {
         "A": "Sunlight",
-        "B": "Plants",
+        "B": "Vitamin B",
         "C": "Vitamin D",
         "D": "Sleep"
       },
@@ -521,10 +521,10 @@
       "id": 44,
       "question": "How does the sun help us sleep better?",
       "options": {
-        "A": "It makes us tired",
-        "B": "It tells our body when to be awake and when to sleep",
-        "C": "It gives us energy",
-        "D": "It heats the air"
+        "A": "It makes us feel tired",
+        "B": "It sets our sleep cycle",
+        "C": "It gives us more energy",
+        "D": "It heats the air around us"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -547,10 +547,10 @@
       "options": {
         "A": "Only houses",
         "B": "Only cars",
-        "C": "Houses, buildings, and cars",
-        "D": "Only buildings"
+        "C": "Only buildings",
+        "D": "Houses, buildings, and cars"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -569,10 +569,10 @@
       "id": 48,
       "question": "Why are some places hot and some places cold?",
       "options": {
-        "A": "Because of wind and rain",
-        "B": "Because of the seasons",
+        "A": "Because of different amounts of wind and rain",
+        "B": "Because of the changing seasons",
         "C": "Because of different amounts of sunlight",
-        "D": "Because of the weather"
+        "D": "Because of the changing weather"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -593,8 +593,8 @@
       "id": 50,
       "question": "The word 'pollution' in paragraph 3 is closest in meaning to:",
       "options": {
-        "A": "clean air",
-        "B": "dirty things in the air and water",
+        "A": "clean air and water",
+        "B": "dirty air and water",
         "C": "electricity",
         "D": "energy"
       },
