@@ -3,12 +3,12 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which verb form correctly completes this sentence? 'She _____ to the store yesterday.'",
+      "question": "Which verb form correctly completes this sentence? 'She _____ all the money on the lunch yesterday.'",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "went",
-        "D": "going"
+        "A": "spend",
+        "B": "spends",
+        "C": "spent",
+        "D": "spending"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -29,17 +29,17 @@
       "id": 3,
       "question": "Which sentence is grammatically correct?",
       "options": {
-        "A": "They doesn't like pizza.",
-        "B": "He don't like pizza.",
-        "C": "She don't like pizza.",
-        "D": "I don't like pizza."
+        "A": "They doesn't like sushi.",
+        "B": "He don't like sushi.",
+        "C": "She don't like sushi.",
+        "D": "I don't like sushi."
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 4,
-      "question": "Choose the correct past tense form: 'Last week, I _____ a new car.'",
+      "question": "Choose the correct past tense form: 'Last week, I _____ a new phone.'",
       "options": {
         "A": "buy",
         "B": "buyed",
@@ -51,12 +51,12 @@
     },
     {
       "id": 5,
-      "question": "Select the correct preposition: 'The book is _____ the table.'",
+      "question": "Select the correct preposition: '_____ iPhone is _____ the table.'",
       "options": {
-        "A": "on",
-        "B": "in",
-        "C": "at",
-        "D": "by"
+        "A": "an/on",
+        "B": "a/on",
+        "C": "the/in",
+        "D": "-/at"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -75,24 +75,24 @@
     },
     {
       "id": 7,
-      "question": "Choose the correct comparative form: 'This building is _____ than that one.'",
+      "question": "Select the correct preposition: 'He used to be good _____ sales.'",
       "options": {
-        "A": "more tall",
-        "B": "most tall",
-        "C": "taller",
-        "D": "tallest"
+        "A": "in",
+        "B": "with",
+        "C": "at",
+        "D": "on"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 8,
-      "question": "Select the correct article: 'I saw _____ elephant at the zoo.'",
+      "question": "Select the correct article: 'I saw _____ elephant and _____ zebra at the zoo.'",
       "options": {
-        "A": "a",
-        "B": "an",
-        "C": "the",
-        "D": "no article needed"
+        "A": "a/an",
+        "B": "an/a",
+        "C": "the/the",
+        "D": "no articles needed"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -101,10 +101,10 @@
       "id": 9,
       "question": "Which sentence uses the present perfect correctly?",
       "options": {
-        "A": "I have went to Paris last year.",
-        "B": "I have gone to Paris last year.",
-        "C": "I have been to Paris three times.",
-        "D": "I have go to Paris tomorrow."
+        "A": "I have went to Bali last year.",
+        "B": "I have gone to Bali last year.",
+        "C": "I have been to Bali three times.",
+        "D": "I have go to Bali tomorrow."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -140,7 +140,7 @@
         "A": "sister",
         "B": "sisters",
         "C": "sister's",
-        "D": "sisters'"
+        "D": "sister'"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -159,12 +159,12 @@
     },
     {
       "id": 14,
-      "question": "Select the correct form: 'She _____ dinner when I called.'",
+      "question": "Select the correct form: 'She _____ a new fridge when I met her.'",
       "options": {
-        "A": "cook",
-        "B": "cooks",
-        "C": "cooking",
-        "D": "was cooking"
+        "A": "select",
+        "B": "selects",
+        "C": "selecting",
+        "D": "was selecting"
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -207,36 +207,36 @@
     },
     {
       "id": 18,
-      "question": "Which phrase correctly completes this sentence? 'She's good _____ swimming.'",
+      "question": "Which phrase correctly completes this sentence? 'She has a talent _____ singing.'",
       "options": {
         "A": "on",
         "B": "at",
         "C": "in",
         "D": "for"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 19,
-      "question": "Choose the correct phrase: 'We need to _____ a decision soon.'",
+      "question": "Choose the correct phrase: 'We need to _____ a replacement soon.'",
       "options": {
         "A": "do",
-        "B": "take",
-        "C": "make",
-        "D": "have"
+        "B": "fake",
+        "C": "find",
+        "D": "found"
       },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 20,
-      "question": "Select the correct response to 'How are you?'",
+      "question": "Select the correct response to 'How are you doing?'",
       "options": {
-        "A": "I'm 25 years old.",
-        "B": "I'm a teacher.",
-        "C": "I'm fine, thank you.",
-        "D": "I'm from Spain."
+        "A": "I'm find.",
+        "B": "I'm doing.",
+        "C": "I'm fine.",
+        "D": "I'm not doing anything."
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -247,7 +247,7 @@
       "options": {
         "A": "How do you call?",
         "B": "What is your name?",
-        "C": "How do you name?",
+        "C": "How are you named?",
         "D": "What you are called?"
       },
       "correct_answer": "B",
@@ -295,8 +295,8 @@
       "options": {
         "A": "Can I help you?",
         "B": "Do I help you?",
-        "C": "May I to help you?",
-        "D": "Will I help you?"
+        "C": "How may I to help you?",
+        "D": "Will I can help you?"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -319,7 +319,7 @@
       "options": {
         "A": "I park my breakfast every morning.",
         "B": "Children like to play in the park.",
-        "C": "The park is very hot today.",
+        "C": "The park is very interesting today.",
         "D": "She parks her friends at school."
       },
       "correct_answer": "B",
@@ -341,46 +341,46 @@
       "id": 29,
       "question": "Which word best completes this sentence? 'I'm tired. I want to go to _____.'",
       "options": {
-        "A": "coffee",
-        "B": "office",
+        "A": "bad",
+        "B": "bread",
         "C": "bed",
-        "D": "park"
+        "D": "beard"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 30,
-      "question": "What does 'light' mean in this sentence? 'Please turn on the light.'",
+      "question": "What will 'light' do in this sentence? 'Please turn on the light.'",
       "options": {
-        "A": "Something that makes things visible",
-        "B": "Something heavy",
-        "C": "A type of food",
-        "D": "A large building"
+        "A": "Make things visible",
+        "B": "Make things darker",
+        "C": "Make things better",
+        "D": "Make things colder"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 31,
-      "question": "Which sentence uses the word 'coffee' correctly?",
+      "question": "Which sentence uses the word 'fly' correctly?",
       "options": {
-        "A": "I coffee my car every day.",
-        "B": "The coffee is singing loudly.",
-        "C": "I drink coffee every morning.",
-        "D": "She coffees to work."
+        "A": "I fly my car every day.",
+        "B": "The fly is on the window.",
+        "C": "I fly to breakfast every morning.",
+        "D": "They fly under water."
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 32,
       "question": "What does 'turn' mean in this sentence? 'It's your turn to play.'",
       "options": {
-        "A": "Your time to do something",
-        "B": "To move in a circle",
-        "C": "To change direction",
-        "D": "To be late"
+        "A": "Your move",
+        "B": "Your wish",
+        "C": "Your way",
+        "D": "Your word"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -389,7 +389,7 @@
       "id": 33,
       "question": "Which sentence uses the word 'study' correctly?",
       "options": {
-        "A": "I study the TV yesterday.",
+        "A": "I study the phone yesterday.",
         "B": "She studies English at school.",
         "C": "They study the bus every day.",
         "D": "He studies very tall."
@@ -401,22 +401,22 @@
       "id": 34,
       "question": "What is a 'grandfather'?",
       "options": {
-        "A": "A young boy",
+        "A": "A young boy or an adult woman",
         "B": "Your mother's or father's father",
-        "C": "A type of food",
-        "D": "A small animal"
+        "C": "Your mother's or father's brother",
+        "D": "Your mother's or father's mother"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 35,
-      "question": "Which sentence uses 'TV' correctly?",
+      "question": "What is a 'kitchen'?",
       "options": {
-        "A": "I TV to school every day.",
-        "B": "She TVs very well.",
-        "C": "They watched TV last night.",
-        "D": "He TVs his dinner."
+        "A": "A room for sleeping",
+        "B": "A room for washing",
+        "C": "A room for cooking",
+        "D": "A room for studying"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -437,10 +437,10 @@
       "id": 37,
       "question": "Which sentence uses 'every' correctly?",
       "options": {
-        "A": "She goes to work every.",
+        "A": "She goes to every work.",
         "B": "I eat every breakfast.",
         "C": "Every student has a book.",
-        "D": "They every like pizza."
+        "D": "Every they like pizza."
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -452,7 +452,7 @@
         "A": "Sometimes",
         "B": "Never",
         "C": "At all times",
-        "D": "Once"
+        "D": "Once in a while"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -473,10 +473,10 @@
       "id": 40,
       "question": "What is a 'face'?",
       "options": {
-        "A": "A part of the body with eyes, nose, and mouth",
-        "B": "A type of food",
-        "C": "A piece of furniture",
-        "D": "A place where people work"
+        "A": "A part of the head",
+        "B": "A part of the chest",
+        "C": "A part of the back",
+        "D": "A part of the leg"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -523,7 +523,7 @@
       "options": {
         "A": "They use their teeth",
         "B": "They hunt in large groups",
-        "C": "They swim with their mouths open and filter food",
+        "C": "They swim with their mouths open",
         "D": "They wait for food to come to them"
       },
       "correct_answer": "C",
@@ -536,7 +536,7 @@
         "A": "Only in the Atlantic Ocean",
         "B": "Only in warm waters",
         "C": "In freshwater lakes",
-        "D": "In all of the world's oceans"
+        "D": "In all oceans"
       },
       "correct_answer": "D",
       "category": "Reading"
@@ -572,7 +572,7 @@
         "A": "Only hunting",
         "B": "Only water pollution",
         "C": "Ship strikes, fishing nets, and pollution",
-        "D": "Competition with other whales"
+        "D": "Competition with other whales and orcas"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -594,7 +594,7 @@
       "question": "What is the main idea of the passage?",
       "options": {
         "A": "How blue whales eat",
-        "B": "Why blue whales are endangered",
+        "B": "Why blue whales are endangered and how to save them",
         "C": "General information about blue whales",
         "D": "How scientists study blue whales"
       },
