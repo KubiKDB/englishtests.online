@@ -3,24 +3,24 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which form correctly completes the sentence? She _____ TV every evening.",
+      "question": "Which form correctly completes the sentence? She _____ a beautiful dress last Sunday.",
       "options": {
-        "A": "watch",
-        "B": "watches",
-        "C": "watching",
-        "D": "is watch"
+        "A": "wear",
+        "B": "wears",
+        "C": "wearing",
+        "D": "wore"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 2,
       "question": "Choose the correct option: My brother _____ to work by bus yesterday.",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "went",
-        "D": "going"
+        "A": "get",
+        "B": "gets",
+        "C": "got",
+        "D": "gone"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -29,10 +29,10 @@
       "id": 3,
       "question": "Which sentence is grammatically correct?",
       "options": {
-        "A": "They don't has a car.",
-        "B": "They doesn't have a car.",
-        "C": "They don't have a car.",
-        "D": "They not have a car."
+        "A": "They have ever traveled to Africa.",
+        "B": "They have neither traveled to Africa.",
+        "C": "They have never traveled to Africa.",
+        "D": "They have either traveled to Africa."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -63,48 +63,48 @@
     },
     {
       "id": 6,
-      "question": "Select the correct comparative form: This building is _____ than my house.",
+      "question": "Select the correct comparative form: This skyscraper is _____ in Hong Kong.",
       "options": {
-        "A": "more bigger",
-        "B": "more big",
-        "C": "bigger",
+        "A": "the bigger",
+        "B": "the big",
+        "C": "biggest",
         "D": "the biggest"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 7,
-      "question": "Choose the correct past tense form: I _____ dinner when she called.",
+      "question": "Choose the correct past tense form: I _____ when she called.",
       "options": {
-        "A": "was cooking",
-        "B": "cooked",
-        "C": "am cooking",
-        "D": "cook"
+        "A": "wasn't sleeping",
+        "B": "am sleeping",
+        "C": "haven't slept",
+        "D": "haven't sleeping"
       },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 8,
-      "question": "Which sentence is in the future tense?",
+      "question": "Which sentence is in the future perfect tense?",
       "options": {
-        "A": "I visit my grandparents.",
-        "B": "I am visiting my grandparents.",
-        "C": "I visited my grandparents.",
-        "D": "I will visit my grandparents."
+        "A": "I will visit my grandparents by the weekend.",
+        "B": "I will be visiting my grandparents by the weekend.",
+        "C": "I have visited my grandparents by the weekend.",
+        "D": "I will have visited my grandparents by the weekend."
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 9,
-      "question": "Choose the correct option: There _____ some milk in the fridge.",
+      "question": "Choose the correct option: There _____ any milk in the fridge.",
       "options": {
-        "A": "is",
-        "B": "are",
-        "C": "be",
-        "D": "am"
+        "A": "isn't",
+        "B": "is",
+        "C": "are",
+        "D": "aren't"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -147,7 +147,7 @@
     },
     {
       "id": 13,
-      "question": "Which is the correct negative form? He _____ like coffee.",
+      "question": "Which is the correct negative form? He _____ work in office.",
       "options": {
         "A": "don't",
         "B": "doesn't",
@@ -161,10 +161,10 @@
       "id": 14,
       "question": "Choose the correct plural form:",
       "options": {
-        "A": "childs",
-        "B": "childes",
-        "C": "childrens",
-        "D": "children"
+        "A": "leafs",
+        "B": "leafes",
+        "C": "leave",
+        "D": "leaves"
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -173,10 +173,10 @@
       "id": 15,
       "question": "Which sentence has the correct word order?",
       "options": {
-        "A": "Always he goes to bed early.",
-        "B": "He goes always to bed early.",
-        "C": "He always goes to bed early.",
-        "D": "He goes to bed always early."
+        "A": "Always he drinks milk before going to bed.",
+        "B": "He drinks always milk before going to bed.",
+        "C": "He always drinks milk before going to bed.",
+        "D": "He drinks milk before going to bed always."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -195,12 +195,12 @@
     },
     {
       "id": 17,
-      "question": "Choose the correct phrase to complete the sentence: Could you _____ me a favor?",
+      "question": "Choose the correct phrase to complete the sentence: The Piccadilly _____ is a famous square.",
       "options": {
-        "A": "make",
-        "B": "give",
-        "C": "do",
-        "D": "take"
+        "A": "Circle",
+        "B": "Circles",
+        "C": "Circus",
+        "D": "Cirques"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -243,10 +243,10 @@
     },
     {
       "id": 21,
-      "question": "Select the correct option: The meeting was canceled _____ the bad weather.",
+      "question": "Select the correct option: The meeting was canceled _____ to the bad weather.",
       "options": {
         "A": "because",
-        "B": "because of",
+        "B": "due",
         "C": "for",
         "D": "since"
       },
@@ -365,10 +365,10 @@
       "id": 31,
       "question": "Which sentence uses 'shoe' correctly?",
       "options": {
-        "A": "I need to shoe my homework.",
+        "A": "I need to shoe for my walk.",
         "B": "The shoe is too small for my foot.",
         "C": "Can you shoe me how to do this?",
-        "D": "We shoe to school every day."
+        "D": "We walk by shoe to school every day."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -390,7 +390,7 @@
       "question": "Which sentence uses 'nobody' correctly?",
       "options": {
         "A": "Nobody are at home right now.",
-        "B": "Nobody have seen my keys.",
+        "B": "Nobody hasn't seen my keys.",
         "C": "Nobody wants to clean the bathroom.",
         "D": "Nobody like doing homework."
       },
@@ -426,9 +426,9 @@
       "question": "Which is the correct usage of 'hello'?",
       "options": {
         "A": "I hello you yesterday.",
-        "B": "Hello! How are you today?",
+        "B": "He said hello to the teacher",
         "C": "She hello to her friend.",
-        "D": "We hello in the morning."
+        "D": "We always hello in the morning."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -437,22 +437,22 @@
       "id": 37,
       "question": "What does 'thank' mean in this sentence: I want to thank you for your help.",
       "options": {
-        "A": "to ask",
+        "A": "to ask for help",
         "B": "to show gratitude",
-        "C": "to invite",
-        "D": "to apologize"
+        "C": "to invite to a party",
+        "D": "to apologize for mistake"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 38,
-      "question": "Which sentence uses 'orange' correctly?",
+      "question": "Which sentence uses 'red' correctly?",
       "options": {
-        "A": "I orange my room yesterday.",
-        "B": "Please orange me some water.",
-        "C": "The sunset was a beautiful orange color.",
-        "D": "We orange to the park every Sunday."
+        "A": "I red this book yesterday.",
+        "B": "Please red the signs outside.",
+        "C": "The sunset was a beautiful red color.",
+        "D": "We red to go the park every Sunday."
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -461,10 +461,10 @@
       "id": 39,
       "question": "Choose the correct meaning of 'that' in this sentence: That book on the table is mine.",
       "options": {
-        "A": "this (near)",
-        "B": "the one over there (distant)",
-        "C": "the one I'm holding",
-        "D": "any"
+        "A": "the one here",
+        "B": "the one there",
+        "C": "the one absent",
+        "D": "the one present"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -475,8 +475,8 @@
       "options": {
         "A": "Children grow quickly.",
         "B": "She grow vegetables in her garden.",
-        "C": "We grow to the cinema last week.",
-        "D": "I grow my keys on the table."
+        "C": "We grow together since childhood.",
+        "D": "I wrote a new grow."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -534,7 +534,7 @@
       "question": "Based on paragraph 4, which of the following was NOT created by Ancient Greeks?",
       "options": {
         "A": "Democracy",
-        "B": "The railway system",
+        "B": "Paintings",
         "C": "Olympic Games",
         "D": "Philosophy"
       },
@@ -545,7 +545,7 @@
       "id": 46,
       "question": "What were myths according to the passage?",
       "options": {
-        "A": "Stories about gods and goddesses",
+        "A": "Stories about gods",
         "B": "Ancient Greek houses",
         "C": "A type of food",
         "D": "Olympic sports"
@@ -559,7 +559,7 @@
       "options": {
         "A": "Their gender",
         "B": "Their family's wealth",
-        "C": "Their age",
+        "C": "Their parents' age",
         "D": "Their location"
       },
       "correct_answer": "B",
@@ -583,7 +583,7 @@
       "options": {
         "A": "To entertain wealthy people",
         "B": "To honor their gods and show strength",
-        "C": "To teach children about sports",
+        "C": "To teach children about sports and science",
         "D": "To celebrate democracy"
       },
       "correct_answer": "B",
