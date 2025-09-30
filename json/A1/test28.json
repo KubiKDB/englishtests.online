@@ -3,12 +3,12 @@
   "questions": [
     {
       "id": 1,
-      "question": "She ___ TV every evening.",
+      "question": "She ___ watched that episode already.",
       "options": {
-        "A": "watch",
-        "B": "watching",
-        "C": "watches",
-        "D": "watched"
+        "A": "have",
+        "B": "having",
+        "C": "has",
+        "D": "had"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -17,17 +17,17 @@
       "id": 2,
       "question": "We ___ to the park yesterday.",
       "options": {
-        "A": "go",
+        "A": "want",
         "B": "went",
-        "C": "goes",
-        "D": "going"
+        "C": "vent",
+        "D": "won't"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 3,
-      "question": "They ___ studying right now.",
+      "question": "They ___ running right now.",
       "options": {
         "A": "is",
         "B": "am",
@@ -39,79 +39,79 @@
     },
     {
       "id": 4,
-      "question": "___ you like coffee?",
+      "question": "Do you ___ coffee or tea?",
       "options": {
-        "A": "Do",
-        "B": "Does",
-        "C": "Are",
-        "D": "Is"
+        "A": "prefer",
+        "B": "refer",
+        "C": "prefect",
+        "D": "perfect"
       },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 5,
-      "question": "This book is ___ than that one.",
+      "question": "This watch is ___ than that one.",
       "options": {
-        "A": "more interesting",
-        "B": "interestinger",
-        "C": "most interesting",
-        "D": "the most interesting"
+        "A": "more expensive",
+        "B": "expensiver",
+        "C": "most expensive",
+        "D": "the most expensive"
       },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 6,
-      "question": "He ___ not have a car.",
+      "question": "He has ___ had a car.",
       "options": {
-        "A": "do",
-        "B": "does",
-        "C": "is",
-        "D": "are"
+        "A": "ever",
+        "B": "never",
+        "C": "every",
+        "D": "neither"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 7,
-      "question": "She ___ to the cinema tomorrow.",
+      "question": "She ___ the cat yesterday.",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "going",
-        "D": "will go"
+        "A": "catch",
+        "B": "catches",
+        "C": "caughts",
+        "D": "caught"
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 8,
-      "question": "The cat is ___ the table.",
+      "question": "There are ___ two pineapples and ___ apple on the table.",
       "options": {
-        "A": "in",
-        "B": "on",
-        "C": "at",
-        "D": "by"
+        "A": "-/-",
+        "B": "-/an",
+        "C": "a/an",
+        "D": "the/a"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 9,
-      "question": "I ___ my homework last night.",
+      "question": "I wasn't ___ for the test.",
       "options": {
-        "A": "do",
-        "B": "does",
-        "C": "did",
-        "D": "done"
+        "A": "repaired",
+        "B": "prepare",
+        "C": "prepared",
+        "D": "repair"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 10,
-      "question": "There ___ some water in the bottle.",
+      "question": "There ___ some juice in the bottle.",
       "options": {
         "A": "is",
         "B": "are",
@@ -147,14 +147,14 @@
     },
     {
       "id": 13,
-      "question": "We have ___ milk in the fridge.",
+      "question": "We don't have ___ milk in the fridge.",
       "options": {
         "A": "any",
         "B": "some",
         "C": "many",
-        "D": "much"
+        "D": "none"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
@@ -171,7 +171,7 @@
     },
     {
       "id": 15,
-      "question": "I ___ never been to Paris.",
+      "question": "I ___ never been to Vietnam.",
       "options": {
         "A": "have",
         "B": "has",
@@ -195,7 +195,7 @@
     },
     {
       "id": 17,
-      "question": "I need to ___ a shower before dinner.",
+      "question": "I need to ___ a shower after the PE lesson.",
       "options": {
         "A": "make",
         "B": "get",
@@ -207,7 +207,7 @@
     },
     {
       "id": 18,
-      "question": "She ___ her homework every evening after school.",
+      "question": "She ___ her chores every evening after school.",
       "options": {
         "A": "takes",
         "B": "makes",
@@ -219,7 +219,7 @@
     },
     {
       "id": 19,
-      "question": "Let's ___ a pizza for dinner tonight.",
+      "question": "Let's just ___ takeout for dinner tonight.",
       "options": {
         "A": "make",
         "B": "do",
@@ -233,7 +233,7 @@
       "id": 20,
       "question": "I usually ___ up at 7 o'clock in the morning.",
       "options": {
-        "A": "get",
+        "A": "move",
         "B": "stand",
         "C": "wake",
         "D": "rise"
@@ -243,12 +243,12 @@
     },
     {
       "id": 21,
-      "question": "Can you ___ me a favor?",
+      "question": "Can you ___ me the sugar?",
       "options": {
-        "A": "do",
-        "B": "make",
-        "C": "give",
-        "D": "take"
+        "A": "pass",
+        "B": "past",
+        "C": "pesto",
+        "D": "taste"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -305,7 +305,7 @@
       "id": 26,
       "question": "My favorite fruit is an ___.",
       "options": {
-        "A": "apple",
+        "A": "pineapple",
         "B": "orange",
         "C": "banana",
         "D": "pear"
@@ -327,12 +327,12 @@
     },
     {
       "id": 28,
-      "question": "This book has five chapters, or ___.",
+      "question": "This book has five ___.",
       "options": {
         "A": "sections",
         "B": "parts",
         "C": "groups",
-        "D": "units"
+        "D": "chapters"
       },
       "correct_answer": "D",
       "category": "Vocabulary"
@@ -355,7 +355,7 @@
       "options": {
         "A": "snow",
         "B": "rain",
-        "C": "ice",
+        "C": "air",
         "D": "water"
       },
       "correct_answer": "A",
@@ -389,22 +389,22 @@
       "id": 33,
       "question": "The entrance to the museum is ___ on Sundays.",
       "options": {
-        "A": "open",
+        "A": "opened",
         "B": "free",
-        "C": "closed",
-        "D": "cheap"
+        "C": "close",
+        "D": "cheapest"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 34,
-      "question": "___ books on the shelf are mine.",
+      "question": "___ books on the shelf are ___.",
       "options": {
-        "A": "This",
-        "B": "These",
-        "C": "That",
-        "D": "Those"
+        "A": "This/mine",
+        "B": "These/my",
+        "C": "That/my",
+        "D": "Those/mine"
       },
       "correct_answer": "D",
       "category": "Vocabulary"
@@ -473,8 +473,8 @@
       "id": 40,
       "question": "She has many green ___ in her garden.",
       "options": {
-        "A": "flowers",
-        "B": "trees",
+        "A": "oranges",
+        "B": "banana",
         "C": "plants",
         "D": "grass"
       },
@@ -500,7 +500,7 @@
         "A": "They are easy subjects",
         "B": "They help students express themselves",
         "C": "They don't require homework",
-        "D": "They are required by law"
+        "D": "They are required by law in many countries"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -548,7 +548,7 @@
         "A": "It teaches students to be happy",
         "B": "It helps students understand and express feelings",
         "C": "It makes students less emotional",
-        "D": "It prevents emotional problems"
+        "D": "It prevents students from having emotional problems"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -572,7 +572,7 @@
         "A": "By traveling to other countries",
         "B": "By reading about other cultures",
         "C": "By studying artists from around the world",
-        "D": "By learning different languages"
+        "D": "By learning different languages and art styles"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -582,7 +582,7 @@
       "question": "What is the main idea of this passage?",
       "options": {
         "A": "Art classes are fun",
-        "B": "Art classes are easy",
+        "B": "Why students like art classes",
         "C": "The importance of art education",
         "D": "How to teach art classes"
       },
