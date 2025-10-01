@@ -3,12 +3,12 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which form of the verb is correct? She ____ TV every evening.",
+      "question": "Which form of the verb is correct? They are going to ____ the door.",
       "options": {
-        "A": "watch",
-        "B": "watches",
-        "C": "watching",
-        "D": "watched"
+        "A": "cloth",
+        "B": "close",
+        "C": "closet",
+        "D": "closed"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -17,10 +17,10 @@
       "id": 2,
       "question": "Which sentence is correct?",
       "options": {
-        "A": "I no have a car.",
-        "B": "I not have a car.",
-        "C": "I don't have a car.",
-        "D": "I haven't a car."
+        "A": "I no agree with you.",
+        "B": "I not agree with you.",
+        "C": "I don't agree with you.",
+        "D": "I don't agree to you."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -39,12 +39,12 @@
     },
     {
       "id": 4,
-      "question": "Select the correct preposition. The book is ____ the table.",
+      "question": "Select the correct preposition. The car is ____ the garage.",
       "options": {
-        "A": "on",
-        "B": "in",
-        "C": "at",
-        "D": "from"
+        "A": "behind",
+        "B": "above",
+        "C": "on",
+        "D": "after"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -70,12 +70,12 @@
         "C": "the",
         "D": "no article needed"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 7,
-      "question": "Select the correct form. My sister ____ like spicy food.",
+      "question": "Select the correct form. My sister ____ like fish and chips.",
       "options": {
         "A": "don't",
         "B": "doesn't",
@@ -87,24 +87,24 @@
     },
     {
       "id": 8,
-      "question": "Choose the correct plural form of 'child'.",
+      "question": "Choose the correct plural form of 'woman'.",
       "options": {
-        "A": "childs",
-        "B": "child",
-        "C": "childes",
-        "D": "children"
+        "A": "womans",
+        "B": "woman",
+        "C": "wemen",
+        "D": "women"
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 9,
-      "question": "What is the comparative form of 'good'?",
+      "question": "What is the comparative form of 'bad'?",
       "options": {
-        "A": "gooder",
-        "B": "more good",
-        "C": "better",
-        "D": "best"
+        "A": "badder",
+        "B": "more bad",
+        "C": "worse",
+        "D": "worst"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -123,10 +123,10 @@
     },
     {
       "id": 11,
-      "question": "Which sentence is in the future tense?",
+      "question": "Which sentence is in the future simple tense?",
       "options": {
         "A": "I go to school every day.",
-        "B": "I am going to school now.",
+        "B": "I will be going to school during the next week.",
         "C": "I went to school yesterday.",
         "D": "I will go to school tomorrow."
       },
@@ -135,7 +135,7 @@
     },
     {
       "id": 12,
-      "question": "Select the correct possessive form. This is ____ car.",
+      "question": "Select the correct possessive form. This is ____ shop.",
       "options": {
         "A": "they",
         "B": "them",
@@ -183,24 +183,24 @@
     },
     {
       "id": 16,
-      "question": "Choose the correct response to 'How are you?'",
+      "question": "Choose the correct response to 'What's your name?'",
       "options": {
-        "A": "I'm 25 years old.",
-        "B": "I'm fine, thank you.",
-        "C": "I'm from Spain.",
-        "D": "I'm a teacher."
+        "A": "Me Tim.",
+        "B": "I'm Tim.",
+        "C": "I Tim.",
+        "D": "Named Tim."
       },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 17,
-      "question": "Select the correct expression to offer help.",
+      "question": "Select the correct question.",
       "options": {
-        "A": "Can I help you?",
-        "B": "Do you help me?",
-        "C": "May you help me?",
-        "D": "Will I help you?"
+        "A": "Could you open the window?",
+        "B": "Do you open the window?",
+        "C": "May you open the window?",
+        "D": "Will open the window, please?"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -209,58 +209,58 @@
       "id": 18,
       "question": "Which phrase is used to make a suggestion?",
       "options": {
-        "A": "Let's go to the park.",
-        "B": "I go to the park.",
-        "C": "You go to the park.",
-        "D": "Going to the park."
+        "A": "Let's make it together.",
+        "B": "I'm going to make it.",
+        "C": "You and me will make it.",
+        "D": "We can make it."
       },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 19,
-      "question": "Select the correct response to 'Thank you.'",
+      "question": "Select the incorrect response to 'Thank you.'",
       "options": {
-        "A": "Thank you.",
-        "B": "Thank you too.",
+        "A": "Don't mention it.",
+        "B": "You're welcomed.",
         "C": "You're welcome.",
-        "D": "Please."
+        "D": "My pleasure."
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 20,
-      "question": "Choose the correct way to ask for the time.",
+      "question": "Choose the incorrect way to ask for the time.",
       "options": {
-        "A": "What time?",
+        "A": "What's the time now?",
         "B": "What is time?",
-        "C": "What time it is?",
-        "D": "What time is it?"
+        "C": "What time is it?",
+        "D": "What's the time?"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 21,
-      "question": "Which phrase is used to apologize?",
+      "question": "Which phrase is not used to apologize?",
       "options": {
         "A": "Excuse me.",
         "B": "I'm sorry.",
-        "C": "Thank you.",
-        "D": "Goodbye."
+        "C": "Regret me.",
+        "D": "Pardon me."
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 22,
       "question": "Select the correct phrase to introduce yourself.",
       "options": {
-        "A": "How are you?",
-        "B": "Where are you from?",
-        "C": "Nice to meet you.",
-        "D": "My name is John."
+        "A": "Mine Daniel",
+        "B": "Me is Daniel",
+        "C": "Daniel is mine",
+        "D": "My name is Daniel."
       },
       "correct_answer": "D",
       "category": "Use of English"
@@ -269,10 +269,10 @@
       "id": 23,
       "question": "Choose the correct phrase to order in a restaurant.",
       "options": {
-        "A": "I would like a coffee, please.",
-        "B": "I want coffee.",
-        "C": "Give me coffee.",
-        "D": "Coffee, yes."
+        "A": "I would like an onion soup.",
+        "B": "I want an onion soup.",
+        "C": "Give me an onion soup.",
+        "D": "Onion soup, yes."
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -305,10 +305,10 @@
       "id": 26,
       "question": "The children play with a ____ in the park.",
       "options": {
-        "A": "mark",
+        "A": "shape",
         "B": "ball",
-        "C": "pain",
-        "D": "coffee"
+        "C": "pond",
+        "D": "tree"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -318,9 +318,9 @@
       "question": "The teacher gave me a good ____ on my test.",
       "options": {
         "A": "mark",
-        "B": "ball",
-        "C": "neck",
-        "D": "stand"
+        "B": "opinion",
+        "C": "question",
+        "D": "answer"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -329,10 +329,10 @@
       "id": 28,
       "question": "Please ____ up when the teacher enters the classroom.",
       "options": {
-        "A": "dress",
-        "B": "receive",
+        "A": "stood",
+        "B": "still",
         "C": "stand",
-        "D": "understand"
+        "D": "remain"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -342,9 +342,9 @@
       "question": "Could you ____ pass me the salt?",
       "options": {
         "A": "please",
-        "B": "pain",
-        "C": "ride",
-        "D": "fast"
+        "B": "thanks",
+        "C": "excuse",
+        "D": "regards"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -353,10 +353,10 @@
       "id": 30,
       "question": "I have a ____ in my back after lifting the heavy box.",
       "options": {
-        "A": "coffee",
-        "B": "neck",
+        "A": "hurt",
+        "B": "harm",
         "C": "pain",
-        "D": "mark"
+        "D": "feel"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -365,10 +365,10 @@
       "id": 31,
       "question": "What are you doing ____ after school?",
       "options": {
-        "A": "three",
-        "B": "step",
+        "A": "yesterday",
+        "B": "recently",
         "C": "today",
-        "D": "ride"
+        "D": "when"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -377,10 +377,10 @@
       "id": 32,
       "question": "Did you ____ my email yesterday?",
       "options": {
-        "A": "stand",
+        "A": "receipt",
         "B": "receive",
-        "C": "please",
-        "D": "step"
+        "C": "repeat",
+        "D": "replace"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -389,10 +389,10 @@
       "id": 33,
       "question": "She bought a new ____ for the party.",
       "options": {
-        "A": "pain",
-        "B": "neck",
+        "A": "shoe",
+        "B": "glass",
         "C": "dress",
-        "D": "ball"
+        "D": "hair"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -401,10 +401,10 @@
       "id": 34,
       "question": "Would you like some ____ with your breakfast?",
       "options": {
-        "A": "dress",
+        "A": "apple",
         "B": "coffee",
-        "C": "stand",
-        "D": "three"
+        "C": "tomato",
+        "D": "cucumber"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -413,10 +413,10 @@
       "id": 35,
       "question": "The train is very ____, so don't be late.",
       "options": {
-        "A": "please",
-        "B": "three",
+        "A": "big",
+        "B": "large",
         "C": "fast",
-        "D": "mark"
+        "D": "empty"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -425,10 +425,10 @@
       "id": 36,
       "question": "I hurt my ____ when I fell off the bicycle.",
       "options": {
-        "A": "neck",
-        "B": "dress",
-        "C": "coffee",
-        "D": "today"
+        "A": "knee",
+        "B": "hear",
+        "C": "sight",
+        "D": "touch"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -437,10 +437,10 @@
       "id": 37,
       "question": "Take one ____ at a time when climbing the stairs.",
       "options": {
-        "A": "coffee",
-        "B": "mark",
+        "A": "jump",
+        "B": "move",
         "C": "step",
-        "D": "please"
+        "D": "turn"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -449,10 +449,10 @@
       "id": 38,
       "question": "I like to ____ my bicycle to school.",
       "options": {
-        "A": "stand",
-        "B": "understand",
+        "A": "run",
+        "B": "carry",
         "C": "ride",
-        "D": "pain"
+        "D": "go"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -461,10 +461,10 @@
       "id": 39,
       "question": "There are ____ books on the table.",
       "options": {
-        "A": "please",
-        "B": "neck",
-        "C": "three",
-        "D": "dress"
+        "A": "none",
+        "B": "much",
+        "C": "some",
+        "D": "too"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -473,12 +473,12 @@
       "id": 40,
       "question": "I don't ____ why he is angry.",
       "options": {
-        "A": "understand",
-        "B": "receive",
-        "C": "today",
-        "D": "fast"
+        "A": "got",
+        "B": "get",
+        "C": "have",
+        "D": "mean"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
@@ -487,8 +487,8 @@
       "options": {
         "A": "Modern electronic devices",
         "B": "Tools that make work easier",
-        "C": "Expensive equipment",
-        "D": "Types of computers"
+        "C": "Expensive equipment for factories",
+        "D": "Types of computers and phones"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -509,7 +509,7 @@
       "id": 43,
       "question": "What tools use levers to work, according to the passage?",
       "options": {
-        "A": "Cars and bicycles",
+        "A": "Cars, motorcycles, and bicycles",
         "B": "Window blinds and cranes",
         "C": "Scissors, hammers, and can openers",
         "D": "Door knobs and screws"
@@ -570,7 +570,7 @@
       "question": "What is a pulley?",
       "options": {
         "A": "A type of ramp",
-        "B": "A wheel with a rope or cable around it",
+        "B": "A type of wheel",
         "C": "A kind of lever",
         "D": "A door handle"
       },
@@ -582,7 +582,7 @@
       "question": "Which of these uses pulleys, according to the passage?",
       "options": {
         "A": "Stairs and screws",
-        "B": "Cars and bicycles",
+        "B": "Cars, motorcycles, and bicycles",
         "C": "Window blinds and cranes",
         "D": "Scissors and hammers"
       },
@@ -593,8 +593,8 @@
       "id": 50,
       "question": "What is the main idea of this passage?",
       "options": {
-        "A": "How to build machines",
-        "B": "The history of machines",
+        "A": "How to build simple machines",
+        "B": "The history of simple machines and their importance",
         "C": "Simple machines make everyday tasks easier",
         "D": "Why we need more complex machines"
       },
