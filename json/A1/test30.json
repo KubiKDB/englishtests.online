@@ -29,10 +29,10 @@
       "id": 3,
       "question": "Which sentence has the correct word order?",
       "options": {
-        "A": "She to the park goes.",
-        "B": "Goes she to the park.",
-        "C": "She goes to the park.",
-        "D": "To the park she goes."
+        "A": "She to the park goes bike.",
+        "B": "Goes she to the bike park.",
+        "C": "She goes to park the bike.",
+        "D": "She goes to the park bike."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -51,12 +51,12 @@
     },
     {
       "id": 5,
-      "question": "Choose the correct article:",
+      "question": "Choose the correct article: She is ___ most famous doctor",
       "options": {
-        "A": "She is ___ doctor.",
-        "B": "She is a doctor.",
-        "C": "She is an doctor.",
-        "D": "She is the doctor."
+        "A": "a",
+        "B": "the",
+        "C": "an",
+        "D": "-"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -87,98 +87,98 @@
     },
     {
       "id": 8,
-      "question": "Choose the correct sentence with 'but':",
+      "question": "Choose the correct sentence:",
       "options": {
         "A": "She is tall but he is short.",
-        "B": "She is tall, but short he is.",
-        "C": "She is tall, but is he short.",
-        "D": "She is tall but is short he."
+        "B": "She is tall instead he is short.",
+        "C": "She is tall therefore he is short.",
+        "D": "She is tall nevermind he is short."
       },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 9,
-      "question": "Select the correct possessive form:",
+      "question": "Select the correct form:",
       "options": {
-        "A": "This is Johns book.",
-        "B": "This is John's book.",
-        "C": "This is the book of John.",
-        "D": "This is John book."
+        "A": "This is Japanese book.",
+        "B": "This is Japan's book.",
+        "C": "This is the book of Japan.",
+        "D": "This is Japanese's book."
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 10,
       "question": "Choose the correct plural form:",
       "options": {
-        "A": "One child, two childs",
-        "B": "One child, two childrens",
-        "C": "One child, two children",
-        "D": "One child, two child"
+        "A": "There are two wolves and twelve sheeps",
+        "B": "There are two wolfs and twelve sheep",
+        "C": "There are two wolves and twelve sheep",
+        "D": "There are two wolfs and twelve sheeps"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 11,
-      "question": "Which sentence uses 'can' correctly?",
+      "question": "Which sentence uses 'cannot' correctly?",
       "options": {
-        "A": "He can to swim.",
-        "B": "He can swimming.",
-        "C": "He can swim.",
-        "D": "He can swims."
+        "A": "He cannot to swim.",
+        "B": "He cannot swimming.",
+        "C": "He cannot swim.",
+        "D": "He cannot swims."
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 12,
-      "question": "Select the correct preposition:",
+      "question": "Select the incorrect preposition:",
       "options": {
         "A": "The cat is on the table.",
-        "B": "The cat is in the table.",
-        "C": "The cat is at the table.",
+        "B": "The cat is under the table.",
+        "C": "The cat is beside the table.",
         "D": "The cat is to the table."
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 13,
-      "question": "Choose the correct question form:",
+      "question": "Choose the incorrect question form:",
       "options": {
-        "A": "What time it is?",
-        "B": "What time is it?",
-        "C": "What is time it?",
-        "D": "What it is time?"
+        "A": "Where is the post office?",
+        "B": "Where is way to the post office?",
+        "C": "What is the way to the post office?",
+        "D": "Where is the post office located?"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 14,
-      "question": "Select the correct form of the comparative:",
+      "question": "Select the incorrect form of the comparative:",
       "options": {
-        "A": "This book is gooder than that one.",
-        "B": "This book is more good than that one.",
-        "C": "This book is better than that one.",
-        "D": "This book is goodest than that one."
+        "A": "This book is better than that one.",
+        "B": "This book is worse than that one.",
+        "C": "This book is worser than that one.",
+        "D": "This book is more interesting than that one."
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 15,
-      "question": "Choose the correct sentence with 'very':",
+      "question": "Choose the incorrect sentence with 'very':",
       "options": {
-        "A": "She very is happy.",
+        "A": "Her house is very big.",
         "B": "She is very happy.",
-        "C": "She is happy very.",
-        "D": "Very she is happy."
+        "C": "She is a very happiness.",
+        "D": "Her success is very impressive."
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -195,12 +195,12 @@
     },
     {
       "id": 17,
-      "question": "Select the correct response to 'How are you?':",
+      "question": "Select the correct response to 'Is the weather fine today?':",
       "options": {
-        "A": "I am 30 years old.",
-        "B": "My name is Mark.",
-        "C": "I am fine, thanks.",
-        "D": "I am from Canada."
+        "A": "Yes, is it.",
+        "B": "Yes, isn't it.",
+        "C": "Yes, it is.",
+        "D": "Yes, it isn't."
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -221,10 +221,10 @@
       "id": 19,
       "question": "Select the correct way to ask for help:",
       "options": {
-        "A": "Can you help me, please?",
+        "A": "Can you help me?",
         "B": "Help, you can me?",
         "C": "You help me?",
-        "D": "Please, can help me you?"
+        "D": "Can I help you?"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -243,10 +243,10 @@
     },
     {
       "id": 21,
-      "question": "Select the correct phrase to express likes:",
+      "question": "Select the correct phrase:",
       "options": {
-        "A": "I want pizza.",
-        "B": "I want to pizza.",
+        "A": "I wanting pizza.",
+        "B": "I want to pizzas.",
         "C": "I like pizza.",
         "D": "I liking pizza."
       },
@@ -255,12 +255,12 @@
     },
     {
       "id": 22,
-      "question": "Choose the correct phrase to ask about the weather:",
+      "question": "Choose the correct phrase to ask for opinion:",
       "options": {
-        "A": "How is the weather today?",
-        "B": "What is the weather?",
-        "C": "How does the weather?",
-        "D": "What weather is it?"
+        "A": "What do you think?",
+        "B": "I like your opinion",
+        "C": "Can you answer?",
+        "D": "What your think is?"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -282,9 +282,9 @@
       "question": "Choose the correct way to make a suggestion:",
       "options": {
         "A": "Let's go to the park.",
-        "B": "We go to the park.",
-        "C": "Go to the park.",
-        "D": "Going to the park."
+        "B": "Let go to the park.",
+        "C": "Let the park go.",
+        "D": "Let's go park."
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -306,8 +306,8 @@
       "question": "What does it mean to 'miss' something or someone?",
       "options": {
         "A": "To find something",
-        "B": "To feel sad because something or someone is not there",
-        "C": "To be late",
+        "B": "To lack something",
+        "C": "To give something",
         "D": "To break something"
       },
       "correct_answer": "B",
@@ -315,35 +315,35 @@
     },
     {
       "id": 27,
-      "question": "What is an 'instrument'?",
+      "question": "What isn't an 'instrument'?",
       "options": {
         "A": "A thing you use to make music",
-        "B": "A type of food",
-        "C": "A type of clothing",
-        "D": "A place where people work"
+        "B": "A thing you use to repair",
+        "C": "A thing you use to write",
+        "D": "A thing you use to eat"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 28,
       "question": "What is 'climate'?",
       "options": {
-        "A": "A type of food",
-        "B": "The weather conditions in a place over a long time",
-        "C": "A part of a house",
-        "D": "A job"
+        "A": "Local culture",
+        "B": "Weather conditions",
+        "C": "Clouds and rain",
+        "D": "Sun and wind"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 29,
-      "question": "What does it mean to 'need' something?",
+      "question": "What does it mean to 'require' something?",
       "options": {
         "A": "To give something away",
         "B": "To dislike something",
-        "C": "To want something that is necessary",
+        "C": "To need something",
         "D": "To put something away"
       },
       "correct_answer": "C",
@@ -351,26 +351,26 @@
     },
     {
       "id": 30,
-      "question": "What does 'further' mean?",
+      "question": "What does 'distant' mean?",
       "options": {
-        "A": "More distant",
-        "B": "Very close",
-        "C": "Very fast",
-        "D": "Very tall"
+        "A": "Far",
+        "B": "Close",
+        "C": "Fast",
+        "D": "Tall"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 31,
-      "question": "What is a 'story'?",
+      "question": "What is the correct sentence?",
       "options": {
-        "A": "A type of food",
-        "B": "A place to buy things",
-        "C": "An account of events or people",
-        "D": "A piece of furniture"
+        "A": "He told a story",
+        "B": "He visited a story",
+        "C": "He ate a story",
+        "D": "He stored a story"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
@@ -378,8 +378,8 @@
       "question": "What is the 'sky'?",
       "options": {
         "A": "The ground we walk on",
-        "B": "The space above the earth that you can see",
-        "C": "A type of food",
+        "B": "The space above the earth",
+        "C": "A place where fish live",
         "D": "A place where people live"
       },
       "correct_answer": "B",
@@ -389,7 +389,7 @@
       "id": 33,
       "question": "What is a 'mouth'?",
       "options": {
-        "A": "A part of the body used for eating and speaking",
+        "A": "A part of the body",
         "B": "A type of animal",
         "C": "A place to buy things",
         "D": "A piece of clothing"
@@ -402,7 +402,7 @@
       "question": "What does it mean to 'invite' someone?",
       "options": {
         "A": "To ask someone to leave",
-        "B": "To ask someone to come to an event",
+        "B": "To ask someone to come",
         "C": "To be angry with someone",
         "D": "To give someone money"
       },
@@ -415,7 +415,7 @@
       "options": {
         "A": "Ability",
         "B": "Permission",
-        "C": "Advice or recommendation",
+        "C": "Advice",
         "D": "Certainty"
       },
       "correct_answer": "C",
@@ -423,36 +423,36 @@
     },
     {
       "id": 36,
-      "question": "What does 'without' mean?",
+      "question": "What does 'not having something' mean?",
       "options": {
-        "A": "With the help of",
-        "B": "Not having something",
-        "C": "Inside of",
-        "D": "Below something"
+        "A": "Within",
+        "B": "Without",
+        "C": "With",
+        "D": "Width"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 37,
-      "question": "What does 'outside' refer to?",
+      "question": "What does 'the area beyond the walls of a building' refer to?",
       "options": {
-        "A": "The area beyond the walls of a building",
-        "B": "Inside a house",
-        "C": "Under something",
-        "D": "A type of food"
+        "A": "Outside",
+        "B": "Inside",
+        "C": "Besides",
+        "D": "Asides"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 38,
-      "question": "What is a 'ball'?",
+      "question": "What is a 'sphere'?",
       "options": {
-        "A": "A piece of clothing",
-        "B": "A round object used in games",
-        "C": "A type of food",
-        "D": "A place to live"
+        "A": "Square",
+        "B": "Ball",
+        "C": "Cube",
+        "D": "Triangle"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -509,7 +509,7 @@
       "id": 43,
       "question": "What do animals in the Amazon do during the day?",
       "options": {
-        "A": "They sleep",
+        "A": "They sleep and hunt during the night",
         "B": "They look for food and build homes",
         "C": "They hide from people",
         "D": "They swim in the river"
@@ -521,8 +521,8 @@
       "id": 44,
       "question": "What is special about some animals that come out at night?",
       "options": {
-        "A": "They can fly",
-        "B": "They have special eyes to see in the dark",
+        "A": "They can fly from tree to tree",
+        "B": "They can see in the dark",
         "C": "They are very big",
         "D": "They make loud noises"
       },
@@ -533,10 +533,10 @@
       "id": 45,
       "question": "According to the passage, what is the Amazon River?",
       "options": {
-        "A": "A small stream",
-        "B": "A lake",
+        "A": "One of the deepest rivers in the world",
+        "B": "One of the widest rivers in the world",
         "C": "One of the longest rivers in the world",
-        "D": "A waterfall"
+        "D": "One of the tallest waterfalls in the world"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -581,10 +581,10 @@
       "id": 49,
       "question": "What is the main idea of the passage?",
       "options": {
-        "A": "The Amazon River is dangerous",
+        "A": "The Amazon River is dangerous for visitors",
         "B": "The Amazon Rainforest is important but in danger",
-        "C": "People should not visit the Amazon",
-        "D": "Animals in the Amazon are dangerous"
+        "C": "People should not visit the Amazon rainforest",
+        "D": "Animals in the Amazon are dangerous predators"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -593,10 +593,10 @@
       "id": 50,
       "question": "Which animals are mentioned as living in the Amazon River?",
       "options": {
-        "A": "Lions and tigers",
+        "A": "Leopards and snakes",
         "B": "Elephants and giraffes",
         "C": "Dolphins and turtles",
-        "D": "Bears and wolves"
+        "D": "Coyotes and wolves"
       },
       "correct_answer": "C",
       "category": "Reading"
