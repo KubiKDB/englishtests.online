@@ -5,350 +5,598 @@
     {
       "id": 1,
       "question": "Which sentence is correct?",
-      "options": {"A": "She don't like ice cream.", "B": "She doesn't likes ice cream.", "C": "She doesn't like ice cream.", "D": "She not like ice cream."},
+      "options": {
+        "A": "She don't like ice cream.", 
+        "B": "She doesn't likes ice cream.", 
+        "C": "She doesn't like ice cream.", 
+        "D": "She not like ice cream."
+      },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 2,
       "question": "Choose the correct form: 'John ___ tennis every Saturday.'",
-      "options": {"A": "play", "B": "plays", "C": "playing", "D": "is play"},
+      "options": {
+        "A": "play", 
+        "B": "plays", 
+        "C": "playing", 
+        "D": "is play"
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 3,
-      "question": "What is the plural form of 'child'?",
-      "options": {"A": "childs", "B": "childes", "C": "children", "D": "childrens"},
+      "question": "What is the correct form?",
+      "options": {
+        "A": "childs/womans", 
+        "B": "childes/women", 
+        "C": "children/women", 
+        "D": "children/woman"
+      },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 4,
-      "question": "Which is correct? 'There ___ a book on the table.'",
-      "options": {"A": "is", "B": "are", "C": "be", "D": "am"},
+      "question": "Which is correct? 'There ___ ___ interesting book on the table.'",
+      "options": {
+        "A": "is/an", 
+        "B": "are/an", 
+        "C": "is/a", 
+        "D": "are/a"
+      },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 5,
-      "question": "Choose the correct past tense form: 'Yesterday, I ___ to the park.'",
-      "options": {"A": "go", "B": "went", "C": "goed", "D": "going"},
+      "question": "Choose the correct past tense form: 'Yesterday, I ___ a ball in the park.'",
+      "options": {
+        "A": "catched", 
+        "B": "caught", 
+        "C": "catch", 
+        "D": "coach"
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 6,
       "question": "Choose the correct pronoun: '___ am a student.'",
-      "options": {"A": "I", "B": "You", "C": "He", "D": "She"},
-      "correct_answer": "A",
+      "options": {
+        "A": "Me", 
+        "B": "You", 
+        "C": "I", 
+        "D": "She"
+      },
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 7,
       "question": "Which sentence is correct?",
-      "options": {"A": "They is happy.", "B": "They are happy.", "C": "They be happy.", "D": "They am happy."},
+      "options": {
+        "A": "They is happy.", 
+        "B": "They are happy.", 
+        "C": "They be happy.", 
+        "D": "They am happy."
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 8,
-      "question": "Choose the correct possessive form: 'This is ___ book.'",
-      "options": {"A": "Mary", "B": "Marys", "C": "Mary's", "D": "Marys'"},
+      "question": "Choose the correct possessive form: 'This is ___ pet.'",
+      "options": {
+        "A": "Mary", 
+        "B": "Marys", 
+        "C": "Mary's", 
+        "D": "Marys'"
+      },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 9,
       "question": "Which article is correct? 'I need ___ umbrella because it's raining.'",
-      "options": {"A": "a", "B": "an", "C": "the", "D": "–"},
+      "options": {
+        "A": "a", 
+        "B": "an", 
+        "C": "the", 
+        "D": "–"
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 10,
-      "question": "Choose the correct question form: '___ do you live?'",
-      "options": {"A": "What", "B": "Who", "C": "Where", "D": "When"},
-      "correct_answer": "C",
+      "question": "Choose the correct question form: '___ do you live with?'",
+      "options": {
+        "A": "What", 
+        "B": "Who", 
+        "C": "Where", 
+        "D": "When"
+      },
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 11,
-      "question": "Which preposition is correct? 'The cat is ___ the table.'",
-      "options": {"A": "on", "B": "in", "C": "at", "D": "from"},
+      "question": "Which preposition is correct? 'The cat is ___ there.'",
+      "options": {
+        "A": "over", 
+        "B": "on", 
+        "C": "in", 
+        "D": "from"
+      },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 12,
-      "question": "Choose the correct form: 'We ___ watching TV now.'",
-      "options": {"A": "is", "B": "am", "C": "are", "D": "be"},
+      "question": "Choose the correct form: 'They ___ some chocolate.'",
+      "options": {
+        "A": "eight", 
+        "B": "weigh", 
+        "C": "ate", 
+        "D": "mate"
+      },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 13,
-      "question": "What is the comparative form of 'good'?",
-      "options": {"A": "gooder", "B": "more good", "C": "better", "D": "goodest"},
+      "question": "What is the comparative form of 'little'?",
+      "options": {
+        "A": "littler", 
+        "B": "more little", 
+        "C": "less",
+        "D": "lessen"
+      },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 14,
-      "question": "Choose the correct negative form: 'I ___ like coffee.'",
-      "options": {"A": "don't", "B": "doesn't", "C": "not", "D": "no"},
+      "question": "Choose the correct negative form: 'I have ___ tried coffee.'",
+      "options": {
+        "A": "never",
+        "B": "ever",
+        "C": "very",
+        "D": "neither"
+      },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 15,
       "question": "Which sentence has the correct word order?",
-      "options": {"A": "Always she goes to school by bus.", "B": "She goes always to school by bus.", "C": "She always goes to school by bus.", "D": "She goes to school always by bus."},
+      "options": {
+        "A": "Always she goes to school by bus.", 
+        "B": "She goes always to school by bus.", 
+        "C": "She always goes to school by bus.",
+        "D": "She goes to school always by bus."},
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 16,
-      "question": "Choose the correct response to 'How are you?'",
-      "options": {"A": "I'm 25 years old.", "B": "I'm fine, thank you.", "C": "I'm from Canada.", "D": "I'm a student."},
+      "question": "Choose the correct response to 'Do you need help?'",
+      "options": {
+        "A": "Yes, I don't.",
+        "B": "Yes, I do.",
+        "C": "Yes, I need.", 
+        "D": "Yes, I help."
+      },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 17,
       "question": "Which phrase is used to say goodbye?",
-      "options": {"A": "Hello", "B": "Good morning", "C": "See you later", "D": "Thank you"},
+      "options": {
+        "A": "Hello",
+        "B": "Good morning", 
+        "C": "See you later", 
+        "D": "Thank you"
+      },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 18,
-      "question": "Choose the correct phrase to ask for the time:",
-      "options": {"A": "What time it is?", "B": "What is the time?", "C": "How time is it?", "D": "When is time?"},
+      "question": "Choose the correct phrase to ask for advice:",
+      "options": {
+        "A": "What can I do?",
+        "B": "What should I do?", 
+        "C": "What will I do?", 
+        "D": "What have I done?"
+      },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 19,
       "question": "Which question asks about someone's job?",
-      "options": {"A": "How old are you?", "B": "Where do you live?", "C": "What do you do?", "D": "When is your birthday?"},
+      "options": {
+        "A": "How old are you?", 
+        "B": "Where is your job?",
+        "C": "What do you do?", 
+        "D": "When is your birthday?"
+      },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 20,
       "question": "Choose the correct response to 'Thank you':",
-      "options": {"A": "Yes, please.", "B": "You're welcome.", "C": "I'm sorry.", "D": "Excuse me."},
+      "options": {
+        "A": "Yes, please.", 
+        "B": "Don't mention it.", 
+        "C": "I'm sorry.", 
+        "D": "Excuse me."
+      },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 21,
       "question": "Select the phrase used to introduce yourself:",
-      "options": {"A": "How do you do?", "B": "What's your name?", "C": "My name is David.", "D": "Nice to meet you too."},
+      "options": {
+        "A": "How do you do?", 
+        "B": "What's your name?", 
+        "C": "My name is David.", 
+        "D": "Nice to meet you too."
+      },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 22,
       "question": "Which phrase asks for help?",
-      "options": {"A": "Can I help you?", "B": "Could you help me, please?", "C": "I help you.", "D": "You help me."},
+      "options": {
+        "A": "Can I help you?",
+        "B": "Could you help me?", 
+        "C": "Do I help you?", 
+        "D": "Do you help me?"
+      },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 23,
       "question": "Choose the correct way to order in a restaurant:",
-      "options": {"A": "I will a coffee.", "B": "I want coffee.", "C": "I'd like a coffee, please.", "D": "Give me coffee."},
+      "options": {
+        "A": "I will a coffee.", 
+        "B": "I want a coffee.",
+        "C": "I'd like a coffee.", 
+        "D": "Give me a coffee."
+      },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 24,
-      "question": "Select the correct morning greeting:",
-      "options": {"A": "Good afternoon", "B": "Good evening", "C": "Good night", "D": "Good morning"},
+      "question": "Select the correct greeting when you come to school:",
+      "options": {
+        "A": "Good afternoon", 
+        "B": "Good evening", 
+        "C": "Good night",
+        "D": "Good morning"
+      },
       "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 25,
       "question": "Which phrase is used to apologize?",
-      "options": {"A": "Excuse me", "B": "Thank you", "C": "I'm sorry", "D": "You're welcome"},
+      "options": {
+        "A": "Nevermind", 
+        "B": "Thank you", 
+        "C": "I'm sorry", 
+        "D": "You're welcome"
+      },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 26,
       "question": "What does 'busy' mean?",
-      "options": {"A": "having a lot to do", "B": "having nothing to do", "C": "very tired", "D": "very happy"},
+      "options": {
+        "A": "having a lot to do", 
+        "B": "having nothing to do", 
+        "C": "very tired", 
+        "D": "very happy"
+      },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 27,
       "question": "Which sentence uses 'look' correctly?",
-      "options": {"A": "Can you look my bag?", "B": "I look at the picture.", "C": "She look very tall.", "D": "They look the movie."},
+      "options": {
+        "A": "Can you look my bag?", 
+        "B": "I look at the picture.", 
+        "C": "She look very tall.", 
+        "D": "They look the movie."
+      },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 28,
-      "question": "What does it mean to 'review' something?",
-      "options": {"A": "to buy it", "B": "to sell it", "C": "to examine it again", "D": "to break it"},
+      "question": "What does it mean to 'examine' something?",
+      "options": {
+        "A": "to buy it", 
+        "B": "to sell it", 
+        "C": "to review it", 
+        "D": "to break it"
+      },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 29,
       "question": "A 'car' is:",
-      "options": {"A": "a place to live", "B": "a vehicle with four wheels", "C": "a type of food", "D": "a kind of animal"},
+      "options": {
+        "A": "a place to live", 
+        "B": "a vehicle to drive",
+        "C": "a tool for repairs", 
+        "D": "a list of items"
+      },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 30,
       "question": "What is a 'goal'?",
-      "options": {"A": "something you want to achieve", "B": "a type of drink", "C": "a place to sleep", "D": "a part of the body"},
+      "options": {
+        "A": "something you want to achieve", 
+        "B": "something you want to drink", 
+        "C": "something you want to give", 
+        "D": "something you want to sell"
+      },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 31,
-      "question": "The word 'some' means:",
-      "options": {"A": "all", "B": "none", "C": "an amount that is not exact", "D": "only one"},
+      "question": "The phrase 'not exact amount' means:",
+      "options": {
+        "A": "all", 
+        "B": "none", 
+        "C": "some", 
+        "D": "only one"
+      },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 32,
       "question": "Which sentence uses 'ever' correctly?",
-      "options": {"A": "I don't ever eat meat.", "B": "She ever goes to school.", "C": "They ever happy.", "D": "He ever the coffee."},
+      "options": {
+        "A": "I don't ever eat meat.",
+        "B": "She ever goes to school.",
+        "C": "They ever happy.", 
+        "D": "He ever the coffee."
+      },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 33,
       "question": "What is a 'shoe'?",
-      "options": {"A": "something you wear on your head", "B": "something you wear on your hands", "C": "something you wear on your feet", "D": "something you eat"},
+      "options": {
+        "A": "something you wear on your head", 
+        "B": "something you wear on your hands", 
+        "C": "something you wear on your feet", 
+        "D": "something you wear under jacket"
+      },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 34,
       "question": "What is a 'rock'?",
-      "options": {"A": "a hard, solid material", "B": "a type of music", "C": "a type of food", "D": "both A and B"},
+      "options": {
+        "A": "a hard material", 
+        "B": "a type of music", 
+        "C": "a type of painting", 
+        "D": "both A and B"
+      },
       "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 35,
       "question": "Which sentence uses 'spend' correctly?",
-      "options": {"A": "I spend happy.", "B": "She spend the book.", "C": "They spend money on food.", "D": "He spend to school."},
+      "options": {
+        "A": "I spend happy.", 
+        "B": "She spend the book.", 
+        "C": "They spend money on food.", 
+        "D": "He spend to school early."
+      },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 36,
       "question": "The word 'obtain' means:",
-      "options": {"A": "to get or acquire something", "B": "to lose something", "C": "to break something", "D": "to sell something"},
+      "options": {
+        "A": "to get something", 
+        "B": "to lose something", 
+        "C": "to break something", 
+        "D": "to sell something"
+      },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 37,
       "question": "What does 'mobile' mean?",
-      "options": {"A": "staying in one place", "B": "able to move", "C": "very big", "D": "very small"},
+      "options": {
+        "A": "staying in one place",
+        "B": "able to move", 
+        "C": "very big",
+        "D": "very small"
+      },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 38,
       "question": "Which sentence uses 'point' correctly?",
-      "options": {"A": "He point yesterday.", "B": "Can you point to the door?", "C": "She point the coffee.", "D": "They point happy."},
+      "options": {
+        "A": "He pointed the picture.", 
+        "B": "Can you point to the door?", 
+        "C": "She point at the door.", 
+        "D": "They have a happy point."
+      },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 39,
       "question": "The opposite of 'new' is:",
-      "options": {"A": "young", "B": "big", "C": "old", "D": "small"},
+      "options": {
+        "A": "young", 
+        "B": "big", 
+        "C": "old", 
+        "D": "small"
+      },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 40,
       "question": "Which sentence uses 'hold' correctly?",
-      "options": {"A": "Can you hold this bag for me?", "B": "I hold to school every day.", "C": "She hold very tall.", "D": "They hold yesterday."},
+      "options": {
+        "A": "Can you hold this bag for me?", 
+        "B": "I hold to school every day.", 
+        "C": "She hold very tall.", 
+        "D": "They hold yesterday."
+      },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 41,
       "question": "According to paragraph 1, penguins' wings look like:",
-      "options": {"A": "regular bird wings", "B": "flippers", "C": "arms", "D": "legs"},
+      "options": {
+        "A": "regular bird wings",
+        "B": "flippers", 
+        "C": "arms", 
+        "D": "legs"
+      },
       "correct_answer": "B",
       "category": "Reading"
     },
     {
       "id": 42,
       "question": "Based on the passage, penguins spend most of their time:",
-      "options": {"A": "flying in the air", "B": "climbing trees", "C": "in water or on land", "D": "sleeping"},
+      "options": {
+        "A": "flying in the air", 
+        "B": "climbing trees", 
+        "C": "in water or on land", 
+        "D": "sleeping"},
       "correct_answer": "C",
       "category": "Reading"
     },
     {
       "id": 43,
       "question": "According to paragraph 2, flying birds have:",
-      "options": {"A": "solid bones", "B": "heavy bodies", "C": "small wings", "D": "light bones with air inside"},
+      "options": {
+        "A": "solid bones", 
+        "B": "heavy bodies", 
+        "C": "small wings", 
+        "D": "light bones"
+      },
       "correct_answer": "D",
       "category": "Reading"
     },
     {
       "id": 44,
       "question": "The passage states that penguins' wings are:",
-      "options": {"A": "too large for their bodies", "B": "too small compared to their body size", "C": "perfect for flying", "D": "not used for swimming"},
+      "options": {
+        "A": "too large for their body size", 
+        "B": "too small for their body size",
+        "C": "perfect for flying", 
+        "D": "not used for swimming"
+      },
       "correct_answer": "B",
       "category": "Reading"
     },
     {
       "id": 45,
       "question": "According to paragraph 3, penguins' ancestors could:",
-      "options": {"A": "swim faster than modern penguins", "B": "live in warm places", "C": "fly", "D": "walk faster"},
+      "options": {
+        "A": "swim faster than modern penguins",
+        "B": "live in warm places", 
+        "C": "fly", 
+        "D": "walk faster"
+      },
       "correct_answer": "C",
       "category": "Reading"
     },
     {
       "id": 46,
       "question": "The passage suggests that penguins changed over time to:",
-      "options": {"A": "live better in their environment", "B": "become slower swimmers", "C": "fly higher", "D": "live in warmer places"},
+      "options": {
+        "A": "live better in their environment", 
+        "B": "become slower swimmers", 
+        "C": "fly higher and dive deeper", 
+        "D": "live in warmer places"
+      },
       "correct_answer": "A",
       "category": "Reading"
     },
     {
       "id": 47,
       "question": "According to the passage, in the water where penguins live there are:",
-      "options": {"A": "few fish to eat", "B": "many animals that can hurt them", "C": "many fish to eat", "D": "no other animals"},
+      "options": {
+        "A": "few fish to eat", 
+        "B": "many animals that can hurt them", 
+        "C": "many fish to eat", 
+        "D": "no other animals"
+      },
       "correct_answer": "C",
       "category": "Reading"
     },
     {
       "id": 48,
       "question": "In paragraph 4, how do penguins move on land?",
-      "options": {"A": "They fly short distances", "B": "They walk on four feet", "C": "They walk upright on two feet or slide on their bellies", "D": "They only swim and never go on land"},
+      "options": {
+        "A": "They fly short distances", 
+        "B": "They walk on two feet and two wings",
+        "C": "They walk on two feet or slide on their bellies", 
+        "D": "They only swim and never go on land"
+      },
       "correct_answer": "C",
       "category": "Reading"
     },
     {
       "id": 49,
       "question": "The main purpose of this passage is to explain:",
-      "options": {"A": "where penguins live", "B": "what penguins eat", "C": "why penguins cannot fly", "D": "how penguins raise their young"},
+      "options": {
+        "A": "where penguins live", 
+        "B": "what penguins eat", 
+        "C": "why penguins cannot fly", 
+        "D": "how penguins raise their young"
+      },
       "correct_answer": "C",
       "category": "Reading"
     },
     {
       "id": 50,
       "question": "According to the passage, penguins are successful because:",
-      "options": {"A": "they can fly very high", "B": "they are adapted to their life between land and sea", "C": "they have very light bones", "D": "they can walk very fast"},
+      "options": {
+        "A": "they can fly very high and dive very deep", 
+        "B": "they are adapted to both land and sea", 
+        "C": "they have very light bones and big wings",
+        "D": "they can walk very fast"
+      },
       "correct_answer": "B",
       "category": "Reading"
     }
