@@ -3,12 +3,12 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which form correctly completes the sentence? She _____ to school every day.",
+      "question": "Which form correctly completes the sentence? She _____ school every day for two weeks.",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "going",
-        "D": "went"
+        "A": "skip",
+        "B": "skipped",
+        "C": "skips",
+        "D": "skipping"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -39,7 +39,7 @@
     },
     {
       "id": 4,
-      "question": "Select the correct preposition. The cat is _____ the table.",
+      "question": "Select the correct preposition. The painting is _____ the ceiling.",
       "options": {
         "A": "into",
         "B": "under",
@@ -53,24 +53,24 @@
       "id": 5,
       "question": "Which is the correct question form?",
       "options": {
-        "A": "What time you wake up?",
-        "B": "What time do you wake up?",
-        "C": "What time does you wake up?",
-        "D": "What time are you wake up?"
+        "A": "You agree with me, do you?",
+        "B": "You agree with me, don't you?",
+        "C": "You agree with me, does you?",
+        "D": "You agree with me, did you?"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 6,
-      "question": "Choose the correct past tense form. Yesterday, I _____ a new book.",
+      "question": "Choose the incorrect past tense form. Yesterday, I _____ a new book.",
       "options": {
-        "A": "buy",
-        "B": "buyed",
-        "C": "buying",
+        "A": "read",
+        "B": "borrowed",
+        "C": "founded",
         "D": "bought"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -125,10 +125,10 @@
       "id": 11,
       "question": "Select the correct possessive form.",
       "options": {
-        "A": "The childrens toys",
-        "B": "The children's toys",
-        "C": "The childrens' toys",
-        "D": "The childs' toys"
+        "A": "This is Jessica phone",
+        "B": "This is Jessica's phone",
+        "C": "This is Jessicas phone",
+        "D": "This is Jessica phone's"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -137,10 +137,10 @@
       "id": 12,
       "question": "Which is the correct plural form?",
       "options": {
-        "A": "womans",
-        "B": "womens",
-        "C": "women",
-        "D": "womanies"
+        "A": "grapefruits",
+        "B": "grapesfruits",
+        "C": "grapefruit",
+        "D": "grapesfruit"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -175,7 +175,7 @@
       "options": {
         "A": "I am think about my vacation.",
         "B": "He is want a new car.",
-        "C": "They are watching TV right now.",
+        "C": "They are browsing internet right now.",
         "D": "She eating dinner at the moment."
       },
       "correct_answer": "C",
@@ -197,10 +197,10 @@
       "id": 17,
       "question": "What is the best definition of the word 'hotel'?",
       "options": {
-        "A": "A place where you work",
+        "A": "A place where you can work all your life",
         "B": "A place where you can stay when traveling",
-        "C": "A place where you study",
-        "D": "A place where you buy food"
+        "C": "A place where you study and practice",
+        "D": "A place where you try new food and drinks"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -209,10 +209,10 @@
       "id": 18,
       "question": "Choose the word that means 'a statement, question, or command':",
       "options": {
-        "A": "picture",
-        "B": "number",
+        "A": "thought",
+        "B": "point",
         "C": "sentence",
-        "D": "sport"
+        "D": "order"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -223,7 +223,7 @@
       "options": {
         "A": "A question",
         "B": "A problem",
-        "C": "A discount or deal",
+        "C": "A discount",
         "D": "A warning"
       },
       "correct_answer": "C",
@@ -234,9 +234,9 @@
       "question": "Which word means 'an image of something or someone'?",
       "options": {
         "A": "picture",
-        "B": "sentence",
-        "C": "board",
-        "D": "course"
+        "B": "reflection",
+        "C": "mirror",
+        "D": "camera"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -258,7 +258,7 @@
       "question": "What does 'course' refer to in this sentence: 'I'm taking an English course at the university.'",
       "options": {
         "A": "A race",
-        "B": "A series of lessons",
+        "B": "A lesson",
         "C": "A path",
         "D": "A meal"
       },
@@ -293,10 +293,10 @@
       "id": 25,
       "question": "What is a 'board' in a classroom?",
       "options": {
-        "A": "A piece of wood",
-        "B": "A flat surface for writing on",
-        "C": "A group of students",
-        "D": "A type of exam"
+        "A": "A piece of wood for skating",
+        "B": "A flat surface for writing",
+        "C": "A piece of plastic for surfing",
+        "D": "A group of people in charge"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -305,10 +305,10 @@
       "id": 26,
       "question": "Which word refers to a mathematical figure?",
       "options": {
-        "A": "sport",
+        "A": "shape",
         "B": "number",
-        "C": "sentence",
-        "D": "course"
+        "C": "letter",
+        "D": "variable"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -329,10 +329,10 @@
       "id": 28,
       "question": "Which word describes something that goes far down?",
       "options": {
-        "A": "blue",
-        "B": "ready",
+        "A": "high",
+        "B": "dark",
         "C": "deep",
-        "D": "every"
+        "D": "long"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -342,7 +342,7 @@
       "question": "What does it mean when something is 'ready'?",
       "options": {
         "A": "It is broken",
-        "B": "It is prepared for use",
+        "B": "It is prepared",
         "C": "It is expensive",
         "D": "It is dangerous"
       },
@@ -354,9 +354,9 @@
       "question": "Which word means 'physical activities done for enjoyment or competition'?",
       "options": {
         "A": "sport",
-        "B": "picture",
-        "C": "board",
-        "D": "hotel"
+        "B": "training",
+        "C": "education",
+        "D": "race"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -365,10 +365,10 @@
       "id": 31,
       "question": "Choose the correct response. 'What time is it?' '_____.'"
       "options": {
-        "A": "I'm John",
-        "B": "It's Tuesday",
-        "C": "It's 3 o'clock",
-        "D": "I'm fine"
+        "A": "It's half over three",
+        "B": "It's halfs past three",
+        "C": "It's half past three",
+        "D": "It's three past half"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -387,12 +387,12 @@
     },
     {
       "id": 33,
-      "question": "Select the best response to 'How are you?'",
+      "question": "Select the correct sentence.'",
       "options": {
-        "A": "I'm David.",
-        "B": "I'm 25 years old.",
-        "C": "I'm fine, thank you.",
-        "D": "I'm from Spain."
+        "A": "You are tired, are you?",
+        "B": "You are tired, don't you?",
+        "C": "You are tired, aren't you?",
+        "D": "You are tired, do you?"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -411,14 +411,14 @@
     },
     {
       "id": 35,
-      "question": "What do you say when someone thanks you?",
+      "question": "What shouldn't you say when someone thanks you?",
       "options": {
-        "A": "Thank you",
-        "B": "Please",
+        "A": "Don't mention it",
+        "B": "My pleasure",
         "C": "You're welcome",
-        "D": "Good luck"
+        "D": "Thank you too"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -426,7 +426,7 @@
       "question": "Which expression is used to make a request politely?",
       "options": {
         "A": "You must",
-        "B": "Can you please",
+        "B": "Can you",
         "C": "I want",
         "D": "Give me"
       },
@@ -437,10 +437,10 @@
       "id": 37,
       "question": "Choose the best way to ask for directions.",
       "options": {
-        "A": "Where is the bank, please?",
+        "A": "Where is the bank?",
         "B": "I like the bank.",
         "C": "The bank is closed.",
-        "D": "I have money."
+        "D": "I have no money."
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -450,7 +450,7 @@
       "question": "Select the appropriate response to 'Would you like some coffee?'",
       "options": {
         "A": "I'm tired.",
-        "B": "Yes, please.",
+        "B": "No, thanks.",
         "C": "I drink tea.",
         "D": "Coffee is black."
       },
@@ -463,7 +463,7 @@
       "options": {
         "A": "How are you?",
         "B": "Where do you live?",
-        "C": "My name is John.",
+        "C": "My name is Michael.",
         "D": "What time is it?"
       },
       "correct_answer": "C",
@@ -473,10 +473,10 @@
       "id": 40,
       "question": "What is an appropriate way to ask about price?",
       "options": {
-        "A": "I have money.",
+        "A": "How much money?",
         "B": "How much is this?",
         "C": "Where is the shop?",
-        "D": "I like this."
+        "D": "I like this price."
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -521,10 +521,10 @@
       "id": 44,
       "question": "The 'equilibrium price' mentioned in paragraph 3 is:",
       "options": {
-        "A": "The lowest possible price",
+        "A": "The lowest possible price of a product",
         "B": "The market value of a product",
-        "C": "The highest possible price",
-        "D": "The government-set price"
+        "C": "The highest possible price of a product",
+        "D": "The government-set price of a product"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -569,10 +569,10 @@
       "id": 48,
       "question": "The word 'factors' in paragraph 4 most closely means:",
       "options": {
-        "A": "Results",
+        "A": "Results of the government actions",
         "B": "Elements that influence something",
-        "C": "Problems",
-        "D": "Calculations"
+        "C": "Problems on international market",
+        "D": "Calculations of the equilibrium price"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -581,10 +581,10 @@
       "id": 49,
       "question": "According to the passage, understanding supply and demand helps:",
       "options": {
-        "A": "Only businesses make decisions",
-        "B": "Only consumers make decisions",
+        "A": "Businesses make decisions",
+        "B": "Consumers make decisions",
         "C": "The government control prices",
-        "D": "Both businesses and consumers make decisions"
+        "D": "Both A and B"
       },
       "correct_answer": "D",
       "category": "Reading"
