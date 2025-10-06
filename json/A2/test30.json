@@ -5,34 +5,34 @@
       "id": 1,
       "question": "Which sentence is grammatically correct?",
       "options": {
-        "A": "She don't like coffee.",
-        "B": "She doesn't likes coffee.",
-        "C": "She doesn't like coffee.",
-        "D": "She not like coffee."
+        "A": "She never tried hiking.",
+        "B": "She doesn't tried hiking.",
+        "C": "She has never tried hiking.",
+        "D": "She has never try hiking."
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 2,
-      "question": "Choose the correct form of the verb: 'My brother _____ soccer every Saturday.'",
+      "question": "Choose the correct preposition: 'My brother is good _____ soccer.'",
       "options": {
-        "A": "play",
-        "B": "plays",
-        "C": "playing",
-        "D": "is play"
+        "A": "in",
+        "B": "at",
+        "C": "on",
+        "D": "for"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 3,
-      "question": "Select the correct past tense form: 'Last weekend, we _____ to the beach.'",
+      "question": "Select the correct verb: 'They _____ for their freedom.'",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "going",
-        "D": "went"
+        "A": "brought",
+        "B": "sought",
+        "C": "thought",
+        "D": "fought"
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -41,10 +41,10 @@
       "id": 4,
       "question": "Which sentence uses the present continuous correctly?",
       "options": {
-        "A": "He watching TV now.",
-        "B": "He watch TV now.",
-        "C": "He watches TV now.",
-        "D": "He is watching TV now."
+        "A": "He kiting now.",
+        "B": "He kite now.",
+        "C": "He kites now.",
+        "D": "He is kiting now."
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -53,10 +53,10 @@
       "id": 5,
       "question": "Choose the correct preposition: 'The cat is sleeping _____ the sofa.'",
       "options": {
-        "A": "on",
-        "B": "in",
-        "C": "at",
-        "D": "by"
+        "A": "beside",
+        "B": "besides",
+        "C": "next",
+        "D": "before"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -65,10 +65,10 @@
       "id": 6,
       "question": "Which is the correct plural form?",
       "options": {
-        "A": "mans",
-        "B": "mens",
-        "C": "man",
-        "D": "men"
+        "A": "vegetable and fruit",
+        "B": "vegetable and fruits",
+        "C": "vegetables and fruits",
+        "D": "vegetables and fruit"
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -77,10 +77,10 @@
       "id": 7,
       "question": "Select the correct possessive form:",
       "options": {
-        "A": "The childrens toys",
-        "B": "The children's toys",
-        "C": "The childrens' toys",
-        "D": "The children toys"
+        "A": "The Jenny toys",
+        "B": "The Jenny's toys",
+        "C": "The Jennies toys",
+        "D": "The Jennies' toys"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -101,22 +101,22 @@
       "id": 9,
       "question": "Which sentence has the correct word order?",
       "options": {
-        "A": "Always she eats breakfast.",
-        "B": "She eats always breakfast.",
-        "C": "She always eats breakfast.",
-        "D": "She eats breakfast always."
+        "A": "Always she swims on Sundays.",
+        "B": "She swims always on Sundays.",
+        "C": "She always swims on Sundays.",
+        "D": "Always on Sundays she swims."
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 10,
-      "question": "Choose the correct comparative form: 'This book is _____ than that one.'",
+      "question": "Choose the correct comparative form: 'New York is _____ than Boston.'",
       "options": {
-        "A": "interestinger",
-        "B": "more interesting",
-        "C": "most interesting",
-        "D": "interestingest"
+        "A": "diverser",
+        "B": "more diverse",
+        "C": "most diverse",
+        "D": "diversest"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -125,22 +125,22 @@
       "id": 11,
       "question": "Select the correct article:",
       "options": {
-        "A": "I want a apple.",
-        "B": "I want an apple.",
-        "C": "I want the apple.",
-        "D": "I want apple."
+        "A": "I want a pineapple.",
+        "B": "I want an pineapple.",
+        "C": "I want the pineapple.",
+        "D": "I want pineapple."
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 12,
-      "question": "Which sentence is in the future tense?",
+      "question": "Which sentence is in the future perfect tense?",
       "options": {
-        "A": "I visit my grandmother tomorrow.",
-        "B": "I am visiting my grandmother tomorrow.",
-        "C": "I will visit my grandmother tomorrow.",
-        "D": "I visited my grandmother tomorrow."
+        "A": "I'm going visit my grandmother by weekend.",
+        "B": "I will visit grandmother by weekend.",
+        "C": "I will have visited my grandmother by weekend.",
+        "D": "I will visited my grandmother by weekend."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -159,7 +159,7 @@
     },
     {
       "id": 14,
-      "question": "Select the correct modal verb: 'You _____ brush your teeth twice a day.'",
+      "question": "Select the correct modal verb: 'You _____ drink a lot of water during a day.'",
       "options": {
         "A": "would",
         "B": "could",
@@ -212,7 +212,7 @@
         "A": "Yes, it was.",
         "B": "It was great, thanks.",
         "C": "I'm fine, thank you.",
-        "D": "No, I didn't."
+        "D": "No, it wasn't."
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -246,7 +246,7 @@
       "question": "Complete the sentence: 'I can't find my keys. I think I _____ them at home.'",
       "options": {
         "A": "left",
-        "B": "forgot",
+        "B": "got",
         "C": "missed",
         "D": "lost"
       },
@@ -306,9 +306,9 @@
       "question": "What does 'piece' mean?",
       "options": {
         "A": "a part of something",
-        "B": "a type of food",
+        "B": "a small amount",
         "C": "a large amount",
-        "D": "a small animal"
+        "D": "the whole thing"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -318,7 +318,7 @@
       "question": "Choose the correct meaning of 'build':",
       "options": {
         "A": "to destroy something",
-        "B": "to make or construct something",
+        "B": "to construct something",
         "C": "to find something",
         "D": "to sell something"
       },
@@ -377,7 +377,7 @@
       "id": 32,
       "question": "What does 'sand' refer to?",
       "options": {
-        "A": "small grains of rock found on beaches",
+        "A": "small grains of rock",
         "B": "a large body of water",
         "C": "a type of tree",
         "D": "a tall mountain"
@@ -392,7 +392,7 @@
         "A": "tiger",
         "B": "lion",
         "C": "leopard",
-        "D": "cat"
+        "D": "cheetah"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -401,10 +401,10 @@
       "id": 34,
       "question": "What is a 'chicken'?",
       "options": {
-        "A": "a type of fish",
-        "B": "a vegetable",
-        "C": "a bird kept for eggs and meat",
-        "D": "a type of car"
+        "A": "fish",
+        "B": "plant",
+        "C": "bird",
+        "D": "car"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -414,7 +414,7 @@
       "question": "Choose the word that means 'going from one side to the other side':",
       "options": {
         "A": "around",
-        "B": "across",
+        "B": "throughout",
         "C": "between",
         "D": "through"
       },
@@ -425,7 +425,7 @@
       "id": 36,
       "question": "What does 'plane' refer to?",
       "options": {
-        "A": "a vehicle that flies in the air",
+        "A": "a flying vehicle",
         "B": "a type of boat",
         "C": "a large building",
         "D": "a musical instrument"
@@ -438,9 +438,9 @@
       "question": "Choose the correct meaning of 'public':",
       "options": {
         "A": "private, for one person only",
-        "B": "open or available to all people",
-        "C": "very expensive",
-        "D": "very dangerous"
+        "B": "available to all people",
+        "C": "closed to all people",
+        "D": "available to some people"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -451,7 +451,7 @@
       "options": {
         "A": "up, to a higher position",
         "B": "into a sitting position",
-        "C": "along, in a direction away from",
+        "C": "in a direction away from",
         "D": "inside"
       },
       "correct_answer": "C",
@@ -461,7 +461,7 @@
       "id": 39,
       "question": "Which form of the verb 'pay' is correct in 'He _____ for lunch yesterday'?",
       "options": {
-        "A": "pay",
+        "A": "payed",
         "B": "pays",
         "C": "paying",
         "D": "paid"
@@ -545,7 +545,7 @@
       "id": 46,
       "question": "What does the word 'deforestation' mean in paragraph 3?",
       "options": {
-        "A": "Planting new trees",
+        "A": "Planting too many new trees",
         "B": "Cutting down too many trees",
         "C": "Protecting forests",
         "D": "Studying forests"
@@ -569,10 +569,10 @@
       "id": 48,
       "question": "Based on paragraph 4, how does deforestation affect climate change?",
       "options": {
-        "A": "It makes the weather colder.",
+        "A": "It makes the weather colder and less predictable.",
         "B": "It increases carbon dioxide in the air.",
         "C": "It reduces oxygen in the air.",
-        "D": "It causes more rain."
+        "D": "It causes more rain in the winter."
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -595,7 +595,7 @@
       "options": {
         "A": "To explain how to plant trees",
         "B": "To describe different kinds of animals in forests",
-        "C": "To provide information about forests and jungles and their importance",
+        "C": "To provide information about forests and jungles",
         "D": "To explain how to make paper from trees"
       },
       "correct_answer": "C",
