@@ -20,7 +20,7 @@
         "A": "I am student.",
         "B": "I am a student.",
         "C": "I student.",
-        "D": "I a student."
+        "D": "I am an student."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -53,10 +53,10 @@
       "id": 5,
       "question": "Select the correct plural form.",
       "options": {
-        "A": "One child, two childs",
-        "B": "One child, two childrens",
-        "C": "One child, two children",
-        "D": "One child, two child"
+        "A": "One wolf, two fox",
+        "B": "One wolve, two foxes",
+        "C": "One wolf, two foxes",
+        "D": "One wolf, two foxies"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -77,17 +77,17 @@
       "id": 7,
       "question": "Choose the correct question form.",
       "options": {
-        "A": "Where you are going?",
-        "B": "Where are you going?",
-        "C": "Where going you are?",
-        "D": "Where you going are?"
+        "A": "Where you were yesterday?",
+        "B": "Where were you yesterday?",
+        "C": "Were where you yesterday?",
+        "D": "Were you where yesterday?"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 8,
-      "question": "Select the correct sentence with 'going to'.",
+      "question": "Select the correct sentence with 'going'.",
       "options": {
         "A": "I going to visit my grandmother tomorrow.",
         "B": "I am going visit my grandmother tomorrow.",
@@ -113,10 +113,10 @@
       "id": 10,
       "question": "Choose the correct possessive form.",
       "options": {
-        "A": "That is Marys book.",
-        "B": "That is Mary's book.",
-        "C": "That is Maryes book.",
-        "D": "That is book of Mary."
+        "A": "That is Picasso painting.",
+        "B": "That is Picasso's painting.",
+        "C": "That is Picassos painting.",
+        "D": "That is Picasso'es of painting."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -128,21 +128,21 @@
         "A": "I have see that movie.",
         "B": "I have saw that movie.",
         "C": "I have seen that movie.",
-        "D": "I have being see that movie."
+        "D": "I have been seen that movie."
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 12,
-      "question": "Select the correct negative form.",
+      "question": "They were ___ by mosquitoes.",
       "options": {
-        "A": "She no like pizza.",
-        "B": "She don't like pizza.",
-        "C": "She doesn't likes pizza.",
-        "D": "She doesn't like pizza."
+        "A": "bited",
+        "B": "bitten",
+        "C": "bitter",
+        "D": "biter"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
@@ -183,24 +183,24 @@
     },
     {
       "id": 16,
-      "question": "Complete the sentence: 'She likes ___ TV in the evening.'",
+      "question": "Complete the sentence: 'She is looking forward to ___ her friends.'",
       "options": {
-        "A": "watch",
-        "B": "watching",
-        "C": "to watching",
-        "D": "watches"
+        "A": "meet",
+        "B": "meeting",
+        "C": "have met",
+        "D": "have meeting"
       },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 17,
-      "question": "Choose the correct phrase: 'I'm looking forward ___ you soon.'",
+      "question": "Choose the correct phrase: 'It was ___ ___ to go there.'",
       "options": {
-        "A": "to see",
-        "B": "seeing",
-        "C": "to seeing",
-        "D": "see"
+        "A": "two late",
+        "B": "too later",
+        "C": "too late",
+        "D": "to late"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -210,9 +210,9 @@
       "question": "Select the correct response: 'Would you like some tea?' '___'",
       "options": {
         "A": "Yes, I'd like.",
-        "B": "Yes, please.",
+        "B": "Yes, I like.",
         "C": "Yes, I want.",
-        "D": "Yes, I am."
+        "D": "Yes, I do."
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -247,8 +247,8 @@
       "options": {
         "A": "Hey there,",
         "B": "Dear Sir/Madam,",
-        "C": "Hi all,",
-        "D": "What's up,"
+        "C": "Good morning,",
+        "D": "Good time of the day,"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -272,7 +272,7 @@
         "A": "from",
         "B": "of",
         "C": "about",
-        "D": "with"
+        "D": "to"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -291,12 +291,12 @@
     },
     {
       "id": 25,
-      "question": "Complete the sentence: 'Can you ___ me a favor, please?'",
+      "question": "Complete the sentence: 'The teacher was very ___'",
       "options": {
-        "A": "make",
-        "B": "do",
-        "C": "give",
-        "D": "take"
+        "A": "stick",
+        "B": "strict",
+        "C": "strike",
+        "D": "stroke"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -305,7 +305,7 @@
       "id": 26,
       "question": "What does 'obvious' mean?",
       "options": {
-        "A": "Easy to see or understand",
+        "A": "Easy to understand",
         "B": "Difficult to find",
         "C": "Mysterious",
         "D": "Unusual"
@@ -315,12 +315,12 @@
     },
     {
       "id": 27,
-      "question": "Choose the correct meaning of 'serve':",
+      "question": "Choose the correct meaning of 'to provide food or drink':",
       "options": {
-        "A": "To sleep",
-        "B": "To provide food or drink",
-        "C": "To run fast",
-        "D": "To break something"
+        "A": "sleep",
+        "B": "serve",
+        "C": "take",
+        "D": "prevent"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -377,7 +377,7 @@
       "id": 32,
       "question": "Choose the correct word: 'The students forgot ___ books at home.'",
       "options": {
-        "A": "his",
+        "A": "theirs",
         "B": "her",
         "C": "its",
         "D": "their"
@@ -435,7 +435,7 @@
     },
     {
       "id": 37,
-      "question": "Choose the correct joining word: 'Would you like tea ___ coffee?'",
+      "question": "Choose the correct joining word: 'Would you like to eat your cereals with juice ___ milk?'",
       "options": {
         "A": "and",
         "B": "but",
@@ -450,7 +450,7 @@
       "question": "What color is made by mixing red and yellow?",
       "options": {
         "A": "Green",
-        "B": "Purple",
+        "B": "Blue",
         "C": "Orange",
         "D": "Brown"
       },
@@ -485,7 +485,7 @@
       "id": 41,
       "question": "According to paragraph 1, birds come in many different colors to:",
       "options": {
-        "A": "Make people happy",
+        "A": "Make their partners happy",
         "B": "Find mates or stay safe",
         "C": "Fly faster",
         "D": "Eat better"
@@ -497,10 +497,10 @@
       "id": 42,
       "question": "According to the passage, when do some birds sing?",
       "options": {
-        "A": "Only at night",
-        "B": "Only when it rains",
+        "A": "During the night",
+        "B": "Before afternoon",
         "C": "Early in the morning",
-        "D": "Only in winter"
+        "D": "Only in summer"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -509,10 +509,10 @@
       "id": 43,
       "question": "Based on paragraph 2, birds sing to:",
       "options": {
-        "A": "Find food",
-        "B": "Talk to humans",
+        "A": "Find food and water",
+        "B": "Talk to their partners",
         "C": "Attract a mate or mark territory",
-        "D": "Learn new songs"
+        "D": "Change direction during the flight"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -521,10 +521,10 @@
       "id": 44,
       "question": "What materials do birds use to build nests?",
       "options": {
-        "A": "Only sticks",
-        "B": "Only mud",
+        "A": "Trees, wires, roofs, and bushes",
+        "B": "Mud, sand, concrete, and water",
         "C": "Sticks, grass, leaves, and mud",
-        "D": "Only plastic"
+        "D": "Plastic, iron, aluminium, and rocks"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -533,10 +533,10 @@
       "id": 45,
       "question": "According to the passage, where do robins build their nests?",
       "options": {
-        "A": "On the ground",
+        "A": "On the ground or underwater",
         "B": "In trees or bushes",
-        "C": "In holes",
-        "D": "Near water"
+        "C": "In holes or caves",
+        "D": "Near big lakes"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -558,7 +558,7 @@
       "question": "How often do parent birds bring food to their babies?",
       "options": {
         "A": "Many times each day",
-        "B": "Once a week",
+        "B": "Once a day",
         "C": "Only at night",
         "D": "Only when it's sunny"
       },
@@ -571,7 +571,7 @@
       "options": {
         "A": "When they are one year old",
         "B": "When the parents find new babies",
-        "C": "When they are ready to fly and find food on their own",
+        "C": "When they are ready to fly",
         "D": "When winter comes"
       },
       "correct_answer": "C",
