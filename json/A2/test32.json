@@ -3,19 +3,19 @@
   "questions": [
     {
       "id": 1,
-      "question": "She ___ to school every day.",
+      "question": "We ___ been _____ to the party.",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "going",
-        "D": "is go"
+        "A": "were/invited",
+        "B": "have/invited",
+        "C": "have/invented",
+        "D": "have/inverted"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 2,
-      "question": "We ___ dinner at 7 PM yesterday.",
+      "question": "We ___ an online meeting at 7 PM yesterday.",
       "options": {
         "A": "have",
         "B": "had",
@@ -27,7 +27,7 @@
     },
     {
       "id": 3,
-      "question": "___ you like some tea?",
+      "question": "___ you like some tea or coffee?",
       "options": {
         "A": "Do",
         "B": "Are",
@@ -39,19 +39,19 @@
     },
     {
       "id": 4,
-      "question": "They ___ watching TV when I called.",
+      "question": "They've been celebrating ___ two days.",
       "options": {
-        "A": "was",
-        "B": "are",
-        "C": "is",
-        "D": "were"
+        "A": "during",
+        "B": "from",
+        "C": "since",
+        "D": "for"
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 5,
-      "question": "She ___ to Paris three times.",
+      "question": "She ___ to Prague three times.",
       "options": {
         "A": "went",
         "B": "goes",
@@ -63,14 +63,14 @@
     },
     {
       "id": 6,
-      "question": "The cat is sleeping ___ the sofa.",
+      "question": "Once I ____ the work, I ____ free to go.",
       "options": {
-        "A": "at",
-        "B": "on",
-        "C": "in",
-        "D": "by"
+        "A": "ended/was",
+        "B": "finished/am",
+        "C": "complete/was",
+        "D": "complete/will be"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -99,12 +99,12 @@
     },
     {
       "id": 9,
-      "question": "He ___ swim when he was five years old.",
+      "question": "He ___ swim when he ___ five years old.",
       "options": {
-        "A": "can",
-        "B": "could",
-        "C": "is able to",
-        "D": "may"
+        "A": "can/is",
+        "B": "could/was",
+        "C": "is able to/is",
+        "D": "may/was"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -123,48 +123,48 @@
     },
     {
       "id": 11,
-      "question": "They ___ lunch when the phone rang.",
+      "question": "The lunch ___ by them.",
       "options": {
-        "A": "have",
-        "B": "had",
-        "C": "having",
-        "D": "were having"
+        "A": "has prepared",
+        "B": "have been prepared",
+        "C": "prepared",
+        "D": "was prepared"
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 12,
-      "question": "I ___ shopping tomorrow.",
+      "question": "I ___ shopping ___ tomorrow.",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "going",
-        "D": "am going"
+        "A": "go/for",
+        "B": "go to/-",
+        "C": "going/by",
+        "D": "am going/-"
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 13,
-      "question": "If it ___ tomorrow, we'll stay home.",
+      "question": "___ Cancun was his idea.",
       "options": {
-        "A": "rains",
-        "B": "rain",
-        "C": "raining",
-        "D": "will rain"
+        "A": "Visiting",
+        "B": "Visit",
+        "C": "Visited",
+        "D": "Visits"
       },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 14,
-      "question": "There ___ any milk in the fridge.",
+      "question": "The ___ pen is ___.",
       "options": {
-        "A": "isn't",
-        "B": "aren't",
-        "C": "haven't",
-        "D": "don't"
+        "A": "Ben's/white",
+        "B": "Ben's/write",
+        "C": "Ben/white",
+        "D": "Bens/white"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -269,7 +269,7 @@
       "id": 23,
       "question": "He ___ a cold last week.",
       "options": {
-        "A": "had",
+        "A": "gave",
         "B": "got",
         "C": "caught",
         "D": "took"
@@ -279,7 +279,7 @@
     },
     {
       "id": 24,
-      "question": "Mary ___ her homework before dinner.",
+      "question": "Chuck ___ his homework before dinner.",
       "options": {
         "A": "made",
         "B": "did",
@@ -294,8 +294,8 @@
       "question": "Could you ___ the door, please? It's cold.",
       "options": {
         "A": "close",
-        "B": "shut",
-        "C": "lock",
+        "B": "put",
+        "C": "block",
         "D": "stop"
       },
       "correct_answer": "A",
@@ -320,7 +320,7 @@
         "A": "uncle",
         "B": "cousin",
         "C": "grandfather",
-        "D": "brother"
+        "D": "grandbrother"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -474,7 +474,7 @@
       "question": "A ___ is in your mouth and helps you chew food.",
       "options": {
         "A": "finger",
-        "B": "hair",
+        "B": "nail",
         "C": "tooth",
         "D": "nose"
       },
@@ -485,10 +485,10 @@
       "id": 41,
       "question": "According to paragraph 1, where did the Olympic Games start?",
       "options": {
-        "A": "In Rome",
-        "B": "In France",
+        "A": "In ancient Rome",
+        "B": "In ancient France",
         "C": "In ancient Greece",
-        "D": "In Athens"
+        "D": "In ancient Egypt"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -521,9 +521,9 @@
       "id": 44,
       "question": "Who started the modern Olympic Games?",
       "options": {
-        "A": "The Greeks",
+        "A": "Sir Winston Churchill",
         "B": "Baron Pierre de Coubertin",
-        "C": "The Romans",
+        "C": "Queen Elizabeth II",
         "D": "The International Olympic Committee"
       },
       "correct_answer": "B",
@@ -533,7 +533,7 @@
       "id": 45,
       "question": "When did women first compete in the Olympics?",
       "options": {
-        "A": "In ancient Greece",
+        "A": "393",
         "B": "1896",
         "C": "1900",
         "D": "1924"
@@ -581,20 +581,20 @@
       "id": 49,
       "question": "What is given for first place in the Olympics?",
       "options": {
-        "A": "Gold medal",
-        "B": "Silver medal",
-        "C": "Bronze medal",
-        "D": "Money prize"
+        "A": "Platinum medal",
+        "B": "Bronze medal",
+        "C": "Silver medal",
+        "D": "Gold medal"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
       "id": 50,
       "question": "What is the main purpose of the Olympic Games according to the passage?",
       "options": {
-        "A": "To make money",
-        "B": "To determine the best country",
+        "A": "To make money on broadcasting the competitions",
+        "B": "To determine the best country in all kinds of sports",
         "C": "To celebrate sports, peace, and friendship",
         "D": "To set world records"
       },
