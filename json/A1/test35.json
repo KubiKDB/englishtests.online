@@ -17,34 +17,34 @@
       "id": 2,
       "question": "Choose the correct plural form.",
       "options": {
-        "A": "One child, two childs",
-        "B": "One child, two childen",
-        "C": "One child, two children",
-        "D": "One child, two child"
+        "A": "One woman, two womans",
+        "B": "One woman, two women",
+        "C": "One woman, two wimens",
+        "D": "One woman, two woman"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 3,
       "question": "Which sentence is correct?",
       "options": {
-        "A": "She don't like coffee.",
-        "B": "She not like coffee.",
-        "C": "She doesn't likes coffee.",
-        "D": "She doesn't like coffee."
+        "A": "I is a student.",
+        "B": "I am a student.",
+        "C": "I are a student.",
+        "D": "I being a student."
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 4,
-      "question": "Select the correct past tense form of 'eat'.",
+      "question": "Select the correct present perfect form of 'eat'.",
       "options": {
-        "A": "eat",
-        "B": "eated",
-        "C": "ate",
-        "D": "eaten"
+        "A": "We have already eat durian",
+        "B": "We have already eated durian",
+        "C": "We have already eaten durian",
+        "D": "We have already ate durian"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -99,36 +99,36 @@
     },
     {
       "id": 9,
-      "question": "Choose the correct article.",
+      "question": "Choose the correct sentence.",
       "options": {
-        "A": "I have a apple.",
-        "B": "I have an apple.",
-        "C": "I have the apple.",
-        "D": "I have apple."
+        "A": "I have a apples.",
+        "B": "I have an apples.",
+        "C": "I have the apples.",
+        "D": "I have apples."
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 10,
       "question": "Which is the correct comparative form?",
       "options": {
-        "A": "This book is more cheap than that one.",
-        "B": "This book is more cheaper than that one.",
-        "C": "This book is cheaper than that one.",
-        "D": "This book is cheapest than that one."
+        "A": "This meal is more cheap than that one.",
+        "B": "This meal is more cheaper than that one.",
+        "C": "This meal is cheaper than that one.",
+        "D": "This meal is cheapest than that one."
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 11,
-      "question": "Select the correct future form with 'going to'.",
+      "question": "Select the correct future form with 'going'.",
       "options": {
         "A": "I going to study tonight.",
         "B": "I am going study tonight.",
         "C": "I am going to study tonight.",
-        "D": "I go to study tonight."
+        "D": "I will be going to study tonight."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -161,10 +161,10 @@
       "id": 14,
       "question": "Which sentence has the correct subject-verb agreement?",
       "options": {
-        "A": "The children is playing.",
-        "B": "The children are playing.",
-        "C": "The children am playing.",
-        "D": "The children be playing."
+        "A": "The geese is from Portugal.",
+        "B": "The geese are from Portugal.",
+        "C": "The geese am from Portugal.",
+        "D": "The geese be from Portugal."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -175,7 +175,7 @@
       "options": {
         "A": "They were sleeping when I arrived.",
         "B": "They was sleeping when I arrived.",
-        "C": "They were sleep when I arrived.",
+        "C": "They were slept when I arrived.",
         "D": "They sleeping when I arrived."
       },
       "correct_answer": "A",
@@ -183,36 +183,36 @@
     },
     {
       "id": 16,
-      "question": "Complete the sentence: 'She _____ her homework every day.'",
+      "question": "Complete the sentence: 'Steve _____ his homework every day.'",
       "options": {
         "A": "does",
-        "B": "make",
-        "C": "making",
-        "D": "do"
+        "B": "makes",
+        "C": "jobs",
+        "D": "works"
       },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 17,
-      "question": "Choose the correct response to 'How are you?'",
+      "question": "Choose the correct response to 'Where are you from?'",
       "options": {
-        "A": "I am 25 years old.",
-        "B": "I am a teacher.",
-        "C": "I am fine, thank you.",
-        "D": "I am at home."
+        "A": "I'm with my doctor.",
+        "B": "I'm almost on time.",
+        "C": "I'm at work.",
+        "D": "I'm from Zimbabwe."
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 18,
       "question": "Select the appropriate response to 'What time is it?'",
       "options": {
-        "A": "It's sunny today.",
-        "B": "It's three o'clock.",
-        "C": "It's Monday.",
-        "D": "It's very nice."
+        "A": "It's half last eight.",
+        "B": "It's half past eight.",
+        "C": "It's half after eight.",
+        "D": "It's half behind eight."
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -222,9 +222,9 @@
       "question": "Complete the sentence: 'I usually _____ breakfast at 7 AM.'",
       "options": {
         "A": "have",
-        "B": "eat",
+        "B": "drink",
         "C": "having",
-        "D": "do"
+        "D": "create"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -233,10 +233,10 @@
       "id": 20,
       "question": "Which word completes this sentence correctly? 'Please _____ the door.'",
       "options": {
-        "A": "open",
-        "B": "opening",
-        "C": "opened",
-        "D": "opens"
+        "A": "hold",
+        "B": "wait",
+        "C": "place",
+        "D": "weigh"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -245,8 +245,8 @@
       "id": 21,
       "question": "Choose the correct phrase to ask for someone's name.",
       "options": {
-        "A": "How do you call?",
-        "B": "What is your name?",
+        "A": "How were you called?",
+        "B": "Who are you?",
         "C": "Who are you called?",
         "D": "How you are named?"
       },
@@ -272,7 +272,7 @@
         "A": "I can go out?",
         "B": "Can I to go out?",
         "C": "Can I go out?",
-        "D": "I go out?"
+        "D": "Should I go out?"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -282,9 +282,9 @@
       "question": "Complete the sentence: 'I don't have _____ money.'",
       "options": {
         "A": "some",
-        "B": "a",
-        "C": "any",
-        "D": "no"
+        "B": "too",
+        "C": "much",
+        "D": "many"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -308,7 +308,7 @@
         "A": "a plate",
         "B": "a glass",
         "C": "a fork",
-        "D": "a chair"
+        "D": "a spoon"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -318,9 +318,9 @@
       "question": "Where do you write information to remember it later?",
       "options": {
         "A": "in a note",
-        "B": "in a table",
+        "B": "in a fridge",
         "C": "in a door",
-        "D": "in a shoe"
+        "D": "in a board"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -329,10 +329,10 @@
       "id": 28,
       "question": "What do you do when you speak to someone?",
       "options": {
-        "A": "you run",
-        "B": "you sleep",
+        "A": "you listen",
+        "B": "you watch",
         "C": "you talk",
-        "D": "you swim"
+        "D": "you hear"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -353,10 +353,10 @@
       "id": 30,
       "question": "What do you do when you share information with someone?",
       "options": {
-        "A": "you take",
-        "B": "you bring",
+        "A": "you well",
+        "B": "you sell",
         "C": "you tell",
-        "D": "you make"
+        "D": "you fell"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -378,7 +378,7 @@
       "question": "Which word means 'to receive'?",
       "options": {
         "A": "give",
-        "B": "take",
+        "B": "want",
         "C": "get",
         "D": "put"
       },
@@ -389,10 +389,10 @@
       "id": 33,
       "question": "Which preposition completes this sentence? 'I go to school _____ my friends.'",
       "options": {
-        "A": "for",
-        "B": "at",
+        "A": "outside",
+        "B": "within",
         "C": "with",
-        "D": "by"
+        "D": "on"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -462,8 +462,8 @@
       "question": "What happens when you drop a glass?",
       "options": {
         "A": "it breaks",
-        "B": "it floats",
-        "C": "it flies",
+        "B": "it shines",
+        "C": "it brakes",
         "D": "it grows"
       },
       "correct_answer": "A",
@@ -522,7 +522,7 @@
       "question": "What do both cats and dogs need every day?",
       "options": {
         "A": "Exercise",
-        "B": "Meat",
+        "B": "Fresh meat",
         "C": "Fresh water",
         "D": "Time alone"
       },
@@ -548,7 +548,7 @@
         "A": "Cats are always larger than dogs.",
         "B": "Dogs can learn more commands than cats.",
         "C": "Cats need less food than dogs.",
-        "D": "Dogs sleep more than cats."
+        "D": "Dogs sleep and eat more than cats."
       },
       "correct_answer": "B",
       "category": "Reading"
