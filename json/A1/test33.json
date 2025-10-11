@@ -17,10 +17,10 @@
       "id": 2,
       "question": "Choose the correct sentence.",
       "options": {
-        "A": "They goes to school every day.",
-        "B": "They go to school every day.",
-        "C": "They going to school every day.",
-        "D": "They to go school every day."
+        "A": "It was 10 under 5",
+        "B": "It was 10 to 5",
+        "C": "It was 10 before 5",
+        "D": "It was 10 till 5"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -39,14 +39,14 @@
     },
     {
       "id": 4,
-      "question": "Select the correct plural form of 'child'.",
+      "question": "Select the correct plural form of 'mouse'.",
       "options": {
-        "A": "childs",
-        "B": "childes",
-        "C": "childrens",
-        "D": "children"
+        "A": "mouses",
+        "B": "mouce",
+        "C": "mice",
+        "D": "mices"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -63,26 +63,26 @@
     },
     {
       "id": 6,
-      "question": "Which sentence uses the past tense correctly?",
+      "question": "Which sentence uses the simple past tense correctly?",
       "options": {
-        "A": "I goed to the park yesterday.",
-        "B": "I gone to the park yesterday.",
-        "C": "I went to the park yesterday.",
-        "D": "I going to the park yesterday."
+        "A": "She taked the book from the shelf.",
+        "B": "She has took the book from the shelf.",
+        "C": "She took the book from the shelf.",
+        "D": "She taken the book from the shelf."
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 7,
-      "question": "Choose the correct preposition. 'The book is ___ the table.'",
+      "question": "Choose the correct preposition. 'She is sitting ___ her brother and sister.'",
       "options": {
-        "A": "in",
-        "B": "at",
-        "C": "on",
-        "D": "with"
+        "A": "among",
+        "B": "between",
+        "C": "within",
+        "D": "through"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
@@ -123,50 +123,50 @@
     },
     {
       "id": 11,
-      "question": "Select the correct comparative form. 'This building is ___ than that one.'",
+      "question": "Select the correct comparative form. 'The math problem was ___ than the science one.'",
       "options": {
-        "A": "taller",
-        "B": "more tall",
-        "C": "tallest",
-        "D": "most tall"
+        "A": "difficulter",
+        "B": "more difficult",
+        "C": "difficultest",
+        "D": "most difficult"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 12,
-      "question": "Which sentence uses the present continuous correctly?",
+      "question": "Which sentence uses the present perfect tense correctly?",
       "options": {
-        "A": "He reading a book now.",
-        "B": "He is read a book now.",
-        "C": "He is reading a book now.",
-        "D": "He read a book now."
+        "A": "They has eaten dinner already.",
+        "B": "They eaten dinner already.",
+        "C": "They have ate dinner already.",
+        "D": "They have eaten dinner already."
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 13,
-      "question": "Choose the correct question form. '___ they like pizza?'",
+      "question": "Choose the correct question form. '___ she live in Kenya?'",
       "options": {
-        "A": "Is",
+        "A": "Do",
         "B": "Are",
-        "C": "Do",
+        "C": "Is",
         "D": "Does"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 14,
-      "question": "Select the correct sentence.",
+      "question": "Select the correct negative sentence.",
       "options": {
-        "A": "She don't like coffee.",
-        "B": "She doesn't likes coffee.",
-        "C": "She not like coffee.",
-        "D": "She doesn't like coffee."
+        "A": "I doesn't want to go out tonight.",
+        "B": "I do not wants to go out tonight.",
+        "C": "I don't want to go out tonight.",
+        "D": "I not want to go out tonight."
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -195,12 +195,12 @@
     },
     {
       "id": 17,
-      "question": "Select the best response to the question: 'How are you?'",
+      "question": "Select the best response to the question: 'What time is it?'",
       "options": {
-        "A": "I am 25 years old.",
-        "B": "I am fine, thank you.",
-        "C": "I am from Spain.",
-        "D": "I am a teacher."
+        "A": "It's dark outside.",
+        "B": "It's seven o'clock.",
+        "C": "It's a beautiful watch.",
+        "D": "It's a big clock."
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -224,7 +224,7 @@
         "A": "Goodbye",
         "B": "See you later",
         "C": "Nice to meet you",
-        "D": "Take care"
+        "D": "Take care of yourself"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -248,31 +248,31 @@
         "A": "I can swim.",
         "B": "May I use your phone?",
         "C": "You should go now.",
-        "D": "I must leave early."
+        "D": "Should we leave early?."
       },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 22,
-      "question": "Choose the appropriate response to 'Thank you'.",
+      "question": "Choose the appropriate response to 'Excuse me, is this seat taken?'",
       "options": {
-        "A": "You're welcome",
-        "B": "Hello",
-        "C": "Good morning",
-        "D": "Goodbye"
+        "A": "No, it is.",
+        "B": "Yes, it is.",
+        "C": "Yes, it is not.",
+        "D": "I took it."
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 23,
       "question": "What do you say when you want to know someone's name?",
       "options": {
-        "A": "How old are you?",
-        "B": "Where do you live?",
+        "A": "How is your name?",
+        "B": "What your name is?",
         "C": "What's your name?",
-        "D": "How are you?"
+        "D": "How are you called?"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -282,7 +282,7 @@
       "question": "Select the correct phrase for offering help.",
       "options": {
         "A": "Can I help you?",
-        "B": "You need help.",
+        "B": "You need help?",
         "C": "Help me, please.",
         "D": "I don't need help."
       },
@@ -319,8 +319,8 @@
       "options": {
         "A": "To leave a place",
         "B": "To reach a destination",
-        "C": "To sleep somewhere",
-        "D": "To travel quickly"
+        "C": "To turn around",
+        "D": "To travel to a destination"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -329,10 +329,10 @@
       "id": 28,
       "question": "What does 'effect' mean?",
       "options": {
-        "A": "A result or consequence",
+        "A": "A result",
         "B": "A feeling",
         "C": "A mistake",
-        "D": "A kind of food"
+        "D": "A reason"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -342,7 +342,7 @@
       "question": "Which is the best definition of 'great'?",
       "options": {
         "A": "Very small",
-        "B": "Very good or large",
+        "B": "Very good",
         "C": "Very old",
         "D": "Very slow"
       },
@@ -353,10 +353,10 @@
       "id": 30,
       "question": "What is a 'course'?",
       "options": {
-        "A": "A type of animal",
+        "A": "A series of movies",
         "B": "A series of lessons",
-        "C": "A kind of food",
-        "D": "A place to live"
+        "C": "A series of books",
+        "D": "A series of podcasts"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -367,8 +367,8 @@
       "options": {
         "A": "Against the law",
         "B": "According to the law",
-        "C": "About money",
-        "D": "About health"
+        "C": "Cashless",
+        "D": "Healthy"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -377,10 +377,10 @@
       "id": 32,
       "question": "Choose the correct definition of 'other'.",
       "options": {
-        "A": "The same one",
+        "A": "Same one",
         "B": "Different one",
-        "C": "The first one",
-        "D": "The last one"
+        "C": "Similar one",
+        "D": "Last one"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -392,7 +392,7 @@
         "A": "A small animal that barks",
         "B": "A small animal that meows",
         "C": "A large animal that roars",
-        "D": "A bird that flies"
+        "D": "A bird that doesn't fly"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -401,7 +401,7 @@
       "id": 34,
       "question": "What does 'wise' mean?",
       "options": {
-        "A": "Having knowledge and good judgment",
+        "A": "Having knowledge",
         "B": "Being very strong",
         "C": "Being very young",
         "D": "Having a lot of money"
@@ -414,7 +414,7 @@
       "question": "What does 'both' refer to?",
       "options": {
         "A": "Only one",
-        "B": "The two together",
+        "B": "Each of two",
         "C": "None of them",
         "D": "Three or more"
       },
@@ -425,10 +425,10 @@
       "id": 36,
       "question": "What does 'touch' mean?",
       "options": {
-        "A": "To see something",
-        "B": "To hear something",
+        "A": "To see something clearly",
+        "B": "To hear something clearly",
         "C": "To put your hand on something",
-        "D": "To smell something"
+        "D": "To smell something with your nose"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -438,9 +438,9 @@
       "question": "What is the meaning of 'honor'?",
       "options": {
         "A": "Great respect",
-        "B": "Great speed",
-        "C": "Great size",
-        "D": "Great noise"
+        "B": "Great spectrum",
+        "C": "Great response",
+        "D": "Great aspect"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -451,7 +451,7 @@
       "options": {
         "A": "To know something for sure",
         "B": "To appear to be something",
-        "C": "To find something",
+        "C": "To watch something",
         "D": "To finish something"
       },
       "correct_answer": "B",
@@ -459,12 +459,12 @@
     },
     {
       "id": 39,
-      "question": "What is a 'board'?",
+      "question": "What is another word for 'begin'?",
       "options": {
-        "A": "A type of food",
-        "B": "A flat piece of wood",
-        "C": "A small animal",
-        "D": "A type of drink"
+        "A": "finish",
+        "B": "start",
+        "C": "continue",
+        "D": "leave"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -473,7 +473,7 @@
       "id": 40,
       "question": "What does 'narrow' mean?",
       "options": {
-        "A": "Very wide",
+        "A": "Very large in width",
         "B": "Very small in width",
         "C": "Very high",
         "D": "Very deep"
@@ -557,36 +557,36 @@
       "id": 47,
       "question": "Which Canadian cities are mentioned in the passage?",
       "options": {
-        "A": "Toronto and Montreal",
-        "B": "Vancouver and Calgary",
-        "C": "Yellowknife and Winnipeg",
-        "D": "Ottawa and Edmonton"
+        "A": "Ottawa and Edmonton",
+        "B": "Toronto and Montreal",
+        "C": "Vancouver and Calgary",
+        "D": "Yellowknife and Winnipeg"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
       "id": 48,
       "question": "What do people in cold Canadian cities do to stay warm?",
       "options": {
-        "A": "They stay indoors all the time.",
-        "B": "They wear many layers of clothes.",
+        "A": "They wear many layers of clothes.",
+        "B": "They stay indoors all the time.",
         "C": "They move to warmer places.",
         "D": "They sleep more in winter."
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Reading"
     },
     {
       "id": 49,
       "question": "What happens to schools in very cold Canadian cities sometimes?",
       "options": {
-        "A": "They close when it's too cold.",
-        "B": "They have longer hours.",
-        "C": "They have more students.",
-        "D": "They have special heating."
+        "A": "They have longer hours.",
+        "B": "They have more students.",
+        "C": "They have special heating.",
+        "D": "They close when it's too cold."
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -595,7 +595,7 @@
       "options": {
         "A": "Special phones",
         "B": "Special houses",
-        "C": "Special food",
+        "C": "Special bikes",
         "D": "Special cars"
       },
       "correct_answer": "D",
