@@ -4,351 +4,601 @@
   "questions": [
     {
       "id": 1,
-      "question": "She _____ to school every day.",
-      "options": {"A": "go", "B": "goes", "C": "going", "D": "gone"},
+      "question": "My new smartphone is _____ than my old one.",
+      "options": {
+        "A": "fast",
+        "B": "faster",
+        "C": "fastest",
+        "D": "more fast"
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 2,
-      "question": "We _____ TV when the phone rang.",
-      "options": {"A": "watched", "B": "watching", "C": "were watching", "D": "watch"},
+      "question": "We _____ in the park when it started raining.",
+      "options": {
+        "A": "walked",
+        "B": "walking",
+        "C": "were walking",
+        "D": "walk"
+      },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 3,
       "question": "My brother _____ his homework yet.",
-      "options": {"A": "didn't finish", "B": "hasn't finished", "C": "don't finish", "D": "isn't finishing"},
+      "options": {
+        "A": "didn't finish", 
+        "B": "hasn't finished",
+        "C": "don't finish", 
+        "D": "isn't finishing"
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 4,
       "question": "There _____ some water in the bottle.",
-      "options": {"A": "is", "B": "are", "C": "have", "D": "has"},
+      "options": {
+        "A": "is", 
+        "B": "are", 
+        "C": "have", 
+        "D": "has"
+      },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 5,
       "question": "She _____ play tennis when she was younger.",
-      "options": {"A": "use to", "B": "used to", "C": "was used to", "D": "using to"},
+      "options": {
+        "A": "use to",
+        "B": "used to", 
+        "C": "was used to",
+        "D": "using to"
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 6,
-      "question": "If it _____ tomorrow, we will stay home.",
-      "options": {"A": "rain", "B": "rains", "C": "will rain", "D": "raining"},
+      "question": "If it _____ tomorrow, we won't ski.",
+      "options": {
+        "A": "snow", 
+        "B": "snows", 
+        "C": "will snow",
+        "D": "snowing"
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 7,
       "question": "You _____ clean your room before going out.",
-      "options": {"A": "should to", "B": "must to", "C": "should", "D": "have"},
+      "options": {
+        "A": "should to", 
+        "B": "must to",
+        "C": "should", 
+        "D": "have"
+      },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 8,
       "question": "She speaks English _____ than I do.",
-      "options": {"A": "good", "B": "better", "C": "best", "D": "well"},
+      "options": {
+        "A": "good", 
+        "B": "better", 
+        "C": "best", 
+        "D": "weller"
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 9,
       "question": "_____ oranges do you want?",
-      "options": {"A": "How much", "B": "How many", "C": "What", "D": "Which"},
+      "options": {
+        "A": "How much",
+        "B": "How many", 
+        "C": "What ones", 
+        "D": "Which ones"
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 10,
       "question": "He _____ in London since 2010.",
-      "options": {"A": "lives", "B": "is living", "C": "has lived", "D": "lived"},
+      "options": {
+        "A": "lives",
+        "B": "is living",
+        "C": "has lived",
+        "D": "lived"
+      },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 11,
       "question": "She _____ the dishes when I arrived.",
-      "options": {"A": "washed", "B": "was washing", "C": "has washed", "D": "is washing"},
+      "options": {
+        "A": "were washing",
+        "B": "was washing",
+        "C": "has washed", 
+        "D": "is washing"
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 12,
-      "question": "We _____ to the beach last weekend.",
-      "options": {"A": "go", "B": "went", "C": "going", "D": "gone"},
+      "question": "Cheetahs run very _____.",
+      "options": {
+        "A": "vast",
+        "B": "fast",
+        "C": "past", 
+        "D": "last"
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 13,
       "question": "I don't have _____ free time these days.",
-      "options": {"A": "many", "B": "few", "C": "much", "D": "little"},
+      "options": {
+        "A": "many",
+        "B": "few", 
+        "C": "much",
+        "D": "little"
+      },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 14,
-      "question": "The book is _____ the table.",
-      "options": {"A": "in", "B": "on", "C": "at", "D": "by"},
+      "question": "The Eurostar travels from London to Amsterdam _____ Brussels.",
+      "options": {
+        "A": "through",
+        "B": "via",
+        "C": "to",
+        "D": "between"
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 15,
-      "question": "_____ you like some coffee?",
-      "options": {"A": "Are", "B": "Do", "C": "Would", "D": "Have"},
+      "question": "This coffee is _____",
+      "options": {
+        "A": "bitten", 
+        "B": "biter",
+        "C": "bitter", 
+        "D": "butter"
+      },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 16,
       "question": "Could you _____ me that book, please?",
-      "options": {"A": "to give", "B": "give", "C": "giving", "D": "gave"},
+      "options": {
+        "A": "lent",
+        "B": "lend",
+        "C": "land",
+        "D": "loan"
+      },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 17,
       "question": "I'm not feeling well. I think I'll _____ a doctor.",
-      "options": {"A": "look at", "B": "look for", "C": "see", "D": "watch"},
+      "options": {
+        "A": "look at",
+        "B": "look for", 
+        "C": "see", 
+        "D": "watch"
+      },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 18,
       "question": "She's good _____ swimming.",
-      "options": {"A": "at", "B": "in", "C": "on", "D": "for"},
+      "options": {
+        "A": "at", 
+        "B": "in", 
+        "C": "on", 
+        "D": "for"
+      },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 19,
-      "question": "I need to _____ some money from the bank.",
-      "options": {"A": "take out", "B": "take off", "C": "take away", "D": "take in"},
+      "question": "I need to _____ some money from ATM.",
+      "options": {
+        "A": "withdraw",
+        "B": "withdrew",
+        "C": "withdrawn",
+        "D": "without"
+      },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 20,
       "question": "Can you _____ after my cat while I'm away?",
-      "options": {"A": "see", "B": "watch", "C": "look", "D": "find"},
+      "options": {
+        "A": "see",
+        "B": "watch",
+        "C": "look",
+        "D": "find"
+      },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 21,
       "question": "It's important to _____ regular exercise.",
-      "options": {"A": "make", "B": "do", "C": "play", "D": "have"},
+      "options": {
+        "A": "make",
+        "B": "do", 
+        "C": "play",
+        "D": "have"
+      },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 22,
       "question": "She _____ a lot of time with her grandparents.",
-      "options": {"A": "spends", "B": "passes", "C": "takes", "D": "makes"},
+      "options": {
+        "A": "spends",
+        "B": "passes", 
+        "C": "takes", 
+        "D": "makes"
+      },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 23,
       "question": "I don't _____ what you mean.",
-      "options": {"A": "listen", "B": "hear", "C": "understand", "D": "know"},
-      "correct_answer": "C",
+      "options": {
+        "A": "know",
+        "B": "get",
+        "C": "understand", 
+        "D": "A,B,C"
+      },
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 24,
       "question": "Let's _____ a break now.",
-      "options": {"A": "do", "B": "make", "C": "have", "D": "take"},
+      "options": {
+        "A": "do", 
+        "B": "make",
+        "C": "have",
+        "D": "take"
+      },
       "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 25,
-      "question": "We need to _____ a decision soon.",
-      "options": {"A": "make", "B": "do", "C": "take", "D": "get"},
+      "question": "He needs to _____ a move before time runs out.",
+      "options": {
+        "A": "make",
+        "B": "do", 
+        "C": "take",
+        "D": "get"
+      },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 26,
       "question": "She has a very _____ smile that makes everyone happy.",
-      "options": {"A": "nice", "B": "pretty", "C": "lovely", "D": "good"},
-      "correct_answer": "A",
+      "options": {
+        "A": "beauty", 
+        "B": "pretty",
+        "C": "loveful", 
+        "D": "beautiful"
+      },
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 27,
       "question": "The large _____ carried goods across the ocean.",
-      "options": {"A": "car", "B": "train", "C": "ship", "D": "plane"},
+      "options": {
+        "A": "car", 
+        "B": "train", 
+        "C": "ship", 
+        "D": "truck"
+      },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 28,
       "question": "Our study _____ has five students.",
-      "options": {"A": "team", "B": "class", "C": "group", "D": "set"},
+      "options": {
+        "A": "team",
+        "B": "course", 
+        "C": "group", 
+        "D": "set"
+      },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 29,
       "question": "There's an empty _____ next to me on the bus.",
-      "options": {"A": "chair", "B": "bench", "C": "sofa", "D": "seat"},
+      "options": {
+        "A": "chair", 
+        "B": "bench",
+        "C": "sofa", 
+        "D": "seat"
+      },
       "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 30,
       "question": "Astronauts travel into outer _____.",
-      "options": {"A": "sky", "B": "space", "C": "air", "D": "world"},
+      "options": {
+        "A": "sky", 
+        "B": "space", 
+        "C": "air", 
+        "D": "world"
+      },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 31,
       "question": "Can you _____ more slowly, please? I don't understand.",
-      "options": {"A": "talk", "B": "tell", "C": "speak", "D": "say"},
+      "options": {
+        "A": "listen", 
+        "B": "tell",
+        "C": "speak",
+        "D": "say"
+      },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 32,
       "question": "The instructions are very _____ and easy to follow.",
-      "options": {"A": "easy", "B": "small", "C": "clear", "D": "simple"},
+      "options": {
+        "A": "hard", 
+        "B": "small", 
+        "C": "complex", 
+        "D": "simple"
+      },
       "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 33,
       "question": "The _____ cost of the trip was $500.",
-      "options": {"A": "full", "B": "whole", "C": "total", "D": "all"},
+      "options": {
+        "A": "over",
+        "B": "whole",
+        "C": "total", 
+        "D": "all"
+      },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 34,
       "question": "She's _____ of spiders.",
-      "options": {"A": "scared", "B": "afraid", "C": "frightened", "D": "worried"},
+      "options": {
+        "A": "scarred", 
+        "B": "afraid", 
+        "C": "fright",
+        "D": "worried"
+      },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 35,
       "question": "I _____ enjoyed the movie. It was great!",
-      "options": {"A": "very", "B": "so", "C": "much", "D": "really"},
+      "options": {
+        "A": "very",
+        "B": "so", 
+        "C": "much", 
+        "D": "really"
+      },
       "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 36,
       "question": "He gave her a beautiful gold _____.",
-      "options": {"A": "necklace", "B": "bracelet", "C": "ring", "D": "watch"},
+      "options": {
+        "A": "rung",
+        "B": "round", 
+        "C": "ring", 
+        "D": "circle"
+      },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 37,
       "question": "The cat was hiding _____ the chairs.",
-      "options": {"A": "between", "B": "among", "C": "with", "D": "in"},
+      "options": {
+        "A": "within",
+        "B": "among",
+        "C": "for", 
+        "D": "across"
+      },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 38,
       "question": "Japan is in the Far _____.",
-      "options": {"A": "West", "B": "North", "C": "South", "D": "East"},
+      "options": {
+        "A": "West", 
+        "B": "North",
+        "C": "South",
+        "D": "East"
+      },
       "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 39,
       "question": "Hunters sometimes _____ animals for food.",
-      "options": {"A": "hurt", "B": "hit", "C": "kill", "D": "catch"},
+      "options": {
+        "A": "hurt", 
+        "B": "hit", 
+        "C": "kill", 
+        "D": "catch"
+      },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 40,
       "question": "California is a _____ in the western United States.",
-      "options": {"A": "country", "B": "city", "C": "town", "D": "state"},
+      "options": {
+        "A": "country",
+        "B": "city",
+        "C": "town", 
+        "D": "state"
+      },
       "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 41,
       "question": "According to paragraph 1, early carts were pulled by:",
-      "options": {"A": "people", "B": "animals", "C": "machines", "D": "wind"},
+      "options": {
+        "A": "people", 
+        "B": "animals", 
+        "C": "machines",
+        "D": "wind"
+      },
       "correct_answer": "B",
       "category": "Reading"
     },
     {
       "id": 42,
       "question": "What helped boats travel longer distances?",
-      "options": {"A": "paddles", "B": "motors", "C": "sails", "D": "ropes"},
+      "options": {
+        "A": "paddles", 
+        "B": "motors",
+        "C": "sails", 
+        "D": "ropes"
+      },
       "correct_answer": "C",
       "category": "Reading"
     },
     {
       "id": 43,
       "question": "Which of the following was NOT mentioned as a use for carts?",
-      "options": {"A": "carrying crops", "B": "transporting water", "C": "moving people", "D": "racing"},
+      "options": {
+        "A": "carrying crops",
+        "B": "transporting water", 
+        "C": "moving people",
+        "D": "racing sport"
+      },
       "correct_answer": "D",
       "category": "Reading"
     },
     {
       "id": 44,
       "question": "In paragraph 2, what made trade between different regions possible?",
-      "options": {"A": "better roads", "B": "faster horses", "C": "improved boats", "D": "new markets"},
+      "options": {
+        "A": "better roads", 
+        "B": "faster horses", 
+        "C": "improved boats",
+        "D": "new markets"
+      },
       "correct_answer": "C",
       "category": "Reading"
     },
     {
       "id": 45,
       "question": "According to the passage, boats were especially important for:",
-      "options": {"A": "military use", "B": "fishing communities", "C": "royal families", "D": "religious ceremonies"},
+      "options": {
+        "A": "military use", 
+        "B": "fishing communities",
+        "C": "royal families", 
+        "D": "religious ceremonies"
+      },
       "correct_answer": "B",
       "category": "Reading"
     },
     {
       "id": 46,
       "question": "How did four-wheeled carts improve transportation?",
-      "options": {"A": "They were faster", "B": "They were more stable", "C": "They were cheaper", "D": "They were lighter"},
+      "options": {
+        "A": "They were faster",
+        "B": "They were more stable", 
+        "C": "They were less expensive", 
+        "D": "They were lighter"
+      },
       "correct_answer": "B",
       "category": "Reading"
     },
     {
       "id": 47,
       "question": "What protected rich people from rain and sun?",
-      "options": {"A": "special clothes", "B": "servants", "C": "covered carts", "D": "umbrellas"},
+      "options": {
+        "A": "special clothes", 
+        "B": "servants",
+        "C": "covered carts", 
+        "D": "umbrellas"
+      },
       "correct_answer": "C",
       "category": "Reading"
     },
     {
       "id": 48,
       "question": "According to paragraph 4, transportation helped to spread:",
-      "options": {"A": "diseases", "B": "wars", "C": "religions", "D": "ideas and culture"},
+      "options": {
+        "A": "diseases and illness", 
+        "B": "wars and conflicts", 
+        "C": "religions and beliefs",
+        "D": "ideas and culture"
+      },
       "correct_answer": "D",
       "category": "Reading"
     },
     {
       "id": 49,
       "question": "The main purpose of this passage is to explain:",
-      "options": {"A": "how boats are made", "B": "early forms of transportation", "C": "ancient trading systems", "D": "the history of roads"},
+      "options": {
+        "A": "how boats are made and used",
+        "B": "early forms of transportation",
+        "C": "ancient trading systems", 
+        "D": "the history of roads and trade routes"
+      },
       "correct_answer": "B",
       "category": "Reading"
     },
     {
       "id": 50,
       "question": "According to the passage, what might have developed differently without early transportation?",
-      "options": {"A": "languages", "B": "animals", "C": "civilizations", "D": "oceans"},
+      "options": {
+        "A": "languages", 
+        "B": "animals", 
+        "C": "civilizations",
+        "D": "oceans"
+      },
       "correct_answer": "C",
       "category": "Reading"
     }
