@@ -18,7 +18,7 @@
       "question": "Choose the correct form of the verb. They ___ TV when I called.",
       "options": {
         "A": "watch",
-        "B": "watching",
+        "B": "have watched",
         "C": "were watching",
         "D": "watches"
       },
@@ -75,12 +75,12 @@
     },
     {
       "id": 7,
-      "question": "Choose the correct form. If it ___ tomorrow, we will stay home.",
+      "question": "Choose the correct form. If I ___ a proper move, I will win the chess game.",
       "options": {
-        "A": "rain",
-        "B": "rains",
-        "C": "raining",
-        "D": "rained"
+        "A": "made",
+        "B": "make",
+        "C": "will make",
+        "D": "have made"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -115,7 +115,7 @@
       "options": {
         "A": "is",
         "B": "was",
-        "C": "were",
+        "C": "have been",
         "D": "has been"
       },
       "correct_answer": "D",
@@ -135,12 +135,12 @@
     },
     {
       "id": 12,
-      "question": "Select the correct form of the verb. They ___ dinner when the phone rang.",
+      "question": "Select the correct form of the verb. They ___ the test when the bell rang.",
       "options": {
-        "A": "have",
-        "B": "had",
-        "C": "were having",
-        "D": "having"
+        "A": "have finished",
+        "B": "had finished",
+        "C": "were finishing",
+        "D": "having finished"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -161,10 +161,10 @@
       "id": 14,
       "question": "Choose the correct negative form. She ___ like coffee.",
       "options": {
-        "A": "don't",
-        "B": "not",
-        "C": "doesn't",
-        "D": "isn't"
+        "A": "uses",
+        "B": "use to",
+        "C": "used to",
+        "D": "used"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -197,9 +197,9 @@
       "id": 17,
       "question": "Select the correct preposition. The book is ___ the shelf.",
       "options": {
-        "A": "between",
+        "A": "with",
         "B": "on",
-        "C": "across",
+        "C": "inside",
         "D": "among"
       },
       "correct_answer": "B",
@@ -222,7 +222,7 @@
       "question": "Select the correct response to 'Would you like some tea?'",
       "options": {
         "A": "Yes, I would.",
-        "B": "Yes, I'd like.",
+        "B": "Yes, I like.",
         "C": "Yes, I want.",
         "D": "Yes, I am."
       },
@@ -236,31 +236,31 @@
         "A": "Could you help me, please?",
         "B": "You help me, please?",
         "C": "Help me, can you?",
-        "D": "Help me, you could?"
+        "D": "Help me, could you?"
       },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 21,
-      "question": "Select the correct expression to apologize.",
+      "question": "Select the incorrect expression to apologize.",
       "options": {
-        "A": "Excuse you.",
+        "A": "Excuse me.",
         "B": "I'm sorry.",
-        "C": "Thank you.",
-        "D": "Please you."
+        "C": "Pardon me.",
+        "D": "I pardon."
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 22,
-      "question": "Choose the correct phrase. We went ___ vacation last summer.",
+      "question": "Choose the correct phrase. We ___ to Columbia last summer.",
       "options": {
-        "A": "for",
-        "B": "to",
-        "C": "on",
-        "D": "in"
+        "A": "tripped",
+        "B": "journeyed",
+        "C": "traveled",
+        "D": "voyaged"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -343,7 +343,7 @@
       "options": {
         "A": "I back my dinner.",
         "B": "Please come back soon.",
-        "C": "She back the car.",
+        "C": "She parked back the car.",
         "D": "They back very late."
       },
       "correct_answer": "B",
@@ -354,9 +354,9 @@
       "question": "Which sentence uses 'shall' correctly?",
       "options": {
         "A": "I shall go to the store tomorrow.",
-        "B": "She shall the book yesterday.",
-        "C": "They shall happy now.",
-        "D": "He shall the door."
+        "B": "She put the book on the shall.",
+        "C": "They shall to be happy now.",
+        "D": "The snail's shall is hard."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -378,7 +378,7 @@
       "question": "What does it mean when someone is 'born'?",
       "options": {
         "A": "When they are sleeping",
-        "B": "When they start to exist (begin life)",
+        "B": "When they start to exist",
         "C": "When they are learning",
         "D": "When they are working"
       },
@@ -391,8 +391,8 @@
       "options": {
         "A": "Large areas of land",
         "B": "Large areas of water",
-        "C": "Types of animals",
-        "D": "Types of plants"
+        "C": "Large areas of wheat",
+        "D": "Large areas of rice"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -404,7 +404,7 @@
         "A": "A place with many trees",
         "B": "A dry place with little rain",
         "C": "A cold place with lots of snow",
-        "D": "A place where many people live"
+        "D": "A type of sweet food"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -413,22 +413,22 @@
       "id": 35,
       "question": "What does 'taste' mean?",
       "options": {
-        "A": "The flavor of food or drink",
-        "B": "The color of something",
-        "C": "The size of an object",
-        "D": "The sound of music"
+        "A": "The flavor",
+        "B": "The color",
+        "C": "The size",
+        "D": "The sound"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 36,
-      "question": "What is a 'result'?",
+      "question": "What happens because of something else?",
       "options": {
-        "A": "A type of food",
-        "B": "What happens because of something else",
-        "C": "A place to visit",
-        "D": "A type of clothes"
+        "A": "Cause",
+        "B": "Result",
+        "C": "Process",
+        "D": "Afterwards"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -451,8 +451,8 @@
       "options": {
         "A": "We walked along the beach.",
         "B": "She along very happy.",
-        "C": "They along the food.",
-        "D": "He along yesterday."
+        "C": "They had along the road.",
+        "D": "He was along yesterday."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -461,10 +461,10 @@
       "id": 39,
       "question": "What is a 'reason'?",
       "options": {
-        "A": "A season of the year",
-        "B": "A type of weather",
-        "C": "An explanation for why something happens",
-        "D": "A way to travel"
+        "A": "A preference",
+        "B": "An outcome",
+        "C": "An explanation",
+        "D": "A result"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -474,9 +474,9 @@
       "question": "Which phrase uses 'look' correctly?",
       "options": {
         "A": "Can you look after my cat while I'm away?",
-        "B": "I look my dinner.",
-        "C": "She look a book.",
-        "D": "They look the bus."
+        "B": "I look after my dinner at a restaurant.",
+        "C": "She looked a new book on a lunch break.",
+        "D": "They look the bus arriving at 2 pm."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -521,10 +521,10 @@
       "id": 44,
       "question": "Based on the passage, which animal lives in the Arctic?",
       "options": {
-        "A": "Penguin",
+        "A": "Emperor penguin",
         "B": "Polar bear",
-        "C": "Lion",
-        "D": "Elephant"
+        "C": "Sea lion",
+        "D": "White shark"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -570,7 +570,7 @@
       "question": "Based on the passage, why do scientists study the polar regions?",
       "options": {
         "A": "To understand climate change",
-        "B": "To find new animals",
+        "B": "To find new animals and plants",
         "C": "To build cities there",
         "D": "To learn new languages"
       },
@@ -593,9 +593,9 @@
       "id": 50,
       "question": "What is the main topic of this passage?",
       "options": {
-        "A": "Animals in cold regions",
+        "A": "Animals and plants in polar regions of the Earth",
         "B": "The North and South Poles and their characteristics",
-        "C": "Global warming and climate change",
+        "C": "Global warming and climate change across the globe",
         "D": "Scientific research stations around the world"
       },
       "correct_answer": "B",
