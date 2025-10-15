@@ -3,91 +3,91 @@
   "questions": [
     {
       "id": 1,
-      "question": "She ___ TV every evening.",
+      "question": "Choose the odd verb",
       "options": {
-        "A": "watches",
-        "B": "watch",
-        "C": "watching",
-        "D": "is watch"
+        "A": "to find",
+        "B": "to search",
+        "C": "to seek",
+        "D": "to look for"
       },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 2,
-      "question": "They ___ to the beach last weekend.",
+      "question": "They ___ the British Museum many times.",
       "options": {
-        "A": "goes",
-        "B": "go",
-        "C": "went",
-        "D": "going"
+        "A": "have gone",
+        "B": "have traveled",
+        "C": "have visited",
+        "D": "have been"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 3,
-      "question": "___ you like to drink some coffee?",
+      "question": "___ you like to drink ___ coffee?",
       "options": {
-        "A": "Do",
-        "B": "Would",
-        "C": "Are",
-        "D": "Have"
+        "A": "Do/any",
+        "B": "Would/some",
+        "C": "Are/much",
+        "D": "Have/some"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 4,
-      "question": "He ___ born in 2010.",
+      "question": "He ___ ___ in 2010.",
       "options": {
-        "A": "is",
-        "B": "was",
-        "C": "were",
-        "D": "has"
+        "A": "is/born",
+        "B": "was/born",
+        "C": "were/borne",
+        "D": "has/board"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 5,
-      "question": "I ___ to the cinema twice this month.",
+      "question": "I ___ to the cinema if I have free time.",
       "options": {
-        "A": "go",
-        "B": "went",
-        "C": "have been",
-        "D": "going"
+        "A": "will",
+        "B": "am going",
+        "C": "will go",
+        "D": "have gone"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 6,
-      "question": "The book is ___ the table.",
+      "question": "Alice ___ Wonderland",
       "options": {
-        "A": "in",
-        "B": "at",
-        "C": "on",
-        "D": "by"
+        "A": "at",
+        "B": "on",
+        "C": "in",
+        "D": "from"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 7,
-      "question": "She ___ to school by bus.",
+      "question": "She ___ to Thailand ___ plane.",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "going",
-        "D": "gone"
+        "A": "flied/by",
+        "B": "flew/by",
+        "C": "flown/on",
+        "D": "flew/in"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 8,
-      "question": "We ___ dinner when the phone rang.",
+      "question": "We ___ dinner when the rain started.",
       "options": {
         "A": "are having",
         "B": "have",
@@ -102,9 +102,9 @@
       "question": "She ___ play tennis when she was younger.",
       "options": {
         "A": "can",
-        "B": "could",
-        "C": "is able to",
-        "D": "may"
+        "B": "used to",
+        "C": "would",
+        "D": "might"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -135,7 +135,7 @@
     },
     {
       "id": 12,
-      "question": "This is ___ interesting book.",
+      "question": "'Jaws' is ___ interesting movie.",
       "options": {
         "A": "a",
         "B": "an",
@@ -147,12 +147,12 @@
     },
     {
       "id": 13,
-      "question": "If it ___ tomorrow, we will stay home.",
+      "question": "If it ___ tomorrow, we will ride bikes at the park.",
       "options": {
-        "A": "rain",
-        "B": "rains",
-        "C": "will rain",
-        "D": "raining"
+        "A": "sunny",
+        "B": "is sunny",
+        "C": "will be sunny",
+        "D": "is going to be sunny"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -185,12 +185,12 @@
       "id": 16,
       "question": "He ___ to the store to buy milk.",
       "options": {
-        "A": "went",
+        "A": "departed",
         "B": "walked",
         "C": "reached",
         "D": "arrived"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
@@ -231,12 +231,12 @@
     },
     {
       "id": 20,
-      "question": "Can you ___ me a favor?",
+      "question": "Can you ___ me ___ favor?",
       "options": {
-        "A": "make",
-        "B": "do",
-        "C": "give",
-        "D": "take"
+        "A": "make/a",
+        "B": "do/a",
+        "C": "do/the",
+        "D": "make/the"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -259,7 +259,7 @@
       "options": {
         "A": "caught",
         "B": "took",
-        "C": "made",
+        "C": "fought",
         "D": "felt"
       },
       "correct_answer": "A",
@@ -283,7 +283,7 @@
       "options": {
         "A": "did",
         "B": "had",
-        "C": "made",
+        "C": "got",
         "D": "took"
       },
       "correct_answer": "B",
@@ -293,9 +293,9 @@
       "id": 25,
       "question": "Can you ___ the TV, please? It's too loud.",
       "options": {
-        "A": "close",
-        "B": "stop",
-        "C": "shut",
+        "A": "close in",
+        "B": "stop over",
+        "C": "shut up",
         "D": "turn down"
       },
       "correct_answer": "D",
@@ -305,12 +305,12 @@
       "id": 26,
       "question": "We buy ___ at the bakery.",
       "options": {
-        "A": "bread",
+        "A": "flour",
         "B": "cake",
         "C": "rice",
         "D": "milk"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
@@ -342,7 +342,7 @@
       "question": "Young children are also called ___.",
       "options": {
         "A": "adults",
-        "B": "teens",
+        "B": "toddlers",
         "C": "kids",
         "D": "babies"
       },
@@ -356,7 +356,7 @@
         "A": "orange",
         "B": "apple",
         "C": "banana",
-        "D": "grape"
+        "D": "melon"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -403,8 +403,8 @@
       "options": {
         "A": "book",
         "B": "sign",
-        "C": "chair",
-        "D": "bag"
+        "C": "board",
+        "D": "turn"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -511,7 +511,7 @@
       "options": {
         "A": "Rain",
         "B": "Wind",
-        "C": "The sun",
+        "C": "Sun",
         "D": "Snow"
       },
       "correct_answer": "C",
@@ -546,9 +546,9 @@
       "question": "What was the early version of the zipper called?",
       "options": {
         "A": "Automatic continuous clothing closure",
-        "B": "Metal teeth lock",
-        "C": "Modern zipper",
-        "D": "Clothing fastener"
+        "B": "Metal teeth lightning lock",
+        "C": "Originally designed clothing zipper",
+        "D": "Fast clothing fastener"
       },
       "correct_answer": "A",
       "category": "Reading"
@@ -557,9 +557,9 @@
       "id": 47,
       "question": "According to the passage, what material were early pencils wrapped in?",
       "options": {
-        "A": "Paper",
-        "B": "Wood",
-        "C": "Metal",
+        "A": "Paper or cotton",
+        "B": "Wood or hard plastic",
+        "C": "Gold or silver",
         "D": "String or sheep skin"
       },
       "correct_answer": "D",
@@ -572,7 +572,7 @@
         "A": "The paper",
         "B": "The pencil",
         "C": "The umbrella",
-        "D": "The modern zipper"
+        "D": "The zipper"
       },
       "correct_answer": "D",
       "category": "Reading"
@@ -593,8 +593,8 @@
       "id": 50,
       "question": "What is the main idea of the passage?",
       "options": {
-        "A": "How to make paper and pencils",
-        "B": "The history of Egyptian inventions",
+        "A": "How to make paper, pencils, and zippers",
+        "B": "The history of inventions from Egypt till now",
         "C": "How simple inventions changed our daily lives",
         "D": "Why zippers are better than buttons"
       },
