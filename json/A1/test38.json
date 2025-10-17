@@ -3,11 +3,11 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which word describes a person who works?",
+      "question": "Which is another word for work?",
       "options": {
         "A": "resource",
         "B": "labor",
-        "C": "social",
+        "C": "walk",
         "D": "agency"
       },
       "correct_answer": "B",
@@ -17,10 +17,10 @@
       "id": 2,
       "question": "The opposite of 'single' is _____.",
       "options": {
-        "A": "double",
+        "A": "multiple",
         "B": "series",
-        "C": "social",
-        "D": "land"
+        "C": "lot",
+        "D": "much"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -29,10 +29,10 @@
       "id": 3,
       "question": "What do we call a large wild cat with brown-yellow fur?",
       "options": {
-        "A": "resource",
-        "B": "launch",
+        "A": "tiger",
+        "B": "cheetah",
         "C": "lion",
-        "D": "labor"
+        "D": "puma"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -41,10 +41,10 @@
       "id": 4,
       "question": "When you _____ for someone, you stay in one place until they arrive.",
       "options": {
-        "A": "launch",
+        "A": "help",
         "B": "wait",
-        "C": "sleep",
-        "D": "happen"
+        "C": "walk",
+        "D": "promise"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -54,9 +54,9 @@
       "question": "Which word means 'to start' something new?",
       "options": {
         "A": "land",
-        "B": "labor",
+        "B": "star",
         "C": "launch",
-        "D": "wait"
+        "D": "begging"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -65,22 +65,22 @@
       "id": 6,
       "question": "A _____ is a group of things that come one after another.",
       "options": {
-        "A": "resource",
-        "B": "launch",
+        "A": "column",
+        "B": "letter",
         "C": "series",
-        "D": "double"
+        "D": "number"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 7,
-      "question": "Which word means 'to rest' with your eyes closed?",
+      "question": "Which word means 'to rest'?",
       "options": {
-        "A": "wait",
+        "A": "dinner",
         "B": "sleep",
-        "C": "answer",
-        "D": "happen"
+        "C": "run",
+        "D": "remain"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -91,8 +91,8 @@
       "options": {
         "A": "agency",
         "B": "resource",
-        "C": "answer",
-        "D": "labor"
+        "C": "board",
+        "D": "station"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -101,10 +101,10 @@
       "id": 9,
       "question": "Which word means 'to occur' or 'to take place'?",
       "options": {
-        "A": "launch",
-        "B": "wait",
+        "A": "happy",
+        "B": "heap",
         "C": "happen",
-        "D": "could"
+        "D": "hope"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -113,10 +113,10 @@
       "id": 10,
       "question": "Something that is _____ relates to life in groups or communities.",
       "options": {
-        "A": "resource",
+        "A": "local",
         "B": "social",
-        "C": "series",
-        "D": "land"
+        "C": "socialist",
+        "D": "communist"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -126,9 +126,9 @@
       "question": "A _____ is something useful that we can use when needed.",
       "options": {
         "A": "resource",
-        "B": "agency",
-        "C": "launch",
-        "D": "series"
+        "B": "source",
+        "C": "soar",
+        "D": "sour"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -137,10 +137,10 @@
       "id": 12,
       "question": "Which word describes the ground or soil?",
       "options": {
-        "A": "labor",
-        "B": "resource",
+        "A": "level",
+        "B": "down",
         "C": "land",
-        "D": "agency"
+        "D": "lend"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -149,22 +149,22 @@
       "id": 13,
       "question": "_____ is the past form of 'can'.",
       "options": {
-        "A": "happen",
+        "A": "canned",
         "B": "could",
-        "C": "wait",
-        "D": "answer"
+        "C": "caned",
+        "D": "cannot"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 14,
-      "question": "A _____ checks your knowledge or ability.",
+      "question": "'To _____' means to check your knowledge or ability.",
       "options": {
         "A": "test",
-        "B": "resource",
-        "C": "launch",
-        "D": "series"
+        "B": "write",
+        "C": "listen",
+        "D": "speak"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -173,9 +173,9 @@
       "id": 15,
       "question": "When someone asks a question, you give an _____.",
       "options": {
-        "A": "agency",
-        "B": "labor",
-        "C": "resource",
+        "A": "approval",
+        "B": "interest",
+        "C": "opinion",
         "D": "answer"
       },
       "correct_answer": "D",
@@ -183,50 +183,50 @@
     },
     {
       "id": 16,
-      "question": "I _____ a student.",
+      "question": "They _____ students for three years.",
       "options": {
-        "A": "is",
-        "B": "am",
-        "C": "are",
-        "D": "be"
+        "A": "been",
+        "B": "have been",
+        "C": "has been",
+        "D": "were"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 17,
-      "question": "She _____ to school every day.",
+      "question": "The trees _____ _____ than they _____.",
       "options": {
-        "A": "go",
-        "B": "going",
-        "C": "goes",
-        "D": "gone"
+        "A": "grew/fast/taught",
+        "B": "grown/faster/thought",
+        "C": "grew/faster/thought",
+        "D": "grown/fast/taught"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 18,
-      "question": "They _____ watching TV now.",
+      "question": "They _____ watching a movie _____.",
       "options": {
-        "A": "is",
-        "B": "am",
-        "C": "be",
-        "D": "are"
+        "A": "-/now",
+        "B": "are/then",
+        "C": "were/now",
+        "D": "are/now"
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 19,
-      "question": "_____ you like coffee?",
+      "question": "_____ you my driver?",
       "options": {
         "A": "Do",
         "B": "Are",
         "C": "Is",
         "D": "Does"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
@@ -267,36 +267,36 @@
     },
     {
       "id": 23,
-      "question": "He _____ breakfast at 7 AM yesterday.",
+      "question": "They were 10 minutes _____.",
       "options": {
-        "A": "has",
-        "B": "having",
-        "C": "have",
-        "D": "had"
+        "A": "latest",
+        "B": "pass",
+        "C": "past",
+        "D": "late"
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 24,
-      "question": "There _____ a book on the table.",
+      "question": "There _____ _____ orange and _____ banana in the fridge.",
       "options": {
-        "A": "is",
-        "B": "are",
-        "C": "be",
-        "D": "am"
+        "A": "is/an/a",
+        "B": "are/an/a",
+        "C": "are/a/a",
+        "D": "is/-/-"
       },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 25,
-      "question": "We _____ going to the park tomorrow.",
+      "question": "We are _____ the park tomorrow.",
       "options": {
-        "A": "is",
-        "B": "am",
-        "C": "are",
-        "D": "be"
+        "A": "will go",
+        "B": "will be going",
+        "C": "going to",
+        "D": "gone to"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -308,14 +308,14 @@
         "A": "a",
         "B": "an",
         "C": "the",
-        "D": "no article"
+        "D": "-"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 27,
-      "question": "My birthday is _____ May.",
+      "question": "My birthday is _____ August.",
       "options": {
         "A": "in",
         "B": "on",
@@ -342,56 +342,56 @@
       "question": "I can _____ English.",
       "options": {
         "A": "speak",
-        "B": "speaking",
-        "C": "speaks",
-        "D": "spoke"
+        "B": "tell",
+        "C": "talk",
+        "D": "explain"
       },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 30,
-      "question": "She is _____ than her brother.",
+      "question": "She is the _____ in her class.",
       "options": {
         "A": "tall",
         "B": "taller",
         "C": "tallest",
         "D": "more tall"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 31,
       "question": "Can you help me _____?",
       "options": {
-        "A": "with homework my",
-        "B": "homework with my",
+        "A": "with homework of me",
+        "B": "with mine homework",
         "C": "with my homework",
-        "D": "my with homework"
+        "D": "with me homework"
       },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 32,
-      "question": "I'm sorry, I don't _____ what you're saying.",
+      "question": "I'm sorry, I wasn't _____ to what you're saying.",
       "options": {
-        "A": "understand",
-        "B": "know",
-        "C": "listen",
-        "D": "hear"
+        "A": "understanding",
+        "B": "knowing",
+        "C": "listening",
+        "D": "hearing"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 33,
       "question": "Can I _____ your pen, please?",
       "options": {
-        "A": "use",
-        "B": "get",
-        "C": "have",
+        "A": "lend",
+        "B": "bring",
+        "C": "give",
         "D": "borrow"
       },
       "correct_answer": "D",
@@ -402,33 +402,33 @@
       "question": "_____ name is John. He's my brother.",
       "options": {
         "A": "His",
-        "B": "Her",
-        "C": "My",
-        "D": "Your"
+        "B": "He's",
+        "C": "Hes",
+        "D": "Him"
       },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 35,
-      "question": "I usually _____ breakfast at 7 AM.",
+      "question": "I _____ play chess when I _____ young.",
       "options": {
-        "A": "do",
-        "B": "make",
-        "C": "have",
-        "D": "eat"
+        "A": "used/were",
+        "B": "used/was",
+        "C": "used to/was",
+        "D": "used to/is"
       },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 36,
-      "question": "Let's _____ a coffee together sometime.",
+      "question": "Do you _____ pizza or sushi?",
       "options": {
-        "A": "drink",
-        "B": "have",
-        "C": "take",
-        "D": "make"
+        "A": "perfect",
+        "B": "prefer",
+        "C": "refer",
+        "D": "refine"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -437,10 +437,10 @@
       "id": 37,
       "question": "What time do you _____ up in the morning?",
       "options": {
-        "A": "stand",
+        "A": "walk",
         "B": "go",
         "C": "get",
-        "D": "wake"
+        "D": "wait"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -569,7 +569,7 @@
       "id": 48,
       "question": "The passage suggests that good teachers:",
       "options": {
-        "A": "only focus on smart students",
+        "A": "only focus on smart students and ignore others",
         "B": "recognize different learning styles",
         "C": "prefer quiet classrooms",
         "D": "avoid asking questions"
@@ -593,7 +593,7 @@
       "id": 50,
       "question": "What is the main purpose of this passage?",
       "options": {
-        "A": "To explain why teachers are important",
+        "A": "To explain why teachers are important for students",
         "B": "To describe how teachers help students learn",
         "C": "To compare different teaching methods",
         "D": "To explain how to become a teacher"
