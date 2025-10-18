@@ -3,351 +3,601 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which form of the verb is correct? She _____ TV every evening.",
-      "options": {"A": "watch", "B": "watches", "C": "watching", "D": "is watch"},
+      "question": "Which form of the verb is correct? She _____ seen this movie.",
+      "options": {
+        "A": "have never",
+        "B": "has never",
+        "C": "never",
+        "D": "has ever"
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 2,
       "question": "Select the correct sentence.",
-      "options": {"A": "I not like coffee.", "B": "I don't like coffee.", "C": "I no like coffee.", "D": "I doesn't like coffee."},
+      "options": {
+        "A": "I like either apples nor bananas.", 
+        "B": "I like neither apples nor bananas.", 
+        "C": "I like neither apples or bananas.", 
+        "D": "I like neither apples and bananas."
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 3,
       "question": "Which sentence is correct?",
-      "options": {"A": "She go to school by bus.", "B": "She goes to school with bus.", "C": "She goes to school by bus.", "D": "She going to school by bus."},
+      "options": {
+        "A": "She goes to school on bus.",
+        "B": "She goes to school with bus.",
+        "C": "She goes to school by bus.", 
+        "D": "She goes to school in bus."
+      },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 4,
-      "question": "Complete the sentence with the correct form: They _____ dinner when I called.",
-      "options": {"A": "were having", "B": "are having", "C": "have", "D": "was having"},
+      "question": "Complete the sentence with the correct form: They _____ when I called.",
+      "options": {
+        "A": "were surprised",
+        "B": "are surprised", 
+        "C": "have been surprised",
+        "D": "had been surprised"
+      },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 5,
       "question": "Which is the correct question form?",
-      "options": {"A": "Where you are going?", "B": "Where are you going?", "C": "Where going you are?", "D": "Where you going?"},
+      "options": {
+        "A": "Where has you been?",
+        "B": "Where have you been?", 
+        "C": "Where did you been?",
+        "D": "Where were you been?"
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 6,
-      "question": "Choose the correct past tense form: Yesterday, I _____ to the store.",
-      "options": {"A": "go", "B": "gone", "C": "went", "D": "going"},
+      "question": "Choose the correct past tense form: Yesterday, I _____ some candles for my _____ birthday.",
+      "options": {
+        "A": "brought/sister",
+        "B": "bought/sisters",
+        "C": "bought/sister's", 
+        "D": "brought/sisters"
+      },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 7,
-      "question": "Which is the correct plural form?",
-      "options": {"A": "childs", "B": "childes", "C": "childrens", "D": "children"},
+      "question": "Which is the correct singular form of 'children' and 'students'?",
+      "options": {
+        "A": "childe/studen", 
+        "B": "childe/student",
+        "C": "child/stud", 
+        "D": "child/student"
+      },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 8,
-      "question": "Select the correct preposition: The cat is _____ the table.",
-      "options": {"A": "at", "B": "on", "C": "in", "D": "by"},
+      "question": "Select the correct preposition: This cat is _____.",
+      "options": {
+        "A": "an orange", 
+        "B": "orange", 
+        "C": "a orange",
+        "D": "the orange"
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 9,
       "question": "Which article is correct? _____ apple is red.",
-      "options": {"A": "A", "B": "An", "C": "The", "D": "No article needed"},
+      "options": {
+        "A": "A",
+        "B": "An",
+        "C": "The", 
+        "D": "-"
+      },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 10,
-      "question": "Choose the correct comparative form: This book is _____ than that one.",
-      "options": {"A": "more interesting", "B": "interestinger", "C": "most interesting", "D": "the more interesting"},
-      "correct_answer": "A",
+      "question": "Choose the correct comparative form: This topic is _____ than that one.",
+      "options": {
+        "A": "more clear",
+        "B": "clearest", 
+        "C": "clearer", 
+        "D": "more clearer"
+      },
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 11,
       "question": "Which is the correct possessive form?",
-      "options": {"A": "The dog's tail", "B": "The tail of dog", "C": "The dogs tail", "D": "The tail dog's"},
+      "options": {
+        "A": "The dog's tail", 
+        "B": "The tail of dog", 
+        "C": "The dogs tail", 
+        "D": "The tail dog's"
+      },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 12,
-      "question": "Select the correct verb form: They _____ here since 2010.",
-      "options": {"A": "live", "B": "are living", "C": "have lived", "D": "living"},
+      "question": "Select the correct verb form: They _____ there since 2010.",
+      "options": {
+        "A": "been", 
+        "B": "aren't been",
+        "C": "haven't been",
+        "D": "weren't"
+      },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 13,
       "question": "Which sentence has the correct word order?",
-      "options": {"A": "Always she is late.", "B": "She is always late.", "C": "She always is late.", "D": "Is she always late."},
+      "options": {
+        "A": "Always she is late.",
+        "B": "She is always late.", 
+        "C": "She always is late.", 
+        "D": "Is she always late."
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 14,
       "question": "Choose the correct modal verb: You _____ smoke in hospitals.",
-      "options": {"A": "don't have to", "B": "mustn't", "C": "wouldn't", "D": "shouldn't to"},
+      "options": {
+        "A": "don't have to",
+        "B": "mustn't", 
+        "C": "wouldn't", 
+        "D": "shouldn't to"
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 15,
       "question": "Which form is correct? He asked me _____ help him.",
-      "options": {"A": "for", "B": "that", "C": "to", "D": "if"},
+      "options": {
+        "A": "for",
+        "B": "that", 
+        "C": "to",
+        "D": "if"
+      },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 16,
       "question": "Complete the sentence: If it rains, we _____ stay home.",
-      "options": {"A": "would", "B": "should", "C": "must", "D": "will"},
+      "options": {
+        "A": "would",
+        "B": "should", 
+        "C": "must",
+        "D": "will"
+      },
       "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 17,
       "question": "Choose the correct phrase: I'm not sure, but I _____ be late.",
-      "options": {"A": "can", "B": "must", "C": "might", "D": "shall"},
+      "options": {
+        "A": "can", 
+        "B": "must",
+        "C": "might",
+        "D": "shall"
+      },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 18,
       "question": "Select the best phrase to complete: She's good _____ speaking English.",
-      "options": {"A": "in", "B": "at", "C": "on", "D": "with"},
+      "options": {
+        "A": "in",
+        "B": "at",
+        "C": "on", 
+        "D": "with"
+      },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 19,
-      "question": "Choose the correct response to 'How are you?'",
-      "options": {"A": "I'm 25 years old.", "B": "I'm a teacher.", "C": "I'm fine, thanks.", "D": "I'm from Spain."},
+      "question": "Choose the correct response to 'Did you do your homework?'",
+      "options": {
+        "A": "No, I did.", 
+        "B": "No, I dident.",
+        "C": "No, I didn't.",
+        "D": "No, I didnt."
+      },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 20,
       "question": "Which expression is correct for offering help?",
-      "options": {"A": "Would you mind I help you?", "B": "Shall I help you?", "C": "Do I help you?", "D": "Would I help you?"},
+      "options": {
+        "A": "Shell I help you?",
+        "B": "Shall I help you?",
+        "C": "Do I help you?", 
+        "D": "Would I help you?"
+      },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 21,
       "question": "Select the correct time expression: I'll see you _____ Tuesday.",
-      "options": {"A": "in", "B": "at", "C": "on", "D": "by"},
+      "options": {
+        "A": "in",
+        "B": "at", 
+        "C": "on", 
+        "D": "by"
+      },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 22,
       "question": "Which is the correct linking word? I like tea _____ I don't like coffee.",
-      "options": {"A": "so", "B": "because", "C": "but", "D": "or"},
+      "options": {
+        "A": "so", 
+        "B": "because",
+        "C": "but", 
+        "D": "or"
+      },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 23,
       "question": "Select the correct phrase for making a suggestion:",
-      "options": {"A": "Why don't we go for a walk?", "B": "I go for a walk.", "C": "Let's not go for a walk.", "D": "We must go for a walk."},
+      "options": {
+        "A": "Why don't we go for a walk?", 
+        "B": "Will we go for a walk?",
+        "C": "Let not go for a walk?", 
+        "D": "Why must we go for a walk?"
+      },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 24,
       "question": "Choose the correct phrase to express agreement:",
-      "options": {"A": "I don't think so.", "B": "I'm not sure.", "C": "That's right.", "D": "Not really."},
+      "options": {
+        "A": "I don't think so.", 
+        "B": "I'm not sure.", 
+        "C": "That's right.", 
+        "D": "That's not right."
+      },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 25,
       "question": "Which is the correct way to ask for permission?",
-      "options": {"A": "Can I open the window?", "B": "I open the window?", "C": "I will open the window?", "D": "Open the window?"},
+      "options": {
+        "A": "Can I open the window?", 
+        "B": "Should I open the window?", 
+        "C": "Will I open the window?", 
+        "D": "Shall I open the window?"
+      },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 26,
       "question": "What does 'though' mean in this sentence? 'It was raining, though not heavily.'",
-      "options": {"A": "because", "B": "but", "C": "if", "D": "when"},
+      "options": {
+        "A": "because",
+        "B": "but", 
+        "C": "if", 
+        "D": "when"
+      },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 27,
       "question": "Choose the correct meaning of 'keep' in 'Please keep quiet in the library.'",
-      "options": {"A": "stay", "B": "hold", "C": "continue to be", "D": "like"},
+      "options": {
+        "A": "leave", 
+        "B": "hold", 
+        "C": "stay",
+        "D": "like"
+      },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 28,
       "question": "Which sentence uses 'meat' correctly?",
-      "options": {"A": "I need to meat you at 5 PM.", "B": "Chicken is a type of meat.", "C": "The meat of the story is interesting.", "D": "She likes to meat new people."},
+      "options": {
+        "A": "I need to meat you at 5 PM.", 
+        "B": "The only meat we have is chicken.",
+        "C": "The meat of the story is interesting.", 
+        "D": "She likes to meat new people."
+      },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 29,
       "question": "What does 'fine' mean in 'That's a fine idea!'?",
-      "options": {"A": "money you pay for breaking rules", "B": "very small or thin", "C": "good or excellent", "D": "acceptable but not great"},
+      "options": {
+        "A": "money you pay for breaking rules", 
+        "B": "very small or thin", 
+        "C": "good or excellent", 
+        "D": "acceptable but not great"
+      },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 30,
       "question": "Which sentence uses 'fight' correctly?",
-      "options": {"A": "They fight a lot of time together.", "B": "The children fight for the last piece of cake.", "C": "I will fight you tomorrow.", "D": "We need to fight the problem."},
+      "options": {
+        "A": "They fight against a lot of time together.",
+        "B": "The children fight for the cake.", 
+        "C": "I will fight your tomorrow.",
+        "D": "We need to fight the problem."
+      },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 31,
       "question": "What does 'give' mean in 'Can you give me a hand?'",
-      "options": {"A": "provide a body part", "B": "help", "C": "donate", "D": "pass something"},
+      "options": {
+        "A": "shake", 
+        "B": "help",
+        "C": "donate",
+        "D": "pass"
+      },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 32,
       "question": "Choose the correct sentence with 'thing':",
-      "options": {"A": "I thing about you all the time.", "B": "That thing is very heavy.", "C": "She things a nice song.", "D": "They thing the work is easy."},
+      "options": {
+        "A": "I thing about you all the time.", 
+        "B": "That thing is very heavy.",
+        "C": "She things a nice song.",
+        "D": "They thing the work is easy."
+      },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 33,
       "question": "Which word is the opposite of 'happy'?",
-      "options": {"A": "sad", "B": "angry", "C": "tired", "D": "busy"},
+      "options": {
+        "A": "sad", 
+        "B": "angry", 
+        "C": "tired", 
+        "D": "busy"
+      },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 34,
       "question": "What do you use a pencil for?",
-      "options": {"A": "to eat food", "B": "to write or draw", "C": "to open doors", "D": "to play music"},
+      "options": {
+        "A": "to eat food", 
+        "B": "to draw pictures",
+        "C": "to open doors", 
+        "D": "to play music"
+      },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 35,
-      "question": "Which sentence uses 'drink' correctly?",
-      "options": {"A": "I drink a sandwich for lunch.", "B": "She drinks her homework.", "C": "They drink water every day.", "D": "He drinks the movie."},
+      "question": "Which sentence is correct?",
+      "options": {
+        "A": "I drink a cocktail yesterday.", 
+        "B": "She will drank coffee tomorrow.", 
+        "C": "He was drunk and happy.", 
+        "D": "He drunk a lot of wine."
+      },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 36,
-      "question": "What does 'rent' mean?",
-      "options": {"A": "to buy something", "B": "to sell something", "C": "to pay money to use something for a time", "D": "to give something for free"},
+      "question": "What does it mean 'to pay money to use something for a time'?",
+      "options": {
+        "A": "to buy",
+        "B": "to sell", 
+        "C": "to rent",
+        "D": "to read"
+      },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 37,
       "question": "Which sentence uses 'plus' correctly?",
-      "options": {"A": "I plus going to the beach.", "B": "Two plus two equals four.", "C": "She plus very tall.", "D": "They plus the car yesterday."},
+      "options": {
+        "A": "She pluses two and two.",
+        "B": "Two plus two equals four.", 
+        "C": "Her plus was very big.", 
+        "D": "Two pluses seven equals nine."
+      },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 38,
       "question": "Choose the correct sentence with 'many':",
-      "options": {"A": "There is many water in the glass.", "B": "How many money do you have?", "C": "I don't have many time.", "D": "There are many students in the class."},
+      "options": {
+        "A": "There is many water in the glass.",
+        "B": "How many money do you have?",
+        "C": "I don't have many time.", 
+        "D": "There are many students in the class."
+      },
       "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 39,
       "question": "What does 'mean' refer to in 'What do you mean?'",
-      "options": {"A": "What are you thinking", "B": "What are you saying", "C": "What are you doing", "D": "What are you seeing"},
+      "options": {
+        "A": "What are you making", 
+        "B": "What are you saying", 
+        "C": "What are you doing", 
+        "D": "What are you seeing"
+      },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 40,
       "question": "Which sentence uses 'forget' correctly?",
-      "options": {"A": "I always forget my keys at home.", "B": "She forgot me to the store.", "C": "They forget a new car.", "D": "He forgets happily."},
+      "options": {
+        "A": "I always forget my keys at home.",
+        "B": "She forgot me to the store.",
+        "C": "They forget where a new car is.",
+        "D": "He forgets everything happily."
+      },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 41,
       "question": "What is photosynthesis according to the passage?",
-      "options": {"A": "A type of plant", "B": "How plants make their own food", "C": "A part of the leaf", "D": "When plants grow taller"},
+      "options": {
+        "A": "How plants use water in their roots",
+        "B": "How plants make their own food",
+        "C": "A part of the leaf", 
+        "D": "When plants grow taller"
+      },
       "correct_answer": "B",
       "category": "Reading"
     },
     {
       "id": 42,
       "question": "According to paragraph 1, leaves are like:",
-      "options": {"A": "small suns", "B": "water containers", "C": "food factories", "D": "green houses"},
+      "options": {
+        "A": "small suns", 
+        "B": "water containers",
+        "C": "food factories", 
+        "D": "green houses"
+      },
       "correct_answer": "C",
       "category": "Reading"
     },
     {
       "id": 43,
       "question": "What enters the plant through stomata?",
-      "options": {"A": "Sunlight", "B": "Water", "C": "Carbon dioxide", "D": "Oxygen"},
+      "options": {
+        "A": "Sulfur dioxide",
+        "B": "Water", 
+        "C": "Carbon dioxide", 
+        "D": "Oxygen"
+      },
       "correct_answer": "C",
       "category": "Reading"
     },
     {
       "id": 44,
       "question": "Where does water enter the plant?",
-      "options": {"A": "Leaves", "B": "Stem", "C": "Roots", "D": "Stomata"},
+      "options": {
+        "A": "Leaves", 
+        "B": "Stem", 
+        "C": "Roots", 
+        "D": "Stomata"
+      },
       "correct_answer": "C",
       "category": "Reading"
     },
     {
       "id": 45,
       "question": "What is chlorophyll?",
-      "options": {"A": "A type of food", "B": "A green material in leaves", "C": "A gas plants need", "D": "A part of the stem"},
+      "options": {
+        "A": "A branch of the plant",
+        "B": "A green material in leaves",
+        "C": "A gas plants need to grow", 
+        "D": "A part of the stem"
+      },
       "correct_answer": "B",
       "category": "Reading"
     },
     {
       "id": 46,
       "question": "What do plants make from water and carbon dioxide?",
-      "options": {"A": "Chlorophyll and water", "B": "Stomata and roots", "C": "Glucose and oxygen", "D": "Sunlight and energy"},
+      "options": {
+        "A": "Chlorophyll and salt",
+        "B": "Stomata and roots", 
+        "C": "Glucose and oxygen",
+        "D": "Sunlight and energy"
+      },
       "correct_answer": "C",
       "category": "Reading"
     },
     {
       "id": 47,
       "question": "What do plants use glucose for?",
-      "options": {"A": "To make water", "B": "To grow bigger and stronger", "C": "To make more sunlight", "D": "To create carbon dioxide"},
+      "options": {
+        "A": "To make water and oxygen",
+        "B": "To grow bigger and stronger",
+        "C": "To make more sunlight", 
+        "D": "To create more carbon dioxide"
+      },
       "correct_answer": "B",
       "category": "Reading"
     },
     {
       "id": 48,
       "question": "What do plants release into the air?",
-      "options": {"A": "Carbon dioxide", "B": "Glucose", "C": "Chlorophyll", "D": "Oxygen"},
+      "options": {
+        "A": "Carbon dioxide",
+        "B": "Glucose", 
+        "C": "Chlorophyll",
+        "D": "Oxygen"
+      },
       "correct_answer": "D",
       "category": "Reading"
     },
     {
       "id": 49,
       "question": "According to the passage, why are plants important for humans?",
-      "options": {"A": "They provide oxygen and food", "B": "They make the world green", "C": "They produce carbon dioxide", "D": "They store water for us"},
+      "options": {
+        "A": "They provide oxygen and food", 
+        "B": "They make the world green", 
+        "C": "They produce carbon dioxide",
+        "D": "They store water for us"
+      },
       "correct_answer": "A",
       "category": "Reading"
     },
     {
       "id": 50,
       "question": "What is the main idea of this passage?",
-      "options": {"A": "Plants need water to survive", "B": "How photosynthesis works", "C": "Why leaves are green", "D": "How plants grow taller"},
+      "options": {
+        "A": "Plants need water to survive",
+        "B": "How photosynthesis works", 
+        "C": "Why leaves are green",
+        "D": "How plants grow taller"
+      },
       "correct_answer": "B",
       "category": "Reading"
     }
