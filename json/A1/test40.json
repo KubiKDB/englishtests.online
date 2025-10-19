@@ -3,12 +3,12 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which verb form is correct?",
+      "question": "Which sentence is correct?",
       "options": {
-        "A": "She always go to school by bus.",
-        "B": "She always goes to school by bus.",
-        "C": "She always going to school by bus.",
-        "D": "She always gone to school by bus."
+        "A": "It's been six years until she moved here.",
+        "B": "It's been six years since she moved here.",
+        "C": "It's been six years while she moved here.",
+        "D": "It's been six years after she moved here."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -17,10 +17,10 @@
       "id": 2,
       "question": "Choose the correct sentence.",
       "options": {
-        "A": "They am students.",
-        "B": "They is students.",
-        "C": "They are students.",
-        "D": "They be students."
+        "A": "They am students and he is teacher.",
+        "B": "They is students and he are a teacher.",
+        "C": "They are students and he is a teacher.",
+        "D": "They be students and he was a teacher."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -29,10 +29,10 @@
       "id": 3,
       "question": "Which sentence is correct?",
       "options": {
-        "A": "I have two sister.",
-        "B": "I has two sisters.",
-        "C": "I having two sisters.",
-        "D": "I have two sisters."
+        "A": "I have two sister and the brother.",
+        "B": "I has two sisters and an brother.",
+        "C": "I having two sisters and brother.",
+        "D": "I have two sisters and a brother."
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -41,10 +41,10 @@
       "id": 4,
       "question": "Complete the sentence: Where ___ you from?",
       "options": {
-        "A": "is",
+        "A": "did",
         "B": "am",
         "C": "are",
-        "D": "be"
+        "D": "do"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -53,22 +53,22 @@
       "id": 5,
       "question": "Which is the correct past tense form?",
       "options": {
-        "A": "Yesterday I go to the park.",
-        "B": "Yesterday I goes to the park.",
-        "C": "Yesterday I going to the park.",
-        "D": "Yesterday I went to the park."
+        "A": "Yesterday I drunken a glass of coke.",
+        "B": "Yesterday I drunk a glass of coke.",
+        "C": "Yesterday I drinked a glass of coke.",
+        "D": "Yesterday I drank a glass of coke."
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 6,
-      "question": "Select the correct preposition: The book is ___ the table.",
+      "question": "Select the correct preposition: He ___ the street.",
       "options": {
-        "A": "on",
-        "B": "in",
-        "C": "at",
-        "D": "to"
+        "A": "crossed",
+        "B": "across",
+        "C": "acrosses",
+        "D": "accepted"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -77,10 +77,10 @@
       "id": 7,
       "question": "Choose the correct article.",
       "options": {
-        "A": "I have a apple.",
-        "B": "I have an apple.",
-        "C": "I have the apple.",
-        "D": "I have apple."
+        "A": "He visited an university library.",
+        "B": "He visited a university library.",
+        "C": "He visited the university library.",
+        "D": "He visited university library."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -89,22 +89,22 @@
       "id": 8,
       "question": "Which sentence uses the correct possessive adjective?",
       "options": {
-        "A": "This is she book.",
-        "B": "This is his book.",
-        "C": "This is him book.",
-        "D": "This is he book."
+        "A": "This is she property.",
+        "B": "This is his property.",
+        "C": "This is him property.",
+        "D": "This is he property."
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 9,
-      "question": "Which question form is correct?",
+      "question": "Which sentence is correct?",
       "options": {
-        "A": "Where you live?",
-        "B": "Where do you lives?",
-        "C": "Where live you?",
-        "D": "Where do you live?"
+        "A": "The Smiths have ever been to Rio",
+        "B": "The Smiths were never in Rio",
+        "C": "The Smiths haven't never been to Rio",
+        "D": "The Smiths have never been to Rio"
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -113,10 +113,10 @@
       "id": 10,
       "question": "Select the correct sentence with 'there is/are'.",
       "options": {
-        "A": "There is three books on the table.",
-        "B": "There are a book on the table.",
-        "C": "There is a book on the table.",
-        "D": "There be books on the table."
+        "A": "There is three students in the group.",
+        "B": "There are a student in the group.",
+        "C": "There is a student in the group.",
+        "D": "There be students in the group."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -125,10 +125,10 @@
       "id": 11,
       "question": "Choose the correct negative form.",
       "options": {
-        "A": "She don't like coffee.",
-        "B": "She not like coffee.",
-        "C": "She doesn't likes coffee.",
-        "D": "She doesn't like coffee."
+        "A": "He don't like shopping.",
+        "B": "He not like shopping.",
+        "C": "He doesn't likes shopping.",
+        "D": "He doesn't like shopping."
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -137,10 +137,10 @@
       "id": 12,
       "question": "Which is the correct comparative form?",
       "options": {
-        "A": "My house is more big than yours.",
-        "B": "My house is bigger than yours.",
-        "C": "My house is biger than yours.",
-        "D": "My house is the bigger than yours."
+        "A": "My task is longest but complicated than yours.",
+        "B": "My task is longer but less complicated than yours.",
+        "C": "My task is the longest but less complicated than yours.",
+        "D": "My task is longer but more complicated than yours."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -149,10 +149,10 @@
       "id": 13,
       "question": "Choose the correct plural form.",
       "options": {
-        "A": "Two childs",
-        "B": "Two childes",
-        "C": "Two children",
-        "D": "Two childrens"
+        "A": "Tooth",
+        "B": "Toothes",
+        "C": "Teeth",
+        "D": "Twooth"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -161,20 +161,20 @@
       "id": 14,
       "question": "Which sentence has the correct word order?",
       "options": {
-        "A": "She always to school walks.",
-        "B": "She walks always to school.",
-        "C": "She walks to school always.",
-        "D": "She always walks to school."
+        "A": "He usually breakfast eats at home.",
+        "B": "He eats usually breakfast at home.",
+        "C": "He eats breakfast usually at home.",
+        "D": "He usually eats breakfast at home."
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 15,
-      "question": "Select the correct modal verb: You ___ brush your teeth every day.",
+      "question": "Select the correct modal verb: You ___ visit a dentist twice a year.",
       "options": {
-        "A": "must",
-        "B": "can",
+        "A": "should",
+        "B": "could",
         "C": "would",
         "D": "might"
       },
@@ -183,12 +183,12 @@
     },
     {
       "id": 16,
-      "question": "Choose the correct word to complete the sentence: She ___ breakfast every morning.",
+      "question": "Choose the correct word to complete the sentence: ___ me a break!",
       "options": {
-        "A": "does",
-        "B": "makes",
-        "C": "has",
-        "D": "takes"
+        "A": "Take",
+        "B": "Make",
+        "C": "Give",
+        "D": "Get"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -207,11 +207,11 @@
     },
     {
       "id": 18,
-      "question": "Which phrase is used to greet someone in the morning?",
+      "question": "Which phrase is used to say 'goodbye'?",
       "options": {
-        "A": "Good night",
+        "A": "Good morning",
         "B": "Good afternoon",
-        "C": "Good morning",
+        "C": "Good night",
         "D": "Good evening"
       },
       "correct_answer": "C",
@@ -221,10 +221,10 @@
       "id": 19,
       "question": "Choose the correct response to 'Thank you'.",
       "options": {
-        "A": "Please",
-        "B": "You're welcome",
-        "C": "Excuse me",
-        "D": "I'm sorry"
+        "A": "The pleasure is yours",
+        "B": "The pleasure is mine",
+        "C": "The pleasure is ours",
+        "D": "The pleasure is theirs"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -243,24 +243,24 @@
     },
     {
       "id": 21,
-      "question": "Which phrase is used to say goodbye?",
+      "question": "Which phrase is used to greet someone?",
       "options": {
         "A": "Hello",
         "B": "Please",
         "C": "See you later",
-        "D": "How are you"
+        "D": "How are you?"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 22,
-      "question": "Choose the correct phrase: I ___ in a small apartment.",
+      "question": "Choose the correct phrase: I ___ a small apartment.",
       "options": {
-        "A": "live",
-        "B": "stay",
-        "C": "sleep",
-        "D": "sit"
+        "A": "rent",
+        "B": "rant",
+        "C": "ran",
+        "D": "rand"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -281,10 +281,10 @@
       "id": 24,
       "question": "Choose the correct word: I need to ___ my homework tonight.",
       "options": {
-        "A": "make",
-        "B": "do",
-        "C": "write",
-        "D": "work"
+        "A": "end",
+        "B": "finish",
+        "C": "close",
+        "D": "shut"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -303,24 +303,24 @@
     },
     {
       "id": 26,
-      "question": "What is a 'chain'?",
+      "question": "What is a 'connected series of metal links'?",
       "options": {
-        "A": "A type of food",
-        "B": "A connected series of metal links",
-        "C": "A type of car",
-        "D": "A small house"
+        "A": "A chair",
+        "B": "A chain",
+        "C": "A train",
+        "D": "A hair"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 27,
-      "question": "What is an 'element'?",
+      "question": "What is a 'basic part of something'?",
       "options": {
-        "A": "A basic part of something",
-        "B": "A type of animal",
-        "C": "A special kind of food",
-        "D": "A big building"
+        "A": "An element",
+        "B": "An object",
+        "C": "An instrument",
+        "D": "An instance"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -329,10 +329,10 @@
       "id": 28,
       "question": "Which of these is 'brown'?",
       "options": {
-        "A": "A banana",
-        "B": "An orange",
+        "A": "Banana",
+        "B": "Orange",
         "C": "Chocolate",
-        "D": "A lemon"
+        "D": "Lemon"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -353,10 +353,10 @@
       "id": 30,
       "question": "What can you 'drink'?",
       "options": {
-        "A": "A chair",
+        "A": "Ocean",
         "B": "Water",
-        "C": "A book",
-        "D": "A phone"
+        "C": "Shower",
+        "D": "Snow"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -389,22 +389,22 @@
       "id": 33,
       "question": "What is a 'route'?",
       "options": {
-        "A": "A type of fruit",
-        "B": "A way or path from one place to another",
-        "C": "A small animal",
-        "D": "A piece of clothing"
+        "A": "A base",
+        "B": "A way",
+        "C": "A size",
+        "D": "A side"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 34,
-      "question": "Which of these is usually 'green'?",
+      "question": "Which colors are on China's flag?",
       "options": {
-        "A": "The sky",
-        "B": "Grass",
-        "C": "A banana",
-        "D": "Snow"
+        "A": "Green, white, and black",
+        "B": "Red and yellow",
+        "C": "Blue, red, and white",
+        "D": "Blue and yello"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -413,9 +413,9 @@
       "id": 35,
       "question": "What is the 'front' of a building?",
       "options": {
-        "A": "The side with the main entrance",
-        "B": "The back side",
-        "C": "The roof",
+        "A": "The main entrance",
+        "B": "The back entrance",
+        "C": "The back door",
         "D": "The basement"
       },
       "correct_answer": "A",
@@ -423,12 +423,12 @@
     },
     {
       "id": 36,
-      "question": "What does 'dance' mean?",
+      "question": "Which word means 'to move your body to music'?",
       "options": {
-        "A": "To sleep",
-        "B": "To eat food",
-        "C": "To move your body to music",
-        "D": "To write something"
+        "A": "Run",
+        "B": "Jump",
+        "C": "Dance",
+        "D": "Shake"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -437,7 +437,7 @@
       "id": 37,
       "question": "Where do people 'live'?",
       "options": {
-        "A": "In houses or apartments",
+        "A": "In houses",
         "B": "In cars",
         "C": "In schools",
         "D": "In shops"
@@ -447,24 +447,24 @@
     },
     {
       "id": 38,
-      "question": "What is a 'hotel'?",
+      "question": "Which isn't a 'place where people stay when traveling'?",
       "options": {
-        "A": "A place where people work",
-        "B": "A place where people stay when traveling",
-        "C": "A place where people buy food",
-        "D": "A place where people study"
+        "A": "Motel",
+        "B": "Hotel",
+        "C": "Hostel",
+        "D": "Gospel"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 39,
-      "question": "An 'elephant' is:",
+      "question": "A 'large animal with a trunk' is:",
       "options": {
-        "A": "A type of food",
-        "B": "A type of plant",
-        "C": "A large animal with a trunk",
-        "D": "A vehicle"
+        "A": "Giraffe",
+        "B": "Hippo",
+        "C": "Elephant",
+        "D": "Rhino"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -509,7 +509,7 @@
       "id": 43,
       "question": "According to paragraph 2, how do oceans help control our weather?",
       "options": {
-        "A": "They create wind",
+        "A": "They create wind currents",
         "B": "They absorb and move heat",
         "C": "They prevent storms",
         "D": "They block the sun"
@@ -521,10 +521,10 @@
       "id": 44,
       "question": "What do oceans help make, according to paragraph 2?",
       "options": {
-        "A": "Mountains",
-        "B": "Deserts",
+        "A": "Mountains and hills",
+        "B": "Deserts and oases",
         "C": "Clouds and rain",
-        "D": "Plants"
+        "D": "Plants and animals"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -533,10 +533,10 @@
       "id": 45,
       "question": "According to paragraph 3, what do big ships do?",
       "options": {
-        "A": "Fish for food",
-        "B": "Clean the oceans",
+        "A": "Fish for food and treasures",
+        "B": "Clean the oceans from pollution",
         "C": "Carry things between countries",
-        "D": "Study marine life"
+        "D": "Study marine life and geology"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -557,9 +557,9 @@
       "id": 47,
       "question": "According to paragraph 4, what can harm ocean plants and animals?",
       "options": {
-        "A": "Ships",
-        "B": "Swimmers",
-        "C": "Rain",
+        "A": "Ships and boats",
+        "B": "Swimmers and divers",
+        "C": "Storms and hurricanes",
         "D": "Trash and chemicals"
       },
       "correct_answer": "D",
@@ -593,10 +593,10 @@
       "id": 50,
       "question": "Which statement best summarizes the passage?",
       "options": {
-        "A": "Oceans are beautiful but dangerous.",
+        "A": "Oceans are beautiful but dangerous for humans.",
         "B": "Oceans provide many benefits and need our protection.",
-        "C": "People should not put trash in oceans.",
-        "D": "Fish and other sea animals live in oceans."
+        "C": "People should not throw trash in oceans and rivers.",
+        "D": "Fish and other sea animals try to survive in oceans."
       },
       "correct_answer": "B",
       "category": "Reading"
