@@ -3,24 +3,24 @@
   "questions": [
     {
       "id": 1,
-      "question": "Choose the correct form of the verb: 'He _____ breakfast every morning.'",
+      "question": "Choose the correct word: 'He eats _____ every morning.'",
       "options": {
-        "A": "eat",
-        "B": "eats",
-        "C": "eating",
-        "D": "to eat"
+        "A": "dinner",
+        "B": "breakfast",
+        "C": "lunch",
+        "D": "supper"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 2,
-      "question": "Select the correct past tense: 'Last week, we _____ to the museum.'",
+      "question": "Select the correct past tense: 'Last week, we _____ the museum.'",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "went",
-        "D": "going"
+        "A": "are visiting",
+        "B": "were visiting",
+        "C": "visited",
+        "D": "have visited"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -39,12 +39,12 @@
     },
     {
       "id": 4,
-      "question": "Select the correct preposition: 'The book is _____ the table.'",
+      "question": "Select the correct preposition: 'This train goes to Oxford _____ Reading.'",
       "options": {
-        "A": "in",
-        "B": "on",
-        "C": "at",
-        "D": "to"
+        "A": "for",
+        "B": "via",
+        "C": "by",
+        "D": "with"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -53,22 +53,22 @@
       "id": 5,
       "question": "Which sentence is grammatically correct?",
       "options": {
-        "A": "She don't like apples.",
-        "B": "She doesn't likes apples.",
-        "C": "She not like apples.",
-        "D": "She doesn't like apples."
+        "A": "She doesn't like apples or she loves oranges.",
+        "B": "She doesn't like apples also she loves oranges.",
+        "C": "She doesn't like apples so she loves oranges.",
+        "D": "She doesn't like apples but she loves oranges."
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 6,
-      "question": "Choose the correct comparative form: 'This book is _____ than that one.'",
+      "question": "Choose the correct comparative form: 'This problem is _____ than that one.'",
       "options": {
-        "A": "more interesting",
-        "B": "interestinger",
-        "C": "most interesting",
-        "D": "the most interesting"
+        "A": "much easier",
+        "B": "more easier",
+        "C": "most easy",
+        "D": "the most easy"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -87,7 +87,7 @@
     },
     {
       "id": 8,
-      "question": "Choose the correct possessive adjective: 'Mary is talking to _____ mother.'",
+      "question": "Choose the correct possessive adjective: 'Maria is talking to _____ mother.'",
       "options": {
         "A": "she",
         "B": "her",
@@ -104,7 +104,7 @@
         "A": "tomato",
         "B": "tomatos",
         "C": "tomatoes",
-        "D": "tomatoes"
+        "D": "tomats"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -113,10 +113,10 @@
       "id": 10,
       "question": "Which sentence uses the present perfect correctly?",
       "options": {
-        "A": "I have went to Paris.",
-        "B": "I have gone to Paris.",
-        "C": "I have goed to Paris.",
-        "D": "I have going to Paris."
+        "A": "I have went to Seattle.",
+        "B": "I have gone to Seattle.",
+        "C": "I have goed to Seattle.",
+        "D": "I have going to Seattle."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -138,7 +138,7 @@
       "question": "Select the correct modal verb: 'You _____ smoke in this building. It's not allowed.'",
       "options": {
         "A": "don't have to",
-        "B": "must not",
+        "B": "don't must",
         "C": "shouldn't",
         "D": "can't"
       },
@@ -176,7 +176,7 @@
         "A": "visit",
         "B": "am visiting",
         "C": "visited",
-        "D": "will visit"
+        "D": "will be visit"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -209,9 +209,9 @@
       "id": 18,
       "question": "Select the best response to 'How was your weekend?'",
       "options": {
-        "A": "I'm fine, thanks.",
-        "B": "It was great, thank you.",
-        "C": "Yes, I did.",
+        "A": "I'm fine.",
+        "B": "It was great.",
+        "C": "Yes, it was.",
         "D": "No problem."
       },
       "correct_answer": "B",
@@ -245,22 +245,22 @@
       "id": 21,
       "question": "Choose the correct phrase to ask about time.",
       "options": {
-        "A": "What is time?",
-        "B": "What time is it?",
-        "C": "How is the time?",
-        "D": "What does the time?"
+        "A": "It is 5 o'clock already?",
+        "B": "Is it 5 o'clock already?",
+        "C": "Is it 5 clocks already?",
+        "D": "Is it already 5 o'clock?"
       },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 22,
-      "question": "Select the best word to complete the sentence: 'I usually _____ dinner at 7:00.'",
+      "question": "Select the incorrect word to complete the sentence: 'I usually _____ dinner at 7:00.'",
       "options": {
-        "A": "do",
+        "A": "have",
         "B": "make",
         "C": "cook",
-        "D": "have"
+        "D": "want"
       },
       "correct_answer": "D",
       "category": "Use of English"
@@ -282,7 +282,7 @@
       "question": "Select the best word to complete the sentence: 'I don't _____ how to swim.'",
       "options": {
         "A": "know",
-        "B": "understand",
+        "B": "study",
         "C": "learn",
         "D": "make"
       },
@@ -307,8 +307,8 @@
       "options": {
         "A": "rice",
         "B": "sugar",
-        "C": "street",
-        "D": "example"
+        "C": "paint",
+        "D": "milk"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -330,9 +330,9 @@
       "question": "An _____ is something that helps explain an idea.",
       "options": {
         "A": "anything",
-        "B": "night",
+        "B": "issue",
         "C": "example",
-        "D": "school"
+        "D": "exam"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -341,10 +341,10 @@
       "id": 29,
       "question": "A _____ is a road in a city or town with houses or buildings on one or both sides.",
       "options": {
-        "A": "school",
-        "B": "moment",
+        "A": "path",
+        "B": "downtown",
         "C": "street",
-        "D": "sugar"
+        "D": "highway"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -355,8 +355,8 @@
       "options": {
         "A": "Sugar",
         "B": "Rice",
-        "C": "Quarter",
-        "D": "Sorry"
+        "C": "Wheat",
+        "D": "Beans"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -366,21 +366,21 @@
       "question": "If someone asks 'Do you want _____?' they are offering you something to choose.",
       "options": {
         "A": "anything",
-        "B": "sorry",
-        "C": "never",
-        "D": "moment"
+        "B": "everything",
+        "C": "nothing",
+        "D": "something"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 32,
-      "question": "You say '_____ ' when you want to apologize to someone.",
+      "question": "You say '_____ me' when you want to apologize to someone.",
       "options": {
-        "A": "Never",
-        "B": "Sorry",
-        "C": "Follow",
-        "D": "Example"
+        "A": "Sorry",
+        "B": "Excuse",
+        "C": "Execute",
+        "D": "Exercise"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -390,9 +390,9 @@
       "question": "When you _____ a place, you go away from it.",
       "options": {
         "A": "follow",
-        "B": "night",
+        "B": "enter",
         "C": "leave",
-        "D": "quarter"
+        "D": "return"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -402,9 +402,9 @@
       "question": "The time when it is dark and people usually sleep is called _____.",
       "options": {
         "A": "night",
-        "B": "moment",
-        "C": "quarter",
-        "D": "sometimes"
+        "B": "knight",
+        "C": "sight",
+        "D": "fight"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -413,10 +413,10 @@
       "id": 35,
       "question": "To _____ someone means to go in the same direction behind them.",
       "options": {
-        "A": "sorry",
+        "A": "avoid",
         "B": "follow",
-        "C": "leave",
-        "D": "sugar"
+        "C": "across",
+        "D": "together"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -425,10 +425,10 @@
       "id": 36,
       "question": "A very short period of time is called a _____.",
       "options": {
-        "A": "quarter",
-        "B": "sometimes",
+        "A": "hour",
+        "B": "week",
         "C": "moment",
-        "D": "school"
+        "D": "day"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -437,9 +437,9 @@
       "id": 37,
       "question": "A _____ is fifteen minutes, or one fourth of an hour.",
       "options": {
-        "A": "moment",
-        "B": "example",
-        "C": "never",
+        "A": "slice",
+        "B": "whole",
+        "C": "half",
         "D": "quarter"
       },
       "correct_answer": "D",
@@ -450,8 +450,8 @@
       "question": "When something happens not always but not rarely, it happens _____.",
       "options": {
         "A": "never",
-        "B": "some",
-        "C": "anything",
+        "B": "usually",
+        "C": "anytimes",
         "D": "sometimes"
       },
       "correct_answer": "D",
@@ -461,10 +461,10 @@
       "id": 39,
       "question": "Children go to _____ to learn.",
       "options": {
-        "A": "street",
-        "B": "night",
+        "A": "pool",
+        "B": "mall",
         "C": "school",
-        "D": "rice"
+        "D": "market"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -474,9 +474,9 @@
       "question": "If you want a small amount but not all, you want _____.",
       "options": {
         "A": "some",
-        "B": "anything",
-        "C": "never",
-        "D": "sorry"
+        "B": "more",
+        "C": "any",
+        "D": "none"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -524,7 +524,7 @@
         "A": "Because people earned more money",
         "B": "Because goods were produced at lower costs",
         "C": "Because steam engines were cheaper",
-        "D": "Because they worked in factories"
+        "D": "Because they bought goods from factories"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -536,7 +536,7 @@
         "A": "Dangerous working conditions",
         "B": "Lack of transportation options",
         "C": "Pollution from factories",
-        "D": "Child labor"
+        "D": "Child exploitation at factories"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -546,9 +546,9 @@
       "question": "Based on paragraph 3, why did diseases spread easily in industrial cities?",
       "options": {
         "A": "Because there weren't enough doctors",
-        "B": "Because the weather was bad",
-        "C": "Because people worked long hours",
-        "D": "Because living conditions were overcrowded and dirty"
+        "B": "Because the weather conditions were bad",
+        "C": "Because people worked hard and were tired",
+        "D": "Because cities were overcrowded and dirty"
       },
       "correct_answer": "D",
       "category": "Reading"
@@ -557,10 +557,10 @@
       "id": 47,
       "question": "According to paragraph 4, what happened to luxury items during the Industrial Revolution?",
       "options": {
-        "A": "They disappeared",
-        "B": "They became more expensive",
+        "A": "They couldn't be transported to ordinary people",
+        "B": "They became more expensive and not affordable",
         "C": "They became affordable for ordinary people",
-        "D": "They were only sold in cities"
+        "D": "They were only sold in big cities"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -570,7 +570,7 @@
       "question": "What is the main idea of the passage?",
       "options": {
         "A": "The Industrial Revolution created many problems in cities",
-        "B": "Steam engines were the most important invention in history",
+        "B": "Steam engines were the most important invention in modern history",
         "C": "The Industrial Revolution changed how and where people worked and lived",
         "D": "Britain was the most powerful country during the Industrial Revolution"
       },
