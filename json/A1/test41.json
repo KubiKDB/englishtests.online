@@ -3,482 +3,482 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which sentence is grammatically correct?",
+      "question": "My brother is a doctor. ______ works in a big hospital.",
       "options": {
-        "A": "He don't like apples.",
-        "B": "He doesn't like apples.",
-        "C": "He not like apples.",
-        "D": "He do not likes apples."
+        "A": "His",
+        "B": "Him",
+        "C": "He",
+        "D": "She"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 2,
-      "question": "Choose the correct sentence:",
+      "question": "Sofia is from Italy, but her friends ______ from Brazil.",
       "options": {
-        "A": "They is happy.",
-        "B": "They am happy.",
-        "C": "They are happy.",
-        "D": "They be happy."
+        "A": "is",
+        "B": "are",
+        "C": "am",
+        "D": "be"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 3,
-      "question": "Select the correct option:",
+      "question": "I ______ have a car. I use the bus.",
       "options": {
-        "A": "I has a dog.",
-        "B": "I have a dog.",
-        "C": "I having a dog.",
-        "D": "I haves a dog."
+        "A": "do not",
+        "B": "am not",
+        "C": "is not",
+        "D": "not"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 4,
-      "question": "Which is correct?",
+      "question": "Look at those birds! They ______ very fast.",
       "options": {
-        "A": "She read books every day.",
-        "B": "She reading books every day.",
-        "C": "She reads books every day.",
-        "D": "She is read books every day."
+        "A": "fly",
+        "B": "is flying",
+        "C": "flies",
+        "D": "are flying"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "______ is this? It's a key.",
+      "options": {
+        "A": "Where",
+        "B": "Who",
+        "C": "What",
+        "D": "When"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
-      "id": 5,
-      "question": "Choose the correct sentence:",
+      "id": 6,
+      "question": "Is this ______ phone? No, it's not mine.",
       "options": {
-        "A": "We doesn't have any money.",
-        "B": "We don't have any money.",
-        "C": "We not have any money.",
-        "D": "We haven't any money."
+        "A": "you",
+        "B": "your",
+        "C": "yours",
+        "D": "you're"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
-      "id": 6,
-      "question": "Select the correct sentence:",
-      "options": {
-        "A": "She work in a shop.",
-        "B": "She working in a shop.",
-        "C": "She works in a shop.",
-        "D": "She is work in a shop."
-      },
-      "correct_answer": "C",
-      "category": "Grammar"
-    },
-    {
       "id": 7,
-      "question": "Which sentence is grammatically correct?",
+      "question": "We need ______ egg and ______ milk.",
       "options": {
-        "A": "I am student.",
-        "B": "I a student.",
-        "C": "I student.",
-        "D": "I am a student."
+        "A": "a/some",
+        "B": "some/some",
+        "C": "an/any",
+        "D": "an/some"
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 8,
-      "question": "Choose the correct option:",
+      "question": "The children often play ______ the park on Sundays.",
       "options": {
-        "A": "This is an orange.",
-        "B": "This is a orange.",
-        "C": "This a orange.",
-        "D": "This an orange."
+        "A": "at",
+        "B": "on",
+        "C": "to",
+        "D": "in"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 9,
-      "question": "Which is correct?",
+      "question": "My cat ______ water. It only drinks milk.",
       "options": {
-        "A": "He don't go to school.",
-        "B": "He isn't go to school.",
-        "C": "He doesn't goes to school.",
-        "D": "He doesn't go to school."
+        "A": "doesn't like",
+        "B": "don't like",
+        "C": "likes",
+        "D": "is not like"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 10,
-      "question": "Select the correct form:",
+      "question": "______ you help me with this bag, please?",
       "options": {
-        "A": "What time do you get up?",
-        "B": "What time are you get up?",
-        "C": "What time you get up?",
-        "D": "What time does you get up?"
+        "A": "Do",
+        "B": "Are",
+        "C": "Can",
+        "D": "Does"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 11,
-      "question": "Which sentence is correct?",
+      "question": "Look! That is Anna. She ______ a new blue coat.",
       "options": {
-        "A": "She is watch TV now.",
-        "B": "She watching TV now.",
-        "C": "She watches TV now.",
-        "D": "She is watching TV now."
+        "A": "wear",
+        "B": "is wearing",
+        "C": "wears",
+        "D": "wearing"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "I have two ______. One is a boy and one is a girl.",
+      "options": {
+        "A": "childs",
+        "B": "child",
+        "C": "childes",
+        "D": "children"
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
-      "id": 12,
-      "question": "Choose the correct option:",
-      "options": {
-        "A": "I like to swimming.",
-        "B": "I like swimming.",
-        "C": "I liking swimming.",
-        "D": "I like to swimming."
-      },
-      "correct_answer": "B",
-      "category": "Grammar"
-    },
-    {
       "id": 13,
-      "question": "Select the correct sentence:",
+      "question": "There isn't ______ sugar in my coffee.",
       "options": {
-        "A": "Do she like coffee?",
-        "B": "Does she like coffee?",
-        "C": "Does she likes coffee?",
-        "D": "Is she like coffee?"
+        "A": "any",
+        "B": "a",
+        "C": "some",
+        "D": "no"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 14,
-      "question": "Which is grammatically correct?",
+      "question": "He ______ breakfast at 7:00 AM every morning.",
       "options": {
-        "A": "These are my books.",
-        "B": "These is my books.",
-        "C": "These my books.",
-        "D": "This are my books."
+        "A": "is eating",
+        "B": "eats",
+        "C": "eat",
+        "D": "eating"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 15,
-      "question": "Choose the correct option:",
+      "question": "The library is ______ the bank and the post office.",
       "options": {
-        "A": "They study English every day.",
-        "B": "They studies English every day.",
-        "C": "They studying English every day.",
-        "D": "They is study English every day."
+        "A": "within",
+        "B": "next",
+        "C": "besides",
+        "D": "between"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 16,
-      "question": "Choose the word that best completes the sentence: 'She _____ breakfast at 8 o'clock every morning.'",
+      "question": "A: '______ is the train station?' B: 'It's on Park Street.'",
       "options": {
-        "A": "have",
-        "B": "has",
-        "C": "having",
-        "D": "to have"
+        "A": "What",
+        "B": "When",
+        "C": "Where",
+        "D": "Who"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "A: 'Do you like ice cream?' B: 'Yes, I ______.'",
+      "options": {
+        "A": "do",
+        "B": "like",
+        "C": "am",
+        "D": "yes"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "A: 'What time do you go to bed?' B: '______ 10:00 PM.'",
+      "options": {
+        "A": "In",
+        "B": "At",
+        "C": "On",
+        "D": "To"
       },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
-      "id": 17,
-      "question": "Complete the sentence: 'My brother _____ to the cinema yesterday.'",
-      "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "went",
-        "D": "going"
-      },
-      "correct_answer": "C",
-      "category": "Use of English"
-    },
-    {
-      "id": 18,
-      "question": "Fill in the blank: 'There _____ a book on the table.'",
-      "options": {
-        "A": "is",
-        "B": "are",
-        "C": "be",
-        "D": "am"
-      },
-      "correct_answer": "A",
-      "category": "Use of English"
-    },
-    {
       "id": 19,
-      "question": "Complete the sentence: 'I want _____ a new car.'",
+      "question": "A: 'How ______ is a ticket to the museum?' B: 'It's five euros.'",
       "options": {
-        "A": "buy",
-        "B": "buying",
-        "C": "to buy",
-        "D": "buys"
+        "A": "many",
+        "B": "old",
+        "C": "long",
+        "D": "much"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 20,
-      "question": "Choose the correct word: 'We _____ to school by bus.'",
+      "question": "A: '______ have a seat, please.' B: 'Thank you.'",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "going",
-        "D": "went"
+        "A": "Do",
+        "B": "Are",
+        "C": "Be",
+        "D": "Make"
       },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 21,
-      "question": "Fill in the blank: 'He _____ like coffee.'",
+      "question": "A: 'Is this your bag?' B: 'No, it isn't. I think it's ______.'",
       "options": {
-        "A": "don't",
-        "B": "not",
-        "C": "isn't",
-        "D": "doesn't"
+        "A": "her",
+        "B": "she",
+        "C": "hers",
+        "D": "she's"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 22,
-      "question": "Complete the sentence: 'They _____ TV at the moment.'",
+      "question": "A: 'Excuse me, ______ is the time?' B: 'It's half ______ two.'",
       "options": {
-        "A": "watch",
-        "B": "watches",
-        "C": "watching",
-        "D": "are watching"
+        "A": "how/last",
+        "B": "what/past",
+        "C": "what/over",
+        "D": "when/pass"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "A: 'How ______ do you visit your grandparents?' B: 'Every Sunday.'",
+      "options": {
+        "A": "many",
+        "B": "long",
+        "C": "much",
+        "D": "often"
       },
       "correct_answer": "D",
       "category": "Use of English"
     },
     {
-      "id": 23,
-      "question": "Choose the correct option: '_____ you like pizza?'",
-      "options": {
-        "A": "Are",
-        "B": "Do",
-        "C": "Does",
-        "D": "Is"
-      },
-      "correct_answer": "B",
-      "category": "Use of English"
-    },
-    {
       "id": 24,
-      "question": "Fill in the blank: 'I have _____ apple.'",
+      "question": "A: 'I am very thirsty.' B: 'Would you like ______ of water?'",
       "options": {
-        "A": "a",
-        "B": "an",
-        "C": "the",
-        "D": "some"
+        "A": "a glass",
+        "B": "a drop",
+        "C": "a pan",
+        "D": "a plate"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 25,
-      "question": "Complete the sentence: 'She _____ her homework every evening.'",
+      "question": "A: 'Can you speak French?' B: 'No, I ______.'",
       "options": {
-        "A": "do",
-        "B": "does",
-        "C": "doing",
-        "D": "is do"
+        "A": "don't",
+        "B": "am not",
+        "C": "can't",
+        "D": "haven't"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 26,
-      "question": "What does 'global' mean?",
+      "question": "It is the school's ______ that all students must wear a uniform.",
       "options": {
-        "A": "Very small",
-        "B": "Related to the whole world",
-        "C": "Very hot",
-        "D": "Very cold"
+        "A": "picture",
+        "B": "policy",
+        "C": "party",
+        "D": "police"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 27,
-      "question": "What is a 'pig'?",
+      "question": "Doctors say you should do ______ every day to stay healthy.",
       "options": {
-        "A": "A farm animal",
-        "B": "A type of fruit",
-        "C": "A piece of furniture",
-        "D": "A vehicle"
+        "A": "eat",
+        "B": "sleep",
+        "C": "read",
+        "D": "exercise"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "The loud noise was a big ______ to everyone.",
+      "options": {
+        "A": "shock",
+        "B": "show",
+        "C": "sock",
+        "D": "shop"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
-      "id": 28,
-      "question": "What does 'tend' mean?",
+      "id": 29,
+      "question": "He has lived in this house ______ he was a child.",
       "options": {
-        "A": "To sleep",
-        "B": "To eat",
-        "C": "To usually do something",
-        "D": "To run"
+        "A": "for",
+        "B": "until",
+        "C": "since",
+        "D": "on"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
-      "id": 29,
-      "question": "What is 'half'?",
+      "id": 30,
+      "question": "Our basketball ______ is very tall and he was a good player.",
       "options": {
-        "A": "All of something",
-        "B": "One of two equal parts",
-        "C": "A very small part",
-        "D": "Nothing"
+        "A": "cook",
+        "B": "coach",
+        "C": "cleaner",
+        "D": "driver"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
-      "id": 30,
-      "question": "What is 'training'?",
-      "options": {
-        "A": "Learning how to do something",
-        "B": "A type of food",
-        "C": "A place to live",
-        "D": "A kind of animal"
-      },
-      "correct_answer": "A",
-      "category": "Vocabulary"
-    },
-    {
       "id": 31,
-      "question": "What does 'rise' mean?",
+      "question": "On hot days, we love to ______ in the lake.",
       "options": {
-        "A": "To go down",
-        "B": "To stay the same",
-        "C": "To go up",
-        "D": "To fall asleep"
+        "A": "run",
+        "B": "cross",
+        "C": "ski",
+        "D": "swim"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 32,
-      "question": "What does 'check' mean?",
+      "question": "Can you ______ the person in this old photo? Is it your grandfather?",
       "options": {
-        "A": "To make sure something is correct",
-        "B": "To break something",
-        "C": "To throw something away",
-        "D": "To eat quickly"
+        "A": "identify",
+        "B": "invite",
+        "C": "imagine",
+        "D": "invent"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 33,
-      "question": "What is a 'flower'?",
+      "question": "This bed is too soft. I need a ______ mattress.",
       "options": {
-        "A": "A type of animal",
-        "B": "A part of a plant that is often colorful",
-        "C": "A kind of food",
-        "D": "A piece of clothing"
+        "A": "low",
+        "B": "big",
+        "C": "firm",
+        "D": "form"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 34,
-      "question": "What is 'weight'?",
+      "question": "It is cold outside. Put on your coat and ______.",
       "options": {
-        "A": "How tall something is",
-        "B": "How old something is",
-        "C": "How heavy something is",
-        "D": "How fast something is"
+        "A": "shoes",
+        "B": "scarf",
+        "C": "socks",
+        "D": "shorts"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 35,
-      "question": "What does 'regular' mean?",
+      "question": "My ______ hurts. I think I need to see a doctor.",
       "options": {
-        "A": "Happening once only",
-        "B": "Happening at the same time or in the same way",
-        "C": "Very special",
-        "D": "Very expensive"
-      },
-      "correct_answer": "B",
-      "category": "Vocabulary"
-    },
-    {
-      "id": 36,
-      "question": "What does 'welcome' mean?",
-      "options": {
-        "A": "To say goodbye to someone",
-        "B": "To be angry with someone",
-        "C": "To be happy that someone has arrived",
-        "D": "To ask someone to leave"
+        "A": "book",
+        "B": "bag",
+        "C": "hand",
+        "D": "home"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
-      "id": 37,
-      "question": "What does 'wrong' mean?",
+      "id": 36,
+      "question": "The light bulb is old. We need to ______ it.",
       "options": {
-        "A": "Correct",
-        "B": "Not correct",
-        "C": "Very good",
-        "D": "Very expensive"
+        "A": "replace",
+        "B": "repeat",
+        "C": "repair",
+        "D": "return"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "The film starts ______ at 7:00 PM. We should leave now.",
+      "options": {
+        "A": "after",
+        "B": "yesterday",
+        "C": "soon",
+        "D": "ago"
+      },
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 38,
-      "question": "What does 'empty' mean?",
+      "question": "What number is after twelve?",
       "options": {
-        "A": "Full of things",
-        "B": "Having nothing inside",
-        "C": "Very heavy",
-        "D": "Very light"
+        "A": "eleven",
+        "B": "thirteen",
+        "C": "ten",
+        "D": "twenty"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 39,
-      "question": "What does 'gather' mean?",
+      "question": "The train ______ arrived. We are getting on now.",
       "options": {
-        "A": "To bring things or people together",
-        "B": "To throw things away",
-        "C": "To break things",
-        "D": "To sell things"
+        "A": "still",
+        "B": "always",
+        "C": "never",
+        "D": "just"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 40,
-      "question": "What is 'position'?",
+      "question": "This TikTok is very ______. Millions of people have watched it.",
       "options": {
-        "A": "The color of something",
-        "B": "The size of something",
-        "C": "The place where something is",
-        "D": "The age of something"
+        "A": "popular",
+        "B": "private",
+        "C": "poor",
+        "D": "polite"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
@@ -486,8 +486,8 @@
       "question": "According to paragraph 1, why is learning to read early important?",
       "options": {
         "A": "It helps children sleep better",
-        "B": "It helps children do better in school later",
-        "C": "It makes children taller",
+        "B": "It helps children do better in school",
+        "C": "It helps children grow taller",
         "D": "It helps children make more friends"
       },
       "correct_answer": "B",
@@ -497,10 +497,10 @@
       "id": 42,
       "question": "Based on paragraph 1, what does reading help children learn?",
       "options": {
-        "A": "Only numbers",
-        "B": "Only letters",
+        "A": "New authors and characters",
+        "B": "New letters and numbers",
         "C": "New words and ideas",
-        "D": "Only names"
+        "D": "New geographical names"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -509,9 +509,9 @@
       "id": 43,
       "question": "According to paragraph 2, what can parents do to help their children learn to read?",
       "options": {
-        "A": "Only take them to school",
+        "A": "Take them to school or library",
         "B": "Read books to them every day",
-        "C": "Buy them a computer",
+        "C": "Buy them a computer or a phone",
         "D": "Teach them how to write first"
       },
       "correct_answer": "B",
@@ -535,7 +535,7 @@
       "options": {
         "A": "Their colors",
         "B": "Their sounds",
-        "C": "Their shapes only",
+        "C": "Their shapes",
         "D": "Their history"
       },
       "correct_answer": "B",
@@ -547,8 +547,8 @@
       "options": {
         "A": "Reading very difficult books",
         "B": "Reading many books at once",
-        "C": "Reading books that are at their level",
-        "D": "Reading only pictures"
+        "C": "Reading books at their level",
+        "D": "Reading books with pictures"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -560,7 +560,7 @@
         "A": "It makes them bigger",
         "B": "It makes them stronger",
         "C": "It makes them smaller",
-        "D": "It makes them weaker"
+        "D": "It makes them smarter"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -569,9 +569,9 @@
       "id": 48,
       "question": "Based on paragraph 4, what do children who read a lot often have?",
       "options": {
-        "A": "More friends",
+        "A": "More friends at school",
         "B": "Better imaginations",
-        "C": "More books",
+        "C": "More interesting books",
         "D": "Better eyesight"
       },
       "correct_answer": "B",
@@ -581,9 +581,9 @@
       "id": 49,
       "question": "What is the main idea of the passage?",
       "options": {
-        "A": "Reading is only important for school",
+        "A": "Reading is only important for children at school",
         "B": "Only teachers can help children learn to read",
-        "C": "Learning to read early is important and helpful for children",
+        "C": "Learning to read early is important and helpful",
         "D": "Reading is too difficult for young children"
       },
       "correct_answer": "C",
