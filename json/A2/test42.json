@@ -18,7 +18,7 @@
       "question": "Choose the correct sentence:",
       "options": {
         "A": "I never been to Paris.",
-        "B": "I never going to Paris.",
+        "B": "I never gone into Paris.",
         "C": "I have never been to Paris.",
         "D": "I have never went to Paris."
       },
@@ -51,48 +51,48 @@
     },
     {
       "id": 5,
-      "question": "Choose the correct past tense form of 'eat':",
+      "question": "Choose the correct sentence with 'write':",
       "options": {
-        "A": "eated",
-        "B": "eaten",
-        "C": "eating",
-        "D": "ate"
+        "A": "He has just writen an email",
+        "B": "He had just wrote an email",
+        "C": "He has just wrote an email",
+        "D": "He has just written an email"
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 6,
-      "question": "Which is the correct plural form?",
+      "question": "Which is the correct plural form of 'person'?",
       "options": {
-        "A": "childs",
-        "B": "childrens",
-        "C": "children",
-        "D": "childes"
+        "A": "personal",
+        "B": "personnel",
+        "C": "people",
+        "D": "peoples"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 7,
-      "question": "Complete the sentence: 'I _____ TV when the phone rang.'",
+      "question": "Complete the sentence: 'I _____ a bike when he crossed the street.'",
       "options": {
-        "A": "watch",
-        "B": "am watching",
-        "C": "was watching",
-        "D": "watching"
+        "A": "ride",
+        "B": "am riding",
+        "C": "was riding",
+        "D": "riding"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 8,
-      "question": "Choose the correct preposition: 'I arrived _____ the airport at 6 PM.'",
+      "question": "Choose the correct preposition: 'I arrived _____ the airport _____ 6 PM.'",
       "options": {
-        "A": "at",
-        "B": "on",
-        "C": "in",
-        "D": "to"
+        "A": "at/at",
+        "B": "on/in",
+        "C": "in/on",
+        "D": "to/at"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -103,7 +103,7 @@
       "options": {
         "A": "I don't have no money.",
         "B": "I don't have some money.",
-        "C": "I don't have any money.",
+        "C": "I have no money.",
         "D": "I no have money."
       },
       "correct_answer": "C",
@@ -111,12 +111,12 @@
     },
     {
       "id": 10,
-      "question": "Which sentence is correct?",
+      "question": "Which sentence is incorrect?",
       "options": {
-        "A": "He play tennis every Sunday.",
-        "B": "He playing tennis every Sunday.",
-        "C": "He plays tennis every Sunday.",
-        "D": "He is play tennis every Sunday."
+        "A": "He plays tennis on Sundays.",
+        "B": "He plays tennis every Sunday.",
+        "C": "He plays tennis every Sundays.",
+        "D": "He plays tennis each Sunday."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -135,50 +135,50 @@
     },
     {
       "id": 12,
-      "question": "Complete the sentence: 'If it _____ tomorrow, we will stay home.'",
+      "question": "Complete the sentence: 'If the exam _____ easy, I _____ pass it.'",
       "options": {
-        "A": "rain",
-        "B": "rains",
-        "C": "will rain",
-        "D": "is raining"
+        "A": "will be/will",
+        "B": "is/will",
+        "C": "will be/-",
+        "D": "is/won't"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 13,
-      "question": "Which is the correct form?",
+      "question": "Which is the incorrect sentence?",
       "options": {
-        "A": "I am more tall than my brother.",
-        "B": "I am taller than my brother.",
-        "C": "I am more taller than my brother.",
-        "D": "I am tallest than my brother."
+        "A": "I am the tallest of my brothers.",
+        "B": "I am taller than my brothers.",
+        "C": "I am taller as my brothers.",
+        "D": "I am as tall as my brothers."
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 14,
-      "question": "Choose the correct verb form: 'They _____ to the beach last weekend.'",
+      "question": "Choose the correct verb form: 'The sales _____ since last year.'",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "going",
-        "D": "went"
+        "A": "rosed",
+        "B": "rose",
+        "C": "risen",
+        "D": "have risen"
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 15,
-      "question": "Select the correct option: 'There _____ a book on the table.'",
+      "question": "Select the correct option: 'There _____ no books on the table.'",
       "options": {
         "A": "is",
         "B": "are",
         "C": "be",
         "D": "being"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
@@ -207,12 +207,12 @@
     },
     {
       "id": 18,
-      "question": "Choose the correct expression: 'Can you _____ me a favor?'",
+      "question": "Choose the correct expression: 'Can you _____ this stone?'",
       "options": {
-        "A": "make",
-        "B": "do",
-        "C": "give",
-        "D": "take"
+        "A": "rise",
+        "B": "lift",
+        "C": "give up",
+        "D": "resign"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -231,7 +231,7 @@
     },
     {
       "id": 20,
-      "question": "Select the correct option: 'Let's _____ a break now.'",
+      "question": "Select the correct option: 'Let's _____ the shorter path.'",
       "options": {
         "A": "do",
         "B": "make",
@@ -246,9 +246,9 @@
       "question": "Choose the correct phrase: 'Could you please _____ the window? It's cold.'",
       "options": {
         "A": "close",
-        "B": "shut",
+        "B": "open",
         "C": "lock",
-        "D": "turn"
+        "D": "turn off"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -291,12 +291,12 @@
     },
     {
       "id": 25,
-      "question": "Select the correct option: 'We should _____ a decision soon.'",
+      "question": "Select the correct option: 'We will _____ a postcard from Sydney.'",
       "options": {
-        "A": "take",
-        "B": "do",
-        "C": "make",
-        "D": "have"
+        "A": "post",
+        "B": "fly",
+        "C": "send",
+        "D": "message"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -329,10 +329,10 @@
       "id": 28,
       "question": "What is a 'plane'?",
       "options": {
-        "A": "A type of car",
-        "B": "A type of boat",
-        "C": "An aircraft that flies in the sky",
-        "D": "A flat surface"
+        "A": "A type of schedule",
+        "B": "A type of tourism",
+        "C": "A type of aircraft",
+        "D": "A type of surface"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -343,8 +343,8 @@
       "options": {
         "A": "A place where you buy food",
         "B": "A place where trains stop",
-        "C": "A type of car",
-        "D": "A type of shop"
+        "C": "A place where people rest",
+        "D": "A place where people train"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -366,7 +366,7 @@
       "question": "Which sentence uses 'introduce' correctly?",
       "options": {
         "A": "Let me introduce my friend to you.",
-        "B": "I introduce this book yesterday.",
+        "B": "They introduced the tickets yesterday.",
         "C": "She introduced the car to the garage.",
         "D": "He introduces the food into his mouth."
       },
@@ -378,9 +378,9 @@
       "question": "What is a 'family'?",
       "options": {
         "A": "A group of friends",
-        "B": "A place where people live",
-        "C": "A group of people who are related",
-        "D": "A type of building"
+        "B": "A group of students",
+        "C": "A group of relatives",
+        "D": "A group of companies"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -390,9 +390,9 @@
       "question": "What does it mean to 'pull'?",
       "options": {
         "A": "To move something toward yourself",
-        "B": "To push something away from you",
-        "C": "To break something",
-        "D": "To throw something"
+        "B": "To move something away from you",
+        "C": "To swim in the pool",
+        "D": "To travel by water"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -413,22 +413,22 @@
       "id": 35,
       "question": "What does 'present' mean in this sentence: 'This is a present for you.'?",
       "options": {
-        "A": "Now, at this time",
+        "A": "A moment",
         "B": "A gift",
-        "C": "To show something",
-        "D": "To speak in front of people"
+        "C": "A show",
+        "D": "A speech"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 36,
-      "question": "What does it mean to 'dance'?",
+      "question": "What does it mean to 'jog'?",
       "options": {
-        "A": "To sing a song",
-        "B": "To move your body to music",
-        "C": "To play an instrument",
-        "D": "To sleep"
+        "A": "To work",
+        "B": "To run",
+        "C": "To walk",
+        "D": "To joke"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -437,10 +437,10 @@
       "id": 37,
       "question": "What is a 'group'?",
       "options": {
-        "A": "A single person",
-        "B": "A collection of people or things together",
-        "C": "A type of food",
-        "D": "A place to study"
+        "A": "A single item",
+        "B": "A collection",
+        "C": "A type of grain",
+        "D": "A place for meetings"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -450,9 +450,9 @@
       "question": "What does it mean to 'fly'?",
       "options": {
         "A": "To move through the air",
-        "B": "To swim in water",
-        "C": "To run fast",
-        "D": "To jump high"
+        "B": "To move through the water",
+        "C": "To move on the ground quickly",
+        "D": "To jump with parachute"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -461,10 +461,10 @@
       "id": 39,
       "question": "What is your 'body'?",
       "options": {
-        "A": "Your clothes",
+        "A": "Your psychic form",
         "B": "Your physical form",
-        "C": "Your mind",
-        "D": "Your home"
+        "C": "Your mental form",
+        "D": "Your physic form"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -473,8 +473,8 @@
       "id": 40,
       "question": "What does it mean to 'plan'?",
       "options": {
-        "A": "To think about the past",
-        "B": "To organize something for the future",
+        "A": "To fly somewhere",
+        "B": "To organize something",
         "C": "To forget something",
         "D": "To buy something"
       },
@@ -485,10 +485,10 @@
       "id": 41,
       "question": "According to paragraph 1, marine animals:",
       "options": {
-        "A": "all look the same",
-        "B": "only live near the surface",
+        "A": "are very similar to each other",
+        "B": "only live near the ocean surface",
         "C": "come in different sizes and colors",
-        "D": "are all very small"
+        "D": "are smaller than animals on the land surface"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -497,10 +497,10 @@
       "id": 42,
       "question": "Based on paragraph 2, which statement is TRUE about fish?",
       "options": {
-        "A": "All fish live alone.",
-        "B": "Fish use gills to breathe underwater.",
+        "A": "All fish can adapt to living without water.",
+        "B": "Fish are able to breathe underwater.",
         "C": "Most sharks are dangerous to humans.",
-        "D": "Fish cannot swim in groups."
+        "D": "Fish cannot swim in large groups."
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -521,10 +521,10 @@
       "id": 44,
       "question": "The word 'gills' in paragraph 2 most likely refers to:",
       "options": {
-        "A": "a type of fin",
+        "A": "body parts that help fish swim",
         "B": "body parts that help fish breathe",
-        "C": "a group of fish",
-        "D": "a type of marine animal"
+        "C": "body parts that help fish eat",
+        "D": "body parts that help fish survive"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -533,7 +533,7 @@
       "id": 45,
       "question": "According to paragraph 3, what is TRUE about marine mammals?",
       "options": {
-        "A": "They breathe through gills.",
+        "A": "They use gills to breathe underwater.",
         "B": "They never need to come to the surface.",
         "C": "They must swim to the surface to breathe.",
         "D": "They cannot communicate with each other."
@@ -548,7 +548,7 @@
         "A": "a place where fish learn",
         "B": "a group of sharks",
         "C": "a place deep in the ocean",
-        "D": "a large group of fish swimming together"
+        "D": "a large group of fish"
       },
       "correct_answer": "D",
       "category": "Reading"
@@ -569,8 +569,8 @@
       "id": 48,
       "question": "According to paragraph 4, what do crabs and lobsters have in common?",
       "options": {
-        "A": "They swim fast.",
-        "B": "They walk along the ocean floor using many legs.",
+        "A": "They swim fast using their legs.",
+        "B": "They walk along the ocean floor.",
         "C": "They can change color.",
         "D": "They are very intelligent."
       },
@@ -582,7 +582,7 @@
       "question": "The main purpose of this passage is to:",
       "options": {
         "A": "explain why the ocean is important",
-        "B": "describe different marine animals and their characteristics",
+        "B": "describe different marine animals",
         "C": "argue that we should protect marine animals",
         "D": "compare land animals with sea animals"
       },
@@ -595,8 +595,8 @@
       "options": {
         "A": "It is too dangerous for humans to explore.",
         "B": "It has very few different types of animals.",
-        "C": "It is home to a diverse range of animal life.",
-        "D": "All marine animals are endangered."
+        "C": "It is home to a vast range of animal life.",
+        "D": "All marine animals are endangered by humans."
       },
       "correct_answer": "C",
       "category": "Reading"
