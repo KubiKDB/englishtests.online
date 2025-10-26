@@ -3,351 +3,601 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which word correctly completes the sentence? She _____ to school every day.",
-      "options": {"A": "go", "B": "goes", "C": "going", "D": "went"},
+      "question": "My brother _____ video games every evening.",
+      "options": {
+        "A": "play",
+        "B": "plays", 
+        "C": "playing",
+        "D": "is play"
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 2,
-      "question": "Which sentence is grammatically correct?",
-      "options": {"A": "They is happy.", "B": "She have a cat.", "C": "We are students.", "D": "He don't like coffee."},
+      "question": "I _____ a student _____ Germany.",
+      "options": {
+        "A": "is/from", 
+        "B": "am/out", 
+        "C": "am/from", 
+        "D": "are/at"
+      },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 3,
-      "question": "Choose the correct form: _____ she like chocolate?",
-      "options": {"A": "Do", "B": "Does", "C": "Is", "D": "Are"},
+      "question": "Choose the correct question: _____ they from Canada?",
+      "options": {
+        "A": "Is", 
+        "B": "Are", 
+        "C": "Do",
+        "D": "Does"
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 4,
-      "question": "Complete the sentence: He _____ watching TV now.",
-      "options": {"A": "is", "B": "are", "C": "am", "D": "be"},
-      "correct_answer": "A",
-      "category": "Grammar"
-    },
-    {
-      "id": 5,
-      "question": "Select the correct sentence:",
-      "options": {"A": "I no understand.", "B": "I not understand.", "C": "I don't understand.", "D": "I doesn't understand."},
+      "question": "Listen! The phone _____.",
+      "options": {
+        "A": "ring",
+        "B": "rings",
+        "C": "is ringing",
+        "D": "are ringing"
+      },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
+      "id": 5,
+      "question": "My cat _____ like swimming.",
+      "options": {
+        "A": "doesn't",
+        "B": "don't", 
+        "C": "isn't",
+        "D": "not"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
       "id": 6,
-      "question": "Choose the correct preposition: The book is _____ the table.",
-      "options": {"A": "in", "B": "at", "C": "on", "D": "from"},
+      "question": "I wake up _____ every morning.",
+      "options": {
+        "A": "at 7 hour",
+        "B": "at 7 clocks", 
+        "C": "at 7 o'clock", 
+        "D": "at 7 clock"
+      },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 7,
-      "question": "What is the plural of 'child'?",
-      "options": {"A": "childs", "B": "childen", "C": "children", "D": "childs's"},
-      "correct_answer": "C",
+      "question": "What is the plural of 'woman'?",
+      "options": {
+        "A": "womans",
+        "B": "women",
+        "C": "womanes",
+        "D": "womens"
+      },
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 8,
-      "question": "Which is the correct question?",
-      "options": {"A": "Where you live?", "B": "Where do you live?", "C": "Where living you?", "D": "Where you are live?"},
-      "correct_answer": "B",
+      "question": "_____ is your favourite colour?",
+      "options": {
+        "A": "What",
+        "B": "Who", 
+        "C": "How", 
+        "D": "Where"
+      },
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 9,
-      "question": "Complete the sentence: There _____ five people in my family.",
-      "options": {"A": "is", "B": "are", "C": "am", "D": "be"},
-      "correct_answer": "B",
+      "question": "There _____ a big park in my town.",
+      "options": {
+        "A": "is", 
+        "B": "are",
+        "C": "have",
+        "D": "be"
+      },
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 10,
-      "question": "Choose the correct possessive form: This is _____ house.",
-      "options": {"A": "they", "B": "them", "C": "their", "D": "theirs"},
-      "correct_answer": "C",
+      "question": "That is _____ book, not _____.",
+      "options": {
+        "A": "his/my",
+        "B": "his/mine",
+        "C": "him/mine",
+        "D": "he's/my"
+      },
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 11,
-      "question": "Select the correct past tense form of 'eat':",
-      "options": {"A": "eat", "B": "eated", "C": "ate", "D": "eaten"},
-      "correct_answer": "C",
-      "category": "Grammar"
-    },
-    {
-      "id": 12,
-      "question": "Which sentence is in the future tense?",
-      "options": {"A": "I went to school.", "B": "I am going to school.", "C": "I go to school.", "D": "I will go to school."},
+      "question": "They _____ at the party last night.",
+      "options": {
+        "A": "is", 
+        "B": "are",
+        "C": "was",
+        "D": "were"
+      },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
+      "id": 12,
+      "question": "A fish _____ swim, but it _____ walk.",
+      "options": {
+        "A": "can/can't",
+        "B": "can/wouldn't", 
+        "C": "can't/can",
+        "D": "can't/would"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
       "id": 13,
-      "question": "Choose the correct article: I saw _____ elephant at the zoo.",
-      "options": {"A": "a", "B": "an", "C": "the", "D": "no article needed"},
-      "correct_answer": "B",
+      "question": "My father is _____ doctor.",
+      "options": {
+        "A": "a", 
+        "B": "an",
+        "C": "the",
+        "D": "at"
+      },
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 14,
-      "question": "Complete the sentence: She _____ tennis every weekend.",
-      "options": {"A": "play", "B": "plays", "C": "playing", "D": "is play"},
-      "correct_answer": "B",
+      "question": "Look at _____ apples on that tree.",
+      "options": {
+        "A": "this",
+        "B": "that",
+        "C": "these",
+        "D": "those"
+      },
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 15,
-      "question": "Which is the correct negative form? I _____ like ice cream.",
-      "options": {"A": "no", "B": "not", "C": "don't", "D": "doesn't"},
+      "question": "Which sentence is correct?",
+      "options": {
+        "A": "We have got two childs.",
+        "B": "He have got a new phone.", 
+        "C": "She has got red hair.", 
+        "D": "They has got a big house."
+      },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 16,
       "question": "Complete the sentence: You must have a _____ to drive a car.",
-      "options": {"A": "permit", "B": "ticket", "C": "pass", "D": "card"},
+      "options": {
+        "A": "permit",
+        "B": "ticket", 
+        "C": "pass",
+        "D": "card"
+      },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 17,
-      "question": "Choose the best word: Please _____ quiet in the library.",
-      "options": {"A": "make", "B": "do", "C": "be", "D": "stay"},
-      "correct_answer": "C",
+      "question": "Choose the worst option: Please _____ quiet in the library.",
+      "options": {
+        "A": "remain",
+        "B": "leave", 
+        "C": "be", 
+        "D": "stay"
+      },
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 18,
       "question": "Select the correct response: 'How are you?' '_____.'"  ,
-      "options": {"A": "I'm John", "B": "I'm fine, thanks", "C": "I'm at home", "D": "I'm 25 years old"},
+      "options": {
+        "A": "Me fine", 
+        "B": "I'm fine", 
+        "C": "Mine fine", 
+        "D": "I'm mine"
+      },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 19,
       "question": "Complete the sentence: She feels sick. She needs to see a _____.",
-      "options": {"A": "teacher", "B": "doctor", "C": "police", "D": "driver"},
+      "options": {
+        "A": "teacher",
+        "B": "doctor", 
+        "C": "policeman", 
+        "D": "driver"
+      },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 20,
       "question": "Choose the best response: 'Would you like tea or coffee?' '_____.'",
-      "options": {"A": "Yes, please", "B": "No, thanks", "C": "Coffee, please", "D": "You're welcome"},
+      "options": {
+        "A": "Yes, please",
+        "B": "No, thanks", 
+        "C": "Coffee, please", 
+        "D": "No tea, please"
+      },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 21,
       "question": "Which word completes this common phrase: 'Good _____!'",
-      "options": {"A": "morning", "B": "day", "C": "doing", "D": "saying"},
+      "options": {
+        "A": "morning",
+        "B": "day", 
+        "C": "wishing", 
+        "D": "lucking"
+      },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 22,
-      "question": "Select the best word: 'What time does the movie _____?'",
-      "options": {"A": "begin", "B": "begins", "C": "beginning", "D": "began"},
-      "correct_answer": "A",
+      "question": "Select the worst option: 'What time does the movie _____?'",
+      "options": {
+        "A": "begin", 
+        "B": "watch",
+        "C": "start",
+        "D": "finish"
+      },
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 23,
       "question": "Complete the phrase: '_____ you later!'",
-      "options": {"A": "Look", "B": "Watch", "C": "See", "D": "View"},
+      "options": {
+        "A": "Look",
+        "B": "Watch",
+        "C": "See", 
+        "D": "View"
+      },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 24,
       "question": "Which option correctly completes the sentence: 'I don't have _____ money.'",
-      "options": {"A": "some", "B": "any", "C": "no", "D": "a"},
+      "options": {
+        "A": "some", 
+        "B": "any", 
+        "C": "no", 
+        "D": "a"
+      },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 25,
-      "question": "Choose the best word: 'Can you _____ me the salt, please?'",
-      "options": {"A": "pass", "B": "give", "C": "take", "D": "bring"},
-      "correct_answer": "A",
+      "question": "Choose the worst option: 'Can you _____ me the salt, please?'",
+      "options": {
+        "A": "pass", 
+        "B": "give", 
+        "C": "take", 
+        "D": "bring"
+      },
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 26,
       "question": "What does 'during' mean?",
-      "options": {"A": "before", "B": "after", "C": "while", "D": "outside"},
+      "options": {
+        "A": "before",
+        "B": "after",
+        "C": "while",
+        "D": "outside"
+      },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 27,
-      "question": "Which word means 'official document allowing you to do something'?",
-      "options": {"A": "license", "B": "permit", "C": "passport", "D": "ticket"},
-      "correct_answer": "B",
+      "question": "Which word means 'an official document of the country'?",
+      "options": {
+        "A": "license",
+        "B": "permit", 
+        "C": "passport",
+        "D": "ticket"
+      },
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 28,
-      "question": "Choose the synonym for 'use':",
-      "options": {"A": "make", "B": "create", "C": "utilize", "D": "build"},
+      "question": "Choose the synonym for 'job':",
+      "options": {
+        "A": "make", 
+        "B": "create",
+        "C": "work",
+        "D": "build"
+      },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 29,
-      "question": "What does 'study' mean?",
-      "options": {"A": "to work", "B": "to learn", "C": "to teach", "D": "to play"},
+      "question": "What does 'to study' mean?",
+      "options": {
+        "A": "to work",
+        "B": "to learn",
+        "C": "to teach",
+        "D": "to play"
+      },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 30,
       "question": "Which word means 'up to the point in time'?",
-      "options": {"A": "since", "B": "for", "C": "until", "D": "during"},
+      "options": {
+        "A": "since",
+        "B": "for", 
+        "C": "until",
+        "D": "during"
+      },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 31,
       "question": "What does 'afraid' mean?",
-      "options": {"A": "happy", "B": "scared", "C": "angry", "D": "tired"},
+      "options": {
+        "A": "happy",
+        "B": "scared",
+        "C": "angry", 
+        "D": "tired"
+      },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 32,
       "question": "Which word means 'male child'?",
-      "options": {"A": "daughter", "B": "uncle", "C": "son", "D": "brother"},
+      "options": {
+        "A": "daughter",
+        "B": "uncle", 
+        "C": "son", 
+        "D": "brother"
+      },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 33,
-      "question": "What is a 'building'?",
-      "options": {"A": "a place where people live or work", "B": "a type of car", "C": "a kind of food", "D": "a small animal"},
+      "question": "What is a 'place where people live or work'?",
+      "options": {
+        "A": "a building", 
+        "B": "a station", 
+        "C": "a location", 
+        "D": "a vacation"
+      },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 34,
       "question": "What does 'take' mean?",
-      "options": {"A": "to give", "B": "to get or grab", "C": "to make", "D": "to put"},
+      "options": {
+        "A": "to give",
+        "B": "to get",
+        "C": "to make", 
+        "D": "to put"
+      },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 35,
-      "question": "Which word means 'arrangement or instruction'?",
-      "options": {"A": "question", "B": "order", "C": "answer", "D": "idea"},
+      "question": "Which word means 'instruction'?",
+      "options": {
+        "A": "question", 
+        "B": "order", 
+        "C": "answer",
+        "D": "idea"
+      },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 36,
       "question": "What does 'carry' mean?",
-      "options": {"A": "to buy", "B": "to sell", "C": "to hold and move", "D": "to break"},
+      "options": {
+        "A": "to buy",
+        "B": "to sell",
+        "C": "to hold",
+        "D": "to break"
+      },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 37,
       "question": "What is 'police'?",
-      "options": {"A": "people who put out fires", "B": "people who teach in schools", "C": "people who catch criminals", "D": "people who drive buses"},
+      "options": {
+        "A": "people who put out fires", 
+        "B": "people who teach in schools", 
+        "C": "people who catch criminals",
+        "D": "people who drive buses"
+      },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 38,
       "question": "What does 'friendly' mean?",
-      "options": {"A": "kind and nice", "B": "angry and mean", "C": "sad and upset", "D": "busy and tired"},
+      "options": {
+        "A": "kind and nice", 
+        "B": "angry and mean", 
+        "C": "sad and upset",
+        "D": "busy and tired"
+      },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 39,
       "question": "What does 'push' mean?",
-      "options": {"A": "to pull", "B": "to press forward", "C": "to lift up", "D": "to drop down"},
+      "options": {
+        "A": "to press backward", 
+        "B": "to press forward",
+        "C": "to lift up",
+        "D": "to drop down"
+      },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 40,
       "question": "What is a 'side'?",
-      "options": {"A": "a part of the body", "B": "a type of food", "C": "an edge or surface", "D": "a kind of drink"},
+      "options": {
+        "A": "a part of the body", 
+        "B": "a second option", 
+        "C": "an edge or surface", 
+        "D": "a building entrance"
+      },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 41,
       "question": "According to paragraph 1, why do birds migrate?",
-      "options": {"A": "To find new homes", "B": "To escape predators", "C": "To find food", "D": "To find mates"},
+      "options": {
+        "A": "To find new homes",
+        "B": "To escape predators",
+        "C": "To find food", 
+        "D": "To find partners"
+      },
       "correct_answer": "C",
       "category": "Reading"
     },
     {
       "id": 42,
       "question": "The word 'migration' in paragraph 1 means:",
-      "options": {"A": "flying in circles", "B": "traveling to different places", "C": "building nests", "D": "hunting for food"},
+      "options": {
+        "A": "flying in circles around the target",
+        "B": "traveling to different places",
+        "C": "building nests on trees and bushes", 
+        "D": "hunting for food and escaping predators"
+      },
       "correct_answer": "B",
       "category": "Reading"
     },
     {
       "id": 43,
-      "question": "According to paragraph 2, how do birds find their way?",
-      "options": {"A": "They use maps", "B": "They follow rivers", "C": "They use the sun, stars, and Earth's magnetic field", "D": "They ask other animals"},
+      "question": "According to paragraph 2, what don't birds use to find their way?",
+      "options": {
+        "A": "Sun", 
+        "B": "Stars",
+        "C": "Rivers",
+        "D": "Magnetic field"
+      },
       "correct_answer": "C",
       "category": "Reading"
     },
     {
       "id": 44,
       "question": "What does the word 'flocks' in paragraph 2 refer to?",
-      "options": {"A": "Types of birds", "B": "Groups of birds", "C": "Bird sounds", "D": "Bird nests"},
+      "options": {
+        "A": "Types of birds",
+        "B": "Groups of birds", 
+        "C": "Bird sounds", 
+        "D": "Bird nests"
+      },
       "correct_answer": "B",
       "category": "Reading"
     },
     {
       "id": 45,
       "question": "According to paragraph 3, where do many birds go in winter?",
-      "options": {"A": "To mountains", "B": "To cities", "C": "To places near the equator", "D": "To islands"},
+      "options": {
+        "A": "To mountains", 
+        "B": "To cities", 
+        "C": "To the equator", 
+        "D": "To islands"
+      },
       "correct_answer": "C",
       "category": "Reading"
     },
     {
       "id": 46,
       "question": "Which statement is TRUE according to the passage?",
-      "options": {"A": "Birds only migrate in summer.", "B": "Birds must eat every day to survive.", "C": "Young birds always travel alone.", "D": "All birds migrate to the same place."},
+      "options": {
+        "A": "Birds only migrate in summer.", 
+        "B": "Birds must eat every day to survive.",
+        "C": "Young birds always travel alone.",
+        "D": "All birds migrate to the same place."
+      },
       "correct_answer": "B",
       "category": "Reading"
     },
     {
       "id": 47,
       "question": "According to paragraph 4, when do birds return to their homes?",
-      "options": {"A": "In winter", "B": "In summer", "C": "In spring", "D": "In autumn"},
+      "options": {
+        "A": "In winter", 
+        "B": "In summer", 
+        "C": "In spring",
+        "D": "In autumn"
+      },
       "correct_answer": "C",
       "category": "Reading"
     },
     {
       "id": 48,
       "question": "What do scientists do to study bird migration?",
-      "options": {"A": "They build special nests", "B": "They put tags on birds", "C": "They change the weather", "D": "They feed the birds"},
+      "options": {
+        "A": "They build special nests",
+        "B": "They put tags on birds",
+        "C": "They change the weather",
+        "D": "They feed the birds"
+      },
       "correct_answer": "B",
       "category": "Reading"
     },
     {
       "id": 49,
       "question": "The main purpose of this passage is to:",
-      "options": {"A": "explain why birds sing", "B": "describe how birds build nests", "C": "explain why some birds migrate in winter", "D": "compare different types of birds"},
+      "options": {
+        "A": "explain why birds sing",
+        "B": "describe how birds build nests",
+        "C": "explain why some birds migrate",
+        "D": "compare different types of birds"
+      },
       "correct_answer": "C",
       "category": "Reading"
     },
     {
       "id": 50,
       "question": "What can be inferred from the passage about bird migration?",
-      "options": {"A": "It is a new behavior in birds", "B": "It is a learned behavior", "C": "It only happens in certain species", "D": "It is becoming less common"},
+      "options": {
+        "A": "It is a new behavior in birds", 
+        "B": "It is a learned behavior", 
+        "C": "It only happens in certain species",
+        "D": "It is becoming less common"
+      },
       "correct_answer": "B",
       "category": "Reading"
     }
