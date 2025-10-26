@@ -31,7 +31,7 @@
       "options": {
         "A": "He play football every day.",
         "B": "She cook dinner now.",
-        "C": "They are watching TV.",
+        "C": "They are waiting outside.",
         "D": "I reading a book."
       },
       "correct_answer": "C",
@@ -66,7 +66,7 @@
       "question": "Which sentence has the correct word order?",
       "options": {
         "A": "Where you are going?",
-        "B": "Why he is late always?",
+        "B": "Why he is always late?",
         "C": "What time does the movie start?",
         "D": "How she does go to work?"
       },
@@ -80,7 +80,7 @@
         "A": "This is Peters book.",
         "B": "The dog's food is in the kitchen.",
         "C": "Those are the childrens toys.",
-        "D": "The womans bag is red."
+        "D": "The womans' bag is red."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -92,7 +92,7 @@
         "A": "She is an university student.",
         "B": "I need a umbrella.",
         "C": "He has an orange.",
-        "D": "We saw an elephant in zoo."
+        "D": "We saw a elephant in the zoo."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -104,9 +104,9 @@
         "A": "There is many books on the table.",
         "B": "There are a cat under the bed.",
         "C": "There is three people waiting.",
-        "D": "There are some milk in the fridge."
+        "D": "There is some milk in the fridge."
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -163,7 +163,7 @@
       "options": {
         "A": "She cooking dinner right now.",
         "B": "They are play soccer in the park.",
-        "C": "He is watching television.",
+        "C": "He is doing homework right now.",
         "D": "I am eat breakfast every morning."
       },
       "correct_answer": "C",
@@ -183,38 +183,38 @@
     },
     {
       "id": 16,
-      "question": "Complete the sentence: 'I _____ TV every evening.'",
+      "question": "Complete the sentence: 'We want to buy _____ eggs at the supermarket.'",
       "options": {
-        "A": "watching",
-        "B": "watch",
-        "C": "watches",
-        "D": "am watch"
+        "A": "a",
+        "B": "an",
+        "C": "some",
+        "D": "much"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 17,
-      "question": "Fill in the blank: 'She _____ to the store yesterday.'",
+      "question": "Fill in the blank with the correct day: 'Today is Tuesday. Tomorrow will be _____.'",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "going",
-        "D": "went"
+        "A": "Monday",
+        "B": "Wednesday",
+        "C": "Thursday",
+        "D": "Sunday"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 18,
-      "question": "Choose the correct response: 'How are you?' '_____.'"",
+      "question": "Choose the correct phrase: 'I'm cold! Please close _____ window.'",
       "options": {
-        "A": "I am 25 years old.",
-        "B": "I'm fine, thank you.",
-        "C": "I am a student.",
-        "D": "I am from Spain."
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "those"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
@@ -231,48 +231,48 @@
     },
     {
       "id": 20,
-      "question": "Fill in the blank: 'What time _____ you wake up?'",
+      "question": "What is the outcome: 'Thirteen plus four'",
       "options": {
-        "A": "are",
-        "B": "do",
-        "C": "is",
-        "D": "does"
+        "A": "sixteen",
+        "B": "seventeen",
+        "C": "eighteen",
+        "D": "nineteen"
       },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 21,
-      "question": "Choose the correct option: 'This is _____ book.'",
+      "question": "Choose the correct option: 'This book is _____.'",
       "options": {
-        "A": "I",
-        "B": "me",
-        "C": "my",
+        "A": "min",
+        "B": "mind",
+        "C": "mined",
         "D": "mine"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 22,
       "question": "Complete the sentence: 'He _____ speak English very well.'",
       "options": {
-        "A": "can",
+        "A": "could",
         "B": "should",
         "C": "would",
-        "D": "must"
+        "D": "ought"
       },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 23,
-      "question": "Fill in the blank: 'I have _____ apple.'",
+      "question": "Choose the correct response: 'What is the weather like today?' '_____.'",
       "options": {
-        "A": "a",
-        "B": "an",
-        "C": "the",
-        "D": "some"
+        "A": "It's happy.",
+        "B": "It's sunny.",
+        "C": "It's Monday.",
+        "D": "It's rain."
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -305,10 +305,10 @@
       "id": 26,
       "question": "What is a 'boat'?",
       "options": {
-        "A": "A type of car",
-        "B": "A vehicle that travels on water",
-        "C": "A flying machine",
-        "D": "A type of building"
+        "A": "A vehicle that travels on the land",
+        "B": "A vehicle that travels on the water",
+        "C": "A vehicle that travels in the sky",
+        "D": "A vehicle that travels in the space"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -344,26 +344,26 @@
         "A": "I leave my keys on the table yesterday.",
         "B": "She will leave for school at 8 am tomorrow.",
         "C": "He leave the room right now.",
-        "D": "We leave our bags at home always."
+        "D": "We leaving our bags at home."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 30,
-      "question": "What is a 'market'?",
+      "question": "What isn't a 'market'?",
       "options": {
-        "A": "A place to sleep",
-        "B": "A place to study",
+        "A": "A place to trade your items",
+        "B": "A place to exchange stocks",
         "C": "A place to buy and sell things",
-        "D": "A place to play sports"
+        "D": "A place to find friends"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 31,
-      "question": "Which word describes someone who does a lot of physical activity?",
+      "question": "Which word describes someone who does a lot of physical exercises?",
       "options": {
         "A": "Tired",
         "B": "Lazy",
@@ -389,10 +389,10 @@
       "id": 33,
       "question": "What is a 'sheet'?",
       "options": {
-        "A": "A type of food",
-        "B": "A piece of paper or cloth",
-        "C": "A small animal",
-        "D": "A type of drink"
+        "A": "A piece of fruit",
+        "B": "A piece of paper",
+        "C": "A piece of vegetable",
+        "D": "A piece of wood"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -402,7 +402,7 @@
       "question": "When do most people eat 'lunch'?",
       "options": {
         "A": "In the morning",
-        "B": "In the middle of the day",
+        "B": "In the afternoon",
         "C": "In the evening",
         "D": "At night"
       },
@@ -413,24 +413,24 @@
       "id": 35,
       "question": "What does a 'teacher' do?",
       "options": {
-        "A": "Sells food",
-        "B": "Fixes cars",
+        "A": "Helps people in restaurants",
+        "B": "Helps people fix cars",
         "C": "Helps people learn",
-        "D": "Builds houses"
+        "D": "Helps people build houses"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 36,
-      "question": "Where would you find a 'garden'?",
+      "question": "What can't you find in a 'garden'?",
       "options": {
-        "A": "Inside a house",
-        "B": "Outside with plants and flowers",
-        "C": "At a shopping center",
-        "D": "At a beach"
+        "A": "Insects and birds",
+        "B": "Plants and flowers",
+        "C": "Cars and trucks",
+        "D": "Soil and grass"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -462,7 +462,7 @@
       "question": "What is a 'farm'?",
       "options": {
         "A": "A place where people live in a city",
-        "B": "A place where animals and crops are raised",
+        "B": "A place where animals and crops are",
         "C": "A place where people work in offices",
         "D": "A place where people go swimming"
       },
@@ -473,8 +473,8 @@
       "id": 40,
       "question": "What does 'primary' mean?",
       "options": {
-        "A": "Most important or first",
-        "B": "Very small",
+        "A": "Most important",
+        "B": "The smallest",
         "C": "Very expensive",
         "D": "Last or final"
       },
@@ -488,7 +488,7 @@
         "A": "By swimming in special ways",
         "B": "Through facial expressions",
         "C": "Through sounds like clicks and whistles",
-        "D": "By writing messages"
+        "D": "By sending messages with fins and tails"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -498,7 +498,7 @@
       "question": "What is like a name for each dolphin?",
       "options": {
         "A": "Its color",
-        "B": "Its special whistle",
+        "B": "Its whistle",
         "C": "Its tail",
         "D": "Its size"
       },
@@ -522,7 +522,7 @@
       "question": "According to paragraph 3, dolphins also communicate by:",
       "options": {
         "A": "Using their bodies and movements",
-        "B": "Making special foods",
+        "B": "Catching special fish",
         "C": "Building homes underwater",
         "D": "Writing messages in the sand"
       },
@@ -533,8 +533,8 @@
       "id": 45,
       "question": "What do dolphins do when they are happy?",
       "options": {
-        "A": "They sleep",
-        "B": "They hide",
+        "A": "They catch fish and shrimps",
+        "B": "They swim fast",
         "C": "They jump and play",
         "D": "They sing songs"
       },
@@ -558,9 +558,9 @@
       "question": "How do scientists record dolphin sounds?",
       "options": {
         "A": "With regular cameras",
-        "B": "With special underwater microphones",
-        "C": "With satellites",
-        "D": "With dolphin toys"
+        "B": "With underwater microphones",
+        "C": "With underwater satellites",
+        "D": "With special ships"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -569,7 +569,7 @@
       "id": 48,
       "question": "According to the passage, dolphins live in:",
       "options": {
-        "A": "Rivers and lakes",
+        "A": "Rivers and lakes around the world",
         "B": "Only in the Pacific Ocean",
         "C": "Oceans and seas around the world",
         "D": "Only in warm waters"
@@ -594,9 +594,9 @@
       "question": "Why do scientists study dolphin communication?",
       "options": {
         "A": "To teach humans to speak dolphin language",
-        "B": "To make dolphins perform in shows",
+        "B": "To make dolphins perform in shows for humans",
         "C": "To understand dolphins better and protect them",
-        "D": "To help dolphins find food"
+        "D": "To help dolphins find food and shelter"
       },
       "correct_answer": "C",
       "category": "Reading"
