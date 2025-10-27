@@ -3,7 +3,7 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which form of the verb is correct? 'She _____ to the radio every morning.'",
+      "question": "Which form of the verb is correct? 'She _____ to this podcast every morning.'",
       "options": {
         "A": "listen",
         "B": "listens",
@@ -15,168 +15,168 @@
     },
     {
       "id": 2,
-      "question": "Choose the correct sentence:",
+      "question": "Which sentence is correct?",
       "options": {
-        "A": "They goes to school by bus.",
-        "B": "They going to school by bus.",
-        "C": "They go to school by bus.",
-        "D": "They went to school with bus."
+        "A": "My friends plays football on Fridays.",
+        "B": "My friends play football on Fridays.",
+        "C": "My friends are playing football on Fridays.",
+        "D": "My friends playing football on Fridays."
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 3,
-      "question": "Select the correct plural form:",
+      "question": "What is the correct plural of 'boss'?",
       "options": {
-        "A": "childs",
-        "B": "childrens",
-        "C": "child",
-        "D": "children"
+        "A": "boses",
+        "B": "boss'",
+        "C": "bosse",
+        "D": "bosses"
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 4,
-      "question": "Which sentence is grammatically correct?",
+      "question": "Choose the incorrect negative sentence:",
       "options": {
-        "A": "We doesn't have any milk.",
-        "B": "We don't have any milk.",
-        "C": "We haven't got no milk.",
-        "D": "We not have any milk."
-      },
-      "correct_answer": "B",
-      "category": "Grammar"
-    },
-    {
-      "id": 5,
-      "question": "Choose the correct preposition: 'I usually go swimming _____ Saturdays.'",
-      "options": {
-        "A": "in",
-        "B": "at",
-        "C": "on",
-        "D": "by"
+        "A": "He hasn't got a passport.",
+        "B": "He hasn't have a passport.",
+        "C": "He doesn't have a passport.",
+        "D": "He has no passport."
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
-      "id": 6,
-      "question": "Which is the correct past tense form? 'Yesterday, I _____ a new book.'",
+      "id": 5,
+      "question": "Complete the sentence: 'The meeting starts _____ 10:00 AM.'",
       "options": {
-        "A": "buy",
-        "B": "buyed",
-        "C": "buying",
-        "D": "bought"
-      },
-      "correct_answer": "D",
-      "category": "Grammar"
-    },
-    {
-      "id": 7,
-      "question": "Choose the correct sentence:",
-      "options": {
-        "A": "She has got a new car.",
-        "B": "She has a new car got.",
-        "C": "She have got a new car.",
-        "D": "She got has a new car."
-      },
-      "correct_answer": "A",
-      "category": "Grammar"
-    },
-    {
-      "id": 8,
-      "question": "Select the correct possessive form:",
-      "options": {
-        "A": "The dog toy",
-        "B": "The dog's toy",
-        "C": "The toys dog",
-        "D": "The dogs' toy"
+        "A": "on",
+        "B": "at",
+        "C": "in",
+        "D": "with"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
-      "id": 9,
-      "question": "Which is the correct comparative form? 'This exercise is _____ than the last one.'",
+      "id": 6,
+      "question": "Which is the correct past tense? 'We _____ a great film last night.'",
       "options": {
-        "A": "easier",
-        "B": "more easy",
-        "C": "easyer",
-        "D": "most easy"
+        "A": "seed",
+        "B": "sew",
+        "C": "saw",
+        "D": "seen"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Which sentence is correct?",
+      "options": {
+        "A": "My brother and I has got a new game.",
+        "B": "My brother and I have got a new game.",
+        "C": "My brother and I got have a new game.",
+        "D": "My brother and I have a new game got."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Select the correct possessive form: 'That is _____ book.'",
+      "options": {
+        "A": "Maria's",
+        "B": "Marias'",
+        "C": "Maria",
+        "D": "of Maria"
       },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
-      "id": 10,
-      "question": "Choose the correct question form:",
+      "id": 9,
+      "question": "Which is the correct comparative? 'My sister is _____ than me.'",
       "options": {
-        "A": "Where you live?",
-        "B": "Where do you living?",
-        "C": "Where are you live?",
-        "D": "Where do you live?"
+        "A": "more smart",
+        "B": "smarter",
+        "C": "smartest",
+        "D": "the smartest"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Choose the incorrect question:",
+      "options": {
+        "A": "What time did the bus arrive?",
+        "B": "What time does the bus arrive?",
+        "C": "What time do the buses arrive?",
+        "D": "What time does the bus arriving?"
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 11,
-      "question": "Select the correct adverb form:",
+      "question": "Complete the sentence: 'He runs very _____.'",
       "options": {
-        "A": "The girl sings beautiful.",
-        "B": "The girl sings beautifully.",
-        "C": "The girl sings beauty.",
-        "D": "The girl sings more beautiful."
+        "A": "quick",
+        "B": "quicker",
+        "C": "quickly",
+        "D": "quicklier"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 12,
-      "question": "Which sentence uses the present continuous correctly?",
+      "question": "Which sentence is correct for 'now'?",
       "options": {
-        "A": "I am eat dinner now.",
-        "B": "I eating dinner now.",
-        "C": "I am eating dinner now.",
-        "D": "I eat dinner now."
+        "A": "He reads a book.",
+        "B": "He reading a book.",
+        "C": "He has read a book.",
+        "D": "He is reading a book."
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 13,
-      "question": "Select the correct modal verb: 'You _____ smoke in the hospital.'",
+      "question": "Complete the sentence: 'Fish _____ fly, and _____ can.'",
       "options": {
-        "A": "don't have to",
-        "B": "shouldn't",
-        "C": "mustn't",
-        "D": "couldn't"
+        "A": "can't/birds",
+        "B": "mustn't/birds",
+        "C": "can't/bird",
+        "D": "mustn't/bird"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 14,
-      "question": "Which sentence is in the future tense?",
+      "question": "Which sentence doesn't talk about a future plan?",
       "options": {
-        "A": "I go to the beach tomorrow.",
-        "B": "I went to the beach yesterday.",
-        "C": "I am going to the beach right now.",
-        "D": "I will go to the beach tomorrow."
+        "A": "She will be visiting her friends this weelend.",
+        "B": "She will have visited her friends by this weekend.",
+        "C": "She will visit her friends this weekend.",
+        "D": "She is going to visit her friends this weekend."
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 15,
-      "question": "Choose the correct article:",
+      "question": "Choose the correct article: 'We've been waiting for _____ hour.'",
       "options": {
-        "A": "I saw a elephant at the zoo.",
-        "B": "I saw an elephant at the zoo.",
-        "C": "I saw the elephant at the zoo.",
-        "D": "I saw elephant at the zoo."
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "-"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -219,23 +219,23 @@
     },
     {
       "id": 19,
-      "question": "Which response is appropriate to 'How are you?'",
+      "question": "Which response is inappropriate to 'How are you?'",
       "options": {
-        "A": "I'm 25 years old.",
-        "B": "I'm from Spain.",
-        "C": "I'm fine, thanks.",
-        "D": "I'm a teacher."
+        "A": "I'm alright.",
+        "B": "I'm good.",
+        "C": "I'm fine.",
+        "D": "I'm well."
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 20,
-      "question": "Choose the correct collocation: 'Could you _____ me a favor?'",
+      "question": "Choose the correct collocation: 'Could you _____ me some money?'",
       "options": {
-        "A": "make",
-        "B": "do",
-        "C": "give",
+        "A": "borrow",
+        "B": "lend",
+        "C": "cash",
         "D": "take"
       },
       "correct_answer": "B",
@@ -255,14 +255,14 @@
     },
     {
       "id": 22,
-      "question": "Complete the sentence: 'I'm sorry, I don't _____ what you're saying.'",
+      "question": "Complete the sentence: 'I'm sorry, I can't _____ what you're saying. It's too loud here.'",
       "options": {
         "A": "listen",
         "B": "hear",
         "C": "understand",
         "D": "know"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
@@ -279,7 +279,7 @@
     },
     {
       "id": 24,
-      "question": "Select the best word to complete this sentence: 'She always _____ her homework before dinner.'",
+      "question": "Select the best word to complete this sentence: 'She always _____ her exercises before dinner.'",
       "options": {
         "A": "makes",
         "B": "does",
@@ -296,14 +296,14 @@
         "A": "What time do you get up?",
         "B": "Why do you study English?",
         "C": "How do you go to work?",
-        "D": "How often do you exercise?"
+        "D": "How often do you train?"
       },
       "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 26,
-      "question": "Choose the word that means 'to hear with attention':",
+      "question": "Choose the word that means 'to hear':",
       "options": {
         "A": "speak",
         "B": "talk",
@@ -317,10 +317,10 @@
       "id": 27,
       "question": "What is the meaning of 'bike'?",
       "options": {
-        "A": "a vehicle with two wheels",
+        "A": "a small vehicle with two wheels",
         "B": "a large vehicle for many passengers",
-        "C": "a fast car",
-        "D": "a boat"
+        "C": "a fast car for racing",
+        "D": "a speedy boat for yachting"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -343,7 +343,7 @@
       "options": {
         "A": "leave",
         "B": "start",
-        "C": "go",
+        "C": "finish",
         "D": "reach"
       },
       "correct_answer": "D",
@@ -351,12 +351,12 @@
     },
     {
       "id": 30,
-      "question": "What is the plural form of 'pen'?",
+      "question": "What is the plural form of 'pencil'?",
       "options": {
-        "A": "pen",
-        "B": "pens",
-        "C": "penns",
-        "D": "penes"
+        "A": "pencil",
+        "B": "pencils",
+        "C": "penciles",
+        "D": "penciless"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -366,21 +366,21 @@
       "question": "What does 'first' mean?",
       "options": {
         "A": "coming before all others",
-        "B": "coming last",
+        "B": "coming after all others",
         "C": "coming in the middle",
-        "D": "not important"
+        "D": "coming between the others"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 32,
-      "question": "Which word refers to 'the natural satellite of the earth'?",
+      "question": "Which word refers to 'the natural satellite of the Earth'?",
       "options": {
-        "A": "sun",
-        "B": "star",
-        "C": "moon",
-        "D": "planet"
+        "A": "Sun",
+        "B": "Star",
+        "C": "Moon",
+        "D": "Planet"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -401,34 +401,34 @@
       "id": 34,
       "question": "Choose the correct definition of 'class':",
       "options": {
-        "A": "a group of students who study together",
-        "B": "a type of food",
-        "C": "a kind of animal",
-        "D": "a place to swim"
+        "A": "a group of students",
+        "B": "a group of workers",
+        "C": "a group of researchers",
+        "D": "a group of businessmen"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 35,
-      "question": "What does 'they' refer to?",
+      "question": "What does 'ball' refer to?",
       "options": {
-        "A": "one person",
-        "B": "two or more people",
-        "C": "one animal",
-        "D": "one thing"
+        "A": "cube",
+        "B": "sphere",
+        "C": "triangle",
+        "D": "square"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 36,
-      "question": "What does 'travel' mean?",
+      "question": "Which word means 'to go from one place to another'?",
       "options": {
-        "A": "to stay at home",
-        "B": "to go from one place to another",
-        "C": "to run fast",
-        "D": "to sleep"
+        "A": "to stay",
+        "B": "to travel",
+        "C": "to run",
+        "D": "to replace"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -439,8 +439,8 @@
       "options": {
         "A": "to go out",
         "B": "to come in",
-        "C": "to stay",
-        "D": "to leave"
+        "C": "to stay in",
+        "D": "to leave for"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -459,12 +459,12 @@
     },
     {
       "id": 39,
-      "question": "Choose the word that means 'all people':",
+      "question": "Choose the word that means 'to prefer one thing over another':",
       "options": {
-        "A": "someone",
-        "B": "anyone",
-        "C": "everyone",
-        "D": "no one"
+        "A": "chase",
+        "B": "chess",
+        "C": "choose",
+        "D": "change"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -473,10 +473,10 @@
       "id": 40,
       "question": "What does 'those' refer to?",
       "options": {
-        "A": "things near the speaker",
+        "A": "things close to the speaker",
         "B": "things far from the speaker",
-        "C": "one thing only",
-        "D": "all people"
+        "C": "things irrelevant to the speaker",
+        "D": "things important to the speaker"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -509,8 +509,8 @@
       "id": 43,
       "question": "According to paragraph 2, how many stone blocks were used to build the Great Pyramid of Giza?",
       "options": {
-        "A": "More than one million",
-        "B": "More than two million",
+        "A": "Around one million",
+        "B": "Over two million",
         "C": "About 2.5 tons",
         "D": "About 3,800"
       },
@@ -524,7 +524,7 @@
         "A": "2,560 years",
         "B": "3,100 years",
         "C": "3,800 years",
-        "D": "30 years"
+        "D": "1,500 years"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -560,7 +560,7 @@
         "A": "A writing system",
         "B": "Paper from papyrus",
         "C": "Pyramids",
-        "D": "Modern technology"
+        "D": "Wheels"
       },
       "correct_answer": "D",
       "category": "Reading"
@@ -593,10 +593,10 @@
       "id": 50,
       "question": "What is the main purpose of this passage?",
       "options": {
-        "A": "To explain how pyramids were built",
-        "B": "To provide basic information about ancient Egyptian civilization",
-        "C": "To describe the life of Tutankhamun",
-        "D": "To explain Egyptian writing systems"
+        "A": "To explain how and by whom pyramids were built",
+        "B": "To provide basic information about ancient Egypt",
+        "C": "To describe the life of Tutankhamun as a pharaoh",
+        "D": "To explain Egyptian writing and numerical systems"
       },
       "correct_answer": "B",
       "category": "Reading"
