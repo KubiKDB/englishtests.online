@@ -3,55 +3,55 @@
   "questions": [
     {
       "id": 1,
-      "question": "She ___ to school every day.",
+      "question": "She ___ he ___ right.",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "going",
-        "D": "is go"
+        "A": "knew/is",
+        "B": "knew/was",
+        "C": "known/was",
+        "D": "has known/is"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 2,
-      "question": "We ___ TV last night.",
+      "question": "We ___ in London ___ time.",
       "options": {
-        "A": "watch",
-        "B": "watching",
-        "C": "watched",
-        "D": "watches"
+        "A": "arrive/on",
+        "B": "arrived/at",
+        "C": "arrived/on",
+        "D": "arrive/at"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 3,
-      "question": "There ___ a book on the table.",
+      "question": "There ___ a book and two pencils on the table.",
       "options": {
         "A": "is",
         "B": "are",
         "C": "am",
         "D": "be"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 4,
-      "question": "___ you like coffee?",
+      "question": "___ you like ___?",
       "options": {
-        "A": "Are",
-        "B": "Is",
-        "C": "Do",
-        "D": "Does"
+        "A": "Are/swimming",
+        "B": "Do/swim",
+        "C": "Do/swimming",
+        "D": "Does/to swim"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 5,
-      "question": "They ___ playing soccer now.",
+      "question": "They ___ playing chess now.",
       "options": {
         "A": "is",
         "B": "are",
@@ -63,7 +63,7 @@
     },
     {
       "id": 6,
-      "question": "She ___ speak English well.",
+      "question": "She ___ speak Spanish well.",
       "options": {
         "A": "don't",
         "B": "not",
@@ -77,9 +77,9 @@
       "id": 7,
       "question": "I ___ my homework yesterday.",
       "options": {
-        "A": "finish",
-        "B": "finishes",
-        "C": "finishing",
+        "A": "have been finishing",
+        "B": "have finished",
+        "C": "had finished",
         "D": "finished"
       },
       "correct_answer": "D",
@@ -87,7 +87,7 @@
     },
     {
       "id": 8,
-      "question": "___ there any milk in the fridge?",
+      "question": "___ there any brown sugar in the box?",
       "options": {
         "A": "Is",
         "B": "Are",
@@ -99,12 +99,12 @@
     },
     {
       "id": 9,
-      "question": "He ___ to the store every Saturday.",
+      "question": "Two boxers ___ on the ___.",
       "options": {
-        "A": "go",
-        "B": "going",
-        "C": "goes",
-        "D": "is going"
+        "A": "sought/ring",
+        "B": "fight/call",
+        "C": "fought/ring",
+        "D": "bought/gloves"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -123,7 +123,7 @@
     },
     {
       "id": 11,
-      "question": "The children ___ playing in the park right now.",
+      "question": "Black sheep ___ eating grass on the lawn right now.",
       "options": {
         "A": "is",
         "B": "are",
@@ -140,7 +140,7 @@
         "A": "Are",
         "B": "Have",
         "C": "Do",
-        "D": "Is"
+        "D": "Should"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -159,57 +159,57 @@
     },
     {
       "id": 14,
-      "question": "The book ___ on the shelf.",
+      "question": "He parked the car ___ the street.",
       "options": {
-        "A": "are",
-        "B": "be",
-        "C": "am",
-        "D": "is"
+        "A": "by",
+        "B": "in",
+        "C": "at",
+        "D": "on"
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 15,
-      "question": "I ___ to the beach last summer.",
+      "question": "I have never been ___ Africa.",
       "options": {
-        "A": "going",
-        "B": "go",
-        "C": "went",
-        "D": "goes"
+        "A": "on",
+        "B": "in",
+        "C": "to",
+        "D": "at"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 16,
-      "question": "What's the correct response to 'How are you?'",
+      "question": "What's the correct response to 'Could you help me, please?'",
       "options": {
-        "A": "I'm John.",
-        "B": "I'm fine, thank you.",
-        "C": "I'm at school.",
-        "D": "I'm eating lunch."
+        "A": "Yes, I should",
+        "B": "Yes, I could.",
+        "C": "Yes, I must.",
+        "D": "No, I could."
       },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 17,
-      "question": "Can you ___ me the salt, please?",
+      "question": "Can you ___ that button, please?",
       "options": {
         "A": "pass",
-        "B": "passing",
-        "C": "to pass",
-        "D": "passed"
+        "B": "press",
+        "C": "to press",
+        "D": "oppress"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 18,
       "question": "What do you say when you meet someone for the first time?",
       "options": {
-        "A": "Goodbye",
+        "A": "Nice to meet me",
         "B": "See you later",
         "C": "Nice to meet you",
         "D": "Good night"
@@ -219,26 +219,26 @@
     },
     {
       "id": 19,
-      "question": "Can I ___ your pen?",
+      "question": "Can you ___ me your laptop?",
       "options": {
-        "A": "to borrow",
-        "B": "borrowing",
-        "C": "borrow",
-        "D": "borrows"
+        "A": "trade",
+        "B": "land",
+        "C": "lend",
+        "D": "rent"
       },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 20,
-      "question": "___ is your name?",
+      "question": "___ does it taste like?",
       "options": {
-        "A": "When",
-        "B": "What",
-        "C": "Where",
+        "A": "What",
+        "B": "How",
+        "C": "Why",
         "D": "Who"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Use of English"
     },
     {
@@ -269,10 +269,10 @@
       "id": 23,
       "question": "We're ___ to the cinema tonight.",
       "options": {
-        "A": "go",
-        "B": "goes",
+        "A": "traveling",
+        "B": "bringing",
         "C": "going",
-        "D": "went"
+        "D": "wenting"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -331,8 +331,8 @@
       "options": {
         "A": "easy",
         "B": "simple",
-        "C": "fun",
-        "D": "difficult"
+        "C": "scary",
+        "D": "hard"
       },
       "correct_answer": "D",
       "category": "Vocabulary"
@@ -342,7 +342,7 @@
       "question": "I ___ playing tennis on weekends.",
       "options": {
         "A": "enjoy",
-        "B": "hate",
+        "B": "want",
         "C": "dislike",
         "D": "fear"
       },
@@ -354,19 +354,19 @@
       "question": "He likes to ___ in the park every morning.",
       "options": {
         "A": "sleep",
-        "B": "sit",
+        "B": "swim",
         "C": "run",
-        "D": "eat"
+        "D": "learn"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 31,
-      "question": "The control ___ has buttons to change the TV channels.",
+      "question": "The ___ has buttons to change the TV channels.",
       "options": {
         "A": "screen",
-        "B": "panel",
+        "B": "remote",
         "C": "window",
         "D": "door"
       },
@@ -426,23 +426,23 @@
       "question": "Please tell me the ___ about what happened.",
       "options": {
         "A": "truth",
-        "B": "story",
+        "B": "history",
         "C": "lie",
-        "D": "news"
+        "D": "new"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 37,
-      "question": "She bought new ___ for the party.",
+      "question": "She bought new ___ for her appartement.",
       "options": {
         "A": "food",
         "B": "furniture",
         "C": "clothes",
         "D": "books"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
@@ -451,7 +451,7 @@
       "options": {
         "A": "sleep",
         "B": "money",
-        "C": "time",
+        "C": "ability",
         "D": "practice"
       },
       "correct_answer": "D",
@@ -473,10 +473,10 @@
       "id": 40,
       "question": "Scientists do ___ to find answers to important questions.",
       "options": {
-        "A": "shopping",
-        "B": "cooking",
+        "A": "activity",
+        "B": "exercise",
         "C": "research",
-        "D": "gardening"
+        "D": "problem"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -485,7 +485,7 @@
       "id": 41,
       "question": "According to paragraph 1, plants for medicine have been used for:",
       "options": {
-        "A": "a few years",
+        "A": "tens of years",
         "B": "hundreds of years",
         "C": "thousands of years",
         "D": "millions of years"
@@ -511,8 +511,8 @@
       "options": {
         "A": "sleeping better",
         "B": "stomach pain",
-        "C": "headaches",
-        "D": "healing cuts and burns"
+        "C": "headaches and toothaches",
+        "D": "cuts and burns"
       },
       "correct_answer": "D",
       "category": "Reading"
@@ -521,9 +521,9 @@
       "id": 44,
       "question": "Based on paragraph 3, where do some people get medicinal plants?",
       "options": {
-        "A": "from stores",
+        "A": "from stores and markets",
         "B": "from forests or mountains",
-        "C": "from doctors",
+        "C": "from doctors and healers",
         "D": "from other countries"
       },
       "correct_answer": "B",
@@ -533,10 +533,10 @@
       "id": 45,
       "question": "According to paragraph 3, why do people grow medicinal plants in their gardens?",
       "options": {
-        "A": "to sell them",
+        "A": "to sell them on the market",
         "B": "to make their gardens beautiful",
-        "C": "to always have the plants when needed",
-        "D": "to give them to doctors"
+        "C": "to have the plants when needed",
+        "D": "to give them to their doctors"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -545,8 +545,8 @@
       "id": 46,
       "question": "In paragraph 4, what do modern scientists study?",
       "options": {
-        "A": "how to grow plants",
-        "B": "why medicinal plants work",
+        "A": "how medicinal plants grow",
+        "B": "how medicinal plants work",
         "C": "how to find new plants",
         "D": "how to cook with plants"
       },
@@ -570,7 +570,7 @@
       "question": "The main idea of the passage is:",
       "options": {
         "A": "Plants are important for medicine around the world.",
-        "B": "Scientists make all medicines from plants.",
+        "B": "Scientists make all medicines in the world from plants.",
         "C": "People should grow plants in their gardens.",
         "D": "Modern medicine is better than plant medicine."
       },
@@ -581,10 +581,10 @@
       "id": 49,
       "question": "According to the passage, how do people learn about medicinal plants?",
       "options": {
-        "A": "from books",
-        "B": "from the internet",
+        "A": "from books and medicine professors",
+        "B": "from the internet and libraries",
         "C": "from their parents and grandparents",
-        "D": "from teachers"
+        "D": "from teachers and doctors"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -595,7 +595,7 @@
       "options": {
         "A": "Plants are no longer important for medicine.",
         "B": "Traditional knowledge about plants is valuable.",
-        "C": "Only doctors should use plant medicine.",
+        "C": "Only doctors know how to use plant medicine correctly.",
         "D": "All plants can be used as medicine."
       },
       "correct_answer": "B",
