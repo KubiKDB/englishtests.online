@@ -41,10 +41,10 @@
       "id": 4,
       "question": "Select the correct past tense form: 'Last week, we _____ to the beach.'",
       "options": {
-        "A": "go",
+        "A": "want",
         "B": "went",
-        "C": "goes",
-        "D": "gone"
+        "C": "won't",
+        "D": "were"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -123,7 +123,7 @@
     },
     {
       "id": 11,
-      "question": "Choose the correct form: 'He _____ TV right now.'",
+      "question": "Choose the correct form: 'He _____ YouTube right now.'",
       "options": {
         "A": "watches",
         "B": "watch",
@@ -185,9 +185,9 @@
       "id": 16,
       "question": "Select the correct response to 'How are you?'",
       "options": {
-        "A": "I am a teacher.",
-        "B": "I am fine, thank you.",
-        "C": "I am at home.",
+        "A": "I am already.",
+        "B": "I am fine.",
+        "C": "I am on time.",
         "D": "I am tall."
       },
       "correct_answer": "B",
@@ -223,8 +223,8 @@
       "options": {
         "A": "You're welcome",
         "B": "I'm fine",
-        "C": "Good night",
-        "D": "Hello"
+        "C": "Thanks good",
+        "D": "Your pleasure"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -260,7 +260,7 @@
         "A": "My name is John.",
         "B": "I call John.",
         "C": "Me John.",
-        "D": "John is mine."
+        "D": "John is mine name."
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -317,8 +317,8 @@
       "id": 27,
       "question": "What is a 'plane'?",
       "options": {
-        "A": "A type of food",
-        "B": "A vehicle that flies",
+        "A": "A green valley",
+        "B": "A flying vehicle",
         "C": "A musical instrument",
         "D": "A tall building"
       },
@@ -344,7 +344,7 @@
         "A": "Break it",
         "B": "Sell it",
         "C": "Buy it",
-        "D": "Take it home"
+        "D": "Return it"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -353,10 +353,10 @@
       "id": 30,
       "question": "What is a 'society'?",
       "options": {
-        "A": "A type of plant",
+        "A": "A group of plants",
         "B": "A group of people",
-        "C": "A kind of animal",
-        "D": "A time of day"
+        "C": "A group of animals",
+        "D": "A group of objects"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -367,7 +367,7 @@
       "options": {
         "A": "To send a letter",
         "B": "To clean a window",
-        "C": "To cook food",
+        "C": "To cook a dinner",
         "D": "To fix a car"
       },
       "correct_answer": "A",
@@ -377,22 +377,22 @@
       "id": 32,
       "question": "When you 'compare' two things, you:",
       "options": {
-        "A": "Put them together",
-        "B": "Look at how they are different",
+        "A": "Put them apart",
+        "B": "Find differences",
         "C": "Break them into four",
-        "D": "Buy them and bring home"
+        "D": "Navigate using them"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 33,
-      "question": "What is a 'star'?",
+      "question": "What are 'bright dots in the sky'?",
       "options": {
-        "A": "A bright light in the night sky",
-        "B": "A type of food in a restaurant",
-        "C": "An upper part of a house",
-        "D": "A type of truck"
+        "A": "stars",
+        "B": "lamps",
+        "C": "lights",
+        "D": "shines"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -401,10 +401,10 @@
       "id": 34,
       "question": "When you 'keep' something, you:",
       "options": {
-        "A": "Throw it away",
-        "B": "Break it",
-        "C": "Give it to someone else",
-        "D": "Have and hold it"
+        "A": "Throw it",
+        "B": "Put it",
+        "C": "Give it",
+        "D": "Hold it"
       },
       "correct_answer": "D",
       "category": "Vocabulary"
@@ -416,19 +416,19 @@
         "A": "Lives in a zoo",
         "B": "Lives in nature",
         "C": "Lives in a house",
-        "D": "Is very small"
+        "D": "Lives in captivity"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 36,
-      "question": "When you 'explain' something, you:",
+      "question": "When you want someone to understand something, you:",
       "options": {
-        "A": "Make it confusing",
-        "B": "Help understand",
-        "C": "Break the thing",
-        "D": "Buy the item"
+        "A": "Confuse",
+        "B": "Explain",
+        "C": "Exchange",
+        "D": "Contribute"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -474,7 +474,7 @@
       "question": "If something is 'expensive', it:",
       "options": {
         "A": "Costs a lot",
-        "B": "Is very cheap",
+        "B": "Costs a little",
         "C": "Has no price",
         "D": "Is free"
       },
