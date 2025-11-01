@@ -77,10 +77,10 @@
       "id": 7,
       "question": "Which is grammatically correct?",
       "options": {
-        "A": "I am student.",
-        "B": "I student.",
-        "C": "I a student.",
-        "D": "I am a student."
+        "A": "I am teacher.",
+        "B": "I teacher.",
+        "C": "I a teacher.",
+        "D": "I am a teacher."
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -149,10 +149,10 @@
       "id": 13,
       "question": "Select the correct sentence:",
       "options": {
-        "A": "Do you likes tea?",
-        "B": "Do you like tea?",
-        "C": "Are you like tea?",
-        "D": "Does you like tea?"
+        "A": "Do you likes bananas?",
+        "B": "Do you like bananas?",
+        "C": "Are you like bananas?",
+        "D": "Does you like bananas?"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -183,55 +183,55 @@
     },
     {
       "id": 16,
-      "question": "Choose the word that best completes the sentence: 'My friend and I _____ to the cinema yesterday.'",
+      "question": "Choose the word that best completes the sentence: 'My friend and I _____ the tickets to the show.'",
       "options": {
-        "A": "gone",
-        "B": "goes",
-        "C": "went",
-        "D": "going"
+        "A": "haven't",
+        "B": "has",
+        "C": "have",
+        "D": "get"
       },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 17,
-      "question": "Complete the sentence: 'She _____ breakfast every morning at 7 o'clock.'",
+      "question": "Complete the sentence: 'She _____ him attractive.'",
       "options": {
-        "A": "eat",
-        "B": "eats",
-        "C": "eating",
-        "D": "ate"
+        "A": "founds",
+        "B": "finds",
+        "C": "thinks",
+        "D": "looks"
       },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 18,
-      "question": "Fill in the blank: 'They _____ TV in the evenings.'",
+      "question": "Fill in the blank: 'They _____ in Europe in the summer.'",
       "options": {
-        "A": "watch",
-        "B": "watches",
-        "C": "watching",
-        "D": "are watch"
+        "A": "traveled",
+        "B": "tripped",
+        "C": "journeyed",
+        "D": "located"
       },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 19,
-      "question": "Complete the sentence: 'There _____ a book on the table.'",
+      "question": "Complete the sentence: 'I _____ water my garden every day.'",
       "options": {
-        "A": "is",
-        "B": "are",
-        "C": "be",
-        "D": "have"
+        "A": "have",
+        "B": "got",
+        "C": "has",
+        "D": "have to"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 20,
-      "question": "Choose the correct word: 'I want _____ an apple.'",
+      "question": "Choose the correct word: 'I want _____ pasta.'",
       "options": {
         "A": "eat",
         "B": "eating",
@@ -243,14 +243,14 @@
     },
     {
       "id": 21,
-      "question": "Fill in the blank: 'We _____ coffee in the morning.'",
+      "question": "Fill in the blank: 'We used _____ coffee in the morning.'",
       "options": {
         "A": "drinking",
         "B": "drinks",
         "C": "drink",
         "D": "to drink"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -259,7 +259,7 @@
       "options": {
         "A": "live",
         "B": "lives",
-        "C": "living",
+        "C": "has lived",
         "D": "is live"
       },
       "correct_answer": "B",
@@ -294,7 +294,7 @@
       "question": "Complete the sentence: 'I _____ to the park tomorrow.'",
       "options": {
         "A": "go",
-        "B": "going",
+        "B": "will going",
         "C": "am going",
         "D": "goes"
       },
@@ -305,22 +305,22 @@
       "id": 26,
       "question": "What is a 'dress'?",
       "options": {
-        "A": "A type of food",
+        "A": "A piece of paper",
         "B": "A piece of clothing",
-        "C": "A kind of drink",
-        "D": "A place to live"
+        "C": "A piece of wood",
+        "D": "A piece of furniture"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 27,
-      "question": "What does 'spread' mean?",
+      "question": "What does 'cruise' mean?",
       "options": {
-        "A": "To move over space",
-        "B": "To talk with noise",
-        "C": "To run quickly",
-        "D": "To sleep deeply"
+        "A": "a voyage on a ship",
+        "B": "a voyage on a train",
+        "C": "a voyage on a plane",
+        "D": "a voyage on a bike"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -329,10 +329,10 @@
       "id": 28,
       "question": "What is your 'face'?",
       "options": {
-        "A": "Part you walk on",
-        "B": "Part you hold with",
+        "A": "Part of your stomach",
+        "B": "Part of your hand",
         "C": "Part of your head",
-        "D": "Part with the nail"
+        "D": "Part of your shoulder"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -341,7 +341,7 @@
       "id": 29,
       "question": "What does 'still' mean?",
       "options": {
-        "A": "Moving a lot",
+        "A": "Not standing",
         "B": "Not moving",
         "C": "Very fast",
         "D": "Very loud"
@@ -363,19 +363,19 @@
     },
     {
       "id": 31,
-      "question": "What does 'expect' mean?",
+      "question": "Which word means 'to think something will happen'?",
       "options": {
-        "A": "To think something will happen",
-        "B": "To forget something",
-        "C": "To dislike something",
-        "D": "To be afraid of something"
+        "A": "To expect",
+        "B": "To forget",
+        "C": "To dislike",
+        "D": "To experience"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 32,
-      "question": "What is the 'future'?",
+      "question": "What is in the 'future'?",
       "options": {
         "A": "Yesterday",
         "B": "Today",
@@ -387,14 +387,14 @@
     },
     {
       "id": 33,
-      "question": "When is 'summer'?",
+      "question": "The Christmas is in:",
       "options": {
-        "A": "The cold season",
-        "B": "The hot season",
-        "C": "The rainy season",
-        "D": "The windy season"
+        "A": "The spring",
+        "B": "The summer",
+        "C": "The autumn",
+        "D": "The winter"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -403,8 +403,8 @@
       "options": {
         "A": "A type of vegetable",
         "B": "A kind of fruit",
-        "C": "A food made from flour",
-        "D": "A type of meat"
+        "C": "A type of bakery",
+        "D": "A kind of seafood"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -414,16 +414,16 @@
       "question": "What is a 'mission'?",
       "options": {
         "A": "An important task",
-        "B": "A type of building",
-        "C": "A kind of animal",
-        "D": "A piece of furniture"
+        "B": "An exciting adventure",
+        "C": "An expensive mistake",
+        "D": "An impossible idea"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 36,
-      "question": "What does 'supply' mean?",
+      "question": "What does 'to supply' mean?",
       "options": {
         "A": "To ask a question",
         "B": "To give something",
@@ -438,8 +438,8 @@
       "question": "What is a 'letter'?",
       "options": {
         "A": "A message on paper",
-        "B": "A type of food",
-        "C": "A kind of building",
+        "B": "A message on sand",
+        "C": "A part of a process",
         "D": "A part of a computer"
       },
       "correct_answer": "A",
@@ -449,10 +449,10 @@
       "id": 38,
       "question": "What does 'necessary' mean?",
       "options": {
-        "A": "Not important",
-        "B": "Needed",
-        "C": "Beautiful",
-        "D": "Expensive"
+        "A": "Important",
+        "B": "Required",
+        "C": "Different",
+        "D": "Desired"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -461,10 +461,10 @@
       "id": 39,
       "question": "What does 'bright' mean?",
       "options": {
-        "A": "Full of light",
-        "B": "Very dark",
-        "C": "Very cold",
-        "D": "Very hot"
+        "A": "Light",
+        "B": "Dark",
+        "C": "Cold",
+        "D": "Hot"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -473,9 +473,9 @@
       "id": 40,
       "question": "What does 'prove' mean?",
       "options": {
-        "A": "To make something cold",
+        "A": "To make something true",
         "B": "To show something is true",
-        "C": "To break something",
+        "C": "To seek something",
         "D": "To hide something"
       },
       "correct_answer": "B",
@@ -500,7 +500,7 @@
         "A": "Oceans only",
         "B": "Seas only",
         "C": "Lakes only",
-        "D": "Oceans, seas, lakes, and rivers"
+        "D": "All of the above"
       },
       "correct_answer": "D",
       "category": "Reading"
@@ -521,7 +521,7 @@
       "id": 44,
       "question": "Based on paragraph 2, what is special about many plants and animals on islands?",
       "options": {
-        "A": "They can fly",
+        "A": "They live in big groups",
         "B": "They are very colorful",
         "C": "They only live there",
         "D": "They are very large"
@@ -533,8 +533,8 @@
       "id": 45,
       "question": "According to paragraph 3, people visit islands to:",
       "options": {
-        "A": "Work",
-        "B": "Study",
+        "A": "Work temporarily",
+        "B": "Study in nature",
         "C": "Live permanently",
         "D": "Have holidays"
       },
@@ -543,14 +543,14 @@
     },
     {
       "id": 46,
-      "question": "Based on paragraph 3, what can visitors do on islands?",
+      "question": "Based on paragraph 3, what can't visitors do on islands?",
       "options": {
-        "A": "Only swim",
-        "B": "Only fish",
-        "C": "Swim, fish, or relax in the sun",
-        "D": "Only build houses"
+        "A": "Swim",
+        "B": "Fish",
+        "C": "Relax",
+        "D": "Hunt"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -558,8 +558,8 @@
       "question": "According to paragraph 4, islands are:",
       "options": {
         "A": "All the same",
-        "B": "All hot",
-        "C": "All cold",
+        "B": "All located in warm waters",
+        "C": "All located in cold waters",
         "D": "Different from each other"
       },
       "correct_answer": "D",
@@ -569,10 +569,10 @@
       "id": 48,
       "question": "Based on paragraph 4, what makes all islands special?",
       "options": {
-        "A": "They all have mountains",
+        "A": "They all have mountains and long rivers",
         "B": "They are separate from the mainland",
-        "C": "They all have a lot of rain",
-        "D": "They are all very hot"
+        "C": "They all have a lot of rain in the jungles",
+        "D": "They are all very hot and humid"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -582,9 +582,9 @@
       "question": "What is the main idea of the passage?",
       "options": {
         "A": "Islands are only good for holidays",
-        "B": "All islands are the same",
+        "B": "Islands should be protected from human influence",
         "C": "Islands are special places with unique features",
-        "D": "Islands are not good places to live"
+        "D": "Islands are not good places to live permanently"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -593,10 +593,10 @@
       "id": 50,
       "question": "According to the passage, what do some people like to learn about on islands?",
       "options": {
-        "A": "How to build boats",
-        "B": "How to swim on boats",
+        "A": "How islands are separated by water",
+        "B": "How to swim and dive in island waters",
         "C": "The people who live there",
-        "D": "How to fish properly"
+        "D": "The local fish species"
       },
       "correct_answer": "C",
       "category": "Reading"
