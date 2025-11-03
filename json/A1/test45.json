@@ -3,351 +3,601 @@
   "questions": [
     {
       "id": 1,
-      "question": "She _____ to school every day.",
-      "options": {"A": "go", "B": "goes", "C": "going", "D": "is go"},
+      "question": "She _____ a lot of cookies two days ago.",
+      "options": {
+        "A": "sell", 
+        "B": "sold",
+        "C": "selled", 
+        "D": "have sold"
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 2,
-      "question": "I _____ watching TV now.",
-      "options": {"A": "is", "B": "are", "C": "am", "D": "be"},
-      "correct_answer": "C",
+      "question": "They _____ surfing right now.",
+      "options": {
+        "A": "is",
+        "B": "are", 
+        "C": "am", 
+        "D": "be"
+      },
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 3,
-      "question": "They _____ playing football yesterday.",
-      "options": {"A": "was", "B": "were", "C": "are", "D": "is"},
+      "question": "_____ playing football yesterday?",
+      "options": {
+        "A": "Was they", 
+        "B": "Were they",
+        "C": "They was",
+        "D": "They were"
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 4,
-      "question": "_____ she like chocolate?",
-      "options": {"A": "Do", "B": "Does", "C": "Is", "D": "Are"},
+      "question": "_____ responsible?",
+      "options": {
+        "A": "Whose",
+        "B": "Who is",
+        "C": "Who does", 
+        "D": "Who has"
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 5,
-      "question": "We _____ have a cat.",
-      "options": {"A": "not", "B": "don't", "C": "doesn't", "D": "aren't"},
+      "question": "I don't know _____ they have a cat.",
+      "options": {
+        "A": "weather", 
+        "B": "whether",
+        "C": "wherever",
+        "D": "whereas"
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 6,
-      "question": "_____ there any milk in the fridge?",
-      "options": {"A": "Is", "B": "Are", "C": "Do", "D": "Does"},
+      "question": "They _____ a marathon last year",
+      "options": {
+        "A": "ran", 
+        "B": "run", 
+        "C": "ram", 
+        "D": "rum"
+      },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 7,
-      "question": "The book is _____ the table.",
-      "options": {"A": "on", "B": "in", "C": "at", "D": "of"},
-      "correct_answer": "A",
+      "question": "I _____ a tram in San Francisco.",
+      "options": {
+        "A": "look", 
+        "B": "book", 
+        "C": "took",
+        "D": "cook"
+      },
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 8,
-      "question": "She _____ a new dress yesterday.",
-      "options": {"A": "buy", "B": "buys", "C": "buying", "D": "bought"},
+      "question": "She _____ a charming appartement in Malaga.",
+      "options": {
+        "A": "blocked", 
+        "B": "locked",
+        "C": "looked", 
+        "D": "booked"
+      },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 9,
-      "question": "My brother is _____ than me.",
-      "options": {"A": "tall", "B": "taller", "C": "tallest", "D": "more tall"},
+      "question": "My brother is good at _____.",
+      "options": {
+        "A": "chase", 
+        "B": "chess",
+        "C": "choose",
+        "D": "chance"
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 10,
       "question": "I _____ my homework tomorrow.",
-      "options": {"A": "do", "B": "did", "C": "doing", "D": "will do"},
+      "options": {
+        "A": "have done", 
+        "B": "did",
+        "C": "was doing",
+        "D": "will do"
+      },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 11,
-      "question": "This is _____ pencil.",
-      "options": {"A": "a", "B": "an", "C": "the", "D": ""},
-      "correct_answer": "A",
+      "question": "There are _____ roses in the garden.",
+      "options": {
+        "A": "a", 
+        "B": "an",
+        "C": "the",
+        "D": "-"
+      },
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 12,
-      "question": "Those are _____ books.",
-      "options": {"A": "they", "B": "them", "C": "their", "D": "theirs"},
+      "question": "Those are _____ bikes.",
+      "options": {
+        "A": "they",
+        "B": "them",
+        "C": "their",
+        "D": "theirs"
+      },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 13,
-      "question": "He _____ speak English very well.",
-      "options": {"A": "can", "B": "is", "C": "do", "D": "has"},
+      "question": "His _____ English is very good.",
+      "options": {
+        "A": "spoken",
+        "B": "spoke", 
+        "C": "speech",
+        "D": "speaking"
+      },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 14,
       "question": "We _____ going to the party tonight.",
-      "options": {"A": "be", "B": "is", "C": "are", "D": "am"},
+      "options": {
+        "A": "be", 
+        "B": "is",
+        "C": "are",
+        "D": "am"
+      },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 15,
-      "question": "She doesn't _____ coffee.",
-      "options": {"A": "likes", "B": "like", "C": "liking", "D": "to like"},
+      "question": "She is _____ to oranges.",
+      "options": {
+        "A": "allegro", 
+        "B": "allergic", 
+        "C": "allegory",
+        "D": "allegedly"
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 16,
       "question": "Which word means 'to ask for more money for your work'?",
-      "options": {"A": "deal", "B": "raise", "C": "remain", "D": "divide"},
+      "options": {
+        "A": "deal",
+        "B": "raise",
+        "C": "remain", 
+        "D": "divide"
+      },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 17,
-      "question": "I have to _____ my homework before dinner.",
-      "options": {"A": "stone", "B": "transport", "C": "must", "D": "space"},
+      "question": "I must _____ my homework on weekend.",
+      "options": {
+        "A": "subway", 
+        "B": "submerge",
+        "C": "submit", 
+        "D": "subscribe"
+      },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 18,
       "question": "There are _____ students in my class.",
-      "options": {"A": "six", "B": "foot", "C": "steel", "D": "angle"},
+      "options": {
+        "A": "a lot of", 
+        "B": "a few of",
+        "C": "a many of",
+        "D": "a much of"
+      },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 19,
-      "question": "The teacher made a good _____ with the school.",
-      "options": {"A": "travel", "B": "class", "C": "deal", "D": "stone"},
+      "question": "The teacher has a _____ with the school.",
+      "options": {
+        "A": "contact",
+        "B": "context",
+        "C": "contract", 
+        "D": "content"
+      },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 20,
-      "question": "Please wash _____ before dinner.",
-      "options": {"A": "remain", "B": "yourself", "C": "divide", "D": "space"},
+      "question": "Please wash your _____ before dinner.",
+      "options": {
+        "A": "legs", 
+        "B": "hands", 
+        "C": "head", 
+        "D": "mouth"
+      },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 21,
       "question": "My father works with _____ at his factory.",
-      "options": {"A": "steel", "B": "class", "C": "angle", "D": "raise"},
+      "options": {
+        "A": "steel",
+        "B": "steal", 
+        "C": "style",
+        "D": "stool"
+      },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 22,
       "question": "He hurt his _____ while playing soccer.",
-      "options": {"A": "raise", "B": "space", "C": "stone", "D": "foot"},
+      "options": {
+        "A": "angle", 
+        "B": "angel", 
+        "C": "aunt",
+        "D": "ankle"
+      },
       "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 23,
       "question": "Please _____ in your seat until the plane lands.",
-      "options": {"A": "remain", "B": "divide", "C": "deal", "D": "transport"},
+      "options": {
+        "A": "remain", 
+        "B": "remind", 
+        "C": "remove", 
+        "D": "replay"
+      },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 24,
-      "question": "The carpenter measured the _____ of the corner.",
-      "options": {"A": "steel", "B": "angle", "C": "yourself", "D": "transport"},
+      "question": "The carpenter measured the _____ of the _____.",
+      "options": {
+        "A": "corner/angle", 
+        "B": "angle/corner", 
+        "C": "angel/corner", 
+        "D": "corner/angel"
+      },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 25,
-      "question": "She used a _____ to build her garden wall.",
-      "options": {"A": "travel", "B": "deal", "C": "stone", "D": "class"},
+      "question": "She used _____ to make a transparent wall.",
+      "options": {
+        "A": "pass",
+        "B": "grass", 
+        "C": "glass", 
+        "D": "class"
+      },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 26,
       "question": "My _____ starts at 9 o'clock every morning.",
-      "options": {"A": "raise", "B": "class", "C": "divide", "D": "six"},
+      "options": {
+        "A": "shirt",
+        "B": "shift",
+        "C": "short",
+        "D": "shut"
+      },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 27,
       "question": "Buses are a form of public _____.",
-      "options": {"A": "transport", "B": "space", "C": "angle", "D": "must"},
+      "options": {
+        "A": "transport",
+        "B": "movement",
+        "C": "transparent", 
+        "D": "relocation"
+      },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 28,
       "question": "The astronauts went into _____.",
-      "options": {"A": "foot", "B": "remain", "C": "space", "D": "steel"},
+      "options": {
+        "A": "air",
+        "B": "cloud",
+        "C": "space",
+        "D": "plane"
+      },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 29,
       "question": "I like to _____ to new countries every summer.",
-      "options": {"A": "travel", "B": "stone", "C": "deal", "D": "raise"},
+      "options": {
+        "A": "travel", 
+        "B": "trip",
+        "C": "journey", 
+        "D": "voyage"
+      },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 30,
       "question": "Please _____ the pizza into eight pieces.",
-      "options": {"A": "must", "B": "yourself", "C": "divide", "D": "class"},
+      "options": {
+        "A": "cute", 
+        "B": "put",
+        "C": "cut",
+        "D": "but"
+      },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 31,
       "question": "She lives _____ a big house.",
-      "options": {"A": "at", "B": "on", "C": "in", "D": "by"},
+      "options": {
+        "A": "at", 
+        "B": "on", 
+        "C": "in", 
+        "D": "by"
+      },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 32,
       "question": "I usually go to bed _____ 10 pm.",
-      "options": {"A": "on", "B": "in", "C": "at", "D": "for"},
+      "options": {
+        "A": "on",
+        "B": "in", 
+        "C": "at",
+        "D": "for"
+      },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 33,
       "question": "_____ you like some tea?",
-      "options": {"A": "Are", "B": "Would", "C": "Have", "D": "Do"},
+      "options": {
+        "A": "Are",
+        "B": "Would",
+        "C": "Have", 
+        "D": "Do"
+      },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 34,
       "question": "I'm _____ hungry now.",
-      "options": {"A": "very", "B": "much", "C": "lot", "D": "many"},
+      "options": {
+        "A": "very",
+        "B": "much",
+        "C": "lot", 
+        "D": "many"
+      },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 35,
-      "question": "She _____ a shower every morning.",
-      "options": {"A": "makes", "B": "does", "C": "takes", "D": "has"},
+      "question": "She _____ her breath underwater.",
+      "options": {
+        "A": "makes", 
+        "B": "does", 
+        "C": "holds",
+        "D": "has"
+      },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 36,
-      "question": "I _____ tennis twice a week.",
-      "options": {"A": "do", "B": "make", "C": "play", "D": "go"},
+      "question": "I enjoy _____ tennis twice a week.",
+      "options": {
+        "A": "doing", 
+        "B": "making",
+        "C": "playing",
+        "D": "going"
+      },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 37,
-      "question": "Can you _____ me with my homework?",
-      "options": {"A": "help", "B": "make", "C": "do", "D": "give"},
-      "correct_answer": "A",
+      "question": "Can you _____ my homework for me?",
+      "options": {
+        "A": "help",
+        "B": "make", 
+        "C": "do", 
+        "D": "give"
+      },
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 38,
       "question": "I don't have _____ money.",
-      "options": {"A": "some", "B": "a", "C": "any", "D": "no"},
+      "options": {
+        "A": "some",
+        "B": "a", 
+        "C": "any",
+        "D": "no"
+      },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 39,
-      "question": "She's afraid _____ spiders.",
-      "options": {"A": "from", "B": "of", "C": "about", "D": "with"},
+      "question": "She's afraid _____ lizards.",
+      "options": {
+        "A": "from", 
+        "B": "of",
+        "C": "about",
+        "D": "against"
+      },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 40,
-      "question": "My birthday is _____ May.",
-      "options": {"A": "on", "B": "at", "C": "in", "D": "by"},
+      "question": "My birthday is _____ January.",
+      "options": {
+        "A": "on",
+        "B": "at",
+        "C": "in",
+        "D": "by"
+      },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 41,
       "question": "According to paragraph 1, what do apple trees need to grow well?",
-      "options": {"A": "Rain and wind", "B": "Good soil and sunlight", "C": "Cold weather", "D": "Special machines"},
+      "options": {
+        "A": "Rain and wind",
+        "B": "Soil and sunlight",
+        "C": "Cold and humid weather",
+        "D": "Special machines"
+      },
       "correct_answer": "B",
       "category": "Reading"
     },
     {
       "id": 42,
       "question": "According to the passage, what helps flowers make baby apples?",
-      "options": {"A": "Farmers", "B": "Rain", "C": "Bees", "D": "Sunlight"},
+      "options": {
+        "A": "Farmers",
+        "B": "Rain", 
+        "C": "Bees", 
+        "D": "Sunlight"
+      },
       "correct_answer": "C",
       "category": "Reading"
     },
     {
       "id": 43,
       "question": "In paragraph 3, why do farmers remove some small apples?",
-      "options": {"A": "To make jam", "B": "To sell them early", "C": "To help other apples grow bigger", "D": "To feed animals"},
+      "options": {
+        "A": "To make high-quality jam",
+        "B": "To sell them early to make more money",
+        "C": "To help other apples grow bigger",
+        "D": "To feed animals"
+      },
       "correct_answer": "C",
       "category": "Reading"
     },
     {
       "id": 44,
       "question": "When are apples ready to pick?",
-      "options": {"A": "In spring", "B": "In summer", "C": "In autumn", "D": "In winter"},
+      "options": {
+        "A": "In spring",
+        "B": "In summer",
+        "C": "In autumn",
+        "D": "In winter"
+      },
       "correct_answer": "C",
       "category": "Reading"
     },
     {
       "id": 45,
       "question": "How do farmers know apples are ready?",
-      "options": {"A": "When they fall from trees", "B": "When they have the right color and feel firm", "C": "When birds start eating them", "D": "When they become very big"},
+      "options": {
+        "A": "When they fall from trees", 
+        "B": "When they have the right color",
+        "C": "When birds start eating them", 
+        "D": "When they become very big and juicy"
+      },
       "correct_answer": "B",
       "category": "Reading"
     },
     {
       "id": 46,
       "question": "What do farmers do after picking apples?",
-      "options": {"A": "Plant new trees", "B": "Make apple juice", "C": "Wash and box them", "D": "Cut them into pieces"},
+      "options": {
+        "A": "Plant new trees", 
+        "B": "Make apple juice",
+        "C": "Wash and box them", 
+        "D": "Cut them into pieces"
+      },
       "correct_answer": "C",
       "category": "Reading"
     },
     {
       "id": 47,
       "question": "According to the passage, farmers protect apple trees from:",
-      "options": {"A": "Cold weather", "B": "Insects", "C": "Other farmers", "D": "Too much water"},
+      "options": {
+        "A": "Cold weather", 
+        "B": "Insects", 
+        "C": "Children",
+        "D": "Too much water"
+      },
       "correct_answer": "B",
       "category": "Reading"
     },
     {
       "id": 48,
       "question": "What season is mentioned when flowers appear on apple trees?",
-      "options": {"A": "Winter", "B": "Spring", "C": "Summer", "D": "Autumn"},
+      "options": {
+        "A": "Winter",
+        "B": "Spring", 
+        "C": "Summer", 
+        "D": "Autumn"
+      },
       "correct_answer": "B",
       "category": "Reading"
     },
     {
       "id": 49,
       "question": "Why do farmers cut extra branches from apple trees?",
-      "options": {"A": "To make the trees shorter", "B": "To let more sunlight reach the apples", "C": "To make new trees", "D": "To keep animals away"},
+      "options": {
+        "A": "To make the apples easier to reach",
+        "B": "To let more sunlight reach the apples",
+        "C": "To plant new trees before winter", 
+        "D": "To keep animals and insects away"
+      },
       "correct_answer": "B",
       "category": "Reading"
     },
     {
       "id": 50,
       "question": "The main purpose of this passage is to explain:",
-      "options": {"A": "How to eat apples", "B": "Where to buy apples", "C": "How farmers grow apples", "D": "The history of apple farming"},
+      "options": {
+        "A": "How to eat apples", 
+        "B": "Where to buy apples",
+        "C": "How farmers grow apples",
+        "D": "The history of apple farming"
+      },
       "correct_answer": "C",
       "category": "Reading"
     }
