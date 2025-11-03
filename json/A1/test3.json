@@ -39,12 +39,12 @@
     },
     {
       "id": 4,
-      "question": "Choose the correct article: 'I need _____ umbrella because it's raining.'",
+      "question": "Choose the correct article: 'I need _____ umbrella _____ it's raining.'",
       "options": {
-        "A": "a",
-        "B": "an",
-        "C": "the",
-        "D": "no article"
+        "A": "an/but",
+        "B": "an/because",
+        "C": "a/because",
+        "D": "-/before"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -63,7 +63,7 @@
     },
     {
       "id": 6,
-      "question": "Which form is correct? 'The children _____ playing in the park.'",
+      "question": "Which form is correct? 'Two moose _____ walking on the road.'",
       "options": {
         "A": "is",
         "B": "are",
@@ -75,12 +75,12 @@
     },
     {
       "id": 7,
-      "question": "Choose the correct question form: '_____ you like coffee?'",
+      "question": "Choose the correct option: 'He took a book from _____ university library'",
       "options": {
-        "A": "Are",
-        "B": "Is",
-        "C": "Do",
-        "D": "Does"
+        "A": "am",
+        "B": "an",
+        "C": "a",
+        "D": "-"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -89,34 +89,34 @@
       "id": 8,
       "question": "Select the correct possessive form: 'This is _____ book.'",
       "options": {
-        "A": "Mary",
-        "B": "Marys",
-        "C": "Mary's",
-        "D": "Maryes"
+        "A": "Tess'",
+        "B": "Tess",
+        "C": "Tess's",
+        "D": "Tesses"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 9,
-      "question": "Choose the correct negative form: 'He _____ like pizza.'",
+      "question": "Choose the correct option: 'They _____ about a trip to South Africa.'",
       "options": {
-        "A": "don't",
-        "B": "not",
-        "C": "doesn't",
-        "D": "isn't"
+        "A": "taught",
+        "B": "though",
+        "C": "thought",
+        "D": "through"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 10,
-      "question": "Select the correct verb tense: 'Yesterday, I _____ to the store.'",
+      "question": "Select the correct option: 'She _____ the party early.'",
       "options": {
-        "A": "gone",
-        "B": "did go",
-        "C": "going",
-        "D": "went"
+        "A": "moved",
+        "B": "right",
+        "C": "remained",
+        "D": "left"
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -128,19 +128,19 @@
         "A": "She have three brothers.",
         "B": "She has three brothers.",
         "C": "She having three brothers.",
-        "D": "She had three brothers yesterday."
+        "D": "She have had three brothers."
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 12,
-      "question": "Choose the correct order of adjectives: 'She has a _____ bag.'",
+      "question": "Choose the correct order of adjectives: 'She has a _____ iPhone.'",
       "options": {
-        "A": "leather new black",
-        "B": "black leather new",
-        "C": "new black leather",
-        "D": "black new leather"
+        "A": "titanium new black",
+        "B": "black titanium new",
+        "C": "new black titanium",
+        "D": "black new titanium"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -152,31 +152,31 @@
         "A": "interesting",
         "B": "more interesting",
         "C": "much interesting",
-        "D": "interested"
+        "D": "more interested"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 14,
-      "question": "Choose the correct form: 'There _____ a cat under the table.'",
+      "question": "Choose the correct form: 'It _____ yesterday.'",
       "options": {
-        "A": "is",
-        "B": "are",
-        "C": "be",
-        "D": "am"
+        "A": "was rain",
+        "B": "was raining",
+        "C": "had rained",
+        "D": "were raining"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 15,
-      "question": "Select the correct modal verb: 'You _____ brush your teeth every day.'",
+      "question": "Select the incorrect modal verb: 'You _____ be careful.'",
       "options": {
-        "A": "ought",
-        "B": "would",
-        "C": "should",
-        "D": "might"
+        "A": "must",
+        "B": "have to",
+        "C": "might",
+        "D": "should"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -207,12 +207,12 @@
     },
     {
       "id": 18,
-      "question": "What is the past tense of 'go'?",
+      "question": "What is the past tense of 'teach'?",
       "options": {
-        "A": "goed",
-        "B": "going",
-        "C": "goes",
-        "D": "went"
+        "A": "teached",
+        "B": "torched",
+        "C": "thought",
+        "D": "taught"
       },
       "correct_answer": "D",
       "category": "Vocabulary"
@@ -243,7 +243,7 @@
     },
     {
       "id": 21,
-      "question": "Select the word that means 'to think about':",
+      "question": "Select the word that means 'to be aware of':",
       "options": {
         "A": "mind",
         "B": "see",
@@ -255,9 +255,9 @@
     },
     {
       "id": 22,
-      "question": "Which word describes someone who feels good or joyful?",
+      "question": "Which word describes someone who feels joyful?",
       "options": {
-        "A": "sad",
+        "A": "joint",
         "B": "angry",
         "C": "happy",
         "D": "tired"
@@ -269,10 +269,10 @@
       "id": 23,
       "question": "Choose the word that means 'to make something new':",
       "options": {
-        "A": "break",
+        "A": "act",
         "B": "find",
         "C": "create",
-        "D": "buy"
+        "D": "open"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -283,7 +283,7 @@
       "options": {
         "A": "at",
         "B": "into",
-        "C": "on",
+        "C": "onto",
         "D": "with"
       },
       "correct_answer": "B",
@@ -317,7 +317,7 @@
       "id": 27,
       "question": "Choose the word that means 'to not continue moving':",
       "options": {
-        "A": "go",
+        "A": "stand",
         "B": "move",
         "C": "start",
         "D": "stop"
@@ -356,7 +356,7 @@
         "A": "similar",
         "B": "opposite",
         "C": "same",
-        "D": "like"
+        "D": "likewise"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -375,45 +375,45 @@
     },
     {
       "id": 32,
-      "question": "Select the correct phrase: 'I usually have breakfast _____ 7 o'clock.'",
+      "question": "Select the correct phrase: 'I usually have breakfast _____ the morning hours.'",
       "options": {
-        "A": "in",
-        "B": "on",
-        "C": "at",
-        "D": "to"
+        "A": "along",
+        "B": "across",
+        "C": "during",
+        "D": "within"
       },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 33,
-      "question": "Choose the correct response to the question 'How are you?'",
+      "question": "Choose the correct response to the question 'What is your age?'",
       "options": {
-        "A": "I'm 25 years old.",
-        "B": "I'm from Spain.",
-        "C": "I'm fine, thank you.",
-        "D": "I'm a teacher."
+        "A": "I 25.",
+        "B": "Me 25.",
+        "C": "I'm 25.",
+        "D": "My's 25."
       },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 34,
-      "question": "Select the correct phrase: 'She is good _____ playing the piano.'",
+      "question": "Select the correct phrase: 'She celebrates her birthday _____ 9th of September.'",
       "options": {
         "A": "at",
         "B": "in",
         "C": "on",
-        "D": "with"
+        "D": "by"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 35,
       "question": "Choose the correct sentence ending: 'If it rains tomorrow, _____'",
       "options": {
-        "A": "I staying at home.",
+        "A": "I am staying at home.",
         "B": "I stayed at home.",
         "C": "I stay at home.",
         "D": "I will stay at home."
@@ -423,7 +423,7 @@
     },
     {
       "id": 36,
-      "question": "Select the correct phrase: 'I'd like _____ information about English courses.'",
+      "question": "Select the best option: 'I'd like to get _____ information about English courses.'",
       "options": {
         "A": "any",
         "B": "some",
@@ -435,14 +435,14 @@
     },
     {
       "id": 37,
-      "question": "Choose the correct question: '_____ is your phone number?'",
+      "question": "Choose the correct question: '_____ your phone numbers?'",
       "options": {
-        "A": "What",
-        "B": "When",
-        "C": "Where",
-        "D": "Who"
+        "A": "What is",
+        "B": "What are",
+        "C": "What they",
+        "D": "What are they"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
@@ -459,24 +459,24 @@
     },
     {
       "id": 39,
-      "question": "Choose the correct phrase: 'She lives _____ a small apartment.'",
+      "question": "Choose the correct phrase: 'She moved _____ a smaller apartment.'",
       "options": {
         "A": "to",
         "B": "at",
         "C": "on",
         "D": "in"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 40,
       "question": "Select the correct response to 'Thank you.'",
       "options": {
-        "A": "Please.",
+        "A": "I excuse you.",
         "B": "You're welcome.",
-        "C": "Good morning.",
-        "D": "Excuse me."
+        "C": "You're right.",
+        "D": "I beg your pardon."
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -485,7 +485,7 @@
       "id": 41,
       "question": "According to the passage, what are the main parts of a flower?",
       "options": {
-        "A": "Leaves, roots, stem, and petals",
+        "A": "Leaves, roots, stamens, and petals",
         "B": "Petals, sepals, stamens, and pistil",
         "C": "Seeds, roots, petals, and stems",
         "D": "Pollen, ovary, petals, and fruit"
@@ -534,7 +534,7 @@
       "question": "What happens to the petals after pollination?",
       "options": {
         "A": "They grow bigger",
-        "B": "They often fall off",
+        "B": "They fall off",
         "C": "They change color",
         "D": "They become seeds"
       },
@@ -557,9 +557,9 @@
       "id": 47,
       "question": "What do sepals do according to the passage?",
       "options": {
-        "A": "Attract insects",
-        "B": "Produce pollen",
-        "C": "Create seeds",
+        "A": "Attract useful insects",
+        "B": "Produce dangerous pollen",
+        "C": "Create initial seeds",
         "D": "Protect the flower bud"
       },
       "correct_answer": "D",
