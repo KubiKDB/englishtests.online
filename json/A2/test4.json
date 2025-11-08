@@ -18,9 +18,9 @@
       "question": "Choose the correct sentence.",
       "options": {
         "A": "I am study English every day.",
-        "B": "She studying now.",
+        "B": "She studying in the class now.",
         "C": "They are studies in the library.",
-        "D": "He is watching TV at the moment."
+        "D": "He is studying at the moment."
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -44,7 +44,7 @@
         "A": "I goed to the park yesterday.",
         "B": "She eated dinner at 7 PM.",
         "C": "They buyed new shoes.",
-        "D": "He walked to school this morning."
+        "D": "He walked to school."
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -53,7 +53,7 @@
       "id": 5,
       "question": "Which sentence uses the present perfect correctly?",
       "options": {
-        "A": "I have eat breakfast already.",
+        "A": "I have to eat breakfast every morning.",
         "B": "She has lived here for three years.",
         "C": "They have went to the store.",
         "D": "He has saw that movie twice."
@@ -68,7 +68,7 @@
         "A": "This book is more cheap than that one.",
         "B": "My house is more bigger than yours.",
         "C": "Her car is faster than mine.",
-        "D": "Their dog is more smaller than ours."
+        "D": "Their dog is small than ours."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -79,7 +79,7 @@
       "options": {
         "A": "She is a best student in class.",
         "B": "I need an umbrella because it's raining.",
-        "C": "He bought the apple at store.",
+        "C": "He bought the apple at the grocery store.",
         "D": "They visited a Europe last summer."
       },
       "correct_answer": "B",
@@ -92,7 +92,7 @@
         "A": "She arrived at Monday.",
         "B": "The book is in the table.",
         "C": "They're waiting at the bus stop.",
-        "D": "He lives on London."
+        "D": "He lives on London for two years."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -113,10 +113,10 @@
       "id": 10,
       "question": "Which sentence uses the future form correctly?",
       "options": {
-        "A": "I will meeting you tomorrow.",
-        "B": "She going to buy a new phone.",
-        "C": "They will visit their grandparents next week.",
-        "D": "He will to call you later."
+        "A": "I will meeting you tomorrow at the park.",
+        "B": "She going to buy a new phone next month.",
+        "C": "They will visit their parents next week.",
+        "D": "He will to call you later this evening."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -150,9 +150,9 @@
       "question": "Select the correct relative pronoun.",
       "options": {
         "A": "The man which lives next door is a doctor.",
-        "B": "The book who I read was interesting.",
+        "B": "The book who I am reading was interesting.",
         "C": "The woman whose car was stolen called the police.",
-        "D": "The house what they bought is very old."
+        "D": "The house what they bought is the oldest in the city."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -176,14 +176,14 @@
         "A": "She said that she is happy.",
         "B": "He told me that he will come tomorrow.",
         "C": "They said they were tired.",
-        "D": "I told him that I can help him."
+        "D": "I told him that I can help."
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 16,
-      "question": "Complete the sentence: 'I can't find my keys. I've looked _____ but they're not anywhere.'",
+      "question": "Complete the sentence: 'I can't find my keys. I've looked _____ but they're not here.'",
       "options": {
         "A": "somewhere",
         "B": "nowhere",
@@ -207,12 +207,12 @@
     },
     {
       "id": 18,
-      "question": "Select the best word to complete the sentence: 'Could you _____ me a favor?'",
+      "question": "Select the best word to complete the sentence: 'Could you _____ me a _____?'",
       "options": {
-        "A": "make",
-        "B": "do",
-        "C": "give",
-        "D": "take"
+        "A": "do/flavor",
+        "B": "do/favor",
+        "C": "give/favor",
+        "D": "take/flavor"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -221,24 +221,24 @@
       "id": 19,
       "question": "Choose the correct collocation: 'I need to _____ a decision soon.'",
       "options": {
-        "A": "make",
-        "B": "do",
-        "C": "take",
-        "D": "have"
+        "A": "remake",
+        "B": "make",
+        "C": "made",
+        "D": "mate"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 20,
-      "question": "Complete the sentence: 'My brother is good _____ playing chess.'",
+      "question": "Complete the sentence: 'My brother is good _____ children.'",
       "options": {
         "A": "at",
         "B": "in",
         "C": "on",
         "D": "with"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -303,24 +303,24 @@
     },
     {
       "id": 26,
-      "question": "What is the correct meaning of 'door'?",
+      "question": "What is the 'movable barrier used to close an entrance'?",
       "options": {
-        "A": "A piece of furniture used for sitting",
-        "B": "A movable barrier used to close an entrance",
-        "C": "A hole in the wall for light and air",
-        "D": "A cover for a book"
+        "A": "A window",
+        "B": "A door",
+        "C": "A table",
+        "D": "A room"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 27,
-      "question": "What does the word 'stuff' mean in this sentence: 'I need to put my stuff in the closet.'?",
+      "question": "What kind of things does the word 'stuff' mean in this sentence: 'I need to put my stuff in the closet.'?",
       "options": {
-        "A": "Food",
-        "B": "Money",
-        "C": "Personal belongings",
-        "D": "Information"
+        "A": "Personnel",
+        "B": "Person",
+        "C": "Personal",
+        "D": "Staff"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -330,7 +330,7 @@
       "question": "Which sentence uses the word 'face' correctly?",
       "options": {
         "A": "I face my shoes every morning.",
-        "B": "She has a happy face today.",
+        "B": "She faced a new problem today.",
         "C": "They face the table with food.",
         "D": "He faced the book on the shelf."
       },
@@ -377,10 +377,10 @@
       "id": 32,
       "question": "Which sentence uses 'dad' correctly?",
       "options": {
-        "A": "I dad to school every day.",
-        "B": "She dads her homework.",
+        "A": "His dad is a sister of my friend.",
+        "B": "Lupita's dad is younger than her.",
         "C": "My dad works at a hospital.",
-        "D": "They dad very well."
+        "D": "Their dad celebrated his fifth birthday."
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -401,7 +401,7 @@
       "id": 34,
       "question": "Which sentence uses 'fall' correctly?",
       "options": {
-        "A": "The leaves fall from the trees in autumn.",
+        "A": "The leaves fall from the trees.",
         "B": "I fall my keys on the table.",
         "C": "She fall the door open.",
         "D": "They fall the music loud."
@@ -414,9 +414,9 @@
       "question": "What is the correct use of 'after'?",
       "options": {
         "A": "I'll see you after the movie.",
-        "B": "She after to the store.",
-        "C": "They after their homework.",
-        "D": "He after running every day."
+        "B": "She looks after to the store.",
+        "C": "They went after their homework.",
+        "D": "He is after running every day."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -439,20 +439,20 @@
       "options": {
         "A": "I market my brother yesterday.",
         "B": "She markets very fast.",
-        "C": "They market to school.",
-        "D": "We buy fresh vegetables at the market."
+        "C": "Many people study at the market before exams.",
+        "D": "The company markets its products successfully."
       },
       "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 38,
-      "question": "What does the word 'book' refer to?",
+      "question": "What is 'a written or printed work consisting of pages'?",
       "options": {
-        "A": "A place to sit",
-        "B": "A written or printed work consisting of pages",
-        "C": "A tool for cooking",
-        "D": "A type of transportation"
+        "A": "A sheet",
+        "B": "A book",
+        "C": "A leaf",
+        "D": "A block"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -462,9 +462,9 @@
       "question": "Which sentence uses 'hurry' correctly?",
       "options": {
         "A": "We need to hurry or we'll be late.",
-        "B": "She hurries the book on the shelf.",
-        "C": "They hurry their lunch.",
-        "D": "He hurried the window closed."
+        "B": "She hurries the learning before the test.",
+        "C": "They hurry their lunch with some curry.",
+        "D": "He hurried the window closed before rain."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -473,10 +473,10 @@
       "id": 40,
       "question": "What is the meaning of 'hard' in this sentence: 'Math is a hard subject for me.'?",
       "options": {
-        "A": "Soft to touch",
-        "B": "Difficult to understand",
-        "C": "Moving quickly",
-        "D": "Very loud"
+        "A": "Rough",
+        "B": "Difficult",
+        "C": "Solid",
+        "D": "Strong"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -499,7 +499,7 @@
       "options": {
         "A": "Water falls to the ground",
         "B": "Water moves into the oceans",
-        "C": "Water vapor changes into droplets",
+        "C": "Water changes from gas to liquid",
         "D": "Water changes from liquid to gas"
       },
       "correct_answer": "C",
@@ -536,7 +536,7 @@
         "A": "Only into the ground",
         "B": "Only into plants",
         "C": "Only into oceans",
-        "D": "Into rivers, lakes, oceans, and the ground"
+        "D": "All of the above"
       },
       "correct_answer": "D",
       "category": "Reading"
@@ -581,10 +581,10 @@
       "id": 49,
       "question": "What does the passage say about the importance of the water cycle?",
       "options": {
-        "A": "It is not important",
+        "A": "It is important only for humans",
         "B": "It is important only for plants",
         "C": "It is important only for oceans",
-        "D": "It is important for all living things"
+        "D": "It is important for all living"
       },
       "correct_answer": "D",
       "category": "Reading"
