@@ -17,10 +17,10 @@
       "id": 2,
       "question": "Choose the correct sentence.",
       "options": {
-        "A": "I no like apples.",
-        "B": "I not like apples.",
-        "C": "I don't like apples.",
-        "D": "I doesn't like apples."
+        "A": "I didn't do my exercise but I was ill.",
+        "B": "I didn't do my exercise therefore I was ill.",
+        "C": "I didn't do my exercise because I was ill.",
+        "D": "I didn't do my exercise so I was ill."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -39,24 +39,24 @@
     },
     {
       "id": 4,
-      "question": "Which is the correct sentence?",
+      "question": "Which is the incorrect sentence?",
       "options": {
         "A": "She has a red car.",
-        "B": "She have a red car.",
-        "C": "She having a red car.",
-        "D": "She haves a red car."
+        "B": "She has got a red car.",
+        "C": "She got a red car.",
+        "D": "She had got a red car."
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 5,
-      "question": "Complete the sentence: ____ are you from?",
+      "question": "Complete the sentence: ____ are your ____ from?",
       "options": {
-        "A": "What",
-        "B": "When",
-        "C": "Where",
-        "D": "Who"
+        "A": "Where/parent's",
+        "B": "What/parents",
+        "C": "Where/parents",
+        "D": "What/parents'"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -75,26 +75,26 @@
     },
     {
       "id": 7,
-      "question": "What is the correct plural form? One cat, two ____.",
+      "question": "What is the correct plural form? One leaf, two ____.",
     "options": {
-      "A": "cat",
-      "B": "cats",
-      "C": "cat's",
-      "D": "cates"
+      "A": "leafs",
+      "B": "leaves",
+      "C": "leafes",
+      "D": "leave"
     },
     "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 8,
-      "question": "Choose the correct verb: I ____ coffee every morning.",
+      "question": "Choose the correct verb: I find ____ coffee useful for my memory.",
     "options": {
       "A": "drinks",
-      "B": "drink",
+      "B": "to drink",
       "C": "drinking",
       "D": "drank"
     },
-    "correct_answer": "B",
+    "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -113,10 +113,10 @@
       "id": 10,
       "question": "Which sentence has the correct word order?",
       "options": {
-        "A": "He likes very much pizza.",
-        "B": "He very likes much pizza.",
-        "C": "He likes pizza very much.",
-        "D": "He very much likes pizza."
+        "A": "He likes very much sushi.",
+        "B": "He very likes much sushi.",
+        "C": "He likes sushi very much.",
+        "D": "He very much likes sushi."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -147,26 +147,26 @@
     },
     {
       "id": 13,
-      "question": "Which is correct? ____ do you live?",
+      "question": "Which is correct? ____ do you live here?",
       "options": {
         "A": "When",
         "B": "Who",
         "C": "Why",
         "D": "Where"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 14,
-      "question": "Choose the correct article: I saw ____ monkey at the zoo.",
+      "question": "Choose the correct article: I saw ____ monkeys at the zoo.",
       "options": {
         "A": "a",
         "B": "an",
         "C": "the",
-        "D": "No article needed"
+        "D": "-"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -183,7 +183,7 @@
     },
     {
       "id": 16,
-      "question": "Choose the expression with the correct use of English: It's raining, so ____.",
+      "question": "Choose the correct expression: It's raining, so ____.",
       "options": {
         "A": "I stay at home",
         "B": "I staying at home",
@@ -195,26 +195,26 @@
     },
     {
       "id": 17,
-      "question": "Select the appropriate response: 'How are you?' ____",
+      "question": "Select the correct option: 'How ____ gigabytes is your phone storage?'",
       "options": {
-        "A": "I am John.",
-        "B": "I'm fine, thank you.",
-        "C": "I am 25 years old.",
-        "D": "I am a student."
+        "A": "much",
+        "B": "many",
+        "C": "-",
+        "D": "lot"
       },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 18,
-      "question": "Complete the common expression: 'Good ____!'",
+      "question": "Choose the incorrect expression: 'Good ____!'",
       "options": {
         "A": "morning",
         "B": "day",
-        "C": "time",
-        "D": "year"
+        "C": "evening",
+        "D": "night"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
@@ -243,7 +243,7 @@
     },
     {
       "id": 21,
-      "question": "Select the appropriate response: 'Would you like more sugar?' ____",
+      "question": "Select the appropriate response: 'Would you like more sugar?'",
       "options": {
         "A": "Yes, I would.",
         "B": "Yes, I'd like.",
@@ -257,10 +257,10 @@
       "id": 22,
       "question": "Which is the correct way to ask for the time?",
       "options": {
-        "A": "What is time?",
-        "B": "What time is?",
+        "A": "What clock is it?",
+        "B": "What hours is it?",
         "C": "What time is it?",
-        "D": "How is the time?"
+        "D": "When time is it?"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -272,14 +272,14 @@
       "A": "good",
       "B": "a good",
       "C": "the good",
-      "D": "good a"
+      "D": "the goodest"
     },
     "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 24,
-      "question": "Select the appropriate response: 'Thank you.' ____",
+      "question": "Select the appropriate response: 'Thank you.'",
       "options": {
         "A": "Please.",
         "B": "Welcome.",
@@ -296,7 +296,7 @@
         "A": "Good day.",
         "B": "See you later.",
         "C": "Hello there.",
-        "D": "How are you?"
+        "D": "To next time"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -342,7 +342,7 @@
       "question": "A ____ refers to a large amount or number of things.",
       "options": {
         "A": "little",
-        "B": "few",
+        "B": "many",
         "C": "lot",
         "D": "tiny"
       },
@@ -379,7 +379,7 @@
       "options": {
         "A": "stay",
         "B": "shift",
-        "C": "sleep",
+        "C": "stand",
         "D": "sit"
       },
       "correct_answer": "B",
@@ -401,7 +401,7 @@
       "id": 34,
       "question": "____ means at the beginning.",
       "options": {
-        "A": "final",
+        "A": "start",
         "B": "last",
         "C": "first",
         "D": "end"
@@ -423,7 +423,7 @@
     },
     {
       "id": 36,
-      "question": "The ____ of a word is what it represents or signifies.",
+      "question": "The ____ of a word is what it represents.",
       "options": {
         "A": "spelling",
         "B": "sound",
@@ -509,9 +509,9 @@
       "id": 43,
       "question": "Based on paragraph 2, why do animals eat a lot before hibernation?",
       "options": {
-        "A": "To stay warm",
+        "A": "To stay warm during the winter",
         "B": "To build up fat for energy",
-        "C": "To grow bigger",
+        "C": "To grow bigger and stronger",
         "D": "To help them sleep better"
       },
       "correct_answer": "B",
@@ -521,10 +521,10 @@
       "id": 44,
       "question": "According to the passage, some animals ____.",
       "options": {
-        "A": "never wake up during hibernation",
+        "A": "wake up during hibernation to drink some water",
         "B": "wake up for short periods during hibernation",
         "C": "eat other animals during hibernation",
-        "D": "sleep all year long"
+        "D": "sleep all year long to preserve energy"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -547,8 +547,8 @@
       "options": {
         "A": "to change to suit new conditions",
         "B": "to move quickly to survive",
-        "C": "to eat food",
-        "D": "to sleep deeply"
+        "C": "to eat food before hibernation",
+        "D": "to sleep deeply during hibernation"
       },
       "correct_answer": "A",
       "category": "Reading"
@@ -559,8 +559,8 @@
       "options": {
         "A": "Bears",
         "B": "Hedgehogs",
-        "C": "Birds that migrate",
-        "D": "Some types of squirrels"
+        "C": "Birds",
+        "D": "Squirrels"
       },
       "correct_answer": "C",
       "category": "Reading"
