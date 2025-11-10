@@ -41,10 +41,10 @@
     "id": 4,
     "question": "Select the correct option: 'He ___ the door yesterday.'",
     "options": {
-      "A": "closes",
-      "B": "close",
-      "C": "closed",
-      "D": "closing"
+      "A": "locks",
+      "B": "lock",
+      "C": "locked",
+      "D": "locking"
     },
     "correct_answer": "C",
     "category": "Grammar"
@@ -65,10 +65,10 @@
     "id": 6,
     "question": "Choose the correct word order:",
     "options": {
-      "A": "She lives in a small house.",
-      "B": "She in a small house lives.",
-      "C": "Lives she in a small house.",
-      "D": "A small house she lives in."
+      "A": "She lives in a cute small white house.",
+      "B": "She lives in a white small cute house.",
+      "C": "She lives in a cute white small house.",
+      "D": "She lives in a white cute small house."
     },
     "correct_answer": "A",
     "category": "Grammar"
@@ -99,12 +99,12 @@
   },
   {
     "id": 9,
-    "question": "Select the correct past tense: 'We ___ to the park last Sunday.'",
+    "question": "Select the correct past tense: 'We ___ a new fence last Sunday.'",
     "options": {
-      "A": "go",
-      "B": "goed",
-      "C": "went",
-      "D": "going"
+      "A": "builded",
+      "B": "build",
+      "C": "built",
+      "D": "builted"
     },
     "correct_answer": "C",
     "category": "Grammar"
@@ -128,7 +128,7 @@
       "A": "She reads a book.",
       "B": "She read a book yesterday.",
       "C": "She is reading a book.",
-      "D": "She will read a book."
+      "D": "She will read a book today."
     },
     "correct_answer": "C",
     "category": "Grammar"
@@ -174,7 +174,7 @@
     "question": "Select the correct negative form: 'She ___ tired today.'",
     "options": {
       "A": "don't be",
-      "B": "not is",
+      "B": "didn't",
       "C": "isn't",
       "D": "doesn't"
     },
@@ -187,8 +187,8 @@
     "options": {
       "A": "close",
       "B": "open",
-      "C": "eat",
-      "D": "drink"
+      "C": "remove",
+      "D": "move"
     },
     "correct_answer": "B",
     "category": "Vocabulary"
@@ -221,10 +221,10 @@
     "id": 19,
     "question": "Select the word that means 'not slow':",
     "options": {
-      "A": "big",
+      "A": "mast",
       "B": "fast",
-      "C": "old",
-      "D": "new"
+      "C": "vast",
+      "D": "cast"
     },
     "correct_answer": "B",
     "category": "Vocabulary"
@@ -236,7 +236,7 @@
       "A": "milk",
       "B": "bread",
       "C": "rice",
-      "D": "chair"
+      "D": "banana"
     },
     "correct_answer": "A",
     "category": "Vocabulary"
@@ -245,10 +245,10 @@
     "id": 21,
     "question": "Choose the word that means 'to move on your feet':",
     "options": {
-      "A": "sit",
-      "B": "stand",
+      "A": "work",
+      "B": "bike",
       "C": "walk",
-      "D": "lay"
+      "D": "drive"
     },
     "correct_answer": "C",
     "category": "Vocabulary"
@@ -305,10 +305,10 @@
     "id": 26,
     "question": "Which word completes this sentence: 'The park is over ___.'",
     "options": {
-      "A": "now",
-      "B": "then",
+      "A": "their",
+      "B": "heir",
       "C": "there",
-      "D": "when"
+      "D": "where"
     },
     "correct_answer": "C",
     "category": "Vocabulary"
@@ -319,7 +319,7 @@
     "options": {
       "A": "apple",
       "B": "orange",
-      "C": "banana",
+      "C": "lemon",
       "D": "grape"
     },
     "correct_answer": "C",
@@ -329,9 +329,9 @@
     "id": 28,
     "question": "Which word means 'water falling from the sky'?",
     "options": {
-      "A": "sun",
-      "B": "cloud",
-      "C": "wind",
+      "A": "storm",
+      "B": "fog",
+      "C": "snow",
       "D": "rain"
     },
     "correct_answer": "D",
@@ -354,8 +354,8 @@
     "question": "Which word completes this sentence: 'We buy food at the ___.'",
     "options": {
       "A": "library",
-      "B": "supermarket",
-      "C": "park",
+      "B": "market",
+      "C": "street",
       "D": "school"
     },
     "correct_answer": "B",
@@ -365,10 +365,10 @@
     "id": 31,
     "question": "Which word is an adjective?",
     "options": {
-      "A": "house",
+      "A": "belly",
       "B": "quickly",
       "C": "happy",
-      "D": "eat"
+      "D": "jelly"
     },
     "correct_answer": "C",
     "category": "Use of English"
@@ -377,24 +377,24 @@
     "id": 32,
     "question": "Choose the correct sentence:",
     "options": {
-      "A": "He often plays tennis.",
-      "B": "He plays often tennis.",
-      "C": "Often he plays tennis.",
-      "D": "He plays tennis often."
+      "A": "We are ready, aren't we?",
+      "B": "We are ready, we aren't?",
+      "C": "We are ready, are we?",
+      "D": "We are ready, we are?"
     },
     "correct_answer": "A",
     "category": "Use of English"
   },
   {
     "id": 33,
-    "question": "In my dream, a friendly green alien ___ pizza with me.",
-  "options": {
-    "A": "eat",
-    "B": "is eating",
-    "C": "eats",
-    "D": "to eat"
-  },
-  "correct_answer": "C",
+    "question": "My friend ___ a pizza with me during lunch.",
+    "options": {
+      "A": "shear",
+      "B": "share",
+      "C": "shared",
+      "D": "sheared"
+    },
+    "correct_answer": "C",
     "category": "Use of English"
   },
   {
@@ -459,24 +459,24 @@
   },
   {
     "id": 39,
-    "question": "This magic carpet ___ fly us to the stars!",
-  "options": {
-    "A": "can",
-    "B": "is",
-    "C": "have",
-    "D": "are"
-  },
-  "correct_answer": "A",
+    "question": "This rocket ___ fly us to the moon!",
+    "options": {
+      "A": "can",
+      "B": "is",
+      "C": "have",
+      "D": "are"
+    },
+    "correct_answer": "A",
     "category": "Use of English"
   },
   {
     "id": 40,
     "question": "Which phrase is used to introduce yourself?",
     "options": {
-      "A": "Nice to meet you",
-      "B": "My name is...",
-      "C": "How are you?",
-      "D": "Goodbye"
+      "A": "Nice to meet you, Jimmy",
+      "B": "My name is Jimmy",
+      "C": "How are you, Jimmy?",
+      "D": "Goodbye, Jimmy"
     },
     "correct_answer": "B",
     "category": "Use of English"
@@ -487,8 +487,8 @@
       "options": {
         "A": "the shortest river in the world",
         "B": "the longest river in the world",
-        "C": "only in one country",
-        "D": "not in Africa"
+        "C": "the widest river in the world",
+        "D": "the river in South America"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -521,8 +521,8 @@
       "id": 44,
       "question": "According to paragraph 3, the Mississippi River is important for:",
       "options": {
-        "A": "fishing",
-        "B": "swimming",
+        "A": "fishing and fresh water",
+        "B": "swimming and diving",
         "C": "transportation and trade",
         "D": "drinking water only"
       },
@@ -543,12 +543,12 @@
     },
     {
       "id": 46,
-      "question": "According to paragraph 4, rivers provide water for:",
+      "question": "According to paragraph 4, rivers don't provide water for:",
       "options": {
-        "A": "only drinking",
-        "B": "only farming",
-        "C": "drinking and farming",
-        "D": "only transportation"
+        "A": "drinking",
+        "B": "farming",
+        "C": "pollution",
+        "D": "transportation"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -593,10 +593,10 @@
       "id": 50,
       "question": "The main topic of this passage is:",
       "options": {
-        "A": "Fish in rivers",
+        "A": "The shortest rivers in the world",
         "B": "The longest rivers in the world",
-        "C": "How to build cities",
-        "D": "Water transportation"
+        "C": "The widest rivers in the world",
+        "D": "The dirtiest rivers in the world"
       },
       "correct_answer": "B",
       "category": "Reading"
