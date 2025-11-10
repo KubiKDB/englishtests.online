@@ -51,12 +51,12 @@
     },
     {
       "id": 5,
-      "question": "My family and I ___ to the park last Sunday.",
+      "question": "My family and I ___ in the park last Sunday.",
       "options": {
-        "A": "go",
-        "B": "goed",
-        "C": "went",
-        "D": "going"
+        "A": "walk",
+        "B": "waked",
+        "C": "walked",
+        "D": "awaked"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -77,9 +77,9 @@
       "id": 7,
       "question": "The supermarket is ___ the bank and the library.",
       "options": {
-        "A": "on",
-        "B": "in",
-        "C": "under",
+        "A": "across",
+        "B": "within",
+        "C": "around",
         "D": "between"
       },
       "correct_answer": "D",
@@ -87,10 +87,10 @@
     },
     {
       "id": 8,
-      "question": "'Where ___ you born?' 'I was born in London.'",
+      "question": "Where ___ you born?",
       "options": {
-        "A": "is",
-        "B": "am",
+        "A": "have",
+        "B": "are",
         "C": "were",
         "D": "did"
       },
@@ -101,10 +101,10 @@
       "id": 9,
       "question": "I need ___ apple and ___ banana for my fruit salad.",
       "options": {
-        "A": "a / a",
-        "B": "an / a",
-        "C": "a / an",
-        "D": "an / an"
+        "A": "a/a",
+        "B": "an/a",
+        "C": "a/an",
+        "D": "an/an"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -199,7 +199,7 @@
       "options": {
         "A": "Where is this scarf?",
         "B": "How much is this scarf?",
-        "C": "What is this scarf?",
+        "C": "What is this scarf made of?",
         "D": "Do you like this scarf?"
       },
       "correct_answer": "B",
@@ -209,9 +209,9 @@
       "id": 18,
       "question": "Someone sneezes. What is a polite thing to say?",
       "options": {
-        "A": "Sorry.",
+        "A": "Bless yours.",
         "B": "Thank you.",
-        "C": "Hello.",
+        "C": "Excuse you.",
         "D": "Bless you."
       },
       "correct_answer": "D",
@@ -222,7 +222,7 @@
       "question": "Choose the phrase used to express preference.",
       "options": {
         "A": "I need tea.",
-        "B": "I prefer tea.",
+        "B": "I like tea.",
         "C": "Tea is hot.",
         "D": "Can I have tea?"
       },
@@ -233,7 +233,7 @@
       "id": 20,
       "question": "How do you ask for directions to the nearest post office?",
       "options": {
-        "A": "Is post office far?",
+        "A": "Is the post office far away?",
         "B": "How to get to the post office?",
         "C": "Tell me where the post office is.",
         "D": "I want to get to the post office."
@@ -246,7 +246,7 @@
       "question": "What does 'It's cloudy' mean?",
       "options": {
         "A": "It's raining.",
-        "B": "It's sunny.",
+        "B": "It's not cold.",
         "C": "It's not sunny.",
         "D": "It's cold."
       },
@@ -259,8 +259,8 @@
       "options": {
         "A": "How is your job?",
         "B": "Where is your job?",
-        "C": "What's your job?",
-        "D": "Do you like job?"
+        "C": "What is your job?",
+        "D": "Do you like your job?"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -271,7 +271,7 @@
       "options": {
         "A": "I go to the shop yesterday.",
         "B": "I am at the shop now.",
-        "C": "I like shops.",
+        "C": "I would like to go shopping.",
         "D": "I will go shopping."
       },
       "correct_answer": "D",
@@ -283,7 +283,7 @@
       "options": {
         "A": "Oh dear.",
         "B": "That's okay.",
-        "C": "Well done!",
+        "C": "Well done.",
         "D": "Try again."
       },
       "correct_answer": "C",
@@ -293,8 +293,8 @@
       "id": 25,
       "question": "How do you offer food to a guest?",
       "options": {
-        "A": "Eat this.",
-        "B": "Do you want food?",
+        "A": "Eat this is delicious.",
+        "B": "Do you want any food?",
         "C": "Would you like some cake?",
         "D": "Your cake is here."
       },
@@ -319,8 +319,8 @@
       "options": {
         "A": "A female parent",
         "B": "A male parent",
-        "C": "A brother",
-        "D": "A sister"
+        "C": "A female brother",
+        "D": "A male sister"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -332,7 +332,7 @@
         "A": "To sell something",
         "B": "To lose something",
         "C": "To have something",
-        "D": "To break something"
+        "D": "To like something"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -344,19 +344,19 @@
         "A": "Badly",
         "B": "Slowly",
         "C": "Quietly",
-        "D": "Good"
+        "D": "Perfectly"
       },
       "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 30,
-      "question": "What does 'main' mean?",
+      "question": "What does 'important' mean?",
       "options": {
-        "A": "Small",
-        "B": "Important",
-        "C": "Last",
-        "D": "New"
+        "A": "Maine",
+        "B": "Main",
+        "C": "Mean",
+        "D": "Male"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -367,7 +367,7 @@
       "options": {
         "A": "You want it",
         "B": "You need it",
-        "C": "You own it",
+        "C": "You have it",
         "D": "You lost it"
       },
       "correct_answer": "C",
@@ -380,7 +380,7 @@
         "A": "Something everyone knows",
         "B": "Something you tell everyone",
         "C": "Something you don't tell others",
-        "D": "Something you need to tell"
+        "D": "Something you don't tell yourself"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -390,9 +390,9 @@
       "question": "What does 'require' mean?",
       "options": {
         "A": "To need",
-        "B": "To give",
-        "C": "To find",
-        "D": "To forget"
+        "B": "To want",
+        "C": "To seek",
+        "D": "To quit"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -403,8 +403,8 @@
       "options": {
         "A": "To put back",
         "B": "To take away",
-        "C": "To break",
-        "D": "To buy"
+        "C": "To bring in",
+        "D": "To give away"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -415,8 +415,8 @@
       "options": {
         "A": "The warmest season",
         "B": "The coldest season",
-        "C": "A type of weather",
-        "D": "A day of the week"
+        "C": "The arctic climate",
+        "D": "The longest season"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -439,8 +439,8 @@
       "options": {
         "A": "A very young child",
         "B": "A very old person",
-        "C": "A type of animal",
-        "D": "A type of plant"
+        "C": "A teenage person",
+        "D": "An adult person"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -449,10 +449,10 @@
       "id": 38,
       "question": "What is 'boots'?",
       "options": {
-        "A": "A type of food",
+        "A": "A type of hardware",
         "B": "A type of footwear",
-        "C": "A type of vehicle",
-        "D": "A type of clothing"
+        "C": "A type of software",
+        "D": "A type of warehouse"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -475,20 +475,20 @@
       "options": {
         "A": "Something expected",
         "B": "Something unexpected",
-        "C": "Something boring",
-        "D": "Something old"
+        "C": "Something important",
+        "D": "Something restricted"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 41,
-      "question": "According to the passage, where does a librarian work?",
+      "question": "According to the passage, how is a person working in a library called?",
       "options": {
-        "A": "In a school",
-        "B": "In a hospital",
-        "C": "In a library",
-        "D": "In a shop"
+        "A": "Liberian",
+        "B": "Liberal",
+        "C": "Librarian",
+        "D": "Libertarian"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -509,7 +509,7 @@
       "id": 43,
       "question": "What is one important job of a librarian according to paragraph 2?",
       "options": {
-        "A": "Teaching math",
+        "A": "Teaching literature",
         "B": "Organizing books",
         "C": "Selling books",
         "D": "Writing books"
@@ -534,9 +534,9 @@
       "question": "According to the passage, what has changed about the job of a librarian?",
       "options": {
         "A": "They now work with computers and online information",
-        "B": "They no longer help people",
-        "C": "They now sell books",
-        "D": "They now teach in schools"
+        "B": "They no longer help people in choosing books and papers",
+        "C": "They now sell books instead of only organizing them",
+        "D": "They now also teach literature and history in schools"
       },
       "correct_answer": "A",
       "category": "Reading"
@@ -547,8 +547,8 @@
       "options": {
         "A": "Throw them away",
         "B": "Give them to children",
-        "C": "Sell them",
-        "D": "Repair them"
+        "C": "Sell them with a discount",
+        "D": "Try to repair them"
       },
       "correct_answer": "D",
       "category": "Reading"
@@ -557,10 +557,10 @@
       "id": 47,
       "question": "What kind of events do librarians organize in libraries?",
       "options": {
-        "A": "Sports events",
+        "A": "Sports events and competitions",
         "B": "Book clubs and classes",
-        "C": "Music concerts",
-        "D": "Cooking classes"
+        "C": "Music concerts and gigs",
+        "D": "Cooking classes and shows"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -572,7 +572,7 @@
         "A": "Books",
         "B": "Tables",
         "C": "E-books",
-        "D": "People"
+        "D": "E-tickets"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -581,10 +581,10 @@
       "id": 49,
       "question": "How do librarians help students?",
       "options": {
-        "A": "They read them books",
-        "B": "They buy them new study books",
-        "C": "They help them with homework and research",
-        "D": "They teach them to use computers"
+        "A": "They read books and research studies",
+        "B": "They buy new books and study materials",
+        "C": "They assist with homework and research",
+        "D": "They teach them to use computers and phones"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -593,10 +593,10 @@
       "id": 50,
       "question": "According to the passage, what is the main purpose of a librarian's job?",
       "options": {
-        "A": "To sell books and newspapers",
+        "A": "To sell digital copies of books and newspapers",
         "B": "To help people find knowledge and information",
-        "C": "To teach children to read and write",
-        "D": "To use computers"
+        "C": "To teach children and adults to read and write",
+        "D": "To use computer programs to find books on shelves"
       },
       "correct_answer": "B",
       "category": "Reading"
