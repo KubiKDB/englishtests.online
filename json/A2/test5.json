@@ -15,7 +15,7 @@
   },
   {
     "id": 2,
-    "question": "Look! The children _____ a funny game in the garden.",
+    "question": "Look! The children _____ a game in the garden.",
     "options": {
       "A": "play",
       "B": "plays",
@@ -39,12 +39,12 @@
   },
   {
     "id": 4,
-    "question": "_____ your brother like watching football on TV?",
+    "question": "_____ your brother like _____ football on TV?",
     "options": {
-      "A": "Do",
-      "B": "Does",
-      "C": "Is",
-      "D": "Are"
+      "A": "Does/to watch",
+      "B": "Does/watching",
+      "C": "Do/watching",
+      "D": "Are/watching"
     },
     "correct_answer": "B",
     "category": "Grammar"
@@ -56,7 +56,7 @@
       "A": "on",
       "B": "at",
       "C": "in",
-      "D": "under"
+      "D": "off"
     },
     "correct_answer": "C",
     "category": "Grammar"
@@ -99,24 +99,24 @@
   },
   {
     "id": 9,
-    "question": "We don't have _____ milk left. Can you buy some?",
+    "question": "We don't have _____ eggs left. Can you buy some?",
     "options": {
       "A": "many",
       "B": "much",
       "C": "a few",
       "D": "some"
     },
-    "correct_answer": "B",
+    "correct_answer": "A",
     "category": "Grammar"
   },
   {
     "id": 10,
     "question": "My sister _____ never _____ mango before.",
     "options": {
-      "A": "has / try",
-      "B": "have / tried",
-      "C": "has / tried",
-      "D": "have / try"
+      "A": "has/try",
+      "B": "have/tried",
+      "C": "has/tried",
+      "D": "have/try"
     },
     "correct_answer": "C",
     "category": "Grammar"
@@ -171,7 +171,7 @@
   },
   {
     "id": 15,
-    "question": "He speaks English very _____.",
+    "question": "He speaks Mandarin very _____.",
     "options": {
       "A": "good",
       "B": "well",
@@ -185,10 +185,10 @@
     "id": 16,
     "question": "You are in a library and need a pen. How do you ask politely?",
     "options": {
-      "A": "Give pen!",
+      "A": "Give me the pen!",
       "B": "I need a pen now.",
       "C": "Can I borrow a pen?",
-      "D": "Where is pen?"
+      "D": "Where is any pen?"
     },
     "correct_answer": "C",
     "category": "Use of English"
@@ -197,8 +197,8 @@
     "id": 17,
     "question": "Someone says 'Have a nice weekend!'. What is a good reply?",
     "options": {
-      "A": "Yes, I have.",
-      "B": "You too!",
+      "A": "Yes, I'll have.",
+      "B": "Same to you.",
       "C": "It's okay.",
       "D": "I agree."
     },
@@ -211,8 +211,8 @@
     "options": {
       "A": "We must watch a movie.",
       "B": "Let's watch a movie tonight?",
-      "C": "A movie watching is good.",
-      "D": "You like movie?"
+      "C": "Movie watching is good tonight?",
+      "D": "Do you like movies?"
     },
     "correct_answer": "B",
     "category": "Use of English"
@@ -221,7 +221,7 @@
     "id": 19,
     "question": "You are lost and need to find the train station. How do you ask someone?",
     "options": {
-      "A": "Train station, where?",
+      "A": "Train station, where can I find it?",
       "B": "How can I get to the train station?",
       "C": "Tell me the train station way.",
       "D": "Is this the train station?"
@@ -233,7 +233,7 @@
     "id": 20,
     "question": "You are at a cafe and want to order coffee. What do you say?",
     "options": {
-      "A": "I want some coffee.",
+      "A": "Do you have coffee?",
       "B": "Get me any coffee.",
       "C": "I want to drink coffee.",
       "D": "Could I have a coffee?"
@@ -245,7 +245,7 @@
     "id": 21,
     "question": "You are late for a meeting. What should you say?",
     "options": {
-      "A": "I am here.",
+      "A": "I'll be there.",
       "B": "Sorry, I'm late.",
       "C": "The meeting is late.",
       "D": "No problem for lateness."
@@ -257,10 +257,10 @@
     "id": 22,
     "question": "Your friend says 'I think this restaurant is great.' You think so too. What do you reply?",
     "options": {
-      "A": "Maybe.",
+      "A": "Maybe it is.",
       "B": "I don't know.",
-      "C": "Yes, I agree.",
-      "D": "It is not bad."
+      "C": "I agree with you.",
+      "D": "It is not bad though."
     },
     "correct_answer": "C",
     "category": "Use of English"
@@ -283,7 +283,7 @@
     "options": {
       "A": "Yours faithfully,",
       "B": "Best regards,",
-      "C": "Best wishes,",
+      "C": "Good luck,",
       "D": "Sincerely,"
     },
     "correct_answer": "C",
@@ -293,10 +293,10 @@
     "id": 25,
     "question": "You didn't hear what someone said. What do you say?",
     "options": {
-      "A": "What have you say?",
-      "B": "Speak louder.",
+      "A": "What do you have to say?",
+      "B": "Speak louder for me.",
       "C": "Could you say that again?",
-      "D": "I not hear."
+      "D": "I will not hear you here."
     },
     "correct_answer": "C",
     "category": "Use of English"
@@ -306,9 +306,9 @@
       "question": "What does the word 'child' mean?",
       "options": {
         "A": "A young person",
-        "B": "An adult",
-        "C": "A parent",
-        "D": "A teacher"
+        "B": "An adult person",
+        "C": "A male parent",
+        "D": "A female parent"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -317,9 +317,9 @@
       "id": 27,
       "question": "An 'apartment' is:",
       "options": {
-        "A": "A type of car",
+        "A": "A place to study in",
         "B": "A place to live in",
-        "C": "A type of shop",
+        "C": "A tall building with many rooms",
         "D": "A large house with a garden"
       },
       "correct_answer": "B",
@@ -351,12 +351,12 @@
     },
     {
       "id": 30,
-      "question": "What does 'anyone' mean in the sentence 'Is anyone home?'",
+      "question": "What does 'looking' mean in the sentence 'He's looking for his keys'",
       "options": {
-        "A": "A specific person",
-        "B": "Any person at all",
-        "C": "Everyone",
-        "D": "No person"
+        "A": "Looking at",
+        "B": "Seeking",
+        "C": "Seeing",
+        "D": "Watching"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -387,14 +387,14 @@
     },
     {
       "id": 33,
-      "question": "A 'brother' is a:",
+      "question": "A 'sister' is a:",
       "options": {
         "A": "Male child of the same parents",
         "B": "Female child of the same parents",
         "C": "Child from another family",
         "D": "Parent's brother"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
@@ -427,8 +427,8 @@
       "options": {
         "A": "Exactly",
         "B": "Almost",
-        "C": "Far away",
-        "D": "Long ago"
+        "C": "Easily",
+        "D": "Nearby"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -449,7 +449,7 @@
       "id": 38,
       "question": "If something is 'cheap', it:",
       "options": {
-        "A": "Costs a lot of money",
+        "A": "Costs a lot",
         "B": "Costs a little",
         "C": "Is of high quality",
         "D": "Is very new"
@@ -461,7 +461,7 @@
       "id": 39,
       "question": "The word 'perhaps' means:",
       "options": {
-        "A": "Definitely",
+        "A": "Already",
         "B": "Never",
         "C": "Maybe",
         "D": "Always"
@@ -509,10 +509,10 @@
       "id": 43,
       "question": "According to paragraph 2, how are most mountains formed?",
       "options": {
-        "A": "By human activity",
+        "A": "When volcanoes erupt and a flow of lava cools down",
         "B": "When parts of the Earth's crust push together",
-        "C": "When rivers cut through the land",
-        "D": "When sand builds up on high ground"
+        "C": "When rivers cut through the land forming canyons",
+        "D": "When sand builds up on high ground over the years"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -522,7 +522,7 @@
       "question": "The passage states that mountains form:",
       "options": {
         "A": "Very quickly over a few years",
-        "B": "Within a human lifetime",
+        "B": "Within last two thousand years",
         "C": "Very slowly over millions of years",
         "D": "Only in the distant past"
       },
