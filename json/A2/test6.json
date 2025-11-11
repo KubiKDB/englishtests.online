@@ -15,12 +15,12 @@
   },
   {
     "id": 2,
-    "question": "_____ you _____ the famous City Museum when you visited the capital yesterday?",
+    "question": "_____ you _____ the famous Vatican Museum when you visited Rome yesterday?",
     "options": {
-      "A": "Do / visit",
-      "B": "Did / visited",
-      "C": "Did / visit",
-      "D": "Were / visiting"
+      "A": "Do/visit",
+      "B": "Did/visited",
+      "C": "Did/visit",
+      "D": "Were/visiting"
     },
     "correct_answer": "C",
     "category": "Grammar"
@@ -32,7 +32,7 @@
       "A": "sleeps well",
       "B": "is sleeping",
       "C": "always sleep",
-      "D": "were sleeping soundly"
+      "D": "were sleeping"
     },
     "correct_answer": "B",
     "category": "Grammar"
@@ -101,10 +101,10 @@
     "id": 9,
     "question": "_____ you ever _____ delicious local dumplings?",
     "options": {
-      "A": "Did / tried",
-      "B": "Have / try",
-      "C": "Have / tried",
-      "D": "Do / you tried"
+      "A": "Did/tried",
+      "B": "Have/try",
+      "C": "Have/tried",
+      "D": "Do/you tried"
     },
     "correct_answer": "C",
     "category": "Grammar"
@@ -113,10 +113,10 @@
     "id": 10,
     "question": "What _____ you _____ when the big thunderstorm suddenly started yesterday evening?",
     "options": {
-      "A": "did / do then",
-      "B": "were / already done",
-      "C": "were / doing",
-      "D": "have / been usually doing"
+      "A": "did/do then",
+      "B": "were/already done",
+      "C": "were/doing",
+      "D": "have/been usually doing"
     },
     "correct_answer": "C",
     "category": "Grammar"
@@ -147,7 +147,7 @@
   },
   {
     "id": 13,
-    "question": "That beautiful embroidered blouse isn't mine, I think it's _____.",
+    "question": "That beautiful blouse isn't mine, I think it's _____.",
     "options": {
       "A": "her",
       "B": "of she",
@@ -159,7 +159,7 @@
   },
   {
     "id": 14,
-    "question": "How _____ sugar do you typically want in your morning tea? Not too much, please.",
+    "question": "How _____ sugar do you typically want in your morning tea?",
     "options": {
       "A": "many",
       "B": "more",
@@ -185,10 +185,10 @@
     "id": 16,
     "question": "Could you possibly _____ the main door? Someone is knocking loudly.",
     "options": {
-      "A": "opening",
+      "A": "close",
       "B": "open",
-      "C": "be opening",
-      "D": "opened"
+      "C": "fix",
+      "D": "remove"
     },
     "correct_answer": "B",
     "category": "Use of English"
@@ -207,7 +207,7 @@
   },
   {
     "id": 18,
-    "question": "Excuse me, how _____ are these lovely traditional painted eggs?",
+    "question": "Excuse me, how _____ are these eggs?",
     "options": {
       "A": "many",
       "B": "cost",
@@ -219,7 +219,7 @@
   },
   {
     "id": 19,
-    "question": "Person A: \"This city looks absolutely beautiful in the springtime.\" Person B: \"I _____. It's certainly my favorite season here.\"",
+    "question": "Person A: 'This city looks absolutely beautiful in the springtime.'\nPerson B: 'I _____. It's certainly my favorite season here.'",
     "options": {
       "A": "think so too",
       "B": "believe true",
@@ -231,7 +231,7 @@
   },
   {
     "id": 20,
-    "question": "Waiter: \"Are you both ready to order your meal?\" Customer: \"Yes, please. I _____ the famous chicken Cordon Bleu.\"",
+    "question": "Waiter: 'Are you both ready to order your meal?'\nCustomer: 'Yes, please. I _____ the famous chicken Cordon Bleu.'",
     "options": {
       "A": "am wanting",
       "B": "will have",
@@ -296,7 +296,7 @@
       "A": "make",
       "B": "do",
       "C": "give",
-      "D": "take"
+      "D": "done"
     },
     "correct_answer": "B",
     "category": "Use of English"
@@ -315,7 +315,7 @@
   },
   {
     "id": 27,
-    "question": "I left a short _____ on your desk.",
+    "question": "I sent a short _____ on WhatsApp.",
     "options": {
       "A": "letter",
       "B": "message",
@@ -379,8 +379,8 @@
     "options": {
       "A": "here",
       "B": "just",
-      "C": "simply",
-      "D": "merely"
+      "C": "easily",
+      "D": "hardly"
     },
     "correct_answer": "B",
     "category": "Vocabulary"
@@ -449,7 +449,7 @@
     "id": 38,
     "question": "The supermarket is _____ the bank.",
     "options": {
-      "A": "under",
+      "A": "across",
       "B": "between",
       "C": "through",
       "D": "behind"
@@ -485,10 +485,10 @@
       "id": 41,
       "question": "According to paragraph 1, before money existed, people:",
       "options": {
-        "A": "Used written numbers",
+        "A": "Used heavy stones as money",
         "B": "Traded items between them",
         "C": "Used paper notes",
-        "D": "Didn't trade at all"
+        "D": "Gave everything for free"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -512,7 +512,7 @@
         "A": "Money used in a specific country",
         "B": "Global digital payment systems",
         "C": "Credit cards and cheques",
-        "D": "Exchange rates"
+        "D": "Current exchange rates"
       },
       "correct_answer": "A",
       "category": "Reading"
@@ -521,7 +521,7 @@
       "id": 44,
       "question": "According to paragraph 3, what might someone need to do when traveling to another country?",
       "options": {
-        "A": "Carry only digital money",
+        "A": "Carry only digital money or credit cards",
         "B": "Exchange their money for local currency",
         "C": "Use euros everywhere in the world",
         "D": "Use only credit cards and cheques"
@@ -535,8 +535,8 @@
       "options": {
         "A": "Because it is made of valuable materials",
         "B": "Because everyone agrees it has value",
-        "C": "Because banks create it",
-        "D": "Because it can be traded for corn"
+        "C": "Because it can be traded for corn",
+        "D": "Because banks create it"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -548,7 +548,7 @@
         "A": "Coins",
         "B": "Paper notes",
         "C": "Credit cards",
-        "D": "Trading corn"
+        "D": "Paper cheques"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -569,22 +569,22 @@
       "id": 48,
       "question": "According to the passage, what was difficult about trading before money existed?",
       "options": {
-        "A": "People didn't know how to trade",
+        "A": "People didn't know how to trade properly",
         "B": "Both sides needed to want what the other had",
-        "C": "People had nothing to trade with",
-        "D": "Trading was illegal"
+        "C": "People had almost nothing to trade with",
+        "D": "Trading was controlled by the government"
       },
       "correct_answer": "B",
       "category": "Reading"
     },
     {
       "id": 49,
-      "question": "The passage suggests that money today:",
+      "question": "The passage suggests that money today can't exist in:",
       "options": {
-        "A": "Only exists as physical coins and notes",
-        "B": "Can exist in different forms, including digital",
-        "C": "Is being replaced completely by credit cards",
-        "D": "Is no longer accepted by governments"
+        "A": "Physical coins",
+        "B": "Written obligations",
+        "C": "Digital credit cards",
+        "D": "Paper notes"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -596,7 +596,7 @@
         "A": "Digital money is replacing physical money completely",
         "B": "Different countries have different types of money",
         "C": "Money is a tool that helps people buy and sell things",
-        "D": "People should use credit cards instead of cash"
+        "D": "People should use credit cards instead of cash if possible"
       },
       "correct_answer": "C",
       "category": "Reading"
