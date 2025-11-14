@@ -5,10 +5,10 @@
       "id": 1,
       "question": "Choose the correct form of the verb. She ____ breakfast every morning.",
       "options": {
-        "A": "have",
-        "B": "having",
-        "C": "has",
-        "D": "had"
+        "A": "crooks",
+        "B": "tooks",
+        "C": "cooks",
+        "D": "books"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -17,7 +17,7 @@
       "id": 2,
       "question": "Which sentence is grammatically correct?",
       "options": {
-        "A": "They doesn't like bananas.",
+        "A": "They don't like banana.",
         "B": "They don't likes bananas.",
         "C": "They don't like bananas.",
         "D": "They not like bananas."
@@ -27,24 +27,24 @@
     },
     {
       "id": 3,
-      "question": "Select the correct past tense form. Last weekend, I ____ to the beach.",
+      "question": "Select the correct past tense form. Last weekend, I ____ an interesting book.",
       "options": {
-        "A": "gone",
-        "B": "goes",
-        "C": "going",
-        "D": "went"
+        "A": "finded",
+        "B": "founded",
+        "C": "funded",
+        "D": "found"
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 4,
-      "question": "Choose the correct preposition. The plate is ____ the table.",
+      "question": "Choose the correct preposition. The fork is ____ the plate.",
       "options": {
-        "A": "on",
-        "B": "in",
-        "C": "at",
-        "D": "by"
+        "A": "beside",
+        "B": "aside",
+        "C": "besides",
+        "D": "sided"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -92,7 +92,7 @@
         "A": "What time you wake up?",
         "B": "What time do you wake up?",
         "C": "What time does you wake up?",
-        "D": "What time are you wake up?"
+        "D": "What time are you waking up?"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -101,24 +101,24 @@
       "id": 9,
       "question": "Select the correct future form. I ____ my friend tomorrow.",
       "options": {
-        "A": "visit",
-        "B": "visiting",
-        "C": "am going to visit",
-        "D": "visited"
+        "A": "will go visit",
+        "B": "will visiting",
+        "C": "will visit",
+        "D": "will have visited"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 10,
-      "question": "Choose the correct article. Please give me ____ apple.",
+      "question": "Choose the correct article. Oh, you bought apples? Please give me ____ red one.",
       "options": {
         "A": "a",
         "B": "an",
         "C": "the",
-        "D": "no article needed"
+        "D": "-"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -127,7 +127,7 @@
       "options": {
         "A": "I was cook dinner when the phone rang.",
         "B": "I were cooking dinner when the phone rang.",
-        "C": "I cooking dinner when the phone rang.",
+        "C": "I am cooking dinner when the phone rang.",
         "D": "I was cooking dinner when the phone rang."
       },
       "correct_answer": "D",
@@ -173,12 +173,12 @@
       "id": 15,
       "question": "Select the correct form. If it ____ tomorrow, we'll go to the beach.",
       "options": {
-        "A": "rains",
+        "A": "won't rain",
         "B": "will rain",
-        "C": "rain",
-        "D": "is raining"
+        "C": "doesn't rain",
+        "D": "doesn't rains"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -211,7 +211,7 @@
       "options": {
         "A": "spend",
         "B": "make",
-        "C": "do",
+        "C": "use",
         "D": "have"
       },
       "correct_answer": "A",
@@ -219,7 +219,7 @@
     },
     {
       "id": 19,
-      "question": "Which word correctly completes the phrase? I usually ____ a shower in the morning.",
+      "question": "Which word correctly completes the phrase? I usually ____ my medication in the morning.",
       "options": {
         "A": "make",
         "B": "do",
@@ -243,14 +243,14 @@
     },
     {
       "id": 21,
-      "question": "Select the correct phrase. I need to ____ for tomorrow's test.",
+      "question": "Select the correct phrase. I need to ____ an essay for tomorrow's test.",
       "options": {
         "A": "write",
         "B": "study",
         "C": "learn",
         "D": "All of the above are correct."
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Use of English"
     },
     {
@@ -269,7 +269,7 @@
       "id": 23,
       "question": "Choose the correct expression. What time does the shop ____?",
       "options": {
-        "A": "go",
+        "A": "shut",
         "B": "close",
         "C": "finish",
         "D": "end"
@@ -307,8 +307,8 @@
       "options": {
         "A": "I food my cat every day.",
         "B": "The food in this restaurant is delicious.",
-        "C": "She food her homework yesterday.",
-        "D": "They food very happy about the news."
+        "C": "She ordered two foods before dinner.",
+        "D": "The sea food is swimming in the aquarium."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -318,8 +318,8 @@
       "question": "What does the word 'rock' refer to in this sentence: 'There are many rocks on the beach.'?",
       "options": {
         "A": "A type of music",
-        "B": "A hard, stone-like material",
-        "C": "A movement back and forth",
+        "B": "A type of stone",
+        "C": "A type of movement",
         "D": "A type of dance"
       },
       "correct_answer": "B",
@@ -341,10 +341,10 @@
       "id": 29,
       "question": "What is a 'river'?",
       "options": {
-        "A": "A large building",
-        "B": "A type of food",
+        "A": "A flow of air",
+        "B": "A flow of transport",
         "C": "A flow of water",
-        "D": "A place to buy things"
+        "D": "A flow of lava"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -355,7 +355,7 @@
       "options": {
         "A": "A place where people live",
         "B": "A place where people work with tools",
-        "C": "A place where you can buy things",
+        "C": "A place where people can buy things",
         "D": "A place where people study"
       },
       "correct_answer": "C",
@@ -367,8 +367,8 @@
       "options": {
         "A": "She seem the TV last night.",
         "B": "They seem happy with their new house.",
-        "C": "I seem my breakfast at 8 o'clock.",
-        "D": "We seem to school by bus."
+        "C": "I will seem my brother at school tomorrow.",
+        "D": "We seem for a new car for summer vacation."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -399,12 +399,12 @@
     },
     {
       "id": 34,
-      "question": "Which sentence uses 'journey' correctly?",
+      "question": "Which sentence uses 'trip' correctly?",
       "options": {
-        "A": "I journey some bread at the store.",
-        "B": "The journey takes about 2 hours by train.",
-        "C": "She journey to the zoo with her little brother.",
-        "D": "They journey dinner at a popular restaurant."
+        "A": "I tripped to the downtown last Sunday.",
+        "B": "His trip took about 2 days by train.",
+        "C": "She is tripping from Paris to Brussels by Eurostar.",
+        "D": "They tripped for dinner at a popular restaurant."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -414,9 +414,9 @@
       "question": "What is a 'pocket'?",
       "options": {
         "A": "A small space in clothing",
-        "B": "A type of sweet fruit",
-        "C": "A type of small animal",
-        "D": "A special kind of shoe"
+        "B": "A small space in apartment",
+        "C": "A small space in library",
+        "D": "A small space in shoes"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -440,7 +440,7 @@
         "A": "A day of the week",
         "B": "A season of the year",
         "C": "A type of tropical fruit",
-        "D": "A piece of furniture"
+        "D": "A month in a year"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -449,10 +449,10 @@
       "id": 38,
       "question": "Which sentence uses 'true' correctly?",
       "options": {
-        "A": "I true to the park yesterday.",
-        "B": "She true her hair every morning.",
-        "C": "Is this story true or false?",
-        "D": "They true dinner at 6 o'clock."
+        "A": "I don’t know how to true this machine.",
+        "B": "She tried to true the picture on the wall.",
+        "C": "Is this story about Winston true or false?",
+        "D": "They need to true the measurements before building."
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -461,8 +461,8 @@
       "id": 39,
       "question": "What does 'seven' refer to?",
       "options": {
-        "A": "A day of the week",
-        "B": "A month of the year",
+        "A": "A week",
+        "B": "A month",
         "C": "A color",
         "D": "A number"
       },
@@ -475,8 +475,8 @@
       "options": {
         "A": "Have you ever been to Paris?",
         "B": "I ever had a luxury car.",
-        "C": "She ever breakfast at 7 o'clock.",
-        "D": "They go to school by bus ever."
+        "C": "She ever get tired before going to bed.",
+        "D": "They make the same mistake ever time."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -498,7 +498,7 @@
       "question": "Based on paragraph 1, which animals give us eggs?",
       "options": {
         "A": "Cows",
-        "B": "Pigs",
+        "B": "Turkeys",
         "C": "Chickens",
         "D": "Sheep"
       },
@@ -523,8 +523,8 @@
       "options": {
         "A": "They gave milk",
         "B": "They pulled plows",
-        "C": "They caught mice",
-        "D": "They gave eggs"
+        "C": "They ate grass",
+        "D": "They protected farms"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -533,8 +533,8 @@
       "id": 45,
       "question": "According to paragraph 3, what do farm dogs help with?",
       "options": {
-        "A": "Producing milk",
-        "B": "Giving eggs",
+        "A": "Protecting people",
+        "B": "Collecting eggs",
         "C": "Protecting the farm",
         "D": "Cutting wool"
       },
@@ -545,10 +545,10 @@
       "id": 46,
       "question": "Based on paragraph 3, what do cats do on farms?",
       "options": {
-        "A": "They help move animals",
+        "A": "They help to move animals",
         "B": "They catch mice and rats",
-        "C": "They swim in ponds",
-        "D": "They give eggs"
+        "C": "They catch ducks and chickens",
+        "D": "They eat eggs"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -571,7 +571,7 @@
       "options": {
         "A": "Every day and every night",
         "B": "Only in winter and summer",
-        "C": "When the weather is very cold or hot",
+        "C": "When the weather is cold or hot",
         "D": "When animals are sick or hungry"
       },
       "correct_answer": "C",
@@ -582,9 +582,9 @@
       "question": "What is the main topic of this passage?",
       "options": {
         "A": "How to become a good farmer",
-        "B": "The food that farm animals eat",
+        "B": "The food that farm animals can eat",
         "C": "Farm animals and their roles on the farm",
-        "D": "The history of American farming"
+        "D": "The history of the American farm animals"
       },
       "correct_answer": "C",
       "category": "Reading"
