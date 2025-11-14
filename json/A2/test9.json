@@ -42,7 +42,7 @@
       "question": "Which sentence is in the past tense?",
       "options": {
         "A": "I am eating lunch.",
-        "B": "I eat lunch.",
+        "B": "I have eaten lunch.",
         "C": "I will eat lunch.",
         "D": "I ate lunch."
       },
@@ -55,7 +55,7 @@
       "options": {
         "A": "should",
         "B": "shouldn't",
-        "C": "can",
+        "C": "haven't",
         "D": "must"
       },
       "correct_answer": "B",
@@ -63,12 +63,12 @@
     },
     {
       "id": 6,
-      "question": "Which is the correct comparative form? This book is _____ than that one.",
+      "question": "Which is the correct comparative form? This film is _____ than that one.",
       "options": {
-        "A": "more big",
-        "B": "more bigger",
-        "C": "bigger",
-        "D": "biggest"
+        "A": "more worse",
+        "B": "more bad",
+        "C": "worse",
+        "D": "worser"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -77,9 +77,9 @@
       "id": 7,
       "question": "Choose the correct question form: '_____ you like some water?'",
       "options": {
-        "A": "Are",
-        "B": "Do",
-        "C": "Is",
+        "A": "Shall",
+        "B": "Should",
+        "C": "Which",
         "D": "Would"
       },
       "correct_answer": "D",
@@ -92,31 +92,31 @@
         "A": "since",
         "B": "for",
         "C": "in",
-        "D": "at"
+        "D": "from"
       },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 9,
-      "question": "Choose the correct option: She _____ TV when I called.",
+      "question": "Choose the correct option: They _____ dinner when the lights went out.",
       "options": {
-        "A": "watch",
-        "B": "watching",
-        "C": "was watching",
-        "D": "watched"
+        "A": "are eating",
+        "B": "have been eating",
+        "C": "were eating",
+        "D": "ate"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 10,
-      "question": "Select the correct sentence:",
+      "question": "Select the sentence that uses 'nor' correctly:",
       "options": {
-        "A": "He don't like apples.",
-        "B": "He doesn't likes apples.",
-        "C": "He doesn't like apples.",
-        "D": "He not like apples."
+        "A": "She didn’t call nor text me yesterday.",
+        "B": "I like either chocolate nor salty snacks.",
+        "C": "He neither drinks coffee nor tea.",
+        "D": "They nor wanted to go nor stay."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -159,24 +159,24 @@
     },
     {
       "id": 14,
-      "question": "Choose the correct option: _____ there any milk in the fridge?",
+      "question": "Choose the correct option: _____ there any news about the event?",
       "options": {
-        "A": "Is",
+        "A": "Have",
         "B": "Are",
         "C": "Do",
-        "D": "Have"
+        "D": "Is"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 15,
       "question": "Which sentence uses the future tense correctly?",
       "options": {
-        "A": "I going to the store tomorrow.",
+        "A": "I am going to the store tomorrow.",
         "B": "I will going to the store tomorrow.",
         "C": "I will go to the store tomorrow.",
-        "D": "I go to the store tomorrow."
+        "D": "I should go to the store tomorrow."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -185,9 +185,9 @@
       "id": 16,
       "question": "Complete the phrase: Could you _____ me the salt, please?",
       "options": {
-        "A": "take",
-        "B": "bring",
-        "C": "get",
+        "A": "past",
+        "B": "pest",
+        "C": "paste",
         "D": "pass"
       },
       "correct_answer": "D",
@@ -211,22 +211,22 @@
       "options": {
         "A": "Why don't we go out?",
         "B": "Why we don't go out?",
-        "C": "Why not we go out?",
-        "D": "Why we go out?"
+        "C": "Why didn't we go out?",
+        "D": "Why should we go out?"
       },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 19,
-      "question": "Select the appropriate response to 'How are you?'",
+      "question": "What is the inappropriate reply to 'Thanks for your help'?",
       "options": {
-        "A": "I am 25 years old.",
-        "B": "I'm fine, thanks.",
-        "C": "I'm at home.",
-        "D": "My name is John."
+        "A": "You're welcome.",
+        "B": "No problem at all.",
+        "C": "The pleasure is mine.",
+        "D": "You are pleased."
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -245,10 +245,10 @@
       "id": 21,
       "question": "Select the best way to ask for the time:",
       "options": {
-        "A": "What is hour?",
-        "B": "What time is?",
+        "A": "What hour is time?",
+        "B": "What time is on clock?",
         "C": "What time is it?",
-        "D": "What hour now?"
+        "D": "What is on the clock?"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -258,21 +258,21 @@
       "question": "Choose the correct expression: I'm looking forward _____ you soon.",
       "options": {
         "A": "to seeing",
-        "B": "for see",
-        "C": "to see",
-        "D": "see"
+        "B": "to watching",
+        "C": "to looking",
+        "D": "to staring"
       },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 23,
-      "question": "Which is the correct way to accept an offer?",
+      "question": "What is the best way to politely accept an invitation?",
       "options": {
-        "A": "No, thank you.",
-        "B": "Yes, I would.",
-        "C": "I am agree.",
-        "D": "I want it."
+        "A": "Yes, I'll think about it.",
+        "B": "Yes, I'd love to.",
+        "C": "You can invite someone else.",
+        "D": "You should invite me again."
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -329,7 +329,7 @@
       "id": 28,
       "question": "Which word means 'normal or usual'?",
       "options": {
-        "A": "Different",
+        "A": "Cotton",
         "B": "Special",
         "C": "Rare",
         "D": "Common"
@@ -341,10 +341,10 @@
       "id": 29,
       "question": "A 'report' is usually:",
       "options": {
-        "A": "A type of food",
+        "A": "A type of society",
         "B": "A type of information",
-        "C": "A place to live",
-        "D": "A type of clothing"
+        "C": "A type of sheet",
+        "D": "A type of letter"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -356,21 +356,21 @@
         "A": "Under",
         "B": "Down",
         "C": "Above",
-        "D": "Low"
+        "D": "Allow"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 31,
-      "question": "Which of these travels on water?",
+      "question": "Which of these doesn't travel on water?",
       "options": {
         "A": "Boat",
-        "B": "Car",
-        "C": "Bicycle",
+        "B": "Vessel",
+        "C": "Yacht",
         "D": "Train"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -461,7 +461,7 @@
       "id": 39,
       "question": "A 'tree' is a type of:",
       "options": {
-        "A": "Building",
+        "A": "Vegetable",
         "B": "Animal",
         "C": "Plant",
         "D": "Vehicle"
