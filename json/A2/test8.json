@@ -4,350 +4,600 @@
     {
       "id": 1,
       "question": "Which form of the verb is correct? She _____ to the store everyday.",
-      "options": {"A": "go", "B": "goes", "C": "went", "D": "going"},
+      "options": {
+        "A": "goose",
+        "B": "goes", 
+        "C": "wents",
+        "D": "is going"
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 2,
       "question": "Select the correct sentence.",
-      "options": {"A": "They doesn't like ice cream.", "B": "They don't like ice cream.", "C": "They not like ice cream.", "D": "They no like ice cream."},
+      "options": {
+        "A": "They doesn't like ice cream.", 
+        "B": "They don't like ice cream.",
+        "C": "They not like ice cream.", 
+        "D": "They no like ice cream."
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 3,
       "question": "Choose the correct preposition. The store is _____ the corner.",
-      "options": {"A": "around", "B": "in", "C": "for", "D": "from"},
+      "options": {
+        "A": "around",
+        "B": "across",
+        "C": "besides", 
+        "D": "outside"
+      },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 4,
-      "question": "What is the plural form of 'child'?",
-      "options": {"A": "childs", "B": "childen", "C": "children", "D": "childrens"},
+      "question": "What is the plural form of 'parent'?",
+      "options": {
+        "A": "parentes",
+        "B": "parentless", 
+        "C": "parents",
+        "D": "pareless"
+      },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 5,
-      "question": "Which is the correct past tense form? I _____ TV last night.",
-      "options": {"A": "watch", "B": "watching", "C": "watches", "D": "watched"},
+      "question": "Which is the correct past tense form? I have _____ this movie _____.",
+      "options": {
+        "A": "watched/yesterday", 
+        "B": "watch/recently",
+        "C": "watch/yesterday", 
+        "D": "watched/recently"
+      },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 6,
       "question": "Choose the correct article. _____ orange is a fruit.",
-      "options": {"A": "A", "B": "An", "C": "The", "D": "No article needed"},
+      "options": {
+        "A": "A",
+        "B": "An",
+        "C": "The",
+        "D": "-"
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 7,
       "question": "Which sentence is grammatically correct?",
-      "options": {"A": "She very happy today.", "B": "She is very happy today.", "C": "She very happy is today.", "D": "She is today very happy."},
+      "options": {
+        "A": "She very happy today.",
+        "B": "She is very happy today.",
+        "C": "She very happy is today.",
+        "D": "She is today very happy."
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 8,
-      "question": "Choose the correct form. My brother _____ soccer every weekend.",
-      "options": {"A": "play", "B": "plays", "C": "playing", "D": "is play"},
+      "question": "Choose the correct form. My brother _____ computer games every weekend.",
+      "options": {
+        "A": "play",
+        "B": "plays",
+        "C": "playing", 
+        "D": "is play"
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 9,
       "question": "Which question form is correct?",
-      "options": {"A": "Where you are going?", "B": "Where are you going?", "C": "Where going you are?", "D": "Where you going are?"},
+      "options": {
+        "A": "Where you are going?",
+        "B": "Where are you going?",
+        "C": "Where going you are?", 
+        "D": "Where you going are?"
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 10,
       "question": "Select the correct possessive pronoun. That pen is _____.",
-      "options": {"A": "I", "B": "me", "C": "my", "D": "mine"},
+      "options": {
+        "A": "of mine", 
+        "B": "me",
+        "C": "my", 
+        "D": "mine"
+      },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 11,
       "question": "Choose the correct comparative form. This book is _____ than that one.",
-      "options": {"A": "more interesting", "B": "interestinger", "C": "most interesting", "D": "the interesting"},
+      "options": {
+        "A": "more boring",
+        "B": "boringer", 
+        "C": "most boring",
+        "D": "the boriest"
+      },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 12,
-      "question": "Which is the correct negative form? She _____ like peanuts.",
-      "options": {"A": "no", "B": "not", "C": "doesn't", "D": "don't"},
+      "question": "Which is the correct negative form? She _____ eat peanuts because of her allergy.",
+      "options": {
+        "A": "might not",
+        "B": "have not to", 
+        "C": "must not",
+        "D": "not ought to"
+      },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 13,
       "question": "Select the correct past continuous form. They _____ when I called.",
-      "options": {"A": "was sleeping", "B": "were sleeping", "C": "are sleeping", "D": "sleep"},
+      "options": {
+        "A": "were asleep",
+        "B": "were sleeping", 
+        "C": "are sleeping",
+        "D": "sleep"
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 14,
-      "question": "Choose the correct modal verb. You _____ brush your teeth every day.",
-      "options": {"A": "can", "B": "should", "C": "would", "D": "might"},
+      "question": "Choose the correct modal verb. You _____ drink a lot of water in the desert.",
+      "options": {
+        "A": "can", 
+        "B": "should",
+        "C": "would",
+        "D": "might"
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 15,
       "question": "Which sentence has the correct word order?",
-      "options": {"A": "Always we go to school by bus.", "B": "We go always to school by bus.", "C": "We always go to school by bus.", "D": "We go to school always by bus."},
+      "options": {
+        "A": "Usually I eat breakfast quickly.",
+        "B": "I usually eat quickly breakfast.",
+        "C": "I usually eat breakfast quickly.",
+        "D": "Quickly I usually eat breakfast."
+      },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 16,
       "question": "Choose the correct word to complete the sentence: I need a _____ to find the museum.",
-      "options": {"A": "book", "B": "map", "C": "juice", "D": "dream"},
+      "options": {
+        "A": "book",
+        "B": "map",
+        "C": "way",
+        "D": "sign"
+      },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 17,
-      "question": "What is the meaning of the word 'cheap'?",
-      "options": {"A": "costing a lot of money", "B": "not costing much money", "C": "very good quality", "D": "very bad quality"},
-      "correct_answer": "B",
+      "question": "What is the meaning of the word 'expensive'?",
+      "options": {
+        "A": "costing a lot of money",
+        "B": "not costing much money",
+        "C": "very good quality", 
+        "D": "very bad quality"
+      },
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 18,
       "question": "Complete the sentence: After the vacation, we will _____ home on Sunday.",
-      "options": {"A": "return", "B": "leave", "C": "dream", "D": "base"},
+      "options": {
+        "A": "return",
+        "B": "leave", 
+        "C": "turn",
+        "D": "back"
+      },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 19,
-      "question": "Which word is a conjunction?",
-      "options": {"A": "dream", "B": "return", "C": "and", "D": "leave"},
+      "question": "Which word means 'to see visions when sleeping'?",
+      "options": {
+        "A": "sight",
+        "B": "movie",
+        "C": "dream", 
+        "D": "watch"
+      },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 20,
       "question": "Choose the word that means 'to talk about something briefly':",
-      "options": {"A": "dream", "B": "mention", "C": "cost", "D": "book"},
+      "options": {
+        "A": "mentor",
+        "B": "mention",
+        "C": "meant", 
+        "D": "meaning"
+      },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 21,
       "question": "What does the word 'purchase' mean?",
-      "options": {"A": "to buy something", "B": "to read something", "C": "to price something", "D": "to sell something"},
+      "options": {
+        "A": "to buy",
+        "B": "to demand",
+        "C": "to supply",
+        "D": "to sell"
+      },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 22,
       "question": "Complete the sentence: She walked _____ the street to reach the park.",
-      "options": {"A": "on", "B": "at", "C": "across", "D": "with"},
+      "options": {
+        "A": "though", 
+        "B": "after", 
+        "C": "across",
+        "D": "within"
+      },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 23,
       "question": "Which word can be both a noun and a verb?",
-      "options": {"A": "across", "B": "dream", "C": "lend", "D": "less"},
+      "options": {
+        "A": "edge",
+        "B": "plan",
+        "C": "swift",
+        "D": "seldom"
+      },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 24,
       "question": "Choose the correct word: I need to _____ the library book by Friday.",
-      "options": {"A": "return", "B": "dream", "C": "back", "D": "search"},
+      "options": {
+        "A": "return",
+        "B": "replace",
+        "C": "refund", 
+        "D": "reform"
+      },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 25,
       "question": "What does 'true' mean?",
-      "options": {"A": "not real", "B": "a lie", "C": "correct", "D": "a question"},
+      "options": {
+        "A": "unreal",
+        "B": "wrong", 
+        "C": "correct",
+        "D": "questionable"
+      },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 26,
       "question": "Complete the sentence: Orange _____ is my favorite drink for breakfast.",
-      "options": {"A": "book", "B": "maple", "C": "fruit", "D": "juice"},
+      "options": {
+        "A": "vegetable",
+        "B": "syrup",
+        "C": "fruit",
+        "D": "juice"
+      },
       "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 27,
       "question": "Which is the opposite of 'more'?",
-      "options": {"A": "big", "B": "small", "C": "less", "D": "high"},
+      "options": {
+        "A": "lessen", 
+        "B": "small",
+        "C": "less", 
+        "D": "high"
+      },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 28,
       "question": "Choose the correct word: I will _____ home at 5 o'clock.",
-      "options": {"A": "dream", "B": "leave", "C": "make", "D": "find"},
+      "options": {
+        "A": "live", 
+        "B": "leave", 
+        "C": "life", 
+        "D": "leaf"
+      },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 29,
       "question": "What does 'research' mean?",
-      "options": {"A": "to sleep deeply", "B": "to study carefully", "C": "to walk quickly", "D": "to speak loudly"},
+      "options": {
+        "A": "to search again", 
+        "B": "to study carefully",
+        "C": "to make a presentation", 
+        "D": "to look for a solution"
+      },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 30,
       "question": "Choose the word that can mean 'to reserve':",
-      "options": {"A": "map", "B": "book", "C": "base", "D": "dream"},
+      "options": {
+        "A": "hold", 
+        "B": "book",
+        "C": "block",
+        "D": "bold"
+      },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 31,
       "question": "'She _____ her breakfast every morning' needs which word to be correct?",
-      "options": {"A": "make", "B": "makes", "C": "making", "D": "made"},
+      "options": {
+        "A": "east",
+        "B": "eats",
+        "C": "ates",
+        "D": "arts"
+      },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 32,
-      "question": "Choose the correct phrase: 'Yesterday, I _____ to the cinema.'",
-      "options": {"A": "go", "B": "goes", "C": "went", "D": "going"},
+      "question": "Choose the correct phrase: 'Yesterday, I _____ food for my cat.'",
+      "options": {
+        "A": "bought", 
+        "B": "fought",
+        "C": "sought", 
+        "D": "drought"
+      },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 33,
-      "question": "Select the correct response to 'How are you?'",
-      "options": {"A": "I am 25 years old.", "B": "I am fine.", "C": "I am from Spain.", "D": "I am a student."},
+      "question": "What is the best response to 'Long time no see!'?",
+      "options": {
+        "A": "See you tomorrow!",
+        "B": "It's been a while!", 
+        "C": "I didn't see you much.",
+        "D": "I wish it was longer."
+      },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 34,
-      "question": "Complete the sentence: '_____ is your favorite color?'",
-      "options": {"A": "What", "B": "Where", "C": "When", "D": "Who"},
-      "correct_answer": "A",
+      "question": "What is the best response to 'Sorry I'm late!'?",
+      "options": {
+        "A": "Yes, time goes fast.",
+        "B": "No worries, it's okay.", 
+        "C": "I wasn't waiting for you anyway.",
+        "D": "Next time, don't come at all."
+      },
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 35,
       "question": "Which is the correct way to ask for permission?",
-      "options": {"A": "I can use your phone?", "B": "Can I use your phone?", "C": "I use your phone?", "D": "Can your phone?"},
+      "options": {
+        "A": "I can use your phone?", 
+        "B": "Can I use your phone?",
+        "C": "I will use your phone once?", 
+        "D": "Can your phone be used by me?"
+      },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 36,
       "question": "Complete the conversation: 'Would you like some tea?' '_____, thank you.'",
-      "options": {"A": "Yes, I would", "B": "Yes, I do", "C": "No, I don't", "D": "No, I couldn't"},
+      "options": {
+        "A": "Yes, I would",
+        "B": "Yes, I do",
+        "C": "No, I don't",
+        "D": "No, I couldn't"
+      },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 37,
       "question": "Choose the correct phrase to offer help:",
-      "options": {"A": "Can I help you?", "B": "I can help?", "C": "Help me?", "D": "Can you help me?"},
+      "options": {
+        "A": "Can I help you?",
+        "B": "Will I help you?", 
+        "C": "Will you help me?", 
+        "D": "Can you help me?"
+      },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 38,
-      "question": "Select the correct phrase to apologize:",
-      "options": {"A": "Thank you", "B": "You're welcome", "C": "I'm sorry", "D": "Please"},
-      "correct_answer": "C",
+      "question": "Select the incorrect phrase to apologize:",
+      "options": {
+        "A": "Pardon me",
+        "B": "Excuse me",
+        "C": "I'm sorry",
+        "D": "Sorry me"
+      },
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 39,
       "question": "Complete the sentence: 'She doesn't have _____ free time.'",
-      "options": {"A": "some", "B": "any", "C": "a", "D": "the"},
+      "options": {
+        "A": "some",
+        "B": "any",
+        "C": "a", 
+        "D": "the"
+      },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 40,
-      "question": "Which phrase is used to introduce yourself?",
-      "options": {"A": "How do you do?", "B": "See you later", "C": "My name is John", "D": "I am fine"},
+      "question": "What is the best way to introduce yourself at the start of a meeting?",
+      "options": {
+        "A": "Nice to meet you all.",
+        "B": "Is everyone ready?", 
+        "C": "Hi, I'm John.",
+        "D": "Let's begin now."
+      },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 41,
       "question": "According to the passage, which pets need daily walks?",
-      "options": {"A": "Cats", "B": "Fish", "C": "Dogs", "D": "Birds"},
+      "options": {
+        "A": "Cats",
+        "B": "Horses", 
+        "C": "Dogs", 
+        "D": "Birds"
+      },
       "correct_answer": "C",
       "category": "Reading"
     },
     {
       "id": 42,
       "question": "Based on the passage, cats are:",
-      "options": {"A": "very dependent on their owners", "B": "more independent than dogs", "C": "always active during the day", "D": "not popular as pets"},
+      "options": {
+        "A": "very dependent on their owners",
+        "B": "more independent than dogs", 
+        "C": "always active during the day",
+        "D": "not popular as pets"
+      },
       "correct_answer": "B",
       "category": "Reading"
     },
     {
       "id": 43,
       "question": "Which pets are described as quiet in the passage?",
-      "options": {"A": "Dogs", "B": "Cats", "C": "Birds", "D": "Fish"},
+      "options": {
+        "A": "Dogs",
+        "B": "Cats",
+        "C": "Birds",
+        "D": "Fish"
+      },
       "correct_answer": "D",
       "category": "Reading"
     },
     {
       "id": 44,
       "question": "According to paragraph 3, which pet has soft fur?",
-      "options": {"A": "Hamster", "B": "Turtle", "C": "Rabbit", "D": "Fish"},
+      "options": {
+        "A": "Hamster",
+        "B": "Turtle",
+        "C": "Rabbit", 
+        "D": "Cat"
+      },
       "correct_answer": "C",
       "category": "Reading"
     },
     {
       "id": 45,
       "question": "Which pet is described as moving slowly?",
-      "options": {"A": "Birds", "B": "Hamsters", "C": "Turtles", "D": "Rabbits"},
+      "options": {
+        "A": "Birds",
+        "B": "Hamsters", 
+        "C": "Turtles", 
+        "D": "Rabbits"
+      },
       "correct_answer": "C",
       "category": "Reading"
     },
     {
       "id": 46,
       "question": "According to the passage, what do all pets need?",
-      "options": {"A": "Regular walks", "B": "Cages", "C": "Food and clean water", "D": "Veterinarian visits"},
+      "options": {
+        "A": "Regular walks",
+        "B": "Clean cages", 
+        "C": "Food and water",
+        "D": "Veterinarian visits"
+      },
       "correct_answer": "C",
       "category": "Reading"
     },
     {
       "id": 47,
       "question": "Which statement about birds is true according to the passage?",
-      "options": {"A": "They need a lot of care", "B": "They can sing lovely songs", "C": "They are always quiet", "D": "They cannot live in houses"},
+      "options": {
+        "A": "They need a lot of care",
+        "B": "They can sing lovely songs",
+        "C": "They are always quiet", 
+        "D": "They cannot live in houses"
+      },
       "correct_answer": "B",
       "category": "Reading"
     },
     {
       "id": 48,
       "question": "The main idea of paragraph 4 is:",
-      "options": {"A": "Pets are expensive", "B": "Care of pets requires responsibility", "C": "Veterinarians can help pets", "D": "Pets make people happier"},
+      "options": {
+        "A": "Pets are too expensive for most people",
+        "B": "Care of pets requires responsibility", 
+        "C": "Veterinarians can help pets", 
+        "D": "Pets can make people happier"
+      },
       "correct_answer": "B",
       "category": "Reading"
     },
     {
       "id": 49,
       "question": "According to the passage, before choosing a pet, people should think about:",
-      "options": {"A": "what their friends have", "B": "where their pets will live", "C": "time and money for pet care", "D": "which pet is most popular"},
+      "options": {
+        "A": "what pet their friends have", 
+        "B": "where their pets will live",
+        "C": "time and money for pet care",
+        "D": "which pet is most popular"
+      },
       "correct_answer": "C",
       "category": "Reading"
     },
     {
       "id": 50,
       "question": "The passage suggests that the right pet can become:",
-      "options": {"A": "expensive", "B": "difficult to care for", "C": "a true friend", "D": "a problem"},
+      "options": {
+        "A": "expensive", 
+        "B": "difficult to care for",
+        "C": "a true friend", 
+        "D": "a problem"
+      },
       "correct_answer": "C",
       "category": "Reading"
     }
