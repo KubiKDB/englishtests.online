@@ -3,24 +3,24 @@
   "questions": [
     {
       "id": 1,
-      "question": "Choose the correct verb form: They _____ dinner right now.",
+      "question": "Choose the incorrect verb: They are _____ dinner right now.",
       "options": {
-        "A": "have",
+        "A": "cooking",
         "B": "having",
-        "C": "are having",
-        "D": "has"
+        "C": "repairing",
+        "D": "preparing"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 2,
-      "question": "Select the correct past tense: Yesterday, she _____ to the store.",
+      "question": "Select the correct past tense: Yesterday, she _____ a new dress.",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "going",
-        "D": "went"
+        "A": "choose",
+        "B": "chosen",
+        "C": "has chosen",
+        "D": "chose"
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -44,14 +44,14 @@
         "A": "a",
         "B": "an",
         "C": "the",
-        "D": "no article needed"
+        "D": "-"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 5,
-      "question": "Choose the correct preposition: The book is _____ the table.",
+      "question": "Choose the correct preposition: The book is _____ the shelf.",
       "options": {
         "A": "on",
         "B": "in",
@@ -65,10 +65,10 @@
       "id": 6,
       "question": "Which is the correct plural form?",
       "options": {
-        "A": "childs",
-        "B": "childrens",
-        "C": "children",
-        "D": "childs'"
+        "A": "librarys",
+        "B": "libraris",
+        "C": "libraries",
+        "D": "librares"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -91,8 +91,8 @@
       "options": {
         "A": "should",
         "B": "shouldn't",
-        "C": "will",
-        "D": "might"
+        "C": "won't",
+        "D": "might not"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -104,14 +104,14 @@
         "A": "The women's bags",
         "B": "The womens bags",
         "C": "The womens' bags",
-        "D": "The woman's bags"
+        "D": "The women'es bags"
       },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 10,
-      "question": "Choose the correct question form: \"_____ a car?\"",
+      "question": "Choose the correct question form: '_____ a car?'",
       "options": {
         "A": "You have",
         "B": "Have you",
@@ -137,9 +137,9 @@
       "id": 12,
       "question": "Which sentence uses the present perfect correctly?",
       "options": {
-        "A": "I have saw that movie.",
-        "B": "She have been to Paris.",
-        "C": "They has visited Rome.",
+        "A": "I have never saw that movie before.",
+        "B": "She have been to Paris many times.",
+        "C": "They had visited Rome at least twice.",
         "D": "We have lived here for two years."
       },
       "correct_answer": "D",
@@ -147,14 +147,14 @@
     },
     {
       "id": 13,
-      "question": "Choose the correct conjunction: I wanted to go out, _____ it was raining.",
+      "question": "Choose the correct word: _____ the cold weather, they continued their hike.",
       "options": {
-        "A": "because",
-        "B": "but",
-        "C": "so",
-        "D": "or"
+        "A": "Although",
+        "B": "However",
+        "C": "Despite",
+        "D": "Because of"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -176,7 +176,7 @@
         "A": "see",
         "B": "am seeing",
         "C": "will see",
-        "D": "saw"
+        "D": "will be seen"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -188,7 +188,7 @@
         "A": "To think about it",
         "B": "To do it regularly",
         "C": "To teach it to someone",
-        "D": "To forget about it"
+        "D": "To remember it"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -221,12 +221,12 @@
       "id": 19,
       "question": "What does 'half' mean?",
       "options": {
-        "A": "50% of something",
-        "B": "25% of something",
+        "A": "25% of something",
+        "B": "50% of something",
         "C": "75% of something",
         "D": "100% of something"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
@@ -236,7 +236,7 @@
         "A": "A place to sleep",
         "B": "A place to cook",
         "C": "A place to study",
-        "D": "A place to sit"
+        "D": "A place to stand"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -245,10 +245,10 @@
       "id": 21,
       "question": "What does it mean to 'explain' something?",
       "options": {
-        "A": "To make it more complicated",
-        "B": "To make it less complicated",
-        "C": "To forget about it",
-        "D": "To hide it"
+        "A": "To make it complicated",
+        "B": "To make it clear",
+        "C": "To make it stronger",
+        "D": "To make it harder"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -271,8 +271,8 @@
       "options": {
         "A": "An idea for the future",
         "B": "A memory from the past",
-        "C": "A type of food",
-        "D": "A kind of animal"
+        "C": "A reason for decision",
+        "D": "A hope for better future"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -291,12 +291,12 @@
     },
     {
       "id": 25,
-      "question": "Which sentence uses 'still' correctly?",
+      "question": "Which sentence is correct?",
       "options": {
         "A": "It is still raining outside.",
         "B": "She runs still every morning.",
         "C": "They still arrived late yesterday.",
-        "D": "He is late still."
+        "D": "He is waiting still."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -308,21 +308,21 @@
         "A": "A specific thing",
         "B": "A person you know",
         "C": "An unspecified thing",
-        "D": "A place you visit"
+        "D": "An unexpected thing"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 27,
-      "question": "Who is a 'parent'?",
+      "question": "Who is an 'aunt'?",
       "options": {
         "A": "A mother or father",
         "B": "A brother or sister",
-        "C": "A friend",
-        "D": "A teacher"
+        "C": "A parent's sister",
+        "D": "A grandparent's sister"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -331,8 +331,8 @@
       "options": {
         "A": "A cover of a book",
         "B": "A single sheet",
-        "C": "A type of pen",
-        "D": "A kind of bag"
+        "C": "A stack of paper",
+        "D": "A newspaper"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -341,10 +341,10 @@
       "id": 29,
       "question": "What is a 'language'?",
       "options": {
-        "A": "A type of food",
+        "A": "A system of computerization",
         "B": "A system of communication",
-        "C": "A kind of animal",
-        "D": "A place to visit"
+        "C": "A system of information",
+        "D": "A system of numeration"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -363,12 +363,12 @@
     },
     {
       "id": 31,
-      "question": "Choose the correct response to 'How are you?'",
+      "question": "Choose the correct response to 'Where do you live?'",
       "options": {
-        "A": "I'm John.",
-        "B": "I'm from Spain.",
-        "C": "I'm 25 years old.",
-        "D": "I'm fine, thanks."
+        "A": "I left the UK.",
+        "B": "I leave tomorrow.",
+        "C": "I am from London.",
+        "D": "I live in Soho."
       },
       "correct_answer": "D",
       "category": "Use of English"
@@ -379,20 +379,20 @@
       "options": {
         "A": "Yes, please.",
         "B": "You're welcome.",
-        "C": "Good morning.",
-        "D": "Goodbye."
+        "C": "Good job.",
+        "D": "Good luck."
       },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 33,
-      "question": "How would you politely ask someone to help you?",
+      "question": "The announcement you can hear in London tube:",
       "options": {
-        "A": "Help!",
-        "B": "You help me now.",
-        "C": "Could you help me?",
-        "D": "I want help."
+        "A": "Be aware of the gap, please.",
+        "B": "The gap is dangerous.",
+        "C": "Mind the gap, please.",
+        "D": "Notice the gap, please."
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -402,9 +402,9 @@
       "question": "Which expression is used to introduce yourself?",
       "options": {
         "A": "My name is Sarah.",
-        "B": "How are you?",
+        "B": "I am called Sarah",
         "C": "Nice to meet you.",
-        "D": "See you later."
+        "D": "You see me, please."
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -425,22 +425,22 @@
       "id": 36,
       "question": "How do you ask about the price of something?",
       "options": {
-        "A": "Where is it?",
+        "A": "How cost is it?",
         "B": "How much is this?",
-        "C": "What time is it?",
-        "D": "What color is it?"
+        "C": "What cost is it?",
+        "D": "What much is this?"
       },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 37,
-      "question": "What's the appropriate response to 'Would you like some tea?'",
+      "question": "What's the inappropriate adjective?",
       "options": {
-        "A": "Tea is hot.",
-        "B": "It's 5 o'clock.",
-        "C": "Yes, please.",
-        "D": "I am thirsty."
+        "A": "The tea is hot.",
+        "B": "The tea is black.",
+        "C": "The tea is fluffy.",
+        "D": "the tea is strong."
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -450,9 +450,9 @@
       "question": "How do you ask for directions?",
       "options": {
         "A": "Where is the bank?",
-        "B": "The bank is far.",
-        "C": "I like the bank.",
-        "D": "I need money."
+        "B": "The bank is far from here?",
+        "C": "I'd like the way to the bank?",
+        "D": "I need directions for money."
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -461,10 +461,10 @@
       "id": 39,
       "question": "Which is a polite way to get someone's attention?",
       "options": {
-        "A": "Hey you!",
-        "B": "Excuse me.",
-        "C": "Look here!",
-        "D": "Listen now!"
+        "A": "Hey you",
+        "B": "Excuse me",
+        "C": "Look here",
+        "D": "Listen now"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -476,7 +476,7 @@
         "A": "What is the hour?",
         "B": "Do you have the time?",
         "C": "How many hours?",
-        "D": "When is it?"
+        "D": "How is it the hour?"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -485,7 +485,7 @@
       "id": 41,
       "question": "According to paragraph 1, what do monkeys do during the day?",
       "options": {
-        "A": "They sleep in trees.",
+        "A": "They sleep in the tree shadow.",
         "B": "They look for fruit to eat.",
         "C": "They hunt other animals.",
         "D": "They play with birds."
@@ -509,10 +509,10 @@
       "id": 43,
       "question": "According to paragraph 3, how do monkeys move through the jungle?",
       "options": {
-        "A": "They run on the ground.",
-        "B": "They use their arms and legs to swing.",
-        "C": "They follow the tigers.",
-        "D": "They fly from tree to tree."
+        "A": "They run on the ground using limbs.",
+        "B": "They swing using their arms and legs.",
+        "C": "They follow the tigers to navigate.",
+        "D": "They fly from tree to tree like birds."
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -594,11 +594,11 @@
       "question": "Which statement is NOT supported by the passage?",
       "options": {
         "A": "Birds have bright colors that help them hide.",
-        "B": "Monkeys eat fruit in the jungle.",
-        "C": "Tigers hunt during the day.",
-        "D": "Some animals use speed to escape predators."
+        "B": "Some animals use speed to escape predators.",
+        "C": "Monkeys eat fruit in the jungle.",
+        "D": "Tigers hunt during the day."
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     }
   ]
