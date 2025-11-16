@@ -4,141 +4,241 @@
     {
       "id": 1,
       "question": "Choose the correct verb form: She _____ to music every day.",
-      "options": {"A": "listen", "B": "listening", "C": "listens", "D": "is listen"},
+      "options": {
+        "A": "listen", 
+        "B": "listening",
+        "C": "listens", 
+        "D": "is listen"
+      },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 2,
       "question": "Which sentence is grammatically correct?",
-      "options": {"A": "He don't like apples.", "B": "He doesn't likes apples.", "C": "He not like apples.", "D": "He doesn't like apples."},
+      "options": {
+        "A": "He don't like apples.",
+        "B": "He doesn't likes apples.", 
+        "C": "He not like apples.",
+        "D": "He doesn't like apples."
+      },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 3,
-      "question": "Select the correct past tense: We _____ to the beach last weekend.",
-      "options": {"A": "go", "B": "went", "C": "gone", "D": "going"},
+      "question": "Select the correct past tense: We _____ them at the beach last weekend.",
+      "options": {
+        "A": "seen", 
+        "B": "saw",
+        "C": "seed", 
+        "D": "sawn"
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 4,
-      "question": "Choose the correct preposition: I usually have breakfast _____ 8 o'clock.",
-      "options": {"A": "in", "B": "on", "C": "by", "D": "at"},
-      "correct_answer": "D",
+      "question": "Choose the correct preposition: I'm usually ready for school _____ 8 o'clock.",
+      "options": {
+        "A": "in",
+        "B": "on",
+        "C": "by",
+        "D": "to"
+      },
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 5,
-      "question": "Which option completes the sentence correctly? They _____ TV when the phone rang.",
-      "options": {"A": "watched", "B": "watching", "C": "were watching", "D": "are watching"},
+      "question": "Which option completes the sentence correctly? They _____ at the garden when we came.",
+      "options": {
+        "A": "have worked", 
+        "B": "worked", 
+        "C": "were working",
+        "D": "are working"
+      },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 6,
       "question": "Select the correct question form:",
-      "options": {"A": "Where you live?", "B": "Where do you live?", "C": "Where living you?", "D": "Where are you live?"},
+      "options": {
+        "A": "Where you live?", 
+        "B": "Where do you live?",
+        "C": "Where living you?",
+        "D": "Where are you live?"
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 7,
-      "question": "Which sentence uses the plural form correctly?",
-      "options": {"A": "There are three childs in the room.", "B": "There are three children in the room.", "C": "There are three childrens in the room.", "D": "There is three children in the room."},
-      "correct_answer": "B",
+      "question": "Which sentence uses the plural form incorrectly?",
+      "options": {
+        "A": "There are three kids in the room.", 
+        "B": "There are three children in the room.",
+        "C": "There are three childs in the room.",
+        "D": "There are three teenagers in the room."
+      },
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 8,
-      "question": "Choose the correct sentence:",
-      "options": {"A": "The book is on table.", "B": "The book is the table.", "C": "The book is at table.", "D": "The book is on the table."},
+      "question": "Choose the incorrect sentence:",
+      "options": {
+        "A": "The garden is behind the house.", 
+        "B": "The garden is in front of the house.",
+        "C": "The garden is next to the house.",
+        "D": "The garden is instead of the house."
+      },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 9,
       "question": "Which comparative form is correct?",
-      "options": {"A": "This exercise is more easy than that one.", "B": "This exercise is easyer than that one.", "C": "This exercise is easier than that one.", "D": "This exercise is the easier than that one."},
+      "options": {
+        "A": "This exercise is more easy than that one.", 
+        "B": "This exercise is easyer than that one.",
+        "C": "This exercise is easier than that one.",
+        "D": "This exercise is the easier than that one."
+      },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 10,
       "question": "Select the correct possessive form:",
-      "options": {"A": "My sisters name is Anna.", "B": "My sister's name is Anna.", "C": "My sisters' name is Anna.", "D": "My sister name is Anna."},
+      "options": {
+        "A": "My sisters name is Anna.", 
+        "B": "My sister's name is Anna.", 
+        "C": "My sisters' name is Anna.", 
+        "D": "My sister name is Anna."
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 11,
       "question": "Choose the correct form: I have _____ pizza before.",
-      "options": {"A": "never eat", "B": "never ate", "C": "never eaten", "D": "never eating"},
+      "options": {
+        "A": "never eat",
+        "B": "never ate", 
+        "C": "never eaten", 
+        "D": "never eating"
+      },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 12,
-      "question": "Which sentence has the correct word order?",
-      "options": {"A": "Always she is happy.", "B": "She is happy always.", "C": "She always is happy.", "D": "She is always happy."},
-      "correct_answer": "D",
+      "question": "Which sentence is incorrect?",
+      "options": {
+        "A": "They have been married for five years.",
+        "B": "They have been married in five years.",
+        "C": "They were married for five years.", 
+        "D": "They have never been married."
+      },
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 13,
       "question": "Select the correct modal verb: You _____ smoke in hospitals.",
-      "options": {"A": "don't have to", "B": "not must", "C": "mustn't", "D": "cannot to"},
+      "options": {
+        "A": "don't have to",
+        "B": "not must", 
+        "C": "must not", 
+        "D": "cannot to"
+      },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 14,
-      "question": "Which is the correct future form? I _____ my grandmother next weekend.",
-      "options": {"A": "visit", "B": "am going to visit", "C": "visiting", "D": "am visit"},
+      "question": "Which is the correct future form? I _____ exhibition next weekend.",
+      "options": {
+        "A": "visit",
+        "B": "will visit", 
+        "C": "will visiting",
+        "D": "will have visited"
+      },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 15,
       "question": "Choose the correct form: She told me _____ my homework.",
-      "options": {"A": "do", "B": "for doing", "C": "to do", "D": "that do"},
+      "options": {
+        "A": "do", 
+        "B": "for doing",
+        "C": "to do", 
+        "D": "that do"
+      },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 16,
       "question": "Complete the phrase: Let's meet _____ lunch tomorrow.",
-      "options": {"A": "to", "B": "for", "C": "at", "D": "with"},
+      "options": {
+        "A": "to", 
+        "B": "for", 
+        "C": "at",
+        "D": "with"
+      },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 17,
-      "question": "Choose the correct response to 'Would you like some cake?'",
-      "options": {"A": "Yes, I'd love to.", "B": "Yes, I do.", "C": "Yes, I am.", "D": "Yes, I would."},
+      "question": "Choose the correct response to 'Have you ever tried mango?'",
+      "options": {
+        "A": "Yes, I would.",
+        "B": "Yes, I have.", 
+        "C": "Yes, I should.", 
+        "D": "Yes, I did."
+      },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 18,
       "question": "Select the best phrase to complete: I'm not very good _____ cooking.",
-      "options": {"A": "at", "B": "in", "C": "on", "D": "with"},
+      "options": {
+        "A": "at", 
+        "B": "in",
+        "C": "on",
+        "D": "with"
+      },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 19,
-      "question": "Which expression do you use to ask for help?",
-      "options": {"A": "Could you help me?", "B": "Do you want help?", "C": "I help you?", "D": "Do I help you?"},
-      "correct_answer": "A",
+      "question": "You will fly with me on vacation, _____?",
+      "options": {
+        "A": "will you",
+        "B": "want you",
+        "C": "won't you", 
+        "D": "don't you"
+      },
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 20,
-      "question": "Complete the phrase: _____ is your birthday?",
-      "options": {"A": "When", "B": "Where", "C": "Who", "D": "What"},
-      "correct_answer": "A",
+      "question": "Complete the phrase: What _____ is your birthday?", 
+      "options": { 
+        "A": "week",
+        "B": "day",
+        "C": "date",
+        "D": "month" 
+      },
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
