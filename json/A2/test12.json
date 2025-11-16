@@ -3,24 +3,24 @@
   "questions": [
     {
       "id": 1,
-      "question": "Choose the correct form of the verb: 'My brother _____ TV every evening.'",
+      "question": "Choose the correct option: 'My brother is _____ than me.'",
       "options": {
-        "A": "watch",
-        "B": "watches",
-        "C": "watching",
-        "D": "is watch"
+        "A": "clever",
+        "B": "more clever",
+        "C": "more cleverer",
+        "D": "the more clever"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 2,
-      "question": "Select the correct past form: 'We _____ to the beach last weekend.'",
+      "question": "Select the correct past form: 'We _____ friends in our childhood.'",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "went",
-        "D": "going"
+        "A": "used be",
+        "B": "have used be",
+        "C": "used to be",
+        "D": "have used to be"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -29,10 +29,10 @@
       "id": 3,
       "question": "Which sentence is in the present continuous tense?",
       "options": {
-        "A": "She works in a hospital.",
-        "B": "She worked in a hospital.",
+        "A": "She was working in a hospital.",
+        "B": "She had been working in a hospital.",
         "C": "She is working in a hospital.",
-        "D": "She will work in a hospital."
+        "D": "She will be working in a hospital."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -41,22 +41,22 @@
       "id": 4,
       "question": "Choose the correct preposition: 'There is a cat _____ the roof.'",
       "options": {
-        "A": "under",
+        "A": "in",
         "B": "on",
-        "C": "inside",
-        "D": "next"
+        "C": "at",
+        "D": "of"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 5,
-      "question": "Which sentence has the correct word order?",
+      "question": "Which sentence is incorrect?",
       "options": {
-        "A": "Where you are going?",
-        "B": "Where are going you?",
-        "C": "Where are you going?",
-        "D": "Where going are you?"
+        "A": "Where are you going?",
+        "B": "What are you doing?",
+        "C": "When are you leave?",
+        "D": "Why are you here?"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -68,50 +68,50 @@
         "A": "a",
         "B": "an",
         "C": "the",
-        "D": "no article needed"
+        "D": "-"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 7,
-      "question": "Choose the correct comparative form: 'This exercise is _____ than the last one.'",
+      "question": "Choose the correct comparative form: 'This part was _____ one.'",
       "options": {
         "A": "easy",
         "B": "easier",
         "C": "easiest",
-        "D": "more easy"
+        "D": "the easiest"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 8,
       "question": "Which is the correct plural form?",
       "options": {
-        "A": "childs",
-        "B": "childes",
-        "C": "childs's",
-        "D": "children"
+        "A": "sheets/sheeps",
+        "B": "sheet/sheeps",
+        "C": "sheet/sheep",
+        "D": "sheets/sheep"
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 9,
-      "question": "Select the correct form: 'There _____ some milk in the fridge.'",
+      "question": "Select the correct form: 'There _____ oranges on the tree.'",
       "options": {
         "A": "is",
         "B": "are",
         "C": "be",
         "D": "am"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 10,
-      "question": "Choose the correct possessive form: '_____ car is very old.'",
+      "question": "Choose the correct possessive form: '_____ father's car is vintage.'",
       "options": {
         "A": "Mine",
         "B": "My",
@@ -128,19 +128,19 @@
         "A": "I have went to Barcelona.",
         "B": "I have gone to Barcelona.",
         "C": "I have goed to Barcelona.",
-        "D": "I have go to Barcelona."
+        "D": "I had gone to Barcelona."
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 12,
-      "question": "Select the correct modal verb: 'You _____ smoke in the hospital.'",
+      "question": "Select the correct modal verb: '_____ I get a chair?'",
       "options": {
-        "A": "don't have to",
-        "B": "must not",
-        "C": "should not to",
-        "D": "aren't"
+        "A": "Will",
+        "B": "Shall",
+        "C": "Let",
+        "D": "Must"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -149,10 +149,10 @@
       "id": 13,
       "question": "Choose the correct future form: 'I _____ my friend tomorrow.'",
       "options": {
-        "A": "see",
+        "A": "want to see",
         "B": "am seeing",
         "C": "will see",
-        "D": "sees"
+        "D": "will be seen"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -161,10 +161,10 @@
       "id": 14,
       "question": "Which sentence uses the past simple correctly?",
       "options": {
-        "A": "She not went to school yesterday.",
+        "A": "She has not gone to school yesterday.",
         "B": "She didn't went to school yesterday.",
         "C": "She didn't go to school yesterday.",
-        "D": "She no go to school yesterday."
+        "D": "She doesn't go to school yesterday."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -173,10 +173,10 @@
       "id": 15,
       "question": "Select the correct relative pronoun: 'This is the cake _____ I baked for you.'",
       "options": {
-        "A": "who",
+        "A": "this",
         "B": "that",
-        "C": "where",
-        "D": "when"
+        "C": "then",
+        "D": "than"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -195,12 +195,12 @@
     },
     {
       "id": 17,
-      "question": "Choose the correct expression: 'Can you _____ me a favor, please?'",
+      "question": "Choose the incorrect sentence: 'Can you _____ a letter?'",
       "options": {
-        "A": "make",
-        "B": "give",
-        "C": "do",
-        "D": "take"
+        "A": "write",
+        "B": "post",
+        "C": "make",
+        "D": "mail"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -221,55 +221,55 @@
       "id": 19,
       "question": "Complete the sentence: 'She's very busy, so she doesn't have much free _____.'",
       "options": {
-        "A": "hour",
-        "B": "duration",
+        "A": "hours",
+        "B": "minutes",
         "C": "time",
-        "D": "period"
+        "D": "times"
       },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 20,
-      "question": "Choose the correct expression: 'Let's _____ a coffee and talk about it.'",
+      "question": "Choose the incorrect expression: 'Let's _____ a coffee and talk about it.'",
       "options": {
         "A": "drink",
         "B": "take",
         "C": "make",
         "D": "have"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 21,
-      "question": "Select the correct phrasal verb: 'Please _____ the lights when you leave the room.'",
+      "question": "Select the correct phrasal verb: 'Please _____ the lights when you enter the room.'",
       "options": {
         "A": "turn off",
         "B": "turn on",
         "C": "turn down",
         "D": "turn over"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 22,
-      "question": "Complete the sentence: 'I'm going to _____ a shower now.'",
+      "question": "Complete the sentence: '_____ attention to this detail.'",
       "options": {
-        "A": "do",
+        "A": "give",
         "B": "make",
         "C": "take",
-        "D": "get"
+        "D": "pay"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 23,
       "question": "Choose the correct collocation: 'I need to _____ an appointment with the doctor.'",
       "options": {
-        "A": "do",
+        "A": "write",
         "B": "make",
         "C": "take",
         "D": "have"
@@ -308,7 +308,7 @@
         "A": "talent",
         "B": "hobby",
         "C": "skill",
-        "D": "job"
+        "D": "work"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -389,7 +389,7 @@
       "id": 33,
       "question": "Choose the word that means 'not far away':",
       "options": {
-        "A": "close",
+        "A": "closed",
         "B": "next",
         "C": "near",
         "D": "beside"
@@ -425,10 +425,10 @@
       "id": 36,
       "question": "Choose the word for a sweet food made from cocoa:",
       "options": {
-        "A": "candy",
+        "A": "candies",
         "B": "chocolate",
-        "C": "cookie",
-        "D": "cake"
+        "C": "cookies",
+        "D": "coconut"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -437,7 +437,7 @@
       "id": 37,
       "question": "Which word is the opposite of 'low'?",
       "options": {
-        "A": "tall",
+        "A": "short",
         "B": "big",
         "C": "high",
         "D": "top"
@@ -523,7 +523,7 @@
       "options": {
         "A": "A small seed for developing a fruit",
         "B": "A closed part where the flower is developing",
-        "C": "A type of insect for pollination",
+        "C": "A type of insect that helps with pollination",
         "D": "A root that grows down to reach water"
       },
       "correct_answer": "B",
@@ -548,7 +548,7 @@
         "A": "When a seed starts to grow",
         "B": "When a bud opens and becomes a flower",
         "C": "When insects move pollen between flowers",
-        "D": "When petals fall off a flower"
+        "D": "When petals fall off a pollinated flower"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -579,12 +579,12 @@
     },
     {
       "id": 49,
-      "question": "Based on the passage, how are seeds spread to new places?",
+      "question": "Based on the passage, how aren't seeds spread to new places?",
       "options": {
-        "A": "Only by the wind",
-        "B": "Only by animals",
-        "C": "By wind, water, or animals",
-        "D": "Only by insects like bees"
+        "A": "By wind",
+        "B": "By animals",
+        "C": "By fog",
+        "D": "By water"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -594,8 +594,8 @@
       "question": "According to the passage, what happens when seeds find a good place with soil, water, and sunlight?",
       "options": {
         "A": "They turn into petals",
-        "B": "They form a bud",
-        "C": "They become pollen",
+        "B": "They form a bud and attract insects",
+        "C": "They become pollinated",
         "D": "They grow into new plants"
       },
       "correct_answer": "D",
