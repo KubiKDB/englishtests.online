@@ -243,211 +243,361 @@
     },
     {
       "id": 21,
-      "question": "Select the correct time expression: My train arrives _____ 6:30.",
-      "options": {"A": "in", "B": "on", "C": "at", "D": "by"},
+      "question": "Select the correct time expression: My train arrives _____ the station _____ 6:30.",
+      "options": {
+        "A": "in/at", 
+        "B": "in/in",
+        "C": "at/at",
+        "D": "at/in"
+      },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 22,
-      "question": "Choose the correct linking word: I like swimming _____ I don't like running.",
-      "options": {"A": "and", "B": "because", "C": "so", "D": "but"},
+      "question": "Choose the best linking word: I like swimming _____ I don't like running.",
+      "options": {
+        "A": "and", 
+        "B": "because",
+        "C": "so", 
+        "D": "but"
+      },
       "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 23,
-      "question": "Which phrase is used to make a suggestion?",
-      "options": {"A": "Let's go to the cinema.", "B": "I go to the cinema.", "C": "You must go to the cinema.", "D": "Going to the cinema."},
+      "question": "Which sentence is correct?",
+      "options": {
+        "A": "Let's go to the shopping mall.",
+        "B": "Let go to the shopping mall.", 
+        "C": "Lets go to the shopping mall.",
+        "D": "Lets' go to the shopping mall."
+      },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 24,
-      "question": "Choose the correct phrase to express agreement:",
-      "options": {"A": "I don't agree.", "B": "I think you're right.", "C": "I'm not sure.", "D": "Maybe."},
+      "question": "Choose the correct phrase to express strong agreement:",
+      "options": {
+        "A": "I disagree.",
+        "B": "You're right.",
+        "C": "I'm not sure.",
+        "D": "Maybe you're right."
+      },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 25,
-      "question": "Select the correct phrase to ask permission:",
-      "options": {"A": "May I use your phone?", "B": "I use your phone?", "C": "I will use your phone?", "D": "Using your phone?"},
-      "correct_answer": "A",
+      "question": "Select the incorrect phrase to ask permission:",
+      "options": {
+        "A": "May I use your phone?",
+        "B": "Can I use your phone?",
+        "C": "Let me use your phone.",
+        "D": "Must I use your phone?"
+      },
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 26,
       "question": "What does 'introduce' mean in this sentence? 'Let me introduce my friend Tom.'",
-      "options": {"A": "to show someone to others", "B": "to bring something new", "C": "to explain something", "D": "to invite someone"},
+      "options": {
+        "A": "to show someone to others", 
+        "B": "to bring something new",
+        "C": "to explain something",
+        "D": "to invite someone"
+      },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 27,
       "question": "Choose the correct meaning of 'record' in 'I want to record this song.'",
-      "options": {"A": "to write down", "B": "to save sound", "C": "to remember", "D": "to play music"},
+      "options": {
+        "A": "to write down", 
+        "B": "to save sound", 
+        "C": "to remember", 
+        "D": "to play music"
+      },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 28,
       "question": "Which sentence uses 'cold' correctly?",
-      "options": {"A": "I have a cold chicken.", "B": "The winter is very cold.", "C": "She speaks in a cold.", "D": "They cold the food."},
+      "options": {
+        "A": "I have a cold pencil.", 
+        "B": "The winter is very cold.", 
+        "C": "She speaks in a cold.", 
+        "D": "They cold the food."
+      },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 29,
-      "question": "What does 'home' mean in 'I'm going home now.'?",
-      "options": {"A": "a place to lives", "B": "a building in a city", "C": "a country in Europe", "D": "a big family"},
-      "correct_answer": "A",
+      "question": "What does 'weird' mean in 'I had a weird dream.'?",
+      "options": {
+        "A": "strong",
+        "B": "different",
+        "C": "light",
+        "D": "strange"
+      },
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 30,
       "question": "Which sentence uses 'village' correctly?",
-      "options": {"A": "London is a big village.", "B": "They village in the mountains.", "C": "She lives in a small village.", "D": "I like to village with my friends."},
+      "options": {
+        "A": "London is a big village.", 
+        "B": "They village in the mountains.",
+        "C": "She lives in a small village.",
+        "D": "I like to village with my friends."
+      },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 31,
       "question": "What does 'pair' mean?",
-      "options": {"A": "a group of three things", "B": "two things that go together", "C": "many similar things", "D": "a single item"},
+      "options": {
+        "A": "a group of three things",
+        "B": "a group of two things", 
+        "C": "many similar things",
+        "D": "a single item"
+      },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 32,
       "question": "Choose the correct meaning of 'over' in 'The cat jumped over the wall.'",
-      "options": {"A": "above", "B": "inside", "C": "next to", "D": "under"},
+      "options": {
+        "A": "above", 
+        "B": "inside",
+        "C": "next to",
+        "D": "under"
+      },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 33,
       "question": "Which sentence uses 'carry' correctly?",
-      "options": {"A": "She carries the bus to school.", "B": "They carry water in bottles.", "C": "He carries sleep every night.", "D": "I carry my age well."},
+      "options": {
+        "A": "She carries the bus to school.",
+        "B": "They carry water in bottles.",
+        "C": "He carries sleep every night.", 
+        "D": "I carry my age well."
+      },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 34,
       "question": "What is 'salt' used for?",
-      "options": {"A": "to clean things", "B": "to add flavor to food", "C": "to make things sweet", "D": "to color food"},
+      "options": {
+        "A": "to clean things",
+        "B": "to add flavor to food",
+        "C": "to make things sweet",
+        "D": "to color food"
+      },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 35,
-      "question": "Choose the correct sentence with 'enjoy':",
-      "options": {"A": "I enjoy to swim.", "B": "She enjoy the party.", "C": "They enjoyed the movie.", "D": "He enjoying football."},
+      "question": "What is 'sugar' used for?",
+      "options": {
+        "A": "to clean things",
+        "B": "to make things spicy",
+        "C": "to make things sweet",
+        "D": "to color food"
+      },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 36,
       "question": "What does 'outer' mean in 'the outer layer of clothing'?",
-      "options": {"A": "inner", "B": "outside", "C": "middle", "D": "under"},
+      "options": {
+        "A": "inner", 
+        "B": "outside", 
+        "C": "middle", 
+        "D": "under"
+      },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 37,
-      "question": "Which question uses 'time' correctly?",
-      "options": {"A": "What time is it?", "B": "How much time?", "C": "Where is the time?", "D": "Who is time?"},
-      "correct_answer": "A",
+      "question": "Which sentence uses 'time' correctly?",
+      "options": {
+        "A": "The time was not enough to finish the task.",
+        "B": "You need many time to finish the task.", 
+        "C": "We didn't have much time to finish the task.",
+        "D": "I don't have some time to sleep."
+      },
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 38,
       "question": "Select the correct sentence with 'five':",
-      "options": {"A": "There is five people in my family.", "B": "I have five fingers on each hand.", "C": "She five years old.", "D": "They finished the race in five."},
+      "options": {
+        "A": "There is five people in my family.", 
+        "B": "I have five fingers on each hand.",
+        "C": "She is five years young.", 
+        "D": "They finished the race in five place."
+      },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 39,
       "question": "What is a 'forest'?",
-      "options": {"A": "a group of trees", "B": "a large city", "C": "a small river", "D": "a type of animal"},
+      "options": {
+        "A": "a group of trees",
+        "B": "a group of bushes",
+        "C": "a group of clouds", 
+        "D": "a group of tourists"
+      },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 40,
       "question": "Choose the correct meaning of 'miss' in 'I miss my family.'",
-      "options": {"A": "to fail to see", "B": "to want to see", "C": "to not like", "D": "to forget"},
+      "options": {
+        "A": "fail to see", 
+        "B": "want to see",
+        "C": "cannot see", 
+        "D": "will see"
+      },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 41,
       "question": "According to the passage, how many main senses do humans have?",
-      "options": {"A": "Three", "B": "Four", "C": "Five", "D": "Six"},
+      "options": {
+        "A": "Three",
+        "B": "Four", 
+        "C": "Five", 
+        "D": "Six"
+      },
       "correct_answer": "C",
       "category": "Reading"
     },
     {
       "id": 42,
       "question": "What do our senses do with information?",
-      "options": {"A": "Throw it away", "B": "Send it to our brain", "C": "Store it in our eyes", "D": "Share it with others"},
+      "options": {
+        "A": "Send it to our legs",
+        "B": "Send it to our brain",
+        "C": "Store it in our eyes",
+        "D": "Share it with others"
+      },
       "correct_answer": "B",
       "category": "Reading"
     },
     {
       "id": 43,
       "question": "According to paragraph 2, what do our eyes help us see?",
-      "options": {"A": "Tastes, smells, and sounds", "B": "Colors, shapes, and movement", "C": "Hot, cold, soft, and hard", "D": "Sweet, sour, salty, and bitter"},
+      "options": {
+        "A": "Tastes, smells, and sounds",
+        "B": "Colors, shapes, and movement",
+        "C": "Hot, cold, soft, and hard", 
+        "D": "Sweet, sour, salty, and bitter"
+      },
       "correct_answer": "B",
       "category": "Reading"
     },
     {
       "id": 44,
       "question": "Which body part is used for hearing?",
-      "options": {"A": "Nose", "B": "Eyes", "C": "Tongue", "D": "Ears"},
+      "options": {
+        "A": "Nose", 
+        "B": "Eyes",
+        "C": "Tongue",
+        "D": "Ears"
+      },
       "correct_answer": "D",
       "category": "Reading"
     },
     {
       "id": 45,
       "question": "How many main tastes can our tongue recognize?",
-      "options": {"A": "Two", "B": "Three", "C": "Four", "D": "Five"},
+      "options": {
+        "A": "Two", 
+        "B": "Three", 
+        "C": "Four",
+        "D": "Five"
+      },
       "correct_answer": "C",
       "category": "Reading"
     },
     {
       "id": 46,
       "question": "What part of our body helps us feel things like hot, cold, soft, or hard?",
-      "options": {"A": "Brain", "B": "Skin", "C": "Nose", "D": "Tongue"},
+      "options": {
+        "A": "Brain", 
+        "B": "Skin", 
+        "C": "Nose", 
+        "D": "Tongue"
+      },
       "correct_answer": "B",
       "category": "Reading"
     },
     {
       "id": 47,
       "question": "According to the passage, what happens when one sense doesn't work well?",
-      "options": {"A": "People use their other senses more", "B": "People cannot understand the world", "C": "People need medicine", "D": "People sleep better"},
+      "options": {
+        "A": "People use their other senses more", 
+        "B": "People cannot understand the world",
+        "C": "People need medicine", 
+        "D": "People sleep better"
+      },
       "correct_answer": "A",
       "category": "Reading"
     },
     {
       "id": 48,
       "question": "According to paragraph 4, people who cannot see often have very good:",
-      "options": {"A": "Taste", "B": "Smell", "C": "Hearing", "D": "Touch"},
+      "options": {
+        "A": "Taste",
+        "B": "Smell",
+        "C": "Hearing",
+        "D": "Touch"
+      },
       "correct_answer": "C",
       "category": "Reading"
     },
     {
       "id": 49,
       "question": "According to the passage, when do our senses work?",
-      "options": {"A": "Only during the day", "B": "Only when we are awake", "C": "Only when we need them", "D": "Always"},
+      "options": {
+        "A": "Only during the day", 
+        "B": "Only when we are awake",
+        "C": "Only when we need them", 
+        "D": "Always"
+      },
       "correct_answer": "D",
       "category": "Reading"
     },
     {
       "id": 50,
       "question": "What is the main idea of this passage?",
-      "options": {"A": "How to improve your five senses", "B": "Why some people have better senses than others", "C": "How our five senses help us understand the world", "D": "The problems with human senses"},
+      "options": {
+        "A": "How to improve your five senses during your life",
+        "B": "Why some people have better senses than others",
+        "C": "How our five senses help us understand the world",
+        "D": "How problems with human senses cause troubles"
+      },
       "correct_answer": "C",
       "category": "Reading"
     }
