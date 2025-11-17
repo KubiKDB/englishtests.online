@@ -15,24 +15,24 @@
     },
     {
       "id": 2,
-      "question": "Choose the correct past tense form: 'Last week, I ___ to the cinema.'",
+      "question": "Choose the correct past tense form: 'Last weekend, I ___ sushi at the bar.'",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "went",
-        "D": "going"
+        "A": "ated",
+        "B": "eaten",
+        "C": "ate",
+        "D": "eated"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 3,
-      "question": "Select the correct preposition: 'I usually arrive ___ work at 9:00.'",
+      "question": "Select the correct preposition: 'I usually arrive ___ work ___ 9:00.'",
       "options": {
-        "A": "at",
-        "B": "in",
-        "C": "on",
-        "D": "by"
+        "A": "at/at",
+        "B": "in/at",
+        "C": "at/in",
+        "D": "in/in"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -43,7 +43,7 @@
       "options": {
         "A": "He listening podcasts now.",
         "B": "He is listening podcasts now.",
-        "C": "He listen podcasts now.",
+        "C": "He has listened podcasts now.",
         "D": "He listens podcasts now."
       },
       "correct_answer": "B",
@@ -51,19 +51,19 @@
     },
     {
       "id": 5,
-      "question": "Choose the correct article: 'I need ___ umbrella because it's raining.'",
+      "question": "Choose the correct article: 'We need ___ umbrellas because it's raining.'",
       "options": {
         "A": "a",
         "B": "an",
         "C": "the",
-        "D": "no article needed"
+        "D": "-"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 6,
-      "question": "Select the correct comparative form: 'This book is ___ than that one.'",
+      "question": "Select the correct comparative form: 'This game is ___ than that one.'",
       "options": {
         "A": "more interesting",
         "B": "interestinger",
@@ -91,7 +91,7 @@
       "options": {
         "A": "What time is it?",
         "B": "What time it is?",
-        "C": "Time is what?",
+        "C": "Which time is now?",
         "D": "Is what time it?"
       },
       "correct_answer": "A",
@@ -116,7 +116,7 @@
         "A": "they",
         "B": "their",
         "C": "there",
-        "D": "them"
+        "D": "theirs"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -171,7 +171,7 @@
     },
     {
       "id": 15,
-      "question": "Select the correct form: 'If we ___ hungry later, we'll order pizza.'",
+      "question": "Select the correct form: 'If we ___ hungry later, we'll order pizzas.'",
       "options": {
         "A": "get",
         "B": "gets",
@@ -183,7 +183,7 @@
     },
     {
       "id": 16,
-      "question": "Choose the correct expression: '___ is your phone number?'",
+      "question": "Choose the most correct expression: '___ is your phone number?'",
       "options": {
         "A": "Which",
         "B": "What",
@@ -195,12 +195,12 @@
     },
     {
       "id": 17,
-      "question": "Select the appropriate phrase: 'Let's meet ___ 6 o'clock.'",
+      "question": "Select the appropriate phrase: 'Let's meet ___ 6 ___.'",
       "options": {
-        "A": "in",
-        "B": "on",
-        "C": "at",
-        "D": "during"
+        "A": "in/o'clock",
+        "B": "at/clock",
+        "C": "at/o'clock",
+        "D": "at/o'clocks"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -332,7 +332,7 @@
         "A": "To come back",
         "B": "To leave again",
         "C": "To start over",
-        "D": "To forget about"
+        "D": "To turn back"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -356,7 +356,7 @@
         "A": "A place where people go for shopping and entertainment",
         "B": "A place where children learn and play together",
         "C": "A place where sick people receive medical care",
-        "D": "A place where people live and work"
+        "D": "A place where people live, work, and play"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -380,7 +380,7 @@
         "A": "To take away something",
         "B": "To come with something",
         "C": "To forget about something",
-        "D": "To break something down"
+        "D": "To help with something"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -391,22 +391,22 @@
       "options": {
         "A": "To hide something from everyone",
         "B": "To say what something is like",
-        "C": "To clean something",
-        "D": "To run quickly"
+        "C": "To speak about the secrets",
+        "D": "To understand the lesson"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 34,
-      "question": "What does 'prepare' mean?",
+      "question": "What can 'prepare' mean?",
       "options": {
-        "A": "To get ready for something",
-        "B": "To forget about something",
-        "C": "To destroy something",
-        "D": "To learn something"
+        "A": "To cool",
+        "B": "To cook",
+        "C": "To look",
+        "D": "To learn"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
@@ -423,12 +423,12 @@
     },
     {
       "id": 36,
-      "question": "What is a 'ticket'?",
+      "question": "What is not a 'ticket'?",
       "options": {
-        "A": "A thing that allows you to enter",
-        "B": "A thing that allows you to buy food",
-        "C": "A thing that allows you to see",
-        "D": "A thing that allows you to hear"
+        "A": "A thing that allows you to think",
+        "B": "A thing that allows you to play",
+        "C": "A thing that allows you to travel",
+        "D": "A thing that allows you to enter"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -449,10 +449,10 @@
       "id": 38,
       "question": "What does 'almost' mean?",
       "options": {
-        "A": "Not at all",
+        "A": "Closely",
         "B": "Completely",
         "C": "Nearly",
-        "D": "Very far away"
+        "D": "Entirely"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -485,10 +485,10 @@
       "id": 41,
       "question": "According to paragraph 1, why is saving money important?",
       "options": {
-        "A": "To become rich quickly",
+        "A": "To become rich in the short period",
         "B": "To prepare for unexpected expenses",
         "C": "To help friends with their problems",
-        "D": "To buy expensive phones"
+        "D": "To buy expensive things like houses"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -498,9 +498,9 @@
       "question": "Based on paragraph 2, what is a budget?",
       "options": {
         "A": "A special jar for saving money",
-        "B": "A type of bank account",
+        "B": "A special type of bank account",
         "C": "A plan for how to spend your money",
-        "D": "A way to find sales when shopping"
+        "D": "A way to find good sales when shopping"
       },
       "correct_answer": "C",
       "category": "Reading"
