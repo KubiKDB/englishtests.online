@@ -5,9 +5,9 @@
       "id": 1,
       "question": "Which sentence is grammatically correct?",
       "options": {
-        "A": "She don't like apples.",
-        "B": "He don't go to school.",
-        "C": "They doesn't work here.",
+        "A": "She don't like apples nor pears.",
+        "B": "He don't go to school on foot.",
+        "C": "They doesn't work here anymore.",
         "D": "I don't understand the question."
       },
       "correct_answer": "D",
@@ -15,24 +15,24 @@
     },
     {
       "id": 2,
-      "question": "Select the correct sentence.",
+      "question": "Select the incorrect sentence.",
       "options": {
-        "A": "We going to the park yesterday.",
+        "A": "We were walking in the park yesterday.",
         "B": "She eats breakfast every morning.",
-        "C": "They watching TV now.",
-        "D": "He play football on Sundays."
+        "C": "They have been to France last summer.",
+        "D": "He will play football on Sunday."
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 3,
-      "question": "Which sentence has the correct past tense form?",
+      "question": "Which sentence has the incorrect past tense form?",
       "options": {
-        "A": "I goed to the store.",
-        "B": "She buyed a new car.",
-        "C": "They played tennis last weekend.",
-        "D": "He swimmed in the pool."
+        "A": "I went to the store recently.",
+        "B": "She bought a new car last month.",
+        "C": "They brang home a litte kitten.",
+        "D": "He swam in the pool last summer."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -41,10 +41,10 @@
       "id": 4,
       "question": "Choose the correct form of the verb.",
       "options": {
-        "A": "I am work now.",
+        "A": "I am on my walk right now.",
         "B": "She is cooking dinner right now.",
-        "C": "They is studying for the test.",
-        "D": "He are sleeping."
+        "C": "We is studying for the test.",
+        "D": "They are sleepting."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -68,7 +68,7 @@
         "A": "This book is more cheap than that one.",
         "B": "My house is more big than yours.",
         "C": "Her job is more better than mine.",
-        "D": "Their car is faster than ours."
+        "D": "Their car is more expensive than ours."
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -80,7 +80,7 @@
         "A": "There is three books on the table.",
         "B": "There are a pen in my bag.",
         "C": "There is some water in the glass.",
-        "D": "There are a cat under the chair."
+        "D": "There is cats under the chair."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -104,7 +104,7 @@
         "A": "She is afraid from dogs.",
         "B": "I'm waiting for the bus.",
         "C": "He is good in math.",
-        "D": "They live on London."
+        "D": "They live at London."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -113,7 +113,7 @@
       "id": 10,
       "question": "Which sentence uses articles correctly?",
       "options": {
-        "A": "I need a umbrella.",
+        "A": "I need a umbrella beacause of raining.",
         "B": "She is the best student in the class.",
         "C": "He bought an apples at the store.",
         "D": "They visited a Europe last year."
@@ -139,7 +139,7 @@
       "options": {
         "A": "The children is playing in the park.",
         "B": "My sister and brother lives in New York.",
-        "C": "The dog bark at strangers.",
+        "C": "The dog bark at strangers on the street.",
         "D": "The students are doing their homework."
       },
       "correct_answer": "D",
@@ -162,9 +162,9 @@
       "question": "Choose the correct passive voice sentence.",
       "options": {
         "A": "The cake was eaten by the children.",
-        "B": "The house is build last year.",
+        "B": "The house was build last year.",
         "C": "The book was wrote by the author.",
-        "D": "The letter is send yesterday."
+        "D": "The letter was send yesterday."
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -174,9 +174,9 @@
       "question": "Select the correct use of adjectives.",
       "options": {
         "A": "She has a red beautiful dress.",
-        "B": "He drives a new big car.",
+        "B": "He drives a new big yellow car.",
         "C": "They live in a lovely old house.",
-        "D": "I bought a Chinese small table."
+        "D": "I bought a Chinese small wooden table."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -199,7 +199,7 @@
       "options": {
         "A": "make",
         "B": "have",
-        "C": "do",
+        "C": "done",
         "D": "take"
       },
       "correct_answer": "D",
@@ -219,24 +219,24 @@
     },
     {
       "id": 19,
-      "question": "Complete the sentence: 'I need to _____ a decision soon.'",
+      "question": "Complete the sentence: 'I want to _____ part in this show.'",
       "options": {
         "A": "take",
         "B": "make",
-        "C": "do",
+        "C": "doing",
         "D": "have"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 20,
-      "question": "Choose the correct word to complete the sentence: 'Could you _____ me a favor?'",
+      "question": "Choose the correct word to complete the sentence: 'Could you _____ to me'",
       "options": {
-        "A": "make",
-        "B": "give",
-        "C": "do",
-        "D": "take"
+        "A": "hear",
+        "B": "watch",
+        "C": "listen",
+        "D": "sight"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -257,7 +257,7 @@
       "id": 22,
       "question": "Choose the correct word to complete the sentence: 'We _____ shopping every Saturday.'",
       "options": {
-        "A": "make",
+        "A": "to",
         "B": "do",
         "C": "go",
         "D": "have"
@@ -284,14 +284,14 @@
         "A": "get up",
         "B": "go over",
         "C": "go to bed",
-        "D": "look after"
+        "D": "go in bed"
       },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 25,
-      "question": "Choose the correct quantifier: 'There isn't _____ milk left in the fridge.'",
+      "question": "Choose the correct quantifier: 'There isn't _____ ink left in the pen.'",
       "options": {
         "A": "many",
         "B": "few",
@@ -307,7 +307,7 @@
       "options": {
         "A": "A tool for keeping you dry in the rain",
         "B": "A small animal that lives in trees",
-        "C": "A kind of sweet food",
+        "C": "A tool for cooking pastas and bread",
         "D": "A piece of furniture for the living room"
       },
       "correct_answer": "A",
@@ -317,10 +317,10 @@
       "id": 27,
       "question": "Which sentence uses the word 'list' correctly?",
       "options": {
-        "A": "I list my coffee with sugar.",
+        "A": "I list my homework to the teacher.",
         "B": "She wrote a list of things.",
-        "C": "They list the door closed.",
-        "D": "He lists very fast."
+        "C": "They listed the door closed.",
+        "D": "He lists letters very fast."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -342,9 +342,9 @@
       "question": "Which word means something you wear on your head?",
       "options": {
         "A": "Hat",
-        "B": "Foot",
-        "C": "Chair",
-        "D": "Phone"
+        "B": "Boot",
+        "C": "Glove",
+        "D": "Tie"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -353,10 +353,10 @@
       "id": 30,
       "question": "What does the word 'turn' mean in this sentence: 'Turn left at the traffic light.'?",
       "options": {
-        "A": "Go straight",
+        "A": "Go straight ahead",
         "B": "Stop moving",
         "C": "Change direction",
-        "D": "Go back"
+        "D": "Go back and forth"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -365,10 +365,10 @@
       "id": 31,
       "question": "Which sentence uses the word 'owns' correctly?",
       "options": {
-        "A": "She owns dinner every night.",
+        "A": "She owns a delicious dinner.",
         "B": "He owns a small business.",
-        "C": "They owns to the park.",
-        "D": "I owns my homework."
+        "C": "They owns close to the park.",
+        "D": "I owns my brother's bike."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -378,8 +378,8 @@
       "question": "What does the word 'quality' refer to?",
       "options": {
         "A": "How good or bad something is",
-        "B": "How much something costs",
-        "C": "How big something is",
+        "B": "How long or short something is",
+        "C": "What color something has",
         "D": "How old something is"
       },
       "correct_answer": "A",
@@ -390,9 +390,9 @@
       "question": "Which sentence uses 'across' correctly?",
       "options": {
         "A": "She lives across the street from me.",
-        "B": "He across very early.",
-        "C": "They across their lunch.",
-        "D": "I across my keys on the table."
+        "B": "He acrossed the highway very quickly.",
+        "C": "They across their garden every weekend.",
+        "D": "I across the pool in twenty seconds only."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -401,7 +401,7 @@
       "id": 34,
       "question": "What does the word 'name' mean?",
       "options": {
-        "A": "A number given to someone",
+        "A": "A number given to someone on birthday",
         "B": "A word used to identify a person",
         "C": "A place where someone lives",
         "D": "A time when something happens"
@@ -413,10 +413,10 @@
       "id": 35,
       "question": "Which sentence uses 'bank' correctly?",
       "options": {
-        "A": "I bank a sandwich for lunch.",
-        "B": "She banks very fast.",
+        "A": "I banked a sandwich for lunch.",
+        "B": "She banks some money for savings.",
         "C": "He put his money in the bank.",
-        "D": "They bank the door open."
+        "D": "They bank his efforts very high."
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -425,24 +425,24 @@
       "id": 36,
       "question": "What is the meaning of 'local'?",
       "options": {
-        "A": "Far away",
-        "B": "Foreign",
-        "C": "From your area",
-        "D": "Very expensive"
+        "A": "Not far away from your place",
+        "B": "From another place",
+        "C": "From your parents' area",
+        "D": "Very close to your school"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 37,
       "question": "Which word means something you eat in the morning?",
       "options": {
-        "A": "Breakfast",
+        "A": "Dinner",
         "B": "Supper",
-        "C": "Dinner",
+        "C": "Breakfast",
         "D": "Lunch"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -452,7 +452,7 @@
         "A": "To ask someone to come",
         "B": "To tell someone to leave",
         "C": "To forget about something",
-        "D": "To finish quickly"
+        "D": "To finish the task quickly"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -461,10 +461,10 @@
       "id": 39,
       "question": "Which sentence uses 'play' correctly?",
       "options": {
-        "A": "I play my room clean.",
+        "A": "I played my room clean.",
         "B": "She plays the piano very well.",
-        "C": "They play the door closed.",
-        "D": "He plays his coffee hot."
+        "C": "Usually, they play the door closed.",
+        "D": "He plays his coffee very hot."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -476,7 +476,7 @@
         "A": "A type of bus",
         "B": "A place to stay",
         "C": "A type of car",
-        "D": "A kind of food"
+        "D": "A kind of tax"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -497,7 +497,7 @@
       "id": 42,
       "question": "What does the brain do according to paragraph 2?",
       "options": {
-        "A": "It pumps blood",
+        "A": "It pumps blood in the body",
         "B": "It controls the body",
         "C": "It processes food",
         "D": "It helps us breathe"
