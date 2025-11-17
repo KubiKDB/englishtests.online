@@ -15,12 +15,12 @@
     },
     {
       "id": 2,
-      "question": "Choose the correct past tense form. Yesterday, I ____ breakfast at 8 AM.",
+      "question": "Choose the correct past tense form. Yesterday, I ____ a letter ____ my friend.",
       "options": {
-        "A": "have",
-        "B": "had",
-        "C": "having",
-        "D": "has"
+        "A": "wrote/into",
+        "B": "wrote/to",
+        "C": "written/to",
+        "D": "has written/at"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -32,7 +32,7 @@
         "A": "on",
         "B": "in",
         "C": "at",
-        "D": "under"
+        "D": "from"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -56,7 +56,7 @@
         "A": "a",
         "B": "an",
         "C": "the",
-        "D": "no article needed"
+        "D": "-"
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -66,9 +66,9 @@
       "question": "Which is the correct form of the verb? They enjoy ____ football every Saturday.",
       "options": {
         "A": "plays",
-        "B": "play",
+        "B": "to play",
         "C": "playing",
-        "D": "are play"
+        "D": "are playing"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -89,7 +89,7 @@
       "id": 8,
       "question": "Choose the correct form: 'They ___ a campfire when it suddenly started to rain.'",
       "options": {
-        "A": "make",
+        "A": "made",
         "B": "have made",
         "C": "were making",
         "D": "were made"
@@ -103,7 +103,7 @@
       "options": {
         "A": "Do",
         "B": "Are",
-        "C": "Is",
+        "C": "Have",
         "D": "Does"
       },
       "correct_answer": "B",
@@ -111,14 +111,14 @@
     },
     {
       "id": 10,
-      "question": "Select the correct word order.",
+      "question": "Select the incorrect sentence.",
       "options": {
         "A": "They always arrive at work early.",
-        "B": "They arrive always at work early.",
-        "C": "They arrive at work always early.",
-        "D": "Always they arrive at work early."
+        "B": "They have been there much more times.",
+        "C": "They are first-year students.",
+        "D": "They have always been polite people."
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
@@ -140,7 +140,7 @@
         "A": "I am living in this city for three years.",
         "B": "I have lived in this city for three years.",
         "C": "I live in this city for three years.",
-        "D": "I living in this city for three years."
+        "D": "I had been living in this city for three years."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -174,7 +174,7 @@
       "question": "Which sentence is in the correct future form?",
       "options": {
         "A": "I am going to visit my grandmother tomorrow.",
-        "B": "I going to visit my grandmother tomorrow.",
+        "B": "I was going to visit my grandmother tomorrow.",
         "C": "I visit my grandmother tomorrow.",
         "D": "I am visit my grandmother tomorrow."
       },
@@ -187,8 +187,8 @@
       "options": {
         "A": "close",
         "B": "open",
-        "C": "put",
-        "D": "make"
+        "C": "shut",
+        "D": "move"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -233,7 +233,7 @@
       "id": 20,
       "question": "Select the best word to complete the sentence: 'Can you speak more slowly? I don’t ___ your accent very well.'",
       "options": {
-        "A": "hear",
+        "A": "understandable",
         "B": "listen",
         "C": "understand",
         "D": "know"
@@ -247,7 +247,7 @@
       "options": {
         "A": "Yours sincerely,",
         "B": "Best regards,",
-        "C": "Love,",
+        "C": "Love you,",
         "D": "Faithfully yours,"
       },
       "correct_answer": "C",
@@ -294,9 +294,9 @@
       "question": "Which is the correct way to ask for directions?",
       "options": {
         "A": "Where is the nearest bank?",
-        "B": "When is the nearest bank?",
-        "C": "Why is the nearest bank?",
-        "D": "Who is the nearest bank?"
+        "B": "How is to the nearest bank?",
+        "C": "What way is the nearest bank?",
+        "D": "What side is to the nearest bank?"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -307,8 +307,8 @@
       "options": {
         "A": "to be in the first place",
         "B": "to be in the end",
-        "C": "to move quickly",
-        "D": "to be heavy"
+        "C": "to be in the middle",
+        "D": "to be nearby"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -327,11 +327,11 @@
     },
     {
       "id": 28,
-      "question": "Choose the correct meaning of 'have'.",
+      "question": "Choose the correct meaning of 'own'.",
       "options": {
         "A": "to give something",
         "B": "to look at something",
-        "C": "to own something",
+        "C": "to have something",
         "D": "to lose something"
       },
       "correct_answer": "C",
@@ -378,7 +378,7 @@
       "question": "Choose the correct meaning of 'make a party'.",
       "options": {
         "A": "to investigate",
-        "B": "to invest",
+        "B": "to challenge",
         "C": "to celebrate",
         "D": "to participate"
       },
@@ -390,7 +390,7 @@
       "question": "What does 'check' mean?",
       "options": {
         "A": "to look carefully",
-        "B": "to sleep deeply",
+        "B": "to watch carelessly",
         "C": "to speak loudly",
         "D": "to prepare quickly"
       },
@@ -401,10 +401,10 @@
       "id": 34,
       "question": "Choose the correct meaning of 'cook'.",
       "options": {
-        "A": "to make cold",
-        "B": "to clean something",
-        "C": "to prepare food",
-        "D": "to break something"
+        "A": "to book a room",
+        "B": "to clean a garden",
+        "C": "to prepare a dish",
+        "D": "to purchase a book"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -423,36 +423,36 @@
     },
     {
       "id": 36,
-      "question": "Choose the correct meaning of 'produce'.",
+      "question": "Choose the correct meaning of 'to create something'.",
       "options": {
-        "A": "to destroy something",
-        "B": "to create something",
-        "C": "to find something",
-        "D": "to buy something"
+        "A": "to promote",
+        "B": "to produce",
+        "C": "to provide",
+        "D": "to protest"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 37,
-      "question": "What does 'quick' mean?",
+      "question": "What does 'silent' mean?",
       "options": {
-        "A": "moving or doing something slowly",
-        "B": "moving or doing something fast",
-        "C": "being very careful",
-        "D": "being very loud"
+        "A": "quite",
+        "B": "quiet",
+        "C": "quit",
+        "D": "guilt"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 38,
-      "question": "Choose the correct meaning of 'change'.",
+      "question": "Choose the correct meaning of 'to become different'.",
       "options": {
-        "A": "to stay the same",
-        "B": "to become different",
-        "C": "to feel tired",
-        "D": "to become indifferent"
+        "A": "chance",
+        "B": "change",
+        "C": "charge",
+        "D": "chart"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -463,7 +463,7 @@
       "options": {
         "A": "a finger",
         "B": "a hair",
-        "C": "an ear",
+        "C": "a nail",
         "D": "a leg"
       },
       "correct_answer": "A",
@@ -471,14 +471,14 @@
     },
     {
       "id": 40,
-      "question": "Choose the correct meaning of 'cake'.",
+      "question": "Choose the correct meaning of 'a type of food'.",
       "options": {
-        "A": "a type of vegetable",
-        "B": "a type of food",
-        "C": "a type of drink",
-        "D": "a type of furniture"
+        "A": "breed",
+        "B": "beard",
+        "C": "bread",
+        "D": "broad"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -511,7 +511,7 @@
       "options": {
         "A": "The colors used on the map",
         "B": "The proportions to real distances",
-        "C": "The direction of north",
+        "C": "The directions of north and south",
         "D": "The symbols used on the map"
       },
       "correct_answer": "B",
@@ -547,7 +547,7 @@
       "options": {
         "A": "How to fold the map",
         "B": "The history of the map",
-        "C": "What all the symbols mean",
+        "C": "What the symbols mean",
         "D": "Where north is located"
       },
       "correct_answer": "C",
@@ -582,9 +582,9 @@
       "question": "What are landmarks used for according to the passage?",
       "options": {
         "A": "To find where you are on a map",
-        "B": "To show directions on a map",
+        "B": "To show all directions on a map",
         "C": "To measure distances on a map",
-        "D": "To explain symbols on a map"
+        "D": "To explain all symbols on a map"
       },
       "correct_answer": "A",
       "category": "Reading"
