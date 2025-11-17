@@ -5,24 +5,24 @@
       "id": 1,
       "question": "Which form of the verb is correct? 'She _____ a delicious cake for her friends yesterday.'",
       "options": {
-        "A": "bake",
-        "B": "bakes",
+        "A": "did",
+        "B": "maked",
         "C": "baked",
-        "D": "baking"
+        "D": "blaked"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 2,
-      "question": "Choose the correct option: 'There _____ some milk in the fridge.'",
+      "question": "Choose the correct option: 'A river is a natural _____ of fresh water.'",
       "options": {
-        "A": "is",
-        "B": "are",
-        "C": "be",
-        "D": "being"
+        "A": "esteem",
+        "B": "stem",
+        "C": "stream",
+        "D": "steam"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -32,26 +32,26 @@
         "A": "to",
         "B": "for",
         "C": "at",
-        "D": "with"
+        "D": "on"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 4,
-      "question": "Which sentence is grammatically correct?",
+      "question": "Which sentence is correct?",
       "options": {
-        "A": "I no like apples.",
-        "B": "I don't like apples.",
-        "C": "I not like apples.",
-        "D": "I don't likes apples."
+        "A": "I founded it very amazing.",
+        "B": "I don't like to travel.",
+        "C": "I had been there many times.",
+        "D": "I grounded the flowers."
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 5,
-      "question": "Choose the correct comparative form: 'My apartment is _____ than my old one.'",
+      "question": "Choose the correct comparative form: 'This apartment is _____ than my old one.'",
       "options": {
         "A": "more spacious",
         "B": "spaciouser",
@@ -92,7 +92,7 @@
         "A": "a",
         "B": "an",
         "C": "the",
-        "D": "no article needed"
+        "D": "-"
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -104,19 +104,19 @@
         "A": "don't have to",
         "B": "mustn't",
         "C": "shouldn't to",
-        "D": "doesn't have to"
+        "D": "mustn't to"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 10,
-      "question": "Which question form is correct?",
+      "question": "Which question form is incorrect?",
       "options": {
-        "A": "Where you are going?",
-        "B": "Where are you going?",
-        "C": "Where going you are?",
-        "D": "Where are going you?"
+        "A": "Where have you been?",
+        "B": "Where have you going?",
+        "C": "Where have you gone?",
+        "D": "What have you done??"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -149,8 +149,8 @@
       "id": 13,
       "question": "Which sentence uses the present perfect correctly?",
       "options": {
-        "A": "I have see that movie.",
-        "B": "I seen that movie.",
+        "A": "I have sawn that movie.",
+        "B": "I had seen that movie.",
         "C": "I have saw that movie.",
         "D": "I have seen that movie."
       },
@@ -195,12 +195,12 @@
     },
     {
       "id": 17,
-      "question": "Choose the correct expression: 'I'm tired. I think I'll _____ to bed early tonight.'",
+      "question": "Choose the correct expression: 'I need to _____ home early.'",
       "options": {
-        "A": "go",
-        "B": "do",
-        "C": "make",
-        "D": "take"
+        "A": "come back",
+        "B": "come back to",
+        "C": "came back",
+        "D": "go to"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -233,24 +233,24 @@
       "id": 20,
       "question": "Choose the correct expression: 'She _____ a lot of time reading books.'",
       "options": {
-        "A": "makes",
-        "B": "does",
+        "A": "spells",
+        "B": "spells",
         "C": "spends",
-        "D": "has"
+        "D": "expends"
       },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 21,
-      "question": "Select the correct option: 'Let's _____ a break. I'm tired.'",
+      "question": "Select the correct option: '_____ a break.'",
       "options": {
         "A": "make",
-        "B": "do",
+        "B": "give",
         "C": "have",
         "D": "take"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
@@ -258,9 +258,9 @@
       "question": "Complete the sentence: 'I don't _____ swimming in cold water.'",
       "options": {
         "A": "enjoy",
-        "B": "enjoying",
-        "C": "to enjoy",
-        "D": "enjoyed"
+        "B": "joy",
+        "C": "glad",
+        "D": "happy"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -331,7 +331,7 @@
       "options": {
         "A": "odd",
         "B": "some",
-        "C": "even",
+        "C": "same",
         "D": "fair"
       },
       "correct_answer": "C",
@@ -342,7 +342,7 @@
       "question": "Which word means 'information about recent events'?",
       "options": {
         "A": "story",
-        "B": "paper",
+        "B": "newspaper",
         "C": "channel",
         "D": "news"
       },
@@ -365,7 +365,7 @@
       "id": 31,
       "question": "Which word means 'a picture taken with a camera'?",
       "options": {
-        "A": "imagination",
+        "A": "screenshot",
         "B": "drawing",
         "C": "snapshot",
         "D": "photo"
@@ -570,7 +570,7 @@
       "question": "What is the main purpose of paragraph 4?",
       "options": {
         "A": "To explain how rain clouds form",
-        "B": "To describe the water cycle",
+        "B": "To describe the water life cycle",
         "C": "To explain why rain is important",
         "D": "To compare weather and climate"
       },
