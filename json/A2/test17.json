@@ -3,12 +3,12 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which verb form correctly completes this sentence? 'They ___ a great movie last night.'",
+      "question": "Which verb form correctly completes this sentence? 'They ___ a song contest this year.'",
       "options": {
-        "A": "watch",
-        "B": "watches",
-        "C": "watched",
-        "D": "watching"
+        "A": "winned",
+        "B": "wined",
+        "C": "won",
+        "D": "wonned"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -20,19 +20,19 @@
         "A": "is",
         "B": "are",
         "C": "be",
-        "D": "am"
+        "D": "have"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 3,
-      "question": "Select the correct preposition: 'There is a mirror ___ the wall above the sofa.'",
+      "question": "Select the correct preposition: 'There is a mirror ___ the wall ___ the sofa.'",
       "options": {
-        "A": "on",
-        "B": "in",
-        "C": "over",
-        "D": "at"
+        "A": "on/above",
+        "B": "on/beneath",
+        "C": "over/on",
+        "D": "at/on"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -44,19 +44,19 @@
         "A": "He don't eat breakfast early.",
         "B": "He doesn't eats breakfast early.",
         "C": "He doesn't eat breakfast early.",
-        "D": "He not eat breakfast early."
+        "D": "He hasn't ate breakfast early."
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 5,
-      "question": "Choose the correct past tense form: 'We ___ football in the park yesterday.'",
+      "question": "Choose the correct sentence:",
       "options": {
-        "A": "play",
-        "B": "played",
-        "C": "playing",
-        "D": "plays"
+        "A": "He forgotten the keys at home",
+        "B": "He forgot to do his homework",
+        "C": "He has forgotten a song last year",
+        "D": "He never forgotten to buy milk"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -65,34 +65,34 @@
       "id": 6,
       "question": "Which is the correct question form?",
       "options": {
-        "A": "Where you are going?",
+        "A": "Where do you are going?",
         "B": "Where are you going?",
-        "C": "Where going you are?",
-        "D": "Where you going are?"
+        "C": "Where is you going?",
+        "D": "Where have you gone?"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 7,
-      "question": "Choose the correct article: 'I saw ___ lion at the zoo.'",
+      "question": "Choose the correct article: 'I saw ___ lions at the zoo.'",
       "options": {
         "A": "a",
         "B": "an",
         "C": "the",
-        "D": "no article needed"
+        "D": "-"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 8,
       "question": "Which sentence uses the correct plural form?",
       "options": {
-        "A": "The childs are playing in the garden.",
-        "B": "The childrens are playing in the garden.",
-        "C": "The children are playing in the garden.",
-        "D": "The child are playing in the garden."
+        "A": "The geeses ate grass in the garden.",
+        "B": "The gooses ate grass in the garden.",
+        "C": "The geese ate grass in the garden.",
+        "D": "The goose ate grass in the garden."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -125,10 +125,10 @@
       "id": 11,
       "question": "Which sentence is in the present continuous tense?",
       "options": {
-        "A": "He works in an office.",
-        "B": "He worked in an office.",
-        "C": "He is working in an office.",
-        "D": "He will work in an office."
+        "A": "He works in the office.",
+        "B": "He worked in the office.",
+        "C": "He is working in the office.",
+        "D": "He will be working in the office."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -137,10 +137,10 @@
       "id": 12,
       "question": "Choose the correct modal verb: 'You ___ drink water every day.'",
       "options": {
-        "A": "must",
+        "A": "mustn't",
         "B": "should",
         "C": "would",
-        "D": "might"
+        "D": "could"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -149,9 +149,9 @@
       "id": 13,
       "question": "Select the correct future tense form: 'We ___ to the beach tomorrow.'",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "went",
+        "A": "will going",
+        "B": "wiil have gonegoes",
+        "C": "will have be going",
         "D": "are going"
       },
       "correct_answer": "D",
@@ -159,24 +159,24 @@
     },
     {
       "id": 14,
-      "question": "Which sentence has the correct word order?",
+      "question": "Which sentence is correct?",
       "options": {
-        "A": "Always she goes to bed early.",
+        "A": "He have always been a good student.",
         "B": "She always goes to bed early.",
-        "C": "She goes always to bed early.",
-        "D": "She goes to bed always early."
+        "C": "They will never close this work.",
+        "D": "I were lucky to meet you."
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 15,
-      "question": "Choose the correct sentence with 'too':",
+      "question": "Choose the incorrect sentence:",
       "options": {
-        "A": "The coffee is too hot for drink.",
-        "B": "The coffee is too hot for drinking.",
-        "C": "The coffee is too hot to drink.",
-        "D": "The coffee is hot too to drink."
+        "A": "The coffee is cold enough to drink.",
+        "B": "The coffee is too hot to drink.",
+        "C": "The coffee is sweet to drink.",
+        "D": "The coffee is not hot enough to drink."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -197,10 +197,10 @@
       "id": 17,
       "question": "Which phrase best completes this sentence? 'He couldn't come to the party ___ he was sick.'",
       "options": {
-        "A": "so",
+        "A": "therefore",
         "B": "because",
-        "C": "but",
-        "D": "or"
+        "C": "nevertheless",
+        "D": "nevermind"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -243,12 +243,12 @@
     },
     {
       "id": 21,
-      "question": "Choose the correct option: 'Every evening, I ___ a shower before dinner.'",
+      "question": "Choose the correct option: 'Every evening, I ___ my room before going to bed.'",
       "options": {
-        "A": "do",
-        "B": "take",
-        "C": "make",
-        "D": "have"
+        "A": "tide",
+        "B": "tidy",
+        "C": "ride",
+        "D": "take"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -283,7 +283,7 @@
       "options": {
         "A": "open",
         "B": "close",
-        "C": "break",
+        "C": "finish",
         "D": "clean"
       },
       "correct_answer": "B",
@@ -331,7 +331,7 @@
       "options": {
         "A": "friends",
         "B": "books",
-        "C": "children",
+        "C": "kids",
         "D": "cars"
       },
       "correct_answer": "C",
@@ -392,7 +392,7 @@
         "A": "play",
         "B": "sleep",
         "C": "learn",
-        "D": "eat"
+        "D": "teach"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -414,7 +414,7 @@
       "question": "What does 'several' mean in this sentence? 'I have visited that city several times.'",
       "options": {
         "A": "two",
-        "B": "a few",
+        "B": "few",
         "C": "many",
         "D": "once"
       },
@@ -426,8 +426,8 @@
       "question": "Choose the correct sentence using 'topic':",
       "options": {
         "A": "We talked about an interesting topic.",
-        "B": "I ate a delicious topic for lunch.",
-        "C": "She drives a new topic to work.",
+        "B": "I ate a delicious cake with topic for lunch.",
+        "C": "She has lived in topic country for 2 years.",
         "D": "The topic was sunny yesterday."
       },
       "correct_answer": "A",
@@ -437,9 +437,9 @@
       "id": 37,
       "question": "Complete the sentence: 'My grandmother told me a ___ about her childhood.'",
       "options": {
-        "A": "table",
+        "A": "history",
         "B": "story",
-        "C": "chair",
+        "C": "song",
         "D": "book"
       },
       "correct_answer": "B",
@@ -461,10 +461,10 @@
       "id": 39,
       "question": "Choose the correct meaning of 'happen' in this sentence: 'What happened at the party last night?'",
       "options": {
-        "A": "to plan",
-        "B": "to occur",
-        "C": "to hope",
-        "D": "to imagine"
+        "A": "plan things",
+        "B": "take place",
+        "C": "hope for",
+        "D": "imagine this"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -512,7 +512,7 @@
         "A": "requiring very little water",
         "B": "gathering water from fog only at night",
         "C": "having special ways to find or store water",
-        "D": "living near oases"
+        "D": "living near oases containing a lot of water"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -584,7 +584,7 @@
         "A": "warn about the dangers of deserts",
         "B": "explain how to survive in deserts",
         "C": "describe desert environments and life",
-        "D": "promote desert tourism"
+        "D": "promote desert tourism for people from cold places"
       },
       "correct_answer": "C",
       "category": "Reading"
