@@ -3,14 +3,14 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which sentence is grammatically correct?",
+      "question": "Which sentence is grammatically incorrect?",
       "options": {
-        "A": "She have three brothers.",
-        "B": "She has three brothers.",
-        "C": "She having three brothers.",
-        "D": "She haves three brothers."
+        "A": "She had three cats.",
+        "B": "She has three cats.",
+        "C": "She is having three cats.",
+        "D": "She has got three cats."
       },
-      "correct_answer": "B",
+      "correct_answer": "c",
       "category": "Grammar"
     },
     {
@@ -30,7 +30,7 @@
       "question": "Select the correct past tense form.",
       "options": {
         "A": "I buyed a new car last week.",
-        "B": "I buying a new car last week.",
+        "B": "I am buying a new car last week.",
         "C": "I buy a new car last week.",
         "D": "I bought a new car last week."
       },
@@ -125,10 +125,10 @@
       "id": 11,
       "question": "Which sentence uses the past continuous correctly?",
       "options": {
-        "A": "I was reading when the phone rang.",
-        "B": "I were reading when the phone rang.",
-        "C": "I was read when the phone rang.",
-        "D": "I am reading when the phone rang."
+        "A": "I was reading when you came in.",
+        "B": "I were reading when you came in.",
+        "C": "I was read when you came in.",
+        "D": "I am reading when you came in."
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -137,7 +137,7 @@
       "id": 12,
       "question": "Select the correct imperative form.",
       "options": {
-        "A": "Not talk during the movie.",
+        "A": "Must not talk during the movie.",
         "B": "Don't talking during the movie.",
         "C": "Don't talk during the movie.",
         "D": "Don't to talk during the movie."
@@ -159,14 +159,14 @@
     },
     {
       "id": 14,
-      "question": "Choose the correct use of 'there is/there are'.",
+      "question": "Choose the incorrect sentence'.",
       "options": {
-        "A": "There is many people at the party.",
+        "A": "There were many people at the party.",
         "B": "There are many people at the party.",
-        "C": "There many people at the party.",
-        "D": "There be many people at the party."
+        "C": "There have many people at the party.",
+        "D": "There will be many people at the party."
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -197,9 +197,9 @@
       "id": 17,
       "question": "Choose the correct phrase: 'I'd like ___ to the manager, please.'",
       "options": {
-        "A": "speak",
-        "B": "speaking",
-        "C": "to speaking",
+        "A": "to hear",
+        "B": "to see",
+        "C": "to call",
         "D": "to speak"
       },
       "correct_answer": "D",
@@ -246,7 +246,7 @@
       "question": "Select the best way to start an email to a friend:",
       "options": {
         "A": "Dear Sir/Madam,",
-        "B": "Hi,",
+        "B": "Hello,",
         "C": "Love,",
         "D": "Regards,"
       },
@@ -255,7 +255,7 @@
     },
     {
       "id": 22,
-      "question": "Complete the sentence: 'Her new ___ is beutiful'",
+      "question": "Complete the sentence: 'Her new ___ is beautiful'",
       "options": {
         "A": "haircut",
         "B": "cuthair",
@@ -295,7 +295,7 @@
       "options": {
         "A": "lend",
         "B": "borrow",
-        "C": "use",
+        "C": "own",
         "D": "give"
       },
       "correct_answer": "B",
@@ -303,12 +303,12 @@
     },
     {
       "id": 26,
-      "question": "What does 'support' mean?",
+      "question": "What does 'to help or encourage' mean?",
       "options": {
-        "A": "To help or encourage",
-        "B": "To break or damage",
-        "C": "To hide or cover",
-        "D": "To finish or complete"
+        "A": "to support",
+        "B": "To offer",
+        "C": "To cover",
+        "D": "To insist"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -391,7 +391,7 @@
       "options": {
         "A": "road",
         "B": "highway",
-        "C": "way",
+        "C": "direction",
         "D": "street"
       },
       "correct_answer": "C",
@@ -452,7 +452,7 @@
         "A": "Dirty",
         "B": "Cloudy",
         "C": "Grey",
-        "D": "Cloudless"
+        "D": "Clean"
       },
       "correct_answer": "D",
       "category": "Vocabulary"
@@ -547,7 +547,7 @@
       "options": {
         "A": "It is very colorful",
         "B": "It is part of its skeleton",
-        "C": "It is made of metal",
+        "C": "It is very hard but fragile",
         "D": "It falls off every year"
       },
       "correct_answer": "B",
