@@ -5,12 +5,12 @@
       "id": 1,
       "question": "Which sentence is grammatically correct?",
       "options": {
-        "A": "He read the news in a newspaper.",
+        "A": "He reed the news in a newspaper.",
         "B": "He readed the news in a newspaper.",
-        "C": "He reed the news in a newspaper.",
+        "C": "He read the news in a newspaper.",
         "D": "He reading the news in a newspaper."
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -51,14 +51,14 @@
     },
     {
       "id": 5,
-      "question": "Choose the correct article: 'I saw ___ zebra at the zoo.'",
+      "question": "Choose the correct article: 'I saw ___ zebras at the zoo.'",
       "options": {
         "A": "a",
         "B": "an",
         "C": "the",
-        "D": "no article needed"
+        "D": "-"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -101,7 +101,7 @@
       "id": 9,
       "question": "Which sentence is in the present continuous tense?",
       "options": {
-        "A": "She walks to school every day.",
+        "A": "She was walking to school yesterday.",
         "B": "She walked to school yesterday.",
         "C": "She is walking to school now.",
         "D": "She will walk to school tomorrow."
@@ -159,7 +159,7 @@
     },
     {
       "id": 14,
-      "question": "Which sentence uses 'too' correctly?",
+      "question": "Which sentence is correct?",
       "options": {
         "A": "The soup is too hot for drink.",
         "B": "The soup is too hot to drinking.",
@@ -198,9 +198,9 @@
       "question": "Select the best word to complete this sentence: 'I'm hungry. Let's ___ lunch.'",
       "options": {
         "A": "do",
-        "B": "make",
+        "B": "go",
         "C": "have",
-        "D": "take"
+        "D": "give"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -210,9 +210,9 @@
       "question": "Which phrase best completes this sentence? 'She couldn't come to the party ___ she was sick.'",
       "options": {
         "A": "because",
-        "B": "so",
-        "C": "but",
-        "D": "or"
+        "B": "therefore",
+        "C": "usually",
+        "D": "ever"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -343,7 +343,7 @@
       "options": {
         "A": "Can you come to my house tomorrow?",
         "B": "I come this book from the library.",
-        "C": "She come the test last week.",
+        "C": "She comes the test last week.",
         "D": "They come very expensive shoes."
       },
       "correct_answer": "A",
@@ -391,7 +391,7 @@
       "options": {
         "A": "The child can draw beautiful pictures.",
         "B": "I draw my lunch quickly before work.",
-        "C": "She draws to school every day.",
+        "C": "She draws to the night sky every day.",
         "D": "They drew the movie last night."
       },
       "correct_answer": "A",
@@ -461,34 +461,34 @@
       "id": 39,
       "question": "Select the sentence that uses 'sale' correctly:",
       "options": {
-        "A": "She has bought it on sale.",
+        "A": "He sales his bike.",
         "B": "I will go sale tomorrow.",
         "C": "They sale on their new yacht.",
-        "D": "He sales his bike."
+        "D": "She has bought it on sale."
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 40,
       "question": "What does 'dark' mean in this sentence? 'It gets dark early in winter.'",
       "options": {
-        "A": "with little or no light",
+        "A": "difficult to understand",
         "B": "a strong color",
-        "C": "difficult to understand",
+        "C": "with little or no light",
         "D": "unhappy or sad"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 41,
       "question": "According to paragraph 1, what determines the climate of a place?",
       "options": {
-        "A": "Only its distance from the equator",
-        "B": "The types of plants that grow there",
+        "A": "Only its distance from the equator and the poles",
+        "B": "The types of plants that grow and animals there",
         "C": "Its population size, mountains, winds, and clouds",
-        "D": "Its location relative to the equator, sea level, and oceans"
+        "D": "Its distance to the equator, sea level, and oceans"
       },
       "correct_answer": "D",
       "category": "Reading"
@@ -498,7 +498,7 @@
       "question": "Based on the passage, which of these is TRUE about hot climate zones?",
       "options": {
         "A": "They are located near the poles.",
-        "B": "They have cold winters.",
+        "B": "They have cold winters and mild summers.",
         "C": "They are located near the equator.",
         "D": "They all have dry weather."
       },
@@ -569,7 +569,7 @@
       "id": 48,
       "question": "According to paragraph 4, people in mild climate zones:",
       "options": {
-        "A": "never change their activities",
+        "A": "never change their activities because of the stable climate",
         "B": "change their activities based on the season",
         "C": "only enjoy summer or winter activities",
         "D": "move to different places each season"
