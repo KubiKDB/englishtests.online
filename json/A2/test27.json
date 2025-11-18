@@ -5,10 +5,10 @@
       "id": 1,
       "question": "Which verb form correctly completes this sentence? 'She _____ all the money on the lunch yesterday.'",
       "options": {
-        "A": "spend",
-        "B": "spends",
+        "A": "sent",
+        "B": "spelt",
         "C": "spent",
-        "D": "spending"
+        "D": "spurred"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -43,7 +43,7 @@
       "options": {
         "A": "buy",
         "B": "buyed",
-        "C": "buying",
+        "C": "was buying",
         "D": "bought"
       },
       "correct_answer": "D",
@@ -92,7 +92,7 @@
         "A": "a/an",
         "B": "an/a",
         "C": "the/the",
-        "D": "no articles needed"
+        "D": "-"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -104,14 +104,14 @@
         "A": "I have went to Bali last year.",
         "B": "I have gone to Bali last year.",
         "C": "I have been to Bali three times.",
-        "D": "I have go to Bali tomorrow."
+        "D": "I have gone to Bali tomorrow."
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 10,
-      "question": "Choose the correct plural form: 'There are three _____ on the farm.'",
+      "question": "Choose the correct plural form: 'There are three black _____ on the farm.'",
       "options": {
         "A": "sheeps",
         "B": "sheep",
@@ -125,7 +125,7 @@
       "id": 11,
       "question": "Which modal verb correctly completes this sentence? 'You _____ brush your teeth twice a day.'",
       "options": {
-        "A": "can",
+        "A": "could",
         "B": "should",
         "C": "might",
         "D": "would"
@@ -152,7 +152,7 @@
         "A": "I am knowing the answer.",
         "B": "I knowing the answer.",
         "C": "I know the answer.",
-        "D": "I does know the answer."
+        "D": "I have know the answer."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -161,7 +161,7 @@
       "id": 14,
       "question": "Select the correct form: 'She _____ a new fridge when I met her.'",
       "options": {
-        "A": "select",
+        "A": "selected",
         "B": "selects",
         "C": "selecting",
         "D": "was selecting"
@@ -207,9 +207,9 @@
     },
     {
       "id": 18,
-      "question": "Which phrase correctly completes this sentence? 'She has a talent _____ singing.'",
+      "question": "Which word correctly completes this sentence? 'She has a talent _____ singing.'",
       "options": {
-        "A": "on",
+        "A": "fore",
         "B": "at",
         "C": "in",
         "D": "for"
@@ -221,7 +221,7 @@
       "id": 19,
       "question": "Choose the correct phrase: 'We need to _____ a replacement soon.'",
       "options": {
-        "A": "do",
+        "A": "fix",
         "B": "fake",
         "C": "find",
         "D": "found"
@@ -258,8 +258,8 @@
       "question": "Choose the correct response to 'Thank you.'",
       "options": {
         "A": "You're welcome.",
-        "B": "It's well.",
-        "C": "Not problem.",
+        "B": "I welcome you.",
+        "C": "Not problems.",
         "D": "That's nice."
       },
       "correct_answer": "A",
@@ -317,7 +317,7 @@
       "id": 27,
       "question": "Which sentence uses the word 'park' correctly?",
       "options": {
-        "A": "I park my breakfast every morning.",
+        "A": "I park my shoes every morning.",
         "B": "Children like to play in the park.",
         "C": "The park is very interesting today.",
         "D": "She parks her friends at school."
@@ -353,12 +353,12 @@
       "id": 30,
       "question": "What will 'light' do in this sentence? 'Please turn on the light.'",
       "options": {
-        "A": "Make things visible",
+        "A": "Make things colder",
         "B": "Make things darker",
         "C": "Make things better",
-        "D": "Make things colder"
+        "D": "Make things visible"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -367,7 +367,7 @@
       "options": {
         "A": "I fly my car every day.",
         "B": "The fly is on the window.",
-        "C": "I fly to breakfast every morning.",
+        "C": "I fly to subway every morning.",
         "D": "They fly under water."
       },
       "correct_answer": "B",
@@ -377,12 +377,12 @@
       "id": 32,
       "question": "What does 'turn' mean in this sentence? 'It's your turn to play.'",
       "options": {
-        "A": "Your move",
+        "A": "Your way",
         "B": "Your wish",
-        "C": "Your way",
+        "C": "Your move",
         "D": "Your word"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -438,9 +438,9 @@
       "question": "Which sentence uses 'every' correctly?",
       "options": {
         "A": "She goes to every work.",
-        "B": "I eat every breakfast.",
+        "B": "I eat every food.",
         "C": "Every student has a book.",
-        "D": "Every they like pizza."
+        "D": "Every of they like pizza."
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -464,7 +464,7 @@
         "A": "I card to my friend yesterday.",
         "B": "She sent me a birthday card.",
         "C": "They card very well.",
-        "D": "He cards to school."
+        "D": "He cards a lot of songs."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -567,12 +567,12 @@
     },
     {
       "id": 48,
-      "question": "What dangers do blue whales face today?",
+      "question": "Which dangers are blue whales not exposed to today?",
       "options": {
-        "A": "Only hunting",
-        "B": "Only water pollution",
-        "C": "Ship strikes, fishing nets, and pollution",
-        "D": "Competition with other whales and orcas"
+        "A": "Hunting",
+        "B": "Pollution",
+        "C": "Ship strikes",
+        "D": "Other whales"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -593,7 +593,7 @@
       "id": 50,
       "question": "What is the main idea of the passage?",
       "options": {
-        "A": "How blue whales eat",
+        "A": "How blue whales eat, sleep, and live under water",
         "B": "Why blue whales are endangered and how to save them",
         "C": "General information about blue whales",
         "D": "How scientists study blue whales"
