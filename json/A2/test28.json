@@ -17,7 +17,7 @@
       "id": 2,
       "question": "Which sentence is correct?",
       "options": {
-        "A": "I no agree with you.",
+        "A": "I have no agree with you.",
         "B": "I not agree with you.",
         "C": "I don't agree with you.",
         "D": "I don't agree to you."
@@ -27,12 +27,12 @@
     },
     {
       "id": 3,
-      "question": "Choose the correct past tense form. We ____ to the beach last weekend.",
+      "question": "Choose the correct past tense form. We ____ the car on a sideway.",
       "options": {
-        "A": "go",
-        "B": "going",
-        "C": "gone",
-        "D": "went"
+        "A": "marked",
+        "B": "barked",
+        "C": "pranked",
+        "D": "parked"
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -53,9 +53,9 @@
       "id": 5,
       "question": "Which form is correct? They ____ breakfast now.",
       "options": {
-        "A": "have",
-        "B": "has",
-        "C": "having",
+        "A": "are giving",
+        "B": "are taking",
+        "C": "are doing",
         "D": "are having"
       },
       "correct_answer": "D",
@@ -68,7 +68,7 @@
         "A": "a",
         "B": "an",
         "C": "the",
-        "D": "no article needed"
+        "D": "-"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -80,7 +80,7 @@
         "A": "don't",
         "B": "doesn't",
         "C": "isn't",
-        "D": "not"
+        "D": "has not"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -113,10 +113,10 @@
       "id": 10,
       "question": "Choose the correct form. '____ you like some tea?'",
       "options": {
-        "A": "Do",
-        "B": "Are",
+        "A": "Could",
+        "B": "Should",
         "C": "Would",
-        "D": "Can"
+        "D": "Do"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -284,7 +284,7 @@
         "A": "Where is the bank?",
         "B": "I want the bank.",
         "C": "The bank is where?",
-        "D": "To the bank?"
+        "D": "A way to the bank?"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -296,7 +296,7 @@
         "A": "What is price?",
         "B": "How much is this?",
         "C": "What costs it?",
-        "D": "How price is?"
+        "D": "How price is this?"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -317,12 +317,12 @@
       "id": 27,
       "question": "The teacher gave me a good ____ on my test.",
       "options": {
-        "A": "mark",
+        "A": "answer",
         "B": "opinion",
         "C": "question",
-        "D": "answer"
+        "D": "mark"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -452,7 +452,7 @@
         "A": "run",
         "B": "carry",
         "C": "ride",
-        "D": "go"
+        "D": "drive"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -509,12 +509,12 @@
       "id": 43,
       "question": "What tools use levers to work, according to the passage?",
       "options": {
-        "A": "Cars, motorcycles, and bicycles",
+        "A": "Door knobs and screws",
         "B": "Window blinds and cranes",
-        "C": "Scissors, hammers, and can openers",
-        "D": "Door knobs and screws"
+        "C": "Cars, motorcycles, and bicycles",
+        "D": "Scissors, hammers, and can openers"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
