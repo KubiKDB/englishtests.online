@@ -5,9 +5,9 @@
       "id": 1,
       "question": "Which form correctly completes the sentence? She _____ a beautiful dress last Sunday.",
       "options": {
-        "A": "wear",
-        "B": "wears",
-        "C": "wearing",
+        "A": "worn",
+        "B": "wared",
+        "C": "waved",
         "D": "wore"
       },
       "correct_answer": "D",
@@ -99,7 +99,7 @@
     },
     {
       "id": 9,
-      "question": "Choose the correct option: There _____ any milk in the fridge.",
+      "question": "Choose the correct option: There _____ any money in my pocket.",
       "options": {
         "A": "isn't",
         "B": "is",
@@ -111,12 +111,12 @@
     },
     {
       "id": 10,
-      "question": "Select the correct article: I saw _____ interesting movie last night.",
+      "question": "Select the correct article: I saw _____ exciting show last night.",
       "options": {
         "A": "a",
         "B": "an",
         "C": "the",
-        "D": "no article needed"
+        "D": "-"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -138,7 +138,7 @@
       "question": "Choose the correct option: She _____ here since 2010.",
       "options": {
         "A": "lives",
-        "B": "is living",
+        "B": "had lived",
         "C": "has lived",
         "D": "was living"
       },
@@ -152,7 +152,7 @@
         "A": "don't",
         "B": "doesn't",
         "C": "isn't",
-        "D": "not"
+        "D": "hasn't"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -211,7 +211,7 @@
       "options": {
         "A": "have",
         "B": "take",
-        "C": "do",
+        "C": "give",
         "D": "make"
       },
       "correct_answer": "B",
@@ -222,7 +222,7 @@
       "question": "Which phrase correctly completes the sentence? Let's _____ in touch.",
       "options": {
         "A": "keep",
-        "B": "stay",
+        "B": "talk",
         "C": "hold",
         "D": "have"
       },
@@ -269,8 +269,8 @@
       "id": 23,
       "question": "Choose the correct option: Can you _____ the light, please? It's too dark.",
       "options": {
-        "A": "open",
-        "B": "close",
+        "A": "open up",
+        "B": "close up",
         "C": "turn on",
         "D": "put on"
       },
@@ -291,12 +291,12 @@
     },
     {
       "id": 25,
-      "question": "Which phrase correctly completes the sentence? We need to _____ a decision soon.",
+      "question": "Which phrase correctly completes the sentence? We need to _____ about what happened.",
       "options": {
-        "A": "do",
-        "B": "make",
-        "C": "have",
-        "D": "take"
+        "A": "discuss",
+        "B": "talk",
+        "C": "tell",
+        "D": "say"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -401,7 +401,7 @@
       "id": 34,
       "question": "What does 'guide' mean in this context: The tour guide showed us around the city.",
       "options": {
-        "A": "a book with information",
+        "A": "a booklet with information",
         "B": "a person who shows the way",
         "C": "a map of a place",
         "D": "a sign with directions"
@@ -411,7 +411,7 @@
     },
     {
       "id": 35,
-      "question": "Choose the correct sentence with 'finish':",
+      "question": "Choose the correct sentence:",
       "options": {
         "A": "I will finish to read this book tomorrow.",
         "B": "She finish her homework at 8 PM.",
@@ -557,10 +557,10 @@
       "id": 47,
       "question": "According to the passage, what determined whether children went to school in Ancient Greece?",
       "options": {
-        "A": "Their gender",
+        "A": "Their gender and age",
         "B": "Their family's wealth",
         "C": "Their parents' age",
-        "D": "Their location"
+        "D": "Their place of living"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -581,12 +581,12 @@
       "id": 49,
       "question": "According to paragraph 4, why did the Ancient Greeks create the Olympic Games?",
       "options": {
-        "A": "To entertain wealthy people",
-        "B": "To honor their gods and show strength",
-        "C": "To teach children about sports and science",
-        "D": "To celebrate democracy"
+        "A": "To celebrate democracy",
+        "B": "To entertain wealthy people",
+        "C": "To honor their gods and show strength",
+        "D": "To teach children about sports and science"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Reading"
     },
     {
