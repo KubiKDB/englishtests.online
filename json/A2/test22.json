@@ -3,12 +3,12 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which form correctly completes the sentence: 'Water ___ at 100^C.'",
+      "question": "Which word correctly completes the sentence: 'Water ___ at 100^C.'",
       "options": {
-        "A": "boil",
+        "A": "roils",
         "B": "boils",
-        "C": "boiling",
-        "D": "boiled"
+        "C": "foils",
+        "D": "toils"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -17,10 +17,10 @@
       "id": 2,
       "question": "Choose the correct past tense form: 'Yesterday, I _____ my friend at the park.'",
       "options": {
-        "A": "meet",
-        "B": "meeting",
+        "A": "have met",
+        "B": "was meeting",
         "C": "met",
-        "D": "meets"
+        "D": "meeted"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -44,7 +44,7 @@
         "A": "a",
         "B": "an",
         "C": "the",
-        "D": "no article needed"
+        "D": "-"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -65,7 +65,7 @@
       "id": 6,
       "question": "Choose the correct option: 'They _____ dinner when I called.'",
       "options": {
-        "A": "served",
+        "A": "have served",
         "B": "were serving",
         "C": "are serving",
         "D": "serve"
@@ -75,12 +75,12 @@
     },
     {
       "id": 7,
-      "question": "Select the correct verb form: 'I _____ never _____ to Paris.'",
+      "question": "Select the correct verb form: 'I _____ never _____ to Caracas.'",
       "options": {
-        "A": "have / been",
-        "B": "has / been",
-        "C": "have / went",
-        "D": "has / went"
+        "A": "have/been",
+        "B": "has/been",
+        "C": "have/went",
+        "D": "has/went"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -91,7 +91,7 @@
       "options": {
         "A": "is",
         "B": "are",
-        "C": "be",
+        "C": "will",
         "D": "been"
       },
       "correct_answer": "B",
@@ -101,12 +101,12 @@
       "id": 9,
       "question": "Which sentence is grammatically correct?",
       "options": {
-        "A": "I used to smoke but quit.",
-        "B": "I use to smoke but quit.",
+        "A": "I used to smoke but quited.",
+        "B": "I used to smoke but quit.",
         "C": "I used smoking but quit.",
         "D": "I am used to smoke but quit."
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
@@ -128,7 +128,7 @@
         "A": "see",
         "B": "am seeing",
         "C": "will see",
-        "D": "saw"
+        "D": "will seeing"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -140,7 +140,7 @@
         "A": "The boy kicked the ball.",
         "B": "The ball was kicked by the boy.",
         "C": "The ball is kicking by the boy.",
-        "D": "The boy kicks the ball."
+        "D": "The boy has been kicking the ball."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -164,7 +164,7 @@
         "A": "What",
         "B": "When",
         "C": "Where",
-        "D": "Who"
+        "D": "Whose"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -210,7 +210,7 @@
       "question": "Select the correct article: 'Can you pass me ___ salt?'",
       "options": {
         "A": "a",
-        "B": "no article needed",
+        "B": "-",
         "C": "an",
         "D": "the"
       },
@@ -243,7 +243,7 @@
     },
     {
       "id": 21,
-      "question": "Select the correct collocation: 'He _____ the password from his computer.'",
+      "question": "Select the correct word: 'He _____ the password from his computer.'",
       "options": {
         "A": "forgive",
         "B": "forgot",
@@ -462,7 +462,7 @@
       "question": "Complete the sentence: '_____ will we arrive at the airport?'",
       "options": {
         "A": "What",
-        "B": "How",
+        "B": "Whenever",
         "C": "Where",
         "D": "When"
       },
@@ -536,7 +536,7 @@
         "A": "Because they are beautiful and unique",
         "B": "Because they might become dangerous to humans",
         "C": "Because each animal has a special role in nature",
-        "D": "Because it's illegal not to protect them"
+        "D": "Because it's illegal not to protect them in the modern world"
       },
       "correct_answer": "C",
       "category": "Reading"
