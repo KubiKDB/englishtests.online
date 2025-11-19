@@ -3,11 +3,11 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which form of the verb is correct? She _____ her homework every day.",
+      "question": "Which verb is correct? She _____ her homework every day.",
       "options": {
-        "A": "make",
+        "A": "gives",
         "B": "makes",
-        "C": "do",
+        "C": "works",
         "D": "does"
       },
       "correct_answer": "D",
@@ -80,7 +80,7 @@
         "A": "a",
         "B": "an",
         "C": "the",
-        "D": "no article needed"
+        "D": "-"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -137,10 +137,10 @@
       "id": 12,
       "question": "Choose the correct option. They have _____ to Mexico.",
       "options": {
-        "A": "go",
+        "A": "done",
         "B": "gone",
         "C": "went",
-        "D": "going"
+        "D": "want"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -149,7 +149,7 @@
       "id": 13,
       "question": "Which sentence is in the present perfect?",
       "options": {
-        "A": "I am eating dinner.",
+        "A": "I had eaten dinner.",
         "B": "I eat dinner every day.",
         "C": "I ate dinner yesterday.",
         "D": "I have eaten dinner already."
@@ -173,7 +173,7 @@
       "id": 15,
       "question": "Select the correct modal verb. You _____ brush your teeth every day.",
       "options": {
-        "A": "can",
+        "A": "could",
         "B": "should",
         "C": "might",
         "D": "would"
@@ -197,9 +197,9 @@
       "id": 17,
       "question": "Choose the correct expression. _____ is _____ name?",
       "options": {
-        "A": "What/her",
+        "A": "How/her",
         "B": "What/hers",
-        "C": "How/her",
+        "C": "What/her",
         "D": "How/hers"
       },
       "correct_answer": "A",
@@ -219,7 +219,7 @@
     },
     {
       "id": 19,
-      "question": "Choose the correct response. 'How do you feel?' '_____.'",
+      "question": "Choose the correct response. 'How do you feel?'",
       "options": {
         "A": "I feel.",
         "B": "I'm fine.",
@@ -255,12 +255,12 @@
     },
     {
       "id": 22,
-      "question": "Choose the correct expression. '_____ do you live?' 'In Boston.'",
+      "question": "Choose the correct expression. '_____ do you live here?' 'Because I like warm climate.'",
       "options": {
         "A": "What",
-        "B": "When",
-        "C": "Where",
-        "D": "Who"
+        "B": "Where",
+        "C": "Why",
+        "D": "When"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -279,24 +279,24 @@
     },
     {
       "id": 24,
-      "question": "Select the correct response. 'Would you like some popcorn?' '_____.'",
+      "question": "Select the correct response. 'Would you like some popcorn?'",
       "options": {
         "A": "Yes, I would.",
         "B": "Yes, I do.",
         "C": "Yes, I am.",
-        "D": "Yes, I can."
+        "D": "Yes, I could."
       },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 25,
-      "question": "Choose the correct phrase. 'Let's _____ a movie tonight.'",
+      "question": "Choose the correct phrase. 'Let's _____ a party tonight.'",
       "options": {
-        "A": "look",
-        "B": "see",
-        "C": "watch",
-        "D": "view"
+        "A": "through",
+        "B": "throughout",
+        "C": "throw",
+        "D": "though"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -331,7 +331,7 @@
       "options": {
         "A": "teacher",
         "B": "father",
-        "C": "dog",
+        "C": "dentist",
         "D": "doctor"
       },
       "correct_answer": "B",
@@ -365,8 +365,8 @@
       "id": 31,
       "question": "What does the word 'light' mean in this sentence: 'Please turn on the light.'?",
       "options": {
-        "A": "Something colorful",
-        "B": "Something bright",
+        "A": "A color",
+        "B": "A lump",
         "C": "A window",
         "D": "A lamp"
       },
@@ -464,7 +464,7 @@
         "A": "Something you sleep on",
         "B": "Something you eat with",
         "C": "Something you sit on",
-        "D": "Something you wear"
+        "D": "Something you wear on"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -476,7 +476,7 @@
         "A": "A piece of rock",
         "B": "A piece of wood",
         "C": "A piece of clothing",
-        "D": "A body part"
+        "D": "A piece of story"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -591,12 +591,12 @@
     },
     {
       "id": 50,
-      "question": "According to the passage, where can you use a bank card?",
+      "question": "According to the passage, where can't you use a bank card?",
       "options": {
-        "A": "Only in shops",
-        "B": "Only at ATMs",
-        "C": "Only online",
-        "D": "All of the above"
+        "A": "In shops",
+        "B": "At ATMs",
+        "C": "Online",
+        "D": "In subway"
       },
       "correct_answer": "D",
       "category": "Reading"
