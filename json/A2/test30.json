@@ -8,7 +8,7 @@
         "A": "She never tried hiking.",
         "B": "She doesn't tried hiking.",
         "C": "She has never tried hiking.",
-        "D": "She has never try hiking."
+        "D": "She has never to try hiking."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -116,7 +116,7 @@
         "A": "diverser",
         "B": "more diverse",
         "C": "most diverse",
-        "D": "diversest"
+        "D": "the diversest"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -137,7 +137,7 @@
       "id": 12,
       "question": "Which sentence is in the future perfect tense?",
       "options": {
-        "A": "I'm going visit my grandmother by weekend.",
+        "A": "I am going to visit my grandmother by weekend.",
         "B": "I will visit grandmother by weekend.",
         "C": "I will have visited my grandmother by weekend.",
         "D": "I will visited my grandmother by weekend."
@@ -195,7 +195,7 @@
     },
     {
       "id": 17,
-      "question": "Choose the correct expression: 'Excuse me, could you tell me the _____ to the train station?'",
+      "question": "Choose the correct expression: 'Excuse me, could you show me the _____ to the train station?'",
       "options": {
         "A": "road",
         "B": "street",
@@ -219,12 +219,12 @@
     },
     {
       "id": 19,
-      "question": "Choose the correct phrase to offer something: '_____?'",
+      "question": "Choose the correct phrase to offer something:",
       "options": {
-        "A": "Would you like a cup of tea",
-        "B": "Do you want that I make tea",
-        "C": "Are you wanting tea",
-        "D": "Will you have tea"
+        "A": "Would you like a cup of tea?",
+        "B": "Do you want that I make tea?",
+        "C": "Are you wanting tea?",
+        "D": "Will you have tea?"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -271,8 +271,8 @@
       "options": {
         "A": "Thank you too.",
         "B": "It's nothing.",
-        "C": "You're welcome.",
-        "D": "Yes, please."
+        "C": "My pleasure.",
+        "D": "I'm pleased."
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -296,7 +296,7 @@
         "A": "enough",
         "B": "too",
         "C": "much too",
-        "D": "so"
+        "D": "so enough"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -315,12 +315,12 @@
     },
     {
       "id": 27,
-      "question": "Choose the correct meaning of 'build':",
+      "question": "Choose the correct meaning of 'to construct something':",
       "options": {
-        "A": "to destroy something",
-        "B": "to construct something",
-        "C": "to find something",
-        "D": "to sell something"
+        "A": "guild",
+        "B": "build",
+        "C": "guide",
+        "D": "bulled"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -353,7 +353,7 @@
       "id": 30,
       "question": "What does 'arrive' mean?",
       "options": {
-        "A": "to leave a place",
+        "A": "to leave a destination",
         "B": "to reach a destination",
         "C": "to miss something",
         "D": "to forget something"
@@ -378,9 +378,9 @@
       "question": "What does 'sand' refer to?",
       "options": {
         "A": "small grains of rock",
-        "B": "a large body of water",
-        "C": "a type of tree",
-        "D": "a tall mountain"
+        "B": "short message sent by post",
+        "C": "small grains of wheat",
+        "D": "small grains of rice"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -404,7 +404,7 @@
         "A": "fish",
         "B": "plant",
         "C": "bird",
-        "D": "car"
+        "D": "mammal"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -426,8 +426,8 @@
       "question": "What does 'plane' refer to?",
       "options": {
         "A": "a flying vehicle",
-        "B": "a type of boat",
-        "C": "a large building",
+        "B": "a floating vehicle",
+        "C": "a hilled surface",
         "D": "a musical instrument"
       },
       "correct_answer": "A",
@@ -452,7 +452,7 @@
         "A": "up, to a higher position",
         "B": "into a sitting position",
         "C": "in a direction away from",
-        "D": "inside"
+        "D": "to another street"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -462,7 +462,7 @@
       "question": "Which form of the verb 'pay' is correct in 'He _____ for lunch yesterday'?",
       "options": {
         "A": "payed",
-        "B": "pays",
+        "B": "played",
         "C": "paying",
         "D": "paid"
       },
@@ -523,7 +523,7 @@
       "options": {
         "A": "It is the coldest jungle in the world.",
         "B": "It is the largest jungle in the world.",
-        "C": "It has very few insects.",
+        "C": "It has very few insects but lots of plants.",
         "D": "All of its plants have been discovered."
       },
       "correct_answer": "B",
@@ -536,7 +536,7 @@
         "A": "Wood",
         "B": "Medicine",
         "C": "Food",
-        "D": "Cars"
+        "D": "Plastic"
       },
       "correct_answer": "D",
       "category": "Reading"
@@ -584,7 +584,7 @@
         "A": "Places where many trees are cut down",
         "B": "Places where cutting trees is not allowed",
         "C": "Places where only scientists can go",
-        "D": "Places where animals cannot live"
+        "D": "Places where people can live with animals"
       },
       "correct_answer": "B",
       "category": "Reading"
