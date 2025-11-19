@@ -5,19 +5,19 @@
       "id": 1,
       "question": "Which sentence is grammatically correct?",
       "options": {
-        "A": "She don't like coffee.",
-        "B": "They doesn't go to school.",
-        "C": "He doesn't have a car.",
-        "D": "I doesn't know the answer."
+        "A": "She never uses ChatGPT.",
+        "B": "They hasn't visited the show.",
+        "C": "He doesn't got a car.",
+        "D": "I want to know the answer."
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 2,
       "question": "Choose the correct form of the verb.",
       "options": {
-        "A": "I am student.",
+        "A": "I was student.",
         "B": "I am a student.",
         "C": "I student.",
         "D": "I am an student."
@@ -27,12 +27,12 @@
     },
     {
       "id": 3,
-      "question": "Select the correct past tense form.",
+      "question": "Select the correct sentence.",
       "options": {
-        "A": "I goed to the store yesterday.",
-        "B": "I gone to the store yesterday.",
-        "C": "I went to the store yesterday.",
-        "D": "I going to the store yesterday."
+        "A": "I won't go to the bar last weekend.",
+        "B": "I wanted to the bar last weekend.",
+        "C": "I went to the bar last weekend.",
+        "D": "I sent to the bar last weekend."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -41,10 +41,10 @@
       "id": 4,
       "question": "Which sentence uses the correct preposition?",
       "options": {
-        "A": "I arrived at Monday.",
+        "A": "I arrived at Sunday.",
         "B": "I arrived in Monday.",
-        "C": "I arrived on Monday.",
-        "D": "I arrived to Monday."
+        "C": "I arrived on Tuesday.",
+        "D": "I arrived to Wednesday."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -53,8 +53,8 @@
       "id": 5,
       "question": "Select the correct plural form.",
       "options": {
-        "A": "One wolf, two fox",
-        "B": "One wolve, two foxes",
+        "A": "One wolv, two fox",
+        "B": "One wolves, two foxes",
         "C": "One wolf, two foxes",
         "D": "One wolf, two foxies"
       },
@@ -65,10 +65,10 @@
       "id": 6,
       "question": "Which sentence has the correct word order?",
       "options": {
-        "A": "Always he goes to bed early.",
-        "B": "He goes always to bed early.",
-        "C": "He always goes to bed early.",
-        "D": "He goes to bed always early."
+       "A": "She usually is doing exercises in the morning.",
+        "B": "Usually she does in the morning exercises.",
+        "C": "She usually does exercises in the morning.",
+        "D": "She does usually exercises in the morning."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -161,10 +161,10 @@
       "id": 14,
       "question": "Choose the correct modal verb form.",
       "options": {
-        "A": "You should to go now.",
-        "B": "You should going now.",
-        "C": "You should go now.",
-        "D": "You should goes now."
+        "A": "You should to leave now.",
+        "B": "You should leaving now.",
+        "C": "You should leave now.",
+        "D": "You should leaves now."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -174,7 +174,7 @@
       "question": "Select the sentence with the correct use of articles.",
       "options": {
         "A": "I saw a elephant at the zoo.",
-        "B": "I saw an elephant at the zoo.",
+        "B": "I saw elephants at the zoo.",
         "C": "I saw the elephant at a zoo.",
         "D": "I saw elephant at zoo."
       },
@@ -209,12 +209,12 @@
       "id": 18,
       "question": "Select the correct response: 'Would you like some tea?' '___'",
       "options": {
-        "A": "Yes, I'd like.",
-        "B": "Yes, I like.",
-        "C": "Yes, I want.",
-        "D": "Yes, I do."
+        "A": "Yes, I'd like some.",
+        "B": "Yes, I'd like any.",
+        "C": "Yes, I want some.",
+        "D": "Yes, I do any."
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Use of English"
     },
     {
@@ -233,7 +233,7 @@
       "id": 20,
       "question": "Choose the correct collocation: 'Let's ___ a walk.'",
       "options": {
-        "A": "do",
+        "A": "go",
         "B": "make",
         "C": "take",
         "D": "have"
@@ -272,7 +272,7 @@
         "A": "from",
         "B": "of",
         "C": "about",
-        "D": "to"
+        "D": "off"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -281,7 +281,7 @@
       "id": 24,
       "question": "Select the correct linking word: 'I wanted to go out, ___ it was raining.'",
       "options": {
-        "A": "so",
+        "A": "despite",
         "B": "because",
         "C": "but",
         "D": "and"
@@ -317,7 +317,7 @@
       "id": 27,
       "question": "Choose the correct meaning of 'to provide food or drink':",
       "options": {
-        "A": "sleep",
+        "A": "severe",
         "B": "serve",
         "C": "take",
         "D": "prevent"
@@ -342,7 +342,7 @@
       "question": "Which is the correct spelling?",
       "options": {
         "A": "Twentey",
-        "B": "Twenti",
+        "B": "Twony",
         "C": "Twenty",
         "D": "Twanty"
       },
@@ -365,12 +365,12 @@
       "id": 31,
       "question": "What is the opposite of 'strong'?",
       "options": {
-        "A": "Weak",
-        "B": "Big",
+        "A": "Week",
+        "B": "Weak",
         "C": "Heavy",
         "D": "Loud"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
@@ -378,8 +378,8 @@
       "question": "Choose the correct word: 'The students forgot ___ books at home.'",
       "options": {
         "A": "theirs",
-        "B": "her",
-        "C": "its",
+        "B": "hers",
+        "C": "thems",
         "D": "their"
       },
       "correct_answer": "D",
@@ -464,7 +464,7 @@
         "A": "put",
         "B": "take",
         "C": "set",
-        "D": "do"
+        "D": "step"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -500,7 +500,7 @@
         "A": "During the night",
         "B": "Before afternoon",
         "C": "Early in the morning",
-        "D": "Only in summer"
+        "D": "When it is warm outside"
       },
       "correct_answer": "C",
       "category": "Reading"
