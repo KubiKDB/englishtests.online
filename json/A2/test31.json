@@ -5,10 +5,10 @@
       "id": 1,
       "question": "Which form correctly completes the sentence? She _____ school every day for two weeks.",
       "options": {
-        "A": "skip",
+        "A": "skiped",
         "B": "skipped",
         "C": "skips",
-        "D": "skipping"
+        "D": "skyped"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -18,7 +18,7 @@
       "question": "Choose the correct sentence.",
       "options": {
         "A": "I didn't saw him yesterday.",
-        "B": "She don't like coffee.",
+        "B": "She don't like coffee more than tea.",
         "C": "They weren't at home last night.",
         "D": "He have a new car."
       },
@@ -53,7 +53,7 @@
       "id": 5,
       "question": "Which is the correct question form?",
       "options": {
-        "A": "You agree with me, do you?",
+        "A": "You agree with me, aren't you?",
         "B": "You agree with me, don't you?",
         "C": "You agree with me, does you?",
         "D": "You agree with me, did you?"
@@ -80,7 +80,7 @@
         "A": "a",
         "B": "an",
         "C": "the",
-        "D": "no article needed"
+        "D": "-"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -115,7 +115,7 @@
       "options": {
         "A": "I like very much chocolate.",
         "B": "She always is late for work.",
-        "C": "He drinks never coffee.",
+        "C": "He drinks never coffee before sleep.",
         "D": "They usually go to bed at 10 PM."
       },
       "correct_answer": "D",
@@ -173,8 +173,8 @@
       "id": 15,
       "question": "Which sentence uses the present continuous correctly?",
       "options": {
-        "A": "I am think about my vacation.",
-        "B": "He is want a new car.",
+        "A": "I am think about my vacation on Zanzibar.",
+        "B": "He is wanted for a new car.",
         "C": "They are browsing internet right now.",
         "D": "She eating dinner at the moment."
       },
@@ -186,8 +186,8 @@
       "question": "Choose the best word to complete the sentence: After the storm, the sky became _____ again.",
       "options": {
         "A": "deep",
-        "B": "course",
-        "C": "ready",
+        "B": "green",
+        "C": "red",
         "D": "blue"
       },
       "correct_answer": "D",
@@ -224,7 +224,7 @@
         "A": "A question",
         "B": "A problem",
         "C": "A discount",
-        "D": "A warning"
+        "D": "A discussion"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -269,7 +269,7 @@
       "id": 23,
       "question": "What is a 'degree' in education?",
       "options": {
-        "A": "A type of school",
+        "A": "A type of university education",
         "B": "A measurement of temperature",
         "C": "An academic qualification",
         "D": "A teacher's title"
@@ -341,7 +341,7 @@
       "id": 29,
       "question": "What does it mean when something is 'ready'?",
       "options": {
-        "A": "It is broken",
+        "A": "It is started",
         "B": "It is prepared",
         "C": "It is expensive",
         "D": "It is dangerous"
@@ -363,7 +363,7 @@
     },
     {
       "id": 31,
-      "question": "Choose the correct response. 'What time is it?' '_____.'",
+      "question": "Choose the correct response. 'What time is it?'",
       "options": {
         "A": "It's half over three",
         "B": "It's halfs past three",
@@ -377,7 +377,7 @@
       "id": 32,
       "question": "Choose the suitable expression to ask for help.",
       "options": {
-        "A": "Let me do that for you.",
+        "A": "Will you let me do that for you?",
         "B": "Could you help me, please?",
         "C": "I'm busy right now.",
         "D": "That's a good idea."
@@ -404,7 +404,7 @@
         "A": "Nice to meet you",
         "B": "See you later",
         "C": "Excuse me",
-        "D": "You're welcome"
+        "D": "Good luck"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -438,9 +438,9 @@
       "question": "Choose the best way to ask for directions.",
       "options": {
         "A": "Where is the bank?",
-        "B": "I like the bank.",
-        "C": "The bank is closed.",
-        "D": "I have no money."
+        "B": "I like to find the bank.",
+        "C": "The bank is closed today?",
+        "D": "Where can I put my money?"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -449,10 +449,10 @@
       "id": 38,
       "question": "Select the appropriate response to 'Would you like some coffee?'",
       "options": {
-        "A": "I'm tired.",
+        "A": "No, you wouldn't.",
         "B": "No, thanks.",
-        "C": "I drink tea.",
-        "D": "Coffee is black."
+        "C": "No, I drink tea.",
+        "D": "No, the coffee is too black."
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -461,10 +461,10 @@
       "id": 39,
       "question": "Which phrase is used to introduce yourself?",
       "options": {
-        "A": "How are you?",
-        "B": "Where do you live?",
+        "A": "I will know your name.",
+        "B": "Mine name is Michael",
         "C": "My name is Michael.",
-        "D": "What time is it?"
+        "D": "What name is yours?"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -473,10 +473,10 @@
       "id": 40,
       "question": "What is an appropriate way to ask about price?",
       "options": {
-        "A": "How much money?",
+        "A": "How much money do you have?",
         "B": "How much is this?",
         "C": "Where is the shop?",
-        "D": "I like this price."
+        "D": "I like to know the price."
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -596,7 +596,7 @@
         "A": "Supply and demand determine prices",
         "B": "When demand decreases, prices often fall",
         "C": "The government sets all prices in a market",
-        "D": "Technology can affect supply"
+        "D": "Technology can affect supply and demand"
       },
       "correct_answer": "C",
       "category": "Reading"
