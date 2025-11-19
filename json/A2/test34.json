@@ -90,7 +90,7 @@
       "id": 8,
       "question": "She speaks English _____ than I do.",
       "options": {
-        "A": "good", 
+        "A": "bester", 
         "B": "better", 
         "C": "best", 
         "D": "weller"
@@ -105,7 +105,7 @@
         "A": "How much",
         "B": "How many", 
         "C": "What ones", 
-        "D": "Which ones"
+        "D": "Which one"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -117,7 +117,7 @@
         "A": "lives",
         "B": "is living",
         "C": "has lived",
-        "D": "lived"
+        "D": "had lived"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -162,9 +162,9 @@
       "id": 14,
       "question": "The Eurostar travels from London to Amsterdam _____ Brussels.",
       "options": {
-        "A": "through",
+        "A": "though",
         "B": "via",
-        "C": "to",
+        "C": "cross",
         "D": "between"
       },
       "correct_answer": "B",
@@ -175,7 +175,7 @@
       "question": "This coffee is _____",
       "options": {
         "A": "bitten", 
-        "B": "biter",
+        "B": "biters",
         "C": "bitter", 
         "D": "butter"
       },
@@ -244,7 +244,7 @@
     },
     {
       "id": 21,
-      "question": "It's important to _____ regular exercise.",
+      "question": "It's important to _____ regular exercises.",
       "options": {
         "A": "make",
         "B": "do", 
@@ -258,12 +258,12 @@
       "id": 22,
       "question": "She _____ a lot of time with her grandparents.",
       "options": {
-        "A": "spends",
+        "A": "splends",
         "B": "passes", 
-        "C": "takes", 
+        "C": "spends", 
         "D": "makes"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
@@ -280,14 +280,14 @@
     },
     {
       "id": 24,
-      "question": "Let's _____ a break now.",
+      "question": "Let's _____ a new strategy.",
       "options": {
-        "A": "do", 
-        "B": "make",
-        "C": "have",
-        "D": "take"
+        "A": "envelope",
+        "B": "develop",
+        "C": "involve",
+        "D": "include"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
@@ -357,7 +357,7 @@
         "A": "sky", 
         "B": "space", 
         "C": "air", 
-        "D": "world"
+        "D": "spice"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -460,23 +460,23 @@
     },
     {
       "id": 39,
-      "question": "Hunters sometimes _____ animals for food.",
+      "question": "The teacher provided a _____ on the hardest question.",
       "options": {
         "A": "hurt", 
         "B": "hit", 
-        "C": "kill", 
-        "D": "catch"
+        "C": "hint", 
+        "D": "hitch"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 40,
-      "question": "California is a _____ in the western United States.",
+      "question": "California is a _____ in the USA.",
       "options": {
         "A": "country",
         "B": "city",
-        "C": "town", 
+        "C": "county", 
         "D": "state"
       },
       "correct_answer": "D",
@@ -525,7 +525,7 @@
         "A": "better roads", 
         "B": "faster horses", 
         "C": "improved boats",
-        "D": "new markets"
+        "D": "smarter people"
       },
       "correct_answer": "C",
       "category": "Reading"
