@@ -3,31 +3,31 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which form of the verb is correct? She ___ a new car last month.",
+      "question": "Which form of the verb is correct? She ___ on vacation.",
       "options": {
-        "A": "buy",
-        "B": "buys",
-        "C": "buying",
-        "D": "bought"
+        "A": "flyed",
+        "B": "flied",
+        "C": "field",
+        "D": "flew"
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 2,
-      "question": "Choose the correct form of the verb. They ___ TV when I called.",
+      "question": "Choose the correct form of the verb. They ___ in the park when I met them.",
       "options": {
-        "A": "watch",
-        "B": "have watched",
-        "C": "were watching",
-        "D": "watches"
+        "A": "are walking",
+        "B": "have walked",
+        "C": "were walking",
+        "D": "walk"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 3,
-      "question": "Select the correct preposition. I'm going ___ vacation next week.",
+      "question": "Select the correct preposition. I'm going ___ a hike next week.",
       "options": {
         "A": "in",
         "B": "at",
@@ -43,7 +43,7 @@
       "options": {
         "A": "more interesting",
         "B": "interestinger",
-        "C": "most interesting",
+        "C": "the most interesting",
         "D": "interesting"
       },
       "correct_answer": "A",
@@ -56,21 +56,21 @@
         "A": "a",
         "B": "an",
         "C": "the",
-        "D": "no article needed"
+        "D": "-"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 6,
-      "question": "Which sentence has the correct word order?",
+      "question": "Which sentence is correct?",
       "options": {
-        "A": "Where you are going?",
-        "B": "Where are you going?",
-        "C": "Where going are you?",
-        "D": "You are going where?"
+        "A": "I have used to speak Spanish when I was young",
+        "B": "I used to be young when I speak Spanish",
+        "C": "When I speak Spanish I used to be young",
+        "D": "I used to speak Spanish when I was young"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -127,8 +127,8 @@
       "options": {
         "A": "should",
         "B": "would",
-        "C": "had",
-        "D": "did"
+        "C": "could",
+        "D": "might"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -150,7 +150,7 @@
       "question": "Which sentence uses the correct form of the adjective?",
       "options": {
         "A": "This is the more beautiful picture I've ever seen.",
-        "B": "This is the beautifuler picture I've ever seen.",
+        "B": "This is the beautiful picture I've ever seen.",
         "C": "This is the most beautiful picture I've ever seen.",
         "D": "This is the beautifulest picture I've ever seen."
       },
@@ -161,7 +161,7 @@
       "id": 14,
       "question": "Choose the correct negative form. She ___ like coffee.",
       "options": {
-        "A": "uses",
+        "A": "has used to",
         "B": "use to",
         "C": "used to",
         "D": "used"
@@ -231,14 +231,14 @@
     },
     {
       "id": 20,
-      "question": "Choose the correct expression to ask for help.",
+      "question": "Choose the correct question.",
       "options": {
-        "A": "Could you help me, please?",
-        "B": "You help me, please?",
-        "C": "Help me, can you?",
-        "D": "Help me, could you?"
+        "A": "Have you decided alredy?",
+        "B": "Have you alredy decided?",
+        "C": "Did you decided already?",
+        "D": "Did you already decided?"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
@@ -308,7 +308,7 @@
         "A": "To clean it",
         "B": "To sell it",
         "C": "To fix it",
-        "D": "To use it"
+        "D": "To mix it"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -327,12 +327,12 @@
     },
     {
       "id": 28,
-      "question": "What does it mean to 'feed' someone?",
+      "question": "What does it mean 'to give someone food'?",
       "options": {
-        "A": "To help them sleep",
-        "B": "To give them food",
-        "C": "To make them happy",
-        "D": "To teach them"
+        "A": "flee",
+        "B": "feed",
+        "C": "fled",
+        "D": "fade"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -341,7 +341,7 @@
       "id": 29,
       "question": "Which of these phrases uses the word 'back' correctly?",
       "options": {
-        "A": "I back my dinner.",
+        "A": "I back my dinner fast.",
         "B": "Please come back soon.",
         "C": "She parked back the car.",
         "D": "They back very late."
@@ -375,12 +375,12 @@
     },
     {
       "id": 32,
-      "question": "What does it mean when someone is 'born'?",
+      "question": "What does it mean when someone 'starts to exist'?",
       "options": {
-        "A": "When they are sleeping",
-        "B": "When they start to exist",
-        "C": "When they are learning",
-        "D": "When they are working"
+        "A": "they are torn",
+        "B": "they are born",
+        "C": "they are worn",
+        "D": "they are morn"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -473,24 +473,24 @@
       "id": 40,
       "question": "Which phrase uses 'look' correctly?",
       "options": {
-        "A": "Can you look after my cat while I'm away?",
-        "B": "I look after my dinner at a restaurant.",
-        "C": "She looked a new book on a lunch break.",
+        "A": "She looked a new book on a lunch break.",
+        "B": "Can we look after dinner at a restaurant?",
+        "C": "Can you look after my cat while I'm away?",
         "D": "They look the bus arriving at 2 pm."
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 41,
       "question": "According to paragraph 1, where are the polar regions located?",
       "options": {
-        "A": "In the east and west of our planet",
-        "B": "In the north and south of our planet",
+        "A": "In the north and south of our planet",
+        "B": "In the east and west of our planet",
         "C": "Only in the north of our planet",
         "D": "Only in the south of our planet"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Reading"
     },
     {
@@ -545,12 +545,12 @@
       "id": 46,
       "question": "Based on the passage, who lives permanently in Antarctica?",
       "options": {
-        "A": "Indigenous peoples",
-        "B": "Scientists from many nations",
-        "C": "No one",
-        "D": "Polar bears"
+        "A": "Scientists from many nations",
+        "B": "Indigenous people",
+        "C": "Polar bears",
+        "D": "No one"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -559,8 +559,8 @@
       "options": {
         "A": "They are getting colder",
         "B": "The ice is melting faster",
-        "C": "More people are moving there",
-        "D": "New animals are appearing"
+        "C": "New animals are appearing",
+        "D": "More people are moving there"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -569,12 +569,12 @@
       "id": 48,
       "question": "Based on the passage, why do scientists study the polar regions?",
       "options": {
-        "A": "To understand climate change",
-        "B": "To find new animals and plants",
-        "C": "To build cities there",
-        "D": "To learn new languages"
+        "A": "To find new animals and plants",
+        "B": "To understand climate change",
+        "C": "To learn new languages",
+        "D": "To build cities there"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Reading"
     },
     {
@@ -593,12 +593,12 @@
       "id": 50,
       "question": "What is the main topic of this passage?",
       "options": {
-        "A": "Animals and plants in polar regions of the Earth",
-        "B": "The North and South Poles and their characteristics",
-        "C": "Global warming and climate change across the globe",
+        "A": "The North and South Poles and their characteristics",
+        "B": "Global warming and climate change across the globe",
+        "C": "Animals and plants in polar regions of our planet",
         "D": "Scientific research stations around the world"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Reading"
     }
   ]
