@@ -126,7 +126,7 @@
       "question": "Which form is correct? If the weather is fine tomorrow, we _____ a picnic.",
       "options": {
         "A": "have",
-        "B": "has",
+        "B": "will having",
         "C": "having",
         "D": "will have"
       },
@@ -149,7 +149,7 @@
       "id": 13,
       "question": "Which question form is correct?",
       "options": {
-        "A": "Where you live?",
+        "A": "Where are you live?",
         "B": "Where do you living?",
         "C": "Where you do live?",
         "D": "Where do you live?"
@@ -161,10 +161,10 @@
       "id": 14,
       "question": "Select the correct option. I _____ never _____ to Japan.",
       "options": {
-        "A": "have / been",
-        "B": "has / been",
-        "C": "have / went",
-        "D": "has / go"
+        "A": "have/been",
+        "B": "has/been",
+        "C": "have/went",
+        "D": "has/go"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -223,7 +223,7 @@
       "options": {
         "A": "other",
         "B": "another",
-        "C": "not same",
+        "C": "differ",
         "D": "different"
       },
       "correct_answer": "D",
@@ -327,14 +327,14 @@
     },
     {
       "id": 28,
-      "question": "Select the opposite of 'late':",
+      "question": "Select the opposite of 'slow':",
       "options": {
         "A": "soon",
         "B": "quick",
         "C": "early",
         "D": "first"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
@@ -343,7 +343,7 @@
       "options": {
         "A": "similar",
         "B": "various",
-        "C": "other",
+        "C": "simile",
         "D": "different"
       },
       "correct_answer": "A",
@@ -353,7 +353,7 @@
       "id": 30,
       "question": "What's the opposite of 'near'?",
       "options": {
-        "A": "direct",
+        "A": "dictant",
         "B": "close",
         "C": "long",
         "D": "distant"
@@ -387,10 +387,10 @@
     },
     {
       "id": 33,
-      "question": "Which word describes something that uses power from batteries or outlets?",
+      "question": "Which word describes something that is operated by hand?",
       "options": {
-        "A": "manual",
-        "B": "electric",
+        "A": "electric",
+        "B": "manual",
         "C": "mechanical",
         "D": "automatic"
       },
@@ -411,14 +411,14 @@
     },
     {
       "id": 35,
-      "question": "Which verb means 'to take something that belongs to someone else without permission'?",
+      "question": "Which verb means 'to take a loan'?",
       "options": {
         "A": "borrow",
         "B": "steal",
         "C": "find",
         "D": "keep"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
@@ -485,7 +485,7 @@
       "id": 41,
       "question": "According to paragraph 1, what were castles primarily built for?",
       "options": {
-        "A": "For entertainment",
+        "A": "For entertainment and leisure",
         "B": "For religious ceremonies",
         "C": "As homes for kings and nobles",
         "D": "As military training grounds"
