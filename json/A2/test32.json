@@ -30,7 +30,7 @@
       "question": "___ you like some tea or coffee?",
       "options": {
         "A": "Do",
-        "B": "Are",
+        "B": "Should",
         "C": "Would",
         "D": "Have"
       },
@@ -53,8 +53,8 @@
       "id": 5,
       "question": "She ___ to Prague three times.",
       "options": {
-        "A": "went",
-        "B": "goes",
+        "A": "has went",
+        "B": "has gone",
         "C": "has been",
         "D": "is going"
       },
@@ -115,7 +115,7 @@
       "options": {
         "A": "Where",
         "B": "What",
-        "C": "How",
+        "C": "Whose",
         "D": "Which"
       },
       "correct_answer": "B",
@@ -183,12 +183,12 @@
     },
     {
       "id": 16,
-      "question": "I need to ___ a shower before work.",
+      "question": "I need to ___ a better template for presentation.",
       "options": {
-        "A": "have",
-        "B": "make",
-        "C": "do",
-        "D": "take"
+        "A": "filter",
+        "B": "mind",
+        "C": "mint",
+        "D": "find"
       },
       "correct_answer": "D",
       "category": "Use of English"
@@ -207,12 +207,12 @@
     },
     {
       "id": 18,
-      "question": "Can you ___ me a favor, please?",
+      "question": "Can you ___ this letter, please?",
       "options": {
-        "A": "make",
-        "B": "give",
-        "C": "do",
-        "D": "take"
+        "A": "like",
+        "B": "share",
+        "C": "post",
+        "D": "block"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -234,7 +234,7 @@
       "question": "She wants to ___ a photo of the sunset.",
       "options": {
         "A": "make",
-        "B": "do",
+        "B": "grab",
         "C": "have",
         "D": "take"
       },
@@ -243,12 +243,12 @@
     },
     {
       "id": 21,
-      "question": "Let's ___ a break now.",
+      "question": "Can you ___ the idea in detail?",
       "options": {
-        "A": "have",
-        "B": "make",
-        "C": "do",
-        "D": "get"
+        "A": "describe",
+        "B": "discuss",
+        "C": "disclose",
+        "D": "disguise"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -269,7 +269,7 @@
       "id": 23,
       "question": "He ___ a cold last week.",
       "options": {
-        "A": "gave",
+        "A": "brought",
         "B": "got",
         "C": "caught",
         "D": "took"
@@ -291,9 +291,9 @@
     },
     {
       "id": 25,
-      "question": "Could you ___ the door, please? It's cold.",
+      "question": "Could you ___ the door, please?",
       "options": {
-        "A": "close",
+        "A": "hold",
         "B": "put",
         "C": "block",
         "D": "stop"
@@ -315,12 +315,12 @@
     },
     {
       "id": 27,
-      "question": "Your father's father is your ___.",
+      "question": "Your father's brother is your ___.",
       "options": {
-        "A": "uncle",
-        "B": "cousin",
-        "C": "grandfather",
-        "D": "grandbrother"
+        "A": "grandfather",
+        "B": "grandbrother",
+        "C": "uncle",
+        "D": "cousin"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -377,8 +377,8 @@
       "id": 32,
       "question": "When you ___ to someone, you use words to communicate.",
       "options": {
-        "A": "listen",
-        "B": "look",
+        "A": "bulk",
+        "B": "chalk",
         "C": "walk",
         "D": "talk"
       },
@@ -437,10 +437,10 @@
       "id": 37,
       "question": "When you ___ something, you give part of it to someone else.",
       "options": {
-        "A": "take",
-        "B": "keep",
+        "A": "open",
+        "B": "divide",
         "C": "share",
-        "D": "find"
+        "D": "break"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -459,7 +459,7 @@
     },
     {
       "id": 39,
-      "question": "If you have ___ money, you don't need any more.",
+      "question": "If you have ___ money, you should be able to buy what you want.",
       "options": {
         "A": "some",
         "B": "many",
@@ -476,7 +476,7 @@
         "A": "finger",
         "B": "nail",
         "C": "tooth",
-        "D": "nose"
+        "D": "toot"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
