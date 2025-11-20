@@ -27,14 +27,14 @@
     },
     {
       "id": 3,
-      "question": "Choose the correct article: 'I saw _____ bird in the tree.'",
+      "question": "Choose the correct article: 'I saw _____ birds in the tree.'",
       "options": {
         "A": "a",
         "B": "an",
         "C": "the",
         "D": "—"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -77,7 +77,7 @@
       "id": 7,
       "question": "Select the correct form of 'to be': 'They _____ students last year.'",
       "options": {
-        "A": "is",
+        "A": "have been",
         "B": "are",
         "C": "were",
         "D": "was"
@@ -175,7 +175,7 @@
       "options": {
         "A": "visit",
         "B": "am visiting",
-        "C": "visited",
+        "C": "will visited",
         "D": "will be visit"
       },
       "correct_answer": "B",
@@ -234,7 +234,7 @@
       "question": "Select the best word to complete the sentence: 'My brother _____ soccer every Saturday.'",
       "options": {
         "A": "makes",
-        "B": "does",
+        "B": "place",
         "C": "plays",
         "D": "goes"
       },
@@ -428,7 +428,7 @@
         "A": "hour",
         "B": "week",
         "C": "moment",
-        "D": "day"
+        "D": "minute"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -437,7 +437,7 @@
       "id": 37,
       "question": "A _____ is fifteen minutes, or one fourth of an hour.",
       "options": {
-        "A": "slice",
+        "A": "quartz",
         "B": "whole",
         "C": "half",
         "D": "quarter"
@@ -523,7 +523,7 @@
       "options": {
         "A": "Because people earned more money",
         "B": "Because goods were produced at lower costs",
-        "C": "Because steam engines were cheaper",
+        "C": "Because steam engines were cheaper and more reliable",
         "D": "Because they bought goods from factories"
       },
       "correct_answer": "B",
