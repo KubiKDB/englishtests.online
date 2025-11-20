@@ -8,7 +8,7 @@
       "options": {
         "A": "takes", 
         "B": "gets",
-        "C": "has", 
+        "C": "stands", 
         "D": "jumps"
       },
       "correct_answer": "B",
@@ -32,7 +32,7 @@
       "options": {
         "A": "plaid", 
         "B": "planted",
-        "C": "plate",
+        "C": "plated",
         "D": "played"
       },
       "correct_answer": "D",
@@ -69,7 +69,7 @@
         "A": "more",
         "B": "most", 
         "C": "the most",
-        "D": "much"
+        "D": "much more"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -177,7 +177,7 @@
         "A": "like",
         "B": "than", 
         "C": "as", 
-        "D": "that"
+        "D": "so"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -273,7 +273,7 @@
         "A": "put", 
         "B": "turn",
         "C": "make",
-        "D": "do"
+        "D": "lift"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -376,22 +376,22 @@
     },
     {
       "id": 32,
-      "question": "Can you _____ me carry these bags?",
+      "question": "We had first _____ lessons at school.",
       "options": {
         "A": "assist", 
         "B": "support", 
         "C": "aid", 
         "D": "help"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 33,
-      "question": "We'll stay at the beach _____ sunset.",
+      "question": "We'll stay at the beach _____ the sunset.",
       "options": {
         "A": "to", 
-        "B": "until", 
+        "B": "till", 
         "C": "while",
         "D": "for"
       },
