@@ -187,7 +187,7 @@
       "options": {
         "A": "would",
         "B": "should", 
-        "C": "must",
+        "C": "will be",
         "D": "will"
       },
       "correct_answer": "D",
@@ -450,9 +450,9 @@
       "question": "Choose the correct sentence with 'many':",
       "options": {
         "A": "There is many water in the glass.",
-        "B": "How many money do you have?",
-        "C": "I don't have many time.", 
-        "D": "There are many students in the class."
+        "B": "How many money do you have for lunch?",
+        "C": "I don't have many time to meet you there.", 
+        "D": "There were many students in the class on Monday."
       },
       "correct_answer": "D",
       "category": "Vocabulary"
@@ -473,12 +473,12 @@
       "id": 40,
       "question": "Which sentence uses 'forget' correctly?",
       "options": {
-        "A": "I always forget my keys at home.",
+        "A": "They forget where a new car is.",
         "B": "She forgot me to the store.",
-        "C": "They forget where a new car is.",
+        "C": "I always forget my keys at home.",
         "D": "He forgets everything happily."
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -533,7 +533,7 @@
       "id": 45,
       "question": "What is chlorophyll?",
       "options": {
-        "A": "A branch of the plant",
+        "A": "A green branch of the plant",
         "B": "A green material in leaves",
         "C": "A gas plants need to grow", 
         "D": "A part of the stem"
