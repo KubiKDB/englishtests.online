@@ -43,7 +43,7 @@
       "options": {
         "A": "kidding",
         "B": "kiddens",
-        "C": "kidden",
+        "C": "kiddes",
         "D": "kids"
       },
       "correct_answer": "D",
@@ -125,8 +125,8 @@
       "id": 11,
       "question": "Choose the correct question form: '_____ you like some tea?'",
       "options": {
-        "A": "Do",
-        "B": "Are",
+        "A": "Should",
+        "B": "Do",
         "C": "Would",
         "D": "Could"
       },
@@ -187,7 +187,7 @@
       "options": {
         "A": "open",
         "B": "close",
-        "C": "break",
+        "C": "move",
         "D": "wash"
       },
       "correct_answer": "B",
@@ -209,7 +209,7 @@
       "id": 18,
       "question": "Select the appropriate response: 'What's your name?'",
       "options": {
-        "A": "I was Bianca.",
+        "A": "I'm is Bianca.",
         "B": "I'm a Bianca.",
         "C": "I'm Bianca.",
         "D": "Me Bianca."
@@ -281,7 +281,7 @@
       "id": 24,
       "question": "Select the appropriate word: 'I need to _____ some groceries for dinner.'",
       "options": {
-        "A": "do",
+        "A": "grow",
         "B": "make",
         "C": "buy",
         "D": "sell"
@@ -308,7 +308,7 @@
         "A": "a morning meal",
         "B": "a midday meal",
         "C": "an evening meal",
-        "D": "a snack"
+        "D": "a midday snack"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -413,7 +413,7 @@
       "id": 35,
       "question": "What is the meaning of 'hope'?",
       "options": {
-        "A": "to forget something",
+        "A": "to help something to happen",
         "B": "to be afraid of something",
         "C": "to want something to happen",
         "D": "to dislike something"
@@ -463,7 +463,7 @@
       "options": {
         "A": "not available",
         "B": "not married",
-        "C": "not happy",
+        "C": "not alone",
         "D": "disappointed"
       },
       "correct_answer": "B",
@@ -476,7 +476,7 @@
         "A": "She answer the teacher's question.",
         "B": "I don't know the answer to this question.",
         "C": "They answered if I wanted to go with them.",
-        "D": "He answer dinner at 8 PM."
+        "D": "He answered a hotel room in Bangkok."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -485,24 +485,24 @@
       "id": 41,
       "question": "According to the passage, who usually owns small businesses?",
       "options": {
-        "A": "Small companies or stakeholders",
-        "B": "The government or it's institutions",
-        "C": "One person or a small group of people",
-        "D": "International corporations"
+        "A": "International corporations",
+        "B": "Small companies or stakeholders",
+        "C": "The government or it's institutions",
+        "D": "One person or a small group of people"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
       "id": 42,
       "question": "What must a small business owner do when starting a business?",
       "options": {
-        "A": "Close other competing businesses",
-        "B": "Find a location and buy equipment",
-        "C": "Work only a few hours a week",
-        "D": "Hire many employees immediately"
+        "A": "Find a location and buy equipment",
+        "B": "Close other competing businesses",
+        "C": "Hire many employees immediately",
+        "D": "Work only a few hours a week"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Reading"
     },
     {
@@ -545,8 +545,8 @@
       "id": 46,
       "question": "According to the passage, why do many people prefer small businesses?",
       "options": {
-        "A": "Because they offer cheaper products",
-        "B": "Because they are always open",
+        "A": "Because they are always open",
+        "B": "Because they offer cheaper products",
         "C": "Because they have more products available",
         "D": "Because they feel connected to their community"
       },
@@ -557,8 +557,8 @@
       "id": 47,
       "question": "What is one challenge small businesses face?",
       "options": {
-        "A": "Having too many customers",
-        "B": "Hiring too many workers",
+        "A": "Hiring too many workers",
+        "B": "Having too many customers",
         "C": "Competing with large companies",
         "D": "Working fewer hours than the large companies"
       },
@@ -579,14 +579,14 @@
     },
     {
       "id": 49,
-      "question": "According to the passage, where can small businesses be found?",
+      "question": "Which place wasn’t mentioned where you can find small businesses?",
       "options": {
-        "A": "Only in big cities",
-        "B": "Only in small towns",
-        "C": "Only in rich communities",
-        "D": "In almost every town and city"
+        "A": "In big cities",
+        "B": "In undeground",
+        "C": "In rich communities",
+        "D": "In small towns"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "category": "Reading"
     },
     {
@@ -594,11 +594,11 @@
       "question": "What is the main topic of this passage?",
       "options": {
         "A": "How to start a restaurant",
-        "B": "The importance and challenges of small businesses",
-        "C": "Why large companies are better than small businesses",
-        "D": "The history of business in the world"
+        "B": "The history of business in the world",
+        "C": "The importance and challenges of small businesses",
+        "D": "Why large companies are better than small businesses"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Reading"
     }
   ]
