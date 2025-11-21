@@ -3,14 +3,14 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which form of the verb is correct? 'She ___ to the store yesterday.'",
+      "question": "Which form of the verb is correct? 'She ___ a presentation of her new book.'",
       "options": {
-        "A": "go",
-        "B": "went",
-        "C": "goes",
-        "D": "going"
+        "A": "took",
+        "B": "said",
+        "C": "gave",
+        "D": "done"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -29,10 +29,10 @@
       "id": 3,
       "question": "Which sentence is grammatically correct?",
       "options": {
-        "A": "They doesn't like coffee.",
-        "B": "They not like coffee.",
-        "C": "They don't like coffee.",
-        "D": "They don't likes coffee."
+        "A": "They has never flown on a plane.",
+        "B": "They have never flied on a plane.",
+        "C": "They have never flown on a plane.",
+        "D": "They have never flew on a plane."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -44,43 +44,43 @@
         "A": "was",
         "B": "is",
         "C": "were",
-        "D": "be"
+        "D": "has been"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 5,
-      "question": "Which is the correct comparative form? 'This book is ___ than that one.'",
+      "question": "Which is the correct comparative form? 'This letter is ___ than that one.'",
       "options": {
-        "A": "more better",
-        "B": "gooder",
-        "C": "more good",
-        "D": "better"
+        "A": "as readable",
+        "B": "readabler",
+        "C": "readable",
+        "D": "more readable"
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 6,
-      "question": "Choose the correct past tense: 'I ___ a movie last night.'",
+      "question": "Choose the correct past tense: 'I ___ that movie ___ times.'",
       "options": {
-        "A": "watch",
-        "B": "watching",
-        "C": "watched",
-        "D": "watches"
+        "A": "have seen/much",
+        "B": "had seen/many",
+        "C": "have seen/many",
+        "D": "had seen/much"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 7,
-      "question": "Select the correct article: 'She's ___ university student.'",
+      "question": "Select the correct article: 'She's ___ university teacher.'",
       "options": {
         "A": "a",
         "B": "an",
         "C": "the",
-        "D": "no article needed"
+        "D": "-"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -92,7 +92,7 @@
         "A": "He play tennis every Sunday.",
         "B": "He playing tennis every Sunday.",
         "C": "He plays tennis every Sunday.",
-        "D": "He is play tennis every Sunday."
+        "D": "He is playing tennis every Sunday."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -101,10 +101,10 @@
       "id": 9,
       "question": "Choose the correct modal verb: 'You ___ talk in the library.'",
       "options": {
-        "A": "not",
+        "A": "won't",
         "B": "don't have to",
         "C": "shouldn't",
-        "D": "aren't"
+        "D": "mustn't"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -137,36 +137,36 @@
       "id": 12,
       "question": "Which is the correct plural form?",
       "options": {
-        "A": "childs",
-        "B": "childrens",
-        "C": "childs'",
-        "D": "children"
+        "A": "berrys",
+        "B": "berrie",
+        "C": "berryes",
+        "D": "berries"
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 13,
-      "question": "Choose the correct form: 'I ___ TV when she called.'",
+      "question": "Choose the correct form: 'I ___ TV before she came.'",
       "options": {
-        "A": "watched",
-        "B": "was watching",
-        "C": "watching",
-        "D": "am watching"
+        "A": "have been watching",
+        "B": "had been watching",
+        "C": "was watching",
+        "D": "watched"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 14,
-      "question": "Which is correct? 'She ___ here since Monday.'",
+      "question": "Which is correct? 'The Smiths ___ here since Monday.'",
       "options": {
-        "A": "is",
-        "B": "was",
+        "A": "are",
+        "B": "were",
         "C": "has been",
         "D": "have been"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -176,30 +176,30 @@
         "A": "She well speaks English.",
         "B": "She speaks English well.",
         "C": "She English speaks well.",
-        "D": "Well she speaks English."
+        "D": "She speaks well English."
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 16,
-      "question": "Choose the correct option to complete the sentence: 'Would you like ___ coffee?'",
+      "question": "Choose the correct option to complete the sentence: 'Do you need ___ advice?'",
       "options": {
         "A": "some",
         "B": "a",
         "C": "any",
         "D": "many"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 17,
       "question": "Select the correct phrasal verb: 'Please ___ your shoes before entering.'",
       "options": {
-        "A": "put on",
+        "A": "take on",
         "B": "take off",
-        "C": "put away",
+        "C": "take out",
         "D": "take up"
       },
       "correct_answer": "B",
@@ -219,12 +219,12 @@
     },
     {
       "id": 19,
-      "question": "Select the correct collocation: 'Can you ___ me a favor?'",
+      "question": "What does a 'favor' mean in this sentence: 'Can you do me a favor?'",
       "options": {
-        "A": "make",
-        "B": "do",
-        "C": "give",
-        "D": "have"
+        "A": "aid",
+        "B": "help",
+        "C": "assist",
+        "D": "explain"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -233,10 +233,10 @@
       "id": 20,
       "question": "Which expression is correct when answering the phone?",
       "options": {
-        "A": "I'm listening.",
+        "A": "Halo?",
         "B": "Hello?",
-        "C": "I hear you.",
-        "D": "Yes?"
+        "C": "How low?",
+        "D": "Hollow?"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -246,7 +246,7 @@
       "question": "Choose the correct expression: 'I don't feel well. I think I'm coming ___ with a cold.'",
       "options": {
         "A": "down",
-        "B": "up",
+        "B": "across",
         "C": "over",
         "D": "around"
       },
@@ -269,7 +269,7 @@
       "id": 23,
       "question": "Which is the correct way to ask for the time?",
       "options": {
-        "A": "What is it?",
+        "A": "What is it time?",
         "B": "How much is it?",
         "C": "What time is it?",
         "D": "How long is it?"
@@ -279,24 +279,24 @@
     },
     {
       "id": 24,
-      "question": "Choose the correct expression: 'We need to ___ a decision soon.'",
+      "question": "Choose the correct expression: 'You should ___ responsibility for this.'",
       "options": {
-        "A": "do",
+        "A": "give",
         "B": "take",
         "C": "make",
         "D": "have"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 25,
       "question": "Select the correct response to 'Thank you.'",
       "options": {
-        "A": "Please.",
-        "B": "It's nothing.",
+        "A": "You come well.",
+        "B": "You'll well come.",
         "C": "You're welcome.",
-        "D": "Not at all."
+        "D": "You're welcomed."
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -305,10 +305,10 @@
       "id": 26,
       "question": "Which sentence uses the word 'teach' correctly?",
       "options": {
-        "A": "My brother teach me how to swim.",
+        "A": "My brother teached me how to swim.",
         "B": "She teaches English at our school.",
         "C": "They teaching us math every day.",
-        "D": "I will taught you tomorrow."
+        "D": "I will be teached by you tomorrow."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -329,10 +329,10 @@
       "id": 28,
       "question": "Which sentence uses 'direction' correctly?",
       "options": {
-        "A": "Can you give me directions to the station?",
-        "B": "I like the direction of my new shoes.",
+        "A": "I can give you directions to the station",
+        "B": "I like the direction of my new bike.",
         "C": "She has three directions in her family.",
-        "D": "We bought a new direction for our living room."
+        "D": "We bought a new direction for our computer."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -354,9 +354,9 @@
       "question": "Which sentence uses 'cut' correctly?",
       "options": {
         "A": "She cut her hair last week.",
-        "B": "I cut the TV to watch a show.",
-        "C": "They cut a song about their vacation.",
-        "D": "He cuts his breakfast every morning."
+        "B": "I cut my lunch to get back to work.",
+        "C": "Their dogs are cut and adorable.",
+        "D": "He cut the road to get home faster."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -368,7 +368,7 @@
         "A": "I will become to the party later.",
         "B": "She wants to become a doctor.",
         "C": "They became the music very loudly.",
-        "D": "He becomes his homework every day."
+        "D": "He becomes his teacher to help him."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -378,9 +378,9 @@
       "question": "Which sentence uses 'runs' correctly?",
       "options": {
         "A": "My father runs a small business.",
-        "B": "She runs the coffee every morning.",
+        "B": "She runs the park every morning.",
         "C": "The cat runs a lot of food.",
-        "D": "They run their books on the shelf."
+        "D": "They run their books to the library."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -391,20 +391,20 @@
       "options": {
         "A": "I need to complete my teeth after eating.",
         "B": "Please complete your phone during the movie.",
-        "C": "Did you complete your homework?",
-        "D": "We will complete some friends for dinner."
+        "C": "Have you completed your homework yet?",
+        "D": "We will be completing some friends for dinner."
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 34,
-      "question": "What does 'skin' refer to in this sentence: 'The skin on her hands was dry.'?",
+      "question": "What does 'the outer covering of the human body' refer to?",
       "options": {
-        "A": "A type of clothing",
-        "B": "The outer covering of the human body",
-        "C": "A skinny person",
-        "D": "A layer of paint"
+        "A": "scan",
+        "B": "skin",
+        "C": "spine",
+        "D": "spin"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -413,12 +413,12 @@
       "id": 35,
       "question": "Which sentence uses 'game' correctly?",
       "options": {
-        "A": "We played a game of chess yesterday.",
-        "B": "I game my friend a present.",
-        "C": "She games to school every day.",
-        "D": "They game their homework on time."
+        "A": "I game my friend a present.",
+        "B": "We played a game of chess yesterday.",
+        "C": "She sings a new game very well.",
+        "D": "They game their soccer all the time."
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
@@ -427,8 +427,8 @@
       "options": {
         "A": "He also to swim in the ocean.",
         "B": "She likes tea and also coffee.",
-        "C": "They also me to help them.",
-        "D": "I also the door after leaving."
+        "C": "They were also to help us.",
+        "D": "I left also the door open after leaving."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -449,22 +449,22 @@
       "id": 38,
       "question": "Which sentence uses 'could' correctly?",
       "options": {
-        "A": "I could my homework yesterday.",
+        "A": "It was could outside in the evening.",
         "B": "She could swimming very well.",
-        "C": "Could you help me, please?",
-        "D": "They could the music louder."
+        "C": "You could have helped me.",
+        "D": "I could have to visit a doctor."
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 39,
-      "question": "Choose the sentence with the correct use of 'oils':",
+      "question": "Choose the sentence with the correct use of 'boil':",
       "options": {
-        "A": "She oils to work every day.",
-        "B": "I need some cooking oils for this recipe.",
-        "C": "They oils their homework on time.",
-        "D": "He oils a new car last week."
+        "A": "She boils her hair before going out.",
+        "B": "I love boiled eggs for breakfast.",
+        "C": "The ice boils at 100ºC.",
+        "D": "He boils his car's engine in winter."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -473,10 +473,10 @@
       "id": 40,
       "question": "Which sentence uses 'foreign' correctly?",
       "options": {
-        "A": "I foreign to the store yesterday.",
+        "A": "I have a foreign idea of making a sandwich.",
         "B": "She speaks three foreign languages.",
-        "C": "They foreign their homework quickly.",
-        "D": "He foreign his dinner at 7 PM."
+        "C": "They decided to make a foreign border at home.",
+        "D": "It is foreign to steal from supermarkets."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -497,22 +497,22 @@
       "id": 42,
       "question": "What do solar panels do?",
       "options": {
-        "A": "Create wind",
-        "B": "Store water",
+        "A": "Change wind into electricity",
+        "B": "Change water into electricity",
         "C": "Change sunlight into electricity",
-        "D": "Turn wind into water"
+        "D": "Change sunlight into boiled water"
       },
       "correct_answer": "C",
       "category": "Reading"
     },
     {
       "id": 43,
-      "question": "According to the passage, where can wind farms be built?",
+      "question": "According to the passage, where can't wind farms be built?",
       "options": {
-        "A": "Only on land",
-        "B": "Only in the sea",
-        "C": "On land or in the sea",
-        "D": "Only in deserts"
+        "A": "On land",
+        "B": "In the sea",
+        "C": "In the forest",
+        "D": "In deserts"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -583,7 +583,7 @@
       "options": {
         "A": "To create water",
         "B": "To build cars",
-        "C": "For daily activities like cooking",
+        "C": "For daily activities",
         "D": "To make solar panels"
       },
       "correct_answer": "C",
