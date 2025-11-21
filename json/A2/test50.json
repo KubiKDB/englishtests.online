@@ -3,48 +3,48 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which form of the verb is correct? 'She ___ to work by bus every day.'",
+      "question": "Which form of the verb is incorrect? 'She ___ to go to work by bus every day.'",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "going",
-        "D": "went"
+        "A": "needs",
+        "B": "must",
+        "C": "has",
+        "D": "prefers"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 2,
-      "question": "Choose the correct preposition: 'The book is ___ the table.'",
+      "question": "Choose the correct preposition: 'The ___ are on the table.'",
       "options": {
-        "A": "in",
-        "B": "at",
-        "C": "on",
-        "D": "by"
+        "A": "BRICS",
+        "B": "Brooks",
+        "C": "books",
+        "D": "Brooklyn"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 3,
-      "question": "Select the correct past tense form: 'Yesterday, I ___ a movie.'",
+      "question": "Select the correct past tense form: 'Yesterday, I ___ potatoes.'",
       "options": {
-        "A": "watch",
-        "B": "watching",
-        "C": "watched",
-        "D": "watches"
+        "A": "feeled",
+        "B": "pealed",
+        "C": "peeled",
+        "D": "paled"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 4,
-      "question": "Choose the correct article: 'She is ___ university student.'",
+      "question": "Choose the correct article: 'She lives ___ United Kingdom.'",
       "options": {
-        "A": "a",
-        "B": "an",
-        "C": "the",
-        "D": "no article needed"
+        "A": "on the",
+        "B": "in the",
+        "C": "in",
+        "D": "on"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -53,60 +53,60 @@
       "id": 5,
       "question": "Which sentence is grammatically correct?",
       "options": {
-        "A": "They doesn't like coffee.",
-        "B": "They don't likes coffee.",
-        "C": "They don't like coffee.",
-        "D": "They not like coffee."
+        "A": "I prefer milk on juice.",
+        "B": "I prefer milk for juice.",
+        "C": "I prefer milk to juice.",
+        "D": "I prefer milk by juice."
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 6,
-      "question": "Select the correct comparative form: 'This building is ___ than my house.'",
+      "question": "Select the correct comparative form: 'This building is ___ in Hong Kong.'",
       "options": {
-        "A": "more tall",
-        "B": "tallest",
-        "C": "taller",
-        "D": "more taller"
+        "A": "more tallest",
+        "B": "the tallest",
+        "C": "the taller",
+        "D": "the most tallest"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 7,
       "question": "Which sentence uses the present continuous correctly?",
       "options": {
-        "A": "I am cook dinner now.",
-        "B": "I cooking dinner now.",
+        "A": "I am the dinner cook now.",
+        "B": "I will be cooking dinner now.",
         "C": "I am cooking dinner now.",
-        "D": "I cook dinner now."
+        "D": "I should cook dinner now."
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 8,
-      "question": "Choose the correct modal verb: 'You ___ wear a seatbelt when driving.'",
+      "question": "Choose the correct modal verb: 'You ___ to wear a seatbelt when driving.'",
       "options": {
         "A": "must",
-        "B": "should to",
+        "B": "should",
         "C": "have",
         "D": "would"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 9,
-      "question": "Which question form is correct?",
+      "question": "Which question form is incorrect?",
       "options": {
-        "A": "Where you live?",
+        "A": "Why do you live?",
         "B": "Where do you live?",
-        "C": "Where living you?",
-        "D": "Where are you living?"
+        "C": "How do you live?",
+        "D": "When do you live?"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -137,7 +137,7 @@
       "id": 12,
       "question": "Which sentence is in the future tense?",
       "options": {
-        "A": "I eat an apple.",
+        "A": "I will be eat an apple.",
         "B": "I ate an apple.",
         "C": "I am eating an apple.",
         "D": "I will eat an apple."
@@ -149,10 +149,10 @@
       "id": 13,
       "question": "Choose the correct adverb: 'He speaks English ___.'",
       "options": {
-        "A": "good",
-        "B": "well",
-        "C": "best",
-        "D": "better"
+        "A": "fluidly",
+        "B": "fluently",
+        "C": "fluency",
+        "D": "influencely"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -161,22 +161,22 @@
       "id": 14,
       "question": "Which sentence has the correct word order?",
       "options": {
-        "A": "Always she goes to bed at 10 PM.",
-        "B": "She goes always to bed at 10 PM.",
-        "C": "She always goes to bed at 10 PM.",
-        "D": "She goes to bed always at 10 PM."
+        "A": "She plans always her actions before doing.",
+        "B": "She plans her actions always before doing.",
+        "C": "She always plans her actions before doing.",
+        "D": "She plans her actions before doing always."
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 15,
-      "question": "Select the correct form: 'I ___ TV last night.'",
+      "question": "Select the correct form: 'I ___ the show until the sunrise.'",
       "options": {
-        "A": "watch",
-        "B": "am watching",
-        "C": "was watching",
-        "D": "will watch"
+        "A": "watched",
+        "B": "had watched",
+        "C": "had been watching",
+        "D": "was watching"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -186,7 +186,7 @@
       "question": "Complete the sentence: 'She went to the store ___ some bread.'",
       "options": {
         "A": "for buy",
-        "B": "to buying",
+        "B": "for buying",
         "C": "to buy",
         "D": "for to buy"
       },
@@ -195,26 +195,26 @@
     },
     {
       "id": 17,
-      "question": "Choose the correct response: 'How are you?' '___'",
+      "question": "Choose the correct response: 'How do you feel?'",
       "options": {
-        "A": "I'm 25 years old.",
-        "B": "I'm fine, thank you.",
-        "C": "I'm from Spain.",
-        "D": "I'm a teacher."
+        "A": "Sad.",
+        "B": "Happy.",
+        "C": "I'm fine.",
+        "D": "I'm five."
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 18,
-      "question": "Select the appropriate phrase: '___ is your brother?'",
+      "question": "Select the appropriate phrase: '___ is your brother?' 'He should be here soon.'",
       "options": {
         "A": "How old",
         "B": "What",
         "C": "Who",
         "D": "Where"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -231,12 +231,12 @@
     },
     {
       "id": 20,
-      "question": "Select the best response: 'Would you like some coffee?' '___'",
+      "question": "Select the best response: 'What is the weather today like?'",
       "options": {
-        "A": "Yes, I'd like.",
-        "B": "Yes, please.",
-        "C": "Yes, I would.",
-        "D": "Yes, I do."
+        "A": "It's hottest.",
+        "B": "It's hot.",
+        "C": "I don't like it.",
+        "D": "It's not like it."
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -272,19 +272,19 @@
         "A": "put off",
         "B": "take off",
         "C": "get off",
-        "D": "take away"
+        "D": "leave off"
       },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 24,
-      "question": "Select the best word to complete the sentence: 'I don't have ___ money to buy a car.'",
+      "question": "Select the best word to complete the sentence: 'I don't have ___ money to pay for rent.'",
       "options": {
         "A": "many",
         "B": "enough",
         "C": "too",
-        "D": "much too"
+        "D": "too much"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -296,7 +296,7 @@
         "A": "Which",
         "B": "How",
         "C": "What",
-        "D": "Who"
+        "D": "Whose"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -318,7 +318,7 @@
       "question": "What is the correct definition of 'milk'?",
       "options": {
         "A": "A hot drink made from beans",
-        "B": "A type of meat",
+        "B": "A cold drink made with ice",
         "C": "A white liquid from cows",
         "D": "A sweet food made with sugar"
       },
@@ -339,36 +339,36 @@
     },
     {
       "id": 29,
-      "question": "Which definition best matches the word 'elephant'?",
+      "question": "Which definition best matches the word 'octopus'?",
       "options": {
         "A": "A small animal that lives in houses",
         "B": "A large gray animal with a long trunk",
         "C": "A bird that can't fly",
         "D": "A sea animal with eight arms"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 30,
-      "question": "What does the word 'touch' mean?",
+      "question": "Which word means 'to put your hand on something'?",
       "options": {
-        "A": "To see something",
-        "B": "To hear a sound",
-        "C": "To put your hand on something",
-        "D": "To smell something"
+        "A": "teach",
+        "B": "preach",
+        "C": "touch",
+        "D": "pouch"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 31,
-      "question": "What is the meaning of 'sleep'?",
+      "question": "Which word means 'to rest with your eyes closed'?",
       "options": {
-        "A": "To rest with your eyes closed",
-        "B": "To run very fast",
-        "C": "To eat food",
-        "D": "To talk to someone"
+        "A": "sleep",
+        "B": "sheep",
+        "C": "sheet",
+        "D": "sleeve"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -377,10 +377,10 @@
       "id": 32,
       "question": "Choose the correct definition for 'fill':",
       "options": {
-        "A": "To make something empty",
-        "B": "To put something into a container until it's full",
-        "C": "To throw something away",
-        "D": "To break something"
+        "A": "To make a conteiner empty",
+        "B": "To make a container full",
+        "C": "To make a life happier",
+        "D": "To make empty space on paper"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -403,7 +403,7 @@
       "options": {
         "A": "A room in a house for sleeping",
         "B": "A place where food is cooked",
-        "C": "An area with plants and flowers",
+        "C": "A place with plants and flowers",
         "D": "A building where people work"
       },
       "correct_answer": "C",
@@ -414,8 +414,8 @@
       "question": "What does 'short' mean?",
       "options": {
         "A": "Not long",
-        "B": "Very heavy",
-        "C": "Very cold",
+        "B": "Not cold",
+        "C": "Not hot",
         "D": "Not wide"
       },
       "correct_answer": "A",
@@ -425,10 +425,10 @@
       "id": 36,
       "question": "Which word means 'making people laugh'?",
       "options": {
-        "A": "sad",
-        "B": "angry",
-        "C": "serious",
-        "D": "funny"
+        "A": "curious",
+        "B": "cautious",
+        "C": "furious",
+        "D": "hilarious"
       },
       "correct_answer": "D",
       "category": "Vocabulary"
@@ -437,10 +437,10 @@
       "id": 37,
       "question": "Choose the correct definition for 'busy':",
       "options": {
-        "A": "Having lots of time",
+        "A": "Having a lot of free time",
         "B": "Having a lot of work to do",
-        "C": "Being very tired",
-        "D": "Being very slow"
+        "C": "Being very tired of work",
+        "D": "Being a businessman or entrepreneur"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -449,22 +449,22 @@
       "id": 38,
       "question": "What does 'ten' refer to?",
       "options": {
-        "A": "A day of the week",
-        "B": "A color",
-        "C": "A number",
-        "D": "A type of food"
+        "A": "A length of the week",
+        "B": "A length of the century",
+        "C": "A length of the decade",
+        "D": "A length of the month"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 39,
-      "question": "What does the word 'often' mean?",
+      "question": "Which word means 'many times'?",
       "options": {
-        "A": "Many times",
-        "B": "Never",
+        "A": "Often",
+        "B": "After",
         "C": "Always",
-        "D": "Rarely"
+        "D": "Seldom"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -473,10 +473,10 @@
       "id": 40,
       "question": "What is a 'bill'?",
       "options": {
-        "A": "A place to sit",
-        "B": "A paper showing how much you need to pay",
-        "C": "A type of transportation",
-        "D": "A part of your body"
+        "A": "A lawn",
+        "B": "A law",
+        "C": "A loan",
+        "D": "A load"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -486,7 +486,7 @@
       "question": "According to paragraph 1, what can buyers sometimes do when they find something they want?",
       "options": {
         "A": "They can take it for free",
-        "B": "They can negotiate with sellers for a lower price",
+        "B": "They can negotiate with sellers",
         "C": "They can sell it to someone else",
         "D": "They can exchange it for another item"
       },
@@ -509,10 +509,10 @@
       "id": 43,
       "question": "According to paragraph 3, what is a receipt?",
       "options": {
-        "A": "Money given back to the customer",
-        "B": "A piece of paper showing what was bought and the cost",
-        "C": "The item that was purchased",
-        "D": "A card used for payment"
+        "A": "Money given back to the customer known as a cashback",
+        "B": "A paper showing what was bought and the cost",
+        "C": "The item that was bought and the date of the purchase",
+        "D": "A card used for payment and its owner"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -522,7 +522,7 @@
       "question": "What happens after a buyer pays in an online market?",
       "options": {
         "A": "The buyer goes to pick up the product",
-        "B": "The seller sends the products to the buyer's home or office",
+        "B": "The seller sends the products to the buyer",
         "C": "The buyer meets the seller in person",
         "D": "The seller delivers the product immediately"
       },
@@ -535,10 +535,10 @@
       "options": {
         "A": "Products are always cheaper",
         "B": "Products are always better quality",
-        "C": "People can shop without leaving their homes",
-        "D": "Sellers don't need to provide receipts"
+        "C": "Sellers don't need to provide receipts",
+        "D": "People can shop without leaving their homes"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -546,7 +546,7 @@
       "question": "What do buyers do in a traditional market before asking the price?",
       "options": {
         "A": "They pay with cash or card",
-        "B": "They walk around and look at different items",
+        "B": "They look at different items",
         "C": "They ask for a receipt",
         "D": "They negotiate with sellers"
       },
@@ -557,10 +557,10 @@
       "id": 47,
       "question": "Based on the passage, what might a food market sell?",
       "options": {
-        "A": "Clothes and toys",
-        "B": "Electronics",
+        "A": "Clothes, toys, and presents",
+        "B": "Mobile phones, computers, and chargers",
         "C": "Fruits, vegetables, and meat",
-        "D": "Online products"
+        "D": "Online and offline products"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -569,10 +569,10 @@
       "id": 48,
       "question": "What do sellers in online markets provide to help buyers decide what to buy?",
       "options": {
-        "A": "Cash and change",
-        "B": "Tables and shops",
-        "C": "Pictures and descriptions of their products",
-        "D": "Paper receipts"
+        "A": "Cash and credit card balance",
+        "B": "Tables and sheets with prices",
+        "C": "Pictures and descriptions",
+        "D": "Paper receipts sent by post"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -581,10 +581,10 @@
       "id": 49,
       "question": "According to paragraph 3, what might a seller give if a customer pays with cash?",
       "options": {
-        "A": "A credit card",
+        "A": "Cashback",
         "B": "Change",
-        "C": "A digital payment",
-        "D": "An online market"
+        "C": "Gift card",
+        "D": "Credit card"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -593,10 +593,10 @@
       "id": 50,
       "question": "What is the main topic of this passage?",
       "options": {
-        "A": "Different types of products",
-        "B": "How to become a seller",
+        "A": "Different types of products and their prices",
+        "B": "How to become a seller on an online market",
         "C": "How markets work for buying and selling",
-        "D": "The history of markets"
+        "D": "The history of online markets"
       },
       "correct_answer": "C",
       "category": "Reading"
