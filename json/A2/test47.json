@@ -3,12 +3,12 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which form of the verb is correct? She ___ to the store yesterday.",
+      "question": "Which form of the verb is correct? The teacher ___ the test's level.",
       "options": {
-        "A": "go",
-        "B": "went",
-        "C": "goes",
-        "D": "going"
+        "A": "lowed",
+        "B": "lowered",
+        "C": "slowed",
+        "D": "slowered"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -17,34 +17,34 @@
       "id": 2,
       "question": "Choose the correct sentence.",
       "options": {
-        "A": "They doesn't like coffee.",
-        "B": "They don't likes coffee.",
-        "C": "They don't like coffee.",
-        "D": "They doesn't likes coffee."
+        "A": "They don't like to skiing.",
+        "B": "They don't like to ski.",
+        "C": "They don't like skiing.",
+        "D": "They don't like ski."
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 3,
-      "question": "Select the correct preposition. The book is ___ the table.",
+      "question": "Select the correct verb. The lamp ___ slightly.",
       "options": {
-        "A": "on",
-        "B": "at",
-        "C": "of",
-        "D": "by"
+        "A": "glowed",
+        "B": "glew",
+        "C": "glued",
+        "D": "glown"
       },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 4,
-      "question": "Which is the correct plural form? One child, two ___.",
+      "question": "Which is the correct plural form of 'wife'?",
       "options": {
-        "A": "childs",
-        "B": "childes",
-        "C": "childrens",
-        "D": "children"
+        "A": "wifes",
+        "B": "weef",
+        "C": "wifen",
+        "D": "wives"
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -65,10 +65,10 @@
       "id": 6,
       "question": "Select the correct possessive form. This is ___ car.",
       "options": {
-        "A": "John",
-        "B": "Johns",
-        "C": "John's",
-        "D": "Johns'"
+        "A": "Joneses",
+        "B": "Jones",
+        "C": "Jones's",
+        "D": "Jones'"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -77,22 +77,22 @@
       "id": 7,
       "question": "Which sentence has the correct word order?",
       "options": {
-        "A": "Always she goes to school by bus.",
-        "B": "She goes always to school by bus.",
-        "C": "She goes to school always by bus.",
-        "D": "She always goes to school by bus."
+        "A": "Never I have seen such a thing.",
+        "B": "I have never seen such a thing.",
+        "C": "I never have seen such a thing.",
+        "D": "Have I never seen such a thing."
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 8,
-      "question": "Choose the correct comparative form. This building is ___ than that one.",
+      "question": "Choose the correct comparative form. The Pacific Ocean is ___ than the Atlantic one.",
       "options": {
-        "A": "tall",
-        "B": "taller",
-        "C": "more tall",
-        "D": "tallest"
+        "A": "as big",
+        "B": "bigger",
+        "C": "more big",
+        "D": "the biggest"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -101,8 +101,8 @@
       "id": 9,
       "question": "Which verb form is correct? She ___ for two hours.",
       "options": {
-        "A": "sleep",
-        "B": "sleeping",
+        "A": "was sleeping",
+        "B": "is sleeping",
         "C": "has been sleeping",
         "D": "sleeps"
       },
@@ -111,48 +111,48 @@
     },
     {
       "id": 10,
-      "question": "Select the correct form. If it rains tomorrow, I ___ at home.",
+      "question": "Select the correct form. I ___ a snack if I have enough money",
       "options": {
-        "A": "stay",
-        "B": "will stay",
-        "C": "staying",
-        "D": "stayed"
+        "A": "buy",
+        "B": "will buy",
+        "C": "am buying",
+        "D": "have bought"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 11,
-      "question": "Which question word is correct? ___ is your birthday?",
+      "question": "Which question word is correct? ___ date is your birthday?",
       "options": {
         "A": "What",
         "B": "When",
         "C": "Where",
         "D": "Who"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 12,
       "question": "Choose the correct past tense form. She ___ to music yesterday.",
       "options": {
-        "A": "listen",
-        "B": "listening",
+        "A": "heard",
+        "B": "danced",
         "C": "listened",
-        "D": "listens"
+        "D": "recorded"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 13,
-      "question": "Select the correct modal verb. You ___ drink water every day.",
+      "question": "Select the correct modal verb. You ___ drink coffee more than twice a day.",
       "options": {
-        "A": "must",
-        "B": "should",
-        "C": "can",
-        "D": "might"
+        "A": "mustn't",
+        "B": "shouldn't",
+        "C": "can't",
+        "D": "might not"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -207,36 +207,36 @@
     },
     {
       "id": 18,
-      "question": "Choose the correct response to the question: 'How are you?'",
+      "question": "Choose the correct option:",
       "options": {
-        "A": "I'm 25 years old.",
-        "B": "I'm from Spain.",
-        "C": "I'm fine, thank you.",
-        "D": "I'm a teacher."
+        "A": "The train departed at nine past quarter.",
+        "B": "The train arrives at quarter nine.",
+        "C": "The train departs at quarter past nine.",
+        "D": "The train arrived at two quarters past nine."
       },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 19,
-      "question": "Select the correct phrase. She's ___ a blue shirt today.",
+      "question": "Select the correct verb. She's ___ a blue shirt today.",
       "options": {
         "A": "wearing",
-        "B": "carries",
-        "C": "taking",
-        "D": "having"
+        "B": "waving",
+        "C": "wareing",
+        "D": "waiting"
       },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 20,
-      "question": "Choose the correct collocation. Let's ___ a decision.",
+      "question": "Choose the correct option. Let's ___ about this later.",
       "options": {
-        "A": "do",
-        "B": "make",
-        "C": "take",
-        "D": "have"
+        "A": "tell",
+        "B": "talk",
+        "C": "speech",
+        "D": "answer"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -245,48 +245,48 @@
       "id": 21,
       "question": "Select the correct expression to offer something.",
       "options": {
-        "A": "Would you like some tea?",
+        "A": "Will you like some tea?",
         "B": "Do you like some tea?",
         "C": "Are you like some tea?",
-        "D": "Will you like some tea?"
+        "D": "Would you like some tea?"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 22,
       "question": "Choose the correct phrasal verb. Can you ___ the children while I'm out?",
       "options": {
-        "A": "look at",
-        "B": "look for",
+        "A": "help after",
+        "B": "assist after",
         "C": "look after",
-        "D": "look up"
+        "D": "aid after"
       },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 23,
-      "question": "Select the most appropriate response to 'Thank you.'",
+      "question": "Select the most appropriate response to 'Where have you been?'",
       "options": {
-        "A": "Thank you too.",
-        "B": "You're welcome.",
-        "C": "Please.",
-        "D": "Good day."
+        "A": "I am at the station.",
+        "B": "I missed my train.",
+        "C": "I will be late.",
+        "D": "I should've moved faster."
       },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 24,
-      "question": "Choose the correct time expression. I'll see you ___ Monday.",
+      "question": "Choose the correct time expression. I'll see you ___ next week.",
       "options": {
         "A": "in",
         "B": "at",
         "C": "on",
-        "D": "during"
+        "D": "-"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -294,9 +294,9 @@
       "question": "Select the correct expression to ask for permission.",
       "options": {
         "A": "Can I open the window?",
-        "B": "I can open the window?",
+        "B": "Should I open the window?",
         "C": "Will I open the window?",
-        "D": "May I can open the window?"
+        "D": "May the window be opened?"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -305,34 +305,34 @@
       "id": 26,
       "question": "What does a doctor do?",
       "options": {
-        "A": "Teaches students",
-        "B": "Fixes cars",
+        "A": "Teaches rich students",
+        "B": "Fixes broken cars",
         "C": "Treats sick people",
-        "D": "Sells food"
+        "D": "Sells healthy food"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 27,
-      "question": "Which is the opposite of 'good'?",
+      "question": "Which is the opposite of 'light'?",
       "options": {
-        "A": "Bad",
-        "B": "Nice",
-        "C": "Happy",
-        "D": "Fast"
+        "A": "Dart",
+        "B": "Damp",
+        "C": "Blight",
+        "D": "Dark"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 28,
-      "question": "What does it mean to 'promise' something?",
+      "question": "What does it mean to 'say you will definitely do something'?",
       "options": {
-        "A": "To forget",
-        "B": "To say you will definitely do something",
-        "C": "To break something",
-        "D": "To buy something"
+        "A": "provide",
+        "B": "promise",
+        "C": "promote",
+        "D": "proclaim"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -341,9 +341,9 @@
       "id": 29,
       "question": "Which of these is NOT an animal?",
       "options": {
-        "A": "Dog",
-        "B": "Cat",
-        "C": "Tree",
+        "A": "Cheetah",
+        "B": "Albatross",
+        "C": "Eggplant",
         "D": "Elephant"
       },
       "correct_answer": "C",
@@ -351,26 +351,26 @@
     },
     {
       "id": 30,
-      "question": "What happens when there is rain?",
+      "question": "What happens when there is storm?",
       "options": {
-        "A": "Water falls from the sky",
+        "A": "Fog covers the ground",
         "B": "The sun shines brightly",
         "C": "Snow covers the ground",
         "D": "Wind blows very hard"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 31,
-      "question": "Where do people live?",
+      "question": "Where don't people live?",
       "options": {
-        "A": "In cars",
-        "B": "In houses",
-        "C": "In shops",
-        "D": "In parks"
+        "A": "In townhouses",
+        "B": "In apartments",
+        "C": "In trousers",
+        "D": "In houses"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -379,7 +379,7 @@
       "options": {
         "A": "The day before today",
         "B": "The day after today",
-        "C": "The same as today",
+        "C": "The day in a week from now",
         "D": "Two days after today"
       },
       "correct_answer": "B",
@@ -391,8 +391,8 @@
       "options": {
         "A": "A female parent",
         "B": "A male parent",
-        "C": "A child",
-        "D": "A friend"
+        "C": "A female child",
+        "D": "A female grandparent"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -402,7 +402,7 @@
       "question": "When do most people have lunch?",
       "options": {
         "A": "In the morning",
-        "B": "In the middle of the day",
+        "B": "In the afternoon",
         "C": "In the evening",
         "D": "At night"
       },
@@ -413,9 +413,9 @@
       "id": 35,
       "question": "When is tonight?",
       "options": {
-        "A": "During this day",
-        "B": "During this evening and night",
-        "C": "Tomorrow morning",
+        "A": "This day",
+        "B": "This evening",
+        "C": "Tomorrow night",
         "D": "Yesterday evening"
       },
       "correct_answer": "B",
@@ -425,24 +425,24 @@
       "id": 36,
       "question": "If something is interesting, it:",
       "options": {
-        "A": "Makes you feel happy",
-        "B": "Makes you feel sad",
-        "C": "Gets your attention in a positive way",
-        "D": "Makes you feel angry"
+        "A": "Gets a lot of interaction",
+        "B": "Gets important information",
+        "C": "Gets your attention",
+        "D": "Gets apologies from everyone"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 37,
-      "question": "What do you do with a shirt?",
+      "question": "What can't you do with a shirt?",
       "options": {
-        "A": "Eat it",
+        "A": "Wash it",
         "B": "Wear it",
-        "C": "Read it",
-        "D": "Drink it"
+        "C": "Tear it",
+        "D": "Melt it"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -450,21 +450,21 @@
       "question": "Which part of the body is the hand?",
       "options": {
         "A": "The part at the end of the arm with fingers",
-        "B": "The part at the end of the leg",
-        "C": "The part in the middle of the face",
-        "D": "The part on top of the head"
+        "B": "The part at the end of the leg with fingers",
+        "C": "The part in the middle of the face with nose",
+        "D": "The part on top of the head with hair"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 39,
-      "question": "If someone is kind, they are:",
+      "question": "If someone is friendly and nice to others, they are:",
       "options": {
-        "A": "Angry",
-        "B": "Friendly and nice to others",
-        "C": "Lazy",
-        "D": "Sad"
+        "A": "King",
+        "B": "Kind",
+        "C": "Keen",
+        "D": "Kin"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -473,10 +473,10 @@
       "id": 40,
       "question": "What is a video?",
       "options": {
-        "A": "A type of food",
-        "B": "A type of clothing",
-        "C": "Moving pictures you can watch",
-        "D": "A place to visit"
+        "A": "Still pictures",
+        "B": "Colorful drawings",
+        "C": "Moving pictures",
+        "D": "Sweet dreams"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -497,10 +497,10 @@
       "id": 42,
       "question": "Based on the passage, why do many people like to visit islands?",
       "options": {
-        "A": "Because they are cheap",
+        "A": "Because they are cheap and affordable",
         "B": "Because they are beautiful and quiet",
-        "C": "Because they have big cities",
-        "D": "Because they have many shops"
+        "C": "Because they have big cities and villages",
+        "D": "Because they have many unique shops and markets"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -509,8 +509,8 @@
       "id": 43,
       "question": "According to paragraph 2, how are oceanic islands formed?",
       "options": {
-        "A": "By rivers",
-        "B": "By people",
+        "A": "By rivers over a long period of time",
+        "B": "By people from surrounding islands",
         "C": "By volcanoes under the ocean",
         "D": "By connecting to the mainland"
       },
@@ -521,10 +521,10 @@
       "id": 44,
       "question": "Based on paragraph 3, what jobs do many island people have?",
       "options": {
-        "A": "Teachers and doctors",
-        "B": "Farmers and builders",
+        "A": "University teachers and hospital doctors",
+        "B": "Farmers and construction workers",
         "C": "Fishermen and tourism workers",
-        "D": "Pilots and drivers"
+        "D": "Pilots and truck drivers"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -533,9 +533,9 @@
       "id": 45,
       "question": "According to paragraph 3, island communities often have their own:",
       "options": {
-        "A": "languages",
-        "B": "currencies",
-        "C": "religions",
+        "A": "languages and traditions",
+        "B": "currencies and traditions",
+        "C": "religions and traditions",
         "D": "cultures and traditions"
       },
       "correct_answer": "D",
@@ -545,10 +545,10 @@
       "id": 46,
       "question": "Based on paragraph 4, what is a danger to many low islands?",
       "options": {
-        "A": "Volcanoes",
+        "A": "Active volcanoes",
         "B": "Rising sea levels",
         "C": "Too many tourists",
-        "D": "Strong winds"
+        "D": "Strong winds and tides"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -557,10 +557,10 @@
       "id": 47,
       "question": "According to the passage, what might happen to some small islands in the future?",
       "options": {
-        "A": "They might become bigger",
+        "A": "They might connect together and become bigger",
         "B": "They might join the mainland",
         "C": "They might disappear under the water",
-        "D": "They might become too crowded"
+        "D": "They might become too crowded with tourists"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -581,10 +581,10 @@
       "id": 49,
       "question": "Based on the passage, why might island people need to bring food from the mainland?",
       "options": {
-        "A": "Because island food is expensive",
+        "A": "Because island food is more expensive than on mainland",
         "B": "Because they cannot grow enough food on the island",
-        "C": "Because mainland food tastes better",
-        "D": "Because they do not know how to cook"
+        "C": "Because mainland food is grown in better conditions",
+        "D": "Because they do not know how to grow food"
       },
       "correct_answer": "B",
       "category": "Reading"
