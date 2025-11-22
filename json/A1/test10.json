@@ -5,7 +5,7 @@
       "id": 1,
       "question": "Which word is a verb?",
       "options": {
-        "A": "Table",
+        "A": "Pencil",
         "B": "Book",
         "C": "Walk",
         "D": "Home"
@@ -15,12 +15,12 @@
     },
     {
       "id": 2,
-      "question": "Choose the correct sentence.",
+      "question": "Choose the incorrect sentence.",
       "options": {
-        "A": "She go to school every day.",
-        "B": "She goes to school every day.",
-        "C": "She going to school every day.",
-        "D": "She to school go every day."
+        "A": "She face a problem.",
+        "B": "They done the task.",
+        "C": "He has not finished yet.",
+        "D": "We are going to go shopping."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -30,7 +30,7 @@
       "question": "What is the past tense of 'eat'?",
       "options": {
         "A": "Eated",
-        "B": "Eating",
+        "B": "Eight",
         "C": "Ate",
         "D": "Eat"
       },
@@ -51,12 +51,12 @@
     },
     {
       "id": 5,
-      "question": "Choose the correct plural form of 'child'.",
+      "question": "Choose the correct plural form of 'cafe'.",
       "options": {
-        "A": "Childs",
-        "B": "Childen",
-        "C": "Childs'",
-        "D": "Children"
+        "A": "Caffes",
+        "B": "Caffees",
+        "C": "Cafee'",
+        "D": "Cafes"
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -65,7 +65,7 @@
       "id": 6,
       "question": "Which sentence is correct?",
       "options": {
-        "A": "I have two sister.",
+        "A": "I have two sisters'.",
         "B": "I has two sisters.",
         "C": "I have two sisters.",
         "D": "I having two sisters."
@@ -80,7 +80,7 @@
         "A": "The dog's tail",
         "B": "The dogs tail",
         "C": "The dog tail",
-        "D": "The tail of dog"
+        "D": "The tail of a dog"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -90,23 +90,23 @@
       "question": "Which is the correct order of adjectives?",
       "options": {
         "A": "A red big ball",
-        "B": "A big red ball",
-        "C": "A ball big red",
+        "B": "A ball big red",
+        "C": "A big red ball",
         "D": "A ball red big"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 9,
       "question": "Choose the correct negative form.",
       "options": {
-        "A": "I not like apples.",
-        "B": "I don't like apples.",
+        "A": "I have not like apples.",
+        "B": "I like not apples.",
         "C": "I no like apples.",
-        "D": "I like not apples."
+        "D": "I don't like apples."
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -125,34 +125,34 @@
       "id": 11,
       "question": "Select the sentence with the correct word order.",
       "options": {
-        "A": "She always is happy.",
-        "B": "She is always happy.",
+        "A": "She is always happy.",
+        "B": "She always is happy.",
         "C": "Always she is happy.",
         "D": "She is happy always."
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 12,
       "question": "Choose the correct preposition.",
       "options": {
-        "A": "The book is in the table.",
-        "B": "The book is on the table.",
-        "C": "The book is at the table.",
-        "D": "The book is by the table."
+        "A": "The bird is to the sky.",
+        "B": "The bird is at the sky.",
+        "C": "The bird is on the sky.",
+        "D": "The bird is in the sky."
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 13,
       "question": "Which sentence uses the correct form of 'be'?",
       "options": {
-        "A": "They is happy.",
-        "B": "They am happy.",
-        "C": "They are happy.",
-        "D": "They be happy."
+        "A": "They is very good people.",
+        "B": "They am very good people.",
+        "C": "They are very good people.",
+        "D": "They be very good people."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -186,7 +186,7 @@
       "question": "Complete the sentence: 'Please turn off the lights when you ___ the room.'",
       "options": {
         "A": "leave",
-        "B": "left",
+        "B": "live",
         "C": "leaving",
         "D": "will leave"
       },
@@ -195,26 +195,26 @@
     },
     {
       "id": 17,
-      "question": "Choose the correct response: 'How are you?' '___'",
+      "question": "Choose the correct response: 'What is the time now?'",
       "options": {
-        "A": "I am 25 years old.",
-        "B": "I'm fine, thank you.",
-        "C": "I'm John.",
-        "D": "I'm at school."
+        "A": "There is ten past five.",
+        "B": "It has ten past five.",
+        "C": "It is ten past five.",
+        "D": "It was ten past five."
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 18,
-      "question": "Select the best word to complete the sentence: 'He ___ breakfast every morning at 7 AM.'",
+      "question": "Select the incorrect word to complete the sentence: 'He ___ breakfast every morning at 7 AM.'",
       "options": {
-        "A": "does",
-        "B": "tries",
+        "A": "prepares",
+        "B": "cooks",
         "C": "has",
-        "D": "takes"
+        "D": "does"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -245,7 +245,7 @@
       "id": 21,
       "question": "Select the correct sentence:",
       "options": {
-        "A": "I live in London since 2010.",
+        "A": "I was living in London since 2010.",
         "B": "I am living in London since 2010.",
         "C": "I have lived in London since 2010.",
         "D": "I living in London since 2010."
@@ -255,11 +255,11 @@
     },
     {
       "id": 22,
-      "question": "Choose the best response: 'Would you like some coffee?' '___'",
+      "question": "Choose the best response: 'Would you go for a walk?'",
       "options": {
         "A": "Yes, I like.",
         "B": "Yes, I please.",
-        "C": "Yes, I do.",
+        "C": "Yes, I will.",
         "D": "Yes, I would."
       },
       "correct_answer": "D",
@@ -281,12 +281,12 @@
       "id": 24,
       "question": "Choose the correct phrase: 'I need ___ some new clothes.'",
       "options": {
-        "A": "buy",
-        "B": "to buy",
-        "C": "buying",
-        "D": "buys"
+        "A": "to bye",
+        "B": "to be",
+        "C": "to by",
+        "D": "to buy"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -306,9 +306,9 @@
       "question": "What is the meaning of 'base' in this sentence: 'The military base is near the city.'?",
       "options": {
         "A": "A place where soldiers live",
-        "B": "The bottom part",
-        "C": "A starting point",
-        "D": "A foundation"
+        "B": "A place where baseball is played",
+        "C": "A starting point of soldiers",
+        "D": "A foundation of a new building"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -327,7 +327,7 @@
     },
     {
       "id": 28,
-      "question": "What does 'minute' mean in this sentence: 'Please wait a minute.'?",
+      "question": "What does 'minute' mean in this sentence: 'Please wait a minute'?",
       "options": {
         "A": "Very small",
         "B": "A short period of time",
@@ -341,10 +341,10 @@
       "id": 29,
       "question": "Select the correct meaning of 'mostly' in this sentence: 'The students are mostly from Asia.'",
       "options": {
-        "A": "All",
-        "B": "Many",
-        "C": "Some",
-        "D": "The majority"
+        "A": "Everyone",
+        "B": "Many of them",
+        "C": "Some of them",
+        "D": "Almost all"
       },
       "correct_answer": "D",
       "category": "Vocabulary"
@@ -379,7 +379,7 @@
       "options": {
         "A": "A place to wash hands",
         "B": "A room with a bath",
-        "C": "A place to sleep",
+        "C": "A place to toil",
         "D": "A bathroom facility"
       },
       "correct_answer": "D",
@@ -387,12 +387,12 @@
     },
     {
       "id": 33,
-      "question": "What does 'wish' mean in this sentence: 'I wish you good luck.'?",
+      "question": "What does 'wish' mean in this sentence: 'I wish you good luck'?",
       "options": {
         "A": "To want something to happen",
-        "B": "To give something",
-        "C": "To help someone",
-        "D": "To need something"
+        "B": "To give something away",
+        "C": "To help someone with something",
+        "D": "To need something to happen"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -402,7 +402,7 @@
       "question": "Choose the correct meaning of 'huge' in this sentence: 'They live in a huge house.'",
       "options": {
         "A": "Beautiful",
-        "B": "Old",
+        "B": "Very old",
         "C": "Very big",
         "D": "Expensive"
       },
@@ -411,24 +411,24 @@
     },
     {
       "id": 35,
-      "question": "What does 'connect' mean?",
+      "question": "What does 'to join or link things' mean?",
       "options": {
-        "A": "To join or link things",
-        "B": "To break something",
-        "C": "To find something",
-        "D": "To lose something"
+        "A": "To contact",
+        "B": "To contract",
+        "C": "To connect",
+        "D": "To contrast"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 36,
-      "question": "What is a 'club'?",
+      "question": "What is a 'group of people'?",
       "options": {
-        "A": "A type of food",
-        "B": "A group of people",
-        "C": "A kind of shoe",
-        "D": "A school subject"
+        "A": "A clue",
+        "B": "A club",
+        "C": "A cab",
+        "D": "A bulb"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -461,22 +461,22 @@
       "id": 39,
       "question": "Choose the correct meaning of 'thick' in this sentence: 'This is a thick book.'",
       "options": {
-        "A": "Heavy",
-        "B": "Old",
+        "A": "Makes you think",
+        "B": "Not new",
         "C": "Not thin",
-        "D": "Difficult"
+        "D": "Hard to read"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 40,
-      "question": "What is a 'road'?",
+      "question": "What is a 'place where cars drive'?",
       "options": {
-        "A": "A place where cars drive",
-        "B": "A building",
-        "C": "A type of vehicle",
-        "D": "A person who drives"
+        "A": "A highway",
+        "B": "A takeaway",
+        "C": "A high place",
+        "D": "A high palace"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -486,11 +486,11 @@
       "question": "According to paragraph 1, what do students who join sports teams do?",
       "options": {
         "A": "They study after school.",
-        "B": "They practice after school.",
+        "B": "They teach other students.",
         "C": "They play only basketball.",
-        "D": "They teach other students."
+        "D": "They practice after school."
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -499,10 +499,10 @@
       "options": {
         "A": "By eating healthy food",
         "B": "By sleeping more than 8 hours",
-        "C": "By running, jumping, and playing",
-        "D": "By visiting doctors frequently"
+        "C": "By visiting doctors frequently",
+        "D": "By running, jumping, and playing"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -510,11 +510,11 @@
       "question": "According to paragraph 2, what do students learn when they are part of a team?",
       "options": {
         "A": "To be alone",
-        "B": "To help each other",
-        "C": "To be the best player",
-        "D": "To win all games"
+        "B": "To win all games",
+        "C": "To help each other",
+        "D": "To be the best player"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Reading"
     },
     {
@@ -533,22 +533,22 @@
       "id": 45,
       "question": "According to paragraph 3, what helps students get better at sports?",
       "options": {
-        "A": "Natural talent",
-        "B": "Hard work",
+        "A": "Hard work",
+        "B": "Good coaches",
         "C": "Good equipment",
-        "D": "Good coaches"
+        "D": "Natural talent"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Reading"
     },
     {
       "id": 46,
-      "question": "Based on paragraph 4, who comes to watch school games?",
+      "question": "Based on paragraph 4, who might NOT come to watch school games?",
       "options": {
-        "A": "Only students",
-        "B": "Only teachers",
-        "C": "Only parents",
-        "D": "Students, teachers, and parents"
+        "A": "Students",
+        "B": "Teachers",
+        "C": "Parents",
+        "D": "Tutors"
       },
       "correct_answer": "D",
       "category": "Reading"
@@ -571,10 +571,10 @@
       "options": {
         "A": "Sports are fun to play.",
         "B": "Schools need more sports teams.",
-        "C": "Sports teams benefit students and schools.",
-        "D": "All students should play sports."
+        "C": "All students should play sports.",
+        "D": "Sports teams benefit students and schools."
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -582,7 +582,7 @@
       "question": "Which word in paragraph 3 is described as 'important'?",
       "options": {
         "A": "skills",
-        "B": "manage",
+        "B": "management",
         "C": "practice",
         "D": "life"
       },
