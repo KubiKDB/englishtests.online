@@ -5,10 +5,10 @@
       "id": 1,
       "question": "Which sentence is grammatically correct?",
       "options": {
-        "A": "She don't like coffee.",
+        "A": "She can't like coffee.",
         "B": "She doesn't likes coffee.",
-        "C": "She doesn't like coffee.",
-        "D": "She not like coffee."
+        "C": "She couldn't like coffee.",
+        "D": "She never like coffee."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -20,19 +20,19 @@
         "A": "I have three sister.",
         "B": "I have three sisters.",
         "C": "I have a three sisters.",
-        "D": "I three sisters have."
+        "D": "I have three sisters'."
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 3,
-      "question": "Select the correct form of the verb:",
+      "question": "Select the incorrect sentence:",
       "options": {
-        "A": "They be happy.",
-        "B": "They is happy.",
-        "C": "They are happy.",
-        "D": "They am happy."
+        "A": "They are the funniest people I know.",
+        "B": "They could the funniest people I know.",
+        "C": "They would the funniest people I know.",
+        "D": "They there are the funniest people I know."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -41,22 +41,22 @@
       "id": 4,
       "question": "Which sentence has the correct word order?",
       "options": {
-        "A": "Where you are going?",
-        "B": "Where are going you?",
-        "C": "Where are you going?",
-        "D": "Where going are you?"
+        "A": "Where you are going after school?",
+        "B": "Where after school are you going?",
+        "C": "Where are you going after school?",
+        "D": "Where going are you after school?"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 5,
-      "question": "Choose the correct past tense form:",
+      "question": "Choose the incorrect past tense form:",
       "options": {
-        "A": "I goed to school yesterday.",
-        "B": "I gone to school yesterday.",
-        "C": "I went to school yesterday.",
-        "D": "I go to school yesterday."
+        "A": "I ate a sandwich yesterday.",
+        "B": "I flew to Cancun last year.",
+        "C": "I  have wrote a letter to my friend.",
+        "D": "I have drunk mango juice twice in my life."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -65,7 +65,7 @@
       "id": 6,
       "question": "Select the correct article:",
       "options": {
-        "A": "I want ___ apple.",
+        "A": "I want apple.",
         "B": "I want a apple.",
         "C": "I want an apple.",
         "D": "I want the apple."
@@ -80,14 +80,14 @@
         "A": "He have a dog.",
         "B": "He has a dog.",
         "C": "He haves a dog.",
-        "D": "He having a dog."
+        "D": "He halfs a dog."
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 8,
-      "question": "Choose the correct sentence with 'and':",
+      "question": "Choose the correct sentence:",
       "options": {
         "A": "I like apples and I like bananas.",
         "B": "I like apples and like bananas.",
@@ -114,7 +114,7 @@
       "question": "Which sentence uses the present continuous correctly?",
       "options": {
         "A": "I am eat dinner now.",
-        "B": "I eating dinner now.",
+        "B": "I was eating dinner now.",
         "C": "I am eating dinner now.",
         "D": "I eat dinner now."
       },
@@ -128,7 +128,7 @@
         "A": "That is Mary book.",
         "B": "That is Marys book.",
         "C": "That is Mary's book.",
-        "D": "That is the book for Mary."
+        "D": "That is of Mary book."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -137,10 +137,10 @@
       "id": 12,
       "question": "Select the correct plural form:",
       "options": {
-        "A": "Two childs",
-        "B": "Two childrens",
-        "C": "Two children",
-        "D": "Two child"
+        "A": "Two halfs",
+        "B": "Two halfes",
+        "C": "Two halves",
+        "D": "Two half"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -171,12 +171,12 @@
     },
     {
       "id": 15,
-      "question": "Select the correct preposition:",
+      "question": "Select the correct sentence:",
       "options": {
-        "A": "The book is in the table.",
-        "B": "The book is at the table.",
-        "C": "The book is under the table.",
-        "D": "The book is above the table."
+        "A": "The bag is to heavy.",
+        "B": "The bag is two heavy.",
+        "C": "The bag is too heavy.",
+        "D": "The bag is twice heavy."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -195,12 +195,12 @@
     },
     {
       "id": 17,
-      "question": "Select the correct response to the question 'How are you?':",
+      "question": "Select the correct response to the question 'How was your day at school?':",
       "options": {
-        "A": "I am 25 years old.",
-        "B": "I am from Spain.",
-        "C": "I am fine, thank you.",
-        "D": "My name is John."
+        "A": "Thanks, it was goose.",
+        "B": "Thanks, it was goods.",
+        "C": "Thanks, it was good.",
+        "D": "Thanks, it was gods."
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -210,8 +210,8 @@
       "question": "Choose the correct phrase to ask for someone's age:",
       "options": {
         "A": "What old are you?",
-        "B": "How old you are?",
-        "C": "How are you old?",
+        "B": "How many old are you?",
+        "C": "How much old are you?",
         "D": "How old are you?"
       },
       "correct_answer": "D",
@@ -221,10 +221,10 @@
       "id": 19,
       "question": "Select the correct response to 'Thank you':",
       "options": {
-        "A": "Please.",
-        "B": "You're welcome.",
-        "C": "Good morning.",
-        "D": "Goodbye."
+        "A": "Pleased.",
+        "B": "My pleasure.",
+        "C": "Good to hear.",
+        "D": "Good for you."
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -233,10 +233,10 @@
       "id": 20,
       "question": "Choose the correct way to introduce yourself:",
       "options": {
-        "A": "I has John.",
-        "B": "My am John.",
-        "C": "My name is John.",
-        "D": "I name John."
+        "A": "Mine name Jorge.",
+        "B": "My is Jorge.",
+        "C": "My name is Jorge.",
+        "D": "I am a name of Jorge."
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -281,10 +281,10 @@
       "id": 24,
       "question": "Choose the correct phrase for saying goodbye:",
       "options": {
-        "A": "Good night.",
-        "B": "Hello.",
+        "A": "Good to go.",
+        "B": "Seen you lately.",
         "C": "See you later.",
-        "D": "Good morning."
+        "D": "Good buy."
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -303,12 +303,12 @@
     },
     {
       "id": 26,
-      "question": "What is a 'chart'?",
+      "question": "What is a 'diagram'?",
       "options": {
-        "A": "A type of food",
-        "B": "A diagram",
-        "C": "A small talk",
-        "D": "A type of clothing"
+        "A": "A char",
+        "B": "A chart",
+        "C": "A czar",
+        "D": "A charter"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -327,36 +327,36 @@
     },
     {
       "id": 28,
-      "question": "What does it mean to 'worry'?",
+      "question": "What does it mean to 'feel anxious'?",
       "options": {
-        "A": "To be very happy",
-        "B": "To be very tired",
-        "C": "To feel anxious",
-        "D": "To sleep well"
+        "A": "To vary",
+        "B": "To warry",
+        "C": "To worry",
+        "D": "To wave"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 29,
-      "question": "What is a 'shop'?",
+      "question": "What is a 'place where you can buy things'?",
       "options": {
-        "A": "A place where you can buy things",
-        "B": "A place where you sleep",
-        "C": "A place where you can get a car",
-        "D": "A place where you can play"
+        "A": "A shop",
+        "B": "A ship",
+        "C": "A sheep",
+        "D": "A sheet"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 30,
-      "question": "What is a 'reward'?",
+      "question": "What is a 'prize for success'?",
       "options": {
-        "A": "A prize for success",
-        "B": "A type of food",
-        "C": "A type of animal",
-        "D": "A place to live"
+        "A": "A reward",
+        "B": "A redraw",
+        "C": "A warder",
+        "D": "A review"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -367,44 +367,44 @@
       "options": {
         "A": "More than one",
         "B": "Only one",
-        "C": "Very big",
-        "D": "Very small"
+        "C": "A song",
+        "D": "A singer"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 32,
-      "question": "What does 'exactly' mean?",
+      "question": "What does 'precise' mean?",
       "options": {
-        "A": "Right",
-        "B": "Wrong",
-        "C": "Fast",
-        "D": "Big"
+        "A": "Enriched",
+        "B": "Encircled",
+        "C": "Equal",
+        "D": "Exact"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 33,
-      "question": "What does it mean to 'perform'?",
+      "question": "What does it mean to 'show'?",
       "options": {
-        "A": "To cook food",
-        "B": "To do something",
-        "C": "To go to sleep",
-        "D": "To buy something"
+        "A": "To preset",
+        "B": "To reserve",
+        "C": "To present",
+        "D": "To preserve"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 34,
       "question": "What is a 'chicken'?",
       "options": {
-        "A": "A type of vegetable",
+        "A": "A type of fish",
         "B": "A type of bird",
-        "C": "A type of car",
-        "D": "A type of furniture"
+        "C": "A type of egg",
+        "D": "A type of worm"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -415,8 +415,8 @@
       "options": {
         "A": "The color of snow",
         "B": "The color of grass",
-        "C": "The darkest color",
-        "D": "The color of the sky"
+        "C": "The color of soil",
+        "D": "The color of skies"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -425,7 +425,7 @@
       "id": 36,
       "question": "What is 'sand'?",
       "options": {
-        "A": "Grains of glass",
+        "A": "Grains of quartz",
         "B": "Grains of wheat",
         "C": "Grains of grape",
         "D": "Grains of rice"
@@ -437,7 +437,7 @@
       "id": 37,
       "question": "What is the opposite of 'hot'?",
       "options": {
-        "A": "Small",
+        "A": "Cool",
         "B": "Fast",
         "C": "Cold",
         "D": "Happy"
@@ -447,12 +447,12 @@
     },
     {
       "id": 38,
-      "question": "What is a 'phase'?",
+      "question": "What is a 'stage in a process'?",
       "options": {
-        "A": "A stage in a process",
-        "B": "A type of sentence",
-        "C": "A place in a shop",
-        "D": "A kind of a savanna animal"
+        "A": "A praise",
+        "B": "A phrase",
+        "C": "A phase",
+        "D": "A haze"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -461,10 +461,10 @@
       "id": 39,
       "question": "What is a 'number'?",
       "options": {
-        "A": "A type of food",
+        "A": "A type of figure",
         "B": "A type of value",
-        "C": "A type of clothing",
-        "D": "A place to live"
+        "C": "A type of letter",
+        "D": "A type of word"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -488,7 +488,7 @@
         "A": "More than 50 centimeters",
         "B": "Exactly 25 centimeters",
         "C": "Less than 25 centimeters",
-        "D": "No rain at all"
+        "D": "More than 25 centimeters"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -524,7 +524,7 @@
         "A": "A type of cloud in a desert",
         "B": "A very light rain over a mountain",
         "C": "A dry area on the other side of a mountain",
-        "D": "A shadow caused by rain"
+        "D": "A shadow caused by rain clouds floating over the mountain"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -560,7 +560,7 @@
         "A": "At the equator",
         "B": "At the North and South Poles",
         "C": "Around 30 degrees north and south of the equator",
-        "D": "Only in Africa"
+        "D": "Only in the Nothern and Southern Africa continent"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -570,8 +570,8 @@
       "question": "What is the main topic of the passage?",
       "options": {
         "A": "Different types of deserts",
-        "B": "Why deserts are hot",
-        "C": "Animals that live in deserts",
+        "B": "Why deserts are hot and, sometimes, cold",
+        "C": "Animals that live in desert conditions",
         "D": "Why deserts have very little rain"
       },
       "correct_answer": "D",
