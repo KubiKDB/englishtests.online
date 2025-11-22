@@ -7,7 +7,7 @@
       "question": "Which verb form is correct?",
       "options": {
         "A": "She work in a restaurant.",
-        "B": "She working in a restaurant.",
+        "B": "She walks in a restaurant.",
         "C": "She works in a restaurant.",
         "D": "She is work in a restaurant."
       },
@@ -28,7 +28,7 @@
     },
     {
       "id": 3,
-      "question": "They _____ watching TV now.",
+      "question": "They _____ watching YT now.",
       "options": {
         "A": "is",
         "B": "am",
@@ -44,7 +44,7 @@
       "options": {
         "A": "don't",
         "B": "doesn't",
-        "C": "not",
+        "C": "havn't",
         "D": "isn't"
       },
       "correct_answer": "B",
@@ -52,22 +52,22 @@
     },
     {
       "id": 5,
-      "question": "_____ there any milk in the fridge?",
+      "question": "_____ there any milk and juice in the fridge?",
       "options": {
         "A": "Is",
         "B": "Are",
         "C": "Do",
         "D": "Does"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 6,
       "question": "We _____ dinner at 7 PM yesterday.",
       "options": {
-        "A": "have",
-        "B": "having",
+        "A": "have had",
+        "B": "were having",
         "C": "has",
         "D": "had"
       },
@@ -76,12 +76,12 @@
     },
     {
       "id": 7,
-      "question": "My brother _____ like vegetables.",
+      "question": "My brother _____ to Mexico.",
       "options": {
-        "A": "don't",
-        "B": "doesn't",
-        "C": "isn't",
-        "D": "aren't"
+        "A": "didn't",
+        "B": "never was",
+        "C": "hasn't been",
+        "D": "never been"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -91,7 +91,7 @@
       "question": "I _____ going to the store tomorrow.",
       "options": {
         "A": "am",
-        "B": "is",
+        "B": "will",
         "C": "are",
         "D": "be"
       },
@@ -112,12 +112,12 @@
     },
     {
       "id": 10,
-      "question": "_____ do you live? I live in New York.",
+      "question": "_____ do you live? I live _____ New York.",
       "options": {
-        "A": "When",
-        "B": "What",
-        "C": "Who",
-        "D": "Where"
+        "A": "How/in",
+        "B": "When/on",
+        "C": "Where/on",
+        "D": "Where/in"
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -126,7 +126,7 @@
       "id": 11,
       "question": "This is _____ book.",
       "options": {
-        "A": "she",
+        "A": "her's",
         "B": "her",
         "C": "hers",
         "D": "herself"
@@ -136,12 +136,12 @@
     },
     {
       "id": 12,
-      "question": "We _____ TV last night.",
+      "question": "We _____ vegetables in the garden.",
       "options": {
-        "A": "watch",
-        "B": "watching",
-        "C": "watches",
-        "D": "watched"
+        "A": "grwed",
+        "B": "brew",
+        "C": "browed",
+        "D": "grew"
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -150,10 +150,10 @@
       "id": 13,
       "question": "He _____ at 7 AM every day.",
       "options": {
-        "A": "wake up",
+        "A": "stand up",
         "B": "wakes up",
-        "C": "waking up",
-        "D": "is wake up"
+        "C": "rises up",
+        "D": "jumps up"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -172,12 +172,12 @@
     },
     {
       "id": 15,
-      "question": "_____ you like coffee?",
+      "question": "_____ you like _____?",
       "options": {
-        "A": "Are",
-        "B": "Is",
-        "C": "Do",
-        "D": "Does"
+        "A": "Do/to swimming",
+        "B": "Are/swimming",
+        "C": "Do/swimming",
+        "D": "Are/to swim"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -186,10 +186,10 @@
       "id": 16,
       "question": "I need to _____ this form.",
       "options": {
-        "A": "filling",
-        "B": "filled",
+        "A": "fill away",
+        "B": "fill down",
         "C": "fill in",
-        "D": "fills"
+        "D": "fill trough"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -280,12 +280,12 @@
     },
     {
       "id": 24,
-      "question": "The book is _____ the table.",
+      "question": "He _____ the idea.",
       "options": {
-        "A": "on",
-        "B": "in",
-        "C": "at",
-        "D": "from"
+        "A": "wrote down",
+        "B": "fill out",
+        "C": "wrote in",
+        "D": "placed on"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -316,12 +316,12 @@
     },
     {
       "id": 27,
-      "question": "My mother is a _____. She works as a doctor.",
+      "question": "My mother works _____ a doctor.",
       "options": {
-        "A": "man",
-        "B": "boy",
-        "C": "woman",
-        "D": "girl"
+        "A": "of",
+        "B": "like",
+        "C": "as",
+        "D": "on"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -342,7 +342,7 @@
       "id": 29,
       "question": "She has a small _____ and big eyes.",
       "options": {
-        "A": "ear",
+        "A": "ears",
         "B": "nose",
         "C": "lips",
         "D": "hair"
@@ -352,12 +352,12 @@
     },
     {
       "id": 30,
-      "question": "Our _____ to London is at 6 PM tomorrow.",
+      "question": "Our _____ from New York to London is at 6 PM tomorrow.",
       "options": {
-        "A": "car",
-        "B": "taxi",
+        "A": "fight",
+        "B": "sight",
         "C": "flight",
-        "D": "bike"
+        "D": "light"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -366,10 +366,10 @@
       "id": 31,
       "question": "My _____ is 80 years old and still very active.",
       "options": {
-        "A": "son",
-        "B": "daughter",
+        "A": "grandson",
+        "B": "granddaughter",
         "C": "grandfather",
-        "D": "brother"
+        "D": "greenfather"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -378,8 +378,8 @@
       "id": 32,
       "question": "I _____ that you are right about this.",
       "options": {
-        "A": "make",
-        "B": "do",
+        "A": "thougt",
+        "B": "agreed",
         "C": "believe",
         "D": "see"
       },
@@ -393,7 +393,7 @@
         "A": "answer",
         "B": "issue",
         "C": "example",
-        "D": "question"
+        "D": "instance"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -405,9 +405,9 @@
         "A": "place",
         "B": "road",
         "C": "way",
-        "D": "direction"
+        "D": "path"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -415,7 +415,7 @@
       "question": "He is a very interesting _____. Everyone likes him.",
       "options": {
         "A": "people",
-        "B": "student",
+        "B": "brother",
         "C": "person",
         "D": "name"
       },
@@ -438,10 +438,10 @@
       "id": 37,
       "question": "Students must follow the school _____.",
       "options": {
-        "A": "law",
-        "B": "rule",
-        "C": "order",
-        "D": "system"
+        "A": "laws",
+        "B": "rules",
+        "C": "orders",
+        "D": "systems"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -475,9 +475,9 @@
       "question": "Who is the _____ of this house?",
       "options": {
         "A": "owner",
-        "B": "buyer",
-        "C": "seller",
-        "D": "visitor"
+        "B": "own",
+        "C": "ovener",
+        "D": "owe"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -486,19 +486,19 @@
       "id": 41,
       "question": "According to paragraph 1, what is magma?",
       "options": {
-        "A": "A type of mountain range",
-        "B": "Hot melted rock inside the Earth",
-        "C": "The opening of a volcano",
-        "D": "Rock that has cooled down"
+        "A": "The opening of a volcano"",
+        "B": "A type of long mountain range",
+        "C": "Hot melted rock inside the Earth",
+        "D": "Rocks that have cooled down recently"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Reading"
     },
     {
       "id": 42,
       "question": "According to the passage, what is lava?",
       "options": {
-        "A": "A type of volcano",
+        "A": "A type of volcano that is a part of a mountin",
         "B": "Rock that is still inside the Earth",
         "C": "Magma that comes out of a volcano",
         "D": "The chamber under a volcano"
@@ -558,7 +558,7 @@
       "id": 47,
       "question": "What is a 'vent' according to the passage?",
       "options": {
-        "A": "A place where tourists visit",
+        "A": "An open place where tourists visit",
         "B": "An opening where lava comes out",
         "C": "A chamber under the volcano",
         "D": "A type of volcano"
@@ -570,10 +570,10 @@
       "id": 48,
       "question": "According to the passage, why do scientists study volcanoes?",
       "options": {
-        "A": "To make the soil rich",
-        "B": "To help tourists",
+        "A": "To make the soil rich in minerals",
+        "B": "To help tourists find the best view",
         "C": "To learn about how the Earth works",
-        "D": "To create new mountains"
+        "D": "To  try create new mountains in the future"
       },
       "correct_answer": "C",
       "category": "Reading"
