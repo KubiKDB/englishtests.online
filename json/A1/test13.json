@@ -3,12 +3,12 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which form is correct?",
+      "question": "Which sentence is incorrect?",
       "options": {
-        "A": "She don't like coffee.",
-        "B": "She doesn't likes coffee.",
-        "C": "She doesn't like coffee.",
-        "D": "She not like coffee."
+        "A": "They teach Spanish.",
+        "B": "Students learn French.",
+        "C": "Sophie trys to speak English.",
+        "D": "As usual, Jose could win in a race."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -29,17 +29,17 @@
       "id": 3,
       "question": "My brother _____ in London.",
       "options": {
-        "A": "live",
-        "B": "living",
+        "A": "leaves",
+        "B": "leads",
         "C": "lives",
-        "D": "is live"
+        "D": "lifes"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 4,
-      "question": "We _____ watching TV now.",
+      "question": "We _____ singing a song in karaoke now.",
       "options": {
         "A": "is",
         "B": "are",
@@ -51,12 +51,12 @@
     },
     {
       "id": 5,
-      "question": "She _____ breakfast every morning.",
+      "question": "She has _____ breakfast every morning for last month.",
       "options": {
-        "A": "eat",
-        "B": "eats",
-        "C": "eating",
-        "D": "is eat"
+        "A": "eated",
+        "B": "eaten",
+        "C": "ate",
+        "D": "ated"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -67,39 +67,39 @@
       "options": {
         "A": "Was",
         "B": "Were",
-        "C": "Did",
-        "D": "Are"
+        "C": "Why",
+        "D": "Where"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 7,
-      "question": "I _____ a new car last week.",
+      "question": "I have a _____ to London next week.",
       "options": {
-        "A": "buy",
-        "B": "buys",
-        "C": "buying",
-        "D": "bought"
+        "A": "fly",
+        "B": "fight",
+        "C": "flying",
+        "D": "flight"
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 8,
-      "question": "She _____ TV when I called.",
+      "question": "We _____ engaged in this activity.",
       "options": {
-        "A": "watched",
-        "B": "watches",
-        "C": "was watching",
-        "D": "is watching"
+        "A": "have",
+        "B": "-",
+        "C": "are",
+        "D": "here"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 9,
-      "question": "_____ you like ice cream?",
+      "question": "_____ you like hiking?",
       "options": {
         "A": "Are",
         "B": "Do",
@@ -111,47 +111,47 @@
     },
     {
       "id": 10,
-      "question": "There _____ a book on the table.",
+      "question": "There _____ sheep on the farm.",
       "options": {
         "A": "is",
         "B": "are",
         "C": "be",
         "D": "have"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 11,
-      "question": "I _____ never been to Paris.",
+      "question": "I _____ never been to Casablanca.",
       "options": {
         "A": "have",
         "B": "has",
         "C": "had",
-        "D": "am"
+        "D": "was"
       },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 12,
-      "question": "The book is _____ the shelf.",
+      "question": "The coat hangs _____ the closet.",
       "options": {
         "A": "in",
         "B": "on",
         "C": "at",
-        "D": "between"
+        "D": "-"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 13,
-      "question": "She goes to work _____ bus.",
+      "question": "She goes to work _____ her friends.",
       "options": {
-        "A": "with",
+        "A": "by",
         "B": "in",
-        "C": "by",
+        "C": "with",
         "D": "on"
       },
       "correct_answer": "C",
@@ -159,14 +159,14 @@
     },
     {
       "id": 14,
-      "question": "We _____ shopping every Saturday.",
+      "question": "She _____ shopping every Saturday.",
       "options": {
-        "A": "go",
+        "A": "makes",
         "B": "goes",
-        "C": "going",
-        "D": "went"
+        "C": "has",
+        "D": "does"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
@@ -183,12 +183,12 @@
     },
     {
       "id": 16,
-      "question": "I need to _____ my homework tonight.",
+      "question": "I need to _____ a ticket for the next train.",
       "options": {
-        "A": "make",
-        "B": "do",
-        "C": "does",
-        "D": "making"
+        "A": "fined",
+        "B": "find",
+        "C": "fine",
+        "D": "line"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -197,17 +197,17 @@
       "id": 17,
       "question": "Can you _____ me with this problem?",
       "options": {
-        "A": "help",
+        "A": "solve",
         "B": "assisting",
-        "C": "helps",
-        "D": "to help"
+        "C": "aid",
+        "D": "help"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 18,
-      "question": "Please _____ off your phone during the meeting.",
+      "question": "Please _____ off your phone during the flight.",
       "options": {
         "A": "use",
         "B": "set",
@@ -219,38 +219,38 @@
     },
     {
       "id": 19,
-      "question": "I'm going to _____ a shower.",
+      "question": "I'm going to _____ into the pool.",
       "options": {
-        "A": "have",
-        "B": "do",
-        "C": "make",
-        "D": "take"
+        "A": "drive",
+        "B": "hive",
+        "C": "live",
+        "D": "dive"
       },
       "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 20,
-      "question": "She _____ a mistake in her test.",
+      "question": "She _____ a mistake in _____ test.",
       "options": {
-        "A": "did",
-        "B": "made",
-        "C": "had",
-        "D": "took"
+        "A": "did/hers",
+        "B": "made/her",
+        "C": "had/hers",
+        "D": "took/her"
       },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 21,
-      "question": "I _____ TV every evening.",
+      "question": "I _____ newspapers every morning.",
       "options": {
         "A": "look",
-        "B": "see",
+        "B": "view",
         "C": "watch",
-        "D": "view"
+        "D": "review"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -279,19 +279,19 @@
     },
     {
       "id": 24,
-      "question": "Can you _____ me a favor?",
+      "question": "Can you _____ this flavor?",
       "options": {
-        "A": "make",
-        "B": "give",
-        "C": "do",
-        "D": "have"
+        "A": "favor",
+        "B": "fill",
+        "C": "feel",
+        "D": "file"
       },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 25,
-      "question": "I _____ a lot of fun at the party last night.",
+      "question": "I _____ a lot of fun at the club last night.",
       "options": {
         "A": "did",
         "B": "made",
@@ -368,14 +368,14 @@
         "A": "plum",
         "B": "eggs",
         "C": "syrup",
-        "D": "milk"
+        "D": "juice"
       },
       "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 32,
-      "question": "I'm _____ that she will come to the party.",
+      "question": "I'm _____ that she will come to the meeting.",
       "options": {
         "A": "think",
         "B": "certain",
@@ -428,7 +428,7 @@
         "A": "soul",
         "B": "mind",
         "C": "spirit",
-        "D": "attitude"
+        "D": "altitude"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -569,7 +569,7 @@
       "id": 48,
       "question": "The word 'surroundings' in paragraph 2 most likely means:",
       "options": {
-        "A": "nearby objects and environment",
+        "A": "nearby environment",
         "B": "other ice pieces",
         "C": "water molecules",
         "D": "temperature gauges"
