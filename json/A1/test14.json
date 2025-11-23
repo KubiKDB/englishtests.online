@@ -5,31 +5,31 @@
       "id": 1,
       "question": "Which sentence is grammatically correct?",
       "options": {
-        "A": "She don't like coffee.",
-        "B": "He go to school every day.",
+        "A": "There has been a good lesson yesterday.",
+        "B": "I visited a museum tomorrow.",
         "C": "They doesn't work here.",
-        "D": "We live in this house."
+        "D": "There are seven colors in a rainbow."
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 2,
-      "question": "Which sentence has the correct verb form?",
+      "question": "Which statement is grammatically correct?",
       "options": {
-        "A": "I am play soccer now.",
-        "B": "She is watching TV.",
-        "C": "They is walking to school.",
-        "D": "He are eating lunch."
+        "A": "Mount Everest is the widest mountain in the world.",
+        "B": "The Nile River has been located in South America.",
+        "C": "Australia is a smallest continent in the world.",
+        "D": "The Sahara Desert will be in North America."
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 3,
-      "question": "Choose the correct past tense form.",
+      "question": "Choose the correct sentence.",
       "options": {
-        "A": "I goed to the park yesterday.",
+        "A": "I want to the park yesterday.",
         "B": "She swimmed in the pool.",
         "C": "They walked to school.",
         "D": "He eated lunch at 1 PM."
@@ -53,34 +53,34 @@
       "id": 5,
       "question": "Select the sentence with the correct preposition.",
       "options": {
-        "A": "The book is in the table.",
-        "B": "She lives on London.",
+        "A": "The book is in the shelf.",
+        "B": "She lives on United Kingdom.",
         "C": "The cat is under the chair.",
-        "D": "He is at home in Mondays."
+        "D": "He is usually at home in Mondays."
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 6,
-      "question": "Which sentence has the correct plural form?",
+      "question": "Which sentence has the incorrect plural form?",
       "options": {
-        "A": "I have two childs.",
+        "A": "I have two kids.",
         "B": "She has three cats.",
-        "C": "There are many mans here.",
-        "D": "They have five foots."
+        "C": "There are many men here.",
+        "D": "They are six foots tall."
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 7,
       "question": "Choose the sentence with the correct word order.",
       "options": {
-        "A": "Where you are going?",
-        "B": "When coming is he?",
-        "C": "What are you doing?",
-        "D": "Why she is happy?"
+        "A": "Why you did do that?",
+        "B": "Why do you did that?",
+        "C": "Why did you do that?",
+        "D": "Why you do did that?"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -89,19 +89,19 @@
       "id": 8,
       "question": "Select the correct negative form.",
       "options": {
-        "A": "I not like pizza.",
-        "B": "She don't have a car.",
-        "C": "He doesn't work here.",
-        "D": "They no want water."
+        "A": "I has never been there.",
+        "B": "She haven't have a car.",
+        "C": "He shouldn't work here no more.",
+        "D": "They no longer need money."
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 9,
       "question": "Which sentence uses the possessive form correctly?",
       "options": {
-        "A": "This is Marys book.",
+        "A": "This is Adebayos book.",
         "B": "The boy's hat is red.",
         "C": "Those are the childrens toys.",
         "D": "The womans car is new."
@@ -140,7 +140,7 @@
         "A": "The children is playing outside.",
         "B": "My mother and father is at home.",
         "C": "The book and the pen is on the desk.",
-        "D": "Tom and Mary are friends."
+        "D": "Amihan and Malaya are friends of mine."
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -162,7 +162,7 @@
       "question": "Choose the sentence with the correct adverb placement.",
       "options": {
         "A": "He drives careful his car.",
-        "B": "She slowly walks to school.",
+        "B": "She walks straight to school.",
         "C": "They happy play in the park.",
         "D": "I quick eat my breakfast."
       },
@@ -185,34 +185,34 @@
       "id": 16,
       "question": "Complete the sentence: 'She _____ her teeth every morning.'",
       "options": {
-        "A": "brush",
+        "A": "rushes",
         "B": "brushes",
-        "C": "brushing",
-        "D": "is brush"
+        "C": "bruises",
+        "D": "thrushes"
       },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 17,
-      "question": "Fill in the blank: 'They _____ to the movies last night.'",
+      "question": "Fill in the blank: 'The winter was cold and _____.'",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "went",
-        "D": "going"
+        "A": "snow",
+        "B": "snowing",
+        "C": "snowy",
+        "D": "snower"
       },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 18,
-      "question": "Choose the correct response: 'What's your name?' '_____.'",
+      "question": "Choose the correct response: 'What's your name?'",
       "options": {
-        "A": "I am fine",
-        "B": "I am from Spain",
-        "C": "I am John",
-        "D": "I am 25 years old"
+        "A": "Name me Kipsang",
+        "B": "Kipsang will be me",
+        "C": "Call me Kipsang",
+        "D": "Kipsang means me"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -221,9 +221,9 @@
       "id": 19,
       "question": "Complete the sentence: 'We have class _____ Monday to Friday.'",
       "options": {
-        "A": "in",
-        "B": "at",
-        "C": "on",
+        "A": "between",
+        "B": "for",
+        "C": "within",
         "D": "from"
       },
       "correct_answer": "D",
@@ -255,60 +255,60 @@
     },
     {
       "id": 22,
-      "question": "Complete the sentence: 'I _____ like coffee.'",
+      "question": "Complete the sentence: 'I don't see it _____.'",
       "options": {
-        "A": "don't",
-        "B": "doesn't",
-        "C": "am not",
-        "D": "not"
+        "A": "anything",
+        "B": "anyless",
+        "C": "anymore",
+        "D": "no more"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 23,
-      "question": "Fill in the blank: 'The book is _____ the table.'",
+      "question": "Fill in the blank: 'The US flag has three colors: _____.'",
       "options": {
-        "A": "on",
-        "B": "in",
-        "C": "at",
-        "D": "to"
+        "A": "red, green, blue",
+        "B": "red, green, white",
+        "C": "red, yellow, blue",
+        "D": "red, blue, white"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 24,
       "question": "Choose the correct phrase: 'I'd like _____ to the park.'",
       "options": {
-        "A": "go",
-        "B": "going",
-        "C": "to go",
-        "D": "goes"
+        "A": "to work",
+        "B": "to join",
+        "C": "to walk",
+        "D": "to jump"
       },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 25,
-      "question": "Complete the question: '_____ old are you?'",
+      "question": "Choose the incorrect option: '_____ were you born?'",
       "options": {
         "A": "What",
         "B": "How",
         "C": "When",
         "D": "Where"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 26,
       "question": "What does the word 'policy' refer to?",
       "options": {
-        "A": "A type of food",
+        "A": "A set of pencils",
         "B": "A set of rules",
-        "C": "A kind of animal",
-        "D": "A place to visit"
+        "C": "A group of policemen",
+        "D": "A big city"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -318,21 +318,21 @@
       "question": "What is 'exercise'?",
       "options": {
         "A": "A physical activity",
-        "B": "A type of food",
-        "C": "A place to sleep",
-        "D": "A kind of clothing"
+        "B": "A physical influence",
+        "C": "A physical law",
+        "D": "A physical ability"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 28,
-      "question": "What does 'shock' mean?",
+      "question": "What does 'to feel very surprised' mean?",
       "options": {
-        "A": "To feel very happy",
-        "B": "To feel very surprised",
-        "C": "To feel very tired",
-        "D": "To feel very hungry"
+        "A": "chocked",
+        "B": "shocked",
+        "C": "hooked",
+        "D": "lighted"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -341,8 +341,8 @@
       "id": 29,
       "question": "Which sentence uses 'since' correctly?",
       "options": {
-        "A": "I am since the park.",
-        "B": "She is since happy.",
+        "A": "I am a since and straight person.",
+        "B": "She studies at the since lab.",
         "C": "We have lived here since 2020.",
         "D": "They work at the office since a decade."
       },
@@ -351,14 +351,14 @@
     },
     {
       "id": 30,
-      "question": "What is a 'coach'?",
+      "question": "What isn't a 'coach'?",
       "options": {
-        "A": "A type of building",
+        "A": "A tour bus",
         "B": "A sports teacher",
-        "C": "A place to walk",
-        "D": "A small animal"
+        "C": "A place to sit on",
+        "D": "A private tutor"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -367,7 +367,7 @@
       "options": {
         "A": "I swim in the park yesterday.",
         "B": "She swims in the pool every day.",
-        "C": "They swim at home now.",
+        "C": "They swim in the bathroom now.",
         "D": "He swim in the ocean tomorrow."
       },
       "correct_answer": "B",
@@ -375,12 +375,12 @@
     },
     {
       "id": 32,
-      "question": "What does 'identify' mean?",
+      "question": "What does 'to recognize something' mean?",
       "options": {
-        "A": "To recognize something",
-        "B": "To forget something",
-        "C": "To eat something",
-        "D": "To break something"
+        "A": "identify",
+        "B": "identity",
+        "C": "entity",
+        "D": "entitle"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -403,8 +403,8 @@
       "options": {
         "A": "Something you wear on your feet",
         "B": "Something you wear on your head",
-        "C": "Something you eat",
-        "D": "Something you drive"
+        "C": "Something you wear on your hand",
+        "D": "Something you wear on your legs"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -423,12 +423,12 @@
     },
     {
       "id": 36,
-      "question": "What does 'replace' mean?",
+      "question": "What does 'to put something else' mean?",
       "options": {
-        "A": "To find something",
-        "B": "To break something",
-        "C": "To put something else",
-        "D": "To make something dirty"
+        "A": "inspect",
+        "B": "output",
+        "C": "replace",
+        "D": "outpace"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -439,20 +439,20 @@
       "options": {
         "A": "In a long time",
         "B": "In a short time",
-        "C": "Never",
-        "D": "Yesterday"
+        "C": "In the afternoon",
+        "D": "Next month"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 38,
-      "question": "What number is 'three'?",
+      "question": "What number is 'thirteen'?",
       "options": {
-        "A": "1",
-        "B": "2",
-        "C": "3",
-        "D": "4"
+        "A": "3",
+        "B": "30",
+        "C": "13",
+        "D": "31"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -463,20 +463,20 @@
       "options": {
         "A": "I finished my homework a long time ago",
         "B": "I finished my homework right now",
-        "C": "I will finish my homework tomorrow",
-        "D": "I never finish my homework"
+        "C": "I will finish my homework soon",
+        "D": "I will never finish my homework"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 40,
-      "question": "If something is 'popular', it is:",
+      "question": "If something is liked by many people, it is:",
       "options": {
-        "A": "Liked by many people",
-        "B": "Boring to everyone",
-        "C": "Cheap in use",
-        "D": "Too expensive"
+        "A": "popular",
+        "B": "populist",
+        "C": "population",
+        "D": "popstar"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -521,7 +521,7 @@
       "id": 44,
       "question": "What is the only job of male ants?",
       "options": {
-        "A": "To find food",
+        "A": "To provide the colony with food",
         "B": "To mate with new queens",
         "C": "To build the nest",
         "D": "To protect the colony"
@@ -535,7 +535,7 @@
       "options": {
         "A": "By making sounds",
         "B": "By using pheromones",
-        "C": "By dancing",
+        "C": "By dancing in circles",
         "D": "By writing messages"
       },
       "correct_answer": "B",
@@ -548,7 +548,7 @@
         "A": "It eats all the food",
         "B": "It makes a loud noise",
         "C": "It leaves a chemical trail",
-        "D": "It calls the queen"
+        "D": "It calls the other ants to help"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -559,8 +559,8 @@
       "options": {
         "A": "Very weak for their size",
         "B": "Very strong for their size",
-        "C": "Very large animals",
-        "D": "Very fast runners"
+        "C": "Very small compared to other animals",
+        "D": "Very fast runners because of their weight"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -582,7 +582,7 @@
       "question": "What do ants do when they need to move something very heavy?",
       "options": {
         "A": "They ask the queen for help",
-        "B": "They leave it behind",
+        "B": "They leave it behind and wait for help",
         "C": "They work together to push and pull",
         "D": "They cut it into smaller pieces"
       },
