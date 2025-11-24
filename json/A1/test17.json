@@ -3,7 +3,7 @@
   "questions": [
     {
       "id": 1,
-      "question": "_____ you like coffee?",
+      "question": "_____ you like snow?",
       "options": {
         "A": "Is",
         "B": "Do",
@@ -17,10 +17,10 @@
       "id": 2,
       "question": "She _____ work at 8 o'clock every morning.",
       "options": {
-        "A": "start",
+        "A": "stars",
         "B": "starts",
         "C": "starting",
-        "D": "is start"
+        "D": "is started"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -29,8 +29,8 @@
       "id": 3,
       "question": "We _____ dinner when they arrived.",
       "options": {
-        "A": "had",
-        "B": "have",
+        "A": "having had",
+        "B": "have had",
         "C": "were having",
         "D": "are having"
       },
@@ -39,19 +39,19 @@
     },
     {
       "id": 4,
-      "question": "He _____ to the cinema last weekend.",
+      "question": "He _____ a cute kitten yesterday.",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "going",
-        "D": "went"
+        "A": "brighted",
+        "B": "bridged",
+        "C": "bringed",
+        "D": "brought"
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 5,
-      "question": "_____ there any milk in the fridge?",
+      "question": "_____ there any juice in the bottle?",
       "options": {
         "A": "Is",
         "B": "Are",
@@ -66,7 +66,7 @@
       "question": "My sister _____ play the piano very well.",
       "options": {
         "A": "can",
-        "B": "know",
+        "B": "knows how",
         "C": "knows to",
         "D": "is can"
       },
@@ -79,7 +79,7 @@
       "options": {
         "A": "did",
         "B": "have",
-        "C": "am",
+        "C": "had",
         "D": "was"
       },
       "correct_answer": "B",
@@ -89,41 +89,41 @@
       "id": 8,
       "question": "She doesn't like _____ early.",
       "options": {
-        "A": "wake up",
+        "A": "making up",
         "B": "waking up",
-        "C": "to waking up",
-        "D": "wakes up"
+        "C": "awaking up",
+        "D": "waiting up"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 9,
-      "question": "There is a picture _____ the wall above the sofa.",
+      "question": "There is a picture _____ the wall _____ the sofa.",
       "options": {
-        "A": "on",
-        "B": "in",
-        "C": "at",
-        "D": "over"
+        "A": "on/above",
+        "B": "on/under",
+        "C": "at/above",
+        "D": "at/over"
       },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 10,
-      "question": "_____ she like chocolate?",
+      "question": "_____ they like chocolate?",
       "options": {
         "A": "Do",
         "B": "Is",
         "C": "Does",
         "D": "Are"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 11,
-      "question": "They _____ football every Saturday.",
+      "question": "They _____ chess every Saturday.",
       "options": {
         "A": "plays",
         "B": "play",
@@ -175,51 +175,51 @@
       "options": {
         "A": "How much",
         "B": "How many",
-        "C": "What",
-        "D": "How"
+        "C": "What many",
+        "D": "How old"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 16,
-      "question": "I need to _____ a decision soon.",
+      "question": "Say _____, we have to leave.",
       "options": {
-        "A": "do",
-        "B": "take",
-        "C": "make",
-        "D": "have"
+        "A": "seen you lately",
+        "B": "good day",
+        "C": "goodbye",
+        "D": "good luck"
       },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 17,
-      "question": "Can you _____ me with my homework?",
+      "question": "Can you _____ me _____ my homework?",
       "options": {
-        "A": "help",
-        "B": "make",
-        "C": "do",
-        "D": "give"
+        "A": "help/with",
+        "B": "help/without",
+        "C": "aid/with",
+        "D": "carry/with"
       },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 18,
-      "question": "She _____ a mistake in her test.",
+      "question": "She _____ an important decision yesterday.",
       "options": {
         "A": "did",
         "B": "took",
         "C": "had",
         "D": "made"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 19,
-      "question": "I'm going to _____ a shower now.",
+      "question": "I'm going to _____ a ride now.",
       "options": {
         "A": "have",
         "B": "take",
@@ -368,7 +368,7 @@
         "A": "rather",
         "B": "instead",
         "C": "otherwise",
-        "D": "else"
+        "D": "as well"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -382,14 +382,14 @@
         "C": "attack",
         "D": "chase"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 33,
       "question": "Smoking can _____ your health.",
       "options": {
-        "A": "damage",
+        "A": "dander",
         "B": "hurt",
         "C": "injure",
         "D": "harm"
@@ -402,7 +402,7 @@
       "question": "This chair is made of _____.",
       "options": {
         "A": "wood",
-        "B": "copper",
+        "B": "weed",
         "C": "paper",
         "D": "glass"
       },
@@ -435,7 +435,7 @@
     },
     {
       "id": 37,
-      "question": "I need a _____ to open this website.",
+      "question": "I need a _____ to enter this website.",
       "options": {
         "A": "number",
         "B": "password",
@@ -461,7 +461,7 @@
       "id": 39,
       "question": "I need to _____ for information on the internet.",
       "options": {
-        "A": "look",
+        "A": "watch",
         "B": "find",
         "C": "search",
         "D": "seek"
@@ -475,7 +475,7 @@
       "options": {
         "A": "wash",
         "B": "clean",
-        "C": "tidy",
+        "C": "tide",
         "D": "arrange"
       },
       "correct_answer": "B",
@@ -485,7 +485,7 @@
       "id": 41,
       "question": "According to paragraph 1, what do most birds use to build their nests?",
       "options": {
-        "A": "Mud, water, and trees",
+        "A": "Mud, water, straws and trees",
         "B": "Twigs, grass, and leaves",
         "C": "Feathers, fur, and eggs",
         "D": "Rocks, sand, and water"
@@ -583,7 +583,7 @@
       "options": {
         "A": "large",
         "B": "beautiful",
-        "C": "strong",
+        "C": "complete",
         "D": "complicated"
       },
       "correct_answer": "D",
