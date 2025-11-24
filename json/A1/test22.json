@@ -6,41 +6,41 @@
       "id": 1,
       "question": "Tom usually _____ a sandwich for lunch.",
       "options": {
-        "A": "eat",
-        "B": "eats",
-        "C": "eating",
-        "D": "is eat"
+        "A": "crabs",
+        "B": "grabs",
+        "C": "trades",
+        "D": "breads"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 2,
-      "question": "We _____ dinner at 7:00 PM yesterday.",
+      "question": "We _____ dinner at 7:00 PM tomorrow.",
       "options": {
-        "A": "have",
-        "B": "having",
-        "C": "has",
-        "D": "had"
+        "A": "had",
+        "B": "will having",
+        "C": "having",
+        "D": "will have"
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 3,
-      "question": "_____ you like ice cream?",
+      "question": "_____ you like _____?",
       "options": {
-        "A": "Do",
-        "B": "Are",
-        "C": "Does",
-        "D": "Is"
+        "A": "Do/skiing",
+        "B": "Are/ to ski",
+        "C": "Do/ski",
+        "D": "Are/skiing"
       },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 4,
-      "question": "They _____ watching a movie now.",
+      "question": "They _____ learning now.",
       "options": {
         "A": "is",
         "B": "am",
@@ -76,24 +76,24 @@
     },
     {
       "id": 7,
-      "question": "_____ there any milk in the fridge?",
+      "question": "_____ there any fish in the fridge?",
       "options": {
         "A": "Is",
         "B": "Are",
         "C": "Does",
         "D": "Do"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 8,
       "question": "She _____ blue eyes.",
       "options": {
-        "A": "have",
-        "B": "having",
+        "A": "gets",
+        "B": "takes",
         "C": "has",
-        "D": "is have"
+        "D": "does"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -102,17 +102,17 @@
       "id": 9,
       "question": "My father _____ in a hospital.",
       "options": {
-        "A": "work",
+        "A": "walks",
         "B": "works",
-        "C": "working",
-        "D": "is work"
+        "C": "words",
+        "D": "wards"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 10,
-      "question": "_____ your brother like sports?",
+      "question": "_____ your brothers like sports?",
       "options": {
         "A": "Do",
         "B": "Does",
@@ -126,10 +126,10 @@
       "id": 11,
       "question": "Yesterday Anna _____ a picture of her cat.",
       "options": {
-        "A": "draw",
-        "B": "draws",
+        "A": "threw",
+        "B": "derived",
         "C": "drew",
-        "D": "drawing"
+        "D": "brewed"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -162,10 +162,10 @@
       "id": 14,
       "question": "She can _____ English very well.",
       "options": {
-        "A": "speaks",
-        "B": "spoke",
+        "A": "tell",
+        "B": "say",
         "C": "speak",
-        "D": "speaking"
+        "D": "talk"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -174,10 +174,10 @@
       "id": 15,
       "question": "Last Sunday we _____ a big cake for grandma.",
       "options": {
-        "A": "bake",
-        "B": "bakes",
+        "A": "faked",
+        "B": "taked",
         "C": "baked",
-        "D": "baking"
+        "D": "barked"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -188,7 +188,7 @@
       "options": {
         "A": "on",
         "B": "in",
-        "C": "under",
+        "C": "to",
         "D": "at"
       },
       "correct_answer": "A",
@@ -258,10 +258,10 @@
       "id": 22,
       "question": "Yesterday I _____ my new shoes to school.",
       "options": {
-        "A": "wear",
-        "B": "wears",
+        "A": "swore",
+        "B": "sword",
         "C": "wore",
-        "D": "weared"
+        "D": "wared"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -284,7 +284,7 @@
       "options": {
         "A": "get",
         "B": "make",
-        "C": "do",
+        "C": "lay",
         "D": "have"
       },
       "correct_answer": "A",
@@ -295,7 +295,7 @@
       "question": "Can you _____ me with my homework?",
       "options": {
         "A": "help",
-        "B": "do",
+        "B": "aid",
         "C": "give",
         "D": "take"
       },
@@ -304,12 +304,12 @@
     },
     {
       "id": 26,
-      "question": "I like to listen to music on my _____.",
+      "question": "I like to listen to music using my _____.",
       "options": {
-        "A": "television",
-        "B": "phone",
-        "C": "newspaper",
-        "D": "book"
+        "A": "headphones",
+        "B": "phones",
+        "C": "computers",
+        "D": "tablets"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -321,7 +321,7 @@
         "A": "desert",
         "B": "house",
         "C": "forest",
-        "D": "sea"
+        "D": "forecast"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -330,10 +330,10 @@
       "id": 28,
       "question": "The waiter will _____ our food in a few minutes.",
       "options": {
-        "A": "cook",
-        "B": "eat",
+        "A": "urge",
+        "B": "servant",
         "C": "serve",
-        "D": "give"
+        "D": "surge"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -343,8 +343,8 @@
       "question": "I fell off my bike and _____ my knee.",
       "options": {
         "A": "hurt",
-        "B": "lost",
-        "C": "break",
+        "B": "hunt",
+        "C": "hard",
         "D": "beat"
       },
       "correct_answer": "A",
@@ -366,7 +366,7 @@
       "id": 31,
       "question": "Scientists are working to _____ new medicines.",
       "options": {
-        "A": "write",
+        "A": "derive",
         "B": "develop",
         "C": "found",
         "D": "make"
@@ -379,9 +379,9 @@
       "question": "Please put that _____ on the table.",
       "options": {
         "A": "thing",
-        "B": "stuff",
+        "B": "staff",
         "C": "piece",
-        "D": "item"
+        "D": "items"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -405,7 +405,7 @@
         "A": "weight",
         "B": "taste",
         "C": "look",
-        "D": "sound"
+        "D": "toast"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -427,7 +427,7 @@
       "question": "In the play, he will _____ as the main character.",
       "options": {
         "A": "game",
-        "B": "do",
+        "B": "react",
         "C": "act",
         "D": "make"
       },
@@ -440,7 +440,7 @@
       "options": {
         "A": "difficult",
         "B": "simple",
-        "C": "long",
+        "C": "unclear",
         "D": "complex"
       },
       "correct_answer": "B",
@@ -501,7 +501,7 @@
         "A": "2,000 kilometers",
         "B": "600 kilometers",
         "C": "21,000 kilometers",
-        "D": "The passage doesn't say"
+        "D": "2,100 kilometers"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -525,19 +525,19 @@
         "A": "600 years ago",
         "B": "During the Ming Dynasty",
         "C": "More than 2,000 years ago",
-        "D": "The passage doesn't say"
+        "D": "More than 3,000 years ago"
       },
       "correct_answer": "C",
       "category": "Reading"
     },
     {
       "id": 45,
-      "question": "According to paragraph 2, what materials were used to build the Great Wall?",
+      "question": "According to paragraph 2, what materials were not used to build the Great Wall?",
       "options": {
-        "A": "Only stone",
-        "B": "Only brick and wood",
-        "C": "Stone, brick, wood, and earth",
-        "D": "The passage doesn't say"
+        "A": "Stones",
+        "B": "Bricks",
+        "C": "Quartz",
+        "D": "Wood"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -549,7 +549,7 @@
         "A": "Near Beijing",
         "B": "In eastern China",
         "C": "In western China",
-        "D": "The passage doesn't say"
+        "D": "In southern China"
       },
       "correct_answer": "A",
       "category": "Reading"
@@ -561,7 +561,7 @@
         "A": "Summer",
         "B": "Winter",
         "C": "Spring or autumn",
-        "D": "The passage doesn't say"
+        "D": "Rain seasons"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -573,7 +573,7 @@
         "A": "600 years ago",
         "B": "2,000 years ago",
         "C": "1987",
-        "D": "The passage doesn't say"
+        "D": "2007"
       },
       "correct_answer": "C",
       "category": "Reading"
