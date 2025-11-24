@@ -32,7 +32,7 @@
         "A": "a",
         "B": "an",
         "C": "the",
-        "D": "no article"
+        "D": "-"
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -78,7 +78,7 @@
       "question": "Select the correct pronoun: 'This appartment is _____.'",
       "options": {
         "A": "me",
-        "B": "I",
+        "B": "mini",
         "C": "mine",
         "D": "my"
       },
@@ -159,12 +159,12 @@
     },
     {
       "id": 14,
-      "question": "Choose the correct form: 'We _____ to the store yesterday.'",
+      "question": "Choose the correct form: 'The store is _____.'",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "going",
-        "D": "went"
+        "A": "opened",
+        "B": "opens",
+        "C": "close",
+        "D": "open"
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -186,9 +186,9 @@
       "question": "Choose the correct word to complete this sentence: 'Can you _____ me that book, please?'",
       "options": {
         "A": "give",
-        "B": "gives",
-        "C": "giving",
-        "D": "to give"
+        "B": "take",
+        "C": "make",
+        "D": "past"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -221,10 +221,10 @@
       "id": 19,
       "question": "Select the correct word to complete the sentence: 'I want _____ a mango.'",
       "options": {
-        "A": "eat",
+        "A": "to beat",
         "B": "to eat",
-        "C": "eating",
-        "D": "eats"
+        "C": "to feast",
+        "D": "to east"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -233,12 +233,12 @@
       "id": 20,
       "question": "Choose the correct response to: 'Thank you.'",
       "options": {
-        "A": "You're welcome.",
-        "B": "I'm fine.",
-        "C": "Good morning.",
-        "D": "See you later."
+        "A": "Not after all.",
+        "B": "Glad to help.",
+        "C": "Nevertheless.",
+        "D": "You mention it."
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
@@ -248,7 +248,7 @@
         "A": "It's half past three.",
         "B": "It's quarter to three.",
         "C": "It's quarter past three.",
-        "D": "It's three quarters."
+        "D": "It's quarters past three."
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -270,9 +270,9 @@
       "question": "Select the correct way to ask for directions:",
       "options": {
         "A": "Where is the bank?",
-        "B": "When is the bank?",
-        "C": "Why is the bank?",
-        "D": "Who is the bank?"
+        "B": "When is the bank located?",
+        "C": "Where the bank is?",
+        "D": "What ways is the bank?"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -281,7 +281,7 @@
       "id": 24,
       "question": "Choose the correct expression to make a suggestion:",
       "options": {
-        "A": "Going to the park.",
+        "A": "Let him go to the park.",
         "B": "I will go to the park.",
         "C": "I went to the park.",
         "D": "Let's go to the park."
@@ -295,22 +295,22 @@
       "options": {
         "A": "How many is it?",
         "B": "How much is it?",
-        "C": "What is it?",
-        "D": "Where is it?"
+        "C": "What is it price?",
+        "D": "Where is the price?"
       },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 26,
-      "question": "The word 'offer' means:",
+      "question": "'to propose something' means:",
       "options": {
-        "A": "to propose something",
-        "B": "to take something away",
-        "C": "to break something",
-        "D": "to close the door"
+        "A": "to ask",
+        "B": "to help",
+        "C": "to offer",
+        "D": "to cover"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -353,10 +353,10 @@
       "id": 30,
       "question": "When you walk 'along' a street, you:",
       "options": {
-        "A": "cross it",
+        "A": "move across it",
         "B": "move on one side",
-        "C": "stay in one place",
-        "D": "run away from it"
+        "C": "move from one side to another",
+        "D": "move quickly to avoid cars"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -380,7 +380,7 @@
         "A": "cook",
         "B": "drink",
         "C": "store",
-        "D": "move"
+        "D": "hide"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -416,7 +416,7 @@
         "A": "married man",
         "B": "young boy",
         "C": "married woman",
-        "D": "family member who is a child"
+        "D": "single man"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -425,22 +425,22 @@
       "id": 36,
       "question": "The word 'people' means:",
       "options": {
-        "A": "animals",
-        "B": "buildings",
+        "A": "students",
+        "B": "pupils",
         "C": "humans",
-        "D": "countries"
+        "D": "teachers"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 37,
-      "question": "A 'chair' is something you:",
+      "question": "A 'pool' is something you:",
       "options": {
-        "A": "eat",
-        "B": "wear",
-        "C": "sit on",
-        "D": "write with"
+        "A": "surf in",
+        "B": "cook in",
+        "C": "jump in",
+        "D": "walk in"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -449,22 +449,22 @@
       "id": 38,
       "question": "If you are 'afraid', you feel:",
       "options": {
-        "A": "happy",
+        "A": "scarce",
         "B": "scared",
-        "C": "angry",
-        "D": "tired"
+        "C": "sacred",
+        "D": "scarred"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 39,
-      "question": "A 'process' is a:",
+      "question": "A 'way of doing' is a:",
       "options": {
-        "A": "cooking method",
-        "B": "way of doing",
-        "C": "difficult task",
-        "D": "way to a house"
+        "A": "protest",
+        "B": "process",
+        "C": "proceed",
+        "D": "proseed"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -474,9 +474,9 @@
       "question": "To 'enter' means to:",
       "options": {
         "A": "go out",
-        "B": "go in",
-        "C": "stay",
-        "D": "sleep"
+        "B": "step in",
+        "C": "stay away",
+        "D": "take in"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -511,10 +511,10 @@
       "options": {
         "A": "Store water in large amounts",
         "B": "Help cacti grow and accumulate water",
-        "C": "Keep animals away and help cacti stay cool",
-        "D": "Take in water quickly and efficiently"
+        "C": "Take in water quickly and efficiently",
+        "D": "Keep animals away and help cacti stay cool"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -548,7 +548,7 @@
         "A": "They use it all at once",
         "B": "They use it only at night",
         "C": "They use it slowly",
-        "D": "They do not need water"
+        "D": "They use it only at daytime"
       },
       "correct_answer": "C",
       "category": "Reading"
