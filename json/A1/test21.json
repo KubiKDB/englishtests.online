@@ -39,21 +39,21 @@
     },
     {
       "id": 4,
-      "question": "Select the correct option: 'We ___ to the park yesterday.'",
+      "question": "Select the correct sentence:",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "going",
-        "D": "went"
+        "A": "I will no longer learn English.",
+        "B": "I am doing to find a solution.",
+        "C": "We want to the park lately.",
+        "D": "These geese eats grass."
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 5,
       "question": "Which sentence uses the present continuous tense correctly?",
       "options": {
-        "A": "He reading a book now.",
+        "A": "He is ready for a book now.",
         "B": "He read a book now.",
         "C": "He is reading a book now.",
         "D": "He reads a book now."
@@ -68,7 +68,7 @@
         "A": "The book of my friend",
         "B": "My friends book",
         "C": "My friend's book",
-        "D": "The book my friend"
+        "D": "The book of friend of me"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -78,7 +78,7 @@
       "question": "Select the correct preposition: 'The car is ___ the street.'",
       "options": {
         "A": "in",
-        "B": "between",
+        "B": "to",
         "C": "on",
         "D": "at"
       },
@@ -113,10 +113,10 @@
       "id": 10,
       "question": "Which sentence has the correct word order?",
       "options": {
-        "A": "Always she goes to school by bus.",
-        "B": "She always goes to school by bus.",
-        "C": "She goes always to school by bus.",
-        "D": "She goes to school always by bus."
+        "A": "They won't anymore visit France.",
+        "B": "They won't visit France anymore.",
+        "C": "They anymore won't visit France.",
+        "D": "Anymore they won't visit France."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -149,10 +149,10 @@
       "id": 13,
       "question": "Choose the correct form for the future: 'I ___ my grandmother next weekend.'",
       "options": {
-        "A": "visit",
+        "A": "will visiting",
         "B": "am going visiting",
         "C": "am going to visit",
-        "D": "visited"
+        "D": "am visit"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -186,9 +186,9 @@
       "question": "Complete the sentence: 'Look at this beautiful ___ of the mountains.'",
       "options": {
         "A": "scene",
-        "B": "risk",
+        "B": "cinema",
         "C": "field",
-        "D": "month"
+        "D": "views"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -197,10 +197,10 @@
       "id": 17,
       "question": "Choose the word that means 'to speak':",
       "options": {
-        "A": "follow",
-        "B": "promise",
-        "C": "say",
-        "D": "receive"
+        "A": "walk",
+        "B": "work",
+        "C": "talk",
+        "D": "take"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -221,7 +221,7 @@
       "id": 19,
       "question": "Select the word that means 'in general' or 'in total':",
       "options": {
-        "A": "next",
+        "A": "not at all",
         "B": "previous",
         "C": "overall",
         "D": "final"
@@ -233,7 +233,7 @@
       "id": 20,
       "question": "Which word means 'a young person'?",
       "options": {
-        "A": "child",
+        "A": "teenager",
         "B": "professor",
         "C": "parent",
         "D": "grandfather"
@@ -269,8 +269,8 @@
       "id": 23,
       "question": "Select the word that means 'to get something':",
       "options": {
-        "A": "give",
-        "B": "follow",
+        "A": "reverse",
+        "B": "receipt",
         "C": "receive",
         "D": "promise"
       },
@@ -281,9 +281,9 @@
       "id": 24,
       "question": "Which word means 'coming before'?",
       "options": {
-        "A": "last",
-        "B": "first",
-        "C": "new",
+        "A": "preview",
+        "B": "prevalent",
+        "C": "prevail",
         "D": "previous"
       },
       "correct_answer": "D",
@@ -293,10 +293,10 @@
       "id": 25,
       "question": "Choose the word that means 'an area of land':",
       "options": {
-        "A": "scene",
+        "A": "filed",
         "B": "field",
-        "C": "block",
-        "D": "street"
+        "C": "filled",
+        "D": "fulled"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -305,10 +305,10 @@
       "id": 26,
       "question": "Which word completes this sentence: 'There is a ___ of rain today.'",
       "options": {
-        "A": "need",
-        "B": "right",
-        "C": "risk",
-        "D": "cloud"
+        "A": "change",
+        "B": "chase",
+        "C": "chance",
+        "D": "chant"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -329,9 +329,9 @@
       "id": 28,
       "question": "Which word means 'to say you will definitely do something'?",
       "options": {
-        "A": "refuse",
-        "B": "accept",
-        "C": "demand",
+        "A": "propose",
+        "B": "provide",
+        "C": "promile",
         "D": "promise"
       },
       "correct_answer": "D",
@@ -341,10 +341,10 @@
       "id": 29,
       "question": "Choose the word that means 'to go after someone or something':",
       "options": {
-        "A": "move",
-        "B": "check",
+        "A": "hollow",
+        "B": "pillow",
         "C": "follow",
-        "D": "call"
+        "D": "fallout"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -354,7 +354,7 @@
       "question": "Which word completes this sentence: 'The ___ teaches biology at the university.'",
       "options": {
         "A": "student",
-        "B": "lesson",
+        "B": "provider",
         "C": "lecture",
         "D": "professor"
       },
@@ -378,8 +378,8 @@
       "question": "Choose the best response to 'What time does the bus arrive?'",
       "options": {
         "A": "It goes to school.",
-        "B": "It was yesterday.",
-        "C": "I like buses.",
+        "B": "It comes late.",
+        "C": "I don't know.",
         "D": "It comes at 8 o’clock."
       },
       "correct_answer": "D",
@@ -390,7 +390,7 @@
       "question": "Select the correct phrase to ask for the time:",
       "options": {
         "A": "What is the time?",
-        "B": "When is it?",
+        "B": "When is the time?",
         "C": "How many time?",
         "D": "Which time now?"
       },
@@ -401,10 +401,10 @@
       "id": 34,
       "question": "Which is the most appropriate way to introduce yourself?",
       "options": {
-        "A": "Who are you?",
-        "B": "My name is John.",
-        "C": "Yourself is John.",
-        "D": "I am 30."
+        "A": "We are Lucinda",
+        "B": "I am Lucinda.",
+        "C": "Myself is Lucinda.",
+        "D": "I will be Lucinda."
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -413,10 +413,10 @@
       "id": 35,
       "question": "Choose the correct phrase to ask for directions:",
       "options": {
-        "A": "Who is at the train station?",
-        "B": "When is the train station?",
+        "A": "Who saw the train station?",
+        "B": "When can I get to the train station?",
         "C": "Where is the train station?",
-        "D": "How is the train station?"
+        "D": "How far is the train station?"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -426,7 +426,7 @@
       "question": "Select the correct response when someone says 'Thank you':",
       "options": {
         "A": "Please, thanks",
-        "B": "Excuse me, please",
+        "B": "Pleased",
         "C": "Don't mention it",
         "D": "Good for you"
       },
@@ -437,9 +437,9 @@
       "id": 37,
       "question": "Which phrase is used to apologize?",
       "options": {
-        "A": "Thank you",
+        "A": "The sorry is mine",
         "B": "I'm sorry",
-        "C": "Please",
+        "C": "Please, thank me",
         "D": "You're welcome"
       },
       "correct_answer": "B",
@@ -463,8 +463,8 @@
       "options": {
         "A": "Can I help you?",
         "B": "Can you help me?",
-        "C": "Help me?",
-        "D": "I help?"
+        "C": "Help me, please?",
+        "D": "I help you?"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -473,10 +473,10 @@
       "id": 40,
       "question": "Which is the correct way to say goodbye?",
       "options": {
-        "A": "Good time",
+        "A": "Good time to see you",
         "B": "See you later",
-        "C": "How are you",
-        "D": "My name is"
+        "C": "Glad to see you next time",
+        "D": "Will see you"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -572,7 +572,7 @@
         "A": "easy and safe",
         "B": "beatiful and safe",
         "C": "dangerous but beautiful",
-        "D": "only good for animals"
+        "D": "only good and safe for animals"
       },
       "correct_answer": "C",
       "category": "Reading"
