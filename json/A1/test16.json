@@ -6,9 +6,9 @@
       "question": "Which verb form correctly completes the sentence: 'He ___ English every day.'",
       "options": {
         "A": "study",
-        "B": "studying",
-        "C": "studies",
-        "D": "studied"
+        "B": "leans",
+        "C": "learns",
+        "D": "sturdy"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -63,12 +63,12 @@
     },
     {
       "id": 6,
-      "question": "Which is the correct past simple tense form of the verb 'go'?",
+      "question": "Which is the correct past simple tense form of the verb 'move'?",
       "options": {
-        "A": "goed",
-        "B": "went",
-        "C": "gone",
-        "D": "going"
+        "A": "movied",
+        "B": "moved",
+        "C": "mooved",
+        "D": "mought"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -80,7 +80,7 @@
         "A": "A",
         "B": "An",
         "C": "The",
-        "D": "No article needed"
+        "D": "-"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -89,43 +89,43 @@
       "id": 8,
       "question": "Which question form is correct?",
       "options": {
-        "A": "What time you wake up?",
-        "B": "What time wake you up?",
-        "C": "What time do you wake up?",
-        "D": "What time does you wake up?"
+        "A": "What time you wake up usually?",
+        "B": "What time usually wake you up?",
+        "C": "What time do you usually wake up?",
+        "D": "What time makes you usually wake up?"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 9,
-      "question": "Choose the correct form of the verb: 'They ___ TV last night.'",
+      "question": "Choose the correct form of the verb: 'They ___ this show twice.'",
       "options": {
         "A": "watches",
-        "B": "watching",
-        "C": "watched",
-        "D": "watch"
+        "B": "were watching",
+        "C": "have watched",
+        "D": "had watched"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 10,
-      "question": "Select the correct adjective form: 'This is the ___ day of my life.'",
+      "question": "Select the incorrect form: 'This is the ___ day of my life.'",
       "options": {
-        "A": "good",
-        "B": "better",
+        "A": "wellest",
+        "B": "happiest",
         "C": "best",
-        "D": "goodest"
+        "D": "craziest"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 11,
-      "question": "Which sentence uses 'there are' correctly?",
+      "question": "Which sentence is correct?",
       "options": {
-        "A": "There are a book on the table.",
+        "A": "There are a pencils on the table.",
         "B": "There are much water in the bottle.",
         "C": "There are five people in the room.",
         "D": "There are some sugar in my coffee."
@@ -149,9 +149,9 @@
       "id": 13,
       "question": "Select the correct form: 'I ___ a new phone next week.'",
       "options": {
-        "A": "buy",
-        "B": "buys",
-        "C": "buying",
+        "A": "will have buy",
+        "B": "will buys",
+        "C": "will buying",
         "D": "am going to buy"
       },
       "correct_answer": "D",
@@ -170,7 +170,7 @@
     },
     {
       "id": 15,
-      "question": "Choose the correct word: 'My birthday is ___ May.'",
+      "question": "Choose the correct word: 'My birthday is ___ April.'",
       "options": {
         "A": "at",
         "B": "on",
@@ -185,9 +185,9 @@
       "question": "Complete the sentence: 'Please ___ my apology for being late.'",
       "options": {
         "A": "accept",
-        "B": "voice",
-        "C": "want",
-        "D": "listen"
+        "B": "ascend",
+        "C": "accent",
+        "D": "asset"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -196,9 +196,9 @@
       "id": 17,
       "question": "Select the best word: 'She stood ___ her mother during the ceremony.'",
       "options": {
-        "A": "ago",
+        "A": "besides",
         "B": "beside",
-        "C": "still",
+        "C": "toward",
         "D": "across"
       },
       "correct_answer": "B",
@@ -211,7 +211,7 @@
         "A": "never",
         "B": "ever",
         "C": "like",
-        "D": "am"
+        "D": "have"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -220,9 +220,9 @@
       "id": 19,
       "question": "Complete the sentence: 'Please be quiet and ___ to the teacher.'",
       "options": {
-        "A": "want",
+        "A": "speak",
         "B": "listen",
-        "C": "voice",
+        "C": "silence",
         "D": "hear"
       },
       "correct_answer": "B",
@@ -233,7 +233,7 @@
       "question": "Select the best word: 'The movie at the ___ starts at 7 PM.'",
       "options": {
         "A": "cinema",
-        "B": "shop",
+        "B": "theater",
         "C": "street",
         "D": "school"
       },
@@ -245,7 +245,7 @@
       "question": "Choose the correct word: 'We need a ___ from the rain.'",
       "options": {
         "A": "umbrella",
-        "B": "car",
+        "B": "coverage",
         "C": "shelter",
         "D": "house"
       },
@@ -269,9 +269,9 @@
       "question": "Select the correct word: 'This problem is ___ to the one we solved yesterday.'",
       "options": {
         "A": "related",
-        "B": "same",
-        "C": "as",
-        "D": "however"
+        "B": "relation",
+        "C": "relayed",
+        "D": "removed"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -281,7 +281,7 @@
       "question": "Choose the best word: 'The meeting happened two days ___.'",
       "options": {
         "A": "ago",
-        "B": "beside",
+        "B": "ego",
         "C": "above",
         "D": "about"
       },
@@ -293,9 +293,9 @@
       "question": "Complete the sentence: 'She is ___ waiting for her friend to arrive.'",
       "options": {
         "A": "style",
-        "B": "for",
+        "B": "until",
         "C": "still",
-        "D": "much"
+        "D": "stand"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -330,7 +330,7 @@
       "options": {
         "A": "behind",
         "B": "beside",
-        "C": "related",
+        "C": "besides",
         "D": "closed"
       },
       "correct_answer": "B",
@@ -340,22 +340,22 @@
       "id": 29,
       "question": "Which word means 'to say no to something offered'?",
       "options": {
-        "A": "listen",
+        "A": "eject",
         "B": "reject",
-        "C": "want",
-        "D": "accept"
+        "C": "receipt",
+        "D": "withdraw"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 30,
-      "question": "Which word means 'a thing that protects from rain'?",
+      "question": "Which word means 'a thing that protects from mosquitos'?",
       "options": {
-        "A": "umbrella",
-        "B": "hat",
-        "C": "pocket",
-        "D": "pants"
+        "A": "spray",
+        "B": "pray",
+        "C": "spare",
+        "D": "sprite"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -364,10 +364,10 @@
       "id": 31,
       "question": "Which word refers to an animal that gives wool?",
       "options": {
-        "A": "chicken",
-        "B": "cow",
+        "A": "ship",
+        "B": "sheet",
         "C": "sheep",
-        "D": "wolf"
+        "D": "sheer"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -377,8 +377,8 @@
       "question": "Which word means 'an adult female person'?",
       "options": {
         "A": "girl",
-        "B": "lady",
-        "C": "daughter",
+        "B": "woman",
+        "C": "aunt",
         "D": "sister"
       },
       "correct_answer": "B",
@@ -390,7 +390,7 @@
       "options": {
         "A": "speak",
         "B": "voice",
-        "C": "ears",
+        "C": "lists",
         "D": "listen"
       },
       "correct_answer": "D",
@@ -410,24 +410,24 @@
     },
     {
       "id": 35,
-      "question": "Which word means 'connected to something'?",
+      "question": "Which word means 'related to something'?",
       "options": {
-        "A": "needed",
-        "B": "wanted",
-        "C": "planted",
-        "D": "related"
+        "A": "contracted",
+        "B": "constructed",
+        "C": "contacted",
+        "D": "connected"
       },
       "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 36,
-      "question": "Which word means 'in the past'?",
+      "question": "Which word definitely means 'in the future'?",
       "options": {
-        "A": "still",
-        "B": "now",
-        "C": "ago",
-        "D": "yet"
+        "A": "tonight",
+        "B": "long time ago",
+        "C": "tomorrow",
+        "D": "yesterdy"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -446,12 +446,12 @@
     },
     {
       "id": 38,
-      "question": "Which word means 'continuing to happen or not moving'?",
+      "question": "Which word means 'not moving'?",
       "options": {
-        "A": "gone",
-        "B": "still",
-        "C": "stay",
-        "D": "stand"
+        "A": "driving",
+        "B": "standing",
+        "C": "riding",
+        "D": "swimming"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -594,8 +594,8 @@
       "options": {
         "A": "In mountains, especially volcanoes, and forests",
         "B": "In soap bubbles, garden sprinklers, and waterfalls",
-        "C": "In lakes, seas, and oceans",
-        "D": "In windows and mirrors"
+        "C": "In lakes, seas, and oceans after the rain or storm",
+        "D": "In windows and mirror reflections"
       },
       "correct_answer": "B",
       "category": "Reading"
