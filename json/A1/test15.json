@@ -18,7 +18,7 @@
       "question": "Choose the correct form of 'to be'.",
       "options": {
         "A": "He are a teacher.",
-        "B": "She is happy.",
+        "B": "She is a doctor.",
         "C": "I is from Spain.",
         "D": "They am students."
       },
@@ -29,10 +29,10 @@
       "id": 3,
       "question": "Which sentence has the correct word order?",
       "options": {
-        "A": "Red I like apples.",
-        "B": "She to the store goes.",
-        "C": "Where you are from?",
-        "D": "My brother plays football."
+        "A": "Where come do you from?",
+        "B": "Where you do come from?",
+        "C": "Where from do you come?",
+        "D": "Where do you come from?"
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -42,7 +42,7 @@
       "question": "Choose the correct plural form.",
       "options": {
         "A": "Childs",
-        "B": "Men",
+        "B": "Women",
         "C": "Foots",
         "D": "Mouses"
       },
@@ -75,21 +75,21 @@
     },
     {
       "id": 7,
-      "question": "Which sentence uses the past simple correctly?",
+      "question": "Which sentence is correct?",
       "options": {
-        "A": "They goed to the park yesterday.",
+        "A": "They want to the park yesterday.",
         "B": "She buyed a new dress last week.",
-        "C": "He played tennis on Sunday.",
-        "D": "I writed a letter to my friend."
+        "C": "He plaid tennis on Sunday.",
+        "D": "I wrote a letter to my friend."
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 8,
       "question": "Choose the correct negative form.",
       "options": {
-        "A": "I not like coffee.",
+        "A": "I not like others.",
         "B": "She don't eat meat.",
         "C": "We doesn't understand.",
         "D": "They don't want to go."
@@ -114,8 +114,8 @@
       "question": "Choose the correct preposition.",
       "options": {
         "A": "I go to school by foot.",
-        "B": "She lives at London.",
-        "C": "The book is on the chair.",
+        "B": "She lives at London this year.",
+        "C": "Your keys are on the chair.",
         "D": "They are in vacation."
       },
       "correct_answer": "C",
@@ -128,7 +128,7 @@
         "A": "He is an doctor.",
         "B": "I need a umbrella.",
         "C": "She has an orange.",
-        "D": "They ran a hour."
+        "D": "They ran for a hour."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -137,10 +137,10 @@
       "id": 12,
       "question": "Choose the correct sentence.",
       "options": {
-        "A": "She like pizza.",
-        "B": "I doesn't know.",
-        "C": "We are happy.",
-        "D": "They plays tennis."
+        "A": "She like doing exercises.",
+        "B": "I doesn't know what to do after lessons.",
+        "C": "We are waiting for the next train.",
+        "D": "They plays tennis very well."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -161,7 +161,7 @@
       "id": 14,
       "question": "Choose the correct comparative form.",
       "options": {
-        "A": "She is more tall than her sister.",
+        "A": "She is the tallest than her sisters and brothers.",
         "B": "This book is more interesting than that one.",
         "C": "He runs more fast than me.",
         "D": "My house is more bigger than yours."
@@ -207,12 +207,12 @@
     },
     {
       "id": 18,
-      "question": "Choose the correct way to ask for permission.",
+      "question": "Choose the correct sentence.",
       "options": {
-        "A": "I can use your pen?",
-        "B": "Can I use your pen?",
-        "C": "I use your pen?",
-        "D": "Using your pen?"
+        "A": "Have a nicer day",
+        "B": "Have a nice day",
+        "C": "Have an ice day",
+        "D": "Having nice day"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -221,10 +221,10 @@
       "id": 19,
       "question": "Which is the correct way to introduce yourself?",
       "options": {
-        "A": "How are you?",
-        "B": "What's your name?",
-        "C": "My name is John.",
-        "D": "Nice to meet you."
+        "A": "Me is Alejandro",
+        "B": "Call my name Alejandro",
+        "C": "My name is Alejandro.",
+        "D": "Nice to meet you, Alejandro."
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -245,34 +245,34 @@
       "id": 21,
       "question": "Which phrase is used to say goodbye?",
       "options": {
-        "A": "Hello!",
-        "B": "Thank you!",
+        "A": "Seen you lately!",
+        "B": "Will see you after!",
         "C": "See you later!",
-        "D": "Good morning!"
+        "D": "Good seeing you at all!"
       },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 22,
-      "question": "Choose the correct way to ask about time.",
+      "question": "Choose the correct sentence about time.",
       "options": {
-        "A": "What is time?",
-        "B": "When is the time?",
-        "C": "What time is it?",
-        "D": "How is the time?"
+        "A": "It's twelve before twelve",
+        "B": "It's twelve upon twelve",
+        "C": "It's twelve to twelve",
+        "D": "It's twelve for twelve"
       },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 23,
-      "question": "You see a cat on a chair. What can you say?",
+      "question": "You see a cat and a chair. What possibly can you say?",
       "options": {
         "A": "The cat is on the chair.",
-        "B": "The chair is a cat.",
-        "C": "Cat chair!",
-        "D": "The chair on the cat."
+        "B": "The chair has a cat.",
+        "C": "The cat is in the chair",
+        "D": "The cat is across the chair."
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -281,10 +281,10 @@
       "id": 24,
       "question": "Choose the correct way to ask for help.",
       "options": {
-        "A": "You help me?",
+        "A": "Can you aid me?",
         "B": "Can you help me?",
-        "C": "Help, you?",
-        "D": "Help me, can?"
+        "C": "Can you assist with me?",
+        "D": "Can you ask for help?"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -293,10 +293,10 @@
       "id": 25,
       "question": "Which is the correct way to order food in a restaurant?",
       "options": {
-        "A": "I eating fish, please.",
-        "B": "Give me fish, please.",
+        "A": "I'm eating some fish, please.",
+        "B": "Give me any fish you have, please.",
         "C": "I would like the fish, please.",
-        "D": "Fish for me, please."
+        "D": "Bring fish for me, please."
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -368,7 +368,7 @@
         "A": "Ant",
         "B": "Fly",
         "C": "Bee",
-        "D": "Spider"
+        "D": "Wasp"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -411,7 +411,7 @@
     },
     {
       "id": 35,
-      "question": "What covers the outside of your body?",
+      "question": "What organ covers the outside of your body?",
       "options": {
         "A": "Bone",
         "B": "Muscle",
@@ -438,9 +438,9 @@
       "question": "What do you do when you present someone new to others?",
       "options": {
         "A": "Introduce",
-        "B": "Forget",
-        "C": "Remember",
-        "D": "Hide"
+        "B": "Introvert",
+        "C": "Introspect",
+        "D": "Intercept"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -450,7 +450,7 @@
       "question": "Which word means 'the smallest amount'?",
       "options": {
         "A": "Most",
-        "B": "Many",
+        "B": "Less",
         "C": "More",
         "D": "Least"
       },
@@ -476,7 +476,7 @@
         "A": "Middle",
         "B": "Edge",
         "C": "Corner",
-        "D": "Center"
+        "D": "Angle"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -509,8 +509,8 @@
       "id": 43,
       "question": "What color are giraffes?",
       "options": {
-        "A": "Brown",
-        "B": "Yellow",
+        "A": "Brown and green",
+        "B": "Yellow and black",
         "C": "Yellow and brown",
         "D": "White and black"
       },
@@ -519,12 +519,12 @@
     },
     {
       "id": 44,
-      "question": "What do giraffes eat?",
+      "question": "What don't giraffes eat?",
       "options": {
-        "A": "Only leaves",
-        "B": "Leaves, fruits, and flowers",
-        "C": "Only fruits",
-        "D": "Only grass and plants"
+        "A": "Leaves",
+        "B": "Animals",
+        "C": "Fruits",
+        "D": "Flowers"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -536,7 +536,7 @@
         "A": "Because they can run very fast",
         "B": "Because they are very heavy",
         "C": "Because they need to pump blood",
-        "D": "Because they eat a lot of food"
+        "D": "Because they drink a lot of water"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -581,8 +581,8 @@
       "id": 49,
       "question": "How long do young giraffes stay with their mothers?",
       "options": {
-        "A": "Six months",
-        "B": "One year",
+        "A": "From six to nine months",
+        "B": "From nine to twelve months",
         "C": "One and a half years",
         "D": "Two and a half years"
       },
