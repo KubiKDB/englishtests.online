@@ -17,7 +17,7 @@
       "id": 2,
       "question": "We ___ dinner at 7 PM yesterday.",
       "options": {
-        "A": "have",
+        "A": "have been",
         "B": "having",
         "C": "had",
         "D": "has"
@@ -27,7 +27,7 @@
     },
     {
       "id": 3,
-      "question": "___ there any milk in the fridge?",
+      "question": "___ there any water in the cup?",
       "options": {
         "A": "Is",
         "B": "Are",
@@ -39,24 +39,24 @@
     },
     {
       "id": 4,
-      "question": "My brother ___ in London.",
+      "question": "My brother ___ London in two weeks.",
       "options": {
-        "A": "live",
+        "A": "leaves",
         "B": "lives",
-        "C": "living",
-        "D": "to live"
+        "C": "livers",
+        "D": "lifes"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 5,
       "question": "I ___ computer games every evening.",
       "options": {
-        "A": "playing",
+        "A": "game",
         "B": "play",
-        "C": "plays",
-        "D": "am play"
+        "C": "gamer",
+        "D": "player"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -77,9 +77,9 @@
       "id": 7,
       "question": "She ___ her homework yesterday.",
       "options": {
-        "A": "completes",
-        "B": "completing",
-        "C": "complete",
+        "A": "complexed",
+        "B": "competed",
+        "C": "completes",
         "D": "completed"
       },
       "correct_answer": "D",
@@ -87,7 +87,7 @@
     },
     {
       "id": 8,
-      "question": "___ you like apples?",
+      "question": "___ you like skiing?",
       "options": {
         "A": "Are",
         "B": "Is",
@@ -101,22 +101,22 @@
       "id": 9,
       "question": "He ___ to school by bus.",
       "options": {
-        "A": "go",
+        "A": "walks",
         "B": "goes",
-        "C": "going",
-        "D": "is go"
+        "C": "rides",
+        "D": "drives"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 10,
-      "question": "My parents ___ in that house for 20 years.",
+      "question": "My parents ___ in our house for 20 years.",
       "options": {
-        "A": "live",
-        "B": "lives",
-        "C": "living",
-        "D": "lived"
+        "A": "lived",
+        "B": "live",
+        "C": "were living",
+        "D": "have lived"
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -149,10 +149,10 @@
       "id": 13,
       "question": "She ___ a big cake for her birthday last week.",
       "options": {
-        "A": "did",
-        "B": "have",
-        "C": "made",
-        "D": "take"
+        "A": "breed",
+        "B": "braked",
+        "C": "baked",
+        "D": "booked"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -174,9 +174,9 @@
       "question": "Lisa and Tom ___ a walk in the park every evening.",
       "options": {
         "A": "take",
-        "B": "takes",
-        "C": "taking",
-        "D": "took"
+        "B": "go",
+        "C": "make",
+        "D": "give"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -186,9 +186,9 @@
       "question": "What’s the best reply to 'Could you help me carry this box?'",
       "options": {
         "A": "Maybe, I will help you yesterday.",
-        "B": "No, I don’t like boxes.",
-        "C": "Yes, I can help you.",
-        "D": "I don’t know how to carry it."
+        "B": "No, I don’t like boxes at all.",
+        "C": "Yes, I can help you with them.",
+        "D": "Yes, but I don’t know how to carry it."
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -200,7 +200,7 @@
         "A": "What",
         "B": "Where",
         "C": "When",
-        "D": "Who"
+        "D": "Whose"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -233,12 +233,12 @@
       "id": 20,
       "question": "Can you ___ the door, please?",
       "options": {
-        "A": "open",
-        "B": "opens",
-        "C": "opening",
-        "D": "to open"
+        "A": "help",
+        "B": "horn",
+        "C": "hold",
+        "D": "hope"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
@@ -246,7 +246,7 @@
       "question": "What time ___ it?",
       "options": {
         "A": "is",
-        "B": "are",
+        "B": "it is",
         "C": "do",
         "D": "does"
       },
@@ -257,10 +257,10 @@
       "id": 22,
       "question": "We're ___ to the park this afternoon.",
       "options": {
-        "A": "go",
-        "B": "went",
+        "A": "traveling",
+        "B": "tripping",
         "C": "going",
-        "D": "goes"
+        "D": "doing"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -353,9 +353,9 @@
       "id": 30,
       "question": "I like to listen to ___ on my phone.",
       "options": {
-        "A": "news",
-        "B": "books",
-        "C": "music",
+        "A": "newspapers",
+        "B": "booklets",
+        "C": "songs",
         "D": "games"
       },
       "correct_answer": "C",
@@ -403,7 +403,7 @@
       "options": {
         "A": "idea",
         "B": "action",
-        "C": "thought",
+        "C": "access",
         "D": "plan"
       },
       "correct_answer": "B",
@@ -476,7 +476,7 @@
         "A": "moral",
         "B": "physical",
         "C": "scientific",
-        "D": "historical"
+        "D": "morality"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -547,7 +547,7 @@
       "options": {
         "A": "when it feels danger or needs food",
         "B": "when it wants to sleep or drink",
-        "C": "when it sees other kangaroos",
+        "C": "when it sees other, older kangaroos",
         "D": "when it wants to play or sleep"
       },
       "correct_answer": "A",
@@ -559,8 +559,8 @@
       "options": {
         "A": "it doesn't like the pouch",
         "B": "the mother pushes it out",
-        "C": "it becomes too big",
-        "D": "it wants to find food"
+        "C": "it becomes too big to fit",
+        "D": "it wants to find food and water"
       },
       "correct_answer": "C",
       "category": "Reading"
