@@ -44,7 +44,7 @@
         "A": "Tom go to school by bike every day.",
         "B": "Tom goes to school by bike every day.",
         "C": "Tom going to school by bike every day.",
-        "D": "Tom is goes to school by bike every day."
+        "D": "Tom is going to school by bike every day."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -68,7 +68,7 @@
         "A": "Swim",
         "B": "Swam",
         "C": "Swum",
-        "D": "Swimming"
+        "D": "Swamp"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -89,10 +89,10 @@
       "id": 8,
       "question": "Select the sentence with the correct possessive form.",
       "options": {
-        "A": "That is Johns book.",
-        "B": "That is John's book.",
-        "C": "That is Johns' book.",
-        "D": "That is John book."
+        "A": "That is Siphos book.",
+        "B": "That is Sipho's book.",
+        "C": "That is Siphos' book.",
+        "D": "That is Sipho book."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -113,10 +113,10 @@
       "id": 10,
       "question": "Choose the correct comparative form.",
       "options": {
-        "A": "This car is more cheap than that one.",
+        "A": "This car is more cheaper than that one.",
         "B": "This car is cheapest than that one.",
         "C": "This car is cheaper than that one.",
-        "D": "This car is more cheaper than that one."
+        "D": "This car is cheaper over that one."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -125,8 +125,8 @@
       "id": 11,
       "question": "Which sentence uses the present continuous correctly?",
       "options": {
-        "A": "I am eat dinner now.",
-        "B": "I eating dinner now.",
+        "A": "I had been eaten eat dinner now.",
+        "B": "I aeating dinner now.",
         "C": "I am eating dinner now.",
         "D": "I have been eating dinner now."
       },
@@ -140,7 +140,7 @@
         "A": "We build a snowman last winter.",
         "B": "We built a snowman last winter.",
         "C": "We building a snowman last winter.",
-        "D": "We are build a snowman last winter."
+        "D": "We are building a snowman last winter."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -183,21 +183,21 @@
     },
     {
       "id": 16,
-      "question": "Complete the sentence: 'Can you ___ me with my homework?'",
+      "question": "Complete the sentence: 'Can you ___ with me on this test?'",
       "options": {
         "A": "help",
-        "B": "helps",
-        "C": "helping",
-        "D": "to help"
+        "B": "work",
+        "C": "walk",
+        "D": "held"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 17,
       "question": "Choose the positive reply to 'Do you want to play football this afternoon?'",
       "options": {
-        "A": "Yes, I’d love to!",
+        "A": "Yes, I’d love to",
         "B": "No, I’m busy today.",
         "C": "Maybe later, I have homework.",
         "D": "I don’t like football."
@@ -207,12 +207,12 @@
     },
     {
       "id": 18,
-      "question": "Select the correct word to complete the sentence: 'She ___ up at 7 o'clock every morning.'",
+      "question": "Select the correct word to complete the sentence: 'She ___ at 7 o'clock every morning.'",
       "options": {
-        "A": "gets",
-        "B": "takes",
-        "C": "does",
-        "D": "makes"
+        "A": "gets up",
+        "B": "takes off",
+        "C": "has over ",
+        "D": "makes for"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -221,10 +221,10 @@
       "id": 19,
       "question": "Complete the sentence: 'I want ___ to the beach this weekend.'",
       "options": {
-        "A": "go",
-        "B": "going",
-        "C": "to go",
-        "D": "goes"
+        "A": "swim",
+        "B": "dive",
+        "C": "walk",
+        "D": "surf"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -233,7 +233,7 @@
       "id": 20,
       "question": "Choose the correct word: 'Hello! How ___ you today?'",
       "options": {
-        "A": "is",
+        "A": "will",
         "B": "are",
         "C": "do",
         "D": "am"
@@ -243,12 +243,12 @@
     },
     {
       "id": 21,
-      "question": "Select the best response to 'Thank you'.",
+      "question": "Select the best response to 'Thanks for help'.",
       "options": {
-        "A": "Please.",
-        "B": "You're welcome.",
-        "C": "Good morning.",
-        "D": "Goodbye."
+        "A": "Pleased for help.",
+        "B": "You're welcomed.",
+        "C": "Pleased to help.",
+        "D": "I had to help."
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -267,14 +267,14 @@
     },
     {
       "id": 23,
-      "question": "Choose the correct phrase: 'My birthday is ___ July.'",
+      "question": "Choose the correct phrase: 'My birthday is ___ 4-th July.'",
       "options": {
         "A": "in",
         "B": "on",
         "C": "at",
         "D": "by"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
@@ -296,7 +296,7 @@
         "A": "bake",
         "B": "buy",
         "C": "taste",
-        "D": "order"
+        "D": "take"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -319,8 +319,8 @@
       "options": {
         "A": "A set of items",
         "B": "A small book",
-        "C": "A type of car",
-        "D": "A part of a house"
+        "C": "A set of rules",
+        "D": "A part of a sheet"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -329,9 +329,9 @@
       "id": 28,
       "question": "What does 'weather' refer to?",
       "options": {
-        "A": "The time of day",
-        "B": "A season of the year",
-        "C": "A type of clothing",
+        "A": "The road conditions",
+        "B": "The rain season",
+        "C": "The water temperature",
         "D": "The condition outside"
       },
       "correct_answer": "D",
@@ -342,7 +342,7 @@
       "question": "What does 'stand' mean in this sentence: 'Please stand in line.'?",
       "options": {
         "A": "To sit down",
-        "B": "To be on your feet",
+        "B": "To wait for",
         "C": "To walk around",
         "D": "To run fast"
       },
@@ -353,10 +353,10 @@
       "id": 30,
       "question": "What does 'similar' mean?",
       "options": {
-        "A": "Different",
+        "A": "Not accurate",
         "B": "Opposite",
-        "C": "Same",
-        "D": "Strange"
+        "C": "The same",
+        "D": "Another"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -387,12 +387,12 @@
     },
     {
       "id": 33,
-      "question": "What does 'see' mean in this sentence: 'I can see a bird in the tree.'?",
+      "question": "What does 'see' mean in this sentence: 'I noticed a bird in the tree.'?",
       "options": {
-        "A": "To hear",
-        "B": "To notice",
-        "C": "To touch",
-        "D": "To smell"
+        "A": "I made a note",
+        "B": "I could see it ",
+        "C": "I tried to touch it",
+        "D": "I tried to catch it"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -402,33 +402,33 @@
       "question": "What is 'water'?",
       "options": {
         "A": "A liquid to drink",
-        "B": "A type of food",
-        "C": "A kind of clothing",
-        "D": "A color of a rainbow"
+        "B": "A liquid to fry on",
+        "C": "A kind of coke",
+        "D": "A blue color"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 35,
-      "question": "What does 'secure' mean?",
+      "question": "What does 'safe' mean?",
       "options": {
-        "A": "Fast",
-        "B": "Slow",
-        "C": "Safe",
-        "D": "Dangerous"
+        "A": "Second",
+        "B": "Secular",
+        "C": "Secure",
+        "D": "Security"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 36,
-      "question": "What does 'measure' mean?",
+      "question": "What does 'to find the amount of something' mean?",
       "options": {
-        "A": "To find the amount of something",
-        "B": "To find the keys to something",
-        "C": "To open the window of a building",
-        "D": "To clean the bathroom in a house"
+        "A": "To measure",
+        "B": "To misuse",
+        "C": "To collect",
+        "D": "To evaluate"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -437,7 +437,7 @@
       "id": 37,
       "question": "What is a 'couple'?",
       "options": {
-        "A": "No people",
+        "A": "Two cups",
         "B": "One person",
         "C": "Two people",
         "D": "Many people"
@@ -447,12 +447,12 @@
     },
     {
       "id": 38,
-      "question": "What is a 'session'?",
+      "question": "What is a 'period of time'?",
       "options": {
-        "A": "A long break",
-        "B": "A type of food",
-        "C": "A period of time",
-        "D": "A place to sit"
+        "A": "A letter",
+        "B": "A success",
+        "C": "A session",
+        "D": "A fashion"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -471,12 +471,12 @@
     },
     {
       "id": 40,
-      "question": "What does 'hit' mean?",
+      "question": "What does 'to beat something' mean?",
       "options": {
-        "A": "To beat something",
-        "B": "To walk slowly",
-        "C": "To speak quietly",
-        "D": "To sleep peacefully"
+        "A": "To hit",
+        "B": "To fit",
+        "C": "To fix",
+        "D": "To mix"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
