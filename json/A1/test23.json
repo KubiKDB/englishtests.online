@@ -27,10 +27,10 @@
     },
     {
       "id": 3,
-      "question": "Select the correct past tense form.",
+      "question": "Select the correct sentence.",
       "options": {
-        "A": "I walk to the store yesterday.",
-        "B": "I walking to the store yesterday.",
+        "A": "I wake to the store yesterday.",
+        "B": "I woke to the store yesterday.",
         "C": "I worked to the store yesterday.",
         "D": "I walked to the store yesterday."
       },
@@ -77,10 +77,10 @@
       "id": 7,
       "question": "Choose the correct form of 'to be'.",
       "options": {
-        "A": "We is happy.",
-        "B": "We am happy.",
-        "C": "We are happy.",
-        "D": "We be happy."
+        "A": "We is delighted.",
+        "B": "We am delighted.",
+        "C": "We are delighted.",
+        "D": "We be delighted."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -101,7 +101,7 @@
       "id": 9,
       "question": "Choose the correct comparative form:",
       "options": {
-        "A": "Today is coldest than yesterday.",
+        "A": "Today is as coldest as yesterday.",
         "B": "Today is colder than yesterday.",
         "C": "Today is more cold than yesterday.",
         "D": "Today is cold than yesterday."
@@ -113,12 +113,12 @@
       "id": 10,
       "question": "Select the correct article.",
       "options": {
-        "A": "She is a teacher.",
-        "B": "She is an teacher.",
-        "C": "She is the teacher.",
-        "D": "She is teacher."
+        "A": "She is a our teacher.",
+        "B": "She is an our teacher.",
+        "C": "She is the our teacher.",
+        "D": "She is our teacher."
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -151,8 +151,8 @@
       "options": {
         "A": "This is my book. It is my.",
         "B": "This is my book. It is mine.",
-        "C": "This is my book. It is me.",
-        "D": "This is my book. It is I."
+        "C": "This is my book. It is mind.",
+        "D": "This is my book. It is mined."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -197,7 +197,7 @@
       "id": 17,
       "question": "Fill in the blank: 'I need ____ buy some juice.'",
       "options": {
-        "A": "for",
+        "A": "too",
         "B": "at",
         "C": "to",
         "D": "of"
@@ -207,11 +207,11 @@
     },
     {
       "id": 18,
-      "question": "Choose the correct response: 'What time is it?' '____'",
+      "question": "Choose the correct response: 'What time is it?'",
       "options": {
         "A": "It's 3 o'clock.",
-        "B": "It's 3 hour.",
-        "C": "It's a good time.",
+        "B": "It's 3 hours.",
+        "C": "It's the 3 o'clock.",
         "D": "It's a 3 hours."
       },
       "correct_answer": "A",
@@ -283,7 +283,7 @@
       "options": {
         "A": "What",
         "B": "When",
-        "C": "How",
+        "C": "Who",
         "D": "Where"
       },
       "correct_answer": "D",
@@ -294,7 +294,7 @@
       "question": "Complete the sentence: 'I don't have ____ money.'",
       "options": {
         "A": "some",
-        "B": "a",
+        "B": "a lot",
         "C": "any",
         "D": "the"
       },
@@ -318,9 +318,9 @@
       "question": "What is a 'symbol'?",
       "options": {
         "A": "A sign",
-        "B": "An animal",
-        "C": "A plant",
-        "D": "A place"
+        "B": "A song",
+        "C": "A letter",
+        "D": "A number"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -341,10 +341,10 @@
       "id": 29,
       "question": "What is a 'theory'?",
       "options": {
-        "A": "A religion",
+        "A": "An imagination",
         "B": "An idea",
-        "C": "A proof",
-        "D": "A belief"
+        "C": "An ideal",
+        "D": "An opinion"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -387,12 +387,12 @@
     },
     {
       "id": 33,
-      "question": "Someone who is 'famous' is:",
+      "question": "A 'very known' is:",
       "options": {
-        "A": "very known",
-        "B": "very tall",
-        "C": "very strong",
-        "D": "very old"
+        "A": "Famous",
+        "B": "Favorite",
+        "C": "Flavor",
+        "D": "Facing"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -411,12 +411,12 @@
     },
     {
       "id": 35,
-      "question": "What does 'wash' mean?",
+      "question": "What does 'to make something clean' mean?",
       "options": {
-        "A": "To make something dry",
-        "B": "To make something clean",
-        "C": "To break something",
-        "D": "To eat something quickly"
+        "A": "To wish",
+        "B": "To wash",
+        "C": "To wall",
+        "D": "To will"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -426,8 +426,8 @@
       "question": "Which sentence uses 'anything' correctly?",
       "options": {
         "A": "I don't have anything to eat.",
-        "B": "I have anything to eat.",
-        "C": "I don't anything have to eat.",
+        "B": "I have anything to eat at all.",
+        "C": "I don't have noting to eat.",
         "D": "I have don't anything to eat."
       },
       "correct_answer": "A",
@@ -449,10 +449,10 @@
       "id": 38,
       "question": "What does 'collect' mean?",
       "options": {
-        "A": "To give",
-        "B": "To break",
+        "A": "Together",
+        "B": "To collide",
         "C": "To gather",
-        "D": "To lose"
+        "D": "To collab"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -462,7 +462,7 @@
       "question": "What is 'environment'?",
       "options": {
         "A": "Nature",
-        "B": "Sea",
+        "B": "Natural",
         "C": "Ocean",
         "D": "Forest"
       },
@@ -471,12 +471,12 @@
     },
     {
       "id": 40,
-      "question": "What is 'stock'?",
+      "question": "What is 'supply'?",
       "options": {
-        "A": "A demand",
-        "B": "A supply",
-        "C": "A reason",
-        "D": "A wish"
+        "A": "Stick",
+        "B": "Stock",
+        "C": "Stuck",
+        "D": "Stack"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -486,7 +486,7 @@
       "question": "According to the passage, who is the leader of a school?",
       "options": {
         "A": "The teacher",
-        "B": "The student",
+        "B": "The director",
         "C": "The principal",
         "D": "The parent"
       },
@@ -519,12 +519,12 @@
     },
     {
       "id": 44,
-      "question": "According to paragraph 3, a good principal listens to:",
+      "question": "According to paragraph 3, a good principal does not listen to:",
       "options": {
-        "A": "Only teachers",
-        "B": "Only students",
-        "C": "Only parents",
-        "D": "Teachers, students, and parents"
+        "A": "Teachers",
+        "B": "Students",
+        "C": "Parents",
+        "D": "Librarians"
       },
       "correct_answer": "D",
       "category": "Reading"
