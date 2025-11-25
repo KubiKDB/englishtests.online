@@ -5,10 +5,10 @@
       "id": 1,
       "question": "Which word is a verb?",
       "options": {
-        "A": "nice",
-        "B": "book",
-        "C": "walk",
-        "D": "happy"
+        "A": "five",
+        "B": "tool",
+        "C": "feel",
+        "D": "hill"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -32,7 +32,7 @@
         "A": "eat",
         "B": "eats",
         "C": "eating",
-        "D": "ate"
+        "D": "aten"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -41,10 +41,10 @@
       "id": 4,
       "question": "She _____ music on Spotify right now.",
       "options": {
-        "A": "listen",
+        "A": "lists",
         "B": "listens",
         "C": "is listening",
-        "D": "are listening"
+        "D": "is listing"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -161,10 +161,10 @@
       "id": 14,
       "question": "My friend _____ in a big house.",
       "options": {
-        "A": "live",
+        "A": "leaves",
         "B": "lives",
-        "C": "living",
-        "D": "is live"
+        "C": "left",
+        "D": "was lived"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -197,10 +197,10 @@
       "id": 17,
       "question": "I need _____ to the supermarket.",
       "options": {
-        "A": "go",
-        "B": "to go",
-        "C": "going",
-        "D": "goes"
+        "A": "to jump",
+        "B": "to dive",
+        "C": "to run",
+        "D": "to drive"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -267,12 +267,12 @@
     },
     {
       "id": 23,
-      "question": "This is my friend. _____ name is John.",
+      "question": "This is my friend. _____ name is Adeola.",
       "options": {
-        "A": "He",
-        "B": "His",
-        "C": "Him",
-        "D": "He's"
+        "A": "Here",
+        "B": "Her",
+        "C": "Hers",
+        "D": "She's"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -291,19 +291,19 @@
     },
     {
       "id": 25,
-      "question": "I like _____ music.",
+      "question": "She's dancing, I'd like to dance _____.",
       "options": {
-        "A": "listen",
-        "B": "listening",
-        "C": "to listen",
-        "D": "listens"
+        "A": "too well",
+        "B": "too",
+        "C": "to",
+        "D": "on"
       },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 26,
-      "question": "The chair is _____. It doesn't move.",
+      "question": "The ladder is _____. It doesn't move.",
       "options": {
         "A": "stand",
         "B": "stable",
@@ -353,10 +353,10 @@
       "id": 30,
       "question": "Please _____ your name on the form.",
       "options": {
-        "A": "post",
+        "A": "incline",
         "B": "include",
-        "C": "place",
-        "D": "present"
+        "C": "delude",
+        "D": "decline"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -522,7 +522,7 @@
       "question": "How should you move your toothbrush when brushing?",
       "options": {
         "A": "In small circles",
-        "B": "Up and down",
+        "B": "Up and down, down and up",
         "C": "Side to side",
         "D": "In big circles"
       },
@@ -536,7 +536,7 @@
         "A": "To make it clean and shiny",
         "B": "To remove bacteria and keep breath fresh",
         "C": "To prevent cavities and other diseases",
-        "D": "To make it strong and pink"
+        "D": "To make it stronger and resistant to bacteria"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -560,7 +560,7 @@
         "A": "Toothpaste",
         "B": "Toothbrushes",
         "C": "Going to the dentist",
-        "D": "Brushing your teeth"
+        "D": "Brushing your teeth and tounge"
       },
       "correct_answer": "C",
       "category": "Reading"
