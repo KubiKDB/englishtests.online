@@ -19,7 +19,7 @@
       "options": {
         "A": "I have two brother.",
         "B": "She like apples.",
-        "C": "They are from Spain.",
+        "C": "They are from Mexico.",
         "D": "He don't like coffee."
       },
       "correct_answer": "C",
@@ -44,7 +44,7 @@
         "A": "in",
         "B": "at",
         "C": "on",
-        "D": "from"
+        "D": "of"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -78,8 +78,8 @@
       "question": "Which sentence is in the present continuous tense?",
       "options": {
         "A": "She works at a hospital.",
-        "B": "They are watching TV now.",
-        "C": "He worked yesterday.",
+        "B": "They are watching a game now.",
+        "C": "He was working yesterday.",
         "D": "I will call you tomorrow."
       },
       "correct_answer": "B",
@@ -87,7 +87,7 @@
     },
     {
       "id": 8,
-      "question": "Select the correct possessive adjective: 'Mary is talking to ___ mother.'",
+      "question": "Select the correct possessive adjective: 'Juanita is talking to ___ mother.'",
       "options": {
         "A": "she",
         "B": "her",
@@ -113,8 +113,8 @@
       "id": 10,
       "question": "Which sentence uses 'there is' correctly?",
       "options": {
-        "A": "There is three books on the table.",
-        "B": "There is a pen in my bag.",
+        "A": "There is a book and two pens on the table.",
+        "B": "There is a pen lying beside my book.",
         "C": "There is many people at the park.",
         "D": "There is two cars in the garage."
       },
@@ -139,7 +139,7 @@
       "options": {
         "A": "I am like ice cream.",
         "B": "He am a doctor.",
-        "C": "They is happy.",
+        "C": "They is fuuny.",
         "D": "She is a teacher."
       },
       "correct_answer": "D",
@@ -269,7 +269,7 @@
       "id": 23,
       "question": "Choose the correct word: 'You need to practice if you want to ___ your English.'",
       "options": {
-        "A": "better",
+        "A": "impact",
         "B": "clean",
         "C": "improve",
         "D": "raise"
@@ -284,7 +284,7 @@
         "A": "deep",
         "B": "tall",
         "C": "high",
-        "D": "low"
+        "D": "dip"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -329,9 +329,9 @@
       "id": 28,
       "question": "Which word means 'moving quickly'?",
       "options": {
-        "A": "slow",
-        "B": "large",
-        "C": "small",
+        "A": "last",
+        "B": "quiz",
+        "C": "fist",
         "D": "fast"
       },
       "correct_answer": "D",
@@ -365,8 +365,8 @@
       "id": 31,
       "question": "Which word describes something that looks beautiful?",
       "options": {
-        "A": "very large",
-        "B": "very deep",
+        "A": "very fine",
+        "B": "very fined",
         "C": "very nice",
         "D": "very fast"
       },
@@ -389,9 +389,9 @@
       "id": 33,
       "question": "Which word means 'big in size'?",
       "options": {
-        "A": "sharp",
-        "B": "shallow",
-        "C": "scale",
+        "A": "lard",
+        "B": "high",
+        "C": "tall",
         "D": "large"
       },
       "correct_answer": "D",
@@ -437,7 +437,7 @@
       "id": 37,
       "question": "The air is:",
       "options": {
-        "A": "liquid",
+        "A": "invictus",
         "B": "invisible",
         "C": "invincible",
         "D": "inventive"
