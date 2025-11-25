@@ -20,7 +20,7 @@
         "A": "What",
         "B": "Where",
         "C": "When",
-        "D": "Why"
+        "D": "How"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -79,7 +79,7 @@
       "options": {
         "A": "Portugal",
         "B": "Portugal's",
-        "C": "Portuese",
+        "C": "Portugeese",
         "D": "Portuguese"
       },
       "correct_answer": "D",
@@ -114,7 +114,7 @@
       "question": "She is taller _____ her brother.",
       "options": {
         "A": "from",
-        "B": "as",
+        "B": "then",
         "C": "than",
         "D": "that"
       },
@@ -173,7 +173,7 @@
       "id": 15,
       "question": "These books are _____.",
       "options": {
-        "A": "I",
+        "A": "mined",
         "B": "me",
         "C": "my",
         "D": "mine"
@@ -543,12 +543,12 @@
     },
     {
       "id": 46,
-      "question": "According to the passage, what can use solar panels?",
+      "question": "Not mentioned in the passage as those using solar panels:",
       "options": {
-        "A": "Only houses",
-        "B": "Only cars",
-        "C": "Only buildings",
-        "D": "Houses, buildings, and cars"
+        "A": "Houses",
+        "B": "Cars",
+        "C": "Buildings",
+        "D": "Farms"
       },
       "correct_answer": "D",
       "category": "Reading"
@@ -581,7 +581,7 @@
       "id": 49,
       "question": "What is the main idea of this passage?",
       "options": {
-        "A": "The sun gives us light during the day",
+        "A": "The sun gives us light during the year",
         "B": "The sun is important for life on Earth",
         "C": "The sun creates different seasons",
         "D": "The sun helps us make vitamin D"
