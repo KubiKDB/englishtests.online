@@ -6,24 +6,24 @@
       "id": 1,
       "question": "Which sentence is correct?",
       "options": {
-        "A": "She don't like ice cream.", 
-        "B": "She doesn't likes ice cream.", 
-        "C": "She doesn't like ice cream.", 
-        "D": "She not like ice cream."
+        "A": "He blames yourself for failure.", 
+        "B": "They facing a difficult problem.", 
+        "C": "She doesn't like swimming.", 
+        "D": "We have ever been to Texas."
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 2,
-      "question": "Choose the correct form: 'John ___ tennis every Saturday.'",
+      "question": "Choose the correct form: 'The Johnsons ___ tennis every Saturday.'",
       "options": {
         "A": "play", 
         "B": "plays", 
         "C": "playing", 
         "D": "is play"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
@@ -69,7 +69,7 @@
         "A": "Me", 
         "B": "You", 
         "C": "I", 
-        "D": "She"
+        "D": "We"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -78,36 +78,36 @@
       "id": 7,
       "question": "Which sentence is correct?",
       "options": {
-        "A": "They is happy.", 
-        "B": "They are happy.", 
-        "C": "They be happy.", 
-        "D": "They am happy."
+        "A": "They users to be musicians.", 
+        "B": "They are used to be musicians.", 
+        "C": "They have used to be musicians.", 
+        "D": "They used to be musicians."
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 8,
       "question": "Choose the correct possessive form: 'This is ___ pet.'",
       "options": {
-        "A": "Mary", 
-        "B": "Marys", 
-        "C": "Mary's", 
-        "D": "Marys'"
+        "A": "There", 
+        "B": "Here", 
+        "C": "Their", 
+        "D": "Hair'"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 9,
-      "question": "Which article is correct? 'I need ___ umbrella because it's raining.'",
+      "question": "Which article is correct? 'We need ___ umbrellas because it's raining.'",
       "options": {
         "A": "a", 
         "B": "an", 
         "C": "the", 
         "D": "–"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -124,11 +124,11 @@
     },
     {
       "id": 11,
-      "question": "Which preposition is correct? 'The cat is ___ there.'",
+      "question": "Which preposition is correct? 'Look, the cat is ___ there.'",
       "options": {
         "A": "over", 
-        "B": "on", 
-        "C": "in", 
+        "B": "out", 
+        "C": "onto", 
         "D": "from"
       },
       "correct_answer": "A",
@@ -139,7 +139,7 @@
       "question": "Choose the correct form: 'They ___ some chocolate.'",
       "options": {
         "A": "eight", 
-        "B": "weigh", 
+        "B": "weight", 
         "C": "ate", 
         "D": "mate"
       },
@@ -150,7 +150,7 @@
       "id": 13,
       "question": "What is the comparative form of 'little'?",
       "options": {
-        "A": "littler", 
+        "A": "lesson", 
         "B": "more little", 
         "C": "less",
         "D": "lessen"
@@ -174,10 +174,10 @@
       "id": 15,
       "question": "Which sentence has the correct word order?",
       "options": {
-        "A": "Always she goes to school by bus.", 
-        "B": "She goes always to school by bus.", 
-        "C": "She always goes to school by bus.",
-        "D": "She goes to school always by bus."},
+        "A": "I like until the noon to sleep.", 
+        "B": "Until the noon I like to sleep .", 
+        "C": "I like to sleep until the noon.",
+        "D": "I like the noon until to sleep."},
       "correct_answer": "C",
       "category": "Grammar"
     },
@@ -195,12 +195,12 @@
     },
     {
       "id": 17,
-      "question": "Which phrase is used to say goodbye?",
+      "question": "Which phrase is used before saying goodbye?",
       "options": {
-        "A": "Hello",
-        "B": "Good morning", 
-        "C": "See you later", 
-        "D": "Thank you"
+        "A": "It was a wonderful evening",
+        "B": "Good to know you're ok", 
+        "C": "It was nice to meet you", 
+        "D": "Thank you, meet next time"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -221,10 +221,10 @@
       "id": 19,
       "question": "Which question asks about someone's job?",
       "options": {
-        "A": "How old are you?", 
-        "B": "Where is your job?",
-        "C": "What do you do?", 
-        "D": "When is your birthday?"
+        "A": "What do you do for a leaving?", 
+        "B": "What do you do for a lying?",
+        "C": "What do you do for a living?", 
+        "D": "When does is your job start?"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -233,10 +233,10 @@
       "id": 20,
       "question": "Choose the correct response to 'Thank you':",
       "options": {
-        "A": "Yes, please.", 
+        "A": "Don't talk about it.", 
         "B": "Don't mention it.", 
-        "C": "I'm sorry.", 
-        "D": "Excuse me."
+        "C": "It wasn't your fault.", 
+        "D": "I proud of you."
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -245,10 +245,10 @@
       "id": 21,
       "question": "Select the phrase used to introduce yourself:",
       "options": {
-        "A": "How do you do?", 
-        "B": "What's your name?", 
-        "C": "My name is David.", 
-        "D": "Nice to meet you too."
+        "A": "Welcome Narendra", 
+        "B": "Call me Narendra", 
+        "C": "Me name is Narendra.", 
+        "D": "Narendra is mine name."
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -293,24 +293,24 @@
       "id": 25,
       "question": "Which phrase is used to apologize?",
       "options": {
-        "A": "Nevermind", 
-        "B": "Thank you", 
+        "A": "I'm in sorry", 
+        "B": "I'm sorrow", 
         "C": "I'm sorry", 
-        "D": "You're welcome"
+        "D": "I'm worry"
       },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 26,
-      "question": "What does 'busy' mean?",
+      "question": "What does 'having a lot to do' mean?",
       "options": {
-        "A": "having a lot to do", 
-        "B": "having nothing to do", 
-        "C": "very tired", 
-        "D": "very happy"
+        "A": "to be lazy", 
+        "B": "to be busy", 
+        "C": "to be lucky", 
+        "D": "to be bruised"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
@@ -319,8 +319,8 @@
       "options": {
         "A": "Can you look my bag?", 
         "B": "I look at the picture.", 
-        "C": "She look very tall.", 
-        "D": "They look the movie."
+        "C": "She looks very tall.", 
+        "D": "They look a good movie."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -329,22 +329,22 @@
       "id": 28,
       "question": "What does it mean to 'examine' something?",
       "options": {
-        "A": "to buy it", 
-        "B": "to sell it", 
-        "C": "to review it", 
-        "D": "to break it"
+        "A": "to reject", 
+        "B": "to accept", 
+        "C": "to review", 
+        "D": "to revive"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 29,
-      "question": "A 'car' is:",
+      "question": "A 'vehicle to drive' is:",
       "options": {
-        "A": "a place to live", 
-        "B": "a vehicle to drive",
-        "C": "a tool for repairs", 
-        "D": "a list of items"
+        "A": "a bar", 
+        "B": "a craw",
+        "C": "a card", 
+        "D": "a car"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -353,12 +353,12 @@
       "id": 30,
       "question": "What is a 'goal'?",
       "options": {
-        "A": "something you want to achieve", 
-        "B": "something you want to drink", 
-        "C": "something you want to give", 
-        "D": "something you want to sell"
+        "A": "something you want to assess", 
+        "B": "something you want to archive", 
+        "C": "something you want to achieve", 
+        "D": "something you want to rich"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -368,7 +368,7 @@
         "A": "all", 
         "B": "none", 
         "C": "some", 
-        "D": "only one"
+        "D": "same"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -378,21 +378,21 @@
       "question": "Which sentence uses 'ever' correctly?",
       "options": {
         "A": "I don't ever eat meat.",
-        "B": "She ever goes to school.",
-        "C": "They ever happy.", 
-        "D": "He ever the coffee."
+        "B": "She ever flies on vacation.",
+        "C": "They ever live happilly.", 
+        "D": "He ever drank coffee."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 33,
-      "question": "What is a 'shoe'?",
+      "question": "What is 'something you wear on your feet'?",
       "options": {
-        "A": "something you wear on your head", 
-        "B": "something you wear on your hands", 
-        "C": "something you wear on your feet", 
-        "D": "something you wear under jacket"
+        "A": "both", 
+        "B": "booth", 
+        "C": "boots", 
+        "D": "roots"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -401,7 +401,7 @@
       "id": 34,
       "question": "What is a 'rock'?",
       "options": {
-        "A": "a hard material", 
+        "A": "a type of material", 
         "B": "a type of music", 
         "C": "a type of painting", 
         "D": "both A and B"
@@ -413,34 +413,34 @@
       "id": 35,
       "question": "Which sentence uses 'spend' correctly?",
       "options": {
-        "A": "I spend happy.", 
-        "B": "She spend the book.", 
-        "C": "They spend money on food.", 
-        "D": "He spend to school early."
+        "A": "I spend many days at work last month.", 
+        "B": "She spend many books in the library.", 
+        "C": "They spend a lot of money on food.", 
+        "D": "He spend his knowledge significantly."
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 36,
-      "question": "The word 'obtain' means:",
+      "question": "To 'get something' means:",
       "options": {
-        "A": "to get something", 
-        "B": "to lose something", 
-        "C": "to break something", 
-        "D": "to sell something"
+        "A": "to retain", 
+        "B": "to detain", 
+        "C": "to obtuse", 
+        "D": "to obtain"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 37,
       "question": "What does 'mobile' mean?",
       "options": {
-        "A": "staying in one place",
-        "B": "able to move", 
-        "C": "very big",
-        "D": "very small"
+        "A": "calling",
+        "B": "moving", 
+        "C": "ruining",
+        "D": "diving"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -451,8 +451,8 @@
       "options": {
         "A": "He pointed the picture.", 
         "B": "Can you point to the door?", 
-        "C": "She point at the door.", 
-        "D": "They have a happy point."
+        "C": "She point to the left.", 
+        "D": "They have a navy point."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -473,10 +473,10 @@
       "id": 40,
       "question": "Which sentence uses 'hold' correctly?",
       "options": {
-        "A": "Can you hold this bag for me?", 
-        "B": "I hold to school every day.", 
-        "C": "She hold very tall.", 
-        "D": "They hold yesterday."
+        "A": "I can you hold this bag for you.", 
+        "B": "I hold my dog all day.", 
+        "C": "She hold her future.", 
+        "D": "They hold a victory yesterday."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -498,9 +498,10 @@
       "question": "Based on the passage, penguins spend most of their time:",
       "options": {
         "A": "flying in the air", 
-        "B": "climbing trees", 
+        "B": "climbing rocks and ice", 
         "C": "in water or on land", 
-        "D": "sleeping"},
+        "D": "sleeping"
+      },
       "correct_answer": "C",
       "category": "Reading"
     },
@@ -534,7 +535,7 @@
       "options": {
         "A": "swim faster than modern penguins",
         "B": "live in warm places", 
-        "C": "fly", 
+        "C": "fly in the sky", 
         "D": "walk faster"
       },
       "correct_answer": "C",
@@ -557,7 +558,7 @@
       "question": "According to the passage, in the water where penguins live there are:",
       "options": {
         "A": "few fish to eat", 
-        "B": "many animals that can hurt them", 
+        "B": "many predators", 
         "C": "many fish to eat", 
         "D": "no other animals"
       },
@@ -570,10 +571,10 @@
       "options": {
         "A": "They fly short distances", 
         "B": "They walk on two feet and two wings",
-        "C": "They walk on two feet or slide on their bellies", 
-        "D": "They only swim and never go on land"
+        "C": "They only swim and never go on land", 
+        "D": "They walk on two feet or slide on their bellies"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
