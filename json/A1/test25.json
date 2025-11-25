@@ -115,7 +115,7 @@
       "options": {
         "A": "What", 
         "B": "When", 
-        "C": "Where", 
+        "C": "How", 
         "D": "Who"
       },
       "correct_answer": "A",
@@ -135,7 +135,7 @@
     },
     {
       "id": 12,
-      "question": "Which sentence is in the future tense?",
+      "question": "Which sentence is in the future simple tense?",
       "options": {
         "A": "I go to school.", 
         "B": "I am going to school.", 
@@ -272,7 +272,7 @@
         "A": "Yes, please", 
         "B": "No, thanks", 
         "C": "Tea, please", 
-        "D": "You're welcome"
+        "D": "Tea or coffee"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -294,9 +294,9 @@
       "question": "Complete the sentence: 'Can I _____ your pen?'",
       "options": {
         "A": "lend", 
-        "B": "give", 
+        "B": "bring", 
         "C": "borrow", 
-        "D": "help"
+        "D": "borough"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -319,7 +319,7 @@
       "options": {
         "A": "wrong", 
         "B": "right", 
-        "C": "hard", 
+        "C": "left", 
         "D": "easy"
       },
       "correct_answer": "B",
@@ -331,20 +331,20 @@
       "options": {
         "A": "to focus", 
         "B": "to forget", 
-        "C": "to sleep", 
-        "D": "to play"
+        "C": "to concise", 
+        "D": "to mix"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 29,
-      "question": "What is a 'pattern'?",
+      "question": "What is a 'repeated design'?",
       "options": {
-        "A": "a forgotten story", 
-        "B": "a repeated design", 
-        "C": "a fierce animal", 
-        "D": "a hot drink"
+        "A": "a party", 
+        "B": "a pattern", 
+        "C": "a patron", 
+        "D": "a patriot"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -353,10 +353,10 @@
       "id": 30,
       "question": "What does 'to express gratitude' mean?",
       "options": {
-        "A": "to ask", 
+        "A": "to think", 
         "B": "to thank", 
         "C": "to give", 
-        "D": "to take"
+        "D": "to grate"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -365,9 +365,9 @@
       "id": 31,
       "question": "What does 'to operate a vehicle' mean?",
       "options": {
-        "A": "to walk", 
+        "A": "to dive", 
         "B": "to drive", 
-        "C": "to swim", 
+        "C": "to ride", 
         "D": "to run"
       },
       "correct_answer": "B",
@@ -413,10 +413,10 @@
       "id": 35,
       "question": "What is a 'pound'?",
       "options": {
-        "A": "a type of animal", 
+        "A": "a type of lake", 
         "B": "a unit of weight", 
         "C": "a musical instrument", 
-        "D": "a type of weather"
+        "D": "a unit of time"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -536,7 +536,7 @@
         "A": "Grass and leaves", 
         "B": "Bark from trees", 
         "C": "Fruits and vegetables", 
-        "D": "Only water"
+        "D": "Grapes and grapefruits"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -569,9 +569,9 @@
       "id": 48,
       "question": "Why do elephants eat bark from trees?",
       "options": {
-        "A": "Because it tastes good", 
+        "A": "Because it tastes like chocolate", 
         "B": "Because it has important nutrients", 
-        "C": "Because it helps them sleep", 
+        "C": "Because it helps them sleep better", 
         "D": "Because it helps their digestion"
       },
       "correct_answer": "B",
