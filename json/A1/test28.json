@@ -29,7 +29,7 @@
       "id": 3,
       "question": "They ___ running right now.",
       "options": {
-        "A": "is",
+        "A": "were",
         "B": "am",
         "C": "be",
         "D": "are"
@@ -104,7 +104,7 @@
         "A": "repaired",
         "B": "prepare",
         "C": "prepared",
-        "D": "repair"
+        "D": "repaired"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -187,7 +187,7 @@
       "options": {
         "A": "help",
         "B": "make",
-        "C": "do",
+        "C": "aiding",
         "D": "give"
       },
       "correct_answer": "A",
@@ -488,7 +488,7 @@
         "A": "Language skills",
         "B": "Important skills",
         "C": "Computer skills",
-        "D": "Reading skills"
+        "D": "Improving skills"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -581,10 +581,10 @@
       "id": 49,
       "question": "What is the main idea of this passage?",
       "options": {
-        "A": "Art classes are fun",
+        "A": "Art classes are not important",
         "B": "Why students like art classes",
         "C": "The importance of art education",
-        "D": "How to teach art classes"
+        "D": "How to teach art classes properly"
       },
       "correct_answer": "C",
       "category": "Reading"
