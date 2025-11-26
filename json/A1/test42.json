@@ -41,7 +41,7 @@
       "id": 4,
       "question": "Which sentence uses the past tense correctly?",
       "options": {
-        "A": "I goed to the store yesterday.",
+        "A": "I gone to the store yesterday.",
         "B": "She comed home late.",
         "C": "They eated lunch at 2 pm.",
         "D": "He worked until 6 pm."
@@ -79,7 +79,7 @@
       "options": {
         "A": "This is Peters book.",
         "B": "The dog's food is in the kitchen.",
-        "C": "Those are the childrens toys.",
+        "C": "Those are the childrens' toys.",
         "D": "The womans' bag is red."
       },
       "correct_answer": "B",
@@ -125,7 +125,7 @@
       "id": 11,
       "question": "Which sentence uses adjectives correctly?",
       "options": {
-        "A": "She has a red big car.",
+        "A": "She has an orange big car.",
         "B": "This is a small cute dog.",
         "C": "He bought an old wooden table.",
         "D": "I saw a Chinese old man."
@@ -149,8 +149,8 @@
       "id": 13,
       "question": "Select the sentence with correct subject-verb agreement.",
       "options": {
-        "A": "The children is playing outside.",
-        "B": "The cat and the dog is sleeping.",
+        "A": "The children is playing outside the garden.",
+        "B": "The cat and the dog is sleeping on the sofa.",
         "C": "My friend and I are going to the movies.",
         "D": "One of my friends are coming to visit."
       },
@@ -212,7 +212,7 @@
         "A": "a",
         "B": "an",
         "C": "the",
-        "D": "those"
+        "D": "-"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -267,11 +267,11 @@
     },
     {
       "id": 23,
-      "question": "Choose the correct response: 'What is the weather like today?' '_____.'",
+      "question": "Choose the correct response: 'What is the weather like today?'",
       "options": {
         "A": "It's happy.",
         "B": "It's sunny.",
-        "C": "It's Monday.",
+        "C": "It's Sunday.",
         "D": "It's rain."
       },
       "correct_answer": "B",
@@ -294,7 +294,7 @@
       "question": "Complete the question: '_____ do you live?'",
       "options": {
         "A": "What",
-        "B": "Who",
+        "B": "Whose",
         "C": "Where",
         "D": "When"
       },
@@ -317,12 +317,12 @@
       "id": 27,
       "question": "Which word means 'a noise you can hear'?",
       "options": {
-        "A": "Sound",
-        "B": "Sight",
-        "C": "Smell",
-        "D": "Taste"
+        "A": "Bound",
+        "B": "Found",
+        "C": "Sound",
+        "D": "South"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -355,8 +355,8 @@
       "options": {
         "A": "A place to trade your items",
         "B": "A place to exchange stocks",
-        "C": "A place to buy and sell things",
-        "D": "A place to find friends"
+        "C": "A place to buy and sell products",
+        "D": "A place to find new friends"
       },
       "correct_answer": "D",
       "category": "Vocabulary"
@@ -365,9 +365,9 @@
       "id": 31,
       "question": "Which word describes someone who does a lot of physical exercises?",
       "options": {
-        "A": "Tired",
-        "B": "Lazy",
-        "C": "Quiet",
+        "A": "Actor",
+        "B": "Accept",
+        "C": "Accute",
         "D": "Active"
       },
       "correct_answer": "D",
@@ -387,12 +387,12 @@
     },
     {
       "id": 33,
-      "question": "What is a 'sheet'?",
+      "question": "What is a 'piece of paper'?",
       "options": {
-        "A": "A piece of fruit",
-        "B": "A piece of paper",
-        "C": "A piece of vegetable",
-        "D": "A piece of wood"
+        "A": "A ship",
+        "B": "A sheet",
+        "C": "A sheep",
+        "D": "A sheen"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -411,12 +411,12 @@
     },
     {
       "id": 35,
-      "question": "What does a 'teacher' do?",
+      "question": "Who helps people learn?",
       "options": {
-        "A": "Helps people in restaurants",
-        "B": "Helps people fix cars",
-        "C": "Helps people learn",
-        "D": "Helps people build houses"
+        "A": "A preacher",
+        "B": "A toucher",
+        "C": "A teacher",
+        "D": "A reacher"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -459,12 +459,12 @@
     },
     {
       "id": 39,
-      "question": "What is a 'farm'?",
+      "question": "What is a 'place where animals and crops are'?",
       "options": {
-        "A": "A place where people live in a city",
-        "B": "A place where animals and crops are",
-        "C": "A place where people work in offices",
-        "D": "A place where people go swimming"
+        "A": "A firm",
+        "B": "A farm",
+        "C": "A form",
+        "D": "A norm"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -524,7 +524,7 @@
         "A": "Using their bodies and movements",
         "B": "Catching special fish",
         "C": "Building homes underwater",
-        "D": "Writing messages in the sand"
+        "D": "Connecting by short visual messages"
       },
       "correct_answer": "A",
       "category": "Reading"
@@ -593,7 +593,7 @@
       "id": 50,
       "question": "Why do scientists study dolphin communication?",
       "options": {
-        "A": "To teach humans to speak dolphin language",
+        "A": "To teach humans to speak with dolphins their language",
         "B": "To make dolphins perform in shows for humans",
         "C": "To understand dolphins better and protect them",
         "D": "To help dolphins find food and shelter"
