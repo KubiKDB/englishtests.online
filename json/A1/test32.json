@@ -7,11 +7,11 @@
       "question": "Which word completes the sentence: 'She ___ to do this.'",
       "options": {
         "A": "went going", 
-        "B": "was going", 
+        "B": "were going", 
         "C": "will going", 
-        "D": "were going"
+        "D": "was going"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -52,12 +52,12 @@
     },
     {
       "id": 5,
-      "question": "Which is the correct past tense of 'eat'?",
+      "question": "Which is the correct past tense of 'wake'?",
       "options": {
-        "A": "eat", 
-        "B": "eated",
-        "C": "ate", 
-        "D": "eaten"
+        "A": "wake", 
+        "B": "waken",
+        "C": "woke", 
+        "D": "waked"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -100,24 +100,24 @@
     },
     {
       "id": 9,
-      "question": "Which preposition is correct? 'I go to work ___ bus.'",
+      "question": "Which preposition is correct? 'Estrella is sitting ___ taxi.'",
       "options": {
         "A": "by", 
-        "B": "with",
+        "B": "inside",
         "C": "on", 
         "D": "in"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 10,
       "question": "What is the correct possessive form? 'This is ___ iPhone.'",
       "options": {
-        "A": "Jake", 
-        "B": "Jakes", 
-        "C": "Jake's", 
-        "D": "Jakes'"
+        "A": "Mercedes", 
+        "B": "Mercedes'", 
+        "C": "Mercedes's", 
+        "D": "Mercedes'es'"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -148,12 +148,12 @@
     },
     {
       "id": 13,
-      "question": "Which is the correct question form? 'You are a student. ___ '",
+      "question": "Which is the correct question form?",
       "options": {
         "A": "You are a student?", 
         "B": "Are you a student?", 
         "C": "A student are you?", 
-        "D": "Student you are?"
+        "D": "Is you a student?"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -174,7 +174,7 @@
       "id": 15,
       "question": "Which verb is correct? 'Yesterday, I ___ my old friend at the store.'",
       "options": {
-        "A": "was", 
+        "A": "seed", 
         "B": "saw",
         "C": "watched",
         "D": "looked"
@@ -189,7 +189,7 @@
         "A": "up",
         "B": "in", 
         "C": "off",
-        "D": "over"
+        "D": "of"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -201,21 +201,21 @@
         "A": "David/Daniel", 
         "B": "Michael/Lucie", 
         "C": "Michelle/Ben", 
-        "D": "Jane/John"
+        "D": "Camila/Juanita"
       },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 18,
-      "question": "Which phrase is used to introduce yourself?",
+      "question": "Which phrase is not used to introduce someone?",
       "options": {
-        "A": "How do you do?",
-        "B": "What's your name?",
+        "A": "I am Manuela",
+        "B": "It was nice to meet Gael",
         "C": "My name is Paul.", 
-        "D": "Nice to meet you too."
+        "D": "You can call me Emiliano."
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
@@ -234,8 +234,8 @@
       "id": 20,
       "question": "Which expression is used to thank someone?",
       "options": {
-        "A": "Please", 
-        "B": "Excuse me",
+        "A": "Please, welcome", 
+        "B": "I'm grated",
         "C": "I great you", 
         "D": "I'm grateful"
       },
@@ -244,7 +244,7 @@
     },
     {
       "id": 21,
-      "question": "Choose the correct response: 'Shall I open the door?' '___ '",
+      "question": "Choose the correct response: 'Shall I open the door?'",
       "options": {
         "A": "Yes, please.",
         "B": "Yes, you shall.", 
@@ -260,8 +260,8 @@
       "options": {
         "A": "Excuse you", 
         "B": "I'm sorry",
-        "C": "Thank you",
-        "D": "You're welcome"
+        "C": "You sorry me",
+        "D": "No pardon"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -283,8 +283,8 @@
       "question": "Which phrase asks about someone's job?",
       "options": {
         "A": "How are you living?", 
-        "B": "What do you do for living?",
-        "C": "Where are you living?", 
+        "B": "What do you do for a living?",
+        "C": "Where is your living?", 
         "D": "How old have you been living?"
       },
       "correct_answer": "B",
@@ -321,17 +321,17 @@
         "A": "I need a scale to weigh myself.",
         "B": "The scale is very hot today.", 
         "C": "I scale my breakfast before eating.", 
-        "D": "Please scale the door."
+        "D": "Please scale thsi task."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 28,
-      "question": "What is 'an opening in a wall or door'?",
+      "question": "What is 'an opening in a wall'?",
       "options": {
         "A": "cupboard", 
-        "B": "fridge", 
+        "B": "floor", 
         "C": "window",
         "D": "ceiling"
       },
@@ -354,7 +354,7 @@
       "id": 30,
       "question": "Which sentence uses 'her' correctly?",
       "options": {
-        "A": "Her is happy.",
+        "A": "Her is sleeping.",
         "B": "This is her book.", 
         "C": "I like her play football.",
         "D": "Her is my brother."},
@@ -363,12 +363,12 @@
     },
     {
       "id": 31,
-      "question": "What does 'to be equal on both sides' mean?",
+      "question": "What does 'equal on both sides' mean?",
       "options": {
-        "A": "to be divided",
-        "B": "to be in balance",
-        "C": "to feel good", 
-        "D": "to remain silent"
+        "A": "balloon",
+        "B": "balanced",
+        "C": "blanked", 
+        "D": "blanket"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -402,7 +402,7 @@
       "question": "Which sentence uses 'reach' correctly?",
       "options": {
         "A": "I reach lunch at school every day.", 
-        "B": "Can you reach that book for me?",
+        "B": "You can reach that book for me",
         "C": "She reach very tall basketball ring.", 
         "D": "They reach each other yesterday."
       },
@@ -435,14 +435,14 @@
     },
     {
       "id": 37,
-      "question": "What does 'avoid' mean?",
+      "question": "What does 'to stay away from' mean?",
       "options": {
-        "A": "to stay away from", 
-        "B": "to like very much", 
-        "C": "to find something", 
-        "D": "to break something"
+        "A": "adore", 
+        "B": "alike", 
+        "C": "arise", 
+        "D": "avoid"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -451,8 +451,8 @@
       "options": {
         "A": "It doesn't matter what color you choose.", 
         "B": "I matter a new T-shirt to school every day.", 
-        "C": "She matters a lot at studies.",
-        "D": "They matter their homework very late."
+        "C": "She matters a lot materials at studies.",
+        "D": "The players matter their playground."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -473,7 +473,7 @@
       "id": 40,
       "question": "The word 'all' means:",
       "options": {
-        "A": "none", 
+        "A": "no one", 
         "B": "some", 
         "C": "many",
         "D": "every one"
