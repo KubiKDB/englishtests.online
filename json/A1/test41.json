@@ -138,7 +138,7 @@
       "question": "I have two ______. One is a boy and one is a girl.",
       "options": {
         "A": "childs",
-        "B": "child",
+        "B": "childrens",
         "C": "childes",
         "D": "children"
       },
@@ -188,7 +188,7 @@
         "A": "What",
         "B": "When",
         "C": "Where",
-        "D": "Who"
+        "D": "How"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -200,7 +200,7 @@
         "A": "do",
         "B": "like",
         "C": "am",
-        "D": "yes"
+        "D": "will"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -235,7 +235,7 @@
       "options": {
         "A": "Do",
         "B": "Are",
-        "C": "Be",
+        "C": "Does",
         "D": "Make"
       },
       "correct_answer": "A",
@@ -305,7 +305,7 @@
       "id": 26,
       "question": "It is the school's ______ that all students must wear a uniform.",
       "options": {
-        "A": "picture",
+        "A": "politics",
         "B": "policy",
         "C": "party",
         "D": "police"
@@ -317,10 +317,10 @@
       "id": 27,
       "question": "Doctors say you should do ______ every day to stay healthy.",
       "options": {
-        "A": "eat",
-        "B": "sleep",
-        "C": "read",
-        "D": "exercise"
+        "A": "excertions",
+        "B": "accepts",
+        "C": "exceptions",
+        "D": "exercises"
       },
       "correct_answer": "D",
       "category": "Vocabulary"
@@ -344,7 +344,7 @@
         "A": "for",
         "B": "until",
         "C": "since",
-        "D": "on"
+        "D": "till"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -353,10 +353,10 @@
       "id": 30,
       "question": "Our basketball ______ is very tall and he was a good player.",
       "options": {
-        "A": "cook",
+        "A": "roach",
         "B": "coach",
-        "C": "cleaner",
-        "D": "driver"
+        "C": "poach",
+        "D": "torch"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -366,7 +366,7 @@
       "question": "On hot days, we love to ______ in the lake.",
       "options": {
         "A": "run",
-        "B": "cross",
+        "B": "skate",
         "C": "ski",
         "D": "swim"
       },
@@ -389,8 +389,8 @@
       "id": 33,
       "question": "This bed is too soft. I need a ______ mattress.",
       "options": {
-        "A": "low",
-        "B": "big",
+        "A": "fire",
+        "B": "farm",
         "C": "firm",
         "D": "form"
       },
@@ -413,8 +413,8 @@
       "id": 35,
       "question": "My ______ hurts. I think I need to see a doctor.",
       "options": {
-        "A": "book",
-        "B": "bag",
+        "A": "band",
+        "B": "hang",
         "C": "hand",
         "D": "home"
       },
@@ -438,7 +438,7 @@
       "question": "The film starts ______ at 7:00 PM. We should leave now.",
       "options": {
         "A": "after",
-        "B": "yesterday",
+        "B": "noon",
         "C": "soon",
         "D": "ago"
       },
@@ -451,7 +451,7 @@
       "options": {
         "A": "eleven",
         "B": "thirteen",
-        "C": "ten",
+        "C": "thirty",
         "D": "twenty"
       },
       "correct_answer": "B",
@@ -461,10 +461,10 @@
       "id": 39,
       "question": "The train ______ arrived. We are getting on now.",
       "options": {
-        "A": "still",
-        "B": "always",
-        "C": "never",
-        "D": "just"
+        "A": "has yet",
+        "B": "has always",
+        "C": "has never",
+        "D": "has just"
       },
       "correct_answer": "D",
       "category": "Vocabulary"
@@ -475,7 +475,7 @@
       "options": {
         "A": "popular",
         "B": "private",
-        "C": "poor",
+        "C": "populist",
         "D": "polite"
       },
       "correct_answer": "A",
@@ -487,7 +487,7 @@
       "options": {
         "A": "It helps children sleep better",
         "B": "It helps children do better in school",
-        "C": "It helps children grow taller",
+        "C": "It helps children grow taller and smarter",
         "D": "It helps children make more friends"
       },
       "correct_answer": "B",
