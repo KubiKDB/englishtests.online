@@ -51,12 +51,12 @@
     },
     {
       "id": 5,
-      "question": "Choose the correct form of the verb. 'He ___ breakfast every morning.'",
+      "question": "Choose the correct form of the verb. 'He ___ for a new phone.'",
       "options": {
-        "A": "eat",
-        "B": "eats",
-        "C": "eating",
-        "D": "to eat"
+        "A": "seeked",
+        "B": "sought",
+        "C": "has a search",
+        "D": "has soughts"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -221,7 +221,7 @@
       "id": 19,
       "question": "What is the appropriate expression to use when meeting someone for the first time?",
       "options": {
-        "A": "Goodbye",
+        "A": "Good day",
         "B": "See you later",
         "C": "Nice to meet you",
         "D": "Take care of yourself"
@@ -234,9 +234,9 @@
       "question": "Which phrase is correct for making a suggestion?",
       "options": {
         "A": "Why don't we go to the park?",
-        "B": "I don't like the park.",
-        "C": "The park is far away.",
-        "D": "We went to the park yesterday."
+        "B": "Why didn't we go to the park?",
+        "C": "Why won't he go to the pool?",
+        "D": "Why couldn'y you answer me?"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -245,7 +245,7 @@
       "id": 21,
       "question": "Select the correct phrase to ask for permission.",
       "options": {
-        "A": "I can swim.",
+        "A": "I can swim here? ",
         "B": "May I use your phone?",
         "C": "You should go now.",
         "D": "Should we leave early?."
@@ -260,7 +260,7 @@
         "A": "No, it is.",
         "B": "Yes, it is.",
         "C": "Yes, it is not.",
-        "D": "I took it."
+        "D": "Yes, it does."
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -315,12 +315,12 @@
     },
     {
       "id": 27,
-      "question": "Choose the correct meaning of 'arrive'.",
+      "question": "Choose the correct meaning of 'to reach a destination':",
       "options": {
-        "A": "To leave a place",
-        "B": "To reach a destination",
-        "C": "To turn around",
-        "D": "To travel to a destination"
+        "A": "To derive",
+        "B": "To arrive",
+        "C": "To arise",
+        "D": "To erase"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -330,8 +330,8 @@
       "question": "What does 'effect' mean?",
       "options": {
         "A": "A result",
-        "B": "A feeling",
-        "C": "A mistake",
+        "B": "An insult",
+        "C": "A reserve",
         "D": "A reason"
       },
       "correct_answer": "A",
@@ -343,7 +343,7 @@
       "options": {
         "A": "Very small",
         "B": "Very good",
-        "C": "Very old",
+        "C": "Very well",
         "D": "Very slow"
       },
       "correct_answer": "B",
@@ -351,24 +351,24 @@
     },
     {
       "id": 30,
-      "question": "What is a 'course'?",
+      "question": "What is a 'series of lessons'?",
       "options": {
-        "A": "A series of movies",
-        "B": "A series of lessons",
-        "C": "A series of books",
-        "D": "A series of podcasts"
+        "A": "A cause",
+        "B": "A cure",
+        "C": "A course",
+        "D": "A curse"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 31,
-      "question": "What does 'legal' mean?",
+      "question": "What does 'according to the law' mean?",
       "options": {
-        "A": "Against the law",
-        "B": "According to the law",
-        "C": "Cashless",
-        "D": "Healthy"
+        "A": "regal",
+        "B": "legal",
+        "C": "lethal",
+        "D": "seagull"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -379,7 +379,7 @@
       "options": {
         "A": "Same one",
         "B": "Different one",
-        "C": "Similar one",
+        "C": "Difficult one",
         "D": "Last one"
       },
       "correct_answer": "B",
@@ -415,7 +415,7 @@
       "options": {
         "A": "Only one",
         "B": "Each of two",
-        "C": "None of them",
+        "C": "Each of three",
         "D": "Three or more"
       },
       "correct_answer": "B",
@@ -427,7 +427,7 @@
       "options": {
         "A": "To see something clearly",
         "B": "To hear something clearly",
-        "C": "To put your hand on something",
+        "C": "To feel something with skin",
         "D": "To smell something with your nose"
       },
       "correct_answer": "C",
@@ -447,36 +447,36 @@
     },
     {
       "id": 38,
-      "question": "Choose the correct definition of 'seem'.",
+      "question": "Choose the correct definition of 'to appear to be something'.",
       "options": {
-        "A": "To know something for sure",
-        "B": "To appear to be something",
-        "C": "To watch something",
-        "D": "To finish something"
+        "A": "seen",
+        "B": "seam",
+        "C": "seem",
+        "D": "same"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 39,
-      "question": "What is another word for 'begin'?",
+      "question": "What is another word for 'continue'?",
       "options": {
-        "A": "finish",
-        "B": "start",
-        "C": "continue",
-        "D": "leave"
+        "A": "prolong",
+        "B": "preseed",
+        "C": "proceed",
+        "D": "provoke"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 40,
-      "question": "What does 'narrow' mean?",
+      "question": "What does 'very small in width' mean?",
       "options": {
-        "A": "Very large in width",
-        "B": "Very small in width",
-        "C": "Very high",
-        "D": "Very deep"
+        "A": "sparrow",
+        "B": "narrow",
+        "C": "harrow",
+        "D": "row"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
