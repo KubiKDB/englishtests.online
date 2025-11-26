@@ -56,7 +56,7 @@
         "A": "The book of my sister",
         "B": "My sister's book",
         "C": "My sisters book",
-        "D": "The book my sister"
+        "D": "The book my sister has"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -65,8 +65,8 @@
       "id": 6,
       "question": "Choose the correct preposition.",
       "options": {
-        "A": "I go to school by foot.",
-        "B": "I go to school with foot.",
+        "A": "I go to school on feet.",
+        "B": "I go to school on legs.",
         "C": "I go to school on foot.",
         "D": "I go to school in foot."
       },
@@ -114,8 +114,8 @@
       "question": "Which is the correct comparative form?",
       "options": {
         "A": "This meal is more cheap than that one.",
-        "B": "This meal is more cheaper than that one.",
-        "C": "This meal is cheaper than that one.",
+        "B": "This meal is much more cheaper than that one.",
+        "C": "This meal is much cheaper than that one.",
         "D": "This meal is cheapest than that one."
       },
       "correct_answer": "C",
@@ -137,7 +137,7 @@
       "id": 12,
       "question": "Which sentence uses the present continuous correctly?",
       "options": {
-        "A": "She is read a book now.",
+        "A": "She is readable a book now.",
         "B": "She reading a book now.",
         "C": "She is reading a book now.",
         "D": "She reads a book now."
@@ -149,7 +149,7 @@
       "id": 13,
       "question": "Choose the correct negative form.",
       "options": {
-        "A": "We can to go.",
+        "A": "We can no to go.",
         "B": "We can't to go.",
         "C": "We not can go.",
         "D": "We can't go."
@@ -161,10 +161,10 @@
       "id": 14,
       "question": "Which sentence has the correct subject-verb agreement?",
       "options": {
-        "A": "The geese is from Portugal.",
+        "A": "The geese are from Portuguese.",
         "B": "The geese are from Portugal.",
-        "C": "The geese am from Portugal.",
-        "D": "The geese be from Portugal."
+        "C": "The geese are of Portugal.",
+        "D": "The geese are of Portuguese."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -176,7 +176,7 @@
         "A": "They were sleeping when I arrived.",
         "B": "They was sleeping when I arrived.",
         "C": "They were slept when I arrived.",
-        "D": "They sleeping when I arrived."
+        "D": "They slept when I arrived."
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -185,21 +185,21 @@
       "id": 16,
       "question": "Complete the sentence: 'Steve _____ his homework every day.'",
       "options": {
-        "A": "does",
+        "A": "jobs",
         "B": "makes",
-        "C": "jobs",
+        "C": "does",
         "D": "works"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 17,
       "question": "Choose the correct response to 'Where are you from?'",
       "options": {
-        "A": "I'm with my doctor.",
+        "A": "I'm from my class.",
         "B": "I'm almost on time.",
-        "C": "I'm at work.",
+        "C": "I'm far from doing well.",
         "D": "I'm from Zimbabwe."
       },
       "correct_answer": "D",
@@ -235,7 +235,7 @@
       "options": {
         "A": "hold",
         "B": "wait",
-        "C": "place",
+        "C": "haul",
         "D": "weigh"
       },
       "correct_answer": "A",
@@ -269,7 +269,7 @@
       "id": 23,
       "question": "Which is the correct way to ask for permission?",
       "options": {
-        "A": "I can go out?",
+        "A": "Why can't I go out?",
         "B": "Can I to go out?",
         "C": "Can I go out?",
         "D": "Should I go out?"
@@ -293,10 +293,10 @@
       "id": 25,
       "question": "Choose the correct response to 'Thank you.'",
       "options": {
-        "A": "Please.",
+        "A": "Please, be thanked.",
         "B": "You're welcome.",
-        "C": "Very good.",
-        "D": "It's nothing."
+        "C": "You're well come.",
+        "D": "It's nothing for me."
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -307,7 +307,7 @@
       "options": {
         "A": "a plate",
         "B": "a glass",
-        "C": "a fork",
+        "C": "a grass",
         "D": "a spoon"
       },
       "correct_answer": "B",
@@ -343,7 +343,7 @@
       "options": {
         "A": "moment",
         "B": "mountain",
-        "C": "money",
+        "C": "memo",
         "D": "month"
       },
       "correct_answer": "A",
@@ -375,12 +375,12 @@
     },
     {
       "id": 32,
-      "question": "Which word means 'to receive'?",
+      "question": "Which word means 'to get'?",
       "options": {
-        "A": "give",
-        "B": "want",
-        "C": "get",
-        "D": "put"
+        "A": "reside",
+        "B": "receipt",
+        "C": "receive",
+        "D": "reserve"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -413,8 +413,8 @@
       "id": 35,
       "question": "What is something made of?",
       "options": {
-        "A": "color",
-        "B": "material",
+        "A": "space",
+        "B": "materia",
         "C": "shape",
         "D": "size"
       },
@@ -423,14 +423,14 @@
     },
     {
       "id": 36,
-      "question": "Which word describes how long something is?",
+      "question": "Which word describes how heavy something is?",
       "options": {
         "A": "length",
         "B": "width",
         "C": "weight",
         "D": "height"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -546,7 +546,7 @@
       "question": "Which statement is TRUE according to the passage?",
       "options": {
         "A": "Cats are always larger than dogs.",
-        "B": "Dogs can learn more commands than cats.",
+        "B": "Dogs can learn better than cats.",
         "C": "Cats need less food than dogs.",
         "D": "Dogs sleep and eat more than cats."
       },
