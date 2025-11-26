@@ -102,8 +102,8 @@
       "question": "Select the correct option: 'They ___ at the park yesterday.'",
       "options": {
         "A": "are",
-        "B": "is",
-        "C": "was",
+        "B": "here",
+        "C": "where",
         "D": "were"
       },
       "correct_answer": "D",
@@ -113,12 +113,12 @@
       "id": 10,
       "question": "Which sentence uses the correct article?",
       "options": {
-        "A": "She has a umbrella.",
-        "B": "She has an umbrella.",
-        "C": "She has the umbrella.",
-        "D": "She has umbrella."
+        "A": "She has a umbrella I gave her.",
+        "B": "She has an umbrella I gave her.",
+        "C": "She has the umbrella I gave her.",
+        "D": "She has umbrella I gave her."
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -138,7 +138,7 @@
       "question": "Select the correct comparative form: 'This movie is ___ than that one.'",
       "options": {
         "A": "more bad",
-        "B": "more badder",
+        "B": "worser",
         "C": "worse",
         "D": "worst"
       },
@@ -162,7 +162,7 @@
       "question": "Which is the correct negative form? 'I ___ like coffee.'",
       "options": {
         "A": "don't",
-        "B": "-",
+        "B": "have not",
         "C": "will",
         "D": "really"
       },
@@ -176,7 +176,7 @@
         "A": "We playing basketball now.",
         "B": "We plays basketball now.",
         "C": "We are playing basketball now.",
-        "D": "We is playing basketball now."
+        "D": "We have playing basketball now."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -186,9 +186,9 @@
       "question": "Choose the correct word to complete the sentence: 'I need to ___ dinner for my family tonight.'",
       "options": {
         "A": "cook",
-        "B": "find",
-        "C": "align",
-        "D": "gather"
+        "B": "took",
+        "C": "look",
+        "D": "book"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -200,7 +200,7 @@
         "A": "decade",
         "B": "year",
         "C": "century",
-        "D": "month"
+        "D": "centrum"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -211,8 +211,8 @@
       "options": {
         "A": "section",
         "B": "sect",
-        "C": "action",
-        "D": "place"
+        "C": "selection",
+        "D": "election"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -221,24 +221,24 @@
       "id": 19,
       "question": "Select the word that means 'to give a part of something to someone else':",
       "options": {
-        "A": "take",
-        "B": "share",
-        "C": "keep",
-        "D": "buy"
+        "A": "shape",
+        "B": "sheer",
+        "C": "shard",
+        "D": "share"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 20,
       "question": "Which word means 'two things that go together'?",
       "options": {
-        "A": "pair",
-        "B": "single",
-        "C": "triple",
-        "D": "group"
+        "A": "pear",
+        "B": "pare",
+        "C": "pair",
+        "D": "hair"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -247,7 +247,7 @@
       "options": {
         "A": "some",
         "B": "most",
-        "C": "few",
+        "C": "ever",
         "D": "every"
       },
       "correct_answer": "D",
@@ -255,38 +255,38 @@
     },
     {
       "id": 22,
-      "question": "Select the correct definition of 'detail':",
+      "question": "Select the correct definition of a 'piece of information':",
       "options": {
-        "A": "a piece of information",
-        "B": "a large set of information",
-        "C": "a convenience store",
-        "D": "a tail of an animal"
+        "A": "a tail",
+        "B": "a retail",
+        "C": "a detail",
+        "D": "a tale"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 23,
-      "question": "What is a 'bottle'?",
+      "question": "What is a 'container for liquids'?",
       "options": {
-        "A": "a cup for drinking",
-        "B": "a container for liquids",
-        "C": "a plate for eating",
-        "D": "a bag for clothes"
+        "A": "a butler",
+        "B": "a bottom",
+        "C": "a boat",
+        "D": "a bottle"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 24,
       "question": "Which word means 'a person who leads a ship or team':",
       "options": {
-        "A": "captain",
-        "B": "shipment",
-        "C": "leader",
-        "D": "teacher"
+        "A": "director",
+        "B": "shipper",
+        "C": "captain",
+        "D": "manager"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -303,24 +303,24 @@
     },
     {
       "id": 26,
-      "question": "Select the correct definition of 'type':",
+      "question": "Select the correct definition of 'category':",
       "options": {
-        "A": "a category",
-        "B": "a place",
-        "C": "a part",
-        "D": "a word"
+        "A": "a tyrant",
+        "B": "a tyre",
+        "C": "a type",
+        "D": "a tier"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 27,
       "question": "Choose the word that means 'to express an opinion about a post on Facebook':",
       "options": {
-        "A": "question",
-        "B": "answer",
+        "A": "common",
+        "B": "commit",
         "C": "comment",
-        "D": "letter"
+        "D": "commune"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -329,10 +329,10 @@
       "id": 28,
       "question": "What does the sentence 'to cover a surface with colored liquid' mean?",
       "options": {
-        "A": "to write words with a pen",
-        "B": "to draw with a pencil",
-        "C": "to paint with a brush",
-        "D": "to take pictures"
+        "A": "to point",
+        "B": "to spoil",
+        "C": "to paint",
+        "D": "to pant"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -389,9 +389,9 @@
       "id": 33,
       "question": "Choose the correct phrase to ask for someone's age:",
       "options": {
-        "A": "How are you?",
+        "A": "How are your age?",
         "B": "Where are you from?",
-        "C": "What is your name?",
+        "C": "What is your agent?",
         "D": "How old are you?"
       },
       "correct_answer": "D",
@@ -425,7 +425,7 @@
       "id": 36,
       "question": "Which option is a correct way to ask for the time?",
       "options": {
-        "A": "When is it?",
+        "A": "When is it now?",
         "B": "What is the time?",
         "C": "How is the time?",
         "D": "When is the time?"
@@ -437,12 +437,12 @@
       "id": 37,
       "question": "Select the correct phrase to ask for directions:",
       "options": {
-        "A": "Where is the nearest bank?",
-        "B": "Where is the near bank?",
+        "A": "Where is the near bank?",
+        "B": "Where is the nearest bank?",
         "C": "Where is the close bank?",
         "D": "Where is the next bank?"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
@@ -463,8 +463,8 @@
       "options": {
         "A": "I want this chicken",
         "B": "I would like the chicken",
-        "C": "Give me more chicken",
-        "D": "Chicken only for me"
+        "C": "Give me much chicken, please",
+        "D": "Chicken only for me, please"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -510,7 +510,7 @@
       "question": "What happens when water passes through the gills?",
       "options": {
         "A": "Oxygen comes out of the gills",
-        "B": "The fish eats the water",
+        "B": "The fish drinks the oxygenated water",
         "C": "Oxygen moves into the blood vessels",
         "D": "The fish grows faster and bigger"
       },
