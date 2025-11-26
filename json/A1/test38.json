@@ -77,9 +77,9 @@
       "id": 7,
       "question": "Which word means 'to rest'?",
       "options": {
-        "A": "dinner",
+        "A": "slip",
         "B": "sleep",
-        "C": "run",
+        "C": "wrest",
         "D": "remain"
       },
       "correct_answer": "B",
@@ -90,9 +90,9 @@
       "question": "An _____ is an organization that provides a service.",
       "options": {
         "A": "agency",
-        "B": "resource",
-        "C": "board",
-        "D": "station"
+        "B": "institute",
+        "C": "instance",
+        "D": "opportunity"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -303,14 +303,14 @@
     },
     {
       "id": 26,
-      "question": "This is _____ easy test.",
+      "question": "This is _____ hard exam.",
       "options": {
         "A": "a",
         "B": "an",
         "C": "the",
         "D": "-"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
@@ -390,8 +390,8 @@
       "question": "Can I _____ your pen, please?",
       "options": {
         "A": "lend",
-        "B": "bring",
-        "C": "give",
+        "B": "brought",
+        "C": "given",
         "D": "borrow"
       },
       "correct_answer": "D",
@@ -399,7 +399,7 @@
     },
     {
       "id": 34,
-      "question": "_____ name is John. He's my brother.",
+      "question": "_____ name is Thanh. He's my brother.",
       "options": {
         "A": "His",
         "B": "He's",
@@ -413,8 +413,8 @@
       "id": 35,
       "question": "I _____ play chess when I _____ young.",
       "options": {
-        "A": "used/were",
-        "B": "used/was",
+        "A": "to used/were",
+        "B": "to used/was",
         "C": "used to/was",
         "D": "used to/is"
       },
@@ -437,7 +437,7 @@
       "id": 37,
       "question": "What time do you _____ up in the morning?",
       "options": {
-        "A": "walk",
+        "A": "got",
         "B": "go",
         "C": "get",
         "D": "wait"
