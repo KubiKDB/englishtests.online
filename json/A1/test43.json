@@ -15,7 +15,7 @@
     },
     {
       "id": 2,
-      "question": "I _____ a student _____ Germany.",
+      "question": "I _____ a student _____ Vietnam.",
       "options": {
         "A": "is/from", 
         "B": "am/out", 
@@ -27,7 +27,7 @@
     },
     {
       "id": 3,
-      "question": "Choose the correct question: _____ they from Canada?",
+      "question": "Choose the correct question: _____ they from Nepal?",
       "options": {
         "A": "Is", 
         "B": "Are", 
@@ -65,7 +65,7 @@
       "id": 6,
       "question": "I wake up _____ every morning.",
       "options": {
-        "A": "at 7 hour",
+        "A": "at 7 hours",
         "B": "at 7 clocks", 
         "C": "at 7 o'clock", 
         "D": "at 7 clock"
@@ -137,24 +137,24 @@
       "id": 12,
       "question": "A fish _____ swim, but it _____ walk.",
       "options": {
-        "A": "can/can't",
+        "A": "can't/can",
         "B": "can/wouldn't", 
-        "C": "can't/can",
+        "C": "can/can't",
         "D": "can't/would"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 13,
       "question": "My father is _____ doctor.",
       "options": {
-        "A": "a", 
+        "A": "-", 
         "B": "an",
         "C": "the",
-        "D": "at"
+        "D": "a"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -188,7 +188,7 @@
         "A": "permit",
         "B": "ticket", 
         "C": "pass",
-        "D": "card"
+        "D": "termit"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -207,7 +207,7 @@
     },
     {
       "id": 18,
-      "question": "Select the correct response: 'How are you?' '_____.'"  ,
+      "question": "Select the correct response: 'How are you?'"  ,
       "options": {
         "A": "Me fine", 
         "B": "I'm fine", 
@@ -231,7 +231,7 @@
     },
     {
       "id": 20,
-      "question": "Choose the best response: 'Would you like tea or coffee?' '_____.'",
+      "question": "Choose the best response: 'Would you like tea or coffee?'",
       "options": {
         "A": "Yes, please",
         "B": "No, thanks", 
@@ -246,7 +246,7 @@
       "question": "Which word completes this common phrase: 'Good _____!'",
       "options": {
         "A": "morning",
-        "B": "day", 
+        "B": "moaning", 
         "C": "wishing", 
         "D": "lucking"
       },
@@ -270,7 +270,7 @@
       "question": "Complete the phrase: '_____ you later!'",
       "options": {
         "A": "Look",
-        "B": "Watch",
+        "B": "Seen",
         "C": "See", 
         "D": "View"
       },
@@ -296,7 +296,7 @@
         "A": "pass", 
         "B": "give", 
         "C": "take", 
-        "D": "bring"
+        "D": "move"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -330,7 +330,7 @@
       "question": "Choose the synonym for 'job':",
       "options": {
         "A": "make", 
-        "B": "create",
+        "B": "walk",
         "C": "work",
         "D": "build"
       },
@@ -341,10 +341,10 @@
       "id": 29,
       "question": "What does 'to study' mean?",
       "options": {
-        "A": "to work",
+        "A": "to lean",
         "B": "to learn",
-        "C": "to teach",
-        "D": "to play"
+        "C": "to earn",
+        "D": "to leap"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -365,10 +365,10 @@
       "id": 31,
       "question": "What does 'afraid' mean?",
       "options": {
-        "A": "happy",
+        "A": "scarred",
         "B": "scared",
-        "C": "angry", 
-        "D": "tired"
+        "C": "escaped", 
+        "D": "sacred"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -380,7 +380,7 @@
         "A": "daughter",
         "B": "uncle", 
         "C": "son", 
-        "D": "brother"
+        "D": "father"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -390,7 +390,7 @@
       "question": "What is a 'place where people live or work'?",
       "options": {
         "A": "a building", 
-        "B": "a station", 
+        "B": "a holding", 
         "C": "a location", 
         "D": "a vacation"
       },
@@ -413,10 +413,10 @@
       "id": 35,
       "question": "Which word means 'instruction'?",
       "options": {
-        "A": "question", 
+        "A": "traction", 
         "B": "order", 
-        "C": "answer",
-        "D": "idea"
+        "C": "fraction",
+        "D": "folder"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -425,22 +425,22 @@
       "id": 36,
       "question": "What does 'carry' mean?",
       "options": {
-        "A": "to buy",
-        "B": "to sell",
+        "A": "to care",
+        "B": "to fold",
         "C": "to hold",
-        "D": "to break"
+        "D": "to cure"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 37,
-      "question": "What is 'police'?",
+      "question": "What are 'people who catch criminals'?",
       "options": {
-        "A": "people who put out fires", 
-        "B": "people who teach in schools", 
-        "C": "people who catch criminals",
-        "D": "people who drive buses"
+        "A": "policy", 
+        "B": "politics", 
+        "C": "police",
+        "D": "polite"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
