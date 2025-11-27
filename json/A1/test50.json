@@ -3,12 +3,12 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which form of the verb is correct? She ___ to school every day.",
+      "question": "Which form of the verb is correct? She ___ to correct the sentence.",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "going",
-        "D": "gone"
+        "A": "try",
+        "B": "tried",
+        "C": "tryes",
+        "D": "trys"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -17,34 +17,34 @@
       "id": 2,
       "question": "Select the correct sentence:",
       "options": {
-        "A": "I have a apple.",
-        "B": "I have an apple.",
-        "C": "I have apple.",
+        "A": "I have apple.",
+        "B": "I have a apple.",
+        "C": "I have apples.",
         "D": "I have the apple."
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 3,
-      "question": "Choose the correct plural form: one child, two ___",
+      "question": "Choose the correct singular form for graffiti?",
       "options": {
-        "A": "childs",
-        "B": "childes",
-        "C": "childrens",
-        "D": "children"
+        "A": "graffit",
+        "B": "graffitis",
+        "C": "graffitos",
+        "D": "graffito"
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 4,
-      "question": "Which is the correct past tense of 'eat'?",
+      "question": "Which is the correct past simple tense of 'beat'?",
       "options": {
-        "A": "eated",
-        "B": "ate",
-        "C": "eaten",
-        "D": "eating"
+        "A": "beated",
+        "B": "beat",
+        "C": "beaten",
+        "D": "beating"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -53,17 +53,17 @@
       "id": 5,
       "question": "Select the correct possessive form: This is ___ book.",
       "options": {
-        "A": "Johns",
-        "B": "John is",
-        "C": "John's",
-        "D": "Johns'"
+        "A": "hours",
+        "B": "our's",
+        "C": "our",
+        "D": "ours'"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 6,
-      "question": "Choose the correct option: ___ you like coffee?",
+      "question": "Choose the correct option: ___ they like coffee?",
       "options": {
         "A": "Do",
         "B": "Does",
@@ -77,22 +77,22 @@
       "id": 7,
       "question": "Which sentence is correct?",
       "options": {
-        "A": "She very happy.",
-        "B": "She is very happy.",
-        "C": "She very is happy.",
-        "D": "She happy very is."
+        "A": "The test has been hard yesterday.",
+        "B": "The result was predicted.",
+        "C": "The preacher thought math at school.",
+        "D": "The teacher say a prayer at church."
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 8,
-      "question": "Select the correct preposition: The book is ___ the table.",
+      "question": "Select the correct preposition: Seven goes ___ six.",
       "options": {
-        "A": "on",
-        "B": "in",
-        "C": "at",
-        "D": "of"
+        "A": "after",
+        "B": "alter",
+        "C": "before",
+        "D": "beside"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -101,22 +101,22 @@
       "id": 9,
       "question": "Choose the correct question form: '___?'  'I am 12 years old.'",
       "options": {
-        "A": "How old are you",
-        "B": "What is your age",
-        "C": "How many years have you",
-        "D": "What years are you"
+        "A": "How old are you?",
+        "B": "What is your ages?",
+        "C": "How many years do you have?",
+        "D": "What years are you?"
       },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 10,
-      "question": "Which is the correct negative form? She ___ like apples.",
+      "question": "Which is the correct negative form? She ___ like ___ apples.",
       "options": {
-        "A": "not",
-        "B": "don't",
-        "C": "doesn't",
-        "D": "isn't"
+        "A": "not/-",
+        "B": "doesn't/an",
+        "C": "doesn't/-",
+        "D": "isn't/a"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -125,10 +125,10 @@
       "id": 11,
       "question": "Choose the correct form: We ___ to the park yesterday.",
       "options": {
-        "A": "go",
+        "A": "bent",
         "B": "went",
-        "C": "goes",
-        "D": "going"
+        "C": "sent",
+        "D": "rent"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -140,7 +140,7 @@
         "A": "a",
         "B": "an",
         "C": "the",
-        "D": "no article needed"
+        "D": "-"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -159,38 +159,38 @@
     },
     {
       "id": 14,
-      "question": "Choose the correct sentence with 'and':",
+      "question": "Choose the correct sentence:",
       "options": {
-        "A": "She likes coffee and she likes tea.",
-        "B": "She likes coffee but she likes tea.",
+        "A": "She likes coffee nor tea.",
+        "B": "She likes coffee but tea.",
         "C": "She likes coffee and tea.",
-        "D": "She likes coffee or she likes tea."
+        "D": "She likes coffee for tea."
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 15,
-      "question": "Select the correct form: This is ___ book.",
+      "question": "Select the correct sentence",
       "options": {
-        "A": "I",
-        "B": "me",
-        "C": "my",
-        "D": "mine"
+        "A": "She prefers coffee too tea.",
+        "B": "She prefers coffee of tea.",
+        "C": "She prefers coffee to tea.",
+        "D": "She prefers coffee for tea."
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 16,
-      "question": "Choose the correct phrase to complete the sentence: I need to ___ my homework.",
+      "question": "Choose the correct phrase to complete the sentence: I need to have my homework ___.",
       "options": {
-        "A": "make",
+        "A": "made",
         "B": "do",
-        "C": "take",
-        "D": "have"
+        "C": "done",
+        "D": "gone"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
@@ -198,21 +198,21 @@
       "question": "Select the correct expression: Can you ___ me the salt, please?",
       "options": {
         "A": "pass",
-        "B": "give",
-        "C": "take",
-        "D": "bring"
+        "B": "past",
+        "C": "mass",
+        "D": "fast"
       },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 18,
-      "question": "Choose the right expression: I ___ a shower every morning.",
+      "question": "Choose the right expression: You need to ___ her.",
       "options": {
-        "A": "do",
-        "B": "make",
-        "C": "take",
-        "D": "have"
+        "A": "crust",
+        "B": "dust",
+        "C": "rust",
+        "D": "trust"
       },
       "correct_answer": "D",
       "category": "Use of English"
@@ -233,7 +233,7 @@
       "id": 20,
       "question": "Select the right expression: She ___ a bike to school.",
       "options": {
-        "A": "goes",
+        "A": "flies",
         "B": "drives",
         "C": "rides",
         "D": "walks"
@@ -243,36 +243,36 @@
     },
     {
       "id": 21,
-      "question": "Choose the appropriate response to 'How are you?'",
+      "question": "Choose the appropriate response to 'How was you day?'",
       "options": {
-        "A": "I am John.",
-        "B": "I am fine, thank you.",
-        "C": "I am from Spain.",
-        "D": "I am a student."
+        "A": "Yes, it was.",
+        "B": "It was ok.",
+        "C": "Ok, it was.",
+        "D": "Well, it was."
       },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 22,
-      "question": "Which is the correct greeting in the morning?",
+      "question": "Which is the correct greeting before lunch?",
       "options": {
         "A": "Good night",
         "B": "Good evening",
         "C": "Good afternoon",
         "D": "Good morning"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 23,
-      "question": "Select the correct response to 'Thank you':",
+      "question": "Select the correct response to 'Excuse me':",
       "options": {
-        "A": "Please",
-        "B": "Good",
-        "C": "You're welcome",
-        "D": "Hello"
+        "A": "You're welcome",
+        "B": "Good for you",
+        "C": "It's ok",
+        "D": "Hi there"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -303,12 +303,12 @@
     },
     {
       "id": 26,
-      "question": "Which word means the period between the start and end of a day?",
+      "question": "Which word means the exact day of the year?",
       "options": {
-        "A": "clock",
-        "B": "time",
-        "C": "hour",
-        "D": "minute"
+        "A": "time",
+        "B": "date",
+        "C": "month",
+        "D": "update"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -377,20 +377,20 @@
       "id": 32,
       "question": "Which word means 'important to what you are doing'?",
       "options": {
-        "A": "relevant",
-        "B": "different",
-        "C": "special",
-        "D": "certain"
+        "A": "repetitive",
+        "B": "relevant",
+        "C": "repellent",
+        "D": "revealing"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 33,
       "question": "What do you say when you make a mistake?",
       "options": {
-        "A": "excuse me",
-        "B": "thank you",
+        "A": "excuse",
+        "B": "thanks",
         "C": "please",
         "D": "sorry"
       },
@@ -401,10 +401,10 @@
       "id": 34,
       "question": "Which word means 'to be all around something'?",
       "options": {
-        "A": "cover",
+        "A": "surrender",
         "B": "surround",
-        "C": "touch",
-        "D": "hold"
+        "C": "surrogate",
+        "D": "surgery"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -437,10 +437,10 @@
       "id": 37,
       "question": "Which word means 'to have something inside'?",
       "options": {
-        "A": "cover",
+        "A": "constrain",
         "B": "contain",
-        "C": "carry",
-        "D": "hold"
+        "C": "contract",
+        "D": "contact"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -509,10 +509,10 @@
       "id": 43,
       "question": "According to paragraph 2, what was the classroom like?",
       "options": {
-        "A": "Small and dark",
+        "A": "Small with colorful pictures",
         "B": "Big with colorful pictures",
-        "C": "Old and dirty",
-        "D": "New and empty"
+        "C": "Old with colorful pictures",
+        "D": "New with colorful pictures"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -545,7 +545,7 @@
       "id": 46,
       "question": "Who is Lisa?",
       "options": {
-        "A": "The author's mother",
+        "A": "A girl at library",
         "B": "The author's teacher",
         "C": "A girl at school",
         "D": "The author's sister"
@@ -581,7 +581,7 @@
       "id": 49,
       "question": "According to paragraph 4, what did the author learn?",
       "options": {
-        "A": "How to read and write",
+        "A": "Where the classrooms and schoolyard were",
         "B": "Where the library and bathroom were",
         "C": "How to play new games",
         "D": "How to make friends"
