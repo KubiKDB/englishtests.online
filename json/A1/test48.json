@@ -7,8 +7,8 @@
       "options": {
         "A": "drink",
         "B": "drinks",
-        "C": "drinking",
-        "D": "drank"
+        "C": "drunks",
+        "D": "drunk"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -17,46 +17,46 @@
       "id": 2,
       "question": "Select the correct plural form: 'I have two _____ at home.'",
       "options": {
-        "A": "child",
-        "B": "childs",
-        "C": "childrens",
-        "D": "children"
+        "A": "goose",
+        "B": "gooses",
+        "C": "geeses",
+        "D": "geese"
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 3,
-      "question": "Choose the correct article: 'I saw _____ elephant at the zoo.'",
+      "question": "Choose the correct article: 'I saw _____ elephants at the zoo.'",
       "options": {
         "A": "a",
         "B": "an",
         "C": "the",
-        "D": "no article"
+        "D": "-"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 4,
-      "question": "Select the correct preposition: 'The book is _____ the table.'",
+      "question": "Select the correct preposition: 'Camila walked _____ the street.'",
       "options": {
-        "A": "in",
-        "B": "at",
-        "C": "on",
-        "D": "of"
+        "A": "cross",
+        "B": "longs",
+        "C": "along",
+        "D": "besides"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 5,
-      "question": "Choose the correct form: 'They _____ watching TV now.'",
+      "question": "Choose the correct form: 'They _____ fixing the bike now.'",
       "options": {
-        "A": "is",
-        "B": "am",
+        "A": "have",
+        "B": "can",
         "C": "are",
-        "D": "be"
+        "D": "were"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -77,34 +77,34 @@
       "id": 7,
       "question": "Choose the correct possessive: 'This is _____ car.'",
       "options": {
-        "A": "she",
+        "A": "here",
         "B": "her",
         "C": "hers",
-        "D": "she's"
+        "D": "her's"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 8,
-      "question": "Select the correct form: 'I _____ like spicy food.'",
+      "question": "Select the correct form: 'I _____ not a fan of spicy food.'",
       "options": {
-        "A": "don't",
-        "B": "doesn't",
-        "C": "not",
-        "D": "am not"
+        "A": "do",
+        "B": "does",
+        "C": "is",
+        "D": "am"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 9,
-      "question": "Choose the correct past tense form: 'Last week, we _____ to the beach.'",
+      "question": "Choose the correct past tense form: 'Last week, we _____ our meeting.'",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "going",
-        "D": "went"
+        "A": "miss",
+        "B": "massed",
+        "C": "might",
+        "D": "missed"
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -113,22 +113,22 @@
       "id": 10,
       "question": "Select the correct adverb position: 'She drives _____.'",
       "options": {
-        "A": "careful",
-        "B": "more careful",
+        "A": "careless",
+        "B": "careful",
         "C": "carefully",
-        "D": "most careful"
+        "D": "carefuller"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 11,
-      "question": "Choose the correct comparative form: 'This book is _____ than that one.'",
+      "question": "Choose the correct comparative form: 'His _____ to Tijuana was wonderful.'",
       "options": {
-        "A": "interesting",
-        "B": "more interesting",
-        "C": "most interesting",
-        "D": "interestinger"
+        "A": "travel",
+        "B": "trip",
+        "C": "vacation",
+        "D": "journey"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -171,7 +171,7 @@
     },
     {
       "id": 15,
-      "question": "Choose the correct question form: '_____ she like chocolate?'",
+      "question": "Choose the correct question form: '_____ she like skiing?'",
       "options": {
         "A": "Do",
         "B": "Does",
@@ -200,7 +200,7 @@
         "A": "cinema",
         "B": "stage",
         "C": "library",
-        "D": "school"
+        "D": "stadium"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -221,10 +221,10 @@
       "id": 19,
       "question": "What is the opposite of 'loose'?",
       "options": {
-        "A": "big",
+        "A": "taught",
         "B": "tight",
-        "C": "small",
-        "D": "open"
+        "C": "tied",
+        "D": "tried"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -233,9 +233,9 @@
       "id": 20,
       "question": "Which word means to pick one thing from many options?",
       "options": {
-        "A": "take",
-        "B": "find",
-        "C": "make",
+        "A": "chase",
+        "B": "chance",
+        "C": "change",
         "D": "choose"
       },
       "correct_answer": "D",
@@ -245,9 +245,9 @@
       "id": 21,
       "question": "What is the opposite of 'finish'?",
       "options": {
-        "A": "end",
-        "B": "close",
-        "C": "start",
+        "A": "continue",
+        "B": "begun",
+        "C": "begin",
         "D": "stop"
       },
       "correct_answer": "C",
@@ -257,10 +257,10 @@
       "id": 22,
       "question": "Which word describes something that protects you from danger?",
       "options": {
-        "A": "dangerous",
-        "B": "risky",
-        "C": "safe",
-        "D": "fast"
+        "A": "shelf",
+        "B": "shell",
+        "C": "shelter",
+        "D": "alter"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -269,10 +269,10 @@
       "id": 23,
       "question": "What do you call someone who is waiting calmly?",
       "options": {
-        "A": "angry",
+        "A": "participant",
         "B": "patient",
-        "C": "happy",
-        "D": "sad"
+        "C": "particible",
+        "D": "partner"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -281,9 +281,9 @@
       "id": 24,
       "question": "Which word means the same as 'choose'?",
       "options": {
-        "A": "find",
-        "B": "look",
-        "C": "see",
+        "A": "detect",
+        "B": "defect",
+        "C": "sort",
         "D": "select"
       },
       "correct_answer": "D",
@@ -293,7 +293,7 @@
       "id": 25,
       "question": "What is the opposite of 'late'?",
       "options": {
-        "A": "on time",
+        "A": "earl",
         "B": "fast",
         "C": "early",
         "D": "quick"
@@ -329,22 +329,22 @@
       "id": 28,
       "question": "Which word means to come back to a place?",
       "options": {
-        "A": "leave",
-        "B": "go",
+        "A": "revive",
+        "B": "retour",
         "C": "return",
-        "D": "visit"
+        "D": "revisit"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 29,
-      "question": "What is the plural form of 'child'?",
+      "question": "What is the plural form of 'foot'?",
       "options": {
-        "A": "childs",
-        "B": "childes",
-        "C": "child",
-        "D": "children"
+        "A": "foots",
+        "B": "foot",
+        "C": "feed",
+        "D": "feet"
       },
       "correct_answer": "D",
       "category": "Vocabulary"
@@ -354,7 +354,7 @@
       "question": "Which word means a part of something?",
       "options": {
         "A": "whole",
-        "B": "all",
+        "B": "partition",
         "C": "portion",
         "D": "complete"
       },
@@ -389,12 +389,12 @@
       "id": 33,
       "question": "Select the best response to 'How are you?'",
       "options": {
-        "A": "I'm 25 years old.",
-        "B": "I'm from Spain.",
-        "C": "I'm fine, thank you.",
-        "D": "My name is John."
+        "A": "I was cold.",
+        "B": "I feel good.",
+        "C": "I'm late.",
+        "D": "My feel is good."
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
@@ -402,8 +402,8 @@
       "question": "Choose the correct time expression: 'I go to school _____ Monday to Friday.'",
       "options": {
         "A": "from",
-        "B": "in",
-        "C": "at",
+        "B": "between",
+        "C": "on",
         "D": "during"
       },
       "correct_answer": "A",
@@ -411,7 +411,7 @@
     },
     {
       "id": 35,
-      "question": "Select the correct phrase: 'She's good _____ playing the piano.'",
+      "question": "Select the correct phrase: 'She's good _____ trading stocks.'",
       "options": {
         "A": "at",
         "B": "in",
@@ -423,12 +423,12 @@
     },
     {
       "id": 36,
-      "question": "Choose the correct sentence ending: 'If it rains tomorrow, _____'",
+      "question": "Choose the correct sentence ending: 'It's raining, _____'",
       "options": {
-        "A": "I staying at home.",
-        "B": "I stay at home.",
-        "C": "I will stay at home.",
-        "D": "I stayed at home."
+        "A": "Is it?",
+        "B": "Doesn't it?",
+        "C": "Isn't it?",
+        "D": "Does it?"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -461,24 +461,24 @@
       "id": 39,
       "question": "Select the correct response to 'Thank you.'",
       "options": {
-        "A": "Please.",
-        "B": "You're welcome.",
-        "C": "Hello.",
-        "D": "Excuse me."
+        "A": "Please sit down.",
+        "B": "You're not welcomed here.",
+        "C": "Hello and thanks.",
+        "D": "It was my pleasure."
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 40,
-      "question": "Choose the correct question: '_____ do you live?'",
+      "question": "Choose the correct question: '_____ year did you live in Brasil?'",
       "options": {
         "A": "What",
         "B": "When",
         "C": "Where",
         "D": "Who"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Use of English"
     },
     {
@@ -497,10 +497,10 @@
       "id": 42,
       "question": "What type of plant is bamboo according to the passage?",
       "options": {
-        "A": "A tree",
+        "A": "A type oftree",
         "B": "A type of grass",
-        "C": "A flower",
-        "D": "A sea plant"
+        "C": "A type of flower",
+        "D": "A type of fruit"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -533,10 +533,10 @@
       "id": 45,
       "question": "How long does it take a sunflower to grow from seed to a flowering plant?",
       "options": {
-        "A": "One day",
-        "B": "One week",
+        "A": "Four months",
+        "B": "Five months",
         "C": "Six months",
-        "D": "One year"
+        "D": "Seven months"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -545,10 +545,10 @@
       "id": 46,
       "question": "What is one reason fast-growing plants are useful according to the passage?",
       "options": {
-        "A": "They are beautiful",
+        "A": "They grow tall and beautiful",
         "B": "They can stop soil from washing away",
-        "C": "They live a long time",
-        "D": "They need little water"
+        "C": "They can live for a long time",
+        "D": "They need little water but provide oxygen"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -569,19 +569,19 @@
       "id": 48,
       "question": "According to the passage, why do scientists study fast-growing plants?",
       "options": {
-        "A": "To make them grow even faster",
-        "B": "To understand how they grow so fast and help other plants",
+        "A": "To understand how they grow so fast and help other plants",
+        "B": "To understand how to make them grow even faster",
         "C": "To stop them from growing too much",
         "D": "To use them only for making paper"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Reading"
     },
     {
       "id": 49,
       "question": "What is giant kelp important for according to the passage?",
       "options": {
-        "A": "Making furniture",
+        "A": "Making shelters for fish",
         "B": "Providing food for people",
         "C": "Being a home for sea animals",
         "D": "Stopping soil erosion"
