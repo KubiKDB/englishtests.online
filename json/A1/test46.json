@@ -3,60 +3,60 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which article should be used: 'I have ___ apple.'",
+      "question": "Which article should be used: 'I have ___ apples.'",
       "options": {
         "A": "a",
         "B": "an",
         "C": "the",
-        "D": "no article"
+        "D": "-"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 2,
-      "question": "Choose the correct form of the verb: 'She ___ TV every day.'",
+      "question": "Choose the correct verb: 'She ___ a letter to her friend recently.'",
       "options": {
-        "A": "watch",
-        "B": "watches",
-        "C": "watching",
-        "D": "is watch"
+        "A": "sand",
+        "B": "send",
+        "C": "sent",
+        "D": "scent"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 3,
-      "question": "Select the correct preposition: 'The book is ___ the table.'",
+      "question": "Select the correct verb: 'The teacher ___ the schedule.'",
       "options": {
-        "A": "on",
-        "B": "in",
-        "C": "at",
-        "D": "by"
+        "A": "amend",
+        "B": "ament",
+        "C": "have amended",
+        "D": "amended"
       },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 4,
-      "question": "Which is the plural form of 'child'?",
+      "question": "Which is the plural form of 'show'?",
       "options": {
-        "A": "childs",
-        "B": "childes",
-        "C": "children",
-        "D": "childrens"
+        "A": "shew",
+        "B": "shoes",
+        "C": "shows",
+        "D": "showes"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 5,
-      "question": "Choose the correct form: 'They ___ to school yesterday.'",
+      "question": "Choose the correct sentence:",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "went",
-        "D": "going"
+        "A": "Who's dog is it?",
+        "B": "Who does dog is it?",
+        "C": "Whose dog is it?",
+        "D": "Whom dog is it?"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -65,12 +65,12 @@
       "id": 6,
       "question": "Which is the correct possessive form? 'This is ___ car.'",
       "options": {
-        "A": "John",
-        "B": "Johns",
-        "C": "John's",
-        "D": "Johns'"
+        "A": "Juan",
+        "B": "Juan's",
+        "C": "Juans",
+        "D": "Juans'"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
@@ -89,10 +89,10 @@
       "id": 8,
       "question": "Choose the correct form: 'We ___ lunch now.'",
       "options": {
-        "A": "have",
-        "B": "having",
+        "A": "are doing",
+        "B": "are finding",
         "C": "are having",
-        "D": "has"
+        "D": "are had"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -101,10 +101,10 @@
       "id": 9,
       "question": "Which sentence is correct?",
       "options": {
-        "A": "She not like coffee.",
-        "B": "She doesn't likes coffee.",
-        "C": "She don't like coffee.",
-        "D": "She doesn't like coffee."
+        "A": "She uses to be a good girl.",
+        "B": "They have started this task tomorrow.",
+        "C": "We are going to visit Europe last year.",
+        "D": "I thought the movie would be more interesting."
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -171,12 +171,12 @@
     },
     {
       "id": 15,
-      "question": "Which is the correct past tense of 'eat'?",
+      "question": "Which is the correct past tense of 'heat'?",
       "options": {
-        "A": "eated",
-        "B": "ate",
-        "C": "eaten",
-        "D": "eating"
+        "A": "hated",
+        "B": "heated",
+        "C": "heat",
+        "D": "hitted"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -188,21 +188,21 @@
         "A": "a",
         "B": "an",
         "C": "the",
-        "D": "no article"
+        "D": "-"
       },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 17,
-      "question": "Choose the best response: 'How are you?' '_____'",
+      "question": "Choose the best response: 'How are you?'",
       "options": {
-        "A": "I'm 25 years old.",
-        "B": "I'm fine, thank you.",
-        "C": "My name is John.",
-        "D": "I'm a teacher."
+        "A": "I was good.",
+        "B": "I'm fined.",
+        "C": "Never been better.",
+        "D": "Never be better."
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
@@ -211,7 +211,7 @@
       "options": {
         "A": "some",
         "B": "any",
-        "C": "a",
+        "C": "the",
         "D": "many"
       },
       "correct_answer": "A",
@@ -222,9 +222,9 @@
       "question": "Choose the correct option: 'What time _____ the movie start?'",
       "options": {
         "A": "do",
-        "B": "does",
-        "C": "is",
-        "D": "are"
+        "B": "did",
+        "C": "has",
+        "D": "had"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -255,12 +255,12 @@
     },
     {
       "id": 22,
-      "question": "Choose the correct option to ask for the price: '_____?'",
+      "question": "Choose the correct option to ask for the price:",
       "options": {
-        "A": "How many is it",
-        "B": "How much is it",
-        "C": "What is it",
-        "D": "Who is it"
+        "A": "How many is it?",
+        "B": "How much is it?",
+        "C": "Which price is it?",
+        "D": "How is the price?"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -269,10 +269,10 @@
       "id": 23,
       "question": "Select the best response to: 'Thank you.'",
       "options": {
-        "A": "You too.",
-        "B": "I'm fine.",
+        "A": "Welcome.",
+        "B": "You deserve it.",
         "C": "You're welcome.",
-        "D": "Good morning."
+        "D": "Good to hear."
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -291,24 +291,24 @@
     },
     {
       "id": 25,
-      "question": "Select the correct option to complete the sentence: 'She lives _____ London.'",
+      "question": "Select the correct option to complete the sentence: 'She lives _____ a distant island.'",
       "options": {
         "A": "to",
         "B": "at",
         "C": "on",
         "D": "in"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 26,
-      "question": "Choose the meaning of the word 'inside':",
+      "question": "Choose the meaning of the phrase 'in the inner part':",
       "options": {
-        "A": "outside of something",
-        "B": "above something",
-        "C": "within or in the inner part",
-        "D": "below something"
+        "A": "without",
+        "B": "outside",
+        "C": "inside",
+        "D": "insist"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -329,58 +329,58 @@
       "id": 28,
       "question": "What is the meaning of 'hello'?",
       "options": {
-        "A": "a way to say goodbye",
+        "A": "a way to grate something",
         "B": "a way to greet someone",
         "C": "a question word",
-        "D": "a type of food"
+        "D": "an excuse word"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 29,
-      "question": "The word 'support' means:",
+      "question": "'To help or assist' means:",
       "options": {
-        "A": "to help or assist",
-        "B": "to break something",
-        "C": "to move quickly",
-        "D": "to sleep deeply"
+        "A": "to supply",
+        "B": "to submit",
+        "C": "to suppose",
+        "D": "to support"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 30,
-      "question": "What is 'paper'?",
+      "question": "What can blossom?",
       "options": {
-        "A": "a type of food",
-        "B": "a liquid to drink",
-        "C": "a material to write on",
-        "D": "a piece of clothing"
+        "A": "flourish",
+        "B": "flour",
+        "C": "flower",
+        "D": "flowing"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 31,
-      "question": "The word 'general' means:",
+      "question": "The 'relating to most things' means:",
       "options": {
-        "A": "specific or particular",
-        "B": "relating to most or all things",
-        "C": "very small",
-        "D": "very old"
+        "A": "generate",
+        "B": "general",
+        "C": "relation",
+        "D": "relative"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 32,
-      "question": "The meaning of 'pressure' is:",
+      "question": "The meaning of 'force applied to something' is:",
       "options": {
-        "A": "a state of relaxation",
-        "B": "a type of weather",
-        "C": "force or stress applied to something",
-        "D": "a kind of medication"
+        "A": "prestige",
+        "B": "presses",
+        "C": "pressure",
+        "D": "precise"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -390,7 +390,7 @@
       "question": "The word 'forward' means:",
       "options": {
         "A": "toward the back",
-        "B": "toward the front or future",
+        "B": "toward future",
         "C": "toward the sides",
         "D": "staying in place"
       },
@@ -399,24 +399,24 @@
     },
     {
       "id": 34,
-      "question": "What does the word 'five' refer to?",
+      "question": "Ten plus five is:",
       "options": {
-        "A": "a color",
-        "B": "a day of the week",
-        "C": "a number",
-        "D": "a type of food"
+        "A": "fiveteen",
+        "B": "fifteens",
+        "C": "fifty",
+        "D": "fifteen"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 35,
-      "question": "The word 'business' refers to:",
+      "question": "The phrase 'commercial activity' refers to:",
       "options": {
-        "A": "a place to sleep",
-        "B": "a commercial activity or company",
-        "C": "a type of sport",
-        "D": "a family member"
+        "A": "politics",
+        "B": "business",
+        "C": "altruism",
+        "D": "charity"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -425,22 +425,22 @@
       "id": 36,
       "question": "What does the word 'even' mean in this sentence: 'The number 10 is an even number.'?",
       "options": {
-        "A": "odd",
+        "A": "divisible by 5",
         "B": "divisible by 2",
-        "C": "greater than",
-        "D": "less than"
+        "C": "round number",
+        "D": "even better than 5"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 37,
-      "question": "A 'phone' is used to:",
+      "question": "A phone cannot help to:",
       "options": {
-        "A": "cook food",
-        "B": "clean clothes",
-        "C": "talk to people who are far away",
-        "D": "drive to work"
+        "A": "cook",
+        "B": "walk",
+        "C": "sleep",
+        "D": "drive"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -449,10 +449,10 @@
       "id": 38,
       "question": "What is a 'picture'?",
       "options": {
-        "A": "a visual representation or image",
-        "B": "a type of music",
-        "C": "a place to eat",
-        "D": "a kind of vehicle"
+        "A": "an image",
+        "B": "an imagination",
+        "C": "an impact",
+        "D": "an impulse"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -461,10 +461,10 @@
       "id": 39,
       "question": "The word 'refer' means:",
       "options": {
-        "A": "to eat quickly",
-        "B": "to sleep deeply",
-        "C": "to mention or direct attention to",
-        "D": "to run away"
+        "A": "to effect",
+        "B": "to reverse",
+        "C": "to mention",
+        "D": "to mind"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -476,7 +476,7 @@
         "A": "a female adult",
         "B": "a male adult",
         "C": "a young child",
-        "D": "an animal"
+        "D": "a teenager"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -545,10 +545,10 @@
       "id": 46,
       "question": "How long did Armstrong spend walking on the moon?",
       "options": {
-        "A": "About one hour",
+        "A": "About three and a half hours",
         "B": "About two and a half hours",
         "C": "About four hours",
-        "D": "One day"
+        "D": "Half a day"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -557,10 +557,10 @@
       "id": 47,
       "question": "According to the passage, what did Armstrong and Aldrin do on the moon?",
       "options": {
-        "A": "They slept there",
-        "B": "They built a house",
+        "A": "They walked as much as twenty kilometers on foot",
+        "B": "They built a house underground and stayed there",
         "C": "They took pictures and collected rocks",
-        "D": "They met aliens"
+        "D": "They found other rockets"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -569,9 +569,9 @@
       "id": 48,
       "question": "Which famous words did Armstrong say when he stepped on the moon?",
       "options": {
-        "A": "Hello from the moon!",
-        "B": "We made it to the moon!",
-        "C": "The moon is beautiful!",
+        "A": "We are sending our warmest greetings from the moon to all mankind!",
+        "B": "We made it to the moon and now we hope to come backto Earth!",
+        "C": "The moon is the most beautiful pace we've ever been to!",
         "D": "That's one small step for man, one giant leap for mankind."
       },
       "correct_answer": "D",
@@ -582,8 +582,8 @@
       "question": "What did Armstrong become after the moon mission?",
       "options": {
         "A": "A teacher and businessman",
-        "B": "A movie star",
-        "C": "The president",
+        "B": "A movie star and singer",
+        "C": "The president of the USA",
         "D": "An astronaut trainer"
       },
       "correct_answer": "A",
