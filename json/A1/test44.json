@@ -210,9 +210,9 @@
       "question": "What do you say when you meet someone for the first time?",
       "options": {
         "A": "Nice to meet me",
-        "B": "See you later",
+        "B": "See you first time",
         "C": "Nice to meet you",
-        "D": "Good night"
+        "D": "Good to see you again"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -283,7 +283,7 @@
       "options": {
         "A": "train",
         "B": "trains",
-        "C": "training",
+        "C": "train's",
         "D": "trained"
       },
       "correct_answer": "A",
@@ -343,7 +343,7 @@
       "options": {
         "A": "enjoy",
         "B": "want",
-        "C": "dislike",
+        "C": "dislike to",
         "D": "fear"
       },
       "correct_answer": "A",
@@ -365,10 +365,10 @@
       "id": 31,
       "question": "The ___ has buttons to change the TV channels.",
       "options": {
-        "A": "screen",
+        "A": "remove",
         "B": "remote",
-        "C": "window",
-        "D": "door"
+        "C": "motor",
+        "D": "redone"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -390,7 +390,7 @@
       "question": "I need a credit ___ to pay for this.",
       "options": {
         "A": "card",
-        "B": "coin",
+        "B": "cart",
         "C": "paper",
         "D": "money"
       },
@@ -416,7 +416,7 @@
         "A": "idea",
         "B": "example",
         "C": "excuse",
-        "D": "answer"
+        "D": "instance"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -449,8 +449,8 @@
       "id": 38,
       "question": "You need more ___ to get better at playing the piano.",
       "options": {
-        "A": "sleep",
-        "B": "money",
+        "A": "practical",
+        "B": "tries",
         "C": "ability",
         "D": "practice"
       },
@@ -487,10 +487,10 @@
       "options": {
         "A": "tens of years",
         "B": "hundreds of years",
-        "C": "thousands of years",
-        "D": "millions of years"
+        "C": "millions of years",
+        "D": "thousands of years"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -521,7 +521,7 @@
       "id": 44,
       "question": "Based on paragraph 3, where do some people get medicinal plants?",
       "options": {
-        "A": "from stores and markets",
+        "A": "from superstores and markets",
         "B": "from forests or mountains",
         "C": "from doctors and healers",
         "D": "from other countries"
@@ -584,7 +584,7 @@
         "A": "from books and medicine professors",
         "B": "from the internet and libraries",
         "C": "from their parents and grandparents",
-        "D": "from teachers and doctors"
+        "D": "from certified teachers and doctors"
       },
       "correct_answer": "C",
       "category": "Reading"
