@@ -29,12 +29,12 @@
       "id": 3,
       "question": "Select the correct plural form.",
       "options": {
-        "A": "Two childs",
-        "B": "Two childrens",
-        "C": "Two children",
-        "D": "Two childs'"
+        "A": "He caught two fish",
+        "B": "He caught two fishs",
+        "C": "He caught two fishes",
+        "D": "He caught two fishes'"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
@@ -65,8 +65,8 @@
       "id": 6,
       "question": "Which is the correct possessive form?",
       "options": {
-        "A": "The boys book",
-        "B": "The boys' book",
+        "A": "The boy'es book",
+        "B": "The boys book",
         "C": "The boy's book",
         "D": "The boy book"
       },
@@ -78,7 +78,7 @@
       "question": "Select the correct form of 'to be'.",
       "options": {
         "A": "The students is in the classroom.",
-        "B": "The students am in the classroom.",
+        "B": "The students have in the classroom.",
         "C": "The students be in the classroom.",
         "D": "The students are in the classroom."
       },
@@ -113,12 +113,12 @@
       "id": 10,
       "question": "Which sentence has the correct article usage?",
       "options": {
-        "A": "She is an doctor.",
-        "B": "She is a doctor.",
-        "C": "She is the doctor.",
-        "D": "She is doctor."
+        "A": "She is an girl I am in love with.",
+        "B": "She is a girl I am in love with.",
+        "C": "She is the girl I am in love with.",
+        "D": "She is girl I am in love with.."
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -149,8 +149,8 @@
       "id": 13,
       "question": "Select the correct pronoun to complete the sentence: 'This is ___ book.'",
       "options": {
-        "A": "I",
-        "B": "me",
+        "A": "mind",
+        "B": "mined",
         "C": "my",
         "D": "mine"
       },
@@ -163,8 +163,8 @@
       "options": {
         "A": "She has a blue small bag.",
         "B": "She has a small blue bag.",
-        "C": "She has blue a small bag.",
-        "D": "She has small a blue bag."
+        "C": "She has blue small bag.",
+        "D": "She has small blue bag."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -173,7 +173,7 @@
       "id": 15,
       "question": "Which sentence has the correct word order?",
       "options": {
-        "A": "Often they go to the park.",
+        "A": "They often to the park go.",
         "B": "They go often to the park.",
         "C": "They often go to the park.",
         "D": "They go to the park often."
@@ -185,21 +185,21 @@
       "id": 16,
       "question": "Complete the sentence: 'My brother ____ soccer every weekend.'",
       "options": {
-        "A": "play",
-        "B": "plays",
-        "C": "playing",
-        "D": "is play"
+        "A": "plaid",
+        "B": "played",
+        "C": "player",
+        "D": "is player"
       },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 17,
-      "question": "Fill in the blank: 'She ____ her homework last night.'",
+      "question": "She ____ her homework last night.",
       "options": {
-        "A": "do",
-        "B": "does",
-        "C": "doing",
+        "A": "had",
+        "B": "has done",
+        "C": "had done",
         "D": "did"
       },
       "correct_answer": "D",
@@ -207,19 +207,19 @@
     },
     {
       "id": 18,
-      "question": "Choose the correct response: 'How old are you?' '____'",
+      "question": "Choose the correct response: 'How old are you?'",
       "options": {
-        "A": "I am fine.",
-        "B": "I am a student.",
-        "C": "I am from London.",
-        "D": "I am 15 years old."
+        "A": "I was 15.",
+        "B": "I have been 15.",
+        "C": "I were 15.",
+        "D": "I am 15."
       },
       "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 19,
-      "question": "Complete the sentence: 'There ____ a book on the table.'",
+      "question": "Complete the sentence: 'There ____ books on the table.'",
       "options": {
         "A": "is",
         "B": "are",
@@ -231,36 +231,36 @@
     },
     {
       "id": 20,
-      "question": "Fill in the blank: 'I ____ to the movies last weekend.'",
+      "question": "Fill in the blank: 'He ____ a steel stick.'",
       "options": {
-        "A": "go",
-        "B": "went",
-        "C": "going",
-        "D": "goes"
+        "A": "bend",
+        "B": "bent",
+        "C": "band",
+        "D": "bind"
       },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 21,
-      "question": "Choose the correct phrase: '____?'",
+      "question": "Choose the correct phrase:",
       "options": {
-        "A": "What is your name",
-        "B": "What your name is",
-        "C": "Your name what is",
-        "D": "Your what is name"
+        "A": "What is your name?",
+        "B": "What your name is?",
+        "C": "Your name what is?",
+        "D": "Your what is name?"
       },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 22,
-      "question": "Complete the sentence: 'I don't have ____ money.'",
+      "question": "Complete the sentence: 'I don't have ____ money left.'",
       "options": {
         "A": "some",
-        "B": "a",
+        "B": "many",
         "C": "any",
-        "D": "no"
+        "D": "much"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -296,21 +296,21 @@
         "A": "have",
         "B": "having",
         "C": "has",
-        "D": "is have"
+        "D": "is having"
       },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 26,
-      "question": "What does 'cost' mean?",
+      "question": "What is 'the price of something'?",
       "options": {
-        "A": "The price of something",
-        "B": "To make something",
-        "C": "To find something",
-        "D": "The size of something"
+        "A": "coast",
+        "B": "coach",
+        "C": "cost",
+        "D": "costa"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -327,12 +327,12 @@
     },
     {
       "id": 28,
-      "question": "What is a 'skill'?",
+      "question": "What is an 'ability to do something well'?",
       "options": {
-        "A": "A type of food",
-        "B": "A place to work",
-        "C": "The ability to do something well",
-        "D": "A part of a house"
+        "A": "Skull",
+        "B": "Still",
+        "C": "Skill",
+        "D": "Spill"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -341,10 +341,10 @@
       "id": 29,
       "question": "What is a 'trial'?",
       "options": {
-        "A": "A test or experiment",
-        "B": "A type of fruit",
-        "C": "A room in a house",
-        "D": "A kind of animal"
+        "A": "A test",
+        "B": "A rest",
+        "C": "A feast",
+        "D": "A beast"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -363,36 +363,36 @@
     },
     {
       "id": 31,
-      "question": "Something that is 'prior' happens:",
+      "question": "Something that happens before something else:",
       "options": {
-        "A": "At the same time",
-        "B": "After something else",
-        "C": "Before something else",
-        "D": "Every day"
+        "A": "Prime",
+        "B": "Primal",
+        "C": "Prior",
+        "D": "Primate"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 32,
-      "question": "What is a 'role'?",
+      "question": "What is a 'part that someone plays in an activity'?",
       "options": {
-        "A": "A part that someone plays in an activity",
-        "B": "A type of bread",
-        "C": "A small house",
-        "D": "A kind of vegetable"
+        "A": "A rope",
+        "B": "A pole",
+        "C": "A roll",
+        "D": "A role"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 33,
       "question": "Something that is 'solid' is:",
       "options": {
-        "A": "Liquid like water",
-        "B": "Firm and hard, not liquid or gas",
-        "C": "Very soft",
-        "D": "Invisible"
+        "A": "Liquid",
+        "B": "Firm",
+        "C": "Soft",
+        "D": "Smooth"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -411,60 +411,60 @@
     },
     {
       "id": 35,
-      "question": "What is a 'sentence'?",
+      "question": "What is a 'group of words'?",
       "options": {
-        "A": "A group of words that makes complete sense",
-        "B": "A single word",
-        "C": "A page in a book",
-        "D": "A picture in a book"
+        "A": "A latte",
+        "B": "A latter",
+        "C": "A letter",
+        "D": "A ladder"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 36,
-      "question": "A 'source' is:",
+      "question": "A 'place where something comes from' is:",
       "options": {
-        "A": "A place where something comes from",
-        "B": "A type of food",
-        "C": "A piece of furniture",
-        "D": "A kind of animal"
+        "A": "A saucer",
+        "B": "A source",
+        "C": "A bourse",
+        "D": "A course"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 37,
-      "question": "What is a 'door'?",
+      "question": "What is an 'opening for entering or leaving a room or building'?",
       "options": {
-        "A": "A window in a house",
-        "B": "A part of a tree",
-        "C": "An opening for entering or leaving a room or building",
-        "D": "A type of car"
+        "A": "A garage",
+        "B": "A window",
+        "C": "A door",
+        "D": "A roof"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 38,
-      "question": "To 'understand' means:",
+      "question": "To 'know the meaning of something' means:",
       "options": {
-        "A": "To forget something",
-        "B": "To know the meaning of something",
-        "C": "To break something",
-        "D": "To lose something"
+        "A": "To understate",
+        "B": "To understand",
+        "C": "To undermine",
+        "D": "To underscore"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 39,
-      "question": "What does it mean to 'call' someone?",
+      "question": "What does it mean to 'use a phone to talk to' someone?",
       "options": {
-        "A": "To send them a letter",
-        "B": "To visit their house",
-        "C": "To use a phone to talk to them",
-        "D": "To write them an email"
+        "A": "To bull",
+        "B": "To ball",
+        "C": "To call",
+        "D": "To sell"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -476,7 +476,7 @@
         "A": "I will eat lunch then I will do my homework.",
         "B": "I then will eat lunch I will do my homework.",
         "C": "I will eat lunch, then I will do my homework.",
-        "D": "I will eat lunch I then will do my homework."
+        "D": "I will eat lunch, I then will do my homework."
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -497,10 +497,10 @@
       "id": 42,
       "question": "According to paragraph 1, what do trees take in from the air?",
       "options": {
-        "A": "Oxygen",
+        "A": "Clean oxygen",
         "B": "Carbon dioxide",
-        "C": "Sugar",
-        "D": "Water"
+        "C": "Brown sugar",
+        "D": "Clean water"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -509,8 +509,8 @@
       "id": 43,
       "question": "Based on paragraph 2, what is photosynthesis?",
       "options": {
-        "A": "A type of tree",
-        "B": "A green material in leaves",
+        "A": "A type of a tropical tree",
+        "B": "A green material in tree leaves",
         "C": "The process of making oxygen",
         "D": "A kind of sunlight"
       },
@@ -521,7 +521,7 @@
       "id": 44,
       "question": "According to paragraph 2, what is chlorophyll?",
       "options": {
-        "A": "A process trees use",
+        "A": "A process trees use for making oxygen",
         "B": "A special green material in leaves",
         "C": "A type of oxygen",
         "D": "A type of sugar"
@@ -581,7 +581,7 @@
       "id": 49,
       "question": "What is the main idea of this passage?",
       "options": {
-        "A": "Trees are good for building houses",
+        "A": "Trees are good for building human houses",
         "B": "Trees make oxygen that we need to live",
         "C": "Trees are green and beautiful",
         "D": "Trees grow very slowly"
