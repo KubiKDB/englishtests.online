@@ -20,7 +20,7 @@
         "A": "The team is working on their project.",
         "B": "Neither of the options seems suitable.",
         "C": "The number of participants have increased.",
-        "D": "She walks to work every day."
+        "D": "She walks to work through the park every day."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -29,7 +29,7 @@
       "id": 3,
       "question": "Select the correct relative pronoun: The book _____ you recommended was excellent.",
       "options": {
-        "A": "who",
+        "A": "what",
         "B": "whom",
         "C": "whose",
         "D": "which"
@@ -44,7 +44,7 @@
         "A": "will start",
         "B": "will have started",
         "C": "is starting",
-        "D": "would start"
+        "D": "has been started"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -67,7 +67,7 @@
       "options": {
         "A": "The exhibition was visiting by thousands of people.",
         "B": "The exhibition has being visited by thousands of people.",
-        "C": "The exhibition was been visited by thousands of people.",
+        "C": "The exhibition have been visited by thousands of people.",
         "D": "The exhibition was visited by thousands of people."
       },
       "correct_answer": "D",
@@ -89,7 +89,7 @@
       "id": 8,
       "question": "Which sentence uses modals correctly?",
       "options": {
-        "A": "You must to study harder for the exam.",
+        "A": "You must to start studying harder for the exam.",
         "B": "You might want to reconsider your decision.",
         "C": "She can to speak three languages fluently.",
         "D": "They should arrived by now."
@@ -99,7 +99,7 @@
     },
     {
       "id": 9,
-      "question": "Select the correct form of the reported speech: She said, \"I am studying now.\"",
+      "question": "Select the correct form of the reported speech: She said, 'I am studying now.'",
       "options": {
         "A": "She said she is studying now.",
         "B": "She said she was studying then.",
@@ -152,7 +152,7 @@
         "A": "She enjoys swimming, hiking, and to cycle.",
         "B": "She enjoys swimming, hiking, and cycling.",
         "C": "She enjoys to swim, hiking, and cycling.",
-        "D": "She enjoys swimming, to hike, and cycling."
+        "D": "She enjoys to swim, to hike, and cycling."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -176,7 +176,7 @@
         "A": "Either the teacher or the students is going to present today.",
         "B": "Neither the teacher nor the students is going to present today.",
         "C": "Either the teacher or the students are going to present today.",
-        "D": "Neither the teacher nor the students have to present today."
+        "D": "Neither the teacher nor the students has to present today."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -209,24 +209,24 @@
       "id": 18,
       "question": "Which phrase best completes the sentence? After graduation, she hopes to _____ a career in international law.",
       "options": {
-        "A": "pursue",
-        "B": "follow",
-        "C": "chase",
-        "D": "hunt"
+        "A": "perceive",
+        "B": "preserve",
+        "C": "precede",
+        "D": "pursue"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 19,
       "question": "Select the correct collocation: He _____ a very convincing argument during the debate.",
       "options": {
-        "A": "made",
-        "B": "did",
+        "A": "did",
+        "B": "made",
         "C": "told",
         "D": "spoke"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
@@ -248,7 +248,7 @@
         "A": "consequently",
         "B": "furthermore",
         "C": "nevertheless",
-        "D": "meanwhile"
+        "D": "nevermind"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -291,7 +291,7 @@
     },
     {
       "id": 25,
-      "question": "Select the correct register for a formal email: \"I am writing to _____\"",
+      "question": "Select the correct register for a formal email: 'I am writing to _____'",
       "options": {
         "A": "tell you about our new product",
         "B": "give you the lowdown on our new product",
@@ -330,7 +330,7 @@
       "question": "Choose the word that best completes the sentence: The professor asked the students to analyze the _____ carefully and identify the main themes.",
       "options": {
         "A": "document",
-        "B": "text",
+        "B": "article",
         "C": "material",
         "D": "content"
       },
@@ -387,7 +387,7 @@
     },
     {
       "id": 33,
-      "question": "Select the word that means: to have a commanding influence on; prevail over.",
+      "question": "Select the word that means: to have a commanding influence on or prevail over.",
       "options": {
         "A": "control",
         "B": "dominate",
@@ -401,7 +401,7 @@
       "id": 34,
       "question": "Choose the word that best completes the sentence: The new evidence may _____ the findings of the previous study.",
       "options": {
-        "A": "contradict",
+        "A": "refuse",
         "B": "oppose",
         "C": "inflict",
         "D": "refute"
@@ -451,7 +451,7 @@
       "options": {
         "A": "feedback",
         "B": "advice",
-        "C": "suggestions",
+        "C": "inflow",
         "D": "input"
       },
       "correct_answer": "D",
@@ -523,8 +523,8 @@
       "options": {
         "A": "They typically adopt rural lifestyles completely",
         "B": "They always create conflicts with established residents",
-        "C": "Both cultural enrichment and potential conflicts may occur",
-        "D": "Rural traditions are usually strengthened"
+        "C": "Both cultural enrichment and potential conflicts",
+        "D": "Rural traditions are usually strengthened by the newcomers"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -545,9 +545,9 @@
       "id": 46,
       "question": "What happens to land values in urban-rural interface zones according to paragraph 4?",
       "options": {
-        "A": "They tend to decrease",
+        "A": "They typically decrease",
         "B": "They remain stable",
-        "C": "They typically increase",
+        "C": "They tend to increase",
         "D": "They fluctuate unpredictably"
       },
       "correct_answer": "C",
@@ -560,7 +560,7 @@
         "A": "They have too many regulations",
         "B": "They often fall under fragmented administrative jurisdictions",
         "C": "They receive too much attention from urban planners",
-        "D": "They are typically overregulated"
+        "D": "They are typically overregulated by administrative jurisdictions"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -583,7 +583,7 @@
       "options": {
         "A": "Advocate for the preservation of rural areas",
         "B": "Criticize urban expansion into rural landscapes",
-        "C": "Compare urban and rural lifestyles",
+        "C": "Compare urban and rural lifestyles using urban-rural interfaces",
         "D": "Examine the complex nature of urban-rural interfaces"
       },
       "correct_answer": "D",
@@ -594,7 +594,7 @@
       "question": "Which of the following best describes how the passage is organized?",
       "options": {
         "A": "Chronological development of urban-rural interfaces",
-        "B": "Problem-solution analysis of urban sprawl",
+        "B": "Problem-solution analysis of urban-rural interfaces",
         "C": "Comparison of different interface zones around the world",
         "D": "Examination of different aspects of urban-rural interfaces"
       },
