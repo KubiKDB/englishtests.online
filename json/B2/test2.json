@@ -53,7 +53,7 @@
       "id": 5,
       "question": "She told me she ________ feeling unwell since the previous day.",
       "options": {
-        "A": "is",
+        "A": "had",
         "B": "was",
         "C": "has been",
         "D": "had been"
@@ -91,7 +91,7 @@
       "options": {
         "A": "will",
         "B": "is going to",
-        "C": "will be",
+        "C": "will be going",
         "D": "goes to"
       },
       "correct_answer": "B",
@@ -113,10 +113,10 @@
       "id": 10,
       "question": "The conference will take place ________ May 15th ________ the Grand Hotel.",
       "options": {
-        "A": "in / at",
-        "B": "on / at",
-        "C": "in / in",
-        "D": "on / in"
+        "A": "in/at",
+        "B": "on/at",
+        "C": "in/in",
+        "D": "on/in"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -149,10 +149,10 @@
       "id": 13,
       "question": "________ you practice, ________ you'll improve at playing the piano.",
       "options": {
-        "A": "The more / the more",
-        "B": "More / more",
-        "C": "The most / the most",
-        "D": "Much / much"
+        "A": "The more/the more",
+        "B": "More/more",
+        "C": "The most/the most",
+        "D": "Much more/much more"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -176,7 +176,7 @@
         "A": "that",
         "B": "which",
         "C": "where",
-        "D": "whose"
+        "D": "what"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -198,9 +198,9 @@
       "question": "We need to ________ a solution to this problem before the deadline.",
       "options": {
         "A": "come up with",
-        "B": "come across",
-        "C": "come around",
-        "D": "come about"
+        "B": "come up across",
+        "C": "come up around",
+        "D": "come up about"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -209,7 +209,7 @@
       "id": 18,
       "question": "The new safety regulations will ________ effect next month.",
       "options": {
-        "A": "take",
+        "A": "take into",
         "B": "come into",
         "C": "bring to",
         "D": "go with"
@@ -221,9 +221,9 @@
       "id": 19,
       "question": "It's important to ________ cultural differences when doing business internationally.",
       "options": {
-        "A": "take up",
-        "B": "take after",
-        "C": "take in",
+        "A": "make into account",
+        "B": "have into account",
+        "C": "give into account",
         "D": "take into account"
       },
       "correct_answer": "D",
@@ -245,8 +245,8 @@
       "id": 21,
       "question": "The theater play was completely sold out, so we couldn't ________ tickets for the evening performance.",
       "options": {
-        "A": "get over",
-        "B": "get by",
+        "A": "get hold over",
+        "B": "get hold by",
         "C": "get hold of",
         "D": "get through"
       },
@@ -260,7 +260,7 @@
         "A": "takes on",
         "B": "takes up",
         "C": "takes after",
-        "D": "takes in"
+        "D": "takes afterwards"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -272,7 +272,7 @@
         "A": "call for",
         "B": "call off",
         "C": "call out",
-        "D": "call on"
+        "D": "call of"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -281,24 +281,24 @@
       "id": 24,
       "question": "The company is ________ a new marketing strategy to increase sales.",
       "options": {
-        "A": "working on",
+        "A": "working in",
         "B": "working out",
         "C": "working up",
-        "D": "working through"
+        "D": "working on"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 25,
       "question": "I can't ________ what she sees in him; they seem so different from each other.",
       "options": {
-        "A": "figure out",
+        "A": "figure away",
         "B": "figure on",
-        "C": "figure up",
+        "C": "figure out",
         "D": "figure in"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
@@ -378,9 +378,9 @@
       "question": "According to recent ________, over 70% of graduates find employment within six months of completing their degree.",
       "options": {
         "A": "data",
-        "B": "figure",
+        "B": "figures",
         "C": "statistic",
-        "D": "record"
+        "D": "records"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -389,10 +389,10 @@
       "id": 33,
       "question": "Immigrants must often ________ into a new culture while maintaining aspects of their own cultural identity.",
       "options": {
-        "A": "integrate",
+        "A": "assimilate",
         "B": "incorporate",
         "C": "blend",
-        "D": "assimilate"
+        "D": "integrate"
       },
       "correct_answer": "D",
       "category": "Vocabulary"
@@ -430,7 +430,7 @@
         "C": "incline",
         "D": "sway"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
@@ -498,7 +498,7 @@
       "question": "Which of the following accurately describes Aztec social structure according to the passage?",
       "options": {
         "A": "An egalitarian society with no class distinctions",
-        "B": "A two-class system of nobles and commoners",
+        "B": "A two-class system of nobles and commoners with several distinctions",
         "C": "A hierarchical society with several distinct social classes",
         "D": "A society where social mobility was impossible"
       },
@@ -509,7 +509,7 @@
       "id": 43,
       "question": "The term 'chinampas' in paragraph 3 refers to:",
       "options": {
-        "A": "Administrative officials who collected taxes",
+        "A": "Administrative officials who collected taxes that increased agricultural productivity",
         "B": "Raised farming beds that increased agricultural productivity",
         "C": "Markets where goods were traded throughout Mesoamerica",
         "D": "Tribute items collected from conquered territories"
@@ -535,8 +535,8 @@
       "options": {
         "A": "A collection of deities",
         "B": "A religious ceremony",
-        "C": "A sacred building",
-        "D": "A form of sacrifice"
+        "C": "A form of sacrifice",
+        "D": "A sacred building"
       },
       "correct_answer": "A",
       "category": "Reading"
@@ -560,7 +560,7 @@
         "A": "Spanish alliances with the Aztecs' enemies",
         "B": "The devastating impact of European diseases",
         "C": "Internal rebellion among the Aztec lower classes",
-        "D": "Military conquest by Spanish forces"
+        "D": "Military conquest of the Aztec Empire by Spanish forces"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -594,7 +594,7 @@
       "question": "The primary purpose of this passage is to:",
       "options": {
         "A": "Compare Aztec civilization to other Mesoamerican cultures",
-        "B": "Defend the religious practices of the Aztec Empire",
+        "B": "Defend the religious practices of the Aztec Empire and its culture",
         "C": "Criticize Spanish colonization of indigenous civilizations",
         "D": "Provide an overview of Aztec society, culture, and historical trajectory"
       },
