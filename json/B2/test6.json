@@ -1,18 +1,18 @@
 {
   "passage": "<br>(1) Global climate zones are primarily determined by the Earth's geography, which influences temperature, precipitation, and weather patterns. The most significant geographical factor is latitude, as it affects the angle and intensity of sunlight. Areas near the equator receive direct sunlight year-round, resulting in consistently high temperatures and the formation of tropical climates. In contrast, regions near the poles receive sunlight at an oblique angle, leading to cooler temperatures and polar climates.<br><br>(2) Another crucial geographical feature is altitude. Higher elevations experience cooler temperatures due to the thinning atmosphere, which reduces heat retention. This is why mountainous regions, even those near the equator, can have temperate or even cold climates. For example, the Andes in South America have alpine climates at high altitudes, despite being located in tropical latitudes.<br><br>(3) Proximity to bodies of water also plays a significant role in shaping climate zones. Oceans and large lakes moderate temperatures by absorbing and releasing heat slowly. Coastal areas tend to have milder, more stable climates compared to inland regions at the same latitude. This is evident in the difference between the maritime climate of Western Europe and the continental climate of Eastern Europe.<br><br>(4) Ocean currents further influence climate by transporting warm or cold water across vast distances. The Gulf Stream, for instance, carries warm water from the Gulf of Mexico to the North Atlantic, significantly warming the climate of Western Europe. Conversely, the California Current brings cold water from the North Pacific, contributing to the cooler coastal climate of California.<br><br>(5) Finally, prevailing wind patterns, shaped by the Earth's rotation and geographical features, distribute heat and moisture around the globe. The trade winds, for example, blow from east to west in the tropics, facilitating the movement of warm, moist air and influencing rainfall patterns. These winds, combined with other geographical factors, create diverse climate zones that support a wide range of ecosystems and human activities.",
   "questions": [
-    {
+   {
       "id": 1,
-      "question": "Choose the correct sentence:",
+      "question": "Choose the grammatically correct sentence:",
       "options": {
-        "A": "She don't like coffee.",
-        "B": "She doesn't likes coffee.",
-        "C": "She doesn't like coffee.",
-        "D": "She don't likes coffee."
+        "A": "It is important for the company identifying its core values before launching the new brand.",
+        "B": "The committee asked the project manager where had he submitted the final report by.",
+        "C": "Had the budget been approved in time, we would have been able to complete the renovation.",
+        "D": "She regrets not to take that job offer, even though the pay was quite attractive."
       },
       "correct_answer": "C",
       "category": "Grammar"
-    },
+    }
     {
       "id": 2,
       "question": "Which sentence is in the passive voice?",
@@ -20,7 +20,7 @@
         "A": "The chef cooked the meal.",
         "B": "The meal was cooked by the chef.",
         "C": "The chef is cooking the meal.",
-        "D": "The meal is being cooked."
+        "D": "The meal is being cooking."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -32,7 +32,7 @@
         "A": "am",
         "B": "was",
         "C": "were",
-        "D": "be"
+        "D": "are"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -63,26 +63,26 @@
     },
     {
       "id": 6,
-      "question": "What is the correct plural form of 'child'?",
+      "question": "What is the correct plural form of 'criterion'?",
       "options": {
-        "A": "childs",
-        "B": "children",
-        "C": "childrens",
-        "D": "childes"
+        "A": "criterions",
+        "B": "criteria",
+        "C": "criteriones",
+        "D": "criterium"
       },
       "correct_answer": "B",
       "category": "Grammar"
-    },
+    }
     {
       "id": 7,
       "question": "Choose the correct sentence:",
       "options": {
-        "A": "He is more taller than his brother.",
-        "B": "He is taller than his brother.",
-        "C": "He is the tallest than his brother.",
-        "D": "He is tall than his brother."
+        "A": "He is taller as his brother.",
+        "B": "He is more taller than his brother.",
+        "C": "He is taller than his brother.",
+        "D": "He is tallest above his brother."
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -97,28 +97,28 @@
       "correct_answer": "A",
       "category": "Grammar"
     },
-    {
+   {
       "id": 9,
-      "question": "What is the correct form of the verb in this sentence: 'She ___ to the store yesterday.'",
+      "question": "Only after the full audit had been completed __________ the massive fraud.",
       "options": {
-        "A": "go",
-        "B": "went",
-        "C": "goes",
-        "D": "gone"
+        "A": "they discovered",
+        "B": "they had discovered",
+        "C": "did they discover",
+        "D": "have they discovered"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
-    },
+    }
     {
       "id": 10,
       "question": "Choose the correct sentence:",
       "options": {
-        "A": "I have been waiting for two hours.",
+        "A": "I wait for two hours.",
         "B": "I have waited for two hours.",
         "C": "I am waiting for two hours.",
-        "D": "I wait for two hours."
+        "D": "I have been waiting for two hours."
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -128,7 +128,7 @@
         "A": "I like tea but coffee.",
         "B": "I like tea and coffee.",
         "C": "I like tea or coffee.",
-        "D": "I like tea because coffee."
+        "D": "I like tea nor coffee."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -174,11 +174,11 @@
       "question": "What is the correct form of the verb in this sentence: 'They ___ playing football when it started to rain.'",
       "options": {
         "A": "are",
-        "B": "were",
+        "B": "were been",
         "C": "have been",
-        "D": "had been"
+        "D": "were"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -187,7 +187,7 @@
       "options": {
         "A": "if",
         "B": "whether",
-        "C": "that",
+        "C": "wheather",
         "D": "which"
       },
       "correct_answer": "B",
@@ -195,38 +195,38 @@
     },
     {
       "id": 17,
-      "question": "Choose the correct phrase: 'She is very good ___ playing the piano.'",
+      "question": "Choose the correct option to complete the sentence: 'The management refused to comply ___ the new safety regulations.'",
       "options": {
-        "A": "at",
-        "B": "in",
-        "C": "on",
-        "D": "with"
+        "A": "for",
+        "B": "to",
+        "C": "with",
+        "D": "at"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Use of English"
-    },
+    }
     {
       "id": 18,
       "question": "Complete the sentence: 'I would rather ___ at home than go out.'",
       "options": {
-        "A": "stay",
-        "B": "to stay",
+        "A": "have stayed",
+        "B": "stayed",
         "C": "staying",
-        "D": "stayed"
+        "D": "stay"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 19,
-      "question": "Choose the correct word: 'The teacher asked us to ___ quiet.'",
+      "question": "Choose the incorrect word: 'The teacher asked us to ___ quiet.'",
       "options": {
         "A": "be",
-        "B": "being",
-        "C": "been",
-        "D": "is"
+        "B": "make",
+        "C": "stay",
+        "D": "remain"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
@@ -257,12 +257,12 @@
       "id": 22,
       "question": "Complete the sentence: 'She insisted ___ paying for dinner.'",
       "options": {
-        "A": "on",
+        "A": "to",
         "B": "in",
-        "C": "at",
+        "C": "on",
         "D": "with"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
@@ -303,12 +303,12 @@
     },
     {
       "id": 26,
-      "question": "What is a synonym for 'diligent'?",
+      "question": "What is a synonym for 'hardworking'?",
       "options": {
-        "A": "Lazy",
-        "B": "Hardworking",
-        "C": "Careless",
-        "D": "Indifferent"
+        "A": "intelligent",
+        "B": "diligent",
+        "C": "gentle",
+        "D": "indifferent"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -317,24 +317,24 @@
       "id": 27,
       "question": "Choose the correct word: 'The ___ of the story is that honesty is the best policy.'",
       "options": {
-        "A": "moral",
+        "A": "morsel",
         "B": "morale",
         "C": "mortar",
-        "D": "morsel"
+        "D": "moral"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 28,
-      "question": "What does 'to procrastinate' mean?",
+      "question": "What does 'to delay or postpone' mean?",
       "options": {
-        "A": "To do something quickly",
-        "B": "To delay or postpone",
-        "C": "To plan carefully",
-        "D": "To work efficiently"
+        "A": "to process",
+        "B": "To procreate",
+        "C": "to proliferate",
+        "D": "to procrastinate"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -366,23 +366,23 @@
       "question": "Choose the correct word: 'The company's profits have ___ significantly this year.'",
       "options": {
         "A": "raised",
-        "B": "risen",
+        "B": "arise",
         "C": "rose",
-        "D": "arise"
+        "D": "risen"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 32,
-      "question": "What does 'to mitigate' mean?",
+      "question": "What does 'to make less severe' mean?",
       "options": {
-        "A": "To make less severe",
-        "B": "To increase",
-        "C": "To ignore",
-        "D": "To complicate"
+        "A": "to misgate",
+        "B": "to overgate",
+        "C": "to mitigate",
+        "D": "to complicate"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -402,11 +402,11 @@
       "question": "What is a synonym for 'ephemeral'?",
       "options": {
         "A": "Lasting",
-        "B": "Temporary",
-        "C": "Eternal",
+        "B": "Eternal",
+        "C": "Temporary",
         "D": "Permanent"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -425,34 +425,34 @@
       "id": 36,
       "question": "What does 'to exacerbate' mean?",
       "options": {
-        "A": "To improve",
-        "B": "To worsen",
-        "C": "To solve",
-        "D": "To understand"
+        "A": "to exaggerate",
+        "B": "to worship",
+        "C": "to solve",
+        "D": "to worsen"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 37,
       "question": "Choose the correct word: 'She has a ___ interest in art.'",
       "options": {
-        "A": "keen",
-        "B": "kin",
-        "C": "cane",
+        "A": "kin",
+        "B": "kind",
+        "C": "keen",
         "D": "can"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 38,
-      "question": "What is an antonym for 'obsolete'?",
+      "question": "What is an antonym for 'old-fashioned'?",
       "options": {
         "A": "Outdated",
         "B": "Modern",
         "C": "Ancient",
-        "D": "Old-fashioned"
+        "D": "Obsolete"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -461,12 +461,12 @@
       "id": 39,
       "question": "Choose the correct word: 'The ___ of the storm caused widespread damage.'",
       "options": {
-        "A": "intensity",
+        "A": "itinerary",
         "B": "intense",
         "C": "intently",
-        "D": "intention"
+        "D": "intensity"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -475,7 +475,7 @@
       "options": {
         "A": "To oppose",
         "B": "To support",
-        "C": "To ignore",
+        "C": "To suppose",
         "D": "To criticize"
       },
       "correct_answer": "B",
