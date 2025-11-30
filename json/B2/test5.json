@@ -39,14 +39,14 @@
     },
     {
       "id": 4,
-      "question": "The movie that we watched __________ very exciting.",
+      "question": "The movies that we watched __________ very exciting.",
       "options": {
         "A": "is",
         "B": "were",
         "C": "are",
         "D": "be"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
@@ -77,24 +77,24 @@
       "id": 7,
       "question": "The room __________ cleaned every day.",
       "options": {
-        "A": "is",
+        "A": "has",
         "B": "was being",
-        "C": "has",
-        "D": "cleans"
+        "C": "has been",
+        "D": "is"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 8,
       "question": "__________ her busy schedule, she still found time to help.",
       "options": {
-        "A": "Despite",
+        "A": "Since",
         "B": "Although",
         "C": "Because",
-        "D": "Since"
+        "D": "Despite"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -125,12 +125,12 @@
       "id": 11,
       "question": "She asked me where __________ last weekend.",
       "options": {
-        "A": "I went",
+        "A": "I have gone",
         "B": "did I go",
         "C": "I go",
-        "D": "have I gone"
+        "D": "I went"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -149,24 +149,24 @@
       "id": 13,
       "question": "They __________ to the meeting if they had known about it.",
       "options": {
-        "A": "would come",
+        "A": "come",
         "B": "came",
         "C": "will come",
-        "D": "come"
+        "D": "would come"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 14,
       "question": "The instructions were clear, __________ nobody understood them.",
       "options": {
-        "A": "yet",
+        "A": "then",
         "B": "so",
-        "C": "because",
+        "C": "yet",
         "D": "or"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -195,7 +195,7 @@
     },
     {
       "id": 17,
-      "question": "\"I can't find my keys,\" she said. She said that she __________ her keys.",
+      "question": "'I can't find my keys,' she said. She said that she __________ her keys.",
       "options": {
         "A": "can't find",
         "B": "couldn't find",
@@ -209,17 +209,17 @@
       "id": 18,
       "question": "The project __________ completed by the deadline.",
       "options": {
-        "A": "was",
+        "A": "were",
         "B": "has",
         "C": "is",
-        "D": "were"
+        "D": "was"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 19,
-      "question": "\"Do you want to join us?\" he asked. He asked if I __________ to join them.",
+      "question": "'Do you want to join us?' he asked. He asked if I __________ to join them.",
       "options": {
         "A": "want",
         "B": "wanted",
@@ -246,8 +246,8 @@
       "question": "She's very tired because she __________ all day.",
       "options": {
         "A": "works",
-        "B": "has been working",
-        "C": "worked",
+        "B": "has work",
+        "C": "has been working",
         "D": "is working"
       },
       "correct_answer": "B",
@@ -257,36 +257,36 @@
       "id": 22,
       "question": "I need to __________ my presentation before the meeting.",
       "options": {
-        "A": "prepare",
-        "B": "preparing",
-        "C": "prepared",
-        "D": "prepares"
+        "A": "repair",
+        "B": "propose",
+        "C": "get prepared",
+        "D": "prepare"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 23,
-      "question": "\"How long have you lived here?\" She asked me __________ I had lived there.",
+      "question": "'How long have you lived here?' She asked me how long __________ there.",
       "options": {
-        "A": "how long",
-        "B": "how much",
-        "C": "how many",
-        "D": "how often"
+        "A": "I was living",
+        "B": "I lived",
+        "C": "I had lived",
+        "D": "I have lived"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 24,
       "question": "The teacher explained the homework __________ everyone understood.",
       "options": {
-        "A": "until",
+        "A": "for",
         "B": "after",
         "C": "while",
-        "D": "during"
+        "D": "until"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -303,36 +303,36 @@
     },
     {
       "id": 26,
-      "question": "What is a synonym for \”rapid\”?”,
+      "question": "What is a synonym for 'rapid'?",
       "options": {
-        "A": "Slow",
-        "B": "Quick",
-        "C": "Steady",
-        "D": "Calm"
+        "A": "First",
+        "B": "Feast",
+        "C": "Fast",
+        "D": "Fist"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 27,
-      "question": "The opposite of \”confident\” is:",
+      "question": "The opposite of 'doubtful' is:",
       "options": {
-        "A": "Sure",
-        "B": "Doubtful",
-        "C": "Brave",
-        "D": "Happy"
+        "A": "Confused",
+        "B": "Confined",
+        "C": "Confident",
+        "D": "Contracted"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 28,
-      "question": “\”Eager\” most nearly means:",
+      "question": "'Eager' most nearly means:",
       "options": {
-        "A": "Uninterested",
+        "A": "Excluded",
         "B": "Excited",
-        "C": "Tired",
-        "D": "Nervous"
+        "C": "Exclusive",
+        "D": "Excellent"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -341,24 +341,24 @@
       "id": 29,
       "question": "The __________ of the experiment surprised the scientists.",
       "options": {
-        "A": "result",
+        "A": "theory",
         "B": "process",
         "C": "method",
-        "D": "theory"
+        "D": "result"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 30,
       "question": "She has a __________ interest in ancient history.",
       "options": {
-        "A": "deep",
+        "A": "deeply",
         "B": "shallow",
         "C": "weak",
-        "D": "mild"
+        "D": "deep"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -366,11 +366,11 @@
       "question": "The noise was so __________ that I couldn't sleep.",
       "options": {
         "A": "quiet",
-        "B": "loud",
+        "B": "low",
         "C": "soft",
-        "D": "gentle"
+        "D": "loud"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -378,8 +378,8 @@
       "question": "He was __________ to help after the accident.",
       "options": {
         "A": "willing",
-        "B": "reluctant",
-        "C": "unable",
+        "B": "shalling",
+        "C": "defiant",
         "D": "refused"
       },
       "correct_answer": "A",
@@ -402,7 +402,7 @@
       "question": "She __________ her goals after months of hard work.",
       "options": {
         "A": "achieved",
-        "B": "lost",
+        "B": "arrived",
         "C": "forgot",
         "D": "ignored"
       },
@@ -425,7 +425,7 @@
       "id": 36,
       "question": "His speech was so __________ that everyone applauded.",
       "options": {
-        "A": "boring",
+        "A": "imposing",
         "B": "confusing",
         "C": "impressive",
         "D": "simple"
@@ -435,12 +435,12 @@
     },
     {
       "id": 37,
-      "question": "The company plans to __________ its operations next year.",
+      "question": "The company plans to __________ its operations next year to enter new markets.",
       "options": {
         "A": "reduce",
         "B": "expand",
-        "C": "stop",
-        "D": "limit"
+        "C": "continue",
+        "D": "enhance"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -451,8 +451,8 @@
       "options": {
         "A": "clear",
         "B": "complicated",
-        "C": "short",
-        "D": "helpful"
+        "C": "complex",
+        "D": "compliant"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -473,7 +473,7 @@
       "id": 40,
       "question": "The storm caused __________ damage to the village.",
       "options": {
-        "A": "minor",
+        "A": "server",
         "B": "severe",
         "C": "light",
         "D": "small"
@@ -487,7 +487,7 @@
       "options": {
         "A": "Rome was the largest empire in ancient history.",
         "B": "Roman innovations and culture continue to influence modern society.",
-        "C": "Life in ancient Rome was difficult for most people.",
+        "C": "Life in ancient Rome was difficult for all people except patricians.",
         "D": "The Romans were primarily known for their military conquests."
       },
       "correct_answer": "B",
@@ -511,7 +511,7 @@
       "options": {
         "A": "Concrete",
         "B": "Arches",
-        "C": "Steam engines",
+        "C": "Engines",
         "D": "Roads"
       },
       "correct_answer": "C",
@@ -547,7 +547,7 @@
       "options": {
         "A": "They were built only for military use.",
         "B": "They helped improve trade across the empire.",
-        "C": "They were made entirely of concrete.",
+        "C": "They were made entirely of concrete and steel.",
         "D": "They were destroyed after Rome's fall."
       },
       "correct_answer": "B",
@@ -581,7 +581,7 @@
       "id": 49,
       "question": "The author suggests that Roman innovations were significant because:",
       "options": {
-        "A": "They were unique to Rome and never copied.",
+        "A": "They were unique to Rome and never copied by others.",
         "B": "They have a lasting impact on today's world.",
         "C": "They were completed quickly and cheaply.",
         "D": "They were only useful during Rome's time."
