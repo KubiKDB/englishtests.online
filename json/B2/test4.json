@@ -1,55 +1,605 @@
 {
   "passage": "<br>(1) Glacial retreat, the shrinking of glaciers due to melting, has accelerated in recent decades, reshaping landscapes and raising global concerns. This phenomenon is primarily driven by climate change, as rising temperatures from greenhouse gas emissions cause ice to melt faster than it can accumulate. Glaciers in regions like the Alps, Himalayas, and Greenland are losing mass at alarming rates, altering river systems and coastal environments. Scientists view this trend as a clear indicator of a warming planet and its cascading effects on nature and humanity.<br><br>(2) The causes of glacial retreat are rooted in both natural and human-induced factors. Historically, glaciers have advanced and receded with shifts in Earth’s climate, but today’s rapid melting is largely tied to industrial activity. Burning fossil fuels releases carbon dioxide, trapping heat and raising global temperatures. Deforestation and other land-use changes further amplify this warming, reducing the planet’s ability to reflect sunlight. As a result, glaciers that once persisted for centuries are now vanishing within decades.<br><br>(3) One immediate consequence of glacial retreat is its impact on water supplies. Glaciers act as natural reservoirs, storing freshwater and releasing it gradually into rivers and streams. In areas like the Andes and Central Asia, millions depend on this meltwater for drinking, irrigation, and hydropower. As glaciers shrink, these regions face seasonal shortages, threatening agriculture and energy production. Over time, the loss of this reliable water source could destabilize entire communities.<br><br>(4) Beyond water, glacial retreat contributes to rising sea levels and ecological disruption. Melting ice from Greenland and Antarctica adds significant volumes of water to the oceans, endangering low-lying coastal areas with flooding. The retreat also exposes barren land, altering habitats and reducing biodiversity as species struggle to adapt. In polar regions, the loss of ice affects animals like polar bears and seals, whose survival depends on stable ice platforms.<br><br>(5) Addressing glacial retreat demands urgent action and long-term strategies. Reducing carbon emissions through renewable energy and conservation efforts can slow the warming driving this meltdown. Meanwhile, communities are adapting by improving water management and building infrastructure to cope with changing conditions. Scientists continue to monitor glaciers with advanced tools, hoping to predict future impacts. As glacial retreat reshapes the planet, it underscores the need for global cooperation to mitigate its far-reaching consequences.",
   "questions": [
-    {"id": 1, "question": "If we ___ emissions earlier, glacial retreat might have slowed.", "options": {"A": "reduce", "B": "had reduced", "C": "reduced", "D": "will reduce"}, "correct_answer": "B", "category": "Grammar"},
-    {"id": 2, "question": "The region ___ by water shortages if glaciers keep melting.", "options": {"A": "will affect", "B": "affects", "C": "will be affected", "D": "is affected"}, "correct_answer": "C", "category": "Grammar"},
-    {"id": 3, "question": "He asked ___ the data showed a clear trend.", "options": {"A": "if", "B": "that", "C": "whether or not", "D": "have"}, "correct_answer": "A", "category": "Grammar"},
-    {"id": 4, "question": "Scientists ___ glacial changes since the 1990s.", "options": {"A": "study", "B": "have studied", "C": "studied", "D": "are studying"}, "correct_answer": "B", "category": "Grammar"},
-    {"id": 5, "question": "I wish we ___ more about climate impacts years ago.", "options": {"A": "know", "B": "knew", "C": "had known", "D": "knowing"}, "correct_answer": "C", "category": "Grammar"},
-    {"id": 6, "question": "Neither the researcher nor the assistants ___ optimistic about the results.", "options": {"A": "is", "B": "are", "C": "was", "D": "be"}, "correct_answer": "B", "category": "Grammar"},
-    {"id": 7, "question": "She prefers ___ data over making assumptions.", "options": {"A": "to analyze", "B": "analyzing", "C": "analyze", "D": "analyzed"}, "correct_answer": "B", "category": "Grammar"},
-    {"id": 8, "question": "The glacier ___ rapidly over the past five years.", "options": {"A": "is shrinking", "B": "was shrinking", "C": "has been shrinking", "D": "shrinking"}, "correct_answer": "C", "category": "Grammar"},
-    {"id": 9, "question": "If temperatures ___ next decade, more ice will melt.", "options": {"A": "rise", "B": "will rise", "C": "rised", "D": "rising"}, "correct_answer": "A", "category": "Grammar"},
-    {"id": 10, "question": "The expert ___ we consulted explained the risks.", "options": {"A": "who", "B": "whose", "C": "whom", "D": "which"}, "correct_answer": "C", "category": "Grammar"},
-    {"id": 11, "question": "You ___ told us about the melting sooner.", "options": {"A": "might", "B": "should have", "C": "can", "D": "will"}, "correct_answer": "B", "category": "Grammar"},
-    {"id": 12, "question": "Each of the glaciers ___ a unique retreat pattern.", "options": {"A": "shows", "B": "show", "C": "showed", "D": "showing"}, "correct_answer": "A", "category": "Grammar"},
-    {"id": 13, "question": "They ___ monitoring the ice when funding ran out.", "options": {"A": "are", "B": "were", "C": "have been", "D": "will be"}, "correct_answer": "B", "category": "Grammar"},
-    {"id": 14, "question": "The consequences ___ not fully predictable yet.", "options": {"A": "is", "B": "are", "C": "was", "D": "be"}, "correct_answer": "B", "category": "Grammar"},
-    {"id": 15, "question": "We’ll act once the team ___ the findings.", "options": {"A": "confirms", "B": "confirm", "C": "confirmed", "D": "confirming"}, "correct_answer": "A", "category": "Grammar"},
-    {"id": 16, "question": "The melting was ___ rapid that rivers overflowed.", "options": {"A": "very", "B": "so", "C": "too", "D": "much"}, "correct_answer": "B", "category": "Use of English"},
-    {"id": 17, "question": "They’re worried ___ the shrinking water supply.", "options": {"A": "for", "B": "to", "C": "about", "D": "on"}, "correct_answer": "C", "category": "Use of English"},
-    {"id": 18, "question": "The team worked ___ to assess the damage.", "options": {"A": "hard", "B": "hardly", "C": "too hard", "D": "so hard"}, "correct_answer": "A", "category": "Use of English"},
-    {"id": 19, "question": "This glacier is ___ vital than others in the region.", "options": {"A": "more", "B": "most", "C": "much", "D": "many"}, "correct_answer": "A", "category": "Use of English"},
-    {"id": 20, "question": "She’s not accustomed ___ such cold climates.", "options": {"A": "to live", "B": "to living", "C": "live", "D": "living"}, "correct_answer": "B", "category": "Use of English"},
-    {"id": 21, "question": "The shortage was ___ glacial retreat.", "options": {"A": "because", "B": "due to", "C": "since", "D": "for"}, "correct_answer": "B", "category": "Use of English"},
-    {"id": 22, "question": "We must adapt now ___ we’ll face bigger issues.", "options": {"A": "unless", "B": "if", "C": "or", "D": "so"}, "correct_answer": "C", "category": "Use of English"},
-    {"id": 23, "question": "I’d rather ___ data than guess the outcome.", "options": {"A": "to review", "B": "review", "C": "reviewing", "D": "reviewed"}, "correct_answer": "B", "category": "Use of English"},
-    {"id": 24, "question": "They succeeded ___ the problem with new tools.", "options": {"A": "to address", "B": "in addressing", "C": "address", "D": "by address"}, "correct_answer": "B", "category": "Use of English"},
-    {"id": 25, "question": "The equipment ___ on the shelf is for research.", "options": {"A": "laying", "B": "lying", "C": "laid", "D": "lie"}, "correct_answer": "B", "category": "Use of English"},
-    {"id": 26, "question": "Governments may ___ to limit carbon emissions.", "options": {"A": "act", "B": "intervene", "C": "respond", "D": "participate"}, "correct_answer": "B", "category": "Vocabulary"},
-    {"id": 27, "question": "The melting follows a specific ___ of events.", "options": {"A": "order", "B": "sequence", "C": "pattern", "D": "series"}, "correct_answer": "B", "category": "Vocabulary"},
-    {"id": 28, "question": "From the data, we can ___ future water levels.", "options": {"A": "guess", "B": "infer", "C": "estimate", "D": "calculate"}, "correct_answer": "B", "category": "Vocabulary"},
-    {"id": 29, "question": "They need a reliable ___ for the research project.", "options": {"A": "colleague", "B": "partner", "C": "assistant", "D": "supervisor"}, "correct_answer": "B", "category": "Vocabulary"},
-    {"id": 30, "question": "Scientists ___ that retreat will continue.", "options": {"A": "foresee", "B": "predict", "C": "expect", "D": "project"}, "correct_answer": "B", "category": "Vocabulary"},
-    {"id": 31, "question": "They ___ that warming is the main cause.", "options": {"A": "decide", "B": "conclude", "C": "determine", "D": "agree"}, "correct_answer": "B", "category": "Vocabulary"},
-    {"id": 32, "question": "The results ___ from the expected pattern.", "options": {"A": "differ", "B": "deviate", "C": "shift", "D": "vary"}, "correct_answer": "B", "category": "Vocabulary"},
-    {"id": 33, "question": "We ___ the effort to monitor the glaciers.", "options": {"A": "value", "B": "appreciate", "C": "recognize", "D": "admire"}, "correct_answer": "B", "category": "Vocabulary"},
-    {"id": 34, "question": "The study will ___ analyzing multiple factors.", "options": {"A": "include", "B": "involve", "C": "require", "D": "cover"}, "correct_answer": "B", "category": "Vocabulary"},
-    {"id": 35, "question": "New tools will ___ our ability to track retreat.", "options": {"A": "improve", "B": "enhance", "C": "strengthen", "D": "boost"}, "correct_answer": "B", "category": "Vocabulary"},
-    {"id": 36, "question": "Water is ___ to sustaining these communities.", "options": {"A": "essential", "B": "crucial", "C": "important", "D": "necessary"}, "correct_answer": "B", "category": "Vocabulary"},
-    {"id": 37, "question": "They ___ the ice will vanish by 2050.", "options": {"A": "believe", "B": "assume", "C": "think", "D": "suppose"}, "correct_answer": "B", "category": "Vocabulary"},
-    {"id": 38, "question": "They ___ barriers to manage flood risks.", "options": {"A": "build", "B": "construct", "C": "design", "D": "create"}, "correct_answer": "B", "category": "Vocabulary"},
-    {"id": 39, "question": "Forests ___ to cooling the planet.", "options": {"A": "help", "B": "contribute", "C": "assist", "D": "support"}, "correct_answer": "B", "category": "Vocabulary"},
-    {"id": 40, "question": "Researchers ___ on collecting accurate data.", "options": {"A": "focus", "B": "concentrate", "C": "work", "D": "aim"}, "correct_answer": "B", "category": "Vocabulary"},
-    {"id": 41, "question": "What is the primary cause of glacial retreat according to paragraph 1?", "options": {"A": "Natural cycles", "B": "Climate change", "C": "Deforestation", "D": "Ocean currents"}, "correct_answer": "B", "category": "Reading"},
-    {"id": 42, "question": "The word 'accumulate' in paragraph 1 most nearly means:", "options": {"A": "Melt", "B": "Gather", "C": "Shrink", "D": "Flow"}, "correct_answer": "B", "category": "Reading"},
-    {"id": 43, "question": "Why is today’s glacial melting unusual as stated in paragraph 2?", "options": {"A": "It’s slower", "B": "It’s natural", "C": "It’s human-driven", "D": "It’s seasonal"}, "correct_answer": "C", "category": "Reading"},
-    {"id": 44, "question": "What consequence is highlighted in paragraph 3?", "options": {"A": "Rising seas", "B": "Water shortages", "C": "Habitat loss", "D": "Flood barriers"}, "correct_answer": "B", "category": "Reading"},
-    {"id": 45, "question": "The author mentions the Andes in paragraph 3 to show:", "options": {"A": "A dependent region", "B": "A cold climate", "C": "A growing glacier", "D": "A flood risk"}, "correct_answer": "A", "category": "Reading"},
-    {"id": 46, "question": "What ecological impact is discussed in paragraph 4?", "options": {"A": "Water scarcity", "B": "Species adaptation", "C": "Biodiversity loss", "D": "Temperature drop"}, "correct_answer": "C", "category": "Reading"},
-    {"id": 47, "question": "The word 'destabilize' in paragraph 3 most nearly means:", "options": {"A": "Strengthen", "B": "Disrupt", "C": "Improve", "D": "Secure"}, "correct_answer": "B", "category": "Reading"},
-    {"id": 48, "question": "What solution is suggested in paragraph 5?", "options": {"A": "Reducing emissions", "B": "Relocating people", "C": "Building glaciers", "D": "Stopping research"}, "correct_answer": "A", "category": "Reading"},
-    {"id": 49, "question": "Which paragraph addresses sea level rise?", "options": {"A": "Paragraph 1", "B": "Paragraph 2", "C": "Paragraph 3", "D": "Paragraph 4"}, "correct_answer": "D", "category": "Reading"},
-    {"id": 50, "question": "The primary purpose of the passage is to:", "options": {"A": "Criticize industry", "B": "Examine retreat effects", "C": "Promote tourism", "D": "Describe glacier formation"}, "correct_answer": "B", "category": "Reading"}
+    {
+      "id": 1,
+      "question": "If we ___ emissions earlier, glacial retreat might have slowed.",
+      "options": {
+        "A": "reduce",
+        "B": "had reduced",
+        "C": "reduced",
+        "D": "will reduce"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "The region ___ by water shortages if glaciers keep melting.",
+      "options": {
+        "A": "will affect",
+        "B": "affects",
+        "C": "will be affected",
+        "D": "is affected"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "He asked ___ the data showed a clear trend.",
+      "options": {
+        "A": "if",
+        "B": "that",
+        "C": "whether or not",
+        "D": "have"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Scientists ___ glacial changes since the 1990s.",
+      "options": {
+        "A": "study",
+        "B": "have studied",
+        "C": "studied",
+        "D": "are studying"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "I wish we ___ more about climate impacts years ago.",
+      "options": {
+        "A": "know",
+        "B": "knew",
+        "C": "had known",
+        "D": "knowing"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Neither the researcher nor the assistants ___ optimistic about the results.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "was",
+        "D": "have"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "She prefers ___ data over making assumptions.",
+      "options": {
+        "A": "to analyze",
+        "B": "analyzing",
+        "C": "analyze",
+        "D": "analyzed"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "The glacier ___ rapidly over the past five years.",
+      "options": {
+        "A": "is shrinking",
+        "B": "was shrinking",
+        "C": "has been shrinking",
+        "D": "had been shrinking"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "If temperatures ___ next decade, more ice will melt.",
+      "options": {
+        "A": "rise",
+        "B": "will rise",
+        "C": "rised",
+        "D": "rising"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "The expert ___ we consulted explained the risks.",
+      "options": {
+        "A": "who",
+        "B": "whose",
+        "C": "whom",
+        "D": "which"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "You ___ told us about the melting sooner.",
+      "options": {
+        "A": "might",
+        "B": "should have",
+        "C": "can",
+        "D": "had to"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Each of the glaciers ___ a unique retreat pattern.",
+      "options": {
+        "A": "shows",
+        "B": "show",
+        "C": "have shown",
+        "D": "showing"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "They ___ monitoring the ice when funding ran out.",
+      "options": {
+        "A": "are",
+        "B": "were",
+        "C": "have been",
+        "D": "will be"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "The consequences ___ not fully predictable yet.",
+      "options": {
+        "A": "is",
+        "B": "there",
+        "C": "was",
+        "D": "are"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "We’ll act once the team ___ the findings.",
+      "options": {
+        "A": "confirms",
+        "B": "confines",
+        "C": "configures",
+        "D": "confides"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "The melting was ___ rapid that rivers overflowed.",
+      "options": {
+        "A": "very",
+        "B": "too",
+        "C": "so",
+        "D": "much"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "They’re worried ___ the shrinking water supply.",
+      "options": {
+        "A": "for",
+        "B": "to",
+        "C": "about",
+        "D": "on"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "The team worked ___ to assess the damage.",
+      "options": {
+        "A": "hard",
+        "B": "hardly",
+        "C": "too hard",
+        "D": "so hard"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "This glacier is ___ vital than others in the region.",
+      "options": {
+        "A": "many",
+        "B": "most",
+        "C": "much",
+        "D": "more"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "She’s not accustomed ___ such cold climates.",
+      "options": {
+        "A": "to live",
+        "B": "to living",
+        "C": "for live",
+        "D": "for living"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "The shortage was ___ glacial retreat.",
+      "options": {
+        "A": "because",
+        "B": "for",
+        "C": "since",
+        "D": "due to"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "We must adapt now ___ we’ll face bigger issues.",
+      "options": {
+        "A": "unless",
+        "B": "if",
+        "C": "or",
+        "D": "so"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "I’d rather ___ data than guess the outcome.",
+      "options": {
+        "A": "review",
+        "B": "to review",
+        "C": "reviewing",
+        "D": "reviewed"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "They succeeded ___ the problem with new tools.",
+      "options": {
+        "A": "to address",
+        "B": "in addressing",
+        "C": "addressing",
+        "D": "by addressing"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "The equipment ___ on the shelf is for research.",
+      "options": {
+        "A": "laying",
+        "B": "lie",
+        "C": "laid",
+        "D": "lying"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Governments may ___ to limit carbon emissions.",
+      "options": {
+        "A": "intervene",
+        "B": "interfere",
+        "C": "respond",
+        "D": "participate"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "The melting follows a specific ___ of events.",
+      "options": {
+        "A": "order",
+        "B": "series",
+        "C": "pattern",
+        "D": "sequence"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "From the data, we can ___ future water levels.",
+      "options": {
+        "A": "infer",
+        "B": "inform",
+        "C": "estimate",
+        "D": "calculate"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "They need a reliable ___ for the research project.",
+      "options": {
+        "A": "colleague",
+        "B": "supervisor",
+        "C": "assistant",
+        "D": "partner"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Scientists ___ that retreat will continue.",
+      "options": {
+        "A": "foresee",
+        "B": "predicate",
+        "C": "predict",
+        "D": "project"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "They ___ that warming is the main cause.",
+      "options": {
+        "A": "decide",
+        "B": "concise",
+        "C": "determine",
+        "D": "conclude"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "The results ___ from the expected pattern.",
+      "options": {
+        "A": "differ",
+        "B": "deviate",
+        "C": "shift",
+        "D": "vary"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "We ___ the effort to monitor the glaciers.",
+      "options": {
+        "A": "valuate",
+        "B": "recognize",
+        "C": "appreciate",
+        "D": "admire"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "The study will ___ analyzing multiple factors.",
+      "options": {
+        "A": "include",
+        "B": "invalue",
+        "C": "involve",
+        "D": "incline"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "New tools will ___ our ability to track retreat.",
+      "options": {
+        "A": "improve",
+        "B": "enchant",
+        "C": "strengthen",
+        "D": "enhance"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Water is ___ to sustaining these communities.",
+      "options": {
+        "A": "essential",
+        "B": "crucial",
+        "C": "important",
+        "D": "necessary"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "They ___ the ice will vanish by 2050.",
+      "options": {
+        "A": "believe",
+        "B": "assure",
+        "C": "think",
+        "D": "suppose"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "They ___ barriers to manage flood risks.",
+      "options": {
+        "A": "conduct",
+        "B": "construct",
+        "C": "design",
+        "D": "create"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Forests ___ to cooling the planet.",
+      "options": {
+        "A": "help",
+        "B": "contribute",
+        "C": "assist",
+        "D": "support"
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Researchers ___ on collecting accurate data.",
+      "options": {
+        "A": "focus",
+        "B": "insist",
+        "C": "work",
+        "D": "aim"
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "What is the primary cause of glacial retreat according to paragraph 1?",
+      "options": {
+        "A": "Natural cycles",
+        "B": "Climate change",
+        "C": "Deforestation",
+        "D": "Ocean currents"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "The word 'accumulate' in paragraph 1 most nearly means:",
+      "options": {
+        "A": "Melt",
+        "B": "Gather",
+        "C": "Shrink",
+        "D": "Flow"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "Why is today’s glacial melting unusual as stated in paragraph 2?",
+      "options": {
+        "A": "It’s slower",
+        "B": "It’s natural",
+        "C": "It’s human-driven",
+        "D": "It’s seasonal"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "What consequence is highlighted in paragraph 3?",
+      "options": {
+        "A": "Rising seas",
+        "B": "Water shortages",
+        "C": "Habitat loss",
+        "D": "Flood barriers"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "The author mentions the Andes in paragraph 3 to show:",
+      "options": {
+        "A": "A dependent region",
+        "B": "A cold climate",
+        "C": "A growing glacier",
+        "D": "A flood risk"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "What ecological impact is discussed in paragraph 4?",
+      "options": {
+        "A": "Water scarcity",
+        "B": "Species adaptation",
+        "C": "Biodiversity loss",
+        "D": "Temperature drop"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "The word 'destabilize' in paragraph 3 most nearly means:",
+      "options": {
+        "A": "Strengthen",
+        "B": "Disrupt",
+        "C": "Improve",
+        "D": "Secure"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "What solution is suggested in paragraph 5?",
+      "options": {
+        "A": "Reducing emissions",
+        "B": "Relocating people",
+        "C": "Building glaciers",
+        "D": "Stopping research"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "Which paragraph addresses sea level rise?",
+      "options": {
+        "A": "Paragraph 1",
+        "B": "Paragraph 2",
+        "C": "Paragraph 3",
+        "D": "Paragraph 4"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "The primary purpose of the passage is to:",
+      "options": {
+        "A": "Criticize industry",
+        "B": "Examine retreat effects",
+        "C": "Promote tourism",
+        "D": "Describe glacier formation"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
   ]
 }
