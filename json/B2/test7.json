@@ -3,12 +3,12 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which verb form correctly completes the sentence? 'She _____ to the conference last week.'",
+      "question": "Which verb correctly completes the sentence? 'She _____ to the conference last week.'",
       "options": {
-        "A": "has gone",
-        "B": "had gone",
+        "A": "want",
+        "B": "won't",
         "C": "went",
-        "D": "was going"
+        "D": "vent"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -65,7 +65,7 @@
       "id": 6,
       "question": "Which sentence uses the present perfect continuous correctly?",
       "options": {
-        "A": "She has been working on this project since graduated.",
+        "A": "She has been working on this project since graduated three years ago.",
         "B": "They have been conducting research for the last three years.",
         "C": "We have been complete the analysis yesterday.",
         "D": "He has been write the paper for two weeks."
@@ -92,7 +92,7 @@
         "A": "He said that he will present his findings the next day.",
         "B": "He said that he would present his findings the next day.",
         "C": "He said that he presents his findings tomorrow.",
-        "D": "He said that he presented his findings the next day."
+        "D": "He said that he had presented his findings the next day."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -101,10 +101,10 @@
       "id": 9,
       "question": "Which sentence contains a correctly used gerund?",
       "options": {
-        "A": "She avoided to speak at the conference.",
+        "A": "She avoided to speaking at the conference.",
         "B": "They admitted stealing the research data.",
-        "C": "We enjoy to collaborate with other departments.",
-        "D": "He suggested to implement a new protocol."
+        "C": "We enjoy to have been collaborating with other departments.",
+        "D": "He suggested by implementing a new protocol."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -114,7 +114,7 @@
       "question": "Select the correct comparative form: 'The results of the second experiment were _____ than we expected.'",
       "options": {
         "A": "more significant",
-        "B": "significanter",
+        "B": "much moresignificant",
         "C": "more significanter",
         "D": "the most significant"
       },
@@ -127,7 +127,7 @@
       "options": {
         "A": "will complete",
         "B": "will have completed",
-        "C": "are completing",
+        "C": "will be completed",
         "D": "will be completing"
       },
       "correct_answer": "B",
@@ -140,7 +140,7 @@
         "A": "Each of the students have their own project.",
         "B": "The committee are meeting to discuss the proposal.",
         "C": "The data collected from various sources indicates a trend.",
-        "D": "A number of issues has been raised."
+        "D": "A number of issues has been raised on their monthly meeting."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -152,7 +152,7 @@
         "A": "a",
         "B": "an",
         "C": "the",
-        "D": "no article needed"
+        "D": "-"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -173,10 +173,10 @@
       "id": 15,
       "question": "Identify the sentence with the correct use of the past perfect tense:",
       "options": {
-        "A": "Before the professor arrived, the students already started the experiment.",
+        "A": "Before the professor had arrived, the students already started the experiment.",
         "B": "After she had submitted her thesis, she took a long vacation.",
-        "C": "We have finished the project before the deadline approached.",
-        "D": "They were completed the assignment when I called."
+        "C": "We had finished the project after the deadline approached.",
+        "D": "They had completed the assignment when I called."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -185,24 +185,24 @@
       "id": 16,
       "question": "Choose the option that best completes the sentence: 'Despite _____ for hours, the team couldn't solve the problem.'",
       "options": {
-        "A": "to work",
-        "B": "working",
+        "A": "have been working",
+        "B": "they were working",
         "C": "they worked",
-        "D": "they were working"
+        "D": "working"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 17,
       "question": "Select the correct phrasal verb: 'Scientists need to _____ new theories when presented with contradictory evidence.'",
       "options": {
-        "A": "come up with",
+        "A": "come up to",
         "B": "look up to",
         "C": "get away with",
-        "D": "break down"
+        "D": "come up with"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -221,10 +221,10 @@
       "id": 19,
       "question": "Select the correct idiomatic expression: 'The presentation was going well until the projector failed, and then everything went _____.'",
       "options": {
-        "A": "off the hook",
-        "B": "under the weather",
+        "A": "off the south",
+        "B": "under the south",
         "C": "south",
-        "D": "out of the blue"
+        "D": "to the south"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -233,12 +233,12 @@
       "id": 20,
       "question": "Complete the sentence with the correct expression: 'The research team worked _____ to complete the project before the deadline.'",
       "options": {
-        "A": "around the clock",
-        "B": "under the table",
+        "A": "against the grain",
+        "B": "around the hour",
         "C": "behind the scenes",
-        "D": "against the grain"
+        "D": "around the clock"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -272,7 +272,7 @@
         "A": "in favor of",
         "B": "in terms of",
         "C": "in spite of",
-        "D": "in case of"
+        "D": "despite of"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -281,12 +281,12 @@
       "id": 24,
       "question": "Select the word that best completes the text: 'The study's findings _____ previous research on the subject.'",
       "options": {
-        "A": "contradict",
+        "A": "condemn",
         "B": "comply",
         "C": "confide",
-        "D": "condemn"
+        "D": "contradict"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -303,14 +303,14 @@
     },
     {
       "id": 26,
-      "question": "What is the most accurate definition of 'retirement'?",
+      "question": "What is the most accurate definition of 'the process of leaving a job or occupation permanently, especially upon reaching a certain age'?",
       "options": {
-        "A": "The process of leaving a job or occupation permanently, especially upon reaching a certain age",
-        "B": "A temporary break from professional activities",
-        "C": "The act of changing careers in mid-life",
-        "D": "A promotion to a higher position within an organization"
+        "A": "retracement",
+        "B": "retournement",
+        "C": "retirement",
+        "D": "retention"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -329,12 +329,12 @@
       "id": 28,
       "question": "In which sentence is 'elimination' used correctly?",
       "options": {
-        "A": "The elimination of errors improved the experiment's accuracy.",
-        "B": "She received an elimination for her outstanding work.",
-        "C": "The students requested an elimination of the difficult material.",
-        "D": "The teacher gave an elimination to help students understand."
+        "A": "The students requested the elimination of the difficult material.",
+        "B": "She received the elimination for her outstanding work.",
+        "C": "The elimination of errors improved the experiment's accuracy.",
+        "D": "The teacher gave the elimination to help students understand."
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -344,7 +344,7 @@
         "A": "Someone who knows a little about many subjects",
         "B": "A person who supervises others in a workplace",
         "C": "An expert who concentrates on a particular field or activity",
-        "D": "Someone who works exclusively in theoretical research"
+        "D": "Someone who always works exclusively in theoretical research"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -353,22 +353,22 @@
       "id": 30,
       "question": "Choose the sentence that uses 'society' correctly:",
       "options": {
-        "A": "The scientist societied his findings in the journal.",
+        "A": "The scientist society printed findings in the journal.",
         "B": "Modern society relies heavily on digital technology.",
-        "C": "She societied with her colleagues after work.",
-        "D": "The professor societied the students about the theory."
+        "C": "Her society with her colleagues after work was good.",
+        "D": "The professor has society to the students about the theory."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 31,
-      "question": "What is a 'qualification' in the context of employment?",
+      "question": "What is 'an official record of achievement issued after completing education, training, or passing exams' in the context of employment?",
       "options": {
-        "A": "A personal opinion about job requirements",
-        "B": "The location where someone works",
-        "C": "An official record of achievement issued after completing education, training, or passing exams",
-        "D": "The act of dismissing an employee"
+        "A": "californication",
+        "B": "quantitation",
+        "C": "qualification",
+        "D": "calibration"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -378,7 +378,7 @@
       "question": "Which word is an antonym of 'intensive'?",
       "options": {
         "A": "Extensive",
-        "B": "Moderate",
+        "B": "Official",
         "C": "Superficial",
         "D": "Comprehensive"
       },
@@ -389,24 +389,24 @@
       "id": 33,
       "question": "In which sentence is 'reflection' used correctly?",
       "options": {
-        "A": "The scientist reflectioned the experiment three times.",
+        "A": "The reflection of scientist experiment was remarkable.",
         "B": "Upon reflection, the committee decided to change their approach.",
-        "C": "The students reflection their essays before submitting them.",
-        "D": "She reflection the mirror to see her appearance."
+        "C": "The students' reflection of their essays was enough for submitting them.",
+        "D": "She mirrored her reflection in the biggest vitrine of the shopping mall."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 34,
-      "question": "What is the most accurate definition of 'expression'?",
+      "question": "What is the most accurate definition of 'the action of making known one's thoughts or feelings'?",
       "options": {
-        "A": "A mathematical calculation",
-        "B": "The act of forcing someone to leave a place",
-        "C": "The action of making known one's thoughts or feelings",
-        "D": "A formal meeting to discuss business"
+        "A": "exception",
+        "B": "expansion",
+        "C": "experience",
+        "D": "expression"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -414,9 +414,9 @@
       "question": "Choose the sentence that uses 'competence' correctly:",
       "options": {
         "A": "The new employee showed great competence in handling the complex project.",
-        "B": "She competenced the task quickly and efficiently.",
-        "C": "The manager competenced all the workers on their performance.",
-        "D": "The company competenced its products in the international market."
+        "B": "The company products competence promoted them the international markets.",
+        "C": "The manager finds competence in all the workers' performance.",
+        "D": "Her competence for the task was quick and efficient."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -435,23 +435,23 @@
     },
     {
       "id": 37,
-      "question": "What does 'modification' mean?",
+      "question": "What is 'the process of making changes to something to improve it or make it less extreme'?",
       "options": {
-        "A": "The complete replacement of something",
-        "B": "The process of making changes to something to improve it or make it less extreme",
-        "C": "The act of creating something entirely new",
-        "D": "The classification of objects into categories"
+        "A": "modalisation",
+        "B": "mobilization",
+        "C": "modification",
+        "D": "motivation"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 38,
       "question": "In which sentence is 'component' used correctly?",
       "options": {
-        "A": "She componented her friends to join the project.",
+        "A": "She componented her bike after repairing it.",
         "B": "The engineer identified the faulty component in the machine.",
-        "C": "The teacher componented the students for their good work.",
+        "C": "The teachers constantly component the students for their good work.",
         "D": "They component every Tuesday for team meetings."
       },
       "correct_answer": "B",
@@ -462,9 +462,9 @@
       "question": "What is the meaning of 'representation'?",
       "options": {
         "A": "The action of speaking or acting on behalf of someone",
-        "B": "The act of presenting something again",
+        "B": "The process of solving a mathematical problem",
         "C": "The refusal to accept an idea or proposal",
-        "D": "The process of solving a mathematical problem"
+        "D": "The act of presenting something or someone again"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -473,10 +473,10 @@
       "id": 40,
       "question": "Choose the sentence that uses 'heritage' correctly:",
       "options": {
-        "A": "The company heritaged its products to appeal to younger customers.",
-        "B": "The students heritaged their papers before the deadline.",
+        "A": "The company heritage its products to appeal to younger customers on new markets.",
+        "B": "The students heritage their papers before the deadline.",
         "C": "The museum displayed artifacts representing the country's rich cultural heritage.",
-        "D": "She heritaged the information to her colleagues."
+        "D": "She has heritaged the this knowledge from her grandmother."
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -581,10 +581,10 @@
       "id": 49,
       "question": "The author's tone in the passage can best be described as:",
       "options": {
-        "A": "Highly critical",
-        "B": "Emotionally charged",
+        "A": "Critical and discouraging",
+        "B": "Emotional and charged",
         "C": "Informative and concerned",
-        "D": "Overly optimistic"
+        "D": "Pessimistic and disbelieving"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -593,7 +593,7 @@
       "id": 50,
       "question": "What is the main purpose of this passage?",
       "options": {
-        "A": "To argue against deep-sea mining operations",
+        "A": "To argue against deep-sea mining operations because of its dangers for humans",
         "B": "To provide an overview of deep-sea ecosystems and their significance",
         "C": "To explain the technical challenges of marine biology research",
         "D": "To compare surface and deep-water ecosystems"
