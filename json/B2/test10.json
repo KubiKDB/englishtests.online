@@ -6,35 +6,35 @@
       "question": "Which of the following best completes the sentence? She _____ studying for her exam when the power went out.",
       "options": {
         "A": "has been",
-        "B": "was",
-        "C": "is",
-        "D": "were"
+        "B": "were",
+        "C": "had been",
+        "D": "was"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
-      "id": 2,
-      "question": "Choose the correct form of the verb: The committee _____ to reach a decision by tomorrow.",
+     "id": 2,
+      "question": "The sensitive security data, which has been compromised, _____ immediately.",
       "options": {
-        "A": "hope",
-        "B": "hopes",
-        "C": "hoping",
-        "D": "hoped"
+        "A": "could be reviewed",
+        "B": "must to be reviewed",
+        "C": "should be reviewed",
+        "D": "can be reviewed"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 3,
       "question": "Choose the grammatically correct sentence:",
       "options": {
-        "A": "Neither John nor his brothers was at the meeting.",
-        "B": "Neither John nor his brothers were at the meeting.",
-        "C": "Neither John nor his brothers are at the meeting.",
-        "D": "Neither John nor his brothers have been at the meeting."
+        "A": "Neither John nor his brother was at the meeting.",
+        "B": "Neither John nor his brother were at the meeting.",
+        "C": "Neither John nor his brother are at the meeting.",
+        "D": "Neither John nor his brother have been at the meeting."
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
@@ -53,7 +53,7 @@
       "id": 5,
       "question": "Select the correct form: If I _____ enough money, I would buy a new car.",
       "options": {
-        "A": "have",
+        "A": "have had",
         "B": "had",
         "C": "would have",
         "D": "having"
@@ -65,10 +65,10 @@
       "id": 6,
       "question": "Choose the correct relative pronoun: The book _____ I borrowed from the library is overdue.",
       "options": {
-        "A": "who",
-        "B": "whom",
+        "A": "what",
+        "B": "that",
         "C": "which",
-        "D": "whose"
+        "D": "where"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -149,9 +149,9 @@
       "id": 13,
       "question": "Which sentence demonstrates the correct use of a gerund?",
       "options": {
-        "A": "He avoided to speak about his past.",
-        "B": "They suggested to meet at the restaurant.",
-        "C": "She enjoys to swim in the ocean.",
+        "A": "He was avoiding to speak about his past.",
+        "B": "They suggested for meeting at the restaurant.",
+        "C": "She enjoys to swimmming in the ocean.",
         "D": "We appreciate having the opportunity to work with you."
       },
       "correct_answer": "D",
@@ -163,7 +163,7 @@
       "options": {
         "A": "more challenging",
         "B": "most challenging",
-        "C": "challenginger",
+        "C": "much morechallenging",
         "D": "the most challenging"
       },
       "correct_answer": "A",
@@ -187,20 +187,20 @@
       "options": {
         "A": "basic",
         "B": "introductory",
-        "C": "primary",
+        "C": "primarily",
         "D": "elemental"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 17,
       "question": "Select the best synonym for the word 'reveal' in this context: The new evidence will reveal the truth about what happened that night.",
       "options": {
-        "A": "hide",
+        "A": "discover",
         "B": "disclose",
-        "C": "conceal",
-        "D": "obscure"
+        "C": "disclaim",
+        "D": "discard"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -212,7 +212,7 @@
         "A": "conventional",
         "B": "conservative",
         "C": "radical",
-        "D": "typical"
+        "D": "radial"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -221,12 +221,12 @@
       "id": 19,
       "question": "Select the correct meaning of 'approach' in this sentence: We need to reconsider our approach to solving this problem.",
       "options": {
-        "A": "distance",
-        "B": "method",
-        "C": "avoidance",
-        "D": "rejection"
+        "A": "solution",
+        "B": "invariance",
+        "C": "methodology",
+        "D": "method"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -235,8 +235,8 @@
       "options": {
         "A": "scenarios",
         "B": "diagnoses",
-        "C": "illustrations",
-        "D": "publications"
+        "C": "schedules",
+        "D": "plans"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -245,12 +245,12 @@
       "id": 21,
       "question": "Select the correct meaning of 'symbol' in this context: The dove is often used as a symbol of peace.",
       "options": {
-        "A": "representation",
-        "B": "contradiction",
-        "C": "decoration",
+        "A": "decoration",
+        "B": "repression",
+        "C": "representation",
         "D": "distraction"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -259,7 +259,7 @@
       "options": {
         "A": "regional",
         "B": "ethnic",
-        "C": "financial",
+        "C": "ethics",
         "D": "historical"
       },
       "correct_answer": "B",
@@ -269,10 +269,10 @@
       "id": 23,
       "question": "Select the best synonym for 'considerable' in this sentence: The project required a considerable amount of planning and coordination.",
       "options": {
-        "A": "minimal",
-        "B": "moderate",
+        "A": "substitutional",
+        "B": "sustainable",
         "C": "substantial",
-        "D": "limited"
+        "D": "sustenant"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -293,12 +293,12 @@
       "id": 25,
       "question": "Select the correct meaning of 'influence' in this context: His early work continues to influence modern architects.",
       "options": {
-        "A": "damage",
-        "B": "affect",
-        "C": "disturb",
-        "D": "contradict"
+        "A": "effort",
+        "B": "effect",
+        "C": "affect",
+        "D": "afflict"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -307,7 +307,7 @@
       "options": {
         "A": "casual",
         "B": "informal",
-        "C": "relaxed",
+        "C": "formalized",
         "D": "formal"
       },
       "correct_answer": "D",
@@ -341,9 +341,9 @@
       "id": 29,
       "question": "Select the correct meaning of 'precise' in this context: Scientific experiments require precise measurements to ensure accurate results.",
       "options": {
-        "A": "approximate",
+        "A": "expert",
         "B": "exact",
-        "C": "vague",
+        "C": "exert",
         "D": "estimated"
       },
       "correct_answer": "B",
@@ -353,10 +353,10 @@
       "id": 30,
       "question": "Choose the word that best completes the sentence: His presentation managed to _____ even the most skeptical members of the audience.",
       "options": {
-        "A": "bore",
-        "B": "confuse",
+        "A": "impose",
+        "B": "impulse",
         "C": "impress",
-        "D": "disappoint"
+        "D": "impact"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -377,7 +377,7 @@
       "id": 32,
       "question": "Select the best collocation: The company has decided to _____ a new marketing strategy.",
       "options": {
-        "A": "do",
+        "A": "imply",
         "B": "implement",
         "C": "perform",
         "D": "conduct"
@@ -449,10 +449,10 @@
       "id": 38,
       "question": "Select the correct expression to show purpose: She took a course in programming _____ improve her job prospects.",
       "options": {
-        "A": "for",
+        "A": "in order for",
         "B": "in order to",
-        "C": "so",
-        "D": "because"
+        "C": "so to",
+        "D": "thus as"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -533,7 +533,7 @@
       "id": 45,
       "question": "What purpose does monitoring serve in ecological restoration according to paragraph 4?",
       "options": {
-        "A": "To secure additional funding for projects",
+        "A": "To secure additional funding for future projects",
         "B": "To track progress and evaluate effectiveness",
         "C": "To train new restoration scientists",
         "D": "To impress government agencies"
@@ -572,7 +572,7 @@
         "A": "It relies more on theoretical assumptions than empirical evidence",
         "B": "It is a static field with established methodologies",
         "C": "It is an evolving discipline that draws from multiple scientific fields",
-        "D": "It is primarily concerned with aesthetic improvements to landscapes"
+        "D": "It is primarily concerned with aesthetic improvements to Earth landscapes"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -595,8 +595,8 @@
       "options": {
         "A": "Scientists prefer to work independently without community input",
         "B": "Coordination among various groups is necessary for successful implementation",
-        "C": "Government agencies typically oppose restoration efforts",
-        "D": "Local communities rarely support ecological restoration"
+        "C": "Government agencies typically oppose restoration efforts viewing them as expensive",
+        "D": "Local communities rarely support ecological restoration because of its complexity"
       },
       "correct_answer": "B",
       "category": "Reading"
