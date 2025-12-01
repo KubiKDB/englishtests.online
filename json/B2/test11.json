@@ -53,9 +53,9 @@
       "id": 5,
       "question": "Identify the sentence with the correct passive voice:",
       "options": {
-        "A": "The report will submitted by Friday.",
+        "A": "The report will to be submitted by Friday.",
         "B": "The exhibition has been visited by thousands of people.",
-        "C": "The project was completing last month.",
+        "C": "The project have been completed by the end of last month.",
         "D": "The concert been canceled due to bad weather."
       },
       "correct_answer": "B",
@@ -68,7 +68,7 @@
         "A": "She said that she will attend the meeting.",
         "B": "He told me that he is feeling unwell yesterday.",
         "C": "They announced that the train had been delayed.",
-        "D": "The professor said that the exam is difficult."
+        "D": "The professor said that the exam has been difficult."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -79,7 +79,7 @@
       "options": {
         "A": "She is an university student studying economics.",
         "B": "We had the dinner at a nice restaurant last night.",
-        "C": "He plays the guitar in a local band.",
+        "C": "He used to play the guitar in a famous local band.",
         "D": "They visited a historical museum in the downtown."
       },
       "correct_answer": "C",
@@ -126,7 +126,7 @@
       "question": "Choose the sentence with the correct use of gerunds and infinitives:",
       "options": {
         "A": "They decided going to the beach instead of the mountains.",
-        "B": "She avoided to talk about her recent promotion.",
+        "B": "She avoided to talking about her recent promotion.",
         "C": "We enjoy to watch documentaries on the weekend.",
         "D": "The company expects to increase sales by 20% this year."
       },
@@ -137,7 +137,7 @@
       "id": 12,
       "question": "Which sentence uses the correct relative pronoun?",
       "options": {
-        "A": "The woman who car was stolen reported it to the police.",
+        "A": "The woman who's car was stolen reported it to the police.",
         "B": "The book which I borrowed from the library is overdue.",
         "C": "The city where I visited last summer was beautiful.",
         "D": "The professor whom teaches physics won an award."
@@ -173,7 +173,7 @@
       "id": 15,
       "question": "Which sentence has the correct word order?",
       "options": {
-        "A": "Always she arrives early to work.",
+        "A": "She arrives early to work always.",
         "B": "Frequently they have meetings on Monday mornings.",
         "C": "We never have visited that museum before.",
         "D": "She hardly could believe the news."
@@ -185,10 +185,10 @@
       "id": 16,
       "question": "Choose the best phrase to complete the sentence: 'The company needs to _____ its marketing strategy to reach younger customers.'",
       "options": {
-        "A": "make up",
-        "B": "set up",
+        "A": "multiply",
+        "B": "model",
         "C": "modify",
-        "D": "run up"
+        "D": "amplify"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -245,7 +245,7 @@
       "id": 21,
       "question": "Complete the sentence: 'The research team will _____ the effectiveness of the new vaccine in preventing the disease.'",
       "options": {
-        "A": "research",
+        "A": "search",
         "B": "look into",
         "C": "investigate",
         "D": "examine"
@@ -258,7 +258,7 @@
       "question": "Choose the correct collocation: 'The company needs to _____ attention to customer feedback to improve their services.'",
       "options": {
         "A": "make",
-        "B": "take",
+        "B": "play",
         "C": "pay",
         "D": "give"
       },
@@ -281,19 +281,19 @@
       "id": 24,
       "question": "Complete the sentence with the appropriate expression: 'The company will _____ a new product line next quarter to expand its market share.'",
       "options": {
-        "A": "launch",
-        "B": "begin",
-        "C": "commence",
-        "D": "initiate"
+        "A": "initiate",
+        "B": "lunch",
+        "C": "lounge",
+        "D": "launch"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 25,
       "question": "Choose the correct phrase: 'Many countries are trying to _____ their carbon emissions to combat climate change.'",
       "options": {
-        "A": "decrease",
+        "A": "reduct",
         "B": "reduce",
         "C": "lessen",
         "D": "diminish"
@@ -303,24 +303,24 @@
     },
     {
       "id": 26,
-      "question": "Which definition best matches the word 'emphasize'?",
+      "question": "Which word best matches the phrase 'to give special importance to something'?",
       "options": {
-        "A": "To make something look attractive",
-        "B": "To give special importance to something",
-        "C": "To explain something in detail",
-        "D": "To compare different aspects of something"
+        "A": "empower",
+        "B": "empathize",
+        "C": "empathy",
+        "D": "emphasize"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 27,
-      "question": "Choose the word that best completes the sentence: 'The scientist wanted to _____ the existing theory to account for new evidence.'",
+      "question": "The newly elected official faced immediate criticism for the lack of ______ in her political manifesto.",
       "options": {
-        "A": "emphasize",
-        "B": "investigate",
-        "C": "modify",
-        "D": "accompany"
+        "A": "tenacity",
+        "B": "conspiracy",
+        "C": "transparency",
+        "D": "propensity"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -330,9 +330,9 @@
       "question": "Select the closest synonym for 'register':",
       "options": {
         "A": "Enroll",
-        "B": "Record",
-        "C": "Observe",
-        "D": "Categorize"
+        "B": "Enrage",
+        "C": "Enlarge",
+        "D": "Enrich"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -351,23 +351,23 @@
     },
     {
       "id": 30,
-      "question": "Choose the best definition of 'investigate':",
+      "question": "The primary goal of the new environmental initiative is to ______ the negative impacts of industrial pollution on local ecosystems.",
       "options": {
-        "A": "To look for a specific item",
-        "B": "To examine systematically to determine facts",
-        "C": "To create a detailed plan",
-        "D": "To solve a complex problem"
+        "A": "mitigate",
+        "B": "articulate",
+        "C": "scrutinize",
+        "D": "commence"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 31,
-      "question": "The word 'session' is closest in meaning to:",
+      "question": "The word 'period' is closest in meaning to:",
       "options": {
         "A": "Conference",
         "B": "Meeting",
-        "C": "Period",
+        "C": "Session",
         "D": "Appointment"
       },
       "correct_answer": "C",
@@ -377,24 +377,24 @@
       "id": 32,
       "question": "In the sentence 'The manager needs to schedule a meeting for next week,' the word 'schedule' means:",
       "options": {
-        "A": "Organize",
-        "B": "Plan",
+        "A": "Timing for a specific plan",
+        "B": "Plan for a specific time",
         "C": "Arrange for a specific time",
-        "D": "Record"
+        "D": "Record for a specific time"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 33,
-      "question": "Choose the best definition of 'arrangement':",
+      "question": "The investigative journalist showed remarkable ______ in pursuing the story, despite facing threats and constant delays.",
       "options": {
-        "A": "A plan or preparation",
-        "B": "A formal agreement",
-        "C": "A system of organization",
-        "D": "A musical composition"
+        "A": "aversion",
+        "B": "disparity",
+        "C": "tenacity",
+        "D": "composure"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -414,32 +414,32 @@
       "question": "Which sentence uses 'internal' correctly?",
       "options": {
         "A": "The company faced internal problems with its computer systems.",
-        "B": "They discussed the internal during the meeting.",
-        "C": "The workers were internal about the new policies.",
-        "D": "She has an internal for classical music."
+        "B": "They discussed the internal meeting during the call.",
+        "C": "The workers were totally internal about the new policies.",
+        "D": "She has had an internal pleasure for classical music since childhood."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 36,
-      "question": "Select the best definition for 'accompany':",
+      "question": "Select the best word for 'to go along with someone or something':",
       "options": {
-        "A": "To travel with someone",
-        "B": "To go along with someone or something",
-        "C": "To guide someone to a destination",
-        "D": "To follow behind someone"
+        "A": "accomplice",
+        "B": "accommodate",
+        "C": "accomplish",
+        "D": "accompany"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 37,
       "question": "In the context 'She is a prominent researcher in her field,' the word 'prominent' means:",
       "options": {
-        "A": "Wealthy",
+        "A": "Old-fashioned",
         "B": "Intelligent",
-        "C": "Well-known and important",
+        "C": "Well-known",
         "D": "Experienced"
       },
       "correct_answer": "C",
@@ -447,35 +447,35 @@
     },
     {
       "id": 38,
-      "question": "Which definition best matches the word 'rational'?",
+      "question": "Which definition best matches the word 'disparate'?",
       "options": {
-        "A": "Based on reason rather than emotions",
-        "B": "Carefully planned and organized",
-        "C": "Practical and realistic",
-        "D": "Intelligent and educated"
+        "A": "Essentially different in kind, without a common ground.",
+        "B": "Consisting of many different kinds of parts.",
+        "C": "Having a strong sense of commitment or duty.",
+        "D": "Marked by a careful, planned process of thought."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 39,
-      "question": "Choose the best definition of 'assistance':",
+      "question": "Choose the best word for 'help or support given to someone':",
       "options": {
-        "A": "Guidance provided by an expert",
-        "B": "Financial support",
-        "C": "Help or support given to someone",
-        "D": "A formal request for help"
+        "A": "Assassin",
+        "B": "Assailant",
+        "C": "Assignment",
+        "D": "Assistance"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 40,
       "question": "In the sentence 'The facilities were adequate for our needs,' the word 'adequate' means:",
       "options": {
-        "A": "Excellent",
+        "A": "Suffocating",
         "B": "Sufficient",
-        "C": "Modern",
+        "C": "Superficial",
         "D": "Appropriate"
       },
       "correct_answer": "B",
@@ -488,7 +488,7 @@
         "A": "Nonexistent in most societies",
         "B": "Limited to domestic duties only",
         "C": "Substantial but often underrepresented",
-        "D": "Equal to men's contributions"
+        "D": "It has always been equal to men's contributions"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -510,7 +510,7 @@
       "question": "According to the passage, what effect did the World Wars have on women's roles?",
       "options": {
         "A": "They permanently established women in military positions",
-        "B": "They had no significant impact on women's work",
+        "B": "They had no significant impact on women's work despite the women's presence",
         "C": "They temporarily opened industrial and military support positions to women",
         "D": "They caused women to focus exclusively on domestic duties"
       },
@@ -522,7 +522,7 @@
       "question": "The passage suggests that in contemporary society:",
       "options": {
         "A": "Gender parity has been achieved in all fields",
-        "B": "Women's contributions receive more recognition than in the past, but challenges remain",
+        "B": "Women's contributions receive more recognition",
         "C": "Women no longer face any form of discrimination",
         "D": "Women's roles are still primarily limited to traditional spheres"
       },
@@ -546,7 +546,7 @@
       "question": "According to paragraph 5, what is a benefit of greater gender equality?",
       "options": {
         "A": "Reduced economic growth",
-        "B": "Lower innovation rates",
+        "B": "Lower innovation and higher interest rates",
         "C": "More prosperous and peaceful communities",
         "D": "Decreased educational opportunities"
       },
@@ -557,7 +557,7 @@
       "id": 47,
       "question": "The main purpose of this passage is to:",
       "options": {
-        "A": "Argue that women are superior to men",
+        "A": "Argue that women are superior to men because they can give to birth and men can't",
         "B": "Provide an overview of how women's roles have evolved throughout history",
         "C": "Criticize societies that limit women's opportunities",
         "D": "Compare women's rights across different cultures"
