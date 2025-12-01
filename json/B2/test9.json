@@ -1,605 +1,605 @@
 {
-    "passage": "<br>(1) The science of aging, known formally as biogerontology, seeks to understand the biological mechanisms that drive the aging process in humans and other organisms. While aging was once considered an inevitable and immutable process, researchers have made significant strides in identifying specific cellular and molecular pathways that contribute to senescence, the gradual deterioration of functional characteristics associated with aging. These discoveries have shifted our understanding from viewing aging as simply the passage of time to recognizing it as a complex biological phenomenon that may be amenable to intervention.<br><br>(2) At the cellular level, several key processes have been implicated in aging. Telomere shortening, which occurs each time a cell divides, eventually leads to cellular senescence when these protective chromosome caps become critically short. Mitochondrial dysfunction progressively impairs the cell's ability to produce energy efficiently, while the accumulation of damaged proteins and cellular waste overwhelms cleanup mechanisms. Additionally, chronic low-grade inflammation, termed 'inflammaging,' disrupts normal tissue function throughout the body, and epigenetic changes alter gene expression patterns in ways that compromise cellular resilience.<br><br>(3) Caloric restriction remains one of the most well-established interventions shown to extend lifespan in numerous experimental models. By reducing caloric intake while maintaining essential nutrients, organisms from yeast to primates exhibit remarkable extensions in both lifespan and healthspan—the period of life spent in good health. The beneficial effects appear to be mediated through multiple pathways, including reduced oxidative stress, enhanced cellular repair mechanisms, and activation of longevity genes. More recently, intermittent fasting regimens have demonstrated similar benefits, potentially offering a more practical approach for human application.<br><br>(4) Pharmaceutical approaches to aging have also shown promise in laboratory settings. Compounds like rapamycin, metformin, and senolytics (drugs that eliminate senescent cells) have extended lifespan in various model organisms. These interventions target fundamental aging pathways such as nutrient sensing, cellular energy production, and the accumulation of senescent cells. Several are now undergoing human clinical trials specifically designed to target aging processes rather than individual diseases, representing a paradigm shift in how medicine approaches age-related decline.<br><br>(5) While significant ethical and practical challenges remain in translating these findings to human interventions, the field has moved beyond simply describing aging to actively developing strategies to modify its progression. The goal is not necessarily radical life extension but rather to compress morbidity—reducing the period of disability and disease at the end of life while extending healthy, functional years. This approach recognizes that the quality of additional years matters as much as their quantity, focusing on extending healthspan alongside lifespan. As research continues, the once fantastical notion of meaningfully intervening in human aging processes increasingly appears within scientific reach.",
-    "questions": [
-        {
-            "id": 1,
-            "question": "Which verb form correctly completes the sentence? 'She _____ in this city since 2010.'",
-            "options": {
-                "A": "lived",
-                "B": "is living",
-                "C": "has lived",
-                "D": "had lived"
-            },
-            "correct_answer": "C",
-            "category": "Grammar"
-        },
-        {
-            "id": 2,
-            "question": "Select the sentence with the correct use of articles:",
-            "options": {
-                "A": "He is best student in the class.",
-                "B": "She bought a umbrella yesterday.",
-                "C": "The happiness is what everyone seeks.",
-                "D": "I need an hour to finish this report."
-            },
-            "correct_answer": "D",
-            "category": "Grammar"
-        },
-        {
-            "id": 3,
-            "question": "Choose the correct passive form: 'The new policy _____ next month.'",
-            "options": {
-                "A": "will implement",
-                "B": "is implementing",
-                "C": "will be implemented",
-                "D": "is implemented"
-            },
-            "correct_answer": "C",
-            "category": "Grammar"
-        },
-        {
-            "id": 4,
-            "question": "Which sentence contains a correct conditional form?",
-            "options": {
-                "A": "If I will see him, I will tell him the news.",
-                "B": "If I saw him, I would tell him the news.",
-                "C": "If I see him, I would tell him the news.",
-                "D": "If I had seen him, I will tell him the news."
-            },
-            "correct_answer": "B",
-            "category": "Grammar"
-        },
-        {
-            "id": 5,
-            "question": "Select the sentence with the correct relative clause:",
-            "options": {
-                "A": "The woman which works in that office is my cousin.",
-                "B": "The book who I borrowed is very interesting.",
-                "C": "The city where I grew up has changed a lot.",
-                "D": "The man which I met yesterday is a doctor."
-            },
-            "correct_answer": "C",
-            "category": "Grammar"
-        },
-        {
-            "id": 6,
-            "question": "Choose the correct word order:",
-            "options": {
-                "A": "She explained carefully the procedure to us.",
-                "B": "She carefully explained the procedure to us.",
-                "C": "She explained the procedure carefully to us.",
-                "D": "She explained to the procedure us carefully ."
-            },
-            "correct_answer": "B",
-            "category": "Grammar"
-        },
-        {
-            "id": 7,
-            "question": "Select the sentence with the correct subject-verb agreement:",
-            "options": {
-                "A": "The quality of these products are excellent.",
-                "B": "Each of the students have completed the assignment.",
-                "C": "Neither of the options is suitable for our needs.",
-                "D": "The commitment were taken on this issue."
-            },
-            "correct_answer": "C",
-            "category": "Grammar"
-        },
-        {
-            "id": 8,
-            "question": "Which sentence uses the past perfect tense correctly?",
-            "options": {
-                "A": "After I had finished my homework, I went to bed.",
-                "B": "After I finished my homework, I had gone to bed.",
-                "C": "After I have finished my homework, I went to bed.",
-                "D": "After I was finishing my homework, I had gone to bed."
-            },
-            "correct_answer": "A",
-            "category": "Grammar"
-        },
-        {
-            "id": 9,
-            "question": "Choose the sentence with the correct use of modals:",
-            "options": {
-                "A": "You must to attend the meeting tomorrow.",
-                "B": "She could solving the problem without help.",
-                "C": "They should to consider all options carefully.",
-                "D": "We might be late for the concert."
-            },
-            "correct_answer": "D",
-            "category": "Grammar"
-        },
-        {
-            "id": 10,
-            "question": "Select the correct comparative form:",
-            "options": {
-                "A": "This book is more interesting than any book I've read.",
-                "B": "This book is more interesting as the one I read last week.",
-                "C": "This book is the more interesting of all books I've read.",
-                "D": "This book is more interesting than any other book I've read."
-            },
-            "correct_answer": "D",
-            "category": "Grammar"
-        },
-        {
-            "id": 11,
-            "question": "Choose the correct form for reported speech: \"I will call you tomorrow,\" she said.",
-            "options": {
-                "A": "She said she will call me tomorrow.",
-                "B": "She said she would call me the next day.",
-                "C": "She said she will call me the next day.",
-                "D": "She said she would call me tomorrow."
-            },
-            "correct_answer": "B",
-            "category": "Grammar"
-        },
-        {
-            "id": 12,
-            "question": "Select the sentence with the correct use of the gerund:",
-            "options": {
-                "A": "I am enjoying to swim in the ocean.",
-                "B": "She is suggesting to go to the museum.",
-                "C": "They admitted stealing the documents.",
-                "D": "We looking forward to seeing you again."
-            },
-            "correct_answer": "C",
-            "category": "Grammar"
-        },
-        {
-            "id": 13,
-            "question": "Which sentence contains a correctly formed participle clause?",
-            "options": {
-                "A": "Walking in the park, the birds were singing loudly.",
-                "B": "Having finished the report, she decided to take a break.",
-                "C": "Seen from a distance, I thought it was a different building.",
-                "D": "Reading the instructions, the machine was difficult to assemble."
-            },
-            "correct_answer": "B",
-            "category": "Grammar"
-        },
-        {
-            "id": 14,
-            "question": "Choose the correct form of the verb to complete the sentence: 'If I _____ the answer, I would tell you.'",
-            "options": {
-                "A": "knew",
-                "B": "know",
-                "C": "have known",
-                "D": "would know"
-            },
-            "correct_answer": "A",
-            "category": "Grammar"
-        },
-        {
-            "id": 15,
-            "question": "Select the sentence with the correct punctuation:",
-            "options": {
-                "A": "After considering all the options we decided to postpone the trip.",
-                "B": "After considering all the options, we decided to postpone the trip.",
-                "C": "After considering all the options; we decided to postpone the trip.",
-                "D": "After considering all the options: we decided to postpone the trip."
-            },
-            "correct_answer": "B",
-            "category": "Grammar"
-        },
-        {
-            "id": 16,
-            "question": "Choose the appropriate phrasal verb to complete the sentence: 'We need to _____ a solution to this problem quickly.'",
-            "options": {
-                "A": "come up with",
-                "B": "come up to",
-                "C": "look into",
-                "D": "put up ith"
-            },
-            "correct_answer": "A",
-            "category": "Use of English"
-        },
-        {
-            "id": 17,
-            "question": "Select the correct collocation: 'The company needs to _____ a decision soon regarding the merger.'",
-            "options": {
-                "A": "reach",
-                "B": "achieve",
-                "C": "obtain",
-                "D": "gain"
-            },
-            "correct_answer": "A",
-            "category": "Use of English"
-        },
-        {
-            "id": 18,
-            "question": "Choose the appropriate preposition: 'She has been working _____ this project for months.'",
-            "options": {
-                "A": "at",
-                "B": "for",
-                "C": "on",
-                "D": "with"
-            },
-            "correct_answer": "C",
-            "category": "Use of English"
-        },
-        {
-            "id": 19,
-            "question": "Select the correct expression: 'I'm not sure if I'll be able to attend the event, but I'll _____ my best.'",
-            "options": {
-                "A": "make",
-                "B": "do",
-                "C": "have",
-                "D": "try"
-            },
-            "correct_answer": "B",
-            "category": "Use of English"
-        },
-        {
-            "id": 20,
-            "question": "Choose the correct word to complete the idiom: 'The final decision is _____ to the manager.'",
-            "options": {
-                "A": "up",
-                "B": "to",
-                "C": "over",
-                "D": "with"
-            },
-            "correct_answer": "A",
-            "category": "Use of English"
-        },
-        {
-            "id": 21,
-            "question": "Select the incorrect linking expression: 'He didn't prepare for the presentation; _____, it was a disaster.'",
-            "options": {
-                "A": "therefore",
-                "B": "consequently",
-                "C": "nevertheless",
-                "D": "so"
-            },
-            "correct_answer": "C",
-            "category": "Use of English"
-        },
-        {
-            "id": 22,
-            "question": "Choose the word that best completes both sentences: 'Please _____ quiet during the performance.' and 'They decided to _____ the house for another year.'",
-            "options": {
-                "A": "stay",
-                "B": "remain",
-                "C": "keep",
-                "D": "hold"
-            },
-            "correct_answer": "C",
-            "category": "Use of English"
-        },
-        {
-            "id": 23,
-            "question": "Select the correct fixed expression: 'The new policy will come into _____ next month.'",
-            "options": {
-                "A": "effect",
-                "B": "affect",
-                "C": "impact",
-                "D": "result"
-            },
-            "correct_answer": "A",
-            "category": "Use of English"
-        },
-        {
-            "id": 24,
-            "question": "Choose the appropriate expression: 'After considering all options, we decided to _____ with the original plan.'",
-            "options": {
-                "A": "step ahead",
-                "B": "move along",
-                "C": "push forward",
-                "D": "go ahead"
-            },
-            "correct_answer": "D",
-            "category": "Use of English"
-        },
-        {
-            "id": 25,
-            "question": "Select the correct form of the word to complete the sentence: 'She made a _____ contribution to the project's success.'",
-            "options": {
-                "A": "signifying",
-                "B": "significantly",
-                "C": "significant",
-                "D": "signify"
-            },
-            "correct_answer": "C",
-            "category": "Use of English"
-        },
-        {
-            "id": 26,
-            "question": "Choose the sentence that uses the word 'interaction' correctly:",
-            "options": {
-                "A": "The interaction between the two chemicals caused an explosion.",
-                "B": "She bought a new interaction for her living room.",
-                "C": "The teacher gave us the interaction about the upcoming exam.",
-                "D": "We need to get the interaction of this document before submitting it."
-            },
-            "correct_answer": "A",
-            "category": "Vocabulary"
-        },
-        {
-            "id": 27,
-            "question": "Which statement best describes the meaning of 'happening at the end or as a result'?",
-            "options": {
-                "A": "initial",
-                "B": "regular",
-                "C": "accidental",
-                "D": "eventual"
-            },
-            "correct_answer": "D",
-            "category": "Vocabulary"
-        },
-        {
-            "id": 28,
-            "question": "Which sentence uses 'harmful' correctly?",
-            "options": {
-                "A": "The harmful meeting was held in the city center.",
-                "B": "Excessive exposure to UV rays can be harmful to your skin.",
-                "C": "She made a harmful suggestion during the meeting with her friends.",
-                "D": "We need to harmful this information carefully, otherwise it's dangerous."
-            },
-            "correct_answer": "B",
-            "category": "Vocabulary"
-        },
-        {
-            "id": 29,
-            "question": "What is 'recovery process after injury or illness'?",
-            "options": {
-                "A": "exercising",
-                "B": "entertainment",
-                "C": "elaboration",
-                "D": "rehabilitation "
-            },
-            "correct_answer": "D",
-            "category": "Vocabulary"
-        },
-        {
-            "id": 30,
-            "question": "Choose the sentence that uses 'volunteer' correctly:",
-            "options": {
-                "A": "She volunteered her time at the local shelter.",
-                "B": "The volunteer was delicious at the restaurant.",
-                "C": "We need to volunteer this stuff before using it.",
-                "D": "I found a new volunteer for my apartment."
-            },
-            "correct_answer": "A",
-            "category": "Vocabulary"
-        },
-        {
-            "id": 31,
-            "question": "Which of the following best describes a 'complete change in form or appearance'?",
-            "options": {
-                "A": "transportation",
-                "B": "transcription",
-                "C": "transformation",
-                "D": "modification"
-            },
-            "correct_answer": "C",
-            "category": "Vocabulary"
-        },
-        {
-            "id": 32,
-            "question": "Which sentence uses 'frustration' correctly?",
-            "options": {
-                "A": "She expressed frustration with the slow progress of the project.",
-                "B": "We planned to give the frustration a new chance next month.",
-                "C": "The frustration was scheduled for Monday morning.",
-                "D": "His frustration was pleasant for the manager."
-            },
-            "correct_answer": "A",
-            "category": "Vocabulary"
-        },
-        {
-            "id": 33,
-            "question": "What does a 'set of rules or procedures' most commonly refer to?",
-            "options": {
-                "A": "promote",
-                "B": "protour",
-                "C": "prototype",
-                "D": "protocol"
-            },
-            "correct_answer": "D",
-            "category": "Vocabulary"
-        },
-        {
-            "id": 34,
-            "question": "Choose the sentence that uses 'identical' correctly:",
-            "options": {
-                "A": "She identical the problem during the meeting.",
-                "B": "We need to identical this report by Friday.",
-                "C": "The twins wore identical outfits to the party.",
-                "D": "The identical voice was very impressive."
-            },
-            "correct_answer": "C",
-            "category": "Vocabulary"
-        },
-        {
-            "id": 35,
-            "question": "Which word best describes a 'formal test of knowledge or ability'?",
-            "options": {
-                "A": "excitement",
-                "B": "exampling",
-                "C": "examination",
-                "D": "exaggeration"
-            },
-            "correct_answer": "C",
-            "category": "Vocabulary"
-        },
-        {
-            "id": 36,
-            "question": "Which sentence uses 'artificial' correctly?",
-            "options": {
-                "A": "The room was decorated with artificial flowers.",
-                "B": "We need to artificial intelligence this letter.",
-                "C": "She artificially called the meeting for discussion.",
-                "D": "The artificial flowers blossomed twice a month."
-            },
-            "correct_answer": "A",
-            "category": "Vocabulary"
-        },
-        {
-            "id": 37,
-            "question": "What does 'goal or aim' mean when used as a noun?",
-            "options": {
-                "A": "object",
-                "B": "objection",
-                "C": "objective",
-                "D": "injection"
-            },
-            "correct_answer": "C",
-            "category": "Vocabulary"
-        },
-        {
-            "id": 38,
-            "question": "Choose the sentence that uses 'preparation' correctly:",
-            "options": {
-                "A": "We preparation the meeting room for the conference.",
-                "B": "Proper preparation is essential for success in the exam.",
-                "C": "Her preparation before leaving the room was brilliant.",
-                "D": "The preparation was very tall and impressive."
-            },
-            "correct_answer": "B",
-            "category": "Vocabulary"
-        },
-        {
-            "id": 39,
-            "question": "Which statement best describes a 'restriction or boundary'?",
-            "options": {
-                "A": "limitness",
-                "B": "limitless",
-                "C": "mitigation",
-                "D": "limitation"
-            },
-            "correct_answer": "D",
-            "category": "Vocabulary"
-        },
-        {
-            "id": 40,
-            "question": "Which sentence uses 'expansion' correctly?",
-            "options": {
-                "A": "The company is planning an expansion into new markets.",
-                "B": "She expansioned the problem during the meeting.",
-                "C": "Our expansion to the new office was fast.",
-                "D": "The expansion was great despite its limited action."
-            },
-            "correct_answer": "A",
-            "category": "Vocabulary"
-        },
-        {
-            "id": 41,
-            "question": "According to paragraph 1, how has scientific understanding of aging changed?",
-            "options": {
-                "A": "Aging is now considered a purely psychological process",
-                "B": "Aging has been proven to be completely preventable in the upcoming decades",
-                "C": "Aging is now viewed as a complex biological phenomenon that may be modifiable",
-                "D": "Scientists have discovered that aging affects only certain organisms besides humans"
-            },
-            "correct_answer": "C",
-            "category": "Reading"
-        },
-        {
-            "id": 42,
-            "question": "The word 'senescence' in paragraph 1 most likely means:",
-            "options": {
-                "A": "The process of growing younger",
-                "B": "The biological process of aging",
-                "C": "A medical condition affecting the elderly",
-                "D": "The psychological effects of aging"
-            },
-            "correct_answer": "B",
-            "category": "Reading"
-        },
-        {
-            "id": 43,
-            "question": "According to paragraph 2, what happens to telomeres during the aging process?",
-            "options": {
-                "A": "They become longer with each cell division",
-                "B": "They remain unchanged throughout life",
-                "C": "They become critically short after repeated cell divisions",
-                "D": "They cause inflammation in body tissues that lead to diminishing"
-            },
-            "correct_answer": "C",
-            "category": "Reading"
-        },
-        {
-            "id": 44,
-            "question": "Based on paragraph 3, what is 'healthspan'?",
-            "options": {
-                "A": "A type of dietary supplement",
-                "B": "The total length of a person's life",
-                "C": "The period of life spent in good health",
-                "D": "A measurement of human physical fitness"
-            },
-            "correct_answer": "C",
-            "category": "Reading"
-        },
-        {
-            "id": 45,
-            "question": "Which intervention is described as the most well-established for extending lifespan?",
-            "options": {
-                "A": "Pharmaceutical drugs",
-                "B": "Caloric restriction",
-                "C": "Telomere extension",
-                "D": "Reducing inflammation"
-            },
-            "correct_answer": "B",
-            "category": "Reading"
-        },
-        {
-            "id": 46,
-            "question": "According to paragraph 4, what is unique about the current clinical trials for compounds like rapamycin and metformin?",
-            "options": {
-                "A": "They are designed to target fundamental aging processes",
-                "B": "They are only being tested on animals and plants",
-                "C": "They are focused exclusively on treating cancer",
-                "D": "They are only available to wealthy individuals"
-            },
-            "correct_answer": "A",
-            "category": "Reading"
-        },
-        {
-            "id": 47,
-            "question": "The term 'compress morbidity' in paragraph 5 most likely refers to:",
-            "options": {
-                "A": "Treating individual diseases more effectively than the public ones",
-                "B": "Reducing the period of disability and disease at the end of life",
-                "C": "Extending total lifespan regardless of health quality",
-                "D": "Developing more effective medications"
-            },
-            "correct_answer": "B",
-            "category": "Reading"
-        },
-        {
-            "id": 48,
-            "question": "Based on the passage, what would be the primary goal of aging interventions?",
-            "options": {
-                "A": "To make people live forever",
-                "B": "To prevent all age-related diseases",
-                "C": "To extend healthy, functional years of life",
-                "D": "To reverse the animal aging process completely"
-            },
-            "correct_answer": "C",
-            "category": "Reading"
-        },
-        {
-            "id": 49,
-            "question": "What does the author imply about the field of aging research?",
-            "options": {
-                "A": "It has made little progress in recent decades",
-                "B": "It focuses primarily on cosmetic aspects of aging",
-                "C": "It is primarily concerned with radical life extension",
-                "D": "It has moved from description to active intervention development"
-            },
-            "correct_answer": "D",
-            "category": "Reading"
-        },
-        {
-            "id": 50,
-            "question": "The author's tone in this passage can best be described as:",
-            "options": {
-                "A": "Highly skeptical of aging research",
-                "B": "Informative and cautiously optimistic",
-                "C": "Dismissive of traditional views on aging",
-                "D": "Enthusiastically promoting specific anti-aging products"
-            },
-            "correct_answer": "B",
-            "category": "Reading"
-        }
-    ]
+  "passage": "<br>(1) The science of aging, known formally as biogerontology, seeks to understand the biological mechanisms that drive the aging process in humans and other organisms. While aging was once considered an inevitable and immutable process, researchers have made significant strides in identifying specific cellular and molecular pathways that contribute to senescence, the gradual deterioration of functional characteristics associated with aging. These discoveries have shifted our understanding from viewing aging as simply the passage of time to recognizing it as a complex biological phenomenon that may be amenable to intervention.<br><br>(2) At the cellular level, several key processes have been implicated in aging. Telomere shortening, which occurs each time a cell divides, eventually leads to cellular senescence when these protective chromosome caps become critically short. Mitochondrial dysfunction progressively impairs the cell's ability to produce energy efficiently, while the accumulation of damaged proteins and cellular waste overwhelms cleanup mechanisms. Additionally, chronic low-grade inflammation, termed 'inflammaging,' disrupts normal tissue function throughout the body, and epigenetic changes alter gene expression patterns in ways that compromise cellular resilience.<br><br>(3) Caloric restriction remains one of the most well-established interventions shown to extend lifespan in numerous experimental models. By reducing caloric intake while maintaining essential nutrients, organisms from yeast to primates exhibit remarkable extensions in both lifespan and healthspan—the period of life spent in good health. The beneficial effects appear to be mediated through multiple pathways, including reduced oxidative stress, enhanced cellular repair mechanisms, and activation of longevity genes. More recently, intermittent fasting regimens have demonstrated similar benefits, potentially offering a more practical approach for human application.<br><br>(4) Pharmaceutical approaches to aging have also shown promise in laboratory settings. Compounds like rapamycin, metformin, and senolytics (drugs that eliminate senescent cells) have extended lifespan in various model organisms. These interventions target fundamental aging pathways such as nutrient sensing, cellular energy production, and the accumulation of senescent cells. Several are now undergoing human clinical trials specifically designed to target aging processes rather than individual diseases, representing a paradigm shift in how medicine approaches age-related decline.<br><br>(5) While significant ethical and practical challenges remain in translating these findings to human interventions, the field has moved beyond simply describing aging to actively developing strategies to modify its progression. The goal is not necessarily radical life extension but rather to compress morbidity—reducing the period of disability and disease at the end of life while extending healthy, functional years. This approach recognizes that the quality of additional years matters as much as their quantity, focusing on extending healthspan alongside lifespan. As research continues, the once fantastical notion of meaningfully intervening in human aging processes increasingly appears within scientific reach.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which verb form correctly completes the sentence? 'She _____ in this city since 2010.'",
+      "options": {
+        "A": "lived",
+        "B": "is living",
+        "C": "has lived",
+        "D": "had lived"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 2,
+      "question": "Select the sentence with the correct use of articles:",
+      "options": {
+        "A": "He is best student in the class.",
+        "B": "She bought a umbrella yesterday.",
+        "C": "The happiness is what everyone seeks.",
+        "D": "I need an hour to finish this report."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Choose the correct passive form: 'The new policy _____ next month.'",
+      "options": {
+        "A": "will implement",
+        "B": "is implementing",
+        "C": "will be implemented",
+        "D": "is implemented"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence contains a correct conditional form?",
+      "options": {
+        "A": "If I will see him, I will tell him the news.",
+        "B": "If I saw him, I would tell him the news.",
+        "C": "If I see him, I would tell him the news.",
+        "D": "If I had seen him, I will tell him the news."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Select the sentence with the correct relative clause:",
+      "options": {
+        "A": "The woman which works in that office is my cousin.",
+        "B": "The book who I borrowed is very interesting.",
+        "C": "The city where I grew up has changed a lot.",
+        "D": "The man which I met yesterday is a doctor."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 6,
+      "question": "Choose the correct word order:",
+      "options": {
+        "A": "She explained carefully the procedure to us.",
+        "B": "She carefully explained the procedure to us.",
+        "C": "She explained the procedure carefully to us.",
+        "D": "She explained to the procedure us carefully ."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 7,
+      "question": "Select the sentence with the correct subject-verb agreement:",
+      "options": {
+        "A": "The quality of these products are excellent.",
+        "B": "Each of the students have completed the assignment.",
+        "C": "Neither of the options is suitable for our needs.",
+        "D": "The commitment were taken on this issue."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Which sentence uses the past perfect tense correctly?",
+      "options": {
+        "A": "After I had finished my homework, I went to bed.",
+        "B": "After I finished my homework, I had gone to bed.",
+        "C": "After I have finished my homework, I went to bed.",
+        "D": "After I was finishing my homework, I had gone to bed."
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Choose the sentence with the correct use of modals:",
+      "options": {
+        "A": "You must to attend the meeting tomorrow.",
+        "B": "She could solving the problem without help.",
+        "C": "They should to consider all options carefully.",
+        "D": "We might be late for the concert."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Select the correct comparative form:",
+      "options": {
+        "A": "This book is more interesting than any book I've read.",
+        "B": "This book is more interesting as the one I read last week.",
+        "C": "This book is the more interesting of all books I've read.",
+        "D": "This book is more interesting than any other book I've read."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct form for reported speech: \"I will call you tomorrow,\" she said.",
+      "options": {
+        "A": "She said she will call me tomorrow.",
+        "B": "She said she would call me the next day.",
+        "C": "She said she will call me the next day.",
+        "D": "She said she would call me tomorrow."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the sentence with the correct use of the gerund:",
+      "options": {
+        "A": "I am enjoying to swim in the ocean.",
+        "B": "She is suggesting to go to the museum.",
+        "C": "They admitted stealing the documents.",
+        "D": "We looking forward to seeing you again."
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Which sentence contains a correctly formed participle clause?",
+      "options": {
+        "A": "Walking in the park, the birds were singing loudly.",
+        "B": "Having finished the report, she decided to take a break.",
+        "C": "Seen from a distance, I thought it was a different building.",
+        "D": "Reading the instructions, the machine was difficult to assemble."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct form of the verb to complete the sentence: 'If I _____ the answer, I would tell you.'",
+      "options": {
+        "A": "knew",
+        "B": "know",
+        "C": "have known",
+        "D": "would know"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 15,
+      "question": "Select the sentence with the correct punctuation:",
+      "options": {
+        "A": "After considering all the options we decided to postpone the trip.",
+        "B": "After considering all the options, we decided to postpone the trip.",
+        "C": "After considering all the options; we decided to postpone the trip.",
+        "D": "After considering all the options: we decided to postpone the trip."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 16,
+      "question": "Choose the appropriate phrasal verb to complete the sentence: 'We need to _____ a solution to this problem quickly.'",
+      "options": {
+        "A": "come up with",
+        "B": "come up to",
+        "C": "look into",
+        "D": "put up ith"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 17,
+      "question": "Select the correct collocation: 'The company needs to _____ a decision soon regarding the merger.'",
+      "options": {
+        "A": "reach",
+        "B": "achieve",
+        "C": "obtain",
+        "D": "gain"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 18,
+      "question": "Choose the appropriate preposition: 'She has been working _____ this project for months.'",
+      "options": {
+        "A": "at",
+        "B": "for",
+        "C": "on",
+        "D": "with"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 19,
+      "question": "Select the correct expression: 'I'm not sure if I'll be able to attend the event, but I'll _____ my best.'",
+      "options": {
+        "A": "make",
+        "B": "do",
+        "C": "have",
+        "D": "try"
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct word to complete the idiom: 'The final decision is _____ to the manager.'",
+      "options": {
+        "A": "up",
+        "B": "to",
+        "C": "over",
+        "D": "with"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 21,
+      "question": "Select the incorrect linking expression: 'He didn't prepare for the presentation; _____, it was a disaster.'",
+      "options": {
+        "A": "therefore",
+        "B": "consequently",
+        "C": "nevertheless",
+        "D": "so"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 22,
+      "question": "Choose the word that best completes both sentences: 'Please _____ quiet during the performance.' and 'They decided to _____ the house for another year.'",
+      "options": {
+        "A": "stay",
+        "B": "remain",
+        "C": "keep",
+        "D": "hold"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 23,
+      "question": "Select the correct fixed expression: 'The new policy will come into _____ next month.'",
+      "options": {
+        "A": "effect",
+        "B": "affect",
+        "C": "impact",
+        "D": "result"
+      },
+      "correct_answer": "A",
+      "category": "Use of English"
+    },
+    {
+      "id": 24,
+      "question": "Choose the appropriate expression: 'After considering all options, we decided to _____ with the original plan.'",
+      "options": {
+        "A": "step ahead",
+        "B": "move along",
+        "C": "push forward",
+        "D": "go ahead"
+      },
+      "correct_answer": "D",
+      "category": "Use of English"
+    },
+    {
+      "id": 25,
+      "question": "Select the correct form of the word to complete the sentence: 'She made a _____ contribution to the project's success.'",
+      "options": {
+        "A": "signifying",
+        "B": "significantly",
+        "C": "significant",
+        "D": "signify"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 26,
+      "question": "Choose the sentence that uses the word 'interaction' correctly:",
+      "options": {
+        "A": "The interaction between the two chemicals caused an explosion.",
+        "B": "She bought a new interaction for her living room.",
+        "C": "The teacher gave us the interaction about the upcoming exam.",
+        "D": "We need to get the interaction of this document before submitting it."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 27,
+      "question": "Which statement best describes the meaning of 'happening at the end or as a result'?",
+      "options": {
+        "A": "initial",
+        "B": "regular",
+        "C": "accidental",
+        "D": "eventual"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 28,
+      "question": "Which sentence uses 'harmful' correctly?",
+      "options": {
+        "A": "The harmful meeting was held in the city center.",
+        "B": "Excessive exposure to UV rays can be harmful to your skin.",
+        "C": "She made a harmful suggestion during the meeting with her friends.",
+        "D": "We need to harmful this information carefully, otherwise it's dangerous."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 29,
+      "question": "What is 'recovery process after injury or illness'?",
+      "options": {
+        "A": "exercising",
+        "B": "entertainment",
+        "C": "elaboration",
+        "D": "rehabilitation "
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 30,
+      "question": "Choose the sentence that uses 'volunteer' correctly:",
+      "options": {
+        "A": "She volunteered her time at the local shelter.",
+        "B": "The volunteer was delicious at the restaurant.",
+        "C": "We need to volunteer this stuff before using it.",
+        "D": "I found a new volunteer for my apartment."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 31,
+      "question": "Which of the following best describes a 'complete change in form or appearance'?",
+      "options": {
+        "A": "transportation",
+        "B": "transcription",
+        "C": "transformation",
+        "D": "modification"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 32,
+      "question": "Which sentence uses 'frustration' correctly?",
+      "options": {
+        "A": "She expressed frustration with the slow progress of the project.",
+        "B": "We planned to give the frustration a new chance next month.",
+        "C": "The frustration was scheduled for Monday morning.",
+        "D": "His frustration was pleasant for the manager."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 33,
+      "question": "What does a 'set of rules or procedures' most commonly refer to?",
+      "options": {
+        "A": "promote",
+        "B": "protour",
+        "C": "prototype",
+        "D": "protocol"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 34,
+      "question": "Choose the sentence that uses 'identical' correctly:",
+      "options": {
+        "A": "She identical the problem during the meeting.",
+        "B": "We need to identical this report by Friday.",
+        "C": "The twins wore identical outfits to the party.",
+        "D": "The identical voice was very impressive."
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 35,
+      "question": "Which word best describes a 'formal test of knowledge or ability'?",
+      "options": {
+        "A": "excitement",
+        "B": "exampling",
+        "C": "examination",
+        "D": "exaggeration"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 36,
+      "question": "Which sentence uses 'artificial' correctly?",
+      "options": {
+        "A": "The room was decorated with artificial flowers.",
+        "B": "We need to artificial intelligence this letter.",
+        "C": "She artificially called the meeting for discussion.",
+        "D": "The artificial flowers blossomed twice a month."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 37,
+      "question": "What does 'goal or aim' mean when used as a noun?",
+      "options": {
+        "A": "object",
+        "B": "objection",
+        "C": "objective",
+        "D": "injection"
+      },
+      "correct_answer": "C",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 38,
+      "question": "Choose the sentence that uses 'preparation' correctly:",
+      "options": {
+        "A": "We preparation the meeting room for the conference.",
+        "B": "Proper preparation is essential for success in the exam.",
+        "C": "Her preparation before leaving the room was brilliant.",
+        "D": "The preparation was very tall and impressive."
+      },
+      "correct_answer": "B",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 39,
+      "question": "Which statement best describes a 'restriction or boundary'?",
+      "options": {
+        "A": "limitness",
+        "B": "limitless",
+        "C": "mitigation",
+        "D": "limitation"
+      },
+      "correct_answer": "D",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 40,
+      "question": "Which sentence uses 'expansion' correctly?",
+      "options": {
+        "A": "The company is planning an expansion into new markets.",
+        "B": "She expansioned the problem during the meeting.",
+        "C": "Our expansion to the new office was fast.",
+        "D": "The expansion was great despite its limited action."
+      },
+      "correct_answer": "A",
+      "category": "Vocabulary"
+    },
+    {
+      "id": 41,
+      "question": "According to paragraph 1, how has scientific understanding of aging changed?",
+      "options": {
+        "A": "Aging is now considered a purely psychological process",
+        "B": "Aging has been proven to be completely preventable in the upcoming decades",
+        "C": "Aging is now viewed as a complex biological phenomenon that may be modifiable",
+        "D": "Scientists have discovered that aging affects only certain organisms besides humans"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 42,
+      "question": "The word 'senescence' in paragraph 1 most likely means:",
+      "options": {
+        "A": "The process of growing younger",
+        "B": "The biological process of aging",
+        "C": "A medical condition affecting the elderly",
+        "D": "The psychological effects of aging"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 43,
+      "question": "According to paragraph 2, what happens to telomeres during the aging process?",
+      "options": {
+        "A": "They become longer with each cell division",
+        "B": "They remain unchanged throughout life",
+        "C": "They become critically short after repeated cell divisions",
+        "D": "They cause inflammation in body tissues that lead to diminishing"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 44,
+      "question": "Based on paragraph 3, what is 'healthspan'?",
+      "options": {
+        "A": "A type of dietary supplement",
+        "B": "The total length of a person's life",
+        "C": "The period of life spent in good health",
+        "D": "A measurement of human physical fitness"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 45,
+      "question": "Which intervention is described as the most well-established for extending lifespan?",
+      "options": {
+        "A": "Pharmaceutical drugs",
+        "B": "Caloric restriction",
+        "C": "Telomere extension",
+        "D": "Reducing inflammation"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 46,
+      "question": "According to paragraph 4, what is unique about the current clinical trials for compounds like rapamycin and metformin?",
+      "options": {
+        "A": "They are designed to target fundamental aging processes",
+        "B": "They are only being tested on animals and plants",
+        "C": "They are focused exclusively on treating cancer",
+        "D": "They are only available to wealthy individuals"
+      },
+      "correct_answer": "A",
+      "category": "Reading"
+    },
+    {
+      "id": 47,
+      "question": "The term 'compress morbidity' in paragraph 5 most likely refers to:",
+      "options": {
+        "A": "Treating individual diseases more effectively than the public ones",
+        "B": "Reducing the period of disability and disease at the end of life",
+        "C": "Extending total lifespan regardless of health quality",
+        "D": "Developing more effective medications"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    },
+    {
+      "id": 48,
+      "question": "Based on the passage, what would be the primary goal of aging interventions?",
+      "options": {
+        "A": "To make people live forever",
+        "B": "To prevent all age-related diseases",
+        "C": "To extend healthy, functional years of life",
+        "D": "To reverse the animal aging process completely"
+      },
+      "correct_answer": "C",
+      "category": "Reading"
+    },
+    {
+      "id": 49,
+      "question": "What does the author imply about the field of aging research?",
+      "options": {
+        "A": "It has made little progress in recent decades",
+        "B": "It focuses primarily on cosmetic aspects of aging",
+        "C": "It is primarily concerned with radical life extension",
+        "D": "It has moved from description to active intervention development"
+      },
+      "correct_answer": "D",
+      "category": "Reading"
+    },
+    {
+      "id": 50,
+      "question": "The author's tone in this passage can best be described as:",
+      "options": {
+        "A": "Highly skeptical of aging research",
+        "B": "Informative and cautiously optimistic",
+        "C": "Dismissive of traditional views on aging",
+        "D": "Enthusiastically promoting specific anti-aging products"
+      },
+      "correct_answer": "B",
+      "category": "Reading"
+    }
+  ]
 }
