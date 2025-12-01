@@ -2,49 +2,50 @@
   "passage": "<br>(1) Topographical mapping is the process of creating detailed representations of the Earth's surface, capturing its varied terrain, elevations, and features. These maps are essential for understanding the physical landscape and are used in fields such as geography, geology, engineering, and urban planning. By providing a visual and quantitative depiction of the Earth's surface, topographical maps help researchers, planners, and policymakers make informed decisions about land use, resource management, and environmental conservation. <br><br>(2) Traditional techniques for topographical mapping included methods such as triangulation and leveling. Triangulation involved measuring angles between known points to determine distances and create a network of triangles that could be used to map large areas. Leveling, on the other hand, focused on measuring elevation differences using instruments like theodolites and spirit levels. These methods, while effective, were time-consuming and required significant manual effort. <br><br>(3) Modern technologies have revolutionized topographical mapping, making it more precise and efficient. Global Positioning System (GPS) technology allows for accurate positioning and elevation data collection using satellites. Light Detection and Ranging (LiDAR) uses laser pulses to measure distances to the Earth's surface, creating highly detailed three-dimensional maps. Additionally, aerial photography and satellite imagery provide high-resolution images that can be used to generate topographical maps with minimal fieldwork. <br><br>(4) The integration of these technologies with Geographic Information Systems (GIS) has further enhanced topographical mapping. GIS allows for the storage, analysis, and visualization of spatial data, enabling the creation of interactive and dynamic maps. This integration facilitates the overlay of various data layers, such as vegetation, water bodies, and infrastructure, providing a comprehensive view of the landscape. GIS also supports real-time data updates, ensuring that maps remain current and relevant. <br><br>(5) Despite these advancements, topographical mapping still faces challenges, particularly in remote or inaccessible areas. Dense vegetation, rugged terrain, and adverse weather conditions can hinder data collection. Moreover, ensuring the accuracy and consistency of data across different mapping techniques and technologies remains a critical concern. As the demand for precise and up-to-date topographical maps continues to grow, ongoing research and innovation are essential to overcome these challenges and improve mapping capabilities.",
   "questions": [
     {
+      {
       "id": 1,
-      "question": "She _____ to the store yesterday.",
+      "question": "The presentation was flawless; the speaker ______ spent weeks preparing for it.",
       "options": {
-        "A": "goes",
-        "B": "went",
-        "C": "has gone",
-        "D": "had gone"
+        "A": "might be",
+        "B": "could have",
+        "C": "would be",
+        "D": "must have"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 2,
-      "question": "If I _____ you, I would study harder.",
+      "question": "If they had checked the inventory yesterday, they _____ the exact number of units now.",
       "options": {
-        "A": "am",
-        "B": "was",
-        "C": "were",
-        "D": "have been"
-      },
-      "correct_answer": "C",
-      "category": "Grammar"
-    },
-    {
-      "id": 3,
-      "question": "The report _____ by the team last week.",
-      "options": {
-        "A": "is finished",
-        "B": "was finished",
-        "C": "finishes",
-        "D": "has finished"
+        "A": "wouldn't have known",
+        "B": "wouldn't know",
+        "C": "won't know",
+        "D": "didn't know"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
-      "id": 4,
-      "question": "I _____ my homework by the time you called.",
+      "id": 3,
+      "question": "The reports _____ by the team last week.",
       "options": {
-        "A": "finish",
-        "B": "finished",
-        "C": "have finished",
-        "D": "had finished"
+        "A": "where finished",
+        "B": "have been finished",
+        "C": "finished",
+        "D": "were finished"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "I _____ my task by the time you called.",
+      "options": {
+        "A": "has completed",
+        "B": "completed",
+        "C": "have completed",
+        "D": "had completed"
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -77,10 +78,10 @@
       "id": 7,
       "question": "The book, _____ I borrowed from the library, is very interesting.",
       "options": {
-        "A": "who",
+        "A": "that",
         "B": "which",
-        "C": "whom",
-        "D": "whose"
+        "C": "what",
+        "D": "where"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -91,8 +92,8 @@
       "options": {
         "A": "go",
         "B": "goes",
-        "C": "going",
-        "D": "gone"
+        "C": "is going",
+        "D": "has gone"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -102,11 +103,11 @@
       "question": "I wish I _____ more time to relax.",
       "options": {
         "A": "have",
-        "B": "had",
-        "C": "will have",
+        "B": "will have",
+        "C": "had",
         "D": "would have"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -114,9 +115,9 @@
       "question": "The students _____ their exams next week.",
       "options": {
         "A": "take",
-        "B": "took",
+        "B": "will be take",
         "C": "will take",
-        "D": "have taken"
+        "D": "will have taken"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -149,7 +150,7 @@
       "id": 13,
       "question": "The movie was so boring that I _____ asleep.",
       "options": {
-        "A": "fall",
+        "A": "felt",
         "B": "fell",
         "C": "have fallen",
         "D": "had fallen"
@@ -164,7 +165,7 @@
         "A": "wants",
         "B": "want",
         "C": "wanted",
-        "D": "wanting"
+        "D": "is wanting"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -173,12 +174,12 @@
       "id": 15,
       "question": "The teacher made us _____ the assignment again.",
       "options": {
-        "A": "do",
-        "B": "to do",
+        "A": "to do",
+        "B": "do",
         "C": "doing",
         "D": "did"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
@@ -195,9 +196,9 @@
     },
     {
       "id": 17,
-      "question": "She is very _____ about meeting deadlines.",
+      "question": "She is precise and very _____ about meeting deadlines.",
       "options": {
-        "A": "care",
+        "A": "careless",
         "B": "careful",
         "C": "carefully",
         "D": "caring"
@@ -209,12 +210,12 @@
       "id": 18,
       "question": "The company is planning to _____ its operations overseas.",
       "options": {
-        "A": "expand",
-        "B": "expansion",
-        "C": "expanding",
-        "D": "expanded"
+        "A": "explain",
+        "B": "explode",
+        "C": "explore",
+        "D": "expand"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -222,11 +223,11 @@
       "question": "Despite _____ hard, he didn't pass the exam.",
       "options": {
         "A": "study",
-        "B": "studying",
-        "C": "to study",
-        "D": "studied"
+        "B": "of studying",
+        "C": "studying",
+        "D": " have studied"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
@@ -245,7 +246,7 @@
       "id": 21,
       "question": "The weather is _____ today than yesterday.",
       "options": {
-        "A": "bad",
+        "A": "worser",
         "B": "worse",
         "C": "worst",
         "D": "more bad"
@@ -258,11 +259,11 @@
       "question": "He is not only intelligent _____ also hardworking.",
       "options": {
         "A": "and",
-        "B": "but",
-        "C": "or",
+        "B": "though",
+        "C": "but",
         "D": "so"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
@@ -281,12 +282,12 @@
       "id": 24,
       "question": "The _____ of the new law is still being debated.",
       "options": {
-        "A": "implement",
-        "B": "implementation",
-        "C": "implementing",
-        "D": "implemented"
+        "A": "amplification",
+        "B": "implastation",
+        "C": "implying",
+        "D": "implementation"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -294,35 +295,35 @@
       "question": "She was _____ to accept the job offer.",
       "options": {
         "A": "reluctance",
-        "B": "reluctant",
-        "C": "reluctantly",
+        "B": "reluctantly",
+        "C": "reluctant",
         "D": "relucting"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 26,
-      "question": "What does 'tradition' mean?",
+      "question": "What does 'custom or belief passed down through generations' mean?",
       "options": {
-        "A": "A modern invention",
-        "B": "A custom or belief passed down through generations",
-        "C": "A scientific discovery",
-        "D": "A type of government"
+        "A": "tradition",
+        "B": "transition",
+        "C": "translation",
+        "D": "transcription"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 27,
-      "question": "The company plans to _____ its market.",
+      "question": "The new policies are designed to _____ the financial burden on low-income families.",
       "options": {
-        "A": "maintain",
-        "B": "expand",
-        "C": "negotiate",
-        "D": "structure"
+        "A": "disseminate",
+        "B": "articulate",
+        "C": "alleviate",
+        "D": "ascertain"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -332,7 +333,7 @@
         "A": "foundation",
         "B": "opportunity",
         "C": "attitude",
-        "D": "dignity"
+        "D": "fundamental"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -341,43 +342,43 @@
       "id": 29,
       "question": "She was _____ of the consequences of her actions.",
       "options": {
-        "A": "conscious",
+        "A": "consonant",
         "B": "sensitive",
         "C": "practical",
-        "D": "original"
+        "D": "conscious"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 30,
       "question": "The _____ to travel abroad was too good to miss.",
       "options": {
-        "A": "tradition",
-        "B": "opportunity",
-        "C": "network",
-        "D": "structure"
+        "A": "Authority",
+        "B": "Opportunity",
+        "C": "Opportunism",
+        "D": "Capacity"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 31,
-      "question": "What is a synonym for 'maintain'?",
+      "question": "What is a synonym for 'keep'?",
       "options": {
-        "A": "Change",
-        "B": "Keep",
-        "C": "Destroy",
-        "D": "Ignore"
+        "A": "remark",
+        "B": "retrain",
+        "C": "maintain",
+        "D": "remake"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 32,
       "question": "The _____ of the building was designed by a famous architect.",
       "options": {
-        "A": "attitude",
+        "A": "structural",
         "B": "structure",
         "C": "foundation",
         "D": "network"
@@ -390,9 +391,9 @@
       "question": "He has a very positive _____ towards life.",
       "options": {
         "A": "attitude",
-        "B": "dignity",
-        "C": "tradition",
-        "D": "opportunity"
+        "B": "attribute",
+        "C": "attraction",
+        "D": "attrition"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -401,36 +402,36 @@
       "id": 34,
       "question": "What does 'sensitive' mean?",
       "options": {
-        "A": "Easily affected or upset",
+        "A": "Practical and realistic",
         "B": "Strong and resilient",
-        "C": "Practical and realistic",
+        "C": "Easily affected or upset",
         "D": "Original and creative"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 35,
       "question": "Which word means 'to discuss terms to reach an agreement'?",
       "options": {
-        "A": "convince",
+        "A": "navigate",
         "B": "negotiate",
-        "C": "expand",
-        "D": "maintain"
+        "C": "negativity",
+        "D": "negotiator"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 36,
-      "question": "The _____ of the company is based on innovation.",
+      "question": "The committee determined that there was insufficient _____ evidence to support the plaintiff's claim.",
       "options": {
-        "A": "tradition",
-        "B": "foundation",
-        "C": "structure",
-        "D": "network"
+        "A": "compulsory",
+        "B": "redundant",
+        "C": "spontaneous",
+        "D": "concrete"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -438,33 +439,33 @@
       "question": "She tried to _____ her parents to let her go to the concert.",
       "options": {
         "A": "convince",
-        "B": "negotiate",
-        "C": "expand",
-        "D": "maintain"
+        "B": "convict",
+        "C": "convert",
+        "D": "convenience"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 38,
-      "question": "What is the meaning of 'dignity'?",
+      "question": "What is the meaning of 'sense of pride and self-respect'?",
       "options": {
-        "A": "A sense of pride and self-respect",
-        "B": "A type of tradition",
-        "C": "A network of people",
-        "D": "An opportunity for success"
+        "A": "dignified",
+        "B": "dignify",
+        "C": "dignity",
+        "D": "digital"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 39,
       "question": "The _____ design of the building won several awards.",
       "options": {
-        "A": "practical",
-        "B": "sensitive",
+        "A": "originality",
+        "B": "ordinary",
         "C": "original",
-        "D": "conscious"
+        "D": "ordinal"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -473,10 +474,10 @@
       "id": 40,
       "question": "He built a strong _____ of professional contacts.",
       "options": {
-        "A": "tradition",
+        "A": "work",
         "B": "network",
-        "C": "structure",
-        "D": "foundation"
+        "C": "netting",
+        "D": "networking"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -488,7 +489,7 @@
         "A": "To explain the history of topographical mapping",
         "B": "To highlight the importance of GIS in modern mapping",
         "C": "To discuss the techniques and technologies used in topographical mapping",
-        "D": "To describe the challenges faced in mapping remote areas"
+        "D": "To describe the challenges faced in mapping remote areas in the morden world"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -548,7 +549,7 @@
         "A": "The creation of static maps",
         "B": "The storage, analysis, and visualization of spatial data",
         "C": "The elimination of fieldwork",
-        "D": "The measurement of elevation differences"
+        "D": "The measurement of elevation differences between the areas"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -572,7 +573,7 @@
         "A": "Makes it difficult to collect accurate data",
         "B": "Increases the cost of mapping",
         "C": "Requires more advanced technologies",
-        "D": "Limits the use of GIS"
+        "D": "Limits the use of GIS by raising its costs"
       },
       "correct_answer": "A",
       "category": "Reading"
@@ -596,7 +597,7 @@
         "A": "Critical",
         "B": "Persuasive",
         "C": "Informative",
-        "D": "Nostalgic"
+        "D": "Optimistic"
       },
       "correct_answer": "C",
       "category": "Reading"
