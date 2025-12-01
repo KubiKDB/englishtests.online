@@ -5,10 +5,10 @@
       "id": 1,
       "question": "Which verb form correctly completes the sentence? 'She _____ in this city since 2010.'",
       "options": {
-        "A": "lives",
+        "A": "lived",
         "B": "is living",
         "C": "has lived",
-        "D": "lived"
+        "D": "had lived"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -43,7 +43,7 @@
       "options": {
         "A": "If I will see him, I will tell him the news.",
         "B": "If I saw him, I would tell him the news.",
-        "C": "If I would see him, I would tell him the news.",
+        "C": "If I see him, I would tell him the news.",
         "D": "If I had seen him, I will tell him the news."
       },
       "correct_answer": "B",
@@ -68,7 +68,7 @@
         "A": "She explained carefully the procedure to us.",
         "B": "She carefully explained the procedure to us.",
         "C": "She explained the procedure carefully to us.",
-        "D": "She explained to us carefully the procedure."
+        "D": "She explained to the procedure us carefully ."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -80,7 +80,7 @@
         "A": "The quality of these products are excellent.",
         "B": "Each of the students have completed the assignment.",
         "C": "Neither of the options is suitable for our needs.",
-        "D": "The committee are divided on this issue."
+        "D": "The commitment were taken on this issue."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -103,10 +103,10 @@
       "options": {
         "A": "You must to attend the meeting tomorrow.",
         "B": "She could solving the problem without help.",
-        "C": "We might be late for the concert.",
-        "D": "They should to consider all options carefully."
+        "C": "They should to consider all options carefully.",
+        "D": "We might be late for the concert."
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -114,11 +114,11 @@
       "question": "Select the correct comparative form:",
       "options": {
         "A": "This book is more interesting than any book I've read.",
-        "B": "This book is more interesting than any other book I've read.",
+        "B": "This book is more interesting as the one I read last week.",
         "C": "This book is the more interesting of all books I've read.",
-        "D": "This book is interestinger than the one I read last week."
+        "D": "This book is more interesting than any other book I've read."
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -137,12 +137,12 @@
       "id": 12,
       "question": "Select the sentence with the correct use of the gerund:",
       "options": {
-        "A": "I enjoy to swim in the ocean.",
-        "B": "She suggested to go to the museum.",
+        "A": "I am enjoying to swim in the ocean.",
+        "B": "She is suggesting to go to the museum.",
         "C": "They admitted stealing the documents.",
-        "D": "We look forward to seeing you again."
+        "D": "We looking forward to seeing you again."
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -161,12 +161,12 @@
       "id": 14,
       "question": "Choose the correct form of the verb to complete the sentence: 'If I _____ the answer, I would tell you.'",
       "options": {
-        "A": "know",
-        "B": "knew",
+        "A": "knew",
+        "B": "know",
         "C": "have known",
         "D": "would know"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
@@ -186,23 +186,23 @@
       "question": "Choose the appropriate phrasal verb to complete the sentence: 'We need to _____ a solution to this problem quickly.'",
       "options": {
         "A": "come up with",
-        "B": "get over",
+        "B": "come up to",
         "C": "look into",
-        "D": "put off"
+        "D": "put up ith"
       },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 17,
-      "question": "Select the correct collocation: 'The company needs to _____ a decision soon.'",
+      "question": "Select the correct collocation: 'The company needs to _____ a decision soon regarding the merger.'",
       "options": {
-        "A": "do",
-        "B": "make",
-        "C": "take",
-        "D": "have"
+        "A": "reach",
+        "B": "achieve",
+        "C": "obtain",
+        "D": "gain"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Use of English"
     },
     {
@@ -234,23 +234,23 @@
       "question": "Choose the correct word to complete the idiom: 'The final decision is _____ to the manager.'",
       "options": {
         "A": "up",
-        "B": "down",
+        "B": "to",
         "C": "over",
-        "D": "along"
+        "D": "with"
       },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 21,
-      "question": "Select the correct linking expression: 'He didn't prepare for the presentation; _____, it was a disaster.'",
+      "question": "Select the incorrect linking expression: 'He didn't prepare for the presentation; _____, it was a disaster.'",
       "options": {
-        "A": "moreover",
+        "A": "therefore",
         "B": "consequently",
         "C": "nevertheless",
-        "D": "meanwhile"
+        "D": "so"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
@@ -281,19 +281,19 @@
       "id": 24,
       "question": "Choose the appropriate expression: 'After considering all options, we decided to _____ with the original plan.'",
       "options": {
-        "A": "go ahead",
+        "A": "step ahead",
         "B": "move along",
         "C": "push forward",
-        "D": "step ahead"
+        "D": "go ahead"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 25,
       "question": "Select the correct form of the word to complete the sentence: 'She made a _____ contribution to the project's success.'",
       "options": {
-        "A": "significance",
+        "A": "signifying",
         "B": "significantly",
         "C": "significant",
         "D": "signify"
@@ -307,46 +307,46 @@
       "options": {
         "A": "The interaction between the two chemicals caused an explosion.",
         "B": "She bought a new interaction for her living room.",
-        "C": "The teacher gave us an interaction about the upcoming exam.",
-        "D": "We need to interaction this document before submitting it."
+        "C": "The teacher gave us the interaction about the upcoming exam.",
+        "D": "We need to get the interaction of this document before submitting it."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 27,
-      "question": "Which statement best describes the meaning of 'eventual'?",
+      "question": "Which statement best describes the meaning of 'happening at the end or as a result'?",
       "options": {
-        "A": "Happening immediately",
-        "B": "Happening at the end or as a result",
-        "C": "Happening regularly",
-        "D": "Happening accidentally"
+        "A": "initial",
+        "B": "regular",
+        "C": "accidental",
+        "D": "eventual"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 28,
       "question": "Which sentence uses 'harmful' correctly?",
       "options": {
-        "A": "The harmful was held in the city center.",
+        "A": "The harmful meeting was held in the city center.",
         "B": "Excessive exposure to UV rays can be harmful to your skin.",
-        "C": "She made a harmful suggestion during the meeting.",
-        "D": "We need to harmful this information carefully."
+        "C": "She made a harmful suggestion during the meeting with her friends.",
+        "D": "We need to harmful this information carefully, otherwise it's dangerous."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 29,
-      "question": "What is 'rehabilitation' most commonly associated with?",
+      "question": "What is 'recovery process after injury or illness'?",
       "options": {
-        "A": "A type of exercise",
-        "B": "A recovery process after injury or illness",
-        "C": "A construction technique",
-        "D": "A type of entertainment"
+        "A": "exercising",
+        "B": "entertainment",
+        "C": "elaboration",
+        "D": "rehabilitation "
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -355,22 +355,22 @@
       "options": {
         "A": "She volunteered her time at the local shelter.",
         "B": "The volunteer was delicious at the restaurant.",
-        "C": "We need to volunteer this document before submitting it.",
-        "D": "I bought a new volunteer for my apartment."
+        "C": "We need to volunteer this stuff before using it.",
+        "D": "I found a new volunteer for my apartment."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 31,
-      "question": "Which of the following best describes a 'transformation'?",
+      "question": "Which of the following best describes a 'complete change in form or appearance'?",
       "options": {
-        "A": "A gradual decline",
-        "B": "A complete change in form or appearance",
-        "C": "A minor adjustment",
-        "D": "A temporary modification"
+        "A": "transportation",
+        "B": "transcription",
+        "C": "transformation",
+        "D": "modification"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -378,23 +378,23 @@
       "question": "Which sentence uses 'frustration' correctly?",
       "options": {
         "A": "She expressed frustration with the slow progress of the project.",
-        "B": "We bought a new frustration for the office.",
+        "B": "We planned to give the frustration a new chance next month.",
         "C": "The frustration was scheduled for Monday morning.",
-        "D": "He frustration the documents before the meeting."
+        "D": "His frustration was pleasant for the manager."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 33,
-      "question": "What does 'protocol' most commonly refer to?",
+      "question": "What does a 'set of rules or procedures' most commonly refer to?",
       "options": {
-        "A": "A type of medication",
-        "B": "A set of rules or procedures",
-        "C": "A scientific instrument",
-        "D": "A historical document"
+        "A": "promote",
+        "B": "protour",
+        "C": "prototype",
+        "D": "protocol"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -404,21 +404,21 @@
         "A": "She identical the problem during the meeting.",
         "B": "We need to identical this report by Friday.",
         "C": "The twins wore identical outfits to the party.",
-        "D": "The identical was very impressive."
+        "D": "The identical voice was very impressive."
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 35,
-      "question": "Which statement best describes an 'examination'?",
+      "question": "Which word best describes a 'formal test of knowledge or ability'?",
       "options": {
-        "A": "A casual conversation",
-        "B": "A formal test of knowledge or ability",
-        "C": "A quick glance",
-        "D": "A tool for measuring distance"
+        "A": "excitement",
+        "B": "exampling",
+        "C": "examination",
+        "D": "exaggeration"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -426,23 +426,23 @@
       "question": "Which sentence uses 'artificial' correctly?",
       "options": {
         "A": "The room was decorated with artificial flowers.",
-        "B": "We need to artificial this document before submitting it.",
-        "C": "She artificial the meeting to discuss the project.",
-        "D": "The artificial was scheduled for next week."
+        "B": "We need to artificial intelligence this letter.",
+        "C": "She artificially called the meeting for discussion.",
+        "D": "The artificial flowers blossomed twice a month."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 37,
-      "question": "What does 'objective' mean when used as a noun?",
+      "question": "What does 'goal or aim' mean when used as a noun?",
       "options": {
-        "A": "A lens in a camera or microscope",
-        "B": "A goal or aim",
-        "C": "A type of examination",
-        "D": "A person who observes"
+        "A": "object",
+        "B": "objection",
+        "C": "objective",
+        "D": "injection"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -451,7 +451,7 @@
       "options": {
         "A": "We preparation the meeting room for the conference.",
         "B": "Proper preparation is essential for success in the exam.",
-        "C": "She preparation to leave early tomorrow.",
+        "C": "Her preparation before leaving the room was brilliant.",
         "D": "The preparation was very tall and impressive."
       },
       "correct_answer": "B",
@@ -459,14 +459,14 @@
     },
     {
       "id": 39,
-      "question": "Which statement best describes a 'limitation'?",
+      "question": "Which statement best describes a 'restriction or boundary'?",
       "options": {
-        "A": "A special ability",
-        "B": "A restriction or boundary",
-        "C": "An expansion or growth",
-        "D": "A type of celebration"
+        "A": "limitness",
+        "B": "limitless",
+        "C": "mitigation",
+        "D": "limitation"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -474,9 +474,9 @@
       "question": "Which sentence uses 'expansion' correctly?",
       "options": {
         "A": "The company is planning an expansion into new markets.",
-        "B": "She expansion the problem during the meeting.",
-        "C": "We expansion the document before submitting it.",
-        "D": "The expansion was delicious at the restaurant."
+        "B": "She expansioned the problem during the meeting.",
+        "C": "Our expansion to the new office was fast.",
+        "D": "The expansion was great despite its limited action."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -486,9 +486,9 @@
       "question": "According to paragraph 1, how has scientific understanding of aging changed?",
       "options": {
         "A": "Aging is now considered a purely psychological process",
-        "B": "Aging has been proven to be completely preventable",
+        "B": "Aging has been proven to be completely preventable in the upcoming decades",
         "C": "Aging is now viewed as a complex biological phenomenon that may be modifiable",
-        "D": "Scientists have discovered that aging affects only certain organisms"
+        "D": "Scientists have discovered that aging affects only certain organisms besides humans"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -512,7 +512,7 @@
         "A": "They become longer with each cell division",
         "B": "They remain unchanged throughout life",
         "C": "They become critically short after repeated cell divisions",
-        "D": "They cause inflammation in body tissues"
+        "D": "They cause inflammation in body tissues that lead to diminishing"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -524,7 +524,7 @@
         "A": "A type of dietary supplement",
         "B": "The total length of a person's life",
         "C": "The period of life spent in good health",
-        "D": "A measurement of physical fitness"
+        "D": "A measurement of human physical fitness"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -545,8 +545,8 @@
       "id": 46,
       "question": "According to paragraph 4, what is unique about the current clinical trials for compounds like rapamycin and metformin?",
       "options": {
-        "A": "They are designed to target fundamental aging processes rather than specific diseases",
-        "B": "They are only being tested on animals",
+        "A": "They are designed to target fundamental aging processes",
+        "B": "They are only being tested on animals and plants",
         "C": "They are focused exclusively on treating cancer",
         "D": "They are only available to wealthy individuals"
       },
@@ -557,7 +557,7 @@
       "id": 47,
       "question": "The term 'compress morbidity' in paragraph 5 most likely refers to:",
       "options": {
-        "A": "Treating individual diseases more effectively",
+        "A": "Treating individual diseases more effectively than the public ones",
         "B": "Reducing the period of disability and disease at the end of life",
         "C": "Extending total lifespan regardless of health quality",
         "D": "Developing more effective medications"
@@ -572,7 +572,7 @@
         "A": "To make people live forever",
         "B": "To prevent all age-related diseases",
         "C": "To extend healthy, functional years of life",
-        "D": "To reverse the aging process completely"
+        "D": "To reverse the animal aging process completely"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -583,10 +583,10 @@
       "options": {
         "A": "It has made little progress in recent decades",
         "B": "It focuses primarily on cosmetic aspects of aging",
-        "C": "It has moved from description to active intervention development",
-        "D": "It is primarily concerned with radical life extension"
+        "C": "It is primarily concerned with radical life extension",
+        "D": "It has moved from description to active intervention development"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
