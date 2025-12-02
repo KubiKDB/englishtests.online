@@ -18,7 +18,7 @@
       "question": "Select the grammatically correct sentence:",
       "options": {
         "A": "Neither the teachers nor the principal were informed about the changes.",
-        "B": "Neither the teachers nor the principal was informed about the changes.",
+        "B": "Neither the teachers nor the principal had been informed about the changes.",
         "C": "Neither the teachers nor the principal have been informed about the changes.",
         "D": "Neither the teachers nor the principal has been informed about the changes."
       },
@@ -32,7 +32,7 @@
         "A": "was working",
         "B": "had been working",
         "C": "have worked",
-        "D": "worked"
+        "D": "have been worked"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -42,7 +42,7 @@
       "question": "Choose the correct passive form: 'Someone will deliver the package tomorrow.'",
       "options": {
         "A": "The package delivers tomorrow.",
-        "B": "The package will deliver tomorrow.",
+        "B": "The package will be delivering tomorrow.",
         "C": "The package will be delivered tomorrow.",
         "D": "The package is delivered tomorrow."
       },
@@ -78,11 +78,11 @@
       "question": "Choose the correct form: 'I wish I _____ to the party last night.'",
       "options": {
         "A": "went",
-        "B": "had gone",
-        "C": "have gone",
+        "B": "have gone",
+        "C": "had gone",
         "D": "would go"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -125,12 +125,12 @@
       "id": 11,
       "question": "Select the sentence with the correct use of the infinitive:",
       "options": {
-        "A": "She advised him going to the doctor.",
-        "B": "She advised him to go to the doctor.",
-        "C": "She advised him that he goes to the doctor.",
-        "D": "She advised him go to the doctor."
+        "A": "She advised him that he goes to the doctor.",
+        "B": "She advised him go to the doctor.",
+        "C": "She advised him to go to the doctor.",
+        "D": "She advised him going to the doctor."
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -161,22 +161,22 @@
       "id": 14,
       "question": "Select the sentence with the correct form of the gerund:",
       "options": {
-        "A": "She enjoys to swim in the ocean.",
+        "A": "She enjoys to swimming in the ocean.",
         "B": "She enjoys swimming in the ocean.",
-        "C": "She enjoys swim in the ocean.",
-        "D": "She enjoys that she swims in the ocean."
+        "C": "She enjoying to swim in the ocean.",
+        "D": "She enjoys that she is swimming in the ocean."
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 15,
-      "question": "Which sentence contains a modal verb used correctly?",
+      "question": "Which sentence is correct?",
       "options": {
-        "A": "You mustn't be tired after such a long journey.",
+        "A": "You must be tired after such a long journey.",
         "B": "You can't be tired after such a long journey.",
-        "C": "You shouldn't be tired after such a long journey.",
-        "D": "You may not be tired after such a long journey."
+        "C": "You is not be tired after such a long journey.",
+        "D": "You maybe tired after such a long journey."
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -185,12 +185,12 @@
       "id": 16,
       "question": "Choose the appropriate phrasal verb to complete this sentence: 'We need to _____ a solution before the deadline.'",
       "options": {
-        "A": "come up with",
-        "B": "come across",
-        "C": "come around to",
-        "D": "come down with"
+        "A": "have up with",
+        "B": "take up with",
+        "C": "make up with",
+        "D": "come up with"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -209,7 +209,7 @@
       "id": 18,
       "question": "Choose the correct collocation: 'The government needs to _____ immediate action to address climate change.'",
       "options": {
-        "A": "do",
+        "A": "proceed",
         "B": "make",
         "C": "take",
         "D": "have"
@@ -223,7 +223,7 @@
       "options": {
         "A": "don't",
         "B": "didn't",
-        "C": "won't",
+        "C": "haven't",
         "D": "not"
       },
       "correct_answer": "B",
@@ -267,14 +267,14 @@
     },
     {
       "id": 23,
-      "question": "Select the correct expression to complete the sentence: 'The company decided to _____ the launch of their new product due to technical issues.'",
+      "question": "The company decided to _____ the launch of their new product due to technical issues.",
       "options": {
-        "A": "put away",
-        "B": "put down",
-        "C": "put off",
-        "D": "put out"
+        "A": "call in",
+        "B": "hold over",
+        "C": "break off",
+        "D": "come up"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
@@ -283,7 +283,7 @@
       "options": {
         "A": "take on",
         "B": "take up",
-        "C": "take after",
+        "C": "take off",
         "D": "take in"
       },
       "correct_answer": "B",
@@ -296,7 +296,7 @@
         "A": "in",
         "B": "with",
         "C": "under",
-        "D": "through"
+        "D": "on"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -318,9 +318,9 @@
       "question": "Which sentence uses 'preservation' correctly?",
       "options": {
         "A": "The company made a preservation to expand its operations.",
-        "B": "They built a preservation in the center of the city.",
+        "B": "They built a preservation in the center of the city after getting a permisssion.",
         "C": "The preservation of historical buildings is important for cultural heritage.",
-        "D": "She received a preservation from her boss last week."
+        "D": "She booked a preservation at the best restaurant in the city of London."
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -329,24 +329,24 @@
       "id": 28,
       "question": "What does 'instruction' mean in the following sentence? 'The new employees received detailed instruction on how to use the equipment.'",
       "options": {
-        "A": "A formal order",
-        "B": "Teaching or training",
-        "C": "A written manual",
-        "D": "A verbal warning"
+        "A": "Transition",
+        "B": "Training",
+        "C": "Tradition",
+        "D": "Transcription"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 29,
-      "question": "Which of the following is the best definition of 'influential'?",
+      "question": "Which of the following is the best word for 'having the power to affect someone's actions or opinions'?",
       "options": {
-        "A": "Having the power to influence or affect someone's actions or opinions",
-        "B": "Being financially successful",
-        "C": "Physically strong or imposing",
-        "D": "Speaking with authority and conviction"
+        "A": "Infected",
+        "B": "Improper",
+        "C": "Imposing",
+        "D": "Influential"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -356,7 +356,7 @@
         "A": "The company made a suggestion of $10,000 to the charity.",
         "B": "Her suggestion to improve the process was implemented by management.",
         "C": "They built a new suggestion in the industrial park.",
-        "D": "The committee approved the suggestion of the new road."
+        "D": "The committee approved the suggestion of the new road between the cities."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -366,9 +366,9 @@
       "question": "What is the meaning of 'priority' in the sentence 'Healthcare and education should be the government's top priorities'?",
       "options": {
         "A": "Something that is less important than other things",
-        "B": "Something that is dealt with or given attention before other things",
-        "C": "A legal requirement or obligation",
-        "D": "A temporary solution to a problem"
+        "B": "Something that is given attention before other things",
+        "C": "A legal requirement or obligation for better education",
+        "D": "A temporary solution to the problem discussed prior to the decision"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -378,21 +378,21 @@
       "question": "Which sentence uses 'impression' correctly?",
       "options": {
         "A": "The company made a new impression last year.",
-        "B": "His first impression of the city was very positive.",
-        "C": "They built an impression near the river.",
-        "D": "She received an impression from her colleague."
+        "B": "She received an good impression from her colleague.",
+        "C": "Their impression was perceived with great inthusiasm.",
+        "D": "His first impression of the city was very positive."
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 33,
       "question": "What does 'negotiation' mean in the following context? 'After months of negotiation, the two companies finally reached an agreement.'",
       "options": {
-        "A": "A formal investigation",
-        "B": "A legal dispute",
-        "C": "Discussion aimed at reaching an agreement",
-        "D": "A competitive presentation"
+        "A": "Investigation on an agreement",
+        "B": "Dispute over an agreement",
+        "C": "Discussion about an agreement",
+        "D": "Presentation of an agreement"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -415,32 +415,32 @@
       "options": {
         "A": "The store offers a wide variety of products.",
         "B": "She made a variety about her future plans.",
-        "C": "They built a new variety in the shopping center.",
-        "D": "He received a variety from his manager."
+        "C": "They built a new variety of products in the shopping center.",
+        "D": "He received a variety of messages from his manager last week."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 36,
-      "question": "What is the correct definition of 'revolution'?",
+      "question": "What is the correct word for 'sudden, often small-scale, illegal seizure of power'?",
       "options": {
-        "A": "A gradual change over a long period",
-        "B": "A forcible overthrow of a government or social order in favor of a new system",
-        "C": "A formal agreement between countries",
-        "D": "A scientific theory that has been proven correct"
+        "A": "Couple",
+        "B": "Soup",
+        "C": "Cup",
+        "D": "Coup"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 37,
       "question": "Which sentence uses 'genuine' correctly?",
       "options": {
-        "A": "The company announced a genuine increase in prices.",
+        "A": "The genuine company announced an increase in prices.",
         "B": "They built a genuine facility for research and development.",
         "C": "Her concerns about the project were genuine and well-founded.",
-        "D": "The committee made a genuine about the new policy."
+        "D": "The committee made a genuine suggestion about the new policy fighting poverty."
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -449,10 +449,10 @@
       "id": 38,
       "question": "What does 'motivation' mean in the following sentence? 'Financial gain was not his primary motivation for starting the business.'",
       "options": {
-        "A": "A reason or reasons for acting in a particular way",
-        "B": "A formal qualification or degree",
-        "C": "A feeling of disappointment or frustration",
-        "D": "A legal obligation or requirement"
+        "A": "A reason for acting",
+        "B": "A formal qualification",
+        "C": "A feeling of disappointment",
+        "D": "A legal obligation"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -461,10 +461,10 @@
       "id": 39,
       "question": "In which sentence is 'reduction' used correctly?",
       "options": {
-        "A": "The company made a reduction to expand its operations.",
-        "B": "There has been a significant reduction in air pollution over the last decade.",
-        "C": "They received a reduction from the government.",
-        "D": "She built a reduction in her garden."
+        "A": "The company made a deep reduction to expand its operations.",
+        "B": "There was a significant reduction in air pollution.",
+        "C": "They received a high reduction from the government.",
+        "D": "She built a reduction wall in her garden."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -473,8 +473,8 @@
       "id": 40,
       "question": "What is the best definition of 'calculation'?",
       "options": {
-        "A": "A mathematical determination of quantity or number",
-        "B": "A formal request or application",
+        "A": "A mathematical determination of quantity",
+        "B": "A formal request for application",
         "C": "A legal document or certificate",
         "D": "A verbal explanation or description"
       },
@@ -511,7 +511,7 @@
       "options": {
         "A": "Stalactites",
         "B": "Stalagmites",
-        "C": "Flowstones",
+        "C": "Flow stones",
         "D": "Sandstone arches"
       },
       "correct_answer": "D",
@@ -521,8 +521,8 @@
       "id": 44,
       "question": "The word 'percolates' in paragraph 2 is closest in meaning to:",
       "options": {
-        "A": "evaporates",
-        "B": "filters or seeps gradually",
+        "A": "evaporates slowly",
+        "B": "filters gradually",
         "C": "moves quickly",
         "D": "dissolves completely"
       },
@@ -533,7 +533,7 @@
       "id": 45,
       "question": "Based on paragraph 4, which adaptation is typical of cave-dwelling species?",
       "options": {
-        "A": "Enhanced visual abilities",
+        "A": "Enhanced eyes and ears",
         "B": "Reduced or absent eyes",
         "C": "Darker pigmentation",
         "D": "Shorter lifespans"
@@ -546,7 +546,7 @@
       "question": "According to paragraph 4, what are the main sources of energy in cave ecosystems?",
       "options": {
         "A": "Photosynthesis from specialized plants",
-        "B": "Organic material from the surface and animals like bats",
+        "B": "Organic material from the surface",
         "C": "Minerals dissolved in groundwater",
         "D": "Thermal energy from the Earth's core"
       },
@@ -570,11 +570,11 @@
       "question": "Which of the following threats to cave systems is mentioned in paragraph 5?",
       "options": {
         "A": "Mining for rare minerals",
-        "B": "Excessive tourism",
+        "B": "Military activities",
         "C": "Underground construction",
-        "D": "Military activities"
+        "D": "Excessive tourism"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -594,9 +594,9 @@
       "question": "According to the passage, caves have served humans throughout history as:",
       "options": {
         "A": "Sources of precious metals",
-        "B": "Agricultural sites",
+        "B": "Agricultural sites and fields",
         "C": "Shelters and ceremonial spaces",
-        "D": "Transportation networks"
+        "D": "Transportation networks and roads"
       },
       "correct_answer": "C",
       "category": "Reading"
