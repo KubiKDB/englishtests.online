@@ -15,24 +15,24 @@
     },
     {
       "id": 2,
-      "question": "Choose the correct relative pronoun: The book _____ I borrowed from the library was very interesting.",
+      "question": "Choose the correct relative pronoun: The uber _____ I took yesterday was very comfortable.",
       "options": {
-        "A": "who",
-        "B": "whom",
+        "A": "what",
+        "B": "that",
         "C": "which",
-        "D": "whose"
+        "D": "when"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 3,
-      "question": "Select the correct conditional form: If it _____ tomorrow, we will cancel the picnic.",
+      "question": "If the company had anticipated the global supply chain issues, they ______ the necessary raw materials months ago.",
       "options": {
-        "A": "will rain",
-        "B": "rains",
-        "C": "would rain",
-        "D": "had rained"
+        "A": "will have ordered",
+        "B": "would have ordered",
+        "C": "would order",
+        "D": "would had ordered"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -43,8 +43,8 @@
       "options": {
         "A": "was completed",
         "B": "has completed",
-        "C": "is completed",
-        "D": "completes"
+        "C": "has been completed",
+        "D": "completed"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -55,8 +55,8 @@
       "options": {
         "A": "He is best student in class.",
         "B": "She plays the piano for an hour every day.",
-        "C": "We went to a Europe last summer.",
-        "D": "They live in the France."
+        "C": "We went to a Europe last summer vacation.",
+        "D": "They live in the France, the charming country."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -125,7 +125,7 @@
       "id": 11,
       "question": "Which sentence has the correct subject-verb agreement?",
       "options": {
-        "A": "The number of participants were higher than expected.",
+        "A": "The number of test takers were lower than expected.",
         "B": "Neither of the students have submitted their assignments.",
         "C": "Economics are my favorite subject.",
         "D": "The quality of these products has improved significantly."
@@ -140,7 +140,7 @@
         "A": "were walking",
         "B": "walked",
         "C": "had been walking",
-        "D": "have walked"
+        "D": "have been walking"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -161,9 +161,9 @@
       "id": 14,
       "question": "Which sentence has the correct use of gerund?",
       "options": {
-        "A": "I look forward to hear from you soon.",
-        "B": "She enjoys to read novels in her free time.",
-        "C": "They admitted stealing the documents.",
+        "A": "I looking forward to hear from you soon.",
+        "B": "She enjoys to reading novels in her free time.",
+        "C": "They admitted editing the documents.",
         "D": "We discussed about joining the club."
       },
       "correct_answer": "C",
@@ -188,33 +188,33 @@
         "A": "effect",
         "B": "action",
         "C": "result",
-        "D": "conclusion"
+        "D": "affect"
       },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 17,
-      "question": "Choose the correct phrasal verb: The meeting has been _____ until next week.",
+     "question": "The company decided to _____ the new product line after internal projections showed insufficient market interest.",
       "options": {
-        "A": "put off",
-        "B": "put down",
-        "C": "put up",
-        "D": "put away"
+        "A": "phase out",
+        "B": "bring about",
+        "C": "turn up",
+        "D": "get round to"
       },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 18,
-      "question": "Select the appropriate idiom: After the scandal, his reputation was _____ .",
+      "question": "Complete the sentence with the appropriate idiom: 'We planned a surprise party for Sarah, but her brother accidentally _____ before the guests arrived.'",
       "options": {
-        "A": "on cloud nine",
-        "B": "in hot water",
-        "C": "in the red",
-        "D": "in tatters"
+        "A": "took the cake",
+        "B": "spilled the beans",
+        "C": "hit the nail on the head",
+        "D": "turned over a new leaf"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
@@ -257,12 +257,12 @@
       "id": 22,
       "question": "Select the correct form: The government needs to _____ the growing environmental concerns.",
       "options": {
-        "A": "address",
-        "B": "direct",
-        "C": "approach",
-        "D": "speak"
+        "A": "access",
+        "B": "accept",
+        "C": "assess",
+        "D": "address"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -303,24 +303,24 @@
     },
     {
       "id": 26,
-      "question": "Choose the synonym for 'connection':",
+      "question": "Choose the synonym for 'linking':",
       "options": {
         "A": "separation",
-        "B": "link",
+        "B": "consensus",
         "C": "diversion",
-        "D": "disagreement"
+        "D": "connection"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 27,
-      "question": "What is the best definition of 'psychology'?",
+      "question": "What is the best word for 'the study of human behavior and mental processes'?",
       "options": {
-        "A": "The study of ancient civilizations",
-        "B": "The science of plant life",
-        "C": "The study of human behavior and mental processes",
-        "D": "The practice of physical exercise"
+        "A": "economics",
+        "B": "anthropology",
+        "C": "psychology",
+        "D": "sociology"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -330,9 +330,9 @@
       "question": "Which sentence uses the word 'penalize' correctly?",
       "options": {
         "A": "The teacher will penalize students who submit their assignments late.",
-        "B": "The chef will penalize the dish with extra spices.",
-        "C": "The artist will penalize the painting with bright colors.",
-        "D": "The doctor will penalize the patient with vitamin supplements."
+        "B": "The new financial report will penalize the company's future strategy.",
+        "C": "To achieve success, the athlete must penalize his training schedule daily.",
+        "D": "The architect chose to penalize the building with ornate stone carvings."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -341,9 +341,9 @@
       "id": 29,
       "question": "Select the antonym for 'conscious':",
       "options": {
-        "A": "aware",
+        "A": "unwilling",
         "B": "vigilant",
-        "C": "unconscious",
+        "C": "unaware",
         "D": "attentive"
       },
       "correct_answer": "C",
@@ -363,48 +363,48 @@
     },
     {
       "id": 31,
-      "question": "Choose the correct meaning of 'consultation':",
+      "question": "Choose the correct meaning of a 'meeting for discussion or advice':",
       "options": {
-        "A": "A meeting for discussion or advice",
-        "B": "A formal celebration",
-        "C": "A written complaint",
-        "D": "A public announcement"
+        "A": "construct",
+        "B": "constitution",
+        "C": "constance",
+        "D": "consultation"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 32,
-      "question": "What does 'exclusive' mean in the context of a product?",
+      "question": "What does 'limited to a particular group' mean in the context of a product?",
       "options": {
-        "A": "Affordable to most people",
-        "B": "Limited to a particular group",
-        "C": "Easy to obtain",
-        "D": "Low quality"
+        "A": "excavation",
+        "B": "excerpt",
+        "C": "exclusive",
+        "D": "excellent"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 33,
       "question": "Select the word that best completes this sentence: The documentary about deep-sea creatures was truly _____.",
       "options": {
-        "A": "boring",
-        "B": "ordinary",
+        "A": "fashionable",
+        "B": "fascinated",
         "C": "fascinating",
-        "D": "confusing"
+        "D": "forgoing"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 34,
-      "question": "What is a 'violation' in legal terms?",
+      "question": "What is a 'breach of law or rule' in legal terms?",
       "options": {
-        "A": "A formal agreement",
-        "B": "A breach of law or rule",
-        "C": "A written permission",
-        "D": "A courtroom procedure"
+        "A": "violin",
+        "B": "violation",
+        "C": "violity",
+        "D": "viable"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -427,8 +427,8 @@
       "options": {
         "A": "Careless",
         "B": "Reckless",
-        "C": "Careful and vigilant",
-        "D": "Bold and daring"
+        "C": "Careful",
+        "D": "Bold"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -500,7 +500,7 @@
         "A": "Have better climate conditions",
         "B": "Attract more tourists",
         "C": "Have reduced transportation costs",
-        "D": "Possess more natural resources"
+        "D": "Possess more natural resources then others"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -523,7 +523,7 @@
       "options": {
         "A": "Only provide economic benefits",
         "B": "Create both opportunities and vulnerabilities",
-        "C": "Always lead to economic stability",
+        "C": "Always lead to economic stability and prosperity",
         "D": "Prevent participation in global markets"
       },
       "correct_answer": "B",
@@ -581,7 +581,7 @@
       "id": 49,
       "question": "Which of the following factors does the passage suggest can sometimes outweigh geographic disadvantages?",
       "options": {
-        "A": "Religious traditions",
+        "A": "Religious beliefs and traditions",
         "B": "Agricultural productivity",
         "C": "Human capital and technology",
         "D": "Historical conflicts"
@@ -593,7 +593,7 @@
       "id": 50,
       "question": "The passage implies that the relationship between geography and economic prosperity is:",
       "options": {
-        "A": "No longer relevant in the modern economy",
+        "A": "No longer that relevant in the modern economy",
         "B": "Important but not the sole determining factor",
         "C": "Only significant for developing countries",
         "D": "Primarily related to transportation routes"
