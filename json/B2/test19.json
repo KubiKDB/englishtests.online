@@ -6,11 +6,11 @@
       "question": "Which form correctly completes the sentence? After she ___ her education, she plans to work abroad.",
       "options": {
         "A": "will complete",
-        "B": "completes",
-        "C": "is completing",
+        "B": "is completied",
+        "C": "completes",
         "D": "would complete"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -20,7 +20,7 @@
         "A": "Neither the students nor the teacher were able to solve the problem.",
         "B": "Neither the students nor the teacher was able to solve the problem.",
         "C": "Neither the students nor the teacher are able to solve the problem.",
-        "D": "Neither the students nor the teacher is able to solve the problem."
+        "D": "Neither the students nor the teacher have able to solve the problem."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -30,11 +30,11 @@
       "question": "Choose the correct form to complete the sentence: If I ___ earlier, I wouldn't have missed the bus.",
       "options": {
         "A": "would wake up",
-        "B": "had woken up",
+        "B": "have woken up",
         "C": "woke up",
-        "D": "have woken up"
+        "D": "had woken up"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -68,7 +68,7 @@
         "A": "She said that she is studying now.",
         "B": "She said that she was studying then.",
         "C": "She said that she studied then.",
-        "D": "She said that she has been studying then."
+        "D": "She said that she had been studying then."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -78,7 +78,7 @@
       "question": "Which sentence uses the present perfect correctly?",
       "options": {
         "A": "I have seen that movie last week.",
-        "B": "I have seen that movie since last week.",
+        "B": "I have seen that movie for last week.",
         "C": "I have seen that movie yesterday.",
         "D": "I have seen that movie three times so far."
       },
@@ -104,7 +104,7 @@
         "A": "The honesty is best policy.",
         "B": "Honesty is best policy.",
         "C": "Honesty is the best policy.",
-        "D": "A honesty is best policy."
+        "D": "An honesty is best policy."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -115,7 +115,7 @@
       "options": {
         "A": "You should to visit your grandparents soon.",
         "B": "You must visiting your grandparents soon.",
-        "C": "You ought visit your grandparents soon.",
+        "C": "You ought too visit your grandparents soon.",
         "D": "You might want to visit your grandparents soon."
       },
       "correct_answer": "D",
@@ -125,9 +125,9 @@
       "id": 11,
       "question": "Select the correct use of the future perfect tense:",
       "options": {
-        "A": "By next month, I will finishing the project.",
+        "A": "By next month, I will be finishing the project.",
         "B": "By next month, I will have finished the project.",
-        "C": "By next month, I have finished the project.",
+        "C": "By next month, I will had finished the project.",
         "D": "By next month, I will finished the project."
       },
       "correct_answer": "B",
@@ -138,7 +138,7 @@
       "question": "Which sentence uses the correct comparative form?",
       "options": {
         "A": "This exercise is more easier than the previous one.",
-        "B": "This exercise is easyer than the previous one.",
+        "B": "This exercise is  much easyer than the previous one.",
         "C": "This exercise is more easy than the previous one.",
         "D": "This exercise is easier than the previous one."
       },
@@ -161,10 +161,10 @@
       "id": 14,
       "question": "Select the sentence with the correct subject-verb agreement:",
       "options": {
-        "A": "The committee have made their decision.",
-        "B": "The committee has made their decision.",
-        "C": "The committee has made its decision.",
-        "D": "The committee have made its decision."
+        "A": "The party have made their decision.",
+        "B": "The party has made their decision.",
+        "C": "The party has made its decision.",
+        "D": "The party have made its decision."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -195,26 +195,26 @@
     },
     {
       "id": 17,
-      "question": "Select the correct phrasal verb: The meeting has been _____ until next week.",
-      "options": {
-        "A": "put away",
-        "B": "put down",
-        "C": "put off",
-        "D": "put up"
+      "question": "Complete the sentence with the most appropriate linking word: 'The study was inconclusive; _____, the researchers decided to conduct further trials.'",
+      "options": {
+        "A": "despite of this",
+        "B": "nevertheless",
+        "C": "consequently",
+        "D": "due to"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 18,
       "question": "Choose the correct collocation: She _____ a deep breath before diving into the pool.",
       "options": {
-        "A": "made",
-        "B": "took",
-        "C": "did",
-        "D": "had"
+        "A": "cook",
+        "B": "book",
+        "C": "look",
+        "D": "took"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -255,7 +255,7 @@
     },
     {
       "id": 22,
-      "question": "Choose the best word to replace 'said' in the sentence: 'This is unacceptable,' he said angrily.",
+      "question": "Choose the best word to replace 'said' in the sentence: 'This is unacceptable!' he said angrily.",
       "options": {
         "A": "shouted",
         "B": "whispered",
@@ -272,7 +272,7 @@
         "A": "diverse",
         "B": "diversity",
         "C": "diversify",
-        "D": "diversification"
+        "D": "diversificate"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -282,7 +282,7 @@
       "question": "Choose the best linking word: She studied hard for the exam; _____, she failed.",
       "options": {
         "A": "therefore",
-        "B": "nevertheless",
+        "B": "yet",
         "C": "moreover",
         "D": "consequently"
       },
@@ -291,7 +291,7 @@
     },
     {
       "id": 25,
-      "question": "Select the correct formal alternative for the underlined phrase: The project team needs to finish the report as soon as possible.",
+      "question": "Select the correct formal alternative for the phrase: The project team needs to finish the report as soon as possible.",
       "options": {
         "A": "at the earliest convenience",
         "B": "when they feel like it",
@@ -365,9 +365,9 @@
       "id": 31,
       "question": "Which is the best definition of 'defensive' as used in the sentence: 'He became defensive when his ideas were criticized'?",
       "options": {
-        "A": "Protecting against attack",
-        "B": "Related to sports defense",
-        "C": "Reacting to perceived criticism",
+        "A": "Protecting against brutal attacks",
+        "B": "Related to football defense",
+        "C": "Negative to perceived criticism",
         "D": "Hesitant to take action"
       },
       "correct_answer": "C",
@@ -390,7 +390,7 @@
       "question": "What does 'penalty' mean in this context: 'There's a penalty for early withdrawal from the savings account'?",
       "options": {
         "A": "A punishment in sports",
-        "B": "A fee or financial loss",
+        "B": "A financial loss",
         "C": "A legal sentence",
         "D": "An additional task"
       },
@@ -403,7 +403,7 @@
       "options": {
         "A": "The enthusiastic for the project has diminished over time.",
         "B": "She showed enthusiastic at the concert by cheering loudly.",
-        "C": "The team was enthusiastic about the new strategy.",
+        "C": "The team was enthusiastic about the new company's strategy.",
         "D": "They enthusiastic supported the candidate during elections."
       },
       "correct_answer": "C",
@@ -423,14 +423,14 @@
     },
     {
       "id": 36,
-      "question": "What is the most accurate definition of 'economics'?",
+      "question": "What is the most accurate word for 'the science of production, distribution, and consumption of goods and services'?",
       "options": {
-        "A": "The study of money management by individuals",
-        "B": "The process of saving money for future use",
-        "C": "The science of production, distribution, and consumption of goods and services",
-        "D": "The system of balancing income and expenses"
+        "A": "politics",
+        "B": "policy",
+        "C": "economy",
+        "D": "economics"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -452,7 +452,7 @@
         "A": "Translation from one language to another",
         "B": "Explanation or understanding of something",
         "C": "Performance of a musical or dramatic work",
-        "D": "Legal ruling on a specific case"
+        "D": "Legal ruling or governing on a specific case"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -463,10 +463,10 @@
       "options": {
         "A": "She was curious why he didn't call.",
         "B": "The curious of the cat led it into trouble.",
-        "C": "The scientist was curious about the unexpected results.",
-        "D": "Children are naturally curious to learn."
+        "C": "Children are naturally curious to learn new things.",
+        "D": "The scientist was curious about the unexpected results."
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -487,46 +487,46 @@
       "options": {
         "A": "The presence of indigenous populations",
         "B": "Scientific research stations",
-        "C": "Extreme cold and seasonal daylight variations",
-        "D": "Political boundaries established by treaties"
+        "C": "Political boundaries established by treaties",
+        "D": "Extreme cold and seasonal daylight variations"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
       "id": 42,
       "question": "Which adaptation is NOT mentioned in the passage as a survival strategy for polar animals?",
       "options": {
-        "A": "Thick layers of fat",
+        "A": "Hibernation during winter",
         "B": "Specialized fur",
-        "C": "Hibernation during winter",
+        "C": "Thick layers of fat",
         "D": "Ability to withstand food scarcity"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Reading"
     },
     {
       "id": 43,
       "question": "What is a key difference between the Arctic and Antarctic regions regarding human presence?",
       "options": {
-        "A": "The Arctic has more scientific research stations",
-        "B": "The Antarctic has more tourism",
-        "C": "The Arctic has indigenous communities while Antarctica does not",
-        "D": "Antarctica has permanent settlements while the Arctic does not"
+        "A": "The Antarctic has more tourism",
+        "B": "The Arctic has more scientific research stations",
+        "C": "Antarctica has permanent settlements while the Arctic does not",
+        "D": "The Arctic has indigenous communities while Antarctica does not"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
       "id": 44,
       "question": "According to paragraph 4, what consequence of ice melting in the Arctic is creating geopolitical tensions?",
       "options": {
-        "A": "Rising sea levels threatening coastal nations",
-        "B": "Access to previously unreachable natural resources",
+        "A": "Access to previously unreachable natural resources",
+        "B": "Rising sea levels threatening coastal nations",
         "C": "Disruption of traditional indigenous lifestyles",
-        "D": "Increased military presence in the region"
+        "D": "Increased military presence in the region recently"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Reading"
     },
     {
@@ -547,7 +547,7 @@
       "options": {
         "A": "The Polar Regions are being destroyed by climate change",
         "B": "Scientists are racing to understand polar environments before they disappear",
-        "C": "The Polar Regions have unique characteristics, face environmental challenges, and are important for scientific research",
+        "C": "The Polar Regions have unique characteristics and face environmental challenges",
         "D": "Indigenous populations in Arctic regions have developed remarkable survival techniques"
       },
       "correct_answer": "C",
@@ -557,19 +557,19 @@
       "id": 47,
       "question": "Based on the passage, how do polar plants adapt to their environment?",
       "options": {
-        "A": "By growing tall to capture maximum sunlight",
+        "A": "By growing low to avoid harsh winds",
         "B": "By developing thick bark to protect against cold",
-        "C": "By growing low to avoid harsh winds",
+        "C": "By growing tall to capture maximum sunlight",
         "D": "By producing bright flowers to attract pollinators"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Reading"
     },
     {
       "id": 48,
       "question": "What can be inferred about the Antarctic Treaty System from the passage?",
       "options": {
-        "A": "It is completely effective at protecting Antarctica",
+        "A": "It is completely effective at protecting Antarctica from melting",
         "B": "It is facing challenges from commercial and political pressures",
         "C": "It was recently established in response to climate change",
         "D": "It prevents all human activity in Antarctica"
@@ -581,8 +581,8 @@
       "id": 49,
       "question": "The word 'unprecedented' in paragraph 4 most nearly means:",
       "options": {
-        "A": "expected",
-        "B": "insignificant",
+        "A": "as previously expected",
+        "B": "insignificant in their terms",
         "C": "never experienced before",
         "D": "temporary"
       },
