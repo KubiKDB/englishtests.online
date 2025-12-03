@@ -5,7 +5,7 @@
       "id": 1,
       "question": "Which tense is used in the sentence: 'She has been studying English for three years.'?",
       "options": {
-        "A": "Present simple",
+        "A": "Past perfect continuous",
         "B": "Present continuous",
         "C": "Present perfect",
         "D": "Present perfect continuous"
@@ -15,26 +15,26 @@
     },
     {
       "id": 2,
-      "question": "Choose the correct option: 'If it _____ tomorrow, we will cancel the picnic.'",
+      "question": "Choose the correct option: 'We will ski tomorrow unless _____.'",
       "options": {
-        "A": "will rain",
-        "B": "rains",
-        "C": "is raining",
-        "D": "would rain"
+        "A": "it will snow",
+        "B": "it snows",
+        "C": "it is snowing",
+        "D": "it would snow"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 3,
-      "question": "Select the sentence with the correct word order:",
-      "options": {
-        "A": "Always she goes to bed at 10 PM.",
-        "B": "She goes always to bed at 10 PM.",
-        "C": "She always goes to bed at 10 PM.",
-        "D": "She goes to bed always at 10 PM."
-      },
-      "correct_answer": "C",
+     "question": "Select the sentence with the most natural and correct word order when using an adverb of manner and a time expression:",
+        "options": {
+          "A": "The students completed quickly in the library the difficult assignment.",
+          "B": "The students quickly completed the difficult assignment in the library.",
+          "C": "The students completed quickly in the library the difficult assignment.",
+          "D": "The students completed the difficult assignment quickly in the library ."
+        },
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
@@ -43,7 +43,7 @@
       "options": {
         "A": "The children are playing in the garden.",
         "B": "My brother lives in London.",
-        "C": "She don't like spicy food.",
+        "C": "She doesn't left her phone number.",
         "D": "They went to the cinema last night."
       },
       "correct_answer": "C",
@@ -55,7 +55,7 @@
       "options": {
         "A": "more bigger",
         "B": "more big",
-        "C": "bigger",
+        "C": "much bigger",
         "D": "the biggest"
       },
       "correct_answer": "C",
@@ -65,10 +65,10 @@
       "id": 6,
       "question": "Select the correct passive form: 'They build new houses in this area.'",
       "options": {
-        "A": "New houses build in this area.",
+        "A": "New houses were build in this area.",
         "B": "New houses are build in this area.",
         "C": "New houses are built in this area.",
-        "D": "New houses is built in this area."
+        "D": "New houses had been built in this area."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -104,26 +104,26 @@
         "A": "There are a few apples in the basket.",
         "B": "There is little water in the bottle.",
         "C": "There are many people at the party.",
-        "D": "There is much students in this class."
+        "D": "There is much student in this class."
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 10,
-      "question": "Choose the correct conjunction: 'I wanted to go out _____ it was raining.'",
+      "question": "Choose the correct conjunction: 'I need to go out _____ raining.'",
       "options": {
         "A": "because",
-        "B": "so",
-        "C": "but",
-        "D": "and"
+        "B": "despite of",
+        "C": "despite",
+        "D": "in spite for"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 11,
-      "question": "Which relative pronoun is correct? 'The woman _____ lives next door is a doctor.'",
+      "question": "Which relative pronoun is correct? 'The woman _____ helps me with math is a teacher.'",
       "options": {
         "A": "who",
         "B": "which",
@@ -149,7 +149,7 @@
       "id": 13,
       "question": "Choose the correct option: 'If I _____ rich, I would buy a big house.'",
       "options": {
-        "A": "am",
+        "A": "was",
         "B": "would be",
         "C": "were",
         "D": "will be"
@@ -171,12 +171,12 @@
     },
     {
       "id": 15,
-      "question": "Choose the correct option: 'She _____ tennis every Saturday.'",
+      "question": "Choose the correct option: 'She _____ tennis every Saturday for two years.'",
       "options": {
-        "A": "play",
-        "B": "plays",
+        "A": "plays",
+        "B": "has been playing",
         "C": "is playing",
-        "D": "are playing"
+        "D": "has playing"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -195,7 +195,7 @@
     },
     {
       "id": 17,
-      "question": "Choose the most appropriate response: 'Would you like to come to my party?' '_____.'"  ,
+      "question": "Choose the most appropriate response: 'Would you like to come to my party?'"  ,
       "options": {
         "A": "Yes, I'd love to",
         "B": "No, I don't",
@@ -209,24 +209,24 @@
       "id": 18,
       "question": "Select the correct phrasal verb: 'It's getting late. We should _____ now.'",
       "options": {
-        "A": "set up",
-        "B": "set off",
+        "A": "start off",
+        "B": "get down",
         "C": "set down",
-        "D": "set in"
+        "D": "set off"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 19,
-      "question": "Choose the correct collocation: 'She _____ a mistake in her calculations.'",
+      "question": "Choose the correct verb: 'She _____ the mistake in her calculations.'",
       "options": {
-        "A": "did",
+        "A": "deleted",
         "B": "made",
-        "C": "had",
-        "D": "took"
+        "C": "wrote",
+        "D": "corrected"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -303,14 +303,14 @@
     },
     {
       "id": 26,
-      "question": "Choose the correct definition for 'receive':",
+      "question": "Choose the correct word for 'to be given something':",
       "options": {
-        "A": "To give something to someone",
-        "B": "To be given something",
-        "C": "To reject something offered",
-        "D": "To ask for something"
+        "A": "To persuade",
+        "B": "To perverse",
+        "C": "To perceive",
+        "D": "To receive"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -339,9 +339,9 @@
     },
     {
       "id": 29,
-      "question": "Choose the correct preposition: 'I completely _____ with what he said.'",
+      "question": "Choose the correct preposition: 'I completely _____ what he said.'",
       "options": {
-        "A": "disagree",
+        "A": "disagree with",
         "B": "disagree on",
         "C": "disagree for",
         "D": "disagree to"
@@ -367,7 +367,7 @@
       "options": {
         "A": "My keys disappear from the table yesterday.",
         "B": "My keys have disappeared and I can't find them.",
-        "C": "My keys are disappear somewhere in the house.",
+        "C": "My keys are disappeared somewhere in the house.",
         "D": "My keys will disappearing if I'm not careful."
       },
       "correct_answer": "B",
@@ -401,60 +401,60 @@
       "id": 34,
       "question": "Which sentence uses 'produce' correctly?",
       "options": {
-        "A": "This factory produces many cars every day.",
+        "A": "This factory has produced since ten years.",
         "B": "This factory is producing by 500 workers.",
         "C": "This factory produces with machines.",
-        "D": "This factory has produced since ten years."
+        "D": "This factory produces many cars every day."
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 35,
-      "question": "Choose the correct definition for 'develop':",
+      "question": "Choose the correct word for 'to grow or change':",
       "options": {
-        "A": "To make something worse",
-        "B": "To grow or change",
-        "C": "To destroy something",
-        "D": "To repair something"
+        "A": "To evolve",
+        "B": "To involve",
+        "C": "To devolve",
+        "D": "To revolve"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 36,
       "question": "Complete the sentence: 'I can't _____ living without my smartphone now.'",
       "options": {
-        "A": "imagine",
+        "A": "suppose",
         "B": "think",
         "C": "believe",
-        "D": "suppose"
+        "D": "imagine"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 37,
-      "question": "Which is the correct definition for 'describe'?",
+      "question": "Which is the correct word for 'to give a detailed account'?",
       "options": {
-        "A": "To draw a picture of something",
-        "B": "To give a detailed account",
-        "C": "To criticize something",
-        "D": "To analyze something"
+        "A": "To deprive",
+        "B": "To derail",
+        "C": "To describe",
+        "D": "To derive"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 38,
       "question": "Choose the correct preposition: 'Can you compare your hometown ____ mine?'",
       "options": {
-        "A": "with",
+        "A": "too",
         "B": "on",
         "C": "for",
-        "D": "about"
+        "D": "with"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -462,9 +462,9 @@
       "question": "Complete the sentence: 'I _____ tea to coffee in the morning.'",
       "options": {
         "A": "prefer",
-        "B": "like",
-        "C": "want",
-        "D": "choose"
+        "B": "would rather",
+        "C": "want more",
+        "D": "choose for"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -476,7 +476,7 @@
         "A": "It depends from the weather.",
         "B": "It depends to your decision.",
         "C": "It depends on when you can come.",
-        "D": "It depends about the price."
+        "D": "It depends about the price they charge."
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -533,12 +533,12 @@
       "id": 45,
       "question": "According to the passage, which celestial body serves as a fixed reference point for nocturnal migrants?",
       "options": {
-        "A": "The sun",
+        "A": "The North Star",
         "B": "The moon",
-        "C": "The North Star",
+        "C": "The sun",
         "D": "Planetary bodies"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Reading"
     },
     {
@@ -560,7 +560,7 @@
         "A": "They migrate during daytime only",
         "B": "They learn navigation skills from older birds",
         "C": "They create mental maps of star patterns early in life",
-        "D": "They rely more on magnetic fields than adult birds"
+        "D": "They rely more on magnetic fields than on adult birds' feelings"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -571,10 +571,10 @@
       "options": {
         "A": "Migration routes created by humans",
         "B": "Air currents that birds follow",
-        "C": "Geographic features like coastlines and rivers",
-        "D": "Paths formed by other migrating animals"
+        "C": "Paths formed by other migrating animals",
+        "D": "Geographic features like coastlines and rivers"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
