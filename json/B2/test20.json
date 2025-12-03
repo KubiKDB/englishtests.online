@@ -7,8 +7,8 @@
       "options": {
         "A": "go",
         "B": "goes",
-        "C": "going",
-        "D": "gone"
+        "C": "is going",
+        "D": "has gone"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -20,7 +20,7 @@
         "A": "am",
         "B": "was",
         "C": "were",
-        "D": "be"
+        "D": "have been"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -41,7 +41,7 @@
       "id": 4,
       "question": "Choose the correct relative pronoun: 'The woman _____ car was stolen called the police.'",
       "options": {
-        "A": "who",
+        "A": "who's",
         "B": "whom",
         "C": "whose",
         "D": "which"
@@ -66,7 +66,7 @@
       "question": "Which is the correct passive form of 'They will announce the results tomorrow'?",
       "options": {
         "A": "The results are announced tomorrow.",
-        "B": "The results will announce tomorrow.",
+        "B": "The results will be announcing tomorrow.",
         "C": "The results will be announced tomorrow.",
         "D": "The results are going to announce tomorrow."
       },
@@ -79,10 +79,10 @@
       "options": {
         "A": "already started",
         "B": "has already started",
-        "C": "had already started",
-        "D": "was already starting"
+        "C": "was already starting",
+        "D": "had already started"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -99,24 +99,24 @@
     },
     {
       "id": 9,
-      "question": "Identify the correctly punctuated sentence:",
+      "question": "Identify the correct sentence:",
       "options": {
-        "A": "Although it was raining we still went for a walk.",
+        "A": "Although it was raining, we yet went for a walk.",
         "B": "Although it was raining, we still went for a walk.",
         "C": "Although, it was raining we still went for a walk.",
-        "D": "Although it was raining; we still went for a walk."
+        "D": "Although it was raining, we could went for a walk."
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 10,
-      "question": "Select the correct modal verb: 'You _____ brush your teeth twice a day.'",
+      "question": "Select the correct modal verb: 'You _____ brush your teeth more than twice a day.'",
       "options": {
-        "A": "should",
-        "B": "would",
-        "C": "will",
-        "D": "can"
+        "A": "shouldn't",
+        "B": "wouldn't",
+        "C": "would",
+        "D": "should"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -151,7 +151,7 @@
       "options": {
         "A": "more easy",
         "B": "more easier",
-        "C": "easyer",
+        "C": "much more easy",
         "D": "easier"
       },
       "correct_answer": "D",
@@ -164,19 +164,19 @@
         "A": "Each",
         "B": "None",
         "C": "Most",
-        "D": "Either"
+        "D": "Neither"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 15,
-      "question": "Which sentence contains a gerund?",
+      "question": "Which sentence contains a proper gerund usage?",
       "options": {
-        "A": "He wants to study medicine.",
+        "A": "He wants to studying medicine.",
         "B": "She enjoys swimming in the ocean.",
-        "C": "They will arrive tomorrow.",
-        "D": "We should call him soon."
+        "C": "They will be arriving tomorrow.",
+        "D": "We should calling him soon."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -185,10 +185,10 @@
       "id": 16,
       "question": "Choose the correct phrasal verb: 'Could you please _____ this form?'",
       "options": {
-        "A": "fill up",
+        "A": "fill down",
         "B": "fill over",
         "C": "fill in",
-        "D": "fill across"
+        "D": "fill on"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -219,12 +219,12 @@
     },
     {
       "id": 19,
-      "question": "Choose the appropriate response to 'How do you do?'",
-      "options": {
-        "A": "I'm fine, thanks.",
-        "B": "How do you do?",
-        "C": "I'm doing well.",
-        "D": "Not bad."
+        "question": "Which sentence correctly uses inversion to emphasize the condition?",
+        "options": {
+          "A": "If she had arrived earlier, she would have seen the presentation.",
+          "B": "Had she arrived earlier, she would have seen the presentation.",
+          "C": "She had arrived earlier, then she would have seen the presentation.",
+          "D": "Only when she arrived earlier, she would have seen the presentation."
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -267,12 +267,12 @@
     },
     {
       "id": 23,
-      "question": "Identify the correct register for a formal email: '_____'",
+      "question": "Identify the correct register for an everyday formal email: '_____'",
       "options": {
         "A": "Hey there!",
         "B": "Dear Sir/Madam,",
         "C": "What's up?",
-        "D": "Hi folks,"
+        "D": "To whom it may concern,"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -284,7 +284,7 @@
         "A": "Therefore",
         "B": "Nevertheless",
         "C": "Furthermore",
-        "D": "Meanwhile"
+        "D": "Moreover"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -306,9 +306,9 @@
       "question": "Choose the word that best completes the sentence: 'The roller coaster ride gave me such a _____ that I wanted to go again immediately.'",
       "options": {
         "A": "thrill",
-        "B": "function",
-        "C": "tolerance",
-        "D": "workforce"
+        "B": "action",
+        "C": "feeling",
+        "D": "knowledge"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -330,21 +330,21 @@
       "question": "Which sentence uses 'headquarters' correctly?",
       "options": {
         "A": "The company headquarters are located in downtown Chicago.",
-        "B": "We need to headquarters this project by next week.",
+        "B": "We need to move our headquarters to the home's backyard.",
         "C": "The headquarters weather affected our travel plans.",
-        "D": "She headquarters all of her assignments on time."
+        "D": "She managed to use headquarters for her assignments on time."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 29,
-      "question": "Choose the best synonym for 'entrepreneur':",
+      "question": "Choose the best synonym for 'business founder':",
       "options": {
         "A": "Employee",
-        "B": "Manager",
-        "C": "Business founder",
-        "D": "Investor"
+        "B": "Enterprise",
+        "C": "Entrepreneur",
+        "D": "Entrepreneurial"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -353,22 +353,22 @@
       "id": 30,
       "question": "Select the sentence that uses 'unique' correctly:",
       "options": {
-        "A": "This painting is somewhat unique among his works.",
+        "A": "Her fingerprints are unique to her alone.",
         "B": "This is the most unique solution I've ever seen.",
-        "C": "Her fingerprints are unique to her alone.",
+        "C": "This painting is somewhat unique among his works",
         "D": "This style is becoming increasingly unique in fashion circles."
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 31,
       "question": "Which phrase correctly collocates with 'portable'?",
       "options": {
-        "A": "portable ideas",
+        "A": "portable vision",
         "B": "portable device",
-        "C": "portable weather",
-        "D": "portable time"
+        "C": "portable animal",
+        "D": "portable devops"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -378,7 +378,7 @@
       "question": "Choose the correct meaning of 'tropical':",
       "options": {
         "A": "Relating to music with a rhythmic beat",
-        "B": "Relating to the tropics or regions near the equator",
+        "B": "Relating to the regions near the equator",
         "C": "A type of mathematical formula",
         "D": "A style of architecture"
       },
@@ -390,8 +390,8 @@
       "question": "Which sentence uses 'franchise' correctly?",
       "options": {
         "A": "The restaurant decided to franchise its business model to other operators.",
-        "B": "We need to franchise these documents before the meeting.",
-        "C": "The company will franchise the project next week.",
+        "B": "We need to franchise these documents to another bank branch.",
+        "C": "The company will franchise the project among its partners.",
         "D": "She likes to franchise her ideas with colleagues."
       },
       "correct_answer": "A",
@@ -401,22 +401,22 @@
       "id": 34,
       "question": "Select the word that is closest in meaning to 'dynamic':",
       "options": {
-        "A": "Static",
+        "A": "Electric",
         "B": "Energetic",
-        "C": "Passive",
-        "D": "Uniform"
+        "C": "Quick",
+        "D": "Fading"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 35,
-      "question": "Choose the correct definition of 'equity':",
+      "question": "Choose the correct definition of 'the quality of being fair and just':",
       "options": {
-        "A": "Fairness and impartiality",
-        "B": "Ownership interest in a company",
-        "C": "The value of a property minus any debts",
-        "D": "All of the above"
+        "A": "Equation",
+        "B": "Equality",
+        "C": "Equator",
+        "D": "Equity"
       },
       "correct_answer": "D",
       "category": "Vocabulary"
@@ -427,22 +427,22 @@
       "options": {
         "A": "She gave her verbal consent to the agreement.",
         "B": "The document is very verbal and difficult to understand.",
-        "C": "We need to verbal this information immediately.",
-        "D": "The company verbals all of its products overseas."
+        "C": "We need to hear to this verbal information immediately.",
+        "D": "The company's verbal ability is far from being good."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 37,
-      "question": "Select the best definition of 'tolerance':",
+      "question": "Select the best definition of 'acceptance of different views or behavior':",
       "options": {
-        "A": "The ability to withstand pain or hardship",
-        "B": "Acceptance of different views or behaviors",
-        "C": "The acceptable deviation from a standard",
-        "D": "All of the above"
+        "A": "Ability",
+        "B": "Capability",
+        "C": "Tolerance",
+        "D": "Accomplishment"
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -459,12 +459,12 @@
     },
     {
       "id": 39,
-      "question": "Select the correct meaning of 'essence':",
+      "question": "Select the correct word for 'the intrinsic nature or indispensable quality of something':",
       "options": {
-        "A": "A strong aroma or smell",
-        "B": "The intrinsic nature or indispensable quality of something",
-        "C": "A type of perfume or fragrance",
-        "D": "A chemical compound used in cooking"
+        "A": "Instinct",
+        "B": "Essence",
+        "C": "Fragrance",
+        "D": "Compound"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -473,10 +473,10 @@
       "id": 40,
       "question": "Which sentence uses 'workforce' correctly?",
       "options": {
-        "A": "The company needs to workforce its production by next month.",
-        "B": "We should workforce this project immediately.",
+        "A": "The company needs to make more workforce by next month.",
+        "B": "We should expel a new workforce for this project immediately.",
         "C": "The global pandemic has significantly impacted the workforce.",
-        "D": "She workforces all of her assignments on time."
+        "D": "Her workforce is extraordinary high and efficient."
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -558,7 +558,7 @@
       "question": "According to the passage, what was Din-i-Ilahi?",
       "options": {
         "A": "A type of Mughal architecture",
-        "B": "A taxation system",
+        "B": "A syncretic faith promoted by Mughal",
         "C": "A syncretic faith promoted by Akbar",
         "D": "A style of miniature painting"
       },
@@ -569,12 +569,12 @@
       "id": 48,
       "question": "The passage suggests that the Mughal Empire's most important legacy might be its:",
       "options": {
-        "A": "Military conquests",
-        "B": "Example of governing diverse populations through cultural synthesis",
-        "C": "Economic policies",
-        "D": "Scientific achievements"
+        "A": "Extensive military campaigns that resulted in numerous territorial expansions across the subcontinent",
+        "B": "Wide-ranging economic strategies aimed at managing trade, taxation, and agricultural production",
+        "C": "Advancements in various scientific fields that influenced scholarship during the period",
+        "D": "Example of governing diverse populations through cultural synthesis"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -583,7 +583,7 @@
       "options": {
         "A": "Granite and marble",
         "B": "Limestone and brick",
-        "C": "Red sandstone and white marble",
+        "C": "Sandstone and marble",
         "D": "Clay and wood"
       },
       "correct_answer": "C",
