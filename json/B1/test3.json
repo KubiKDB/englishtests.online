@@ -8,7 +8,7 @@
         "A": "studies",
         "B": "has been studying",
         "C": "is studying",
-        "D": "study"
+        "D": "has been studied"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -17,12 +17,12 @@
       "id": 2,
       "question": "Choose the correct sentence:",
       "options": {
-        "A": "I always going to bed at 10 PM.",
-        "B": "I always goes to bed at 10 PM.",
-        "C": "I always go to bed at 10 PM.",
-        "D": "I am always going to bed at 10 PM."
+        "A": "My friend recently inherited a beautiful old Italian wooden large piano from her grandmother.",
+        "B": "My friend recently inherited a beautiful large old Italian wooden piano from her grandmother.",
+        "C": "My friend recently inherited an old large beautiful Italian wooden piano from her grandmother.",
+        "D": "My friend recently inherited a large beautiful old Italian wooden piano from her grandmother."
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
@@ -30,11 +30,11 @@
       "question": "Which sentence is grammatically correct?",
       "options": {
         "A": "If I will see him, I will tell him.",
-        "B": "If I see him, I will tell him.",
+        "B": "If I see him, I would tell him.",
         "C": "If I would see him, I will tell him.",
-        "D": "If I see him, I would tell him."
+        "D": "If I see him, I will tell him."
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -56,7 +56,7 @@
         "A": "breaks",
         "B": "was broken",
         "C": "is broken",
-        "D": "has broken"
+        "D": "has been broken"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -66,35 +66,35 @@
       "question": "Which sentence is correct?",
       "options": {
         "A": "I've been to Paris last year.",
-        "B": "I was in Paris last year.",
-        "C": "I have gone to Paris last year.",
+        "B": "I have gone to Paris last year.",
+        "C": "I was in Paris last year.",
         "D": "I had been to Paris last year."
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 7,
-      "question": "Choose the correct form: 'By the time we arrived, the film _____.'",
+      "question": "Choose the correct form: 'By the time we finished, they _____.'",
       "options": {
-        "A": "already started",
-        "B": "has already started",
-        "C": "had already started",
-        "D": "was already starting"
+        "A": "already arrived",
+        "B": "have already arrived",
+        "C": "had already arrived",
+        "D": "were already arrived"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 8,
-      "question": "Which is the correct comparative form? 'This book is _____ than the one I read last week.'",
+      "question": "Which is the correct comparative form? 'This book is _____ of all I read last week.'",
       "options": {
-        "A": "interestinger",
+        "A": "the much interesting",
         "B": "more interesting",
         "C": "most interesting",
         "D": "the most interesting"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -126,7 +126,7 @@
       "question": "Which sentence shows the correct use of articles?",
       "options": {
         "A": "I need advice about the career choices.",
-        "B": "I need an advice about career choices.",
+        "B": "I need an advice about the career choices.",
         "C": "I need the advice about career choices.",
         "D": "I need advice about career choices."
       },
@@ -135,14 +135,14 @@
     },
     {
       "id": 12,
-      "question": "Which is the correct form of the verb? 'She _____ TV when I called her.'",
+      "question": "Choose the most appropriate verb form for this sentence: 'My sister, who currently works in Paris, _____ never _____ snow before last winter.'",
       "options": {
-        "A": "watched",
-        "B": "was watching",
-        "C": "has watched",
-        "D": "watches"
+        "A": "has/seen",
+        "B": "did/see",
+        "C": "had/seen",
+        "D": "was/seeing"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -173,60 +173,60 @@
       "id": 15,
       "question": "Which sentence uses the present perfect correctly?",
       "options": {
-        "A": "I've seen that movie already.",
-        "B": "I've seen that movie yesterday.",
-        "C": "I've see that movie last week.",
-        "D": "I seen that movie before."
+        "A": "I have already seen that movie.",
+        "B": "I have already seen that movie yesterday.",
+        "C": "I have saw that movie last week.",
+        "D": "I has seen that movie before."
       },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 16,
-      "question": "Complete the sentence: 'It's raining, so remember to take _____ umbrella.'",
+      "question": "Complete the sentence: 'It's raining, so remember to take _____ umbrellas.'",
       "options": {
         "A": "a",
         "B": "an",
         "C": "the",
-        "D": "no article needed"
+        "D": "-"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 17,
       "question": "Choose the correct phrasal verb: 'Can you _____ the children while I go shopping?'",
       "options": {
-        "A": "look at",
-        "B": "look for",
+        "A": "watch out",
+        "B": "watch for",
         "C": "look after",
-        "D": "look up"
+        "D": "look out"
       },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 18,
-      "question": "Select the correct option: 'My sister is _____ of spiders.'",
+      "question": "Which can you here in the London Tube:",
       "options": {
-        "A": "afraid",
-        "B": "scared",
-        "C": "feared",
-        "D": "frightened"
+        "A": "Be aware of the gap, please",
+        "B": "Be scared of the gap, please",
+        "C": "Mind the gap, please",
+        "D": "Find the gap, please"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 19,
-      "question": "Complete the sentence with the appropriate collocation: 'I need to _____ a decision about my future career.'",
+      "question": "Complete the sentence with the appropriate collocation: 'He _____ about his future career.'",
       "options": {
-        "A": "do",
-        "B": "make",
-        "C": "take",
-        "D": "have"
+        "A": "altered his decision",
+        "B": "changed his brain",
+        "C": "changed his mind",
+        "D": "have his mind"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
@@ -295,7 +295,7 @@
       "options": {
         "A": "to buy",
         "B": "buying",
-        "C": "buy",
+        "C": "boughting",
         "D": "bought"
       },
       "correct_answer": "B",
@@ -306,11 +306,11 @@
       "question": "Choose the correct meaning of 'discover' in this sentence: 'Scientists have discovered a new species of bird.'",
       "options": {
         "A": "to create something new",
-        "B": "to find something for the first time",
-        "C": "to study something in detail",
-        "D": "to look for something carefully"
+        "B": "to look for something carefully",
+        "C": "to study something in great detail",
+        "D": "to find something for the first time"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -331,7 +331,7 @@
       "options": {
         "A": "asking questions to get more information",
         "B": "looking for clues in different places",
-        "C": "officially examining the facts to find the truth",
+        "C": "examining the facts to find the truth",
         "D": "writing a report about what happened"
       },
       "correct_answer": "C",
@@ -339,14 +339,14 @@
     },
     {
       "id": 29,
-      "question": "Which is the best synonym for 'examine'?",
+      "question": "Which is the word for 'to understand something'?",
       "options": {
-        "A": "look at quickly",
-        "B": "inspect carefully",
-        "C": "describe in detail",
-        "D": "understand completely"
+        "A": "grail",
+        "B": "gasp",
+        "C": "grass",
+        "D": "grasp"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -354,7 +354,7 @@
       "question": "Choose the correct use of 'test' in a sentence:",
       "options": {
         "A": "The scientist will test if the water is safe to drink.",
-        "B": "They test the movie last night.",
+        "B": "They tested the movie before last night.",
         "C": "She tested the book for spelling mistakes.",
         "D": "I need to test my friend about the party."
       },
@@ -365,10 +365,10 @@
       "id": 31,
       "question": "Which sentence uses 'prove' correctly?",
       "options": {
-        "A": "She proved at the experiment yesterday.",
+        "A": "The scientist proved at the experiment yesterday.",
         "B": "The lawyer needs to prove his client's innocence.",
-        "C": "They proved across the field.",
-        "D": "I will prove to the concert next week."
+        "C": "They proved a lot of trues across the field.",
+        "D": "I will prove you about the facts next week."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -387,14 +387,14 @@
     },
     {
       "id": 33,
-      "question": "In which situation would you use the verb 'answer'?",
+      "question": "How do you respond to a question?",
       "options": {
-        "A": "when you solve a problem",
-        "B": "when you respond to a question",
-        "C": "when you explain something",
-        "D": "when you discuss an issue"
+        "A": "forgot",
+        "B": "check",
+        "C": "ask",
+        "D": "answer"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -427,8 +427,8 @@
       "options": {
         "A": "We need to discuss about the project.",
         "B": "Let's discuss the plan for the weekend.",
-        "C": "They discussed with the problem.",
-        "D": "She discussed to her teacher."
+        "C": "They discussed us with the problem.",
+        "D": "She discussed to her teacher alot."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -449,7 +449,7 @@
       "id": 38,
       "question": "Which is the correct definition of 'negotiate'?",
       "options": {
-        "A": "to have a formal discussion to reach an agreement",
+        "A": "to have a formal discussion",
         "B": "to argue strongly for what you want",
         "C": "to refuse to change your opinion",
         "D": "to accept someone else's suggestion"
@@ -500,7 +500,7 @@
         "A": "All species in the Amazon have already been discovered.",
         "B": "There are exactly 2.5 million insect species in the Amazon.",
         "C": "Scientists believe there are still undiscovered species in the Amazon.",
-        "D": "There are more bird species than plant species in the Amazon."
+        "D": "There have always been more bird species than plant species in the Amazon."
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -535,17 +535,17 @@
       "options": {
         "A": "created",
         "B": "shared",
-        "C": "gathered",
-        "D": "forgotten"
+        "C": "forgotten",
+        "D": "gathered"
       },
-      "correct_answer": "C",
+      "correct_answer": "D,
       "category": "Reading"
     },
     {
       "id": 46,
       "question": "What does the passage suggest about indigenous communities in the Amazon?",
       "options": {
-        "A": "They contribute to deforestation by burning trees.",
+        "A": "They contribute to deforestation by burning or cutting trees.",
         "B": "They have valuable knowledge about sustainable practices.",
         "C": "They are a recent addition to the rainforest.",
         "D": "They oppose international conservation efforts."
@@ -558,11 +558,11 @@
       "question": "Which of the following is NOT mentioned as a reason for deforestation in the Amazon?",
       "options": {
         "A": "Farming",
-        "B": "Mining",
-        "C": "Cattle ranching",
+        "B": "Ranching",
+        "C": "Mining",
         "D": "Logging"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Reading"
     },
     {
@@ -570,35 +570,36 @@
       "question": "Based on the passage, which statement is correct about the Amazon River?",
       "options": {
         "A": "It is the longest river in the world.",
-        "B": "It carries more water than any other river.",
-        "C": "It flows through all nine countries of the Amazon Rainforest.",
-        "D": "It is the main cause of deforestation."
+        "B": "It is the main cause of deforestation.",
+        "C": "It carries more water than any other river.",
+        "D": "It flows through all nine countries of the Amazon Rainforest."
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Reading"
     },
     {
       "id": 49,
       "question": "The main purpose of this passage is to:",
       "options": {
-        "A": "criticize governments for not protecting the Amazon",
+        "A": "provide information about the Amazon and its importance",
         "B": "compare the Amazon to other rainforests around the world",
-        "C": "provide information about the Amazon and its importance",
+        "C": "criticize governments for not protecting the Amazon",
         "D": "explain how to visit the Amazon as a tourist"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Reading"
     },
     {
       "id": 50,
       "question": "According to the passage, which approach would be most effective for conserving the Amazon?",
       "options": {
-        "A": "Completely restricting all human activity in the rainforest of the Amazon",
-        "B": "Learning from indigenous communities and implementing international cooperation",
-        "C": "Focusing only on reducing climate change globally and preserve indigenous communities",
-        "D": "Allowing only scientists to access the rainforest"
+        "A": "Allowing only scientists to access the rainforest"
+        "B": "Completely restricting all human activity in the rainforest of the Amazon",
+        "C": "Learning from indigenous communities and implementing international cooperation",
+        "d": "Focusing only on reducing climate change globally and preserve indigenous communities",
+        
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Reading"
     }
   ]
