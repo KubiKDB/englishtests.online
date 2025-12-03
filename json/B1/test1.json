@@ -8,7 +8,7 @@
         "A": "She have been studying for three hours.",
         "B": "She has been studying for three hours.",
         "C": "She having been studying for three hours.",
-        "D": "She been studying for three hours."
+        "D": "She had been studying for three hours."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -42,9 +42,9 @@
       "question": "Which sentence uses the correct form of the comparative?",
       "options": {
         "A": "This book is more interesting than that one.",
-        "B": "This book is interestinger than that one.",
-        "C": "This book is more interestinger than that one.",
-        "D": "This book is the more interesting than that one."
+        "B": "This book is as interesting than that one.",
+        "C": "This book is much interesting than that one.",
+        "D": "This book is the most interesting than that one."
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -54,11 +54,11 @@
       "question": "Choose the correct preposition: 'I'm really looking forward _____ the weekend.'",
       "options": {
         "A": "for",
-        "B": "to",
+        "B": "too",
         "C": "at",
-        "D": "on"
+        "D": "to"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -68,7 +68,7 @@
         "A": "The number of students in the class are increasing.",
         "B": "The number of students in the class is increasing.",
         "C": "The number of students in the class were increasing.",
-        "D": "The number of students in the class increasing."
+        "D": "The number of students in the class have been increasing."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -92,7 +92,7 @@
         "A": "a",
         "B": "an",
         "C": "the",
-        "D": "No article is needed"
+        "D": "-"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -113,23 +113,23 @@
       "id": 10,
       "question": "Select the correct passive form: 'The house _____ last year.'",
       "options": {
-        "A": "was build",
-        "B": "was built",
-        "C": "is built",
-        "D": "has build"
+        "A": "was built",
+        "B": "was build",
+        "C": "had been built",
+        "D": "has been built"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 11,
-      "question": "Choose the correct verb form: 'I _____ TV when the phone rang.'",
-      "options": {
-        "A": "watched",
-        "B": "was watching",
-        "C": "have watched",
-        "D": "had watched"
-      },
+        "question": "Choose the correct verb form to complete the sentence: 'She _____ to London three times this year.'",
+        "options": {
+          "A": "went",
+          "B": "has been",
+          "C": "visited",
+          "D": "want"
+        },
       "correct_answer": "B",
       "category": "Grammar"
     },
@@ -137,10 +137,10 @@
       "id": 12,
       "question": "Which sentence has the correct word order?",
       "options": {
-        "A": "Always she goes to bed early.",
-        "B": "She goes always to bed early.",
-        "C": "She always goes to bed early.",
-        "D": "She goes to bed always early."
+        "A": "They often complain about outside from the noise.",
+        "B": "They complain about the noise from outside often.",
+        "C": "They often complain about the noise from outside.",
+        "D": "They complain about the noise often from outside."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -151,7 +151,7 @@
       "options": {
         "A": "was",
         "B": "were",
-        "C": "is",
+        "C": "have been",
         "D": "are"
       },
       "correct_answer": "B",
@@ -162,7 +162,7 @@
       "question": "Choose the correct conjunction: 'We wanted to go swimming, _____ the weather was too cold.'",
       "options": {
         "A": "so",
-        "B": "and",
+        "B": "othewise",
         "C": "because",
         "D": "but"
       },
@@ -171,12 +171,12 @@
     },
     {
       "id": 15,
-      "question": "Which question form is grammatically correct?",
+      "question": "Choose the correct phrase to complete the sentence about a past habit: 'When I was a child, I _____ spend every summer holiday at my grandparents' house.'",
       "options": {
-        "A": "Where you are going?",
-        "B": "Where are you going?",
-        "C": "Where going you are?",
-        "D": "Where you going?"
+        "A": "was used to",
+        "B": "used to",
+        "C": "had used to",
+        "D": "got used to"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -185,10 +185,10 @@
       "id": 16,
       "question": "Choose the correct expression to make a polite request.",
       "options": {
-        "A": "I want you to help me.",
-        "B": "Help me, please.",
-        "C": "Would you mind helping me?",
-        "D": "You should help me."
+        "A": "Will you forget to help me, please?",
+        "B": "Would you remind helping me, please?",
+        "C": "Would you mind helping me, please?",
+        "D": "Should you mind helping me, please?"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -199,7 +199,7 @@
       "options": {
         "A": "Yes, I'd love to.",
         "B": "Yes, I'd love.",
-        "C": "Yes, I like.",
+        "C": "Yes, I'll like.",
         "D": "Yes, I want."
       },
       "correct_answer": "A",
@@ -246,9 +246,9 @@
       "question": "Select the appropriate phrasal verb: 'Can you _____ your jacket? It's getting hot in here.'",
       "options": {
         "A": "take off",
-        "B": "take away",
-        "C": "take up",
-        "D": "take over"
+        "B": "give off",
+        "C": "take away",
+        "D": "give away"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -282,9 +282,9 @@
       "question": "Choose the appropriate response to: 'Thanks for your help.'",
       "options": {
         "A": "Don't mention it.",
-        "B": "It's nothing.",
-        "C": "Never mind.",
-        "D": "Not at all."
+        "B": "Don't mind it.",
+        "C": "Never be mind.",
+        "D": "Not for all."
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -295,7 +295,7 @@
       "options": {
         "A": "because",
         "B": "although",
-        "C": "so",
+        "C": "therefore",
         "D": "despite"
       },
       "correct_answer": "C",
@@ -303,7 +303,7 @@
     },
     {
       "id": 26,
-      "question": "What does 'treat' mean in the sentence: 'The doctor will treat your illness with antibiotics.'?",
+      "question": "What does 'treat' mean in the sentence: 'The doctor will treat your.'?",
       "options": {
         "A": "to give medical care to cure an illness",
         "B": "to behave toward someone in a particular way",
@@ -343,7 +343,7 @@
       "options": {
         "A": "to pretend or act in a way that is not natural",
         "B": "to like or prefer something",
-        "C": "to have an influence on something or someone",
+        "C": "to have an influence on something",
         "D": "to change something completely"
       },
       "correct_answer": "C",
@@ -389,7 +389,7 @@
       "id": 33,
       "question": "Choose the correct meaning of 'listen' in the sentence: 'You should listen to your doctor's advice.'",
       "options": {
-        "A": "to hear something",
+        "A": "to hear someone or something",
         "B": "to pay attention to advice",
         "C": "to agree with something",
         "D": "to understand something"
@@ -401,7 +401,7 @@
       "id": 34,
       "question": "What does 'establish' mean in the context: 'They want to establish a new business in the city center.'?",
       "options": {
-        "A": "to create or start something that will last",
+        "A": "to create something that will last",
         "B": "to find something that was lost",
         "C": "to move something to a new location",
         "D": "to improve something that already exists"
@@ -416,7 +416,7 @@
         "A": "a route or direction",
         "B": "a series of lessons",
         "C": "a part of a meal",
-        "D": "a path or track for racing"
+        "D": "a path for racing"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -426,23 +426,23 @@
       "question": "Choose the correct meaning of 'ability' in the context: 'He has the ability to speak five languages.'",
       "options": {
         "A": "the desire to do something",
-        "B": "the power to do something",
+        "B": "the knowledge about something",
         "C": "the experience of doing something",
-        "D": "the knowledge about something"
+        "D": "the power to do something"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 37,
       "question": "What does 'face' mean in the sentence: 'We need to face the problem directly.'?",
       "options": {
-        "A": "to have your face turned toward something",
-        "B": "to deal with or confront something difficult",
+        "A": "to confront something difficult",
+        "B": "to have your face turned toward something",
         "C": "to recognize someone",
         "D": "to appear or be present"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
@@ -450,11 +450,11 @@
       "question": "Select the correct meaning of 'regard' in the context: 'They regard him as the best player on the team.'",
       "options": {
         "A": "to look at someone",
-        "B": "to consider someone",
-        "C": "to respect someone",
+        "B": "to "respect someone,
+        "C": "to consider someone",
         "D": "to like someone"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -475,7 +475,7 @@
       "options": {
         "A": "in a broad or wide area",
         "B": "outside in the open air",
-        "C": "in or to a foreign country",
+        "C": "in a foreign country",
         "D": "across a wide distance"
       },
       "correct_answer": "C",
@@ -594,7 +594,7 @@
       "question": "What does the passage suggest influenced the different fates of the Eastern and Western Roman Empires?",
       "options": {
         "A": "Different religious beliefs",
-        "B": "Different economic, political, and geographic challenges",
+        "B": "Different economic challenges",
         "C": "Different military technologies",
         "D": "Different cultural traditions"
       },
