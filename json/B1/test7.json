@@ -3,26 +3,25 @@
   "questions": [
     {
       "id": 1,
-      "question": "The woman ____ the bus every day to go to work.",
+      "question": "Fatima ____ the bus every day to go to school.",
       "options": {
-        "A": "take",
+        "A": "goes",
         "B": "takes",
-        "C": "is taking",
-        "D": "taken"
+        "C": "drives",
+        "D": "rides"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
-      "id": 2,
-      "question": "We ____ dinner when the phone rang.",
-      "options": {
-        "A": "are having",
-        "B": "have",
-        "C": "were having",
-        "D": "had"
+      "question": "The security guards _____ their usual patrol around the building when they noticed the open window.",
+        "options": {
+        "A": "walked",
+        "B": "were walking",
+        "C": "are walking",
+        "D": "have walked"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
@@ -31,8 +30,8 @@
       "options": {
         "A": "has been",
         "B": "was",
-        "C": "went",
-        "D": "goes"
+        "C": "haven't been",
+        "D": "has went"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -65,9 +64,9 @@
       "id": 6,
       "question": "They ____ volleyball at the beach last weekend.",
       "options": {
-        "A": "play",
-        "B": "plays",
-        "C": "playing",
+        "A": "plaid",
+        "B": "paid",
+        "C": "placed",
         "D": "played"
       },
       "correct_answer": "D",
@@ -101,8 +100,8 @@
       "id": 9,
       "question": "The book ____ by a famous author.",
       "options": {
-        "A": "write",
-        "B": "wrote",
+        "A": "have been written",
+        "B": "has been wrote",
         "C": "written",
         "D": "was written"
       },
@@ -137,10 +136,10 @@
       "id": 12,
       "question": "The teacher asked us ____ talking during the lesson.",
       "options": {
-        "A": "stop",
-        "B": "stopped",
+        "A": "to complete",
+        "B": "to end",
         "C": "to stop",
-        "D": "stopping"
+        "D": "to finish"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -151,7 +150,7 @@
       "options": {
         "A": "if I go",
         "B": "if I will go",
-        "C": "if I went",
+        "C": "if I am go",
         "D": "if I going"
       },
       "correct_answer": "B",
@@ -173,7 +172,7 @@
       "id": 15,
       "question": "The children ____ their toys after playing.",
       "options": {
-        "A": "must putting away",
+        "A": "must be putting away",
         "B": "must put away",
         "C": "must to put away",
         "D": "must be put away"
@@ -187,7 +186,7 @@
       "options": {
         "A": "make up",
         "B": "make out",
-        "C": "make over",
+        "C": "make in",
         "D": "make off"
       },
       "correct_answer": "B",
@@ -195,21 +194,21 @@
     },
     {
       "id": 17,
-      "question": "The meeting has been ____ until next week.",
+      "question": "The meeting has been ____ amid the manager's illness.",
       "options": {
-        "A": "put off",
-        "B": "put away",
-        "C": "put down",
-        "D": "put up"
+        "A": "posted",
+        "B": "deleted",
+        "C": "canceled",
+        "D": "counciled"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 18,
       "question": "I need to ____ some money for my vacation.",
       "options": {
-        "A": "put aside",
+        "A": "give aside",
         "B": "take aside",
         "C": "set aside",
         "D": "lay aside"
@@ -243,14 +242,14 @@
     },
     {
       "id": 21,
-      "question": "Could you please ____ me a favor?",
-      "options": {
+      "question": "I'm trying to concentrate, but the loud music next door is starting to ____ me crazy.",
+        "options": {
         "A": "make",
         "B": "do",
-        "C": "give",
-        "D": "take"
+        "C": "take",
+        "D": "drive"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -267,14 +266,14 @@
     },
     {
       "id": 23,
-      "question": "She ____ a mistake in her calculations.",
-      "options": {
-        "A": "made",
-        "B": "did",
-        "C": "had",
-        "D": "took"
+      "question": "Before they signed the contract, the lawyers needed to _____ a few final phone calls to their clients.",
+          "options": {
+          "A": "do",
+          "B": "make",
+          "C": "take",
+          "D": "get"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
@@ -284,7 +283,7 @@
         "A": "catch",
         "B": "meet",
         "C": "see",
-        "D": "find"
+        "D": "cross"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -307,7 +306,7 @@
       "options": {
         "A": "found",
         "B": "discovered",
-        "C": "located",
+        "C": "founded",
         "D": "spotted"
       },
       "correct_answer": "A",
@@ -341,7 +340,7 @@
       "id": 29,
       "question": "You should ____ all options before making a decision.",
       "options": {
-        "A": "think about",
+        "A": "think",
         "B": "consider",
         "C": "ponder",
         "D": "contemplate"
@@ -353,12 +352,12 @@
       "id": 30,
       "question": "The lake waters ____ the mountains on a clear day.",
       "options": {
-        "A": "reflect",
+        "A": "display",
         "B": "mirror",
         "C": "show",
-        "D": "display"
+        "D": "reflect"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -382,12 +381,12 @@
         "C": "increase",
         "D": "extend"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 33,
-      "question": "The two countries continue to ____ over territory.",
+      "question": "The two countries continue to ____ brutally over territory.",
       "options": {
         "A": "argue",
         "B": "fight",
@@ -414,7 +413,7 @@
       "question": "Be careful not to ____ your keys again.",
       "options": {
         "A": "miss",
-        "B": "forget",
+        "B": "forgive",
         "C": "lose",
         "D": "drop"
       },
@@ -449,12 +448,12 @@
       "id": 38,
       "question": "New opportunities may ____ when you least expect them.",
       "options": {
-        "A": "arise",
+        "A": "rise",
         "B": "emerge",
-        "C": "appear",
+        "C": "disappear",
         "D": "come"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
@@ -462,11 +461,11 @@
       "question": "The primary ____ of a refrigerator is to keep food cold.",
       "options": {
         "A": "purpose",
-        "B": "function",
+        "B": "task",
         "C": "role",
-        "D": "task"
+        "D": "function"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -497,7 +496,7 @@
       "id": 42,
       "question": "What does the term 'fractional reserve banking' mean?",
       "options": {
-        "A": "Banks keep all deposits in their vaults",
+        "A": "Banks keep all deposits in their vaults as reserves and lend the rest",
         "B": "Banks keep only a fraction of deposits as reserves and lend the rest",
         "C": "Banks split their profits with their customers",
         "D": "Banks charge fractional interest rates on loans"
@@ -509,12 +508,12 @@
       "id": 43,
       "question": "According to the passage, which is NOT mentioned as a service provided by banks?",
       "options": {
-        "A": "Checking accounts",
-        "B": "Investment in real estate",
+        "A": "Financial advice",
+        "B": "Checking accounts",
         "C": "Electronic payments",
-        "D": "Financial advice"
+        "D": "Investment in real estate"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -546,11 +545,11 @@
       "question": "What is 'liquidity risk' as described in the passage?",
       "options": {
         "A": "The risk that the bank might not have enough cash on hand",
-        "B": "The risk that many depositors might withdraw their money at once",
-        "C": "The risk that loans might not be repaid on time",
-        "D": "The risk that the bank might make poor investments"
+        "B": "The risk that the bank might make poor investments",
+        "C": "The risk that many loans might not be repaid on time",
+        "D": "The risk that many depositors might withdraw their money at once"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
