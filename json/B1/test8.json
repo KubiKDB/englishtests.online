@@ -15,12 +15,12 @@
     },
     {
       "id": 2,
-      "question": "Choose the correct passive voice form: 'The book _____ by many students.'",
+      "question": "Choose the correct passive voice form: 'Those books _____ by many students.'",
       "options": {
         "A": "was read",
-        "B": "is reading",
-        "C": "has been reading",
-        "D": "is read"
+        "B": "are reading",
+        "C": "have been reading",
+        "D": "were read"
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -54,11 +54,11 @@
       "question": "Select the correct article: 'My father works as _____ engineer.'",
       "options": {
         "A": "a",
-        "B": "an",
-        "C": "the",
-        "D": "no article needed"
+        "B": "the",
+        "C": "an",
+        "D": "-"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -87,9 +87,9 @@
     },
     {
       "id": 8,
-      "question": "Select the correct relative pronoun: 'The woman _____ car was stolen called the police.'",
+      "question": "Select the correct relative pronoun: 'The man _____ car was stolen called the police.'",
       "options": {
-        "A": "who",
+        "A": "who's",
         "B": "whom",
         "C": "which",
         "D": "whose"
@@ -126,11 +126,11 @@
       "question": "Choose the correct reported speech: 'I will call you tomorrow,' she said.",
       "options": {
         "A": "She said she will call me tomorrow.",
-        "B": "She said she would call me the next day.",
-        "C": "She said I will call you tomorrow.",
-        "D": "She said she will call me the next day."
+        "B": "She said she will call me the next day.",
+        "C": "She said she will call you tomorrow.",
+        "D": "She said she would call me the next day."
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -140,30 +140,30 @@
         "A": "go",
         "B": "will go",
         "C": "would go",
-        "D": "went"
+        "D": "should go"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 13,
-      "question": "Choose the correct question form: '_____ do you go to the gym?'",
+      "question": "Choose the correct question form: '_____ times have you been to the gym?'",
       "options": {
         "A": "How often",
         "B": "How long",
         "C": "How much",
         "D": "How many"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 14,
       "question": "Which sentence uses the correct verb pattern?",
       "options": {
-        "A": "She suggested to go to the beach.",
-        "B": "They enjoy to play tennis.",
-        "C": "He decided going home early.",
+        "A": "She suggested to go to the beach tomorrow.",
+        "B": "They enjoy to play tennis on Sundays.",
+        "C": "He decided going home early because he was tired.",
         "D": "I promised to help him with his homework."
       },
       "correct_answer": "D",
@@ -183,36 +183,36 @@
     },
     {
       "id": 16,
-      "question": "Choose the correct phrasal verb to complete the sentence: 'Could you _____ the children while I go shopping?'",
-      "options": {
-        "A": "look at",
-        "B": "look for",
-        "C": "look after",
-        "D": "look up"
+      "question": "Choose the correct preposition to complete the sentence: 'The team must submit their full project proposal _____ midnight _____ the final day of the conference.'",
+          "options": {
+          "A": "at/in",
+          "B": "until/on",
+          "C": "by/on",
+          "D": "on/at"
       },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 17,
-      "question": "Select the appropriate response to the question 'How are you?'",
-      "options": {
-        "A": "I'm 25 years old.",
-        "B": "I'm fine, thanks.",
-        "C": "I'm a teacher.",
-        "D": "I'm at home."
+      "question": "Which is the most appropriate and polite way to accept the following offer: 'Would you like to come in and sit down for a moment?'",
+          "options": {
+          "A": "I will come, thanks.",
+          "B": "Yes, I would love to.",
+          "C": "I am loving to sit down.",
+          "D": "I must come in because I want a sit."
       },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 18,
-      "question": "Choose the correct collocation: 'James _____ a mistake in his calculations.'",
-      "options": {
-        "A": "did",
-        "B": "made",
-        "C": "took",
-        "D": "had"
+      "question": "Choose the most appropriate verb to complete the natural English phrase: 'They plan to _____ a surprise party for their grandmother’s 70th birthday next Saturday.'",
+          "options": {
+          "A": "do",
+          "B": "make",
+          "C": "take",
+          "D": "have"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -224,7 +224,7 @@
         "A": "Although",
         "B": "However",
         "C": "Therefore",
-        "D": "Even though"
+        "D": "Nevertheless"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -234,21 +234,21 @@
       "question": "Choose the appropriate expression for making a suggestion:",
       "options": {
         "A": "Why don't we go to the cinema?",
-        "B": "I don't mind going to the cinema.",
+        "B": "Don't you mind going to the cinema?",
         "C": "I'd rather go to the cinema.",
-        "D": "I went to the cinema."
+        "D": "I'm going to the cinema."
       },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 21,
-      "question": "Select the correct idiom to complete the sentence: 'The exam was really difficult. It wasn't _____.'",
+      "question": "Select the correct idiom to complete the sentence: 'The exam was really difficult. It wasn't a _____.'",
       "options": {
-        "A": "a piece of cake",
-        "B": "a cup of tea",
-        "C": "a slice of pie",
-        "D": "a box of chocolates"
+        "A": "piece of cake",
+        "B": "cup of tea",
+        "C": "slice of pie",
+        "D": "flying colors"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -270,7 +270,7 @@
       "question": "Select the appropriate response to 'Would you like some coffee?'",
       "options": {
         "A": "Yes, I'd love some.",
-        "B": "Yes, I'd love one.",
+        "B": "Yes, I'd love any.",
         "C": "Yes, I'm liking some.",
         "D": "Yes, I love it."
       },
@@ -296,33 +296,33 @@
         "A": "What do you mean?",
         "B": "How do you do?",
         "C": "What are you doing?",
-        "D": "How is it going?"
+        "D": "How did you say?"
       },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 26,
-      "question": "What is the correct meaning of the word 'change'?",
+      "question": "What is the correct meaning of 'to become different'?",
       "options": {
-        "A": "to stay the same",
-        "B": "to become different",
-        "C": "to move backward",
-        "D": "to find something"
+        "A": "chairs",
+        "B": "chains",
+        "C": "chance",
+        "D": "change"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 27,
       "question": "Which sentence uses the word 'keep' correctly?",
       "options": {
-        "A": "She kept to the store yesterday.",
-        "B": "They kept the book at home after reading it.",
-        "C": "He kept swimming in the lake.",
-        "D": "We kept the money from the bank."
+        "A": "She kept the groceries from the store yesterday.",
+        "B": "They kept to read the book at home after buying it.",
+        "C": "He kept swimming in the lake despite the cold water.",
+        "D": "We kept the money from the bank in his home safe."
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -330,8 +330,8 @@
       "question": "What does 'lose' mean?",
       "options": {
         "A": "to be unable to find something",
-        "B": "to gain something",
-        "C": "to win a game",
+        "B": "to be unable to gain something",
+        "C": "to loose a rope",
         "D": "to keep something safe"
       },
       "correct_answer": "A",
@@ -344,31 +344,31 @@
         "A": "I found my keys are on the table.",
         "B": "She found to the cinema alone.",
         "C": "They found my wallet in the park.",
-        "D": "He found about the news."
+        "D": "He found about the game from the news."
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 30,
-      "question": "What is the best definition of 'search'?",
+      "question": "What is the best definition of 'look for'?",
       "options": {
-        "A": "to look for something",
-        "B": "to hide something",
-        "C": "to forget something",
-        "D": "to break something"
+        "A": "to search",
+        "B": "to hide",
+        "C": "to research",
+        "D": "to find out"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 31,
-      "question": "Select the correct definition of 'wait':",
+      "question": "Select the correct definition of 'to stay in one place until something happens':",
       "options": {
-        "A": "to move quickly",
-        "B": "to leave a place",
-        "C": "to stay in one place until something happens",
-        "D": "to arrive somewhere"
+        "A": "to wave",
+        "B": "to weigh",
+        "C": "to wait",
+        "D": "to wire"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -377,22 +377,22 @@
       "id": 32,
       "question": "Which sentence uses 'hurry' correctly?",
       "options": {
-        "A": "We hurry the book from the library.",
+        "A": "We hurry returning the book to the library.",
         "B": "She hurried to catch the bus.",
-        "C": "They hurry at home all day.",
-        "D": "He hurried the window."
+        "C": "They hurry to get home home all day.",
+        "D": "He hurried to the bus stop through the window."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 33,
-      "question": "What does 'carry' mean?",
+      "question": "What does 'to hold and move something' mean?",
       "options": {
-        "A": "to drop something",
-        "B": "to throw something away",
-        "C": "to hold and move something",
-        "D": "to leave something behind"
+        "A": "to card",
+        "B": "to care",
+        "C": "to carry",
+        "D": "to carry on"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -403,8 +403,8 @@
       "options": {
         "A": "I dropped my friend at the airport.",
         "B": "She dropped the book for her birthday.",
-        "C": "They dropped to school this morning.",
-        "D": "He dropped with his parents."
+        "C": "They dropped to school on foot.",
+        "D": "He dropped to live with his parents."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -413,24 +413,24 @@
       "id": 35,
       "question": "What is the correct meaning of 'pick'?",
       "options": {
-        "A": "to choose or select",
-        "B": "to throw away",
-        "C": "to hide",
-        "D": "to break"
+        "A": "to select",
+        "B": "to spike",
+        "C": "to depict",
+        "D": "to pike"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 36,
-      "question": "Select the correct definition of 'throw':",
+      "question": "Select the correct definition of 'to move something through the air':",
       "options": {
-        "A": "to catch something",
-        "B": "to move something through the air",
-        "C": "to hold something",
-        "D": "to drop something"
+        "A": "to catch",
+        "B": "to thread",
+        "C": "to fly",
+        "D": "to throw"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -439,22 +439,22 @@
       "options": {
         "A": "I caught the bus to work.",
         "B": "She caught her book on the shelf.",
-        "C": "They caught home early.",
-        "D": "He caught the weather forecast."
+        "C": "They caught up home early.",
+        "D": "He fastly caught the weather forecast."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 38,
-      "question": "What does 'move' mean?",
+      "question": "What does 'to move from one place to another' mean?",
       "options": {
-        "A": "to stay in the same place",
-        "B": "to change position or location",
-        "C": "to stop an activity",
-        "D": "to visit a place"
+        "A": "to share",
+        "B": "to continue",
+        "C": "to trip",
+        "D": "to travel"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -462,23 +462,23 @@
       "question": "Choose the sentence that uses 'stay' correctly:",
       "options": {
         "A": "I stayed the door open.",
-        "B": "She stayed the book on the table.",
+        "B": "She stayed the keys on the table.",
         "C": "They stayed at a hotel during their vacation.",
-        "D": "He stayed the car in the garage."
+        "D": "He stayed his car in the garage, it was broken."
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 40,
-      "question": "What is the best definition of 'visit'?",
-      "options": {
-        "A": "to live in a place permanently",
-        "B": "to go and see a person or place for a short time",
-        "C": "to avoid a place",
-        "D": "to move to a new home"
+      "question": "Which option provides the best definition of the verb 'to explore' in the context of travel?",
+          "options": {
+          "A": "To live in a foreign country for a fixed, long period of time.",
+          "B": "To avoid a dangerous region due to safety and health concerns.",
+          "C": "To travel through a place in order to discover new things there.",
+          "D": "To quickly look at and count the number of landmarks in an area."
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -547,8 +547,8 @@
       "options": {
         "A": "It's too cold for instruments to function",
         "B": "It's too high for aircraft but too low for satellites",
-        "C": "It contains harmful radiation",
-        "D": "It has too many meteors"
+        "C": "It contains harmful radiation that causes tools' malfunctioning",
+        "D": "It has too many heavy clouds with rain and lightnings"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -559,7 +559,7 @@
       "options": {
         "A": "Auroras",
         "B": "Hurricanes",
-        "C": "Lightning",
+        "C": "Lightning stars",
         "D": "Shooting stars"
       },
       "correct_answer": "D",
@@ -581,9 +581,9 @@
       "id": 49,
       "question": "What would happen if you were in the thermosphere, according to the passage?",
       "options": {
-        "A": "You would feel extremely hot",
+        "A": "You would feel extremely hot because of high temperatures",
         "B": "You would not feel hot despite high temperatures",
-        "C": "You would freeze immediately",
+        "C": "You would freeze immediately despite high temperatures",
         "D": "You would be protected from radiation"
       },
       "correct_answer": "B",
@@ -593,12 +593,12 @@
       "id": 50,
       "question": "What is the main purpose of this passage?",
       "options": {
-        "A": "To explain climate change",
-        "B": "To describe weather patterns",
-        "C": "To explain the structure of Earth's atmosphere",
-        "D": "To discuss space exploration"
+        "A": "To explain climate change over the time",
+        "B": "To describe weather patterns of our planet",
+        "C": "To tell about Earth's atmosphere exploration",
+        "D": "To explain the structure of Earth's atmosphere"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     }
   ]
