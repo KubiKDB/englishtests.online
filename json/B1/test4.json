@@ -3,12 +3,12 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which form of the verb is correct? She _____ to the store yesterday.",
+      "question": "Which word completes the sentence? She _____ her first craft yesterday.",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "went",
-        "D": "going"
+        "A": "selled",
+        "B": "saled",
+        "C": "sold",
+        "D": "solid"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -27,12 +27,12 @@
     },
     {
       "id": 4,
-      "question": "Which sentence is grammatically correct?",
-      "options": {
-        "A": "If it will rain tomorrow, we stay at home.",
-        "B": "If it rains tomorrow, we will stay at home.",
-        "C": "If it raining tomorrow, we stay at home.",
-        "D": "If it rain tomorrow, we will staying at home."
+      "question": "Which sentence is correct?",
+        "options": {
+          "A": "If it will snow heavily this weekend, the children will definitely make a giant snowman in the garden.",
+          "B": "If it snows heavily this weekend, the children will definitely make a giant snowman in the garden.",
+          "C": "If it snowed heavily this weekend, the children will definitely make a giant snowman in the garden.",
+          "D": "If it is snowing heavily this weekend, the children make a giant snowman in the garden."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -42,11 +42,11 @@
       "question": "Which sentence is grammatically correct?",
       "options": {
         "A": "I have visited Paris last summer.",
-        "B": "I visited Paris last summer.",
+        "B": "I have been in Paris last summer.",
         "C": "I was visit Paris last summer.",
-        "D": "I have been in Paris last summer."
+        "D": "I visited Paris last summer."
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -63,50 +63,49 @@
     },
     {
       "id": 6,
-      "question": "Select the correct article: I saw _____ interesting movie last night.",
+      "question": "Select the correct article: I saw _____ interesting movies last night.",
       "options": {
         "A": "a",
         "B": "an",
         "C": "the",
-        "D": "no article needed"
+        "D": "-"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 7,
-      "question": "Which is the correct comparative form? This book is _____ than that one.",
+      "question": "Which is correct? This book is _____ than that one.",
       "options": {
-        "A": "more better",
-        "B": "more good",
-        "C": "better",
-        "D": "gooder"
+        "A": "knowner",
+        "B": "as known",
+        "C": "more known",
+        "D": "much known"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
-      "id": 8,
-      "question": "Choose the correct modal verb: You _____ brush your teeth twice a day.",
-      "options": {
-        "A": "should",
-        "B": "would",
-        "C": "could",
-        "D": "might"
+     "question": "Choose the correct words to complete the sentence: '_____ that the flight left on time, the passengers _____ be landing at the destination airport in about twenty minutes.'",
+        "options": {
+          "A": "Given the assumption/must",
+          "B": "Knowing that/might have",
+          "C": "Whereas/shouldn't",
+          "D": "Having an assumption/would have"
       },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 9,
-      "question": "Select the correct tense: They _____ dinner when I called.",
-      "options": {
-        "A": "are having",
-        "B": "were having",
-        "C": "have",
-        "D": "has"
+      "question": "The students _____ their final assignments in the computer lab when the fire alarm suddenly rang loudly.",
+        "options": {
+          "A": "were finishing",
+          "B": "finished",
+          "C": "have finished",
+          "D": "finish"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
@@ -115,7 +114,7 @@
       "options": {
         "A": "The news are interesting.",
         "B": "The news is interesting.",
-        "C": "The news be interesting.",
+        "C": "The news been interesting.",
         "D": "The news were interesting."
       },
       "correct_answer": "B",
@@ -126,7 +125,7 @@
       "question": "Choose the correct question form: _____ do you go to the gym?",
       "options": {
         "A": "How often",
-        "B": "How time",
+        "B": "How much time",
         "C": "What often",
         "D": "What frequency"
       },
@@ -137,8 +136,8 @@
       "id": 12,
       "question": "Select the correct passive form: The window _____ by the storm last night.",
       "options": {
-        "A": "breaks",
-        "B": "broke",
+        "A": "is being broken",
+        "B": "was broke",
         "C": "was broken",
         "D": "is breaking"
       },
@@ -147,26 +146,26 @@
     },
     {
       "id": 13,
-      "question": "Which form is correct? She _____ here since 2010.",
+      "question": "Which form is correct? She _____ here before she moved to London.",
       "options": {
-        "A": "is living",
-        "B": "lives",
+        "A": "was living",
+        "B": "lived",
         "C": "has lived",
-        "D": "lived"
+        "D": "had lived"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 14,
-      "question": "Choose the correct sentence:",
-      "options": {
-        "A": "I always late for work.",
-        "B": "I always am late for work.",
-        "C": "I am always late for work.",
-        "D": "I late always am for work."
+      "question": "Which sentence is correct?",
+        "options": {
+          "A": "They are never happy about working late on Fridays.",
+          "B": "They never are happy about working late on Fridays.",
+          "C": "Never they are happy about working late on Fridays.",
+          "D": "They are happy about working never late on Fridays.""
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
@@ -187,7 +186,7 @@
       "options": {
         "A": "take off",
         "B": "take away",
-        "C": "take in",
+        "C": "take of",
         "D": "take up"
       },
       "correct_answer": "A",
@@ -195,23 +194,23 @@
     },
     {
       "id": 17,
-      "question": "Complete the expression: It's raining _____ and dogs.",
+      "question": "Complete the expression: It's raining _____.",
       "options": {
-        "A": "cats",
-        "B": "horses",
-        "C": "birds",
-        "D": "mice"
+        "A": "cats and mice",
+        "B": "frogs and snakes",
+        "C": "fogs and ice",
+        "D": "cats and dogs"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 18,
-      "question": "Select the correct collocation: She made a difficult _____.",
+      "question": "Select the correct word: She made a difficult _____.",
       "options": {
         "A": "choice",
         "B": "decide",
-        "C": "selection",
+        "C": "choose",
         "D": "picking"
       },
       "correct_answer": "A",
@@ -245,7 +244,7 @@
       "id": 21,
       "question": "Select the correct connector: I like coffee, _____ my sister prefers tea.",
       "options": {
-        "A": "so",
+        "A": "with",
         "B": "because",
         "C": "therefore",
         "D": "while"
@@ -260,7 +259,7 @@
         "A": "marks",
         "B": "colors",
         "C": "grades",
-        "D": "points"
+        "D": "vibes"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -269,9 +268,9 @@
       "id": 23,
       "question": "Which is the correct response to 'Thank you'?",
       "options": {
-        "A": "Of course not",
+        "A": "Of course you thank",
         "B": "You're welcome",
-        "C": "Why not",
+        "C": "It is ok to thank",
         "D": "Never mind it"
       },
       "correct_answer": "B",
@@ -281,10 +280,10 @@
       "id": 24,
       "question": "Choose the correct word to complete this request: Could you please _____ me your pen?",
       "options": {
-        "A": "borrow",
+        "A": "land",
         "B": "lend",
         "C": "rent",
-        "D": "lease"
+        "D": "bend"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -293,10 +292,10 @@
       "id": 25,
       "question": "Select the correct expression: She's feeling under the _____.",
       "options": {
-        "A": "cloud",
-        "B": "rain",
+        "A": "feature",
+        "B": "feather",
         "C": "weather",
-        "D": "sky"
+        "D": "wether"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -308,7 +307,7 @@
         "A": "difficult to understand",
         "B": "relating to visual art",
         "C": "very small details",
-        "D": "extremely bright"
+        "D": "poorly designed"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -317,10 +316,10 @@
       "id": 27,
       "question": "Which sentence uses the word 'chemical' correctly?",
       "options": {
-        "A": "We need to chemical the solution.",
+        "A": "We need to find some chemical for the solution.",
         "B": "The laboratory has many chemical substances.",
-        "C": "Please chemical this experiment carefully.",
-        "D": "I don't like when people chemical."
+        "C": "Please take this chemical experiment carefully.",
+        "D": "I don't like when people are too chemical."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -329,10 +328,10 @@
       "id": 28,
       "question": "The word 'penalty' most closely means:",
       "options": {
-        "A": "reward",
+        "A": "puncture",
         "B": "punishment",
         "C": "advantage",
-        "D": "victory"
+        "D": "excitement"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -341,7 +340,7 @@
       "id": 29,
       "question": "An 'eruption' is most likely to come from a:",
       "options": {
-        "A": "river",
+        "A": "ocean",
         "B": "mountain",
         "C": "volcano",
         "D": "cloud"
@@ -354,9 +353,9 @@
       "question": "Which sentence uses 'involve' correctly?",
       "options": {
         "A": "We should involve more sugar in the recipe.",
-        "B": "They will involve to the party later.",
+        "B": "The dinosaurs involved slowly over the time.",
         "C": "The project will involve several team members.",
-        "D": "Please involve your coat before leaving."
+        "D": "Please involve your coat before leaving the school."
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -365,12 +364,12 @@
       "id": 31,
       "question": "The word 'impact' in the sentence 'The new law will have a significant impact on businesses' means:",
       "options": {
-        "A": "cost",
-        "B": "effect",
-        "C": "duration",
-        "D": "appearance"
+        "A": "affect",
+        "B": "effort",
+        "C": "affirm",
+        "D": "effect"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -379,7 +378,7 @@
       "options": {
         "A": "refusing to give up",
         "B": "giving way to pressure",
-        "C": "moving quickly",
+        "C": "bringing more freedom",
         "D": "looking attractive"
       },
       "correct_answer": "B",
@@ -389,12 +388,12 @@
       "id": 33,
       "question": "A 'branch' of a bank is:",
       "options": {
-        "A": "the main headquarters of a bank",
-        "B": "a separate location of the same bank",
+        "A": "a separate location of the same bank",
+        "B": "the main headquarters of a bank",
         "C": "a type of account in the same bank",
         "D": "a security system of a bank"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
@@ -411,24 +410,24 @@
     },
     {
       "id": 35,
-      "question": "The word 'largest' is the superlative form of:",
+      "question": "The word 'worse' is the form of:",
       "options": {
-        "A": "large",
-        "B": "larger",
-        "C": "largely",
-        "D": "enlarge"
+        "A": "ware",
+        "B": "wore",
+        "C": "bed",
+        "D": "bad"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 36,
       "question": "Choose the sentence where 'instead' is used correctly:",
       "options": {
-        "A": "She instead going to the party.",
+        "A": "She instead of going to the party, stayed home.",
         "B": "Instead of going to the party, she stayed home.",
-        "C": "She went to the party instead of her illness.",
-        "D": "She instead of went to the party."
+        "C": "She went to the party, instead of her illness.",
+        "D": "She was instead of her illness going the party."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -438,9 +437,9 @@
       "question": "At the 'counter' of a cafe, you can:",
       "options": {
         "A": "sit and eat your meal",
-        "B": "wash your hands",
+        "B": "wash and dry your hands",
         "C": "order and pay for food",
-        "D": "cook your own food"
+        "D": "cook your own food and eat it"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -451,22 +450,22 @@
       "options": {
         "A": "inside a building",
         "B": "outside in the open air",
-        "C": "in a shopping mall",
-        "D": "at night time"
+        "C": "behind an open door",
+        "D": "at activity club"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 39,
-      "question": "The word 'exactly' is most similar in meaning to:",
+      "question": "The word 'precisely' is most similar in meaning to:",
       "options": {
         "A": "approximately",
-        "B": "precisely",
+        "B": "roughly",
         "C": "generally",
-        "D": "roughly"
+        "D": "exactly"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -522,11 +521,11 @@
       "question": "Based on the passage, why do black clothes make you feel hotter on a sunny day?",
       "options": {
         "A": "They reflect all wavelengths of light.",
-        "B": "They absorb all wavelengths of light.",
+        "B": "They create more light energy.",
         "C": "They only reflect black light.",
-        "D": "They create more light energy."
+        "D": "They absorb all wavelengths of light."
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -559,10 +558,10 @@
       "options": {
         "A": "Our perception of color is always accurate.",
         "B": "Colors look the same under all lighting conditions.",
-        "C": "Surrounding colors can influence how we perceive a color.",
-        "D": "Interior designers don't need to consider lighting."
+        "C": "Interior designers don't need to consider lighting.",
+        "D": "Surrounding colors can influence how we perceive a color."
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -594,7 +593,7 @@
       "question": "According to the passage, which of the following would appear white?",
       "options": {
         "A": "An object that absorbs all wavelengths of light",
-        "B": "An object that reflects no wavelengths of light",
+        "B": "An object that reflects some wavelengths of light",
         "C": "An object that reflects all wavelengths of light",
         "D": "An object that only reflects red light"
       },
