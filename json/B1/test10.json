@@ -15,24 +15,24 @@
     },
     {
       "id": 2,
-      "question": "Choose the correct form of the verb for this sentence: 'If I _____ more time, I would learn another language.'",
-      "options": {
-        "A": "have",
-        "B": "had",
-        "C": "would have",
-        "D": "having"
+      "question": "Choose the correct verb form to complete sentence about:'If they suddenly _____ a lot of money, they would immediately travel around the world.'",
+          "options": {
+          "A": "have a win",
+          "B": "won",
+          "C": "will win",
+          "D": "are winning"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 3,
-      "question": "Select the correct option to complete the sentence: 'She _____ tennis every Saturday morning.'",
-      "options": {
-        "A": "play",
-        "B": "playing",
-        "C": "plays",
-        "D": "is play"
+      "question": "Choose the correct verb form to complete the sentence: 'Despite living in the city for ten years, I still _____ the new modern art museum.'",
+          "options": {
+          "A": "never visited",
+          "B": "didn't visit",
+          "C": "haven't visited",
+          "D": "hadn't visited"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -63,14 +63,14 @@
     },
     {
       "id": 6,
-      "question": "Select the correct relative pronoun: 'The woman _____ lives next door is a doctor.'",
-      "options": {
-        "A": "who",
-        "B": "which",
-        "C": "what",
-        "D": "whom"
+      "question": "Choose the correct relative pronoun to complete the sentence: 'The friendly journalist _____ interviewed the company CEO was reporting live.'",
+          "options": {
+          "A": "which",
+          "B": "whom",
+          "C": "who",
+          "D": "who's"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -80,7 +80,7 @@
         "A": "By the time we arrived, the movie had already started.",
         "B": "I will call you when I will arrive home.",
         "C": "She has visited Paris twice in her life.",
-        "D": "They were watching TV when the power went out."
+        "D": "They were playing chess when I came in."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -104,7 +104,7 @@
         "A": "a",
         "B": "an",
         "C": "the",
-        "D": "no article needed"
+        "D": "-"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -113,22 +113,22 @@
       "id": 10,
       "question": "Which sentence uses the passive voice correctly?",
       "options": {
-        "A": "The cake was eating by the children.",
-        "B": "The cake eaten by the children.",
+        "A": "The cake was eated by the children.",
+        "B": "The cake was ate by the children.",
         "C": "The cake was eaten by the children.",
-        "D": "The cake is eat by the children."
+        "D": "The cake was eat by the children."
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 11,
-      "question": "Choose the correct comparative form: 'This book is _____ than the one I read last week.'",
-      "options": {
-        "A": "interesting",
-        "B": "more interesting",
-        "C": "most interesting",
-        "D": "interestinger"
+     "question": "Choose the correct comparative form to complete the sentence: 'Traveling by train is usually _____ than driving a car, especially over very long distances.'",
+          "options": {
+          "A": "the more comfortable",
+          "B": "more comfortable",
+          "C": "much more comfortable",
+          "D": "the most comfortable"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -149,7 +149,7 @@
       "id": 13,
       "question": "Which sentence contains a countable noun error?",
       "options": {
-        "A": "She gave me some good advice.",
+        "A": "She gave me some good advice on how to buy a house.",
         "B": "I need to buy a new furniture for my apartment.",
         "C": "There are many students in this class.",
         "D": "He has three children."
@@ -159,24 +159,24 @@
     },
     {
       "id": 14,
-      "question": "Choose the correct form: 'If it _____ tomorrow, we will cancel the picnic.'",
-      "options": {
-        "A": "rains",
-        "B": "will rain",
-        "C": "would rain",
-        "D": "is raining"
+     "question": "Choose the correct verb form to complete sentence:'If the new product is successful, the company _____ new staff immediately to handle the extra demand.'",
+          "options": {
+          "A": "hires",
+          "B": "will hire",
+          "C": "would hire",
+          "D": "is hiring"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 15,
-      "question": "Select the correct phrasal verb to complete this sentence: 'I need to _____ this form before applying for the job.'",
-      "options": {
-        "A": "fill up",
-        "B": "fill out",
-        "C": "fill in",
-        "D": "fill on"
+      "question": "Choose the correct phrasal verb to complete the sentence: 'It's essential to _____ the instructions carefully before you attempt to assemble the furniture.'",
+          "options": {
+          "A": "go into",
+          "B": "go over",
+          "C": "go by",
+          "D": "go through"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -231,14 +231,14 @@
     },
     {
       "id": 20,
-      "question": "Choose the correct phrasal verb: 'Can you _____ the children while I go shopping?'",
-      "options": {
-        "A": "look at",
-        "B": "look for",
-        "C": "look after",
-        "D": "look up"
+      "question": "Choose the correct phrasal verb to complete the sentence: 'It’s getting late, so we should _____ now if we want to arrive at the concert venue on time.'",
+          "options": {
+          "A": "set off",
+          "B": "put off",
+          "C": "take off",
+          "D": "get over"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Use of English"
     },
     {
@@ -260,7 +260,7 @@
         "A": "sick",
         "B": "ill",
         "C": "bored",
-        "D": "tired"
+        "D": "bothered"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -269,7 +269,7 @@
       "id": 23,
       "question": "Select the correct linking word: 'I wanted to go to the beach; _____, it started raining.'",
       "options": {
-        "A": "so",
+        "A": "furthermore",
         "B": "because",
         "C": "however",
         "D": "therefore"
@@ -283,8 +283,8 @@
       "options": {
         "A": "How do you feel?",
         "B": "Nice to meet you.",
-        "C": "See you later.",
-        "D": "Have a good day."
+        "C": "Nice to see you later.",
+        "D": "Nice to see you againg."
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -293,10 +293,10 @@
       "id": 25,
       "question": "Select the correct article usage: 'We had _____ amazing time at _____ party last night.'",
       "options": {
-        "A": "an / the",
-        "B": "the / an",
-        "C": "a / the",
-        "D": "the / a"
+        "A": "an/the",
+        "B": "the/an",
+        "C": "a/the",
+        "D": "the/a"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -305,10 +305,10 @@
       "id": 26,
       "question": "What does the word 'graphic' mean in this sentence: 'The news report contained graphic images of the accident.'",
       "options": {
-        "A": "artistic",
+        "A": "artistic and colored",
         "B": "vivid and detailed",
-        "C": "computerized",
-        "D": "colorful"
+        "C": "computerized and standard",
+        "D": "painted and colorful"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -329,10 +329,10 @@
       "id": 28,
       "question": "What does 'penalty' mean in this sentence: 'He received a penalty for breaking the rules.'",
       "options": {
-        "A": "a reward",
+        "A": "a penal",
         "B": "a punishment",
         "C": "a warning",
-        "D": "a certificate"
+        "D": "a tenancy"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -366,11 +366,11 @@
       "question": "Choose the correct meaning of 'impact' in this context: 'The new policy will have a significant impact on the economy.'",
       "options": {
         "A": "collision",
-        "B": "effect",
+        "B": "affect",
         "C": "damage",
-        "D": "advantage"
+        "D": "effect"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -391,8 +391,8 @@
       "options": {
         "A": "part of a tree",
         "B": "division of a company",
-        "C": "type of product",
-        "D": "group of people"
+        "C": "type of additional product",
+        "D": "wide group of people"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -438,9 +438,9 @@
       "question": "Choose the meaning of 'counter' in this context: 'She stood at the checkout counter to pay for her groceries.'",
       "options": {
         "A": "table",
-        "B": "desk",
-        "C": "cabinet",
-        "D": "shelf"
+        "B": "disc",
+        "C": "disk",
+        "D": "desk"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -461,10 +461,10 @@
       "id": 39,
       "question": "Choose the correct meaning of 'exactly' in this context: 'That's exactly what I was thinking.'",
       "options": {
-        "A": "approximately",
-        "B": "rarely",
+        "A": "preciously",
+        "B": "previously",
         "C": "precisely",
-        "D": "occasionally"
+        "D": "precariously"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -473,10 +473,10 @@
       "id": 40,
       "question": "What does 'entire' mean in this sentence: 'I read the entire book in one day.'",
       "options": {
-        "A": "whole",
-        "B": "part of",
-        "C": "beginning of",
-        "D": "end of"
+        "A": "the whole",
+        "B": "the part",
+        "C": "the beginning",
+        "D": "the end"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -533,12 +533,12 @@
       "id": 45,
       "question": "According to the passage, how has artificial intelligence changed online shopping?",
       "options": {
-        "A": "By creating virtual and augmented reality experiences",
-        "B": "By making it possible to shop from home",
-        "C": "By analyzing shopping behavior to recommend personalized products",
-        "D": "By integrating shopping features into social media"
+        "A": "By making it possible to shop from home",
+        "B": "By creating virtual and augmented reality experiences",
+        "C": "By integrating shopping features into social media platforms",
+        "D": "By analyzing shopping behavior to recommend personalized products"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -557,12 +557,12 @@
       "id": 47,
       "question": "According to paragraph 5, what is NOT mentioned as a challenge facing online shopping?",
       "options": {
-        "A": "Data privacy concerns",
+        "A": "The high cost of internet accesss",
         "B": "The environmental impact of delivery services",
         "C": "Small businesses struggling to compete with e-commerce giants",
-        "D": "The high cost of internet access"
+        "D": "Data privacy concern"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "category": "Reading"
     },
     {
