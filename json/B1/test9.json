@@ -20,7 +20,7 @@
         "A": "for",
         "B": "since",
         "C": "at",
-        "D": "during"
+        "D": "from"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -29,7 +29,7 @@
       "id": 3,
       "question": "Which past tense form is correct?",
       "options": {
-        "A": "I goed to the store yesterday.",
+        "A": "I bringed a newspaper yesterday.",
         "B": "She buyed a new car last week.",
         "C": "They thinked about the problem.",
         "D": "He taught English for ten years."
@@ -39,12 +39,12 @@
     },
     {
       "id": 4,
-      "question": "Select the correct conditional form: 'If I _____ more time, I would travel more.'",
+      "question": "Select the correct conditional form: 'I _____ study another language, if I _____ more time.'",
       "options": {
-        "A": "have",
-        "B": "had",
-        "C": "would have",
-        "D": "will have"
+        "A": "could/have",
+        "B": "would/had",
+        "C": "would/have",
+        "D": "will/have"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -113,7 +113,7 @@
       "id": 10,
       "question": "Select the correct passive voice form: 'The book _____ by the student.'",
       "options": {
-        "A": "reads",
+        "A": "was readed",
         "B": "is reading",
         "C": "read",
         "D": "is read"
@@ -123,22 +123,22 @@
     },
     {
       "id": 11,
-      "question": "Choose the correct relative pronoun: 'The woman _____ called yesterday is my teacher.'",
+      "question": "Choose the correct relative pronoun: 'The woman, _____ I called yesterday, is my teacher.'",
       "options": {
         "A": "who",
         "B": "which",
         "C": "whose",
         "D": "whom"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 12,
       "question": "Which sentence has the correct word order?",
       "options": {
-        "A": "Always he arrives late to meetings.",
-        "B": "She well speaks English.",
+        "A": "He arrives late to meetings always.",
+        "B": "She speaks well English.",
         "C": "I know where is the restaurant.",
         "D": "They have never been to that museum."
       },
@@ -175,7 +175,7 @@
       "options": {
         "A": "I was cook dinner when she called.",
         "B": "He was watching TV when the power went out.",
-        "C": "They were ate lunch at noon yesterday.",
+        "C": "They were ate delicious lunch at noon yesterday.",
         "D": "We was working all night."
       },
       "correct_answer": "B",
@@ -185,9 +185,9 @@
       "id": 16,
       "question": "Choose the most appropriate phrase to complete the sentence: 'I'm really sorry, but I can't _____ your party on Friday.'",
       "options": {
-        "A": "take part",
-        "B": "make up",
-        "C": "keep up",
+        "A": "take part to",
+        "B": "make it up",
+        "C": "keep it up",
         "D": "make it to"
       },
       "correct_answer": "D",
@@ -195,10 +195,10 @@
     },
     {
       "id": 17,
-      "question": "Select the most appropriate response: 'Would you like some help?' '_____'",
+      "question": "Select the most appropriate response: 'Would you like some help?'",
       "options": {
         "A": "Yes, I'd love one.",
-        "B": "That would be great, thanks.",
+        "B": "That would be great.",
         "C": "I don't mind.",
         "D": "It's up to you."
       },
@@ -211,7 +211,7 @@
       "options": {
         "A": "Hey there,",
         "B": "What's up?",
-        "C": "Dear Sir/Madam,",
+        "C": "Dear Madam,",
         "D": "Hello friend,"
       },
       "correct_answer": "C",
@@ -234,9 +234,9 @@
       "question": "Select the most appropriate way to ask someone to repeat information:",
       "options": {
         "A": "What?",
-        "B": "Tell me more.",
+        "B": "Tell me more again, please?",
         "C": "Would you say that again, please?",
-        "D": "I need you to speak."
+        "D": "I need you to speak slowly, please."
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -258,7 +258,7 @@
       "question": "Choose the best idiom to complete the sentence: 'Finding a job in this economy is _____.'",
       "options": {
         "A": "a piece of cake",
-        "B": "under the weather",
+        "B": "back and forth",
         "C": "over the moon",
         "D": "an uphill battle"
       },
@@ -271,8 +271,8 @@
       "options": {
         "A": "You must try the new restaurant.",
         "B": "Why don't we try the new restaurant?",
-        "C": "I command you to try the new restaurant.",
-        "D": "The new restaurant is trying."
+        "C": "I promise you to try the new restaurant.",
+        "D": "Is the new restaurant waiting for our visit?"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -282,7 +282,7 @@
       "question": "Choose the correct connector to complete the sentence: 'She studied hard _____ she wanted to pass the exam.'",
       "options": {
         "A": "although",
-        "B": "but",
+        "B": "as a result",
         "C": "because",
         "D": "however"
       },
@@ -291,11 +291,11 @@
     },
     {
       "id": 25,
-      "question": "Select the most appropriate response to the question: 'How was your weekend?' '_____'",
+      "question": "Select the most appropriate response to the question: 'How was your weekend?'",
       "options": {
         "A": "Yes, it was.",
         "B": "I don't mind weekends.",
-        "C": "It was quite relaxing, thanks.",
+        "C": "It was quite relaxing.",
         "D": "On Saturday and Sunday."
       },
       "correct_answer": "C",
@@ -303,12 +303,12 @@
     },
     {
       "id": 26,
-      "question": "What does 'shaded' mean in the sentence: 'We sat in the shaded area of the park to avoid the sun.'?",
+      "question": "What does 'shaded' mean in the sentence: 'We sat in the shaded area of the park.'?",
       "options": {
-        "A": "sunny",
+        "A": "bright spot in the shadowed area",
         "B": "protected from direct sunlight",
-        "C": "colored with pencils",
-        "D": "exposed to the elements"
+        "C": "bench colored with pencils",
+        "D": "sidewalk exposed to the sunlight"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -318,9 +318,9 @@
       "question": "Choose the sentence with the correct use of 'zoning':",
       "options": {
         "A": "City zoning regulations determine where businesses can operate.",
-        "B": "She was zoning her hair this morning.",
-        "C": "They are zoning the fruits in the basket.",
-        "D": "I'm zoning my homework tonight."
+        "B": "She was zoning her hair beautifully this morning.",
+        "C": "They are zoning the fruits in the different baskets.",
+        "D": "City zoning was determined by new authority."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -331,18 +331,18 @@
       "options": {
         "A": "She violins her clothes every weekend.",
         "B": "The chef violins the vegetables for the soup.",
-        "C": "My sister has been playing the violin for five years.",
-        "D": "They violin to work every morning."
+        "C": "They violin the strict department directives.",
+        "D": "My sister has been playing the violin for five years."
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 29,
-      "question": "What is the meaning of 'western' in this context: 'Western culture has influenced many parts of the world.'?",
+      "question": "What is the meaning of 'western' in this context: 'Western culture has influenced many countries in the world.'?",
       "options": {
-        "A": "relating to the setting sun",
-        "B": "relating to or characteristic of the West or its people",
+        "A": "relating to the setting sun side of the world",
+        "B": "relating to Western world as a concept",
         "C": "a type of movie about cowboys",
         "D": "relating to a compass direction"
       },
@@ -353,10 +353,10 @@
       "id": 30,
       "question": "Choose the sentence with the correct use of 'repair':",
       "options": {
-        "A": "She repairs to bed early every night.",
+        "A": "She repairs her bed early every night.",
         "B": "The mechanic will repair my car tomorrow.",
-        "C": "They repair their breakfast at 7 AM.",
-        "D": "I repair the weather is nice today."
+        "C": "They became repair twenty years ago.",
+        "D": "The repair of the weather is nice today."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -365,7 +365,7 @@
       "id": 31,
       "question": "What is the correct meaning of 'again' in the sentence: 'I'll try again tomorrow.'?",
       "options": {
-        "A": "for the first time",
+        "A": "two times",
         "B": "once more",
         "C": "never",
         "D": "elsewhere"
@@ -378,43 +378,43 @@
       "question": "Which sentence uses 'loyal' correctly?",
       "options": {
         "A": "The dog has been loyal to its owner for many years.",
-        "B": "She loyal the dishes after dinner.",
-        "C": "They loyal to the train station yesterday.",
-        "D": "I loyal my homework before class."
+        "B": "She was loyal to the new program at school.",
+        "C": "Their loyal to the Crown was known.",
+        "D": "My new job is too loyal to me."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 33,
-      "question": "What does 'weekly' mean in this context: 'The magazine is published on a weekly basis.'?",
+      "question": "What does 'decade' mean in this context: 'The phenomenon occurs once a decade.'?",
       "options": {
-        "A": "every month",
-        "B": "every day",
-        "C": "once a week",
-        "D": "twice a month"
+        "A": "every quarter",
+        "B": "once in two years",
+        "C": "every ten years",
+        "D": "twice a century"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 34,
-      "question": "Choose the sentence with the correct use of 'qualms':",
-      "options": {
-        "A": "She qualms her car in the garage.",
-        "B": "I have no qualms about speaking in public.",
-        "C": "They qualms dinner for the whole family.",
-        "D": "He qualms to school by bus."
+      "question": "Choose the correct adjective to complete the sentence: 'The team leader is extremely _____ and always delivers high-quality results ahead of the deadline.'",
+          "options": {
+          "A": "carefull",
+          "B": "efficient",
+          "C": "effective",
+          "D": "careless"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 35,
-      "question": "What is the meaning of 'gender' in the sentence: 'The form asks for your name, age, and gender.'?",
+      "question": "What can be the meaning of 'gender' in the sentence: 'The form asks for your name, age, and gender.'?",
       "options": {
         "A": "nationality",
-        "B": "being male or female",
+        "B": "female",
         "C": "marital status",
         "D": "profession"
       },
@@ -426,23 +426,23 @@
       "question": "Which sentence uses 'before' correctly?",
       "options": {
         "A": "Please wash your hands before eating.",
-        "B": "She before her car every weekend.",
-        "C": "They before to the cinema yesterday.",
-        "D": "I before the book on the shelf."
+        "B": "She runs before her Nike every weekend.",
+        "C": "They went to the cinema before yesterday.",
+        "D": "I before tried the new menu in this cafe."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 37,
-      "question": "What is the correct use of 'stuffs' in modern English?",
+      "question": "Which sentence is correct?",
       "options": {
-        "A": "He stuffs the turkey for Thanksgiving dinner.",
-        "B": "All my stuffs are in that bag.",
-        "C": "She stuffs her clothes into the suitcase.",
-        "D": "I need to buy school stuffs."
+        "A": "She stuffs her clothes into the suitcase.",
+        "B": "All my staff are in that bag.",
+        "C": "We stuff the turkey for Thanksgiving dinner.",
+        "D": "I need to buy a new school staffs."
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -450,9 +450,9 @@
       "question": "Choose the sentence with the correct use of 'trends':",
       "options": {
         "A": "Fashion trends change every season.",
-        "B": "She trends to work by car.",
-        "C": "The boy trends his toys after playing.",
-        "D": "I trends my breakfast quickly."
+        "B": "She trends a new dress in her Tik Tok.",
+        "C": "The boy has trends with his toys after playing.",
+        "D": "I have trended in their play in the theater."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -462,9 +462,9 @@
       "question": "What does 'trucks' refer to in this context: 'The delivery trucks arrive early in the morning.'?",
       "options": {
         "A": "small cars",
-        "B": "large vehicles for transporting goods",
+        "B": "large vehicles,",
         "C": "trains",
-        "D": "shopping carts"
+        "D": "tractors"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -473,12 +473,12 @@
       "id": 40,
       "question": "Which sentence uses 'saving' correctly?",
       "options": {
-        "A": "She is saving money to buy a new phone.",
-        "B": "He saving his dinner until later.",
-        "C": "They saving to the park yesterday.",
-        "D": "I saving the TV when you called."
+        "A": "They were saving their dog to the park yesterday.",
+        "B": "He is saving his dinner until later.",
+        "C": "She is saving money to buy a new phone.",
+        "D": "I am saving the stocks on the stock exchange."
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -512,7 +512,7 @@
         "A": "It made trade unnecessary",
         "B": "It limited trade to local areas",
         "C": "It allowed merchants to expand their networks",
-        "D": "It had no significant impact on trade"
+        "D": "It had no significant impact on trade in the ancient world"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -533,7 +533,7 @@
       "id": 45,
       "question": "The word 'underpin' in paragraph 4 is closest in meaning to:",
       "options": {
-        "A": "replace",
+        "A": "replace entirely",
         "B": "support fundamentally",
         "C": "slowly destroy",
         "D": "slightly improve"
@@ -548,7 +548,7 @@
         "A": "Modern materials only",
         "B": "Government funding",
         "C": "Both the concept and engineering knowledge",
-        "D": "International cooperation"
+        "D": "Both the materials and cooperation"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -594,11 +594,11 @@
       "question": "What lesson does the passage suggest we can learn from the wheel's history?",
       "options": {
         "A": "Ancient civilizations were more advanced than modern ones",
-        "B": "Simple innovations can have far-reaching impacts beyond their original purpose",
+        "B": "Military applications drive most technological innovations",
         "C": "Transportation technology hasn't improved much since ancient times",
-        "D": "Military applications drive most technological innovations"
+        "D": "Simple innovations can have far-reaching impacts beyond their original purpose"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Reading"
     }
   ]
