@@ -3,38 +3,37 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which form of the verb is correct? She _____ to the movies last weekend.",
-      "options": {
-        "A": "go",
-        "B": "went",
-        "C": "goes",
-        "D": "going"
+     "question": "Choose the correct form of the verb:'The students finally _____ all of the complex algebra problems before the end of the school day yesterday.'",
+        "options": {
+        "A": "solve",
+        "B": "solved",
+        "C": "are solving",
+        "D": "have solved"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
-      "id": 2,
-      "question": "Choose the correct preposition: The book is _____ the table.",
-      "options": {
-        "A": "on",
-        "B": "in",
-        "C": "at",
-        "D": "by"
+      "question": "Choose the correct preposition:'The main train station is located exactly _____ the end of the High Street, directly opposite the park.'",
+          "options": {
+          "A": "on",
+          "B": "in",
+          "C": "at",
+          "D": "over"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 3,
-      "question": "Which sentence is grammatically correct?",
-      "options": {
-        "A": "She don't like coffee.",
-        "B": "They doesn't play tennis.",
-        "C": "He doesn't understand the question.",
-        "D": "I doesn't know the answer."
+      "question": "Choose the grammatically correct negative sentence in the Present Simple tense:",
+          "options": {
+          "A": "My younger sister don't watch action movies late at night.",
+          "B": "The new computers doesn't require a special password to log in.",
+          "C": "I am not usually go to the beach on cloudy weekends.",
+          "D": "Our elderly neighbor doesn't drive his car outside the city center."
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -51,24 +50,24 @@
     },
     {
       "id": 5,
-      "question": "Choose the correct article: I saw _____ interesting movie yesterday.",
-      "options": {
-        "A": "a",
-        "B": "an",
-        "C": "the",
-        "D": "no article needed"
+      "question": "Choose the correct articles:'I have _____ new laptop, but _____ battery life isn't very good.'",
+          "options": {
+          "A": "a/the",
+          "B": "an/the",
+          "C": "the/a",
+          "D": "a/a"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 6,
-      "question": "Which sentence uses the correct comparative form?",
+      "question": "Which sentence uses the correct form?",
       "options": {
         "A": "This book is more better than that one.",
-        "B": "She runs more fast than her brother.",
+        "B": "She runs much more faster than her brother.",
         "C": "My apartment is bigger than yours.",
-        "D": "He is more taller than his friend."
+        "D": "He is the tallest than his friend."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -89,10 +88,10 @@
       "id": 8,
       "question": "Choose the correct form of the verb in the future tense: I _____ my grandmother next week.",
       "options": {
-        "A": "visiting",
-        "B": "visit",
+        "A": "will be at visiting",
+        "B": "will have visited",
         "C": "will visit",
-        "D": "visited"
+        "D": "will be visited"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -101,58 +100,58 @@
       "id": 9,
       "question": "Identify the correct passive voice construction: The cake _____.",
       "options": {
-        "A": "was eaten by them",
+        "A": "they was eaten",
         "B": "they were eaten",
-        "C": "was eat by them",
-        "D": "they was eaten"
+        "C": "was ete by them",
+        "D": "was eaten by them"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 10,
-      "question": "Select the correct conditional form: If it rains tomorrow, I _____ at home.",
-      "options": {
-        "A": "will stay",
-        "B": "would stay",
-        "C": "stayed",
-        "D": "staying"
+      "question": "Choose the correct verb forms:'If we _____ to finish our work early today, we _____ for a relaxing walk by the river this evening.'",
+          "options": {
+          "A": "manage/go",
+          "B": "mnaging/would go",
+          "C": "manage/will go",
+          "D": "have managed/will go"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 11,
-      "question": "Which sentence has the correct word order?",
-      "options": {
-        "A": "Where you are going?",
-        "B": "Where are you going?",
-        "C": "Where going are you?",
-        "D": "Where are going you?"
+      "question": "Select the sentence with the correct word order:",
+          "options": {
+          "A": "I asked my manager where was the new project brief located.",
+          "B": "I asked my manager where the new project brief was located.",
+          "C": "I asked my manager where the new project brief located was.",
+          "D": "I asked my manager where located was the new project brief."
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 12,
-      "question": "Choose the correct relative pronoun: The woman _____ lives next door is a doctor.",
-      "options": {
+      "question": "Choose the correct word:'The neighbor, _____ dog barks loudly every morning, has recently moved to a quieter street.'",
+        "options": {
         "A": "who",
         "B": "which",
         "C": "whose",
         "D": "whom"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 13,
-      "question": "Select the correct form: She has _____ to many countries in Europe.",
-      "options": {
-        "A": "go",
-        "B": "gone",
-        "C": "went",
-        "D": "going"
+      "question": "Choose the correct verb: 'After her round-the-world trip, Sarah told us she _____ to five different continents in the last two years.'",
+          "options": {
+          "A": "have gone",
+          "B": "had been",
+          "C": "had went",
+          "D": "have been"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -161,9 +160,9 @@
       "id": 14,
       "question": "Which sentence uses the correct gerund form?",
       "options": {
-        "A": "I enjoy to swim in the ocean.",
-        "B": "He avoided to tell the truth.",
-        "C": "They finished to work on the project.",
+        "A": "I enjoy at swimming in the ocean.",
+        "B": "He avoiding to tell the truth.",
+        "C": "They finished to working on the project.",
         "D": "She enjoys reading mystery novels."
       },
       "correct_answer": "D",
@@ -188,31 +187,31 @@
         "A": "take off",
         "B": "take up",
         "C": "take in",
-        "D": "take over"
+        "D": "take of"
       },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 17,
-      "question": "Choose the correct collocation: _____ a decision",
-      "options": {
-        "A": "do",
-        "B": "make",
-        "C": "take",
-        "D": "have"
+      "question": "Choose the most appropriate verb:'I need to _____ an important phone call to the bank before they close this afternoon.'",
+          "options": {
+          "A": "do",
+          "B": "make",
+          "C": "take",
+          "D": "get"
       },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 18,
-      "question": "Select the appropriate idiom: After failing the exam three times, John finally gave _____ studying medicine.",
+      "question": "Select the appropriate idiom: After failing the exam three times, John finally  _____ studying medicine.",
       "options": {
-        "A": "up",
-        "B": "in",
-        "C": "away",
-        "D": "out"
+        "A": "gave up",
+        "B": "quit up",
+        "C": "take out",
+        "D": "end down"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -245,12 +244,12 @@
       "id": 21,
       "question": "Select the appropriate expression: It's raining heavily. I think we should _____ the picnic.",
       "options": {
-        "A": "call off",
+        "A": "call of",
         "B": "call out",
         "C": "call for",
-        "D": "call up"
+        "D": "call off"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -267,19 +266,19 @@
     },
     {
       "id": 23,
-      "question": "Select the appropriate preposition: She's been working _____ this company since 2010.",
+      "question": "Select the appropriate preposition: She's been working _____ this company _____ 2010.",
       "options": {
-        "A": "at",
-        "B": "for",
-        "C": "in",
-        "D": "with"
+        "A": "at/for",
+        "B": "for/since",
+        "C": "in/from",
+        "D": "with/in"
       },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 24,
-      "question": "Choose the correct word to complete the sentence: I need to _____ some money from the bank.",
+      "question": "Choose the correct word to complete the sentence: I need to _____ some money from ATM.",
       "options": {
         "A": "borrow",
         "B": "lend",
@@ -291,14 +290,14 @@
     },
     {
       "id": 25,
-      "question": "Select the correct response to the question 'How do you do?'",
-      "options": {
-        "A": "I'm fine, thank you.",
-        "B": "How do you do?",
-        "C": "Not bad.",
-        "D": "Very well, thanks."
+      "question": "Choose the correct word:'The travel agency promised us an incredibly _____ holiday package with many exciting activities.'",
+          "options": {
+          "A": "enjoy",
+          "B": "enjoyment",
+          "C": "enjoyable",
+          "D": "enjoying"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
@@ -307,7 +306,7 @@
       "options": {
         "A": "to say that something will happen in the future",
         "B": "to understand something completely",
-        "C": "to decide to do something",
+        "C": "to decide to do something precise",
         "D": "to think deeply about a problem"
       },
       "correct_answer": "A",
@@ -315,26 +314,26 @@
     },
     {
       "id": 27,
-      "question": "Select the synonym for 'further':",
+      "question": "Select the synonym for 'additional':",
       "options": {
-        "A": "closer",
-        "B": "additional",
+        "A": "father",
+        "B": "further",
         "C": "faster",
-        "D": "clearer"
+        "D": "feather"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 28,
-      "question": "What does 'gesture' mean?",
+      "question": "What does 'movement of part of the body to express an idea or meaning' mean?",
       "options": {
-        "A": "a movement of part of the body to express an idea or meaning",
-        "B": "a strong feeling of anger",
-        "C": "a small gift given to someone",
-        "D": "a type of formal clothing"
+        "A": "a posture",
+        "B": "a guest",
+        "C": "a guess",
+        "D": "a gesture"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -343,8 +342,8 @@
       "options": {
         "A": "without knowing the consequences",
         "B": "he is very knowing about computers",
-        "C": "she knowing how to swim",
-        "D": "they knowing the answer"
+        "C": "she knowing how to swim professionally",
+        "D": "they were about knowing the answer"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -366,21 +365,21 @@
       "question": "Select the sentence that uses 'current' correctly:",
       "options": {
         "A": "The current in the river was too strong for swimming.",
-        "B": "She has a current of jewelry.",
-        "C": "The book is very current.",
-        "D": "He currented through the water."
+        "B": "Her current jewelry was brilliant.",
+        "C": "They paid for the book in US current.",
+        "D": "We were so deeply involved in current issues."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 32,
-      "question": "Which phrase uses 'evening' correctly?",
-      "options": {
-        "A": "We're evening out tomorrow.",
-        "B": "The evening news starts at 6 PM.",
-        "C": "She eveninged her hair.",
-        "D": "They were evening at the party."
+      "question": "Choose the most appropriate word:'I usually finish work at 5 PM and then spend the _____ doing chores or reading a book.'",
+          "options": {
+          "A": "afternoon",
+          "B": "evening",
+          "C": "noon",
+          "D": "tonight"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -399,12 +398,12 @@
     },
     {
       "id": 34,
-      "question": "Which sentence uses 'silence' correctly?",
-      "options": {
-        "A": "The silence was deafening after the explosion.",
-        "B": "She silenced to the music.",
-        "C": "They silence every day.",
-        "D": "He was silencing his homework."
+      "question": "Choose the sentence that correctly uses the verb form of the word 'silence':",
+          "options": {
+          "A": "The teacher had to silence the noisy children by ringing a bell.",
+          "B": "The whole class waited in silence after the bell rang.",
+          "C": "Silence is the most important thing during the exam.",
+          "D": "They broke the silence with a loud cheer."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -427,7 +426,7 @@
       "options": {
         "A": "happening suddenly",
         "B": "happening quickly",
-        "C": "happening slowly over a period of time",
+        "C": "happening slowly",
         "D": "happening repeatedly"
       },
       "correct_answer": "C",
@@ -438,7 +437,7 @@
       "question": "What does 'proceed' mean?",
       "options": {
         "A": "to stop doing something",
-        "B": "to continue or move forward",
+        "B": "to move forward",
         "C": "to go backward",
         "D": "to repeat something"
       },
@@ -449,7 +448,7 @@
       "id": 38,
       "question": "Select the sentence that uses 'whether' correctly:",
       "options": {
-        "A": "I don't know whether I should go or stay home.",
+        "A": "I don't know whether I should go.",
         "B": "The whether today is quite nice.",
         "C": "She whethered through the forest.",
         "D": "They whether the storm well."
@@ -461,22 +460,22 @@
       "id": 39,
       "question": "What does 'laundry' refer to?",
       "options": {
-        "A": "a place where food is prepared",
-        "B": "clothes that need to be washed or have been washed",
-        "C": "a type of vehicle",
-        "D": "a kind of building material"
+        "A": "aplace where food is prepared",
+        "B": "clothes that need to be washed",
+        "C": "clothes for sale in the store",
+        "D": "kind of material for tailor"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 40,
-      "question": "Choose the correct meaning of 'destroy':",
+      "question": "Choose the correct meaning of 'to damage something so badly that it no longer exists':",
       "options": {
-        "A": "to build or create something",
-        "B": "to repair something that is broken",
-        "C": "to damage something so badly that it no longer exists",
-        "D": "to find something that was lost"
+        "A": "to distract",
+        "B": "to discord",
+        "C": "to destroy",
+        "D": "to disturb"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -485,7 +484,7 @@
       "id": 41,
       "question": "According to paragraph 1, glaciers form when:",
       "options": {
-        "A": "ice melts and refreezes quickly",
+        "A": "ice melts and refreezes quickly after melting",
         "B": "snow accumulates and compresses over many years",
         "C": "water freezes in mountain streams",
         "D": "rocks collect in valley floors"
@@ -499,8 +498,8 @@
       "options": {
         "A": "Warm summers and cold winters",
         "B": "Low elevation and heavy rainfall",
-        "C": "Year-round cold temperatures and sufficient snowfall",
-        "D": "Strong winds and rocky terrain"
+        "C": "Cold temperatures and sufficient snowfall",
+        "D": "Strong winds all the year and rocky terrain"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -512,7 +511,7 @@
         "A": "Wind patterns and seasonal changes",
         "B": "The rotation of the Earth",
         "C": "Their weight and the force of gravity",
-        "D": "Earthquakes and tectonic shifts"
+        "D": "Strong earthquakes and tectonic shifts"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -521,12 +520,12 @@
       "id": 44,
       "question": "Based on paragraph 4, which factor can make a glacier move faster?",
       "options": {
-        "A": "Increased plant growth around the glacier",
-        "B": "The presence of water at the base of the glacier",
+        "A": "The presence of water at the base of the glacier",
+        "B": "Increased plant growth around the glacier",
         "C": "Decreased ice thickness",
         "D": "Colder temperatures"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Reading"
     },
     {
@@ -548,7 +547,7 @@
         "A": "By causing earthquakes",
         "B": "Through volcanic activity",
         "C": "By glacial erosion and deposition of materials",
-        "D": "Through plant growth and decay"
+        "D": "Through plant growth and their following decay"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -557,12 +556,12 @@
       "id": 47,
       "question": "What does the passage suggest about the speed of glacier movement?",
       "options": {
-        "A": "All glaciers move at the same speed",
-        "B": "Glaciers move quickly during the day and stop at night",
-        "C": "Glacier movement speeds vary significantly based on several factors",
-        "D": "Glaciers only move during warm seasons"
+        "A": "Glaciers only move during warm seasons",
+        "B": "All glaciers move at the same speed",
+        "C": "Glaciers move quickly during the day and stop at night",
+        "D": "Glacier movement speeds vary significantly based on several factors"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
