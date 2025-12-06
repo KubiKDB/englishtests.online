@@ -3,36 +3,36 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which form of the verb correctly completes the sentence? 'She _____ to the beach every weekend last summer.'",
-      "options": {
-        "A": "go",
-        "B": "went",
-        "C": "goes",
-        "D": "going"
+      "question": "Choose the correct phrase to complete the sentence: 'Before he moved, our former manager _____ commute by train every day for his job.'",
+        "options": {
+        "A": "was used to",
+        "B": "used to",
+        "C": "has used to",
+        "D": "was using to"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 2,
-      "question": "Choose the correct comparative form. 'This book is _____ than the one I read last week.'",
-      "options": {
-        "A": "more interesting",
-        "B": "interestinger",
-        "C": "most interesting",
-        "D": "the more interesting"
+      "question": "Choose the correct comparative phrase to complete the sentence: 'Solving the second part of the puzzle was far _____ the first section.'",
+          "options": {
+          "A": "complicated than",
+          "B": "more complicated as",
+          "C": "most complicated than",
+          "D": "more complicated than"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 3,
-      "question": "Select the correct preposition. 'He arrived _____ the airport at 9 PM.'",
+      "question": "Select the correct preposition. 'He arrived _____ the airport _____ 9 PM.'",
       "options": {
-        "A": "in",
-        "B": "on",
-        "C": "at",
-        "D": "to"
+        "A": "in/at",
+        "B": "on/in",
+        "C": "at/at",
+        "D": "to/on"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -43,8 +43,8 @@
       "options": {
         "A": "will prepare",
         "B": "will have prepared",
-        "C": "prepare",
-        "D": "am preparing"
+        "C": "wiil be preparing",
+        "D": "will prepared"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -63,50 +63,50 @@
     },
     {
       "id": 6,
-      "question": "Choose the correct modal verb. 'You _____ wear a uniform to school.'",
+      "question": "Choose the incorrect modal verb. 'You _____ wear a uniform to school.'",
       "options": {
-        "A": "should to",
+        "A": "should",
         "B": "must",
         "C": "would",
-        "D": "were"
+        "D": "have to"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 7,
-      "question": "Select the correct article. 'She is _____ university student.'",
+      "question": "Select the correct article. 'They _____ university students.'",
       "options": {
-        "A": "a",
-        "B": "an",
-        "C": "the",
-        "D": "no article needed"
+        "A": "are a",
+        "B": "are an",
+        "C": "are the",
+        "D": "are"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 8,
       "question": "Choose the correct passive form. 'The concert _____ by thousands of people yesterday.'",
       "options": {
-        "A": "attends",
+        "A": "has been attended",
         "B": "attended",
         "C": "was attended",
-        "D": "is attending"
+        "D": "was attending"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 9,
-      "question": "Select the correct verb form. 'If it _____ tomorrow, we will cancel the picnic.'",
-      "options": {
-        "A": "rains",
-        "B": "will rain",
-        "C": "would rain",
-        "D": "is raining"
+      "question": "Choose the correct verb form to complete the sentence: 'If the train _____ late this afternoon, many commuters will miss their connecting bus service.'",
+          "options": {
+          "A": "will arrive",
+          "B": "had arrived",
+          "C": "arrives",
+          "D": "is arriving"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -116,7 +116,7 @@
         "A": "go",
         "B": "to go",
         "C": "going",
-        "D": "went"
+        "D": "to going"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -135,9 +135,9 @@
     },
     {
       "id": 12,
-      "question": "Choose the correct question tag. 'You like pizza, _____?'",
+      "question": "Choose the correct question tag. 'You like sushi, _____?'",
       "options": {
-        "A": "aren't you",
+        "A": "aren't they",
         "B": "don't you",
         "C": "do you",
         "D": "isn't it"
@@ -149,10 +149,10 @@
       "id": 13,
       "question": "Select the correct plural form. 'The _____ of the story surprised everyone.'",
       "options": {
-        "A": "end",
+        "A": "finish",
         "B": "ending",
-        "C": "endings",
-        "D": "ends"
+        "C": "completing",
+        "D": "ceasing"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -187,7 +187,7 @@
       "options": {
         "A": "wings",
         "B": "colors",
-        "C": "marks",
+        "C": "flowers",
         "D": "scores"
       },
       "correct_answer": "B",
@@ -212,7 +212,7 @@
         "A": "make",
         "B": "do",
         "C": "pay",
-        "D": "give"
+        "D": "take"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -234,11 +234,11 @@
       "question": "Choose the correct fixed expression. 'They managed to solve the problem _____.'",
       "options": {
         "A": "by the way",
-        "B": "in the end",
+        "B": "at the end",
         "C": "on the way",
-        "D": "at the end"
+        "D": "in the end"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -258,35 +258,35 @@
       "question": "Choose the correct word to complete the sentence. 'The movie was so boring that I fell _____.'",
       "options": {
         "A": "asleep",
-        "B": "sleeping",
-        "C": "sleep",
-        "D": "to sleep"
+        "B": "asleeping",
+        "C": "aslept",
+        "D": "to asleep"
       },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 23,
-      "question": "Select the appropriate word. 'Could you _____ me a favor and close the window?'",
-      "options": {
-        "A": "make",
-        "B": "do",
-        "C": "give",
-        "D": "take"
+     "question": "Choose the most appropriate verb to complete phrase: 'The company decided to _____ a thorough analysis of the market before launching the new product line.'",
+          "options": {
+          "A": "make",
+          "B": "do",
+          "C": "take",
+          "D": "get"
       },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 24,
-      "question": "Choose the correct expression. 'I had no choice but _____ the offer.'",
+      "question": "Choose the correct verb. 'I had no choice but _____ the offer.'",
       "options": {
-        "A": "accepting",
-        "B": "to accept",
-        "C": "accept",
-        "D": "accepted"
+        "A": "to assess",
+        "B": "to access",
+        "C": "to exceed",
+        "D": "to accept"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -296,7 +296,7 @@
         "A": "book",
         "B": "reserve",
         "C": "order",
-        "D": "buy"
+        "D": "reverse"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -306,23 +306,23 @@
       "question": "Choose the correct definition for 'reserve'.",
       "options": {
         "A": "to make something available to the public",
-        "B": "to keep something for future use or for a special purpose",
-        "C": "to create or manufacture goods",
+        "B": "to create or manufacture goods",
+        "C": "to keep something for future",
         "D": "to establish as fact"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 27,
       "question": "Which sentence uses 'release' correctly?",
       "options": {
-        "A": "The company will release their new phone next month.",
-        "B": "She released the book on the shelf.",
+        "A": "They released the meeting until tomorrow.",
+        "B": "She released the book from the library.",
         "C": "He released his car at the parking lot.",
-        "D": "They released the meeting until tomorrow."
+        "D": "The company released a new phone last month."
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -331,7 +331,7 @@
       "options": {
         "A": "to store something",
         "B": "to sell goods",
-        "C": "to make or create something",
+        "C": "to make something",
         "D": "to describe something"
       },
       "correct_answer": "C",
@@ -342,11 +342,11 @@
       "question": "Which word is most similar in meaning to 'digital'?",
       "options": {
         "A": "manual",
-        "B": "electronic",
+        "B": "printed",
         "C": "mechanical",
-        "D": "printed"
+        "D": "electronic"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -355,8 +355,8 @@
       "options": {
         "A": "She defined to the store to buy groceries.",
         "B": "They defined their relationship as purely professional.",
-        "C": "He defined the book on the table.",
-        "D": "We defined our lunch at the restaurant."
+        "C": "The policeman defined her with traffic fines.",
+        "D": "We defined our lunch at the restaurant as the best ever."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -379,8 +379,8 @@
       "options": {
         "A": "We need to session the problem immediately.",
         "B": "The trainer scheduled a one-hour training session.",
-        "C": "I'll session you tomorrow about the details.",
-        "D": "The book was session with interesting facts."
+        "C": "I'll call you tomorrow about the details session.",
+        "D": "The book has a session with interesting facts."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -401,22 +401,22 @@
       "id": 34,
       "question": "Choose the sentence where 'guarantee' is used correctly.",
       "options": {
-        "A": "The store guarantees its products for one year.",
+        "A": "They guarantee the food on the table.",
         "B": "She guarantees the car in the garage.",
-        "C": "We guarantee across the street.",
-        "D": "They guarantee the food on the table."
+        "C": "We guarantee a shop across the street.",
+        "D": "The store guarantees all its products."
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 35,
       "question": "Which word is most similar in meaning to 'diverse'?",
       "options": {
-        "A": "similar",
-        "B": "same",
-        "C": "varied",
-        "D": "identical"
+        "A": "divers",
+        "B": "drivers",
+        "C": "varies",
+        "D": "verifies"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -425,10 +425,10 @@
       "id": 36,
       "question": "Select the sentence where 'become' is used correctly.",
       "options": {
-        "A": "The dress becomes $50.",
+        "A": "The dress becomes as expensive as $50.",
         "B": "He became the shopping done yesterday.",
         "C": "She will become a doctor after she graduates.",
-        "D": "They became the movie last night."
+        "D": "The movie had become before they came to the cinema."
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -440,7 +440,7 @@
         "A": "She is carrying a heavy bag.",
         "B": "We are carrying to the party tonight.",
         "C": "He carrying his lunch yesterday.",
-        "D": "The table is carrying four people."
+        "D": "The table is for carrying four people."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -449,10 +449,10 @@
       "id": 38,
       "question": "Choose the phrase that correctly uses 'moment'.",
       "options": {
-        "A": "She moment the dinner for her family.",
+        "A": "She moments the dinner for her family.",
         "B": "Just a moment, I'll be right back.",
-        "C": "We moment to the cinema last weekend.",
-        "D": "They moment their car at the garage."
+        "C": "We had a great moments at the school.",
+        "D": "They brought their car at the garage at moment."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -462,9 +462,9 @@
       "question": "Select the sentence where 'picked' is used correctly.",
       "options": {
         "A": "She picked to go to the beach.",
-        "B": "He picked happy about the news.",
+        "B": "Her picked was happy about the news.",
         "C": "They picked flowers from the garden.",
-        "D": "We picked for three hours."
+        "D": "We picked for a new dress at three hours."
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -473,10 +473,10 @@
       "id": 40,
       "question": "What does 'equal' mean in the sentence 'All citizens should have equal rights'?",
       "options": {
-        "A": "different",
-        "B": "the same",
-        "C": "more",
-        "D": "less"
+        "A": "mostly the same",
+        "B": "exactly the same",
+        "C": "more or less the same",
+        "D": "less or more the same"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -485,10 +485,10 @@
       "id": 41,
       "question": "What is the main topic of the passage?",
       "options": {
-        "A": "Proper nutrition",
+        "A": "The role of proper nutrition",
         "B": "The human digestive system",
         "C": "The role of enzymes in digestion",
-        "D": "Common digestive problems"
+        "D": "Common digestive system problems"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -498,9 +498,9 @@
       "question": "According to the passage, what are enzymes?",
       "options": {
         "A": "Specialized proteins that act as catalysts",
-        "B": "Small food molecules",
-        "C": "Organs in the digestive system",
-        "D": "Types of sugars found in food"
+        "B": "Organs in the digestive system",
+        "C": "Types of sugars found in food",
+        "D": "Small food molecules"
       },
       "correct_answer": "A",
       "category": "Reading"
@@ -533,7 +533,7 @@
       "id": 45,
       "question": "Why might bread taste slightly sweet when chewed for a long time?",
       "options": {
-        "A": "Because it contains sugar",
+        "A": "Because it contains sugar that converts to amylase",
         "B": "Because amylase converts starches into sugars",
         "C": "Because of the taste buds on the tongue",
         "D": "Because of pepsin in the saliva"
@@ -545,7 +545,7 @@
       "id": 46,
       "question": "What is the primary function of pepsin according to the passage?",
       "options": {
-        "A": "To break down carbohydrates",
+        "A": "To break down carbohydrates into peptides",
         "B": "To break down proteins into peptides",
         "C": "To help digest fats",
         "D": "To convert sugars"
@@ -558,9 +558,9 @@
       "question": "According to the passage, where does most digestion occur?",
       "options": {
         "A": "In the mouth",
-        "B": "In the stomach",
+        "B": "In the long stomach",
         "C": "In the small intestine",
-        "D": "In the pancreas"
+        "D": "In the pancreas and liver"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -583,7 +583,7 @@
       "options": {
         "A": "Enzymes are consumed during the digestive process",
         "B": "All people have the same amounts of digestive enzymes",
-        "C": "Enzymes slow down chemical reactions in the body",
+        "C": "Enzymes slow down chemical reactions in the body for those with deficiencies",
         "D": "Understanding enzymes has helped develop supplements for those with deficiencies"
       },
       "correct_answer": "D",
@@ -594,11 +594,11 @@
       "question": "What do the enzymes maltase, lactase, and sucrase do?",
       "options": {
         "A": "Break down proteins into amino acids",
-        "B": "Complete the digestion of specific sugars",
-        "C": "Help digest fats in the small intestine",
-        "D": "Convert starches into sugars"
+        "B": "Help digest fats in the small intestine",
+        "C": "Complete the digestion of specific sugars",
+        "D": "Convert starches into sugars for digestion"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Reading"
     }
   ]
