@@ -31,7 +31,7 @@
       "options": {
         "A": "This book is more interesting than that one.",
         "B": "She is more taller than her sister.",
-        "C": "His car is expensiver than mine.",
+        "C": "His car is much more expensive than mine.",
         "D": "The blue dress is more prettier than the red one."
       },
       "correct_answer": "A",
@@ -41,8 +41,8 @@
       "id": 4,
       "question": "Choose the correct passive voice construction:",
       "options": {
-        "A": "The window was breaking by the storm.",
-        "B": "The letter will written tomorrow.",
+        "A": "The window was broke by the storm.",
+        "B": "The letter will have written by tomorrow.",
         "C": "The cake was made by my mother.",
         "D": "The book has been wrote by a famous author."
       },
@@ -54,11 +54,11 @@
       "question": "Identify the sentence with the correct use of articles:",
       "options": {
         "A": "She is best student in the class.",
-        "B": "I saw an interesting movie last night.",
-        "C": "He bought a apple at the store.",
+        "B": "I saw an interesting movies last night.",
+        "C": "He bought apples at the store.",
         "D": "We visited an historic castle."
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -91,7 +91,7 @@
       "options": {
         "A": "I'm thinking about to go to the beach.",
         "B": "She's interested on learning Spanish.",
-        "C": "The book is on the table.",
+        "C": "We stood in the line to a pizzeria.",
         "D": "They arrived at London yesterday."
       },
       "correct_answer": "C",
@@ -116,7 +116,7 @@
         "A": "She don't like coffee.",
         "B": "They doesn't want to go.",
         "C": "We are enjoying the concert.",
-        "D": "He have three sisters."
+        "D": "He have three sisters and a brother."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -195,12 +195,12 @@
     },
     {
       "id": 17,
-      "question": "Select the correct phrasal verb: 'Could you please _____ the children while I go shopping?'",
-      "options": {
-        "A": "look in",
-        "B": "look after",
-        "C": "look at",
-        "D": "look for"
+      "question": "Choose the correct phrasal verb: 'When you arrive at the airport, please remember to _____ immediately so we know you boarded the plane.'",
+          "options": {
+          "A": "call on",
+          "B": "get off",
+          "C": "check in",
+          "D": "find for"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -221,7 +221,7 @@
       "id": 19,
       "question": "Select the appropriate idiom: 'Making a good first impression is important, so try not to _____ your foot in your mouth.'",
       "options": {
-        "A": "step",
+        "A": "get",
         "B": "put",
         "C": "throw",
         "D": "kick"
@@ -231,14 +231,14 @@
     },
     {
       "id": 20,
-      "question": "Choose the correct collocation: 'She needs to _____ a decision soon.'",
-      "options": {
-        "A": "make",
-        "B": "do",
+      "question": "Choose the most appropriate verb: 'We have to _____ all the travel arrangements before we confirm the tickets for our trip.'",
+        "options": {
+        "A": "do",
+        "B": "get",
         "C": "take",
-        "D": "have"
+        "D": "make"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -257,22 +257,22 @@
       "id": 22,
       "question": "Choose the correct option to complete the sentence: 'I'm not sure if I'll pass the exam; it was really _____.'",
       "options": {
-        "A": "piece of cake",
-        "B": "child's play",
-        "C": "difficult",
-        "D": "easy as ABC"
+        "A": "a piece of cake to eat",
+        "B": "child's game to play",
+        "C": "a tough nut to crack",
+        "D": "easy as ABC or 123"
       },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 23,
-      "question": "Select the appropriate option: 'In Britain, people drive _____ the left side of the road.'",
+      "question": "Select the appropriate option: 'In Britain, people drive _____ the left side _____ the road.'",
       "options": {
-        "A": "in",
-        "B": "by",
-        "C": "at",
-        "D": "on"
+        "A": "in/off",
+        "B": "by/in",
+        "C": "at/at",
+        "D": "on/of"
       },
       "correct_answer": "D",
       "category": "Use of English"
@@ -293,7 +293,7 @@
       "id": 25,
       "question": "Select the best option: 'If I'd known about the traffic, I _____ earlier.'",
       "options": {
-        "A": "would leave",
+        "A": "would have leave",
         "B": "had left",
         "C": "would have left",
         "D": "have left"
@@ -306,7 +306,7 @@
       "question": "Which sentence uses the word 'rather' correctly?",
       "options": {
         "A": "The film was rather boring.",
-        "B": "She rather the blue dress than the red one.",
+        "B": "She'd rather the blue dress than the red one.",
         "C": "I am rather to go home now.",
         "D": "They rather playing tennis yesterday."
       },
@@ -315,14 +315,14 @@
     },
     {
       "id": 27,
-      "question": "What does the word 'steers' mean when used as a verb?",
+      "question": "What does 'to guide or direct the course of something' mean when used as a verb?",
       "options": {
-        "A": "To jump quickly",
-        "B": "To guide or direct the course of something",
-        "C": "To speak loudly",
-        "D": "To cook food slowly"
+        "A": "To steam",
+        "B": "To steak",
+        "C": "To steel",
+        "D": "To steer"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -330,33 +330,33 @@
       "question": "Which sentence uses 'suffer' correctly?",
       "options": {
         "A": "She suffers from headaches frequently.",
-        "B": "They suffer the cake at the party.",
-        "C": "He suffers swimming very well.",
-        "D": "We suffer to school every day."
+        "B": "They suffer after the cake at the party.",
+        "C": "He suffers from swimming very well.",
+        "D": "We suffer to eat pizza and sushi."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 29,
-      "question": "What is the best definition of 'forums'?",
+      "question": "What is the best definition for a 'place or media where ideas and views can be exchanged'?",
       "options": {
-        "A": "Types of transportation",
-        "B": "Places or media where ideas and views can be exchanged",
-        "C": "Traditional clothing",
-        "D": "Ancient buildings"
+        "A": "Street",
+        "B": "Market",
+        "C": "Forum",
+        "D": "Stock exchange"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 30,
       "question": "Which sentence uses 'mostly' correctly?",
       "options": {
-        "A": "She is mostly than her sister.",
+        "A": "She is mostly taller than her sister.",
         "B": "The students are mostly prepared for the exam.",
-        "C": "He mostly swim every weekend.",
-        "D": "They mostly the dinner already."
+        "C": "His ability mostly to swim is getting better.",
+        "D": "They have mostly eat all the dinner already."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -367,7 +367,7 @@
       "options": {
         "A": "Something with a rough surface",
         "B": "Something that is very colorful",
-        "C": "Something with no bumps or irregularities",
+        "C": "Something with no irregularities",
         "D": "Something that is extremely cold"
       },
       "correct_answer": "C",
@@ -375,12 +375,12 @@
     },
     {
       "id": 32,
-      "question": "Which sentence uses the word 'habits' correctly?",
+      "question": "Which sentence uses the word 'habit' correctly?",
       "options": {
-        "A": "She habits in London.",
-        "B": "The habits was very expensive.",
+        "A": "She habits to live in London.",
+        "B": "The habits were very expensive.",
         "C": "He has some bad habits, like smoking.",
-        "D": "They habits the movie last night."
+        "D": "They habit to watching movies every night."
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -391,7 +391,7 @@
       "options": {
         "A": "Different planets",
         "B": "Different countries",
-        "C": "Different situations or environments",
+        "C": "Different situations",
         "D": "Different languages"
       },
       "correct_answer": "C",
@@ -401,22 +401,22 @@
       "id": 34,
       "question": "Which sentence correctly uses the word 'avoid'?",
       "options": {
-        "A": "I avoid the bus to work every day.",
+        "A": "I try to avoid the bus to work every day.",
         "B": "She avoids eating sugar in her diet.",
         "C": "They avoid me they will come tomorrow.",
-        "D": "He avoided the book on the shelf."
+        "D": "He avoids to take the book from the shelf."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 35,
-      "question": "What does having a 'degree' typically refer to?",
+      "question": "What is the definition of an 'academic qualification awarded by a university'?",
       "options": {
-        "A": "A measurement of temperature",
-        "B": "An academic qualification awarded by a university",
-        "C": "A type of angle in mathematics",
-        "D": "All of the above"
+        "A": "prize",
+        "B": "decrease",
+        "C": "decree",
+        "D": "degree"
       },
       "correct_answer": "D",
       "category": "Vocabulary"
@@ -435,24 +435,24 @@
     },
     {
       "id": 37,
-      "question": "What does the word 'prince' refer to?",
+      "question": "Who is 'the son of a king or queen'?",
       "options": {
-        "A": "The son of a king or queen",
-        "B": "A type of dessert",
-        "C": "A large building",
-        "D": "A musical instrument"
+        "A": "principle",
+        "B": "price",
+        "C": "prince",
+        "D": "princess"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 38,
       "question": "Which sentence uses the word 'twenty' correctly?",
       "options": {
-        "A": "I have twenty to the store.",
-        "B": "She twenty likes chocolate.",
+        "A": "I have twenty times going to the store.",
+        "B": "She likes chocolate at twenty bites.",
         "C": "There are twenty students in my class.",
-        "D": "He twenty the exam yesterday."
+        "D": "It was his twenty exam yesterday."
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -463,7 +463,7 @@
       "options": {
         "A": "Outside of something",
         "B": "Below something",
-        "C": "Inside or not beyond the limits of something",
+        "C": "Inside of something",
         "D": "Between two objects"
       },
       "correct_answer": "C",
@@ -473,10 +473,10 @@
       "id": 40,
       "question": "Which sentence uses 'normal' correctly?",
       "options": {
-        "A": "She normals to work every day.",
+        "A": "She normal go to work on foot rather than by bus.",
         "B": "It's normal to feel nervous before an exam.",
-        "C": "They normal visited their grandparents.",
-        "D": "He normal the car in the garage."
+        "C": "They visited their normal grandparents.",
+        "D": "He normaled the car in the garage."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -557,12 +557,12 @@
       "id": 47,
       "question": "Why was paper money developed in China?",
       "options": {
-        "A": "Because they didn't have precious metals",
-        "B": "Because carrying large amounts of coins was impractical",
+        "A": "Because carrying large amounts of coins was impractical",
+        "B": "Because they didn't have precious metals",
         "C": "Because they didn't trust metal coins",
         "D": "Because it was cheaper to produce"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Reading"
     },
     {
@@ -571,10 +571,10 @@
       "options": {
         "A": "They created the first coins",
         "B": "They traded cowrie shells",
-        "C": "They stored gold and issued receipts that circulated as paper money",
-        "D": "They established the Tang Dynasty"
+        "C": "They established the Tang Dynasty",
+        "D": "They stored gold and issued receipts"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
