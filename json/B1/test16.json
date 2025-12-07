@@ -3,38 +3,38 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which sentence is grammatically correct?",
+      "question": "Choose the grammatically correct sentence:",
       "options": {
-        "A": "She don't like coffee.",
-        "B": "She doesn't likes coffee.",
-        "C": "She doesn't like coffee.",
-        "D": "She not like coffee."
+        "A": "My friend and I doesn't agree with the proposal.",
+        "B": "The new software don't work correctly on older systems.",
+        "C": "They doesn't usually stay late at the office on Fridays.",
+        "D": "The program doesn't require an active internet connection."
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 2,
-      "question": "Select the correct past tense form: 'Last year, we _____ to Spain for our vacation.'",
+      "question": "Choose the correct option: 'When they visited the museum last month, the students _____ many ancient artifacts on display.'",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "went",
-        "D": "gone"
+        "A": "have seen",
+        "B": "saw",
+        "C": "seen",
+        "D": "were seeing"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 3,
-      "question": "Choose the correct form: 'If it _____ tomorrow, we'll cancel the picnic.'",
+      "question": "Choose the correct form: 'If I _____ a professional football player, I would earn a huge salary every year.'",
       "options": {
-        "A": "rains",
-        "B": "will rain",
-        "C": "would rain",
-        "D": "is raining"
+        "A": "am",
+        "B": "was",
+        "C": "were",
+        "D": "will be"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -53,60 +53,60 @@
       "id": 5,
       "question": "Select the correct passive form: 'The report _____ by Friday.'",
       "options": {
-        "A": "will complete",
+        "A": "will completed",
         "B": "will be completed",
-        "C": "is completing",
-        "D": "completes"
+        "C": "will be completing",
+        "D": "is completed"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 6,
-      "question": "Choose the correct form: 'She _____ television when I called her.'",
+      "question": "Choose the correct verb: 'Every year, thousands of new tourists _____ to visit the historical monuments in this city.'",
       "options": {
-        "A": "watched",
-        "B": "was watching",
-        "C": "watches",
-        "D": "has watched"
+        "A": "are attracted",
+        "B": "attract",
+        "C": "attracted",
+        "D": "have attracted"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 7,
-      "question": "Which sentence is in the correct reported speech form?",
+      "question": "Choose the correct option: 'She told me that she _____ her keys on the train yesterday.'",
       "options": {
-        "A": "He said he is coming tomorrow.",
-        "B": "He said he was coming the next day.",
-        "C": "He said he will come tomorrow.",
-        "D": "He said he comes the next day."
+        "A": "loses",
+        "B": "has lost",
+        "C": "lost",
+        "D": "had lost"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 8,
-      "question": "Select the correct article: 'My father is _____ engineer.'",
+      "question": "Select the correct article: 'My father works with _____ engineers.'",
       "options": {
         "A": "a",
         "B": "an",
         "C": "the",
-        "D": "no article needed"
+        "D": "-"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 9,
-      "question": "Choose the correct comparative form: 'This book is _____ than the one I read last week.'",
+      "question": "Choose the correct option: 'The small local shop is much _____ the huge new supermarket they opened downtown.'",
       "options": {
-        "A": "more interesting",
-        "B": "interestinger",
-        "C": "most interesting",
-        "D": "the interesting"
+        "A": "as convenient than",
+        "B": "more convenient than",
+        "C": "most convenient than",
+        "D": "more convenient as"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
@@ -135,12 +135,12 @@
     },
     {
       "id": 12,
-      "question": "Which sentence contains a correct relative clause?",
+      "question": "Choose the correct option: 'The gift _____ my grandmother gave me for my birthday was lost at the airport.'",
       "options": {
-        "A": "The man which lives next door is a doctor.",
-        "B": "The man who lives next door is a doctor.",
-        "C": "The man whose lives next door is a doctor.",
-        "D": "The man whom lives next door is a doctor."
+        "A": "who",
+        "B": "which",
+        "C": "whom",
+        "D": "whose"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -175,32 +175,32 @@
       "options": {
         "A": "There is many water in the bottle.",
         "B": "There are much people at the party.",
-        "C": "There aren't many students in the class.",
-        "D": "There aren't much chairs in the room."
+        "C": "There aren't much chairs in the room.",
+        "D": "There aren't many students in the class."
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 16,
-      "question": "Select the correct phrasal verb: 'Can you _____ the children while I go shopping?'",
+      "question": "Choose the correct phrasal verb: 'When you are unsure of the word’s meaning, you should _____ it _____ in a good dictionary.'",
       "options": {
-        "A": "look at",
-        "B": "look for",
-        "C": "look after",
-        "D": "look into"
+        "A": "look over",
+        "B": "look up",
+        "C": "look for",
+        "D": "look through"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 17,
-      "question": "Choose the correct collocation: 'She needs to _____ a decision about her future soon.'",
+      "question": "Choose the most appropriate verb: 'Please remember to _____ lots of photographs during your graduation ceremony this weekend.'",
       "options": {
         "A": "do",
-        "B": "take",
-        "C": "make",
-        "D": "have"
+        "B": "make",
+        "C": "take",
+        "D": "get"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -212,7 +212,7 @@
         "A": "too many",
         "B": "too much",
         "C": "enough",
-        "D": "very few"
+        "D": "as well"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -222,9 +222,9 @@
       "question": "Select the correct linking word: 'I wanted to go swimming, _____ the pool was closed.'",
       "options": {
         "A": "because",
-        "B": "so",
-        "C": "and",
-        "D": "but"
+        "B": "despite",
+        "C": "instead",
+        "D": "however"
       },
       "correct_answer": "D",
       "category": "Use of English"
@@ -233,29 +233,29 @@
       "id": 20,
       "question": "Choose the correct word form: 'The _____ of the new park will be next month.'",
       "options": {
-        "A": "open",
-        "B": "opener",
+        "A": "beginning",
+        "B": "foundation",
         "C": "opening",
-        "D": "opened"
+        "D": "discovery"
       },
       "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 21,
-      "question": "Which sentence uses the appropriate language register for a formal email?",
+      "question": "Choose the most appropriate opening phrase for a formal email:",
       "options": {
-        "A": "Hey there, just checking about that thing.",
-        "B": "I am writing to inquire about the status of my application.",
-        "C": "What's up with my application?",
-        "D": "Wanted to know about my application."
+        "A": "Hi there, Professor Smith",
+        "B": "Dear Professor Smith,",
+        "C": "What's kicking, Mr. Smith?",
+        "D": "Hey, how are you?",
       },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 22,
-      "question": "Select the correct idiom to complete the sentence: 'Finding a job in this economy is like _____.'",
+      "question": "Select the correct idiom to complete the sentence: 'Buying an affordable apartment in London is like _____.'",
       "options": {
         "A": "piece of cake",
         "B": "looking for a needle in a haystack",
@@ -279,19 +279,19 @@
     },
     {
       "id": 24,
-      "question": "Select the appropriate response to the question 'Would you like some coffee?'",
+      "question": "Choose the most polite and natural response: 'Would you like another slice of cake?'",
       "options": {
-        "A": "Yes, I'd love to.",
-        "B": "Yes, I'd love some.",
-        "C": "Yes, I want.",
-        "D": "Yes, I want some."
+        "A": "No, I don't want.",
+        "B": "Yes, I would.",
+        "C": "No, thank you. I'm full.",
+        "D": "Yes, please, I would to.",
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 25,
-      "question": "Choose the correct expression: 'It's _____ to rain, you should take an umbrella.'",
+      "question": "Choose the correct expression: 'It's _____ to snow, please be careful while driving.'",
       "options": {
         "A": "likely",
         "B": "probably",
@@ -306,7 +306,7 @@
       "question": "Choose the correct meaning of 'test' in this sentence: 'Scientists need to test the new vaccine before it can be used.'",
       "options": {
         "A": "to study something carefully",
-        "B": "to try something to see if it works properly",
+        "B": "to check if it works properly",
         "C": "to check if something is safe",
         "D": "to compare different things"
       },
@@ -330,7 +330,7 @@
       "question": "What does 'express' mean in this sentence: 'It's important to express your feelings'?",
       "options": {
         "A": "to hide",
-        "B": "to communicate or show",
+        "B": "to show",
         "C": "to change",
         "D": "to understand"
       },
@@ -343,7 +343,7 @@
       "options": {
         "A": "beautiful",
         "B": "large",
-        "C": "just and following the rules",
+        "C": "just",
         "D": "interesting"
       },
       "correct_answer": "C",
@@ -355,8 +355,8 @@
       "options": {
         "A": "He suggested me to go to the doctor.",
         "B": "She suggested that we should try the new restaurant.",
-        "C": "They suggested about going to the park.",
-        "D": "I suggested him the book."
+        "C": "They suggested about going to the park tomorrow.",
+        "D": "I suggested him my most favourite book."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -378,8 +378,8 @@
       "question": "Which sentence uses the word 'ground' correctly?",
       "options": {
         "A": "The coffee grounds were used as fertilizer.",
-        "B": "They ground across the field.",
-        "C": "She grounds to school every day.",
+        "B": "The scientists ground across the field.",
+        "C": "She grounds coffee beans for her drink.",
         "D": "He was grounding after breaking the rules."
       },
       "correct_answer": "A",
@@ -391,8 +391,8 @@
       "options": {
         "A": "a tool or machine designed for a specific purpose",
         "B": "a method or technique for doing something",
-        "C": "a plan or scheme",
-        "D": "an invention that doesn't work properly"
+        "C": "an invention that doesn't work properly",
+        "D": "a plan or scheme"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -404,7 +404,7 @@
         "A": "to damage slightly",
         "B": "to change the appearance of",
         "C": "to repair completely",
-        "D": "to damage something so badly that it no longer exists or works"
+        "D": "to damage badly"
       },
       "correct_answer": "D",
       "category": "Vocabulary"
@@ -425,10 +425,10 @@
       "id": 36,
       "question": "Choose the correct meaning of 'identify' in this sentence: 'The police asked witnesses to identify the suspect.'",
       "options": {
-        "A": "to name or recognize someone or something",
+        "A": "to recognize someone or something",
         "B": "to find someone or something",
         "C": "to describe someone or something",
-        "D": "to arrest someone"
+        "D": "to investigate someone or something"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -438,7 +438,7 @@
       "question": "What does 'reduce' mean in this context: 'We need to reduce our energy consumption'?",
       "options": {
         "A": "to make something larger",
-        "B": "to make something smaller in size, amount, or number",
+        "B": "to make something smaller",
         "C": "to change something completely",
         "D": "to use something again"
       },
@@ -459,12 +459,12 @@
     },
     {
       "id": 39,
-      "question": "Choose the correct meaning of 'hear' in this sentence: 'I couldn't hear what she was saying.'",
+      "question": "Choose the correct meaning of 'perceive' in this sentence: 'She struggled to perceive the underlying meaning behind his words.'",
       "options": {
-        "A": "to listen carefully",
-        "B": "to perceive sounds with your ears",
-        "C": "to understand completely",
-        "D": "to pay attention to"
+        "A": "to understate",
+        "B": "to understand",
+        "C": "to undergo",
+        "D": "to underestimate"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -510,11 +510,11 @@
       "question": "According to paragraph 3, why are coral reefs important for fish reproduction?",
       "options": {
         "A": "They provide food for young fish.",
-        "B": "They offer protected nursery areas for development.",
-        "C": "They teach young fish how to hunt.",
-        "D": "They attract more adult fish for mating."
+        "B": "They teach young fish how to hunt.",
+        "C": "They attract more adult fish for mating.",
+        "D": "They offer protected nursery areas for development."
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -557,17 +557,17 @@
       "id": 47,
       "question": "What does the passage suggest about the relationship between coral reefs and human communities?",
       "options": {
-        "A": "Humans only benefit from coral reefs through tourism.",
-        "B": "Coral reefs have no economic value for humans.",
-        "C": "Coral reefs support fishing industries and protect shorelines.",
+        "A": "Coral reefs support fishing industries and protect shorelines.",
+        "B": "Coral reefs have no economic value for humans and fishing industries.",
+        "C": "Humans only benefit from coral reefs through tourism.",
         "D": "Most humans are unaware of coral reefs' existence."
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Reading"
     },
     {
       "id": 48,
-      "question": "The word \"vital\" in paragraph 2 is closest in meaning to:",
+      "question": "The word 'vital' in paragraph 2 is closest in meaning to:",
       "options": {
         "A": "interesting",
         "B": "new",
@@ -582,7 +582,7 @@
       "question": "What is the main purpose of this passage?",
       "options": {
         "A": "To explain how coral reefs are formed",
-        "B": "To highlight the importance of coral reefs and the need to protect them",
+        "B": "To highlight the importance of coral reefs",
         "C": "To compare coral reefs to rainforests",
         "D": "To describe different types of marine animals"
       },
@@ -595,10 +595,10 @@
       "options": {
         "A": "Establishing marine protected areas",
         "B": "Reducing carbon emissions",
-        "C": "Banning all fishing in oceans",
-        "D": "Developing coral restoration projects"
+        "C": "Developing coral restoration projects",
+        "D": "Banning all fishing in oceans"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     }
   ]
