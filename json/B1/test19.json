@@ -3,187 +3,187 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which of the following is the correct form of the verb?",
+      "question": "Choose the correct phrase: 'You _____ bring your own lunch; the company provides food.'",
       "options": {
-        "A": "She don't like coffee.",
-        "B": "She doesn't likes coffee.",
-        "C": "She doesn't like coffee.",
-        "D": "She not like coffee."
+        "A": "mustn't",
+        "B": "don't have to",
+        "C": "shouldn't",
+        "D": "can't"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 2,
-      "question": "Choose the correct past tense form.",
+      "question": "Choose the correct past tense form: 'The children _____ a lot of fun at the park last Saturday.'",
       "options": {
-        "A": "He goed to the store yesterday.",
-        "B": "He gone to the store yesterday.",
-        "C": "He went to the store yesterday.",
-        "D": "He going to the store yesterday."
+        "A": "haved",
+        "B": "had",
+        "C": "have had",
+        "D": "has"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 3,
-      "question": "Select the correct preposition.",
+      "question": "Select the correct preposition: 'I look forward _____ meeting you next week.'",
       "options": {
-        "A": "I'm interested on learning English.",
-        "B": "I'm interested at learning English.",
-        "C": "I'm interested in learning English.",
-        "D": "I'm interested for learning English."
+        "A": "to",
+        "B": "at",
+        "C": "for",
+        "D": "on"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 4,
-      "question": "Which sentence uses the correct comparative form?",
+      "question": "Which sentence uses the correct superlative form?",
       "options": {
-        "A": "This book is more better than that one.",
-        "B": "This book is more good than that one.",
-        "C": "This book is gooder than that one.",
-        "D": "This book is better than that one."
+        "A": "This is the most good pizza I've ever eaten.",
+        "B": "This is the best pizza I've ever eaten.",
+        "C": "This is the better pizza I've ever eaten.",
+        "D": "This is a best pizza I've ever eaten."
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 5,
-      "question": "Choose the correct conditional form.",
+      "question": "Choose the correct conditional form: 'If I won the lottery, I _____ a house.'",
       "options": {
-        "A": "If it rains tomorrow, I stay at home.",
-        "B": "If it rains tomorrow, I will stay at home.",
-        "C": "If it rains tomorrow, I staying at home.",
-        "D": "If it rains tomorrow, I would stay at home."
+        "A": "buy",
+        "B": "will buy",
+        "C": "would buy",
+        "D": "bought"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 6,
       "question": "Which sentence has the correct word order?",
       "options": {
-        "A": "Where you are going?",
-        "B": "Where are you going?",
-        "C": "Where going are you?",
-        "D": "You are going where?"
-      },
-      "correct_answer": "B",
-      "category": "Grammar"
-    },
-    {
-      "id": 7,
-      "question": "Select the correct modal verb.",
-      "options": {
-        "A": "You must to attend the meeting.",
-        "B": "You should attending the meeting.",
-        "C": "You might to attend the meeting.",
-        "D": "You should attend the meeting."
-      },
-      "correct_answer": "D",
-      "category": "Grammar"
-    },
-    {
-      "id": 8,
-      "question": "Choose the correct present perfect form.",
-      "options": {
-        "A": "She has lived here since three years.",
-        "B": "She has lived here for three years.",
-        "C": "She has live here for three years.",
-        "D": "She have lived here for three years."
-      },
-      "correct_answer": "B",
-      "category": "Grammar"
-    },
-    {
-      "id": 9,
-      "question": "Select the sentence with the correct article usage.",
-      "options": {
-        "A": "She plays the piano in a evening.",
-        "B": "She plays a piano in the evening.",
-        "C": "She plays piano in an evening.",
-        "D": "She plays the piano in the evening."
-      },
-      "correct_answer": "D",
-      "category": "Grammar"
-    },
-    {
-      "id": 10,
-      "question": "Which sentence uses the passive voice correctly?",
-      "options": {
-        "A": "The cake was eating by the children.",
-        "B": "The cake is eaten by the children.",
-        "C": "The cake was eaten by the children.",
-        "D": "The cake be eaten by the children."
-      },
-      "correct_answer": "C",
-      "category": "Grammar"
-    },
-    {
-      "id": 11,
-      "question": "Choose the correct relative pronoun.",
-      "options": {
-        "A": "The man which lives next door is a doctor.",
-        "B": "The man what lives next door is a doctor.",
-        "C": "The man who lives next door is a doctor.",
-        "D": "The man whose lives next door is a doctor."
-      },
-      "correct_answer": "C",
-      "category": "Grammar"
-    },
-    {
-      "id": 12,
-      "question": "Select the correct verb agreement.",
-      "options": {
-        "A": "The news are good.",
-        "B": "The news is good.",
-        "C": "The news be good.",
-        "D": "The news were good."
-      },
-      "correct_answer": "B",
-      "category": "Grammar"
-    },
-    {
-      "id": 13,
-      "question": "Which sentence uses the present continuous correctly?",
-      "options": {
-        "A": "I am wanting a new car.",
-        "B": "I wanting a new car.",
-        "C": "I am want a new car.",
-        "D": "I am wanting a new car."
+        "A": "Does he always take the bus to work?",
+        "B": "Always does he take the bus to work?",
+        "C": "He does always take the bus to work?",
+        "D": "Does he take the bus always to work?"
       },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
-      "id": 14,
-      "question": "Choose the correct future form.",
+      "id": 7,
+      "question": "Select the correct modal verb: 'That restaurant is always busy, so the food _____ be very good.'",
       "options": {
-        "A": "I will going to the party tomorrow.",
-        "B": "I going to the party tomorrow.",
-        "C": "I go to the party tomorrow.",
-        "D": "I am going to the party tomorrow."
+        "A": "can",
+        "B": "might",
+        "C": "must",
+        "D": "could"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct linking word: 'It was raining heavily, _____ we still went for a walk.'",
+      "options": {
+        "A": "therefore",
+        "B": "because",
+        "C": "although",
+        "D": "in order to"
+      },
+      "correct_answer": "C",
+      "category": "Use of English"
+    },
+    {
+      "id": 9,
+      "question": "Select the sentence with the correct article usage: 'Do you play _____ violin or _____ piano?'",
+      "options": {
+        "A": "the/the",
+        "B": "a/a",
+        "C": "a/the",
+        "D": "the/a"
+      },
+      "correct_answer": "A",
+      "category": "Grammar"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence uses the Present Simple passive voice correctly?",
+      "options": {
+        "A": "The reports are writing by the team.",
+        "B": "The reports have written by the team.",
+        "C": "The reports were written by the team.",
+        "D": "The reports are written by the team."
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct relative pronoun to refer to an object: 'The computer _____ I bought last month has already broken.'",
+      "options": {
+        "A": "this",
+        "B": "that",
+        "C": "those",
+        "D": "these"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 12,
+      "question": "Select the correct option: 'The luggage _____ too heavy to lift.'",
+      "options": {
+        "A": "are",
+        "B": "were",
+        "C": "had",
+        "D": "is"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Which phrase is used to make a polite request?",
+      "options": {
+        "A": "Do you want to help me now?",
+        "B": "Could you help me with this box?",
+        "C": "Will you help me with this box?",
+        "D": "You must help me with this box."
+      },
+      "correct_answer": "B",
+      "category": "Use of English"
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct option: 'The train _____ at 8:15 a.m. tomorrow morning.'",
+      "options": {
+        "A": "is leaving",
+        "B": "will leave",
+        "C": "is going to leave",
+        "D": "leaves"
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 15,
-      "question": "Select the sentence with correct adjective order.",
+      "question": "Choose the correct phrasal verb meaning 'to start a journey': 'We need to _____ early tomorrow to avoid the traffic.'",
       "options": {
-        "A": "She bought a leather new beautiful bag.",
-        "B": "She bought a new beautiful leather bag.",
-        "C": "She bought a beautiful leather new bag.",
-        "D": "She bought a new leather beautiful bag."
+        "A": "set off",
+        "B": "put off",
+        "C": "take off",
+        "D": "call off"
       },
-      "correct_answer": "B",
-      "category": "Grammar"
+      "correct_answer": "A",
+      "category": "Vocabulary"
     },
     {
       "id": 16,
-      "question": "Choose the most appropriate word to complete the sentence: 'Despite the heavy traffic, we _____ on time.'",
+      "question": "Choose the most appropriate word to complete the sentence: 'Despite the heavy traffic, we _____ to arrive on time.'",
       "options": {
         "A": "managed",
         "B": "succeeded",
@@ -195,60 +195,60 @@
     },
     {
       "id": 17,
-      "question": "Select the correct phrasal verb: 'Can you _____ the children while I go shopping?'",
+      "question": "Choose the correct phrasal verb: 'Although the work was difficult, she decided to _____ with the project until it was finished.'",
       "options": {
-        "A": "look at",
-        "B": "look for",
-        "C": "look after",
-        "D": "look up"
+        "A": "carry out",
+        "B": "carry on",
+        "C": "take up",
+        "D": "press on"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 18,
-      "question": "Choose the correct collocation: 'He needs to _____ a decision soon.'",
+      "question": "Choose the most appropriate verb: 'Could you please _____ the laundry before you leave the house this afternoon?'",
       "options": {
-        "A": "do",
+        "A": "take",
         "B": "make",
-        "C": "take",
+        "C": "do",
         "D": "get"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 19,
       "question": "Which word best completes this sentence? 'She spoke so quietly that I could _____ hear what she was saying.'",
       "options": {
-        "A": "nearly",
-        "B": "hardly",
+        "A": "heavily",
+        "B": "barely",
         "C": "closely",
-        "D": "mostly"
+        "D": "nearly"
       },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 20,
-      "question": "Select the correct expression: 'It was raining heavily, _____ we decided to stay at home.'",
+      "question": "Choose the correct linking word: 'The jacket was a bit too small for him, _____ he decided to buy it anyway.'",
       "options": {
         "A": "so",
         "B": "because",
-        "C": "although",
-        "D": "despite"
+        "C": "but",
+        "D": "in spite of"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 21,
-      "question": "Choose the correct linking word: 'I wanted to go swimming, _____ the pool was closed.'",
+      "question": "Choose the correct linking word: 'I wanted to go swimming, _____ I went to the pool.'",
       "options": {
-        "A": "so",
-        "B": "and",
-        "C": "but",
-        "D": "or"
+        "A": "despite",
+        "B": "moreover",
+        "C": "therefore",
+        "D": "nevertheless"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -267,12 +267,12 @@
     },
     {
       "id": 23,
-      "question": "Select the appropriate expression: 'I'm really tired. I think I'll _____ early tonight.'",
+      "question": "Choose the most appropriate phrase: 'I'm exhausted; I need to _____ and get some sleep now.'",
       "options": {
-        "A": "go to sleep",
-        "B": "go to bed",
-        "C": "go to rest",
-        "D": "go to nap"
+        "A": "call it a day",
+        "B": "turn in",
+        "C": "take a break",
+        "D": "lay down"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -281,10 +281,10 @@
       "id": 24,
       "question": "Choose the correct idiom: 'Learning a new language is difficult, but it's not _____ rocket science.'",
       "options": {
-        "A": "similarly",
+        "A": "similar to",
         "B": "like",
-        "C": "as",
-        "D": "same"
+        "C": "the same as",
+        "D": "equal to"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -320,69 +320,69 @@
         "A": "They will arrive to the airport at 9 PM.",
         "B": "We arrived at the station just in time.",
         "C": "She arrived in home late last night.",
-        "D": "I arrive the hotel yesterday."
+        "D": "I arrive in the hotel by taxi."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 28,
-      "question": "Which sentence uses 'problem' correctly?",
+      "question": "What does 'conceal' mean in this sentence: 'The thief tried to conceal the stolen jewels inside a large box before the police arrived.'",
       "options": {
-        "A": "We have a problems with our car.",
-        "B": "He solved the math problem easily.",
-        "C": "They problem was very difficult.",
-        "D": "There is many problems in this city."
+        "A": "reveal",
+        "B": "hide",
+        "C": "display",
+        "D": "disclose"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 29,
-      "question": "Select the sentence that uses 'however' appropriately.",
+      "question": "Choose the word that has a similar meaning to 'however': 'I enjoy studying history; however, I find chemistry quite difficult.'",
       "options": {
-        "A": "However did you manage to finish so quickly?",
-        "B": "She was tired; however, she continued working.",
-        "C": "We are going however to the beach tomorrow.",
-        "D": "The movie was however interesting."
+        "A": "therefore",
+        "B": "moreover",
+        "C": "nevertheless",
+        "D": "consequently"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 30,
-      "question": "Choose the correct use of 'decide'.",
+      "question": "Choose the correct phrasal verb: 'After months of planning, they finally managed to _____ on a wedding date.'",
       "options": {
-        "A": "I decided going to the party.",
-        "B": "She will decide about the offer tomorrow.",
-        "C": "They decided to start a new business.",
-        "D": "He is deciding for a long time."
+        "A": "set off",
+        "B": "figure out",
+        "C": "settle on",
+        "D": "get over"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 31,
-      "question": "Which sentence uses 'travel' correctly?",
+      "question": "Choose the correct verb: 'My family and I _____ to Australia next week for our holiday.'",
       "options": {
-        "A": "They travel to Europe last summer.",
-        "B": "She has travel by train before.",
-        "C": "We are traveling to Japan next month.",
-        "D": "He travel from work to home every day."
+        "A": "traveling",
+        "B": "is traveling",
+        "C": "are traveling",
+        "D": "will traveling"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 32,
-      "question": "Select the correct use of 'enjoy'.",
+      "question": "Choose the correct option: 'Do you _____ to concerts in the summer?'",
       "options": {
-        "A": "I enjoy to play tennis on weekends.",
-        "B": "She enjoys watching movies.",
-        "C": "They enjoy listen to music.",
-        "D": "He enjoy reading books."
+        "A": "enjoy to go",
+        "B": "enjoy go",
+        "C": "enjoy going",
+        "D": "enjoy gone"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -414,9 +414,9 @@
       "question": "Select the sentence that uses 'improve' appropriately.",
       "options": {
         "A": "Your English has improved a lot.",
-        "B": "She improve her skills every day.",
+        "B": "She improved at her skills for every day.",
         "C": "They will improving the service soon.",
-        "D": "He is improve at playing guitar."
+        "D": "He is improved at playing the guitar."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -437,8 +437,8 @@
       "id": 37,
       "question": "Choose the correct use of 'understand'.",
       "options": {
-        "A": "I'm not understand this question.",
-        "B": "She understand the problem clearly.",
+        "A": "I'm not understanding this question.",
+        "B": "She has understanded the problem clearly.",
         "C": "They didn't understand what I was saying.",
         "D": "He understanded the instructions."
       },
@@ -450,9 +450,9 @@
       "question": "Select the sentence that uses 'create' appropriately.",
       "options": {
         "A": "The artist created a beautiful painting.",
-        "B": "She create a new recipe yesterday.",
+        "B": "She create a new recipe for bread.",
         "C": "They will creating a website soon.",
-        "D": "He is create a business plan."
+        "D": "He is created a business plan."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -464,7 +464,7 @@
         "A": "I am prepare for the exam next week.",
         "B": "She prepared dinner for her family.",
         "C": "They prepare a presentation yesterday.",
-        "D": "He prepareing for his trip now."
+        "D": "He has been preparing for his trip now."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -486,9 +486,9 @@
       "question": "According to the passage, what is photosynthesis?",
       "options": {
         "A": "A process that occurs only in animals",
-        "B": "A process that converts oxygen into carbon dioxide",
+        "B": "A process that converts oxygen, sunlight, and water into carbon dioxide and food energy",
         "C": "A process that converts sunlight, water, and carbon dioxide into food energy and oxygen",
-        "D": "A process that only happens at night"
+        "D": "A process that only happens at bright days"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -498,7 +498,7 @@
       "question": "Where does photosynthesis take place?",
       "options": {
         "A": "In the roots of plants",
-        "B": "In structures called chloroplasts",
+        "B": "In chloroplasts",
         "C": "Only in the soil",
         "D": "In the atmosphere"
       },
@@ -581,7 +581,7 @@
       "id": 49,
       "question": "What does the passage suggest about artificial photosynthesis?",
       "options": {
-        "A": "It is impossible to achieve",
+        "A": "It could potentially provide a sustainable source of non-renewable energy",
         "B": "It could potentially provide a sustainable source of clean energy",
         "C": "It has already replaced natural photosynthesis",
         "D": "It produces more carbon dioxide than oxygen"
@@ -596,7 +596,7 @@
         "A": "Plants are more important than animals in ecosystems",
         "B": "Photosynthesis is a complex process that is vital for life on Earth",
         "C": "Humans should study plants more carefully",
-        "D": "Climate change is destroying photosynthesis"
+        "D": "Climate change is destroying photosynthesis, which is vital for life on Earth"
       },
       "correct_answer": "B",
       "category": "Reading"
