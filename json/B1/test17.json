@@ -15,14 +15,14 @@
     },
     {
       "id": 2,
-      "question": "Choose the correct form of the verb: 'If I _____ enough money, I would buy a new car.'",
+      "question": "Choose the correct verb form: 'She looks tired because she _____ on her final presentation all morning.'",
       "options": {
-        "A": "have",
-        "B": "had",
-        "C": "will have",
-        "D": "having"
+        "A": "works",
+        "B": "has worked",
+        "C": "has been working",
+        "D": "was working"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -39,12 +39,12 @@
     },
     {
       "id": 4,
-      "question": "Select the correctly punctuated sentence:",
+      "question": "Select the correct sentence:",
       "options": {
-        "A": "After lunch we went to the museum.",
-        "B": "After lunch, we went to the museum",
+        "A": "After the lunch, we have gone to the museum.",
+        "B": "After lunch, we have went to the museum.",
         "C": "After lunch, we went to the museum.",
-        "D": "After lunch we went, to the museum."
+        "D": "After lunch, we had gone to the museum."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -53,7 +53,7 @@
       "id": 5,
       "question": "Choose the correct relative pronoun: 'The book _____ I borrowed from the library is very interesting.'",
       "options": {
-        "A": "who",
+        "A": "what",
         "B": "whose",
         "C": "where",
         "D": "which"
@@ -63,50 +63,50 @@
     },
     {
       "id": 6,
-      "question": "Select the sentence with the correct use of comparatives:",
+      "question": "Select the incorrect sentence:",
       "options": {
         "A": "This building is more taller than the other one.",
-        "B": "This building is the tallest of the two.",
+        "B": "This building is the taller of the two.",
         "C": "This building is taller than the other one.",
-        "D": "This building is the more taller one."
+        "D": "This building is the taller one."
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 7,
-      "question": "Choose the correct form: 'There _____ a lot of people at the concert last night.'",
+      "question": "Choose the correct verb form: 'I _____ never _____ a more beautiful place than the top of that mountain.'",
       "options": {
-        "A": "was",
-        "B": "were",
-        "C": "is",
-        "D": "are"
+        "A": "have/seen",
+        "B": "have/saw",
+        "C": "had/seen",
+        "D": "didn't/see"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 8,
-      "question": "Which sentence contains a gerund?",
+      "question": "Choose the sentence where the 'running' is used as a gerund:",
       "options": {
-        "A": "We decided to go swimming.",
-        "B": "She was swimming in the pool.",
-        "C": "They swim every day.",
-        "D": "He will swim tomorrow."
+        "A": "They were running fast to catch the train.",
+        "B": "Running a marathon requires months of training.",
+        "C": "He is running late for his appointment.",
+        "D": "I saw him running across the park this morning.",
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 9,
       "question": "Select the correct passive form: 'The company _____ new employees every month.'",
       "options": {
-        "A": "hires",
-        "B": "is hired",
-        "C": "are hired",
-        "D": "are hiring"
+        "A": "sighs",
+        "B": "highs",
+        "C": "hides",
+        "D": "hires"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -135,24 +135,24 @@
     },
     {
       "id": 12,
-      "question": "Select the correct article: 'I saw _____ interesting movie last night.'",
+      "question": "Choose the correct article: 'It took the journalist nearly _____ hour to write the entire article.'",
       "options": {
         "A": "a",
         "B": "an",
         "C": "the",
-        "D": "no article needed"
+        "D": "-"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 13,
-      "question": "Choose the correct preposition: 'The book is _____ the table.'",
+      "question": "Choose the correct prepositions: 'We usually meet our friends _____ dinner _____ the evening, around 7 p.m.'",
       "options": {
-        "A": "at",
-        "B": "in",
-        "C": "on",
-        "D": "to"
+        "A": "at/in",
+        "B": "on/for",
+        "C": "for/in",
+        "D": "for/by"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -166,14 +166,14 @@
         "C": "Neither John nor Mary were at the party.",
         "D": "Neither John or Mary was at the party."
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 15,
       "question": "Choose the correct form of the verb: 'She _____ for three hours when I called her.'",
       "options": {
-        "A": "studies",
+        "A": "was studying",
         "B": "studied",
         "C": "has been studying",
         "D": "had been studying"
@@ -200,33 +200,33 @@
         "A": "give up",
         "B": "carry on",
         "C": "take off",
-        "D": "look after"
+        "D": "look for"
       },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 18,
-      "question": "Select the correct collocation:",
+      "question": "Choose the correct option: 'I need to call the hotel and _____ a reservation for our stay next weekend.'",
       "options": {
-        "A": "do a mistake",
-        "B": "make a mistake",
-        "C": "take a mistake",
-        "D": "have a mistake"
+        "A": "do",
+        "B": "make",
+        "C": "take",
+        "D": "give"
       },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 19,
-      "question": "Choose the correct word to complete the sentence: 'I'm not feeling well. I think I'm coming _____ with a cold.'",
+      "question": "Choose the correct phrasal verb: 'It took him over a week to finally _____ his terrible bout of the flu.'",
       "options": {
-        "A": "down",
-        "B": "up",
-        "C": "over",
-        "D": "through"
+        "A": "get off",
+        "B": "get up",
+        "C": "get by",
+        "D": "get over"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -248,55 +248,55 @@
         "A": "at the end of the day",
         "B": "in advance",
         "C": "out of the blue",
-        "D": "once in a blue moon"
+        "D": "in a hurry"
       },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 22,
-      "question": "Choose the appropriate response to the question 'How do you do?'",
+      "question": "Choose the correct phrase: 'They looked exhausted when they arrived; they _____ traveling for many hours.'",
       "options": {
-        "A": "I'm fine, thank you.",
-        "B": "How do you do?",
-        "C": "I do well.",
-        "D": "I'm doing it now."
+        "A": "should have been",
+        "B": "must have been",
+        "C": "might have to be",
+        "D": "could have to be"
       },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 23,
-      "question": "Select the correct linking word: 'He studied hard, _____ he failed the exam.'",
+      "question": "Choose the correct linking word: 'She decided to stay home all day _____ the heavy snow made driving conditions very dangerous.'",
       "options": {
-        "A": "so",
+        "A": "although",
         "B": "because",
-        "C": "yet",
-        "D": "and"
+        "C": "despite",
+        "D": "in spite of"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 24,
-      "question": "Which expression is used to make a suggestion?",
+      "question": "Choose the correct expression: 'I'd _____ stay home and read rather than go out tonight.'",
       "options": {
-        "A": "Why don't we go to the cinema?",
-        "B": "I don't mind going to the cinema.",
-        "C": "I'd rather go to the cinema.",
-        "D": "I'm not going to the cinema."
+        "A": "better",
+        "B": "have to",
+        "C": "rather",
+        "D": "prefer"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 25,
       "question": "Choose the correct word to complete the sentence: 'She spoke so quietly that I could hardly _____ what she was saying.'",
       "options": {
-        "A": "listen",
+        "A": "here",
         "B": "hear",
-        "C": "listen to",
-        "D": "hearing"
+        "C": "heir",
+        "D": "hair"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -305,22 +305,22 @@
       "id": 26,
       "question": "What does the word 'participate' mean?",
       "options": {
-        "A": "To watch something",
-        "B": "To take part in something",
-        "C": "To organize something",
-        "D": "To avoid something"
+        "A": "To throw a party",
+        "B": "To join the party",
+        "C": "To share a part",
+        "D": "To take part"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 27,
-      "question": "Choose the word that is closest in meaning to 'use':",
+      "question": "Choose the word that is closest in meaning to 'utilize':",
       "options": {
-        "A": "waste",
-        "B": "save",
-        "C": "utilize",
-        "D": "abandon"
+        "A": "fuse",
+        "B": "muse",
+        "C": "use",
+        "D": "amuse"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -341,22 +341,22 @@
       "id": 29,
       "question": "What does it mean to 'schedule' something?",
       "options": {
-        "A": "To plan it for a specific time",
-        "B": "To cancel it",
-        "C": "To forget about it",
-        "D": "To do it immediately"
+        "A": "To plan",
+        "B": "To cancel",
+        "C": "To remind",
+        "D": "To retire"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 30,
-      "question": "Choose the correct definition of 'equipment':",
+      "question": "Choose the correct definition of 'a set of tools or devices needed for a particular purpose':",
       "options": {
-        "A": "A group of people",
-        "B": "A set of tools or devices needed for a particular purpose",
-        "C": "A type of clothing",
-        "D": "A building or structure"
+        "A": "equivalent",
+        "B": "equipment",
+        "C": "equinox",
+        "D": "equilibrium"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -375,12 +375,12 @@
     },
     {
       "id": 32,
-      "question": "What does it mean to 'achieve' something?",
+      "question": "What does it mean 'to succeed in reaching something'?",
       "options": {
-        "A": "To lose it",
-        "B": "To break it",
-        "C": "To succeed in reaching it",
-        "D": "To give it away"
+        "A": "archive",
+        "B": "acquire",
+        "C": "achieve",
+        "D": "accuse"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -402,7 +402,7 @@
       "question": "What does the word 'rest' mean in the sentence 'I need to rest after the long walk'?",
       "options": {
         "A": "To sleep",
-        "B": "To relax and recover strength",
+        "B": "To relax",
         "C": "To eat food",
         "D": "To exercise more"
       },
@@ -411,60 +411,60 @@
     },
     {
       "id": 35,
-      "question": "Choose the word that is closest in meaning to 'expect':",
+      "question": "Choose the word that is closest in meaning to 'anticipate':",
       "options": {
-        "A": "Surprise",
-        "B": "Hope",
-        "C": "Anticipate",
-        "D": "Demand"
+        "A": "Expert",
+        "B": "Exert",
+        "C": "Expect",
+        "D": "Explore"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 36,
-      "question": "What does it mean to 'cross' a street?",
+      "question": "What does it mean 'to walk from one side to the other'?",
       "options": {
-        "A": "To walk alongside it",
-        "B": "To walk from one side to the other",
-        "C": "To avoid it",
-        "D": "To clean it"
+        "A": "across",
+        "B": "cross",
+        "C": "crest",
+        "D": "crisis"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 37,
-      "question": "Choose the correct definition of 'create':",
+      "question": "Choose the correct definition of 'to make or produce something':",
       "options": {
-        "A": "To destroy something",
-        "B": "To find something",
-        "C": "To make or produce something",
-        "D": "To buy something"
+        "A": "react",
+        "B": "reach",
+        "C": "create",
+        "D": "creature"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 38,
-      "question": "Which word is most similar to 'drive' when talking about operating a vehicle?",
+      "question": "Which word is most similar to 'drive' when talking about a bike?",
       "options": {
         "A": "Ride",
         "B": "Operate",
-        "C": "Push",
-        "D": "Pull"
+        "C": "Roll",
+        "D": "Dive"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 39,
       "question": "What does the word 'damage' mean?",
       "options": {
-        "A": "To repair something",
-        "B": "To improve something",
-        "C": "To harm or cause physical destruction to something",
-        "D": "To clean something"
+        "A": "To repair",
+        "B": "To improve",
+        "C": "To harm",
+        "D": "To clean"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -509,7 +509,7 @@
       "id": 43,
       "question": "What is the function of the pinna?",
       "options": {
-        "A": "To convert vibrations into electrical signals",
+        "A": "To convert vibrations into electrical signals in the middle ear",
         "B": "To collect sound waves and direct them into the ear canal",
         "C": "To connect to the three tiny bones in the middle ear",
         "D": "To transmit electrical signals to the brain"
@@ -560,7 +560,7 @@
         "A": "Low-frequency sounds",
         "B": "High-frequency sounds",
         "C": "Exposure to very loud noises",
-        "D": "The natural aging process"
+        "D": "The natural human aging process"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -581,20 +581,20 @@
       "id": 49,
       "question": "Which statement best summarizes the main idea of the passage?",
       "options": {
-        "A": "Sound is a complex phenomenon that can damage our hearing.",
+        "A": "Sound is a form of energy that travels in waves.",
         "B": "The human ear is designed to process different types of sounds.",
-        "C": "Sound is a form of energy that travels in waves and is processed by our ears and brain.",
+        "C": "Sound is a complex phenomenon that can damage our hearing.",
         "D": "Aging and loud noises are the main causes of hearing loss."
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Reading"
     },
     {
       "id": 50,
       "question": "What is the purpose of paragraph 5?",
       "options": {
-        "A": "To explain how sound waves are created",
-        "B": "To describe the structure of the ear",
+        "A": "To describe the structure of the ear",
+        "B": "To explain how sound waves are created",
         "C": "To discuss factors that can affect our hearing ability",
         "D": "To explain the difference between high and low pitched sounds"
       },
