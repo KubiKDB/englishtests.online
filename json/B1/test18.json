@@ -3,62 +3,62 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which verb form correctly completes the sentence? 'She _____ to the store yesterday.'",
+      "question": "Choose the correct way to say the number '5,600':",
       "options": {
-        "A": "go",
-        "B": "gone",
-        "C": "went",
-        "D": "going"
-      },
-      "correct_answer": "C",
-      "category": "Grammar"
-    },
-    {
-      "id": 2,
-      "question": "Choose the correct option: 'If it _____ tomorrow, we will cancel the picnic.'",
-      "options": {
-        "A": "rains",
-        "B": "will rain",
-        "C": "rained",
-        "D": "raining"
+        "A": "Five thousand six hundred",
+        "B": "Five thousand six hundreds",
+        "C": "Fifty six hundreds",
+        "D": "Five thousands six hundred"
       },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
-      "id": 3,
-      "question": "Select the correct sentence:",
+      "id": 2,
+      "question": "Choose the correct modal verb: 'When she was younger, she _____ run five kilometers without stopping.'",
       "options": {
-        "A": "She don't like coffee.",
-        "B": "She doesn't likes coffee.",
-        "C": "She doesn't like coffee.",
-        "D": "She not like coffee."
+        "A": "might",
+        "B": "must have",
+        "C": "could",
+        "D": "should"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 3,
+      "question": "Choose the correct sentence:",
+      "options": {
+        "A": "They didn't finished the report yesterday.",
+        "B": "The manager not call us back this morning.",
+        "C": "The meeting didn't start on time this week.",
+        "D": "The employees doesn't attend the training session."
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 4,
-      "question": "Choose the correct preposition: 'I'm interested _____ learning a new language.'",
+      "question": "Choose the correct preposition: 'I'm interested _____ learning _____ new language.'",
       "options": {
-        "A": "for",
-        "B": "at",
-        "C": "in",
-        "D": "by"
+        "A": "in/-",
+        "B": "at/the",
+        "C": "in/a",
+        "D": "by/a"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 5,
-      "question": "Which sentence uses the correct comparative form?",
+      "question": "Choose the correct word: 'The weather forecast suggests that tomorrow’s storm will be _____ than the one we had last week.'",
       "options": {
-        "A": "This book is more better than the other one.",
-        "B": "This book is better than the other one.",
-        "C": "This book is gooder than the other one.",
-        "D": "This book is more good than the other one."
+        "A": "terrible",
+        "B": "horrible",
+        "C": "worried",
+        "D": "worse"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -77,106 +77,106 @@
       "id": 7,
       "question": "Which sentence is grammatically correct?",
       "options": {
-        "A": "I have been to Paris last year.",
-        "B": "I went to Paris last year.",
-        "C": "I have went to Paris last year.",
-        "D": "I had been going to Paris last year."
+        "A": "I have been to Mexico last year.",
+        "B": "I went to Mexico last year.",
+        "C": "I have went to Mexico last year.",
+        "D": "I had been going to Mexico last year."
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 8,
-      "question": "Choose the correct modal verb: 'You _____ smoke in the hospital.'",
+      "question": "Choose the best option: 'I have already finished my work, so I _____ stay late at the office tonight.'",
       "options": {
-        "A": "don't have to",
-        "B": "shouldn't",
-        "C": "mustn't",
+        "A": "must not",
+        "B": "needn't",
+        "C": "shouldn't",
         "D": "might not"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct pronoun: 'The artist _____ paintings sold for thousands of dollars is coming to visit the gallery.'",
+      "options": {
+        "A": "who",
+        "B": "whom",
+        "C": "whose",
+        "D": "which"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
-      "id": 9,
-      "question": "Select the correct relative pronoun: 'The woman _____ lives next door is a doctor.'",
-      "options": {
-        "A": "who",
-        "B": "which",
-        "C": "whose",
-        "D": "whom"
-      },
-      "correct_answer": "A",
-      "category": "Grammar"
-    },
-    {
       "id": 10,
-      "question": "Choose the correct article: 'I saw _____ interesting movie last weekend.'",
+      "question": "Choose the correct preposition: 'The flight was delayed _____ heavy fog.'",
       "options": {
-        "A": "a",
-        "B": "an",
-        "C": "the",
-        "D": "no article needed"
+        "A": "because",
+        "B": "due to",
+        "C": "although",
+        "D": "in spite"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 11,
-      "question": "Identify the correct passive voice construction: 'They build many houses in this area.'",
+      "question": "Choose the correct verb form to complete the passive sentence: 'The email _____ by the manager yesterday.'",
       "options": {
-        "A": "Many houses built in this area.",
-        "B": "Many houses are build in this area.",
-        "C": "Many houses are built in this area.",
-        "D": "Many houses were build in this area."
+        "A": "is sent",
+        "B": "was send",
+        "C": "was sent",
+        "D": "has been sent"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 12,
-      "question": "Choose the correct option: 'By the time we arrived, the movie _____.'",
+      "question": "Complete the sentence: 'She finally passed her driving test because she _____ so hard for it.'",
       "options": {
-        "A": "already started",
-        "B": "had already started",
-        "C": "has already started",
-        "D": "was already starting"
+        "A": "studied",
+        "B": "was studying",
+        "C": "has studied",
+        "D": "had studied"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 13,
       "question": "Select the correct sentence:",
       "options": {
-        "A": "I'm going to the cinema for watch a movie.",
+        "A": "I'm going to the cinema to watch a movie.",
         "B": "I'm going to the cinema to watching a movie.",
-        "C": "I'm going to the cinema to watch a movie.",
+        "C": "I'm going to the cinema for watch a movie.",
         "D": "I'm going to the cinema and watch a movie."
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 14,
-      "question": "Choose the correct form of the verb: 'I wish I _____ more time to study.'",
+      "question": "Choose the correct word: 'I wish I _____ fly.'",
       "options": {
-        "A": "have",
-        "B": "had",
-        "C": "would have",
-        "D": "am having"
+        "A": "could",
+        "B": "would",
+        "C": "should",
+        "D": "might"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 15,
-      "question": "Which sentence uses the correct word order?",
+      "question": "Choose the correct phrasal verb: 'I have to _____ my notes before the exam to remember everything.'",
       "options": {
-        "A": "Often I go to the gym after work.",
-        "B": "I often go to the gym after work.",
-        "C": "I go often to the gym after work.",
-        "D": "I go to the gym often after work."
+        "A": "look for",
+        "B": "go through",
+        "C": "take off",
+        "D": "put up"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -195,14 +195,14 @@
     },
     {
       "id": 17,
-      "question": "Select the appropriate expression: 'Can you _____ the children while I'm away?'",
+      "question": "Choose the correct relative pronoun: 'That's the restaurant _____ the best pizza in the city is served.'",
       "options": {
-        "A": "look at",
-        "B": "look for",
-        "C": "look after",
-        "D": "look over"
+        "A": "that",
+        "B": "here",
+        "C": "which",
+        "D": "where"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -221,9 +221,9 @@
       "id": 19,
       "question": "Choose the correct option to complete the sentence: 'It's important to _____ eye contact during a job interview.'",
       "options": {
-        "A": "do",
+        "A": "remain",
         "B": "make",
-        "C": "take",
+        "C": "stand",
         "D": "keep"
       },
       "correct_answer": "D",
@@ -233,7 +233,7 @@
       "id": 20,
       "question": "Select the correct option to complete the sentence: 'I'd rather _____ at home than go out tonight.'",
       "options": {
-        "A": "to stay",
+        "A": "have stayed",
         "B": "staying",
         "C": "stay",
         "D": "stayed"
@@ -248,31 +248,31 @@
         "A": "pick up",
         "B": "pick out",
         "C": "pick on",
-        "D": "pick over"
+        "D": "pick in"
       },
       "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 22,
-      "question": "Complete the idiom: 'It's raining _____.'",
+      "question": "Choose the correct idiom: 'I haven't been formally told yet, but I heard about the new company policy through the _____.'",
       "options": {
-        "A": "dogs and cats",
-        "B": "cats and dogs",
-        "C": "dogs and wolfs",
-        "D": "cats and mice"
+        "A": "grapevine",
+        "B": "loudspeaker",
+        "C": "internet",
+        "D": "keyhole"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 23,
       "question": "Select the appropriate connector: 'He didn't come to the meeting, _____ he was ill.'",
       "options": {
-        "A": "so",
+        "A": "however",
         "B": "because",
         "C": "therefore",
-        "D": "but"
+        "D": "moreover"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -282,23 +282,23 @@
       "question": "Choose the correct sentence:",
       "options": {
         "A": "Neither I have seen that movie.",
-        "B": "I have neither seen that movie.",
+        "B": "I have seen neither that movie.",
         "C": "I neither have seen that movie.",
-        "D": "I have seen neither that movie."
+        "D": "I have neither seen that movie."
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 25,
-      "question": "Complete the sentence with the correct option: 'She's very good _____ speaking English.'",
+      "question": "Choose the correct preposition: 'He is terrible _____ arriving on time for meetings, which frustrates everyone.'",
       "options": {
-        "A": "at",
+        "A": "with",
         "B": "in",
-        "C": "with",
+        "C": "at",
         "D": "for"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
@@ -306,7 +306,7 @@
       "question": "Choose the correct definition for the word 'lack':",
       "options": {
         "A": "to have a surplus of something",
-        "B": "to be without something or not have enough of it",
+        "B": "to be without something",
         "C": "to give something to someone",
         "D": "to find something that was lost"
       },
@@ -317,36 +317,36 @@
       "id": 27,
       "question": "Which word best completes the sentence? 'The artist used a special _____ to create a textured effect on the canvas.'",
       "options": {
-        "A": "guess",
-        "B": "technique",
-        "C": "appearance",
-        "D": "drop"
+        "A": "technical",
+        "B": "ability",
+        "C": "mechanic",
+        "D": "technique"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 28,
       "question": "What is the best meaning of 'guess' in this sentence? 'I don't know the answer, but I can guess.'",
       "options": {
-        "A": "to confirm with certainty",
-        "B": "to calculate precisely",
-        "C": "to give an answer without being sure",
-        "D": "to remember clearly"
+        "A": "to give an answer being sure",
+        "B": "to give an answer having a proof",
+        "C": "to give an answer to an invitation",
+        "D": "to give an answer without being sure"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 29,
       "question": "Choose the correct use of 'appearance' in a sentence:",
       "options": {
-        "A": "The book appearance was very interesting.",
-        "B": "She made a surprising appearance at the party.",
+        "A": "She made a surprising appearance at the party.",
+        "B": "The book appearance was very interesting.",
         "C": "We appearance at the concert last night.",
         "D": "The store will appearance on Monday."
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
@@ -366,9 +366,9 @@
       "question": "Which sentence uses 'event' correctly?",
       "options": {
         "A": "The wedding event was beautiful and memorable.",
-        "B": "I event to the party last weekend.",
+        "B": "We event to the party last weekend.",
         "C": "She events a new dress for the ceremony.",
-        "D": "They will event next week."
+        "D": "They will give a wonderful event next week."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -379,8 +379,8 @@
       "options": {
         "A": "to create stress",
         "B": "to enjoy stress",
-        "C": "to manage or cope with stress",
-        "D": "to avoid stress completely"
+        "C": "to manage stress",
+        "D": "to avoid stress"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -390,7 +390,7 @@
       "question": "What does 'stretch' mean in the sentence 'You should stretch before exercising'?",
       "options": {
         "A": "to run fast",
-        "B": "to extend your body or limbs",
+        "B": "to extend body",
         "C": "to lift weights",
         "D": "to breathe deeply"
       },
@@ -401,58 +401,58 @@
       "id": 34,
       "question": "Which sentence uses 'goal' correctly?",
       "options": {
-        "A": "The athlete goals very fast.",
-        "B": "She goal to become a doctor someday.",
+        "A": "The athlete finished with his goal first.",
+        "B": "She goaled to become a doctor someday.",
         "C": "His goal is to learn French by next year.",
-        "D": "They goal the competition last month."
+        "D": "Their goal was on the competition last month."
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 35,
-      "question": "Choose the correct meaning of 'miss' in this context: 'I miss my family when I'm away.'",
+      "question": "Choose the meaning of 'miss' in the sentence: 'I arrived at the station late and sadly missed my train to London.'",
       "options": {
-        "A": "to fail to see",
-        "B": "to feel sad about being away from someone",
-        "C": "to avoid",
-        "D": "to meet unexpectedly"
+        "A": "To feel sadness because of their absence.",
+        "B": "To avoid doing a necessary task.",
+        "C": "To throw something and fail to hit the target.",
+        "D": "To fail to catch or be present for something."
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 36,
-      "question": "Select the sentence where 'educate' is used correctly:",
+      "question": "Choose the correct verb: 'Did you _____ the email I sent you yesterday?'",
       "options": {
-        "A": "She educates to school every day.",
-        "B": "Parents should educate their children about safety.",
-        "C": "I educated my homework yesterday.",
-        "D": "They educate very tall buildings."
+        "A": "receive",
+        "B": "perceive",
+        "C": "recover",
+        "D": "reverse"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 37,
-      "question": "Which sentence uses 'swim' correctly?",
+      "question": "Choose the most appropriate verb: 'The postal worker arrives every afternoon to _____ the mail and packages to all the houses on the street.'",
       "options": {
-        "A": "She swims in the pool every morning.",
-        "B": "I swim a letter to my friend.",
-        "C": "They swim to school by bus.",
-        "D": "He swims the garden on weekends."
+        "A": "deliver",
+        "B": "carry",
+        "C": "take",
+        "D": "bring"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 38,
-      "question": "Choose the correct sentence using 'wonderful':",
+      "question": "Choose the correct sentence where 'wonderful' is used correctly:",
       "options": {
-        "A": "The concert was wonderful tired.",
-        "B": "We had a wonderful time at the beach.",
-        "C": "She wonderful the exam yesterday.",
-        "D": "They wonderful to the store."
+        "A": "The teacher spoke wonderful about the student's progress.",
+        "B": "We stayed at a truly wonderful hotel during our holiday.",
+        "C": "He feels wonderful today after a good night's sleep.",
+        "D": "They always perform wonderful in their concerts."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -462,23 +462,23 @@
       "question": "What does 'cause' mean in this sentence? 'Smoking can cause serious health problems.'",
       "options": {
         "A": "to solve",
-        "B": "to create or lead to",
-        "C": "to prevent",
-        "D": "to treat"
+        "B": "to treat",
+        "C": "to leave at",
+        "D": "to lead to"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 40,
-      "question": "Select the sentence where 'print' is used correctly:",
+      "question": "Choose the correct sentence with 'to print':",
       "options": {
-        "A": "Please print these documents for the meeting.",
-        "B": "She print to school every day.",
-        "C": "They print the movie last night.",
-        "D": "I print very tired after work."
+        "A": "My company prints new computers every year.",
+        "B": "The famous factory prints plastic toys for children.",
+        "C": "I print my boarding pass at the airport before my flight.",
+        "D": "They print a lot of money and give it to the poor people."
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -512,7 +512,7 @@
         "A": "It made education less necessary",
         "B": "It restricted education to the elite",
         "C": "It motivated more people to learn to read",
-        "D": "It made books more expensive"
+        "D": "It made books more expensive for poor people"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -533,8 +533,8 @@
       "id": 45,
       "question": "According to paragraph 5, what modern technology is compared to the printing press?",
       "options": {
-        "A": "Television",
-        "B": "Radio",
+        "A": "The television",
+        "B": "The radio",
         "C": "The telephone",
         "D": "The internet"
       },
@@ -545,9 +545,9 @@
       "id": 46,
       "question": "The main purpose of the passage is to:",
       "options": {
-        "A": "Compare ancient and modern technologies",
-        "B": "Describe the life of Johannes Gutenberg",
-        "C": "Explain how the printing press worked",
+        "A": "Compare ancient and modern printing technologies",
+        "B": "Describe the life of people who established printing",
+        "C": "Explain how the printing press worked in the past",
         "D": "Discuss the impact of the printing press on society"
       },
       "correct_answer": "D",
@@ -570,7 +570,7 @@
       "question": "The word 'democratized' in paragraph 5 most nearly means:",
       "options": {
         "A": "Made more political",
-        "B": "Made more accessible to all people",
+        "B": "Made more accessible",
         "C": "Made more expensive",
         "D": "Made more complicated"
       },
