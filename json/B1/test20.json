@@ -3,189 +3,189 @@
   "questions": [
     {
       "id": 1,
-      "question": "Choose the correct form of the verb: 'He _____ tennis every Saturday.'",
+      "question": "Choose the correct form: 'If they leave now, they _____ the end of the movie.'",
       "options": {
-        "A": "play",
-        "B": "plays",
-        "C": "playing",
-        "D": "is playing"
+        "A": "miss",
+        "B": "will miss",
+        "C": "would miss",
+        "D": "missed"
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 2,
-      "question": "Select the correct preposition: 'She has been working here _____ 2015.'",
+      "question": "Select the correct preposition: 'He has worked at this factory _____ five years.'",
       "options": {
-        "A": "for",
-        "B": "since",
+        "A": "since",
+        "B": "during",
         "C": "from",
-        "D": "during"
-      },
-      "correct_answer": "B",
-      "category": "Grammar"
-    },
-    {
-      "id": 3,
-      "question": "Which sentence is grammatically correct?",
-      "options": {
-        "A": "I didn't saw him yesterday.",
-        "B": "She don't like chocolate.",
-        "C": "They aren't coming to the party.",
-        "D": "He have a new car."
-      },
-      "correct_answer": "C",
-      "category": "Grammar"
-    },
-    {
-      "id": 4,
-      "question": "Choose the correct comparative form: 'This book is _____ than the one I read last week.'",
-      "options": {
-        "A": "more better",
-        "B": "more good",
-        "C": "gooder",
-        "D": "better"
+        "D": "for"
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
-      "id": 5,
-      "question": "Select the correct article: 'She plays _____ violin in an orchestra.'",
+      "id": 3,
+      "question": "Complete the sentence with the correct passive form: 'The bills _____ once a month by the customer.'",
       "options": {
-        "A": "a",
-        "B": "an",
-        "C": "the",
-        "D": "no article needed"
+        "A": "is paying",
+        "B": "was paid",
+        "C": "paid",
+        "D": "are paid"
+      },
+      "correct_answer": "D",
+      "category": "Grammar"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct way to report the statement: 'She said, 'I am going to the library.''",
+      "options": {
+        "A": "She said she is going to the library.",
+        "B": "She said she was going to the library.",
+        "C": "She said she will go to the library.",
+        "D": "She said she would be going to the library."
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 5,
+      "question": "Select the correct modal verb: 'Visitors _____ take photographs inside the museum. It is strictly forbidden.'",
+      "options": {
+        "A": "don't have to",
+        "B": "shouldn't",
+        "C": "mustn't",
+        "D": "might not"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 6,
-      "question": "Choose the correct past participle: 'Have you ever _____ to Paris?'",
+      "question": "Choose the correct verb: 'I avoid _____ the news because it makes me anxious.'",
       "options": {
-        "A": "went",
-        "B": "gone",
-        "C": "going",
-        "D": "go"
+        "A": "to watch",
+        "B": "watch",
+        "C": "watching",
+        "D": "to be watched"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 7,
-      "question": "Which sentence uses the correct conditional form?",
+      "question": "Select the correct relative pronoun: 'The new computer, _____ has a much faster processor, arrived this morning.'",
       "options": {
-        "A": "If it rains tomorrow, we stay at home.",
-        "B": "If I will study hard, I will pass the exam.",
-        "C": "If she would arrive early, she would get a good seat.",
-        "D": "If I had more time, I would learn another language."
+        "A": "who",
+        "B": "whom",
+        "C": "whose",
+        "D": "which"
       },
       "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 8,
-      "question": "Select the correct relative pronoun: 'The man _____ car was stolen called the police.'",
+      "question": "Complete the sentence: 'While I was studying, my brother _____ the television loudly.'",
       "options": {
-        "A": "who",
-        "B": "which",
-        "C": "whose",
-        "D": "whom"
+        "A": "watch",
+        "B": "watched",
+        "C": "was watching",
+        "D": "had watched"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 9,
-      "question": "Choose the correct modal verb: 'You _____ smoke in public places. It's against the law.'",
+      "question": "Choose the correct quantifier: 'We didn't have _____ time to finish all the exercises.'",
       "options": {
-        "A": "don't have to",
-        "B": "mustn't",
-        "C": "shouldn't",
-        "D": "might not"
+        "A": "many",
+        "B": "a few",
+        "C": "much",
+        "D": "several"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 10,
-      "question": "Which sentence is in the passive voice?",
+      "question": "Select the correct article: 'Mount Everest is _____ highest mountain in the world.'",
       "options": {
-        "A": "She bought a new computer yesterday.",
-        "B": "The package will arrive tomorrow.",
-        "C": "The window was broken by a baseball.",
-        "D": "They have lived here for ten years."
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "-"
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 11,
-      "question": "Choose the correct form: 'By the time I got to the station, the train _____.'",
+      "question": "Complete the sentence with the correct comparative: 'Learning a second language is _____ than learning mathematics.'",
       "options": {
-        "A": "had left",
-        "B": "has left",
-        "C": "was leaving",
-        "D": "left"
+        "A": "more difficult",
+        "B": "the most difficult",
+        "C": "as much difficult",
+        "D": "much more difficulter"
       },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 12,
-      "question": "Select the correct question tag: 'You're coming to the party, _____?'",
+      "question": "Choose the correct phrasal verb: 'They offered him the job, but he _____ the offer.'",
       "options": {
-        "A": "aren't you",
-        "B": "don't you",
-        "C": "isn't it",
-        "D": "is it"
+        "A": "turned up",
+        "B": "turned off",
+        "C": "turned down",
+        "D": "turned over"
+      },
+      "correct_answer": "C",
+      "category": "Grammar"
+    },
+    {
+      "id": 13,
+      "question": "Complete the sentence: 'We finally got into the concert only after we realized we _____ the wrong entrance.'",
+      "options": {
+        "A": "went to",
+        "B": "had gone to",
+        "C": "have gone to",
+        "D": "were going to"
+      },
+      "correct_answer": "B",
+      "category": "Grammar"
+    },
+    {
+      "id": 14,
+      "question": "Select the correct phrase: 'When I was a child, I _____ live near the sea.'",
+      "options": {
+        "A": "used to",
+        "B": "am used to",
+        "C": "was used to",
+        "D": "use to"
       },
       "correct_answer": "A",
       "category": "Grammar"
     },
     {
-      "id": 13,
-      "question": "Which sentence uses the correct form of the verb?",
-      "options": {
-        "A": "I am agree with you.",
-        "B": "He doesn't listening to me.",
-        "C": "We were studying when she called.",
-        "D": "They having dinner now."
-      },
-      "correct_answer": "C",
-      "category": "Grammar"
-    },
-    {
-      "id": 14,
-      "question": "Choose the correct verb pattern: 'She suggested _____ to the beach.'",
-      "options": {
-        "A": "go",
-        "B": "to go",
-        "C": "going",
-        "D": "goes"
-      },
-      "correct_answer": "C",
-      "category": "Grammar"
-    },
-    {
       "id": 15,
-      "question": "Select the correct sentence:",
+      "question": "Choose the correct question tag: 'You won't be late for the train, _____?'",
       "options": {
-        "A": "Neither he or I was invited.",
-        "B": "There's a lot of peoples waiting outside.",
-        "C": "I've known her since three years.",
-        "D": "She doesn't have much free time these days."
+        "A": "will you",
+        "B": "won't you",
+        "C": "do you",
+        "D": "are you"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 16,
       "question": "Choose the correct phrasal verb: 'Could you please _____ this form and sign it?'",
       "options": {
-        "A": "fill in",
+        "A": "fill off",
         "B": "fill out",
         "C": "fill up",
         "D": "fill over"
@@ -222,7 +222,7 @@
       "question": "Choose the correct expression to make a suggestion:",
       "options": {
         "A": "Why don't we go for a walk?",
-        "B": "I'd love to join you.",
+        "B": "Would you like to join me?",
         "C": "I'm really sorry about that.",
         "D": "That sounds great!"
       },
@@ -231,7 +231,7 @@
     },
     {
       "id": 20,
-      "question": "Select the best linking word: 'I wanted to go to the concert; _____, I had to work late.'",
+      "question": "Select the best linking word: 'I wanted to go to the show; _____, I had to work late.'",
       "options": {
         "A": "therefore",
         "B": "moreover",
@@ -245,7 +245,7 @@
       "id": 21,
       "question": "Which is the most appropriate response to 'Thank you for your help'?",
       "options": {
-        "A": "It's nothing.",
+        "A": "It's nothing for me.",
         "B": "You're welcome.",
         "C": "Don't mention me.",
         "D": "With pleasure."
@@ -255,7 +255,7 @@
     },
     {
       "id": 22,
-      "question": "Choose the correct word to complete the idiom: 'It's _____ cake.' (meaning something is very easy)",
+      "question": "Choose the correct word to complete the idiom: 'It's _____ cake.'",
       "options": {
         "A": "a piece of",
         "B": "a slice of",
@@ -267,14 +267,14 @@
     },
     {
       "id": 23,
-      "question": "Select the best expression for apologizing:",
+      "question": "Select the incorrect expression for apologizing:",
       "options": {
-        "A": "Excuse me!",
-        "B": "Pardon!",
-        "C": "I'm really sorry about that.",
-        "D": "No problem."
+        "A": "Excuse me",
+        "B": "I beg your pardon",
+        "C": "I'm sorry",
+        "D": "No problem"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -293,10 +293,10 @@
       "id": 25,
       "question": "Select the most appropriate way to begin a formal email:",
       "options": {
-        "A": "Hi there,",
-        "B": "Hey,",
-        "C": "Dear Sir/Madam,",
-        "D": "Hello friend,"
+        "A": "Hi there Michael,",
+        "B": "Hey Michael,",
+        "C": "Dear Michael,",
+        "D": "Hello my friend Michael,"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -379,7 +379,7 @@
       "options": {
         "A": "Private citizens",
         "B": "Government officials",
-        "C": "Ordinary people in general",
+        "C": "Ordinary people",
         "D": "Specific communities"
       },
       "correct_answer": "C",
@@ -416,7 +416,7 @@
         "A": "Is the same as",
         "B": "Is similar to",
         "C": "Is related to",
-        "D": "Is different from"
+        "D": "Is contrasting with"
       },
       "correct_answer": "D",
       "category": "Vocabulary"
@@ -439,7 +439,7 @@
       "options": {
         "A": "Wrote",
         "B": "Received",
-        "C": "Sent by mail",
+        "C": "Sent",
         "D": "Delivered"
       },
       "correct_answer": "C",
@@ -450,7 +450,7 @@
       "question": "What does 'sample' mean in this sentence? 'Would you like to try a free sample of our new product?'",
       "options": {
         "A": "Example",
-        "B": "Small portion",
+        "B": "Test",
         "C": "Model",
         "D": "Advertisement"
       },
@@ -463,7 +463,7 @@
       "options": {
         "A": "Remove",
         "B": "Suggest",
-        "C": "Force upon",
+        "C": "Force",
         "D": "Consider"
       },
       "correct_answer": "C",
@@ -486,7 +486,7 @@
       "question": "According to the passage, how are volcanic islands formed?",
       "options": {
         "A": "By tectonic plates moving apart",
-        "B": "By underwater volcanoes erupting and building up lava",
+        "B": "By underwater volcanoes erupting",
         "C": "By rising sea levels",
         "D": "By sediment accumulation"
       },
@@ -500,7 +500,7 @@
         "A": "The process of islands forming in the ocean",
         "B": "The adaption of plants to island environments",
         "C": "Species that exist only in one particular place",
-        "D": "The theory developed by Charles Darwin"
+        "D": "The theory developed by Charles Darwin in the 19th century"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -512,7 +512,7 @@
         "A": "They are closer to mainland areas",
         "B": "They have more endemic species",
         "C": "They offer more habitats and resources",
-        "D": "They are less affected by climate"
+        "D": "They are less affected by ocean's climate"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -521,7 +521,7 @@
       "id": 44,
       "question": "What disadvantage do islands closer to continents face, according to the passage?",
       "options": {
-        "A": "They have fewer species",
+        "A": "They have fewer endemic species lacking resistance to diseases",
         "B": "They are more vulnerable to invasive species",
         "C": "They experience more extreme climates",
         "D": "They have less diverse ecosystems"
@@ -533,7 +533,7 @@
       "id": 45,
       "question": "What is a microclimate as mentioned in the passage?",
       "options": {
-        "A": "A type of island ecosystem",
+        "A": "A type of island ecosystem with different conditions from surrounding areas",
         "B": "A local atmospheric zone with different conditions from surrounding areas",
         "C": "A tropical climate found on islands",
         "D": "A climate created by human activities"
@@ -545,10 +545,10 @@
       "id": 46,
       "question": "What example does the passage give of how mountains on islands affect their environments?",
       "options": {
-        "A": "They create more diverse habitats",
-        "B": "They provide protection from storms",
+        "A": "They create more diverse habitats with different environments on opposite sides",
+        "B": "They provide protection to local species from storms, rains, and winds",
         "C": "They create rain shadows with different environments on opposite sides",
-        "D": "They increase overall rainfall on the island"
+        "D": "They increase overall rainfall in the shadows on the island"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -569,8 +569,8 @@
       "id": 48,
       "question": "According to the passage, what has caused the extinction of many island species?",
       "options": {
-        "A": "Natural disasters",
-        "B": "Climate change",
+        "A": "Natural disasters of non-native species",
+        "B": "Climate change caused by non-native species",
         "C": "Introduction of non-native species",
         "D": "Rising sea levels"
       },
@@ -595,10 +595,10 @@
       "options": {
         "A": "To explain how volcanoes create islands",
         "B": "To compare different types of island ecosystems",
-        "C": "To describe how islands form and develop unique ecosystems",
-        "D": "To discuss the threats facing island environments"
+        "C": "To discuss the threats facing island environments",
+        "D": "To describe how islands form and develop unique ecosystems"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     }
   ]
