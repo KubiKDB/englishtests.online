@@ -5,12 +5,12 @@
       "id": 1,
       "question": "Which of the following is grammatically correct?",
       "options": {
-        "A": "If I would have known about the meeting, I would have attended it.",
-        "B": "Had I known about the meeting, I would have attended it.",
-        "C": "If I had knew about the meeting, I would have attended it.",
-        "D": "Was I knowing about the meeting, I would have attended it."
+        "A": "Was I knowing about the meeting, I would have attended it.",
+        "B": "If I had knew about the meeting, I would have attended it.",
+        "C": "Had I known about the meeting, I would have attended it.",
+        "D": "If I would have known about the meeting, I would have attended it."
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -30,11 +30,11 @@
       "question": "Choose the sentence with the correct use of a participle:",
       "options": {
         "A": "Walking down the street, the rain started to fall heavily.",
-        "B": "Walking down the street, she noticed the rain starting to fall heavily.",
-        "C": "Walking down the street, heavy rain was falling.",
-        "D": "Walking down the street, it started to rain heavily."
+        "B": "Walking down the street, it started to rain heavily.",
+        "C": "Walking down the street, heavy rain was falling on her.",
+        "D": "Walking down the street, she noticed the rain starting to fall heavily."
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -56,7 +56,7 @@
         "A": "The professor gave a useful advice about writing thesis.",
         "B": "She has the bachelor's degree in chemistry from an prestigious university.",
         "C": "We discussed the possibility of establishing a European headquarters in the Netherlands.",
-        "D": "He made the honest mistake when calculating the final results."
+        "D": "He has made the honest mistake when calculating the final results of the chess tournament."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -65,7 +65,7 @@
       "id": 6,
       "question": "Which sentence demonstrates correct usage of the past perfect tense?",
       "options": {
-        "A": "By the time the ambulance arrived, the patient has stopped breathing.",
+        "A": "By the time the ambulance arrived, the patient has recovered from losing consciousness.",
         "B": "Before the recession began, the company had already implemented cost-cutting measures.",
         "C": "The film started after we arrived at the cinema.",
         "D": "She never has visited Paris before last summer."
@@ -150,11 +150,11 @@
       "question": "Which sentence contains correct subject-verb inversion?",
       "options": {
         "A": "Rarely I have encountered such an insightful analysis.",
-        "B": "Not only was the lecture informative, but it was also engaging.",
+        "B": "Hardly she could contain her excitement about the discovery.",
         "C": "Never we should underestimate the power of education.",
-        "D": "Hardly she could contain her excitement about the discovery."
+        "D": "Not only was the lecture informative, but it was also engaging."
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -162,7 +162,7 @@
       "question": "Identify the sentence with the correct use of a conditional structure:",
       "options": {
         "A": "If the government would have implemented stricter regulations, the crisis might have been averted.",
-        "B": "Unless you will complete the prerequisites, you cannot enroll in the advanced course.",
+        "B": "Unless you will complete the prerequisites, you cannot enroll in the advanced course in the second semester.",
         "C": "Had the experiment been conducted under different conditions, the results might have varied significantly.",
         "D": "Provided that you would arrive on time, we can discuss your proposal in detail."
       },
@@ -247,7 +247,7 @@
       "options": {
         "A": "rudimentary",
         "B": "meticulous",
-        "C": "elaborate",
+        "C": "rigorous",
         "D": "intricate"
       },
       "correct_answer": "A",
@@ -413,7 +413,7 @@
       "id": 35,
       "question": "Choose the most appropriate option to complete the sentence: 'The professor's lecture was so _____ that several students found it difficult to follow his reasoning.'",
       "options": {
-        "A": "lucid",
+        "A": "obtuse",
         "B": "abstruse",
         "C": "perspicuous",
         "D": "transparent"
@@ -437,7 +437,7 @@
       "id": 37,
       "question": "Choose the correct option to maintain the meaning of the original sentence: 'Had the researchers considered alternative explanations, they might have reached different conclusions.' This means that the researchers _____.",
       "options": {
-        "A": "did consider alternative explanations and reached different conclusions",
+        "A": "did consider alternative explanations and might have reached reached different conclusions if they had",
         "B": "did not consider alternative explanations and might have reached different conclusions if they had",
         "C": "considered alternative explanations but still reached the same conclusions",
         "D": "were required to consider alternative explanations before reaching conclusions"
@@ -449,7 +449,7 @@
       "id": 38,
       "question": "Select the appropriate word to complete the sentence: 'The critics _____ the film for its innovative cinematography and compelling narrative.'",
       "options": {
-        "A": "lambasted",
+        "A": "bragged",
         "B": "deprecated",
         "C": "castigated",
         "D": "lauded"
@@ -485,7 +485,7 @@
       "id": 41,
       "question": "According to paragraph 1, what distinguishes emotional intelligence from cognitive intelligence?",
       "options": {
-        "A": "Emotional intelligence focuses exclusively on managing one's own emotions.",
+        "A": "Emotional intelligence focuses exclusively on managing one's own emotions rather than analytical reasoning.",
         "B": "Emotional intelligence centers on interpersonal dynamics and emotions rather than analytical reasoning.",
         "C": "Cognitive intelligence is less effective for fostering meaningful connections.",
         "D": "Emotional intelligence is more easily measured through standardized testing."
@@ -500,7 +500,7 @@
         "A": "Self-awareness",
         "B": "Self-regulation",
         "C": "Problem-solving ability",
-        "D": "Motivation"
+        "D": "Motivation-driving ability"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -536,7 +536,7 @@
         "A": "They value technical skills more than emotional intelligence.",
         "B": "They increasingly recognize the importance of emotional intelligence in workplace dynamics.",
         "C": "They rarely offer training programs focused on emotional competencies.",
-        "D": "They find that emotional intelligence reduces productivity."
+        "D": "They find that emotional intelligence reduces productivity significantly over the long period."
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -559,10 +559,10 @@
       "options": {
         "A": "A chronological history of emotional intelligence research",
         "B": "A problem-solution structure addressing deficiencies in emotional intelligence",
-        "C": "A definition followed by components and applications in different relationship contexts",
-        "D": "A series of case studies illustrating the importance of emotional intelligence"
+        "C": "A series of case studies illustrating the importance of emotional intelligence",
+        "D": "A definition followed by components and applications in different relationship contexts"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -584,7 +584,7 @@
         "A": "eliminate all workplace conflicts",
         "B": "prioritize productivity over employee well-being",
         "C": "create inclusive environments valuing diverse perspectives",
-        "D": "focus exclusively on financial outcomes"
+        "D": "focus exclusively on financial outcomes rather than productivity"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -595,10 +595,10 @@
       "options": {
         "A": "Measuring Emotional Intelligence: Methods and Challenges",
         "B": "The Superiority of Emotional Intelligence Over Cognitive Intelligence",
-        "C": "Emotional Intelligence: Understanding Its Components and Relational Impact",
-        "D": "Developing Emotional Intelligence: A Step-by-Step Guide"
+        "C": "Developing Emotional Intelligence: A Step-by-Step Guide for beginners",
+        "D": "Emotional Intelligence: Understanding Its Components and Relational Impact"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     }
   ]
