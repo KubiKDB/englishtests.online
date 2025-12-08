@@ -65,12 +65,12 @@
       "id": 6,
       "question": "Select the sentence with the correct use of inversion:",
       "options": {
-        "A": "Never I have witnessed such an extraordinary phenomenon.",
-        "B": "Never have I witnessed such an extraordinary phenomenon.",
-        "C": "Never did I have witnessed such an extraordinary phenomenon.",
-        "D": "Never I had witnessed such an extraordinary phenomenon."
+        "A": "Never did I have witnessed such an extraordinary phenomenon.",
+        "B": "Never I have witnessed such an extraordinary phenomenon.",
+        "C": "Never I had witnessed such an extraordinary phenomenon.",
+        "D": "Never have I witnessed such an extraordinary phenomenon."
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -78,9 +78,9 @@
       "question": "Choose the correct form: The manuscript _____ by several experts before its publication.",
       "options": {
         "A": "is reviewing",
-        "B": "will review",
+        "B": "has been reviewing",
         "C": "was reviewed",
-        "D": "has reviewing"
+        "D": "has been reviewed"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -102,9 +102,9 @@
       "question": "Choose the correct form: Despite _____ for the exam, she failed to achieve a passing grade.",
       "options": {
         "A": "having prepared thoroughly",
-        "B": "she prepared thoroughly",
-        "C": "to prepare thoroughly",
-        "D": "she has prepared thoroughly"
+        "B": "Alice prepared thoroughly",
+        "C": "her to be prepared thoroughly",
+        "D": "Alice has prepared thoroughly"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -114,11 +114,11 @@
       "question": "Select the correctly punctuated sentence:",
       "options": {
         "A": "The study which was published in a prestigious journal presented contradictory findings.",
-        "B": "The study, which was published in a prestigious journal, presented contradictory findings.",
+        "B": "The study, which was published in a prestigious journal presented contradictory findings.",
         "C": "The study which was published in a prestigious journal, presented contradictory findings.",
-        "D": "The study, which was published in a prestigious journal presented contradictory findings."
+        "D": "The study, which was published in a prestigious journal, presented contradictory findings."
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -164,7 +164,7 @@
         "A": "will be published",
         "B": "would be published",
         "C": "are published",
-        "D": "had published"
+        "D": "will have published"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -195,14 +195,14 @@
     },
     {
       "id": 17,
-      "question": "Select the correct phrasal verb: The committee decided to _____ the proposal until additional data could be collected.",
+         "question": "Choose the correct phrasal verb: 'Despite their initial reservations, the board eventually felt compelled to _____ the terms presented by the investors.'",
       "options": {
-        "A": "put up",
-        "B": "put off",
-        "C": "put out",
-        "D": "put down"
+        "A": "come round",
+        "B": "get away with",
+        "C": "turn down",
+        "D": "fall in with"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -210,9 +210,9 @@
       "question": "Choose the correct collocation: The researcher made a compelling _____ for additional funding.",
       "options": {
         "A": "case",
-        "B": "point",
-        "C": "view",
-        "D": "opinion"
+        "B": "closure",
+        "C": "cause",
+        "D": "clause"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -260,7 +260,7 @@
         "A": "show",
         "B": "suggest",
         "C": "tell us",
-        "D": "kind of indicate"
+        "D": "maybe indicate"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -295,7 +295,7 @@
       "options": {
         "A": "look at",
         "B": "talk about",
-        "C": "examine",
+        "C": "examine the",
         "D": "go over"
       },
       "correct_answer": "C",
@@ -305,10 +305,10 @@
       "id": 26,
       "question": "Choose the word that best completes the sentence: The poet attempted to describe the sunset, but found its beauty was truly _____, beyond the capacity of language to capture.",
       "options": {
-        "A": "expressible",
-        "B": "describable",
+        "A": "inertial",
+        "B": "ineffective",
         "C": "ineffable",
-        "D": "articulate"
+        "D": "inevitable"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -329,7 +329,7 @@
       "id": 28,
       "question": "Which word best completes the sentence? The professor was known for his _____ temperament, often losing his temper when students arrived late to class.",
       "options": {
-        "A": "placid",
+        "A": "angry",
         "B": "equable",
         "C": "irascible",
         "D": "composed"
@@ -341,10 +341,10 @@
       "id": 29,
       "question": "Choose the word that best fits the context: After numerous failed attempts, he realized that trying to change the committee's decision was entirely _____.",
       "options": {
-        "A": "productive",
+        "A": "fusing",
         "B": "futile",
-        "C": "beneficial",
-        "D": "advantageous"
+        "C": "fertile",
+        "D": "fervent"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -440,7 +440,7 @@
         "A": "austere",
         "B": "mundane",
         "C": "resplendent",
-        "D": "spartan"
+        "D": "splendid"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -449,7 +449,7 @@
       "id": 38,
       "question": "Choose the word that best completes the sentence: The election victory gave the party a clear _____ to implement its proposed reforms.",
       "options": {
-        "A": "restriction",
+        "A": "approval",
         "B": "mandate",
         "C": "prohibition",
         "D": "limitation"
@@ -473,7 +473,7 @@
       "id": 40,
       "question": "Which word best completes the sentence? The darkening sky and sudden drop in temperature were _____ signs of the approaching storm.",
       "options": {
-        "A": "insignificant",
+        "A": "screaming",
         "B": "trivial",
         "C": "portentous",
         "D": "inconsequential"
@@ -509,12 +509,12 @@
       "id": 43,
       "question": "The word 'paradoxically' in paragraph 3 indicates that:",
       "options": {
-        "A": "Global communication technologies have had no effect on indigenous cultures",
-        "B": "The relationship between technology and cultural preservation is contradictory",
+        "A": "The relationship between technology and cultural preservation is contradictory",
+        "B": "Global communication technologies have had no effect on indigenous cultures",
         "C": "Digital media has only negative impacts on indigenous communities",
         "D": "Indigenous peoples have rejected modern technologies"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Reading"
     },
     {
@@ -558,11 +558,11 @@
       "question": "According to paragraph 5, how are some indigenous communities responding to globalization?",
       "options": {
         "A": "By completely rejecting all outside influences",
-        "B": "By developing cultural tourism initiatives",
+        "B": "By assimilating entirely into dominant cultures",
         "C": "By relocating to more isolated regions",
-        "D": "By assimilating entirely into dominant cultures"
+        "D": "By developing cultural tourism initiatives"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -572,7 +572,7 @@
         "A": "They are passive victims of external forces",
         "B": "They have successfully halted the effects of globalization",
         "C": "They are active agents in determining how their cultures evolve",
-        "D": "They universally benefit from global economic integration"
+        "D": "They universally benefit from global economic integration in the long run"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -583,7 +583,7 @@
       "options": {
         "A": "Globalization inevitably leads to the destruction of indigenous cultures",
         "B": "Globalization provides only benefits for indigenous communities",
-        "C": "The impact of globalization on indigenous cultures is complex, with both opportunities and challenges",
+        "C": "The impact of globalization on indigenous cultures is complex",
         "D": "Indigenous cultures remain completely unchanged by globalization"
       },
       "correct_answer": "C",
