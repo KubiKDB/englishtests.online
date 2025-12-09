@@ -2,7 +2,7 @@
     "questions": [
       {
         "id": 1,
-        "question": "The committee _____ for three hours before reaching a decision.",
+        "question": "The board _____ for three hours before reaching a decision.",
         "options": {
           "A": "has been deliberating",
           "B": "had been deliberating",
@@ -17,7 +17,7 @@
         "question": "Neither the CEO nor her assistants _____ willing to compromise on the issue.",
         "options": {
           "A": "is",
-          "B": "are",
+          "B": "has been",
           "C": "was",
           "D": "were"
         },
@@ -30,8 +30,8 @@
         "options": {
           "A": "will start",
           "B": "will have started",
-          "C": "starts",
-          "D": "is starting"
+          "C": "had started",
+          "D": "will be starting"
         },
         "correct_answer": "B",
         "category": "Grammar"
@@ -52,7 +52,7 @@
         "id": 5,
         "question": "Had I known about the traffic, I _____ earlier.",
         "options": {
-          "A": "would leave",
+          "A": "would be leaving",
           "B": "had left",
           "C": "would have left",
           "D": "will leave"
@@ -218,7 +218,7 @@
       },
       {
         "id": 19,
-        "question": "The journalist wrote a(n) _____ expose on corruption in the local government.",
+        "question": "The journalist wrote a _____ expose on corruption in the local government.",
         "options": {
           "A": "scathing",
           "B": "burning",
@@ -244,7 +244,7 @@
         "id": 21,
         "question": "Despite the initial setback, the team managed to _____ the situation and secure a victory.",
         "options": {
-          "A": "resolve",
+          "A": "solvent",
           "B": "recover",
           "C": "retrieve",
           "D": "salvage"
@@ -388,10 +388,10 @@
         "id": 33,
         "question": "Her _____ nature made it difficult for her friends to predict her reactions to various situations.",
         "options": {
-          "A": "unpredictable",
+          "A": "predictable",
           "B": "fickle",
           "C": "volatile",
-          "D": "capricious"
+          "D": "unstable"
         },
         "correct_answer": "B",
         "category": "Vocabulary"
@@ -436,7 +436,7 @@
         "id": 37,
         "question": "The professor would often _____ students who failed to complete their assignments on time.",
         "options": {
-          "A": "reprimand",
+          "A": "praise",
           "B": "castigate",
           "C": "scold",
           "D": "rebuke"
@@ -462,10 +462,10 @@
         "options": {
           "A": "sluggish",
           "B": "lethargic",
-          "C": "torpid",
+          "C": "inactive",
           "D": "drowsy"
         },
-        "correct_answer": "C",
+        "correct_answer": "A",
         "category": "Vocabulary"
       },
       {
@@ -496,7 +496,7 @@
         "id": 42,
         "question": "Which of the following BEST describes the relationship between memory and identity according to paragraph 2?",
         "options": {
-          "A": "Memory creates identity, which remains static throughout life",
+          "A": "Memory creates personal identity, which remains static throughout life",
           "B": "Memory selectively preserves experiences that align with our self-image",
           "C": "Memory and identity are separate cognitive functions",
           "D": "Memory records all experiences equally to form identity"
@@ -511,7 +511,7 @@
           "A": "How accurate our earliest memories tend to be",
           "B": "The unreliability of all autobiographical memories",
           "C": "How memory reconstruction shapes our perception of self",
-          "D": "The importance of forgetting traumatic experiences"
+          "D": "The importance of forgetting past traumatic experiences"
         },
         "correct_answer": "C",
         "category": "Reading"
@@ -544,7 +544,7 @@
         "id": 46,
         "question": "What does the author suggest about the process of remembering?",
         "options": {
-          "A": "It is a faithful reproduction of past events",
+          "A": "It is a faithful reproduction of past events influenced by society",
           "B": "It is a creative reconstruction influenced by current self-concept",
           "C": "It is primarily controlled by our genetic makeup",
           "D": "It is most accurate for emotional experiences"
@@ -554,10 +554,10 @@
       },
       {
         "id": 47,
-        "question": "The phrase \"narrative continuity\" in paragraph 4 most likely refers to:",
+        "question": "The phrase 'narrative continuity' in paragraph 4 most likely refers to:",
         "options": {
-          "A": "Our ability to tell stories chronologically",
-          "B": "The coherent connection between past and present selves",
+          "A": "The ability to tell stories chronologically",
+          "B": "The connection between past and present selves",
           "C": "The accuracy of autobiographical memories",
           "D": "The influence of culture on personal stories"
         },
@@ -569,11 +569,11 @@
         "question": "According to the passage, what do cultural frameworks provide?",
         "options": {
           "A": "A means to accurately preserve all memories",
-          "B": "A way to organize and interpret personal memories",
-          "C": "A substitute for personal memories",
-          "D": "A method to predict future identity changes"
+          "B": "A method to predict future identity changes",
+          "C": "A substitute for personal and social memories",
+          "D": "A way to organize and interpret personal memories"
         },
-        "correct_answer": "B",
+        "correct_answer": "D",
         "category": "Reading"
       },
       {
@@ -601,5 +601,5 @@
         "category": "Reading"
       }
     ],
-    "passage": "<br>(1) The intricate relationship between memory and personal identity stands as one of the most fascinating aspects of human psychology. Autobiographical memories—the recollections of our personal experiences—form the foundation upon which we construct our sense of self. These memories create a narrative that connects our past experiences to our present understanding of who we are, enabling us to maintain a coherent identity across time despite constant change.<br><br>(2) Memory does not simply preserve our experiences; it selectively retains, emphasizes, and reconstructs them in ways that align with our evolving self-concept. Rather than functioning as a perfect recording device, our memory system acts as an adaptive storyteller, continuously revising our personal narrative to maintain consistency with our current beliefs, values, and goals. This process of reconstruction explains why our memories of childhood events often change subtly over time, incorporating new perspectives and interpretations as we develop.<br><br>(3) The profound connection between memory and identity becomes particularly evident in cases of memory loss. Individuals experiencing amnesia often report a destabilizing sense of disconnection from their former selves. Without access to the autobiographical memories that previously anchored their identity, they struggle to maintain a continuous sense of who they are. Similarly, neurodegenerative conditions like Alzheimer's disease gradually erode not just memories but the very foundations of personal identity, illustrating how dependent our sense of self is on our ability to remember.<br><br>(4) Our identities are not formed in isolation but are shaped by cultural frameworks that influence how we interpret and integrate our experiences. These social contexts provide templates for organizing our memories into coherent life stories that conform to cultural expectations about narrative continuity and personal development. Family stories, shared photographs, and more recently, social media archives serve as external repositories of memory that help maintain our sense of identity even when internal memories fade or change.<br><br>(5) In contemporary society, we increasingly rely on external memory supports—from photographs and journals to digital archives and social media timelines—to preserve and validate our personal narratives. These external memory systems complement our biological memory, creating a distributed system of remembering that shapes how we understand ourselves. The integration of these diverse memory sources—internal and external, individual and collective—ultimately determines the complexity and coherence of our personal identity."
+    "passage": "<br>(1) The intricate relationship between memory and personal identity stands as one of the most fascinating aspects of human psychology. Autobiographical memories – the recollections of our personal experiences – form the foundation upon which we construct our sense of self. These memories create a narrative that connects our past experiences to our present understanding of who we are, enabling us to maintain a coherent identity across time despite constant change.<br><br>(2) Memory does not simply preserve our experiences; it selectively retains, emphasizes, and reconstructs them in ways that align with our evolving self-concept. Rather than functioning as a perfect recording device, our memory system acts as an adaptive storyteller, continuously revising our personal narrative to maintain consistency with our current beliefs, values, and goals. This process of reconstruction explains why our memories of childhood events often change subtly over time, incorporating new perspectives and interpretations as we develop.<br><br>(3) The profound connection between memory and identity becomes particularly evident in cases of memory loss. Individuals experiencing amnesia often report a destabilizing sense of disconnection from their former selves. Without access to the autobiographical memories that previously anchored their identity, they struggle to maintain a continuous sense of who they are. Similarly, neurodegenerative conditions like Alzheimer's disease gradually erode not just memories but the very foundations of personal identity, illustrating how dependent our sense of self is on our ability to remember.<br><br>(4) Our identities are not formed in isolation but are shaped by cultural frameworks that influence how we interpret and integrate our experiences. These social contexts provide templates for organizing our memories into coherent life stories that conform to cultural expectations about narrative continuity and personal development. Family stories, shared photographs, and more recently, social media archives serve as external repositories of memory that help maintain our sense of identity even when internal memories fade or change.<br><br>(5) In contemporary society, we increasingly rely on external memory supports – from photographs and journals to digital archives and social media timelines – to preserve and validate our personal narratives. These external memory systems complement our biological memory, creating a distributed system of remembering that shapes how we understand ourselves. The integration of these diverse memory sources – internal and external, individual and collective – ultimately determines the complexity and coherence of our personal identity."
 }
