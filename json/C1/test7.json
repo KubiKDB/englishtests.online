@@ -125,12 +125,12 @@
       "id": 11,
       "question": "Which sentence demonstrates correct use of the passive voice?",
       "options": {
-        "A": "The experiment was conducting by a team of researchers.",
+        "A": "A solution to the problem is being sought by the team.",
         "B": "It is believed by many people that climate change is accelerating.",
         "C": "The novel has written by an anonymous author.",
-        "D": "A solution to the problem is being sought by the committee."
+        "D": "The experiment was conducting by a team of researchers."
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
@@ -233,10 +233,10 @@
       "id": 20,
       "question": "Select the most appropriate preposition combination to complete the sentence: 'The decline in biodiversity can be attributed _____ a combination _____ factors, including habitat destruction and climate change.'",
       "options": {
-        "A": "to / of",
-        "B": "with / for",
-        "C": "for / with",
-        "D": "to / with"
+        "A": "to/of",
+        "B": "with/for",
+        "C": "for/with",
+        "D": "to/with"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -295,7 +295,7 @@
       "options": {
         "A": "fallen through",
         "B": "been unsuccessful",
-        "C": "bombed",
+        "C": "been successful",
         "D": "flopped"
       },
       "correct_answer": "B",
@@ -379,7 +379,7 @@
       "options": {
         "A": "invulnerable",
         "B": "impregnable",
-        "C": "insurmountable",
+        "C": "immortal",
         "D": "indomitable"
       },
       "correct_answer": "B",
@@ -439,10 +439,10 @@
       "options": {
         "A": "verbose",
         "B": "garrulous",
-        "C": "loquacious",
+        "C": "talkative",
         "D": "voluble"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
@@ -523,7 +523,7 @@
       "options": {
         "A": "Women have historically dominated both home cooking and professional culinary spheres.",
         "B": "Food preparation has traditionally been assigned to women, while professional cooking has often been male-dominated.",
-        "C": "Gender plays no significant role in food-related practices across cultures.",
+        "C": "Food preparation has traditionally been assigned to men, while professional cooking has often been female-dominated.",
         "D": "Men have traditionally been responsible for both home cooking and professional cuisine."
       },
       "correct_answer": "B",
@@ -533,12 +533,12 @@
       "id": 45,
       "question": "The passage characterizes modern food choices as:",
       "options": {
-        "A": "Primarily focused on convenience and cost",
-        "B": "Increasingly disconnected from traditional food knowledge",
-        "C": "Largely unchanged despite technological advances",
+        "A": "Increasingly disconnected from traditional food knowledge",
+        "B": "Largely unchanged despite technological advances",
+        "C": "Primarily focused on convenience and cost",
         "D": "Exclusively concerned with nutritional value"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Reading"
     },
     {
@@ -548,7 +548,7 @@
         "A": "Food practices are independent of social hierarchies",
         "B": "Food practices exclusively determine social hierarchies",
         "C": "Food practices both reflect and reinforce social structures",
-        "D": "Food practices gradually eliminate social hierarchies"
+        "D": "Food practices have gradually eliminated social hierarchies"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -559,10 +559,10 @@
       "options": {
         "A": "They remain static across generations",
         "B": "They evolve primarily through intentional innovation",
-        "C": "They change through intercultural contact and historical forces",
-        "D": "They deteriorate with industrialization and modernization"
+        "C": "They deteriorate with industrialization and modernization",
+        "D": "They change through intercultural contact and historical forces"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -593,7 +593,7 @@
       "id": 50,
       "question": "What special significance does the passage attribute to culinary traditions for diaspora communities?",
       "options": {
-        "A": "They provide economic opportunities",
+        "A": "They provide economic opportunities for diaspora communities",
         "B": "They maintain connections with ancestral homelands",
         "C": "They create political solidarity",
         "D": "They establish superior nutritional practices"
