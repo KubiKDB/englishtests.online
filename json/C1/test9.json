@@ -17,7 +17,7 @@
       "id": 2,
       "question": "Select the sentence with the correct use of articles:",
       "options": {
-        "A": "She's studying economics at the Oxford University.",
+        "A": "She's studying economics at the Oxford University since last year.",
         "B": "The professor gave an interesting lecture on global trade policies.",
         "C": "They're opening new branch in Singapore next month.",
         "D": "He has unique perspective on international relations."
@@ -53,12 +53,12 @@
       "id": 5,
       "question": "Select the sentence with correct subject-verb agreement:",
       "options": {
-        "A": "The committee have reached a unanimous decision.",
+        "A": "The board have reached a unanimous decision.",
         "B": "Neither of the proposals address the fundamental issue.",
-        "C": "A series of international negotiations has resulted in a new trade pact.",
-        "D": "The data suggests that the trend are likely to continue."
+        "C": "The data suggests that the trend are likely to continue.",
+        "D": "A series of international negotiations has resulted in a new trade pact."
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -68,7 +68,7 @@
         "A": "The analyst said that the market will recover soon.",
         "B": "She asked if we have considered the alternative approach.",
         "C": "The CEO announced that the company would be expanding into Asian markets.",
-        "D": "He told that he cannot attend the conference."
+        "D": "He told that he cannot attend the conference amid his sudden illness."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -89,12 +89,12 @@
       "id": 8,
       "question": "Choose the correct conditional form:",
       "options": {
-        "A": "Unless they had diversified their portfolio, they wouldn't be so resilient now.",
+        "A": "Should the merger proceed as planned, both companies will benefit substantially.",
         "B": "Had they not invested in technology, they will face serious competition.",
         "C": "If the economy improves, we would have expanded our operations.",
-        "D": "Should the merger proceed as planned, both companies will benefit substantially."
+        "D": "Until they had diversified their portfolio, they wouldn't be so resilient now."
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
@@ -207,14 +207,14 @@
     },
     {
       "id": 18,
-      "question": "Choose the most appropriate phrasal verb: 'The company decided to _______ the launch of its new product due to technical issues.'",
+      "question": "Choose the correct phrasal verb: 'Despite hours of complex discussion, the committee struggled to _____ the exact financial implications of the new regulation.'",
       "options": {
-        "A": "put down",
-        "B": "put away",
-        "C": "put off",
-        "D": "put through"
+        "A": "pin down",
+        "B": "turn over",
+        "C": "set in",
+        "D": "bring about"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Use of English"
     },
     {
@@ -231,12 +231,12 @@
     },
     {
       "id": 20,
-      "question": "Choose the correct collocation: 'The board of directors needs to _______ a decision about the proposed expansion.'",
+     "question": "Choose the correct verb that typically collocates with the noun 'implications': 'The research findings are expected to _______ significant implications for future policy changes.'",
       "options": {
-        "A": "do",
-        "B": "take",
-        "C": "make",
-        "D": "have"
+        "A": "carry",
+        "B": "bear",
+        "C": "deliver",
+        "D": "bring"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -353,12 +353,12 @@
       "id": 30,
       "question": "Select the word that means 'spreading widely throughout an area or a group of people':",
       "options": {
-        "A": "prevalent",
+        "A": "pervasive",
         "B": "ubiquitous",
-        "C": "pervasive",
+        "C": "prevalent",
         "D": "extensive"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
@@ -413,12 +413,12 @@
       "id": 35,
       "question": "Choose the word that means 'treating all rivals or disputants equally; fair and just':",
       "options": {
-        "A": "equitable",
+        "A": "impartial",
         "B": "unbiased",
-        "C": "impartial",
+        "C": "equitable",
         "D": "objective"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
@@ -450,11 +450,11 @@
       "question": "Choose the word that means 'individually separate and distinct':",
       "options": {
         "A": "disparate",
-        "B": "distinct",
-        "C": "discrete",
+        "B": "discrete",
+        "C": "distinct",
         "D": "detached"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
@@ -497,10 +497,10 @@
       "id": 42,
       "question": "Which of the following best describes the 'paradoxical effect' of globalization mentioned in paragraph 2?",
       "options": {
-        "A": "It simultaneously benefits consumers while potentially harming local industries",
-        "B": "It creates jobs while increasing unemployment",
+        "A": "It benefits consumers while potentially harming local industries",
+        "B": "It increases product diversity while decreasing quality",
         "C": "It expands trade while limiting economic growth",
-        "D": "It increases product diversity while decreasing quality"
+        "D": "It creates jobs while increasing unemployment"
       },
       "correct_answer": "A",
       "category": "Reading"
@@ -512,7 +512,7 @@
         "A": "Countries with the largest populations",
         "B": "Countries with the most natural resources",
         "C": "Countries with robust infrastructure and skilled workforces",
-        "D": "Countries with the most political stability"
+        "D": "Countries with the most political stability and skilled workers"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -533,7 +533,7 @@
       "id": 45,
       "question": "According to the passage, what have recent global crises exposed?",
       "options": {
-        "A": "The fundamental weakness of global capitalism",
+        "A": "The fundamental weakness of global capitalism and its financial system",
         "B": "Vulnerabilities in international supply chains and economic interdependence",
         "C": "The inability of national governments to respond to economic challenges",
         "D": "The irreversible nature of globalization processes"
@@ -559,10 +559,10 @@
       "options": {
         "A": "Complete integration into global markets",
         "B": "Rejection of international economic influences",
-        "C": "A balance between global integration and local resilience",
-        "D": "Absolute economic autonomy and self-sufficiency"
+        "C": "Absolute economic autonomy and self-sufficiency ",
+        "D": "A balance between global integration and local resilience"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -593,9 +593,9 @@
       "id": 50,
       "question": "What is the main purpose of this passage?",
       "options": {
-        "A": "To argue that globalization should be restricted",
+        "A": "To argue that globalization should be restricted during the economic recessions",
         "B": "To examine how globalization affects local and national economies in complex ways",
-        "C": "To predict future trends in global economic development",
+        "C": "To predict future trends in global economic development and national economies",
         "D": "To compare economic performance across different countries"
       },
       "correct_answer": "B",
