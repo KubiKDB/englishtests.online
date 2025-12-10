@@ -30,7 +30,7 @@
       "question": "Which sentence contains a correctly used participle clause?",
       "options": {
         "A": "Walking along the beach, the sunset was admired by us.",
-        "B": "Having finished the project, the deadline was no longer a concern.",
+        "B": "Having finished the project, the deadline was no longer a concern for the research and development.",
         "C": "Having read the instructions carefully, I was able to assemble the furniture without difficulty.",
         "D": "Driving to work, the car suddenly broke down by me."
       },
@@ -55,7 +55,7 @@
       "options": {
         "A": "I wish I was able to attend the conference next week.",
         "B": "The professor insisted that the student submits his paper by Friday.",
-        "C": "If I was you, I would reconsider that decision.",
+        "C": "If I was you, I would reconsider that decision unless you have other options.",
         "D": "The committee recommended that he be appointed to the position immediately."
       },
       "correct_answer": "D",
@@ -68,7 +68,7 @@
         "A": "She is the best player in team and deserves an MVP award.",
         "B": "The research conducted at university was published in a prestigious journal.",
         "C": "He gave me an useful advice about applying to the graduate program.",
-        "D": "The professor provided a comprehensive overview of the economic theories discussed in class."
+        "D": "The professor provided a comprehensive overview of the economic theories."
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -150,7 +150,7 @@
       "question": "Which sentence demonstrates the correct use of a modal verb?",
       "options": {
         "A": "By the time the rescue team arrived, the hikers must have been waiting for hours.",
-        "B": "You need not to worry about the presentation; I've already prepared it.",
+        "B": "You need not to worry about the presentation; I've already prepared it before you came.",
         "C": "The students might to prepare more thoroughly for the upcoming examination.",
         "D": "She must studying now if she wants to pass the final exam."
       },
@@ -164,7 +164,7 @@
         "A": "The discover of the new vaccine was announced last week.",
         "B": "Their argue about the project's direction lasted for hours.",
         "C": "The implementation of the new policy led to significant improvements in efficiency.",
-        "D": "The decide to postpone the meeting was made unanimously."
+        "D": "The decide to postpone the meeting was made unanimously after they paid attention to the details."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -209,10 +209,10 @@
       "id": 18,
       "question": "Select the most appropriate way to complete this sentence: 'The findings of the study ___ the researchers' initial hypothesis.'",
       "options": {
-        "A": "put forward",
+        "A": "put question forward",
         "B": "called into question",
-        "C": "came across",
-        "D": "broke through"
+        "C": "came across the question",
+        "D": "broke through the question"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -224,7 +224,7 @@
         "A": "came of age",
         "B": "hit the ground running",
         "C": "came into her own",
-        "D": "beat around the bush"
+        "D": "beat around her bush"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -234,7 +234,7 @@
       "question": "Complete the sentence with the appropriate collocation: 'The journalist conducted a(n) ___ investigation into the allegations of corruption within the government.'",
       "options": {
         "A": "in-depth",
-        "B": "highly-powered",
+        "B": "empowered",
         "C": "strong-willed",
         "D": "sharp-edged"
       },
@@ -257,7 +257,7 @@
       "id": 22,
       "question": "Choose the correct phrasal verb for this context: 'The university will ___ a new scholarship program for international students next semester.'",
       "options": {
-        "A": "put off",
+        "A": "come out",
         "B": "look up to",
         "C": "roll out",
         "D": "come across"
@@ -294,7 +294,7 @@
       "question": "Select the appropriate phrase to complete this sentence: 'Despite the initial setbacks, the team managed to ___ and deliver the project ahead of schedule.'",
       "options": {
         "A": "throw in the towel",
-        "B": "beat around the bush",
+        "B": "work around the clock",
         "C": "turn the tide",
         "D": "hit the wall"
       },
@@ -380,7 +380,7 @@
         "A": "dauntless",
         "B": "valiant",
         "C": "intrepid",
-        "D": "audacious"
+        "D": "stubborn"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -462,7 +462,7 @@
       "question": "Which adjective describes a disease or condition that is regularly found in a particular region or population?",
       "options": {
         "A": "prevalent",
-        "B": "indigenous",
+        "B": "pandemic",
         "C": "pervasive",
         "D": "endemic"
       },
@@ -498,7 +498,7 @@
       "question": "What does the passage suggest about the relationship between stress levels and cognitive performance?",
       "options": {
         "A": "Higher stress always leads to better cognitive performance.",
-        "B": "There is no clear relationship between stress and cognition.",
+        "B": "Very low and very high stress levels tend to increase cognitive capabilities.",
         "C": "Very low and very high stress levels tend to diminish cognitive capabilities.",
         "D": "Stress affects only memory, not other cognitive functions."
       },
@@ -510,11 +510,11 @@
       "question": "According to the passage, which brain region is particularly affected by elevated cortisol levels during chronic stress?",
       "options": {
         "A": "The amygdala",
-        "B": "The hippocampus",
+        "B": "The temporal lobe",
         "C": "The cerebellum",
-        "D": "The temporal lobe"
+        "D": "The hippocampus"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -534,8 +534,8 @@
       "question": "Based on the passage, which age groups are particularly vulnerable to stress-induced cognitive effects?",
       "options": {
         "A": "Only middle-aged adults",
-        "B": "Only older adults",
-        "C": "Children, adolescents, and older adults",
+        "B": "Babies and older adults",
+        "C": "Children and older adults",
         "D": "Only young adults"
       },
       "correct_answer": "C",
@@ -548,19 +548,19 @@
         "A": "Activity shifts from habitual networks to deliberative systems.",
         "B": "All brain activity decreases significantly.",
         "C": "Activity shifts from deliberative systems to more habitual networks.",
-        "D": "Only the hippocampus shows changes in activity patterns."
+        "D": "Only the hippocampus shows changes in activity patterns while others not."
       },
       "correct_answer": "C",
       "category": "Reading"
     },
     {
       "id": 47,
-      "question": "Which cognitive functions are specifically mentioned in the passage as being impaired by chronic stress?",
+      "question": "Which cognitive functions is not specifically mentioned in the passage as being impaired by chronic stress?",
       "options": {
-        "A": "Only long-term memory",
-        "B": "Working memory, attention, and executive functions",
-        "C": "Only visual-spatial abilities",
-        "D": "Only language processing"
+        "A": "Working memory",
+        "B": "Hearing abilities",
+        "C": "Attention",
+        "D": "Executive functions"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -569,7 +569,7 @@
       "id": 48,
       "question": "What does the passage suggest about the impact of stress on simple versus complex cognitive tasks?",
       "options": {
-        "A": "Simple and complex tasks are equally affected by stress.",
+        "A": "Complex cognitive tasks are less vulnerable to stress-induced impairments.",
         "B": "Complex cognitive tasks are more vulnerable to stress-induced impairments.",
         "C": "Simple tasks are more negatively affected by stress than complex ones.",
         "D": "Stress has no effect on task performance regardless of complexity."
@@ -584,7 +584,7 @@
         "A": "Complete avoidance of all stressors",
         "B": "Exclusive focus on pharmacological treatments",
         "C": "Mindfulness practices and cognitive-behavioral techniques",
-        "D": "Permanent reduction in all cognitive activities"
+        "D": "Permanent reduction in all cognitive activities over the time"
       },
       "correct_answer": "C",
       "category": "Reading"
