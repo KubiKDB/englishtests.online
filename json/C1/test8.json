@@ -17,7 +17,7 @@
       "id": 2,
       "question": "Identify the sentence with correct subject-verb agreement:",
       "options": {
-        "A": "Neither the students nor the teacher were prepared for the sudden quiz.",
+        "A": "Neither the students nor the teacher was prepared for the sudden quiz.",
         "B": "Either the director or the actors is going to make an announcement soon.",
         "C": "The committee have reached a unanimous decision on the matter.",
         "D": "A number of participants has withdrawn from the competition."
@@ -43,7 +43,7 @@
       "options": {
         "A": "By the time the ambulance arrived, the patient has already stopped breathing.",
         "B": "She had completed three marathons before she turned thirty.",
-        "C": "When I reached the theater, the movie already started.",
+        "C": "When I reached the theater, the movie had been already started.",
         "D": "After we had dinner, we went for a walk in the park."
       },
       "correct_answer": "B",
@@ -89,9 +89,9 @@
       "id": 8,
       "question": "Which sentence correctly uses a gerund?",
       "options": {
-        "A": "They discussed to implement the new strategy next quarter.",
-        "B": "She avoids to speak in public whenever possible.",
-        "C": "The company considered to hire additional staff for the project.",
+        "A": "They discussed to implementing the new strategy next quarter.",
+        "B": "She avoids of speaking in public whenever possible.",
+        "C": "The company considered for hiring additional staff for the project.",
         "D": "He acknowledged making a mistake in his calculations."
       },
       "correct_answer": "D",
@@ -185,12 +185,12 @@
       "id": 16,
       "question": "Choose the most appropriate word to complete the sentence: The detective was able to _____ the suspect's alibi by examining security footage from that night.",
       "options": {
-        "A": "validate",
+        "A": "corroborate",
         "B": "verify",
-        "C": "corroborate",
+        "C": "validate",
         "D": "authenticate"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
@@ -281,12 +281,12 @@
       "id": 24,
       "question": "Which word correctly completes the sentence? The foundation's _____ mission focuses on providing educational opportunities to underprivileged children.",
       "options": {
-        "A": "charitable",
+        "A": "benevolent",
         "B": "philanthropic",
         "C": "altruistic",
-        "D": "benevolent"
+        "D": "charitable"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
@@ -294,11 +294,11 @@
       "question": "Choose the most suitable word: The ancient temple inspires _____ from visitors who are awed by its historical and spiritual significance.",
       "options": {
         "A": "admiration",
-        "B": "respect",
+        "B": "reverence",
         "C": "veneration",
-        "D": "reverence"
+        "D": "respect"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
@@ -317,12 +317,12 @@
       "id": 27,
       "question": "Which word correctly completes the sentence? Under mounting pressure, the politician was forced to _____ his earlier statement and issue a correction.",
       "options": {
-        "A": "rescind",
+        "A": "retract",
         "B": "recant",
         "C": "withdraw",
-        "D": "retract"
+        "D": "rescind"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
@@ -354,11 +354,11 @@
       "question": "Which word correctly completes the sentence? For health reasons, the doctor advised the patient to _____ from alcohol consumption for at least six months.",
       "options": {
         "A": "refrain",
-        "B": "desist",
+        "B": "abstain",
         "C": "cease",
-        "D": "abstain"
+        "D": "desist"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
@@ -390,11 +390,11 @@
       "question": "Identify the sentence that contains a correctly used idiom:",
       "options": {
         "A": "The unexpected audit caught the financial department on red hands.",
-        "B": "The marketing team was back to square one after the campaign failed.",
+        "B": "The marketing team back to square one after the campaign failed.",
         "C": "She's been feeling under the cloud since receiving the disappointing news.",
         "D": "The CEO decided to take the bull by the horns and make difficult cuts."
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -500,7 +500,7 @@
         "A": "Religious movements",
         "B": "Government legislation",
         "C": "The digital age and social media",
-        "D": "Economic recessions"
+        "D": "Economic recessions or expansions"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -521,7 +521,7 @@
       "id": 44,
       "question": "The word 'dichotomy' in paragraph 3 most closely means:",
       "options": {
-        "A": "A gradual progression",
+        "A": "A gradual progression to the matter",
         "B": "A division into two opposing parts",
         "C": "A hierarchical structure",
         "D": "A theoretical concept"
@@ -569,7 +569,7 @@
       "id": 48,
       "question": "According to the passage, feminist movements have primarily focused on:",
       "options": {
-        "A": "Eliminating all gender distinctions",
+        "A": "Eliminating all gender distinctions, viewing the women's role as the most important",
         "B": "Challenging patriarchal structures and advocating for women's rights",
         "C": "Promoting traditional family values",
         "D": "Creating separate social spaces for women"
