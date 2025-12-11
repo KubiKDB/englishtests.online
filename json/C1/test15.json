@@ -5,10 +5,10 @@
       "id": 1,
       "question": "Complete the sentence with the correct tense: By the time the conference begins next week, the committee _____ the final draft of the proposal.",
       "options": {
-        "A": "will complete",
+        "A": "will have been complete",
         "B": "will have completed",
         "C": "completes",
-        "D": "is completing"
+        "D": "will be completing"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -18,7 +18,7 @@
       "question": "Select the sentence with the correct use of articles:",
       "options": {
         "A": "The professor published research in prestigious journal last year.",
-        "B": "Professor published a research in a prestigious journal last year.",
+        "B": "The professor published a research in a prestigious journal last year.",
         "C": "The professor published a research in the prestigious journal last year.",
         "D": "The professor published research in a prestigious journal last year."
       },
@@ -103,7 +103,7 @@
       "options": {
         "A": "The researchers delayed to publish their findings until further testing was complete.",
         "B": "The researchers delayed publishing their findings until further testing was complete.",
-        "C": "The researchers delayed publish their findings until further testing was complete.",
+        "C": "The researchers delayed the publishing their findings until further testing was complete.",
         "D": "The researchers delayed published their findings until further testing was complete."
       },
       "correct_answer": "B",
@@ -183,14 +183,14 @@
     },
     {
       "id": 16,
-      "question": "Choose the appropriate phrasal verb to complete the sentence: The government has decided to _____ the implementation of the new tax policy until next year.",
+      "question": "Choose the most appropriate multi-word phrasal verb: 'Before the proposal can be approved, the team must ensure that every aspect _____ the new environmental regulations.'",
       "options": {
-        "A": "put off",
-        "B": "take over",
-        "C": "bring about",
-        "D": "look into"
+        "A": "comes across",
+        "B": "falls short of",
+        "C": "abides by",
+        "D": "makes up for"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
@@ -210,7 +210,7 @@
       "question": "Choose the best idiomatic expression to complete the sentence: The unexpected announcement from the central bank really _____ in financial markets.",
       "options": {
         "A": "spilled the beans",
-        "B": "hit the nail on the head",
+        "B": "hit the nail",
         "C": "caused a stir",
         "D": "broke the ice"
       },
@@ -353,7 +353,7 @@
       "id": 30,
       "question": "Choose the word that means 'an excessive amount or overabundance':",
       "options": {
-        "A": "scarcity",
+        "A": "prosperity",
         "B": "deficiency",
         "C": "dearth",
         "D": "plethora"
@@ -402,7 +402,7 @@
       "question": "Select the term that means 'complete and undiluted; in its purest form':",
       "options": {
         "A": "adulterated",
-        "B": "diluted",
+        "B": "unmoderated",
         "C": "contaminated",
         "D": "unadulterated"
       },
@@ -437,7 +437,7 @@
       "id": 37,
       "question": "Select the term that means 'essentially different in kind; not able to be compared':",
       "options": {
-        "A": "analogous",
+        "A": "desperate",
         "B": "homogeneous",
         "C": "uniform",
         "D": "disparate"
@@ -488,7 +488,7 @@
         "A": "Advocating for political revolution in Germany",
         "B": "Developing a framework for historical materialism",
         "C": "Analyzing the contradictions of industrial capitalism",
-        "D": "Collaborating with political activists across Europe"
+        "D": "Collaborating with all political activists across Europe"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -497,7 +497,7 @@
       "id": 42,
       "question": "In paragraph 2, Marx's concept of class struggle suggests that:",
       "options": {
-        "A": "All historical progress is determined by economic factors alone",
+        "A": "All historical progress has been determined by economic factors alone",
         "B": "Capitalism inherently creates conflict between owners and workers",
         "C": "The bourgeoisie would eventually surrender their economic power",
         "D": "Revolution is impossible without external political intervention"
@@ -533,9 +533,9 @@
       "id": 45,
       "question": "Which aspect of Marx's theory does the passage suggest has gained renewed interest since 2008?",
       "options": {
-        "A": "His detailed blueprint for an ideal communist society",
-        "B": "His prediction about capitalism's eventual replacement by socialism",
-        "C": "His concept of alienation in the workplace",
+        "A": "His concept of alienation in the workplace",
+        "B": "His detailed blueprint for an ideal communist society",
+        "C": "His prediction about capitalism's eventual replacement by socialism",
         "D": "His analysis of capitalism's tendencies toward wealth concentration and crises"
       },
       "correct_answer": "D",
@@ -545,7 +545,7 @@
       "id": 46,
       "question": "The term \"historical materialism\" in paragraph 1 most likely refers to:",
       "options": {
-        "A": "A philosophical view that emphasizes physical objects over ideas",
+        "A": "A philosophical view that emphasizes physical objects over pure ideas",
         "B": "A framework suggesting economic systems determine social structures",
         "C": "The historical study of material goods and their production",
         "D": "Marx's personal collection of historical documents"
@@ -560,7 +560,7 @@
         "A": "His revolutionary political activism",
         "B": "His specific predictions about capitalism's collapse",
         "C": "His analytical tools for understanding economic and social contradictions",
-        "D": "His detailed vision of a communist society"
+        "D": "His detailed vision of a communist society and its inevitable collapse in the future"
       },
       "correct_answer": "C",
       "category": "Reading"
