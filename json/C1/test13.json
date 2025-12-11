@@ -5,9 +5,9 @@
       "id": 1,
       "question": "Which of the following correctly uses the present perfect continuous tense?",
       "options": {
-        "A": "She studied for six hours yesterday.",
+        "A": "She has studied for six hours yesterday.",
         "B": "She has been studying for six hours.",
-        "C": "She is studying for six hours.",
+        "C": "She has been studying since six hours.",
         "D": "She will have studied for six hours."
       },
       "correct_answer": "B",
@@ -19,7 +19,7 @@
       "options": {
         "A": "Neither the students nor the teacher are prepared for the exam.",
         "B": "Either the Principal or his assistants is going to attend the ceremony.",
-        "C": "The committee have decided against the proposal.",
+        "C": "The community have decided against the proposal.",
         "D": "Neither of the candidates was able to answer the question correctly."
       },
       "correct_answer": "D",
@@ -32,7 +32,7 @@
         "A": "If I was you, I would accept the offer immediately.",
         "B": "I wish I am able to attend the conference next week.",
         "C": "The professor insisted that the student submits his thesis by Friday.",
-        "D": "The committee recommended that he be appointed to the position."
+        "D": "The CEO recommended that he be appointed to the position."
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -65,12 +65,12 @@
       "id": 6,
       "question": "Select the sentence with the correct use of parallel structure.",
       "options": {
-        "A": "The professor not only praised the essay's structure but also its innovative argument.",
+        "A": "The ambassador was known for his eloquence, his diplomacy, and his commitment to peace.",
         "B": "She enjoys swimming, hiking, and to ride her bicycle on weekends.",
         "C": "The CEO demanded increased productivity, better quality, and that costs should be reduced.",
-        "D": "The ambassador was known for his eloquence, his diplomacy, and his commitment to peace."
+        "D": "The professor not only praised the essay's structure but also its innovative argument."
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
@@ -90,7 +90,7 @@
       "question": "Choose the sentence that uses the passive voice correctly.",
       "options": {
         "A": "The essay must be submitted by midnight by all students.",
-        "B": "They were appreciated for their contributions to the project.",
+        "B": "They appreciated for their contributions to the project.",
         "C": "The experiment being conducted by the scientists last week.",
         "D": "The suspect was arrested and questioned him for hours."
       },
@@ -101,10 +101,10 @@
       "id": 9,
       "question": "Which sentence correctly uses a past participle as an adjective?",
       "options": {
-        "A": "The breaking glass created a loud noise.",
-        "B": "We were surprise by the announcement.",
+        "A": "The glass broken created a loud noise.",
+        "B": "We had surprised by the announcement.",
         "C": "The stolen artifacts were eventually recovered.",
-        "D": "They writing a detailed report on the findings."
+        "D": "They written a detailed report on the findings."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -114,7 +114,7 @@
       "question": "Select the sentence with the correct use of a gerund phrase as a subject.",
       "options": {
         "A": "To swim in cold water is invigorating.",
-        "B": "Practicing regularly improves performance significantly.",
+        "B": "In my opinion, practicing improves performance.",
         "C": "She prefers dancing over singing in public.",
         "D": "They decided going to the mountains instead."
       },
@@ -138,7 +138,7 @@
       "question": "Identify the sentence with the correct use of the perfect infinitive.",
       "options": {
         "A": "She claims to been studying for hours.",
-        "B": "The director appears having left the meeting early.",
+        "B": "The director appears have left the meeting early.",
         "C": "He is believed to have solved the complex equation.",
         "D": "We hoped to had arrived before the ceremony began."
       },
@@ -151,7 +151,7 @@
       "options": {
         "A": "Because it was raining, we canceled the outdoor event.",
         "B": "When the results were announced, everyone cheered loudly.",
-        "C": "Although he prepared thoroughly, he did not perform well on the exam.",
+        "C": "Although he prepared thoroughly, he did not perform well.",
         "D": "If you finish early, you may leave the room quietly."
       },
       "correct_answer": "C",
@@ -176,7 +176,7 @@
         "A": "Never have I witnessed such an extraordinary performance.",
         "B": "I have never witnessed such an extraordinary performance.",
         "C": "Such an extraordinary performance I have never witnessed.",
-        "D": "Witnessed I have never such an extraordinary performance."
+        "D": "Have I never witnessed such an extraordinary performance."
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -198,21 +198,21 @@
       "question": "Choose the correct phrasal verb to complete the sentence: 'After years of struggling with the problem, scientists finally _____ a solution.'",
       "options": {
         "A": "came across",
-        "B": "came up with",
+        "B": "came about",
         "C": "came over",
-        "D": "came about"
+        "D": "came up with"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 18,
       "question": "Select the appropriate idiom to complete the sentence: 'The new employee is very enthusiastic but lacks experience; she'll have to _____ before taking on major responsibilities.'",
       "options": {
-        "A": "face the music",
+        "A": "tie the ropes",
         "B": "learn the ropes",
-        "C": "cut corners",
-        "D": "beat around the bush"
+        "C": "cut the ropes",
+        "D": "learn the lessons"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -269,10 +269,10 @@
       "id": 23,
       "question": "Choose the correct idiomatic expression to complete the sentence: 'The company needs to _____ if it wants to remain competitive in today's rapidly changing market.'",
       "options": {
-        "A": "keep tabs on",
+        "A": "keep up with the reality",
         "B": "keep up with the times",
-        "C": "keep at bay",
-        "D": "keep in mind"
+        "C": "keep up with the modern",
+        "D": "keep in mind the times"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -307,7 +307,7 @@
       "options": {
         "A": "smudged",
         "B": "faint",
-        "C": "hidden or dormant",
+        "C": "dormant",
         "D": "deliberate"
       },
       "correct_answer": "C",
@@ -332,7 +332,7 @@
         "A": "formal",
         "B": "explicit",
         "C": "reluctant",
-        "D": "understood without being stated"
+        "D": "implicit"
       },
       "correct_answer": "D",
       "category": "Vocabulary"
@@ -342,7 +342,7 @@
       "question": "Select the definition that best matches the word 'impassive':",
       "options": {
         "A": "easily influenced",
-        "B": "showing no emotion",
+        "B": "hiding emotion",
         "C": "impulsive",
         "D": "passionate"
       },
@@ -365,8 +365,8 @@
       "id": 31,
       "question": "What does 'ratiocination' refer to?",
       "options": {
-        "A": "a form of meditation",
-        "B": "a logical reasoning process",
+        "A": "form of meditation",
+        "B": "logical reasoning process",
         "C": "rapid calculation",
         "D": "emotional decision-making"
       },
@@ -389,7 +389,7 @@
       "id": 33,
       "question": "What is the meaning of 'bereft' in the sentence: 'After losing both parents in the accident, the children were bereft of any family support.'?",
       "options": {
-        "A": "deprived of or lacking",
+        "A": "deprived of",
         "B": "confused about",
         "C": "grateful for",
         "D": "uncertain of"
@@ -414,7 +414,7 @@
       "question": "What does the word 'infamous' mean?",
       "options": {
         "A": "unknown",
-        "B": "renowned for good qualities",
+        "B": "well-known for good qualities",
         "C": "well-known for something bad",
         "D": "mysterious"
       },
@@ -438,7 +438,7 @@
       "question": "What is the meaning of 'subservient' in the sentence: 'The monarchy became increasingly subservient to the elected parliament throughout the 19th century.'?",
       "options": {
         "A": "dominant over",
-        "B": "subordinate or submissive to",
+        "B": "subordinate to",
         "C": "independent from",
         "D": "antagonistic toward"
       },
@@ -474,7 +474,7 @@
       "question": "What does the word 'levity' mean in the sentence: 'The chairman felt that too much levity during the crisis meeting was inappropriate given the gravity of the situation.'?",
       "options": {
         "A": "tension",
-        "B": "lightness or humor",
+        "B": "lightness",
         "C": "analysis",
         "D": "formality"
       },
@@ -498,7 +498,7 @@
       "question": "The passage suggests that Elizabeth's approach to religious governance was characterized by:",
       "options": {
         "A": "strict enforcement of Catholic doctrine",
-        "B": "aggressive persecution of religious minorities",
+        "B": "aggressive persecution of all religious minorities",
         "C": "pragmatic moderation that valued outward conformity",
         "D": "complete religious freedom for all denominations"
       },
@@ -512,7 +512,7 @@
         "A": "established England as the dominant European power",
         "B": "led to immediate colonial acquisitions in the Americas",
         "C": "restored Catholicism to England",
-        "D": "elevated England's international standing and emboldened maritime ambitions"
+        "D": "elevated England's international standing"
       },
       "correct_answer": "D",
       "category": "Reading"
@@ -524,7 +524,7 @@
         "A": "She personally led colonial expeditions to the Americas",
         "B": "She discouraged overseas ventures as too risky",
         "C": "She encouraged explorers and granted royal charters to trading companies",
-        "D": "She focused exclusively on European territorial expansion"
+        "D": "She focused exclusively on European territorial and religious expansion"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -536,7 +536,7 @@
         "A": "primarily religious in nature",
         "B": "contributing to a strengthened national identity",
         "C": "focused mainly on scientific advancement",
-        "D": "detrimental to imperial ambitions"
+        "D": "detrimental to a strengthened national identity"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -558,7 +558,7 @@
       "question": "According to the passage, what distinguished Elizabeth's religious policy from those in continental Europe?",
       "options": {
         "A": "It imposed a single state religion with no tolerance for dissenters",
-        "B": "It prevented the devastating religious wars that affected other countries",
+        "B": "It prevented the devastating religious wars",
         "C": "It established Catholicism as the only permitted faith",
         "D": "It separated church governance entirely from state control"
       },
@@ -571,7 +571,7 @@
       "options": {
         "A": "exclusively peaceful trading missions",
         "B": "primarily defensive naval operations",
-        "C": "a combination of exploration, trade, and piracy",
+        "C": "combination of exploration, trade, and piracy",
         "D": "unsuccessful attempts at naval development"
       },
       "correct_answer": "C",
@@ -583,8 +583,8 @@
       "options": {
         "A": "compare Elizabeth I's reign with other European monarchs of the period",
         "B": "argue that Elizabeth I was England's most capable monarch",
-        "C": "explain how Elizabeth I's policies and achievements laid foundations for later imperial expansion",
-        "D": "detail the personal life and character of Elizabeth I"
+        "C": "explain how Elizabeth I's achievements laid foundations for later imperial expansion",
+        "D": "detail the personal life and character of Elizabeth I as the best woman monarch in England"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -594,7 +594,7 @@
       "question": "The passage indicates that when Elizabeth died in 1603, England was:",
       "options": {
         "A": "already the dominant global imperial power",
-        "B": "unified, increasingly powerful at sea, and poised for colonial expansion",
+        "B": "unified and poised for colonial expansion",
         "C": "politically fragmented and economically weakened",
         "D": "engaged in major conflicts with its European neighbors"
       },
