@@ -17,12 +17,12 @@
       "id": 2,
       "question": "Choose the correct sentence:",
       "options": {
-        "A": "The committee has reached their decision.",
-        "B": "The committee have reached their decision.",
-        "C": "The committee has reached its decision.",
-        "D": "The committee have reached its decision."
+        "A": "The stakeholders has reached their decision.",
+        "B": "The stakeholders have reached their decision.",
+        "C": "The stakeholders has reached its decision.",
+        "D": "The stakeholders have reached its decision."
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
@@ -32,14 +32,14 @@
         "A": "The professor insisted that the student writes the essay again.",
         "B": "The professor insisted that the student wrote the essay again.",
         "C": "The professor insisted that the student write the essay again.",
-        "D": "The professor insisted that the student had written the essay again."
+        "D": "The professor insisted that the student will write the essay again."
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 4,
-      "question": "Identify the sentence with the correct use of the past perfect continuous:",
+      "question": "Identify the correct sentence:",
       "options": {
         "A": "She had been working on the project before the power outage occurred.",
         "B": "She has been working on the project before the power outage occurred.",
@@ -53,7 +53,7 @@
       "id": 5,
       "question": "Choose the correct relative clause:",
       "options": {
-        "A": "The professor who books I borrowed is giving a lecture tomorrow.",
+        "A": "The professor his books I borrowed is giving a lecture tomorrow.",
         "B": "The professor which books I borrowed is giving a lecture tomorrow.",
         "C": "The professor whose books I borrowed is giving a lecture tomorrow.",
         "D": "The professor whom books I borrowed is giving a lecture tomorrow."
@@ -65,10 +65,10 @@
       "id": 6,
       "question": "Select the sentence with the correct use of articles:",
       "options": {
-        "A": "The professor gave me an useful advice about my thesis.",
-        "B": "The professor gave me a useful advice about my thesis.",
-        "C": "The professor gave me useful advice about my thesis.",
-        "D": "The professor gave me the useful advice about my thesis."
+        "A": "The teacher gave me an useful advice about my thesis.",
+        "B": "The teacher gave me a useful advice about my thesis.",
+        "C": "The teacher gave me useful advice about my thesis.",
+        "D": "The teacher gave me the useful advice about my thesis."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -87,14 +87,14 @@
     },
     {
       "id": 8,
-      "question": "Select the correct form of the adjective in the following sentence: This research is _____ than the one we conducted last year.",
+      "question": "Select the correct form of the adjective in the following sentence: This research is _____ as the one we conducted last year.",
       "options": {
         "A": "more comprehensive",
-        "B": "comprehensiver",
+        "B": "as comprehensive",
         "C": "most comprehensive",
         "D": "the most comprehensive"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
@@ -123,7 +123,7 @@
     },
     {
       "id": 11,
-      "question": "Identify the sentence with the correct use of inversion:",
+      "question": "Identify the correct sentence:",
       "options": {
         "A": "Never I have seen such an impressive display.",
         "B": "Never have I seen such an impressive display.",
@@ -152,7 +152,7 @@
         "A": "to",
         "B": "from",
         "C": "with",
-        "D": "by"
+        "D": "of"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -195,14 +195,14 @@
     },
     {
       "id": 17,
-      "question": "Select the correct phrasal verb: After careful consideration, the committee decided to _____ the proposal until more data was available.",
+      "question": "Choose the most appropriate phrasal verb: 'Despite the cost, the developers insisted they would _____ the original blueprint for the sustainable housing project.'",
       "options": {
-        "A": "put away",
-        "B": "put off",
-        "C": "put up with",
-        "D": "put out"
+        "A": "stand by",
+        "B": "keep up with",
+        "C": "take on",
+        "D": "get away with"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Use of English"
     },
     {
@@ -247,7 +247,7 @@
       "options": {
         "A": "besides",
         "B": "despite",
-        "C": "except",
+        "C": "because",
         "D": "alongside"
       },
       "correct_answer": "B",
@@ -439,10 +439,10 @@
       "options": {
         "A": "abdicate",
         "B": "surrender",
-        "C": "relinquish",
+        "C": "capitulate",
         "D": "renounce"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
@@ -461,7 +461,7 @@
       "id": 39,
       "question": "Select the word that best fits the definition: 'Extremely bad or detestable'",
       "options": {
-        "A": "abominable",
+        "A": "abolishable",
         "B": "execrable",
         "C": "deplorable",
         "D": "atrocious"
@@ -497,7 +497,7 @@
       "id": 42,
       "question": "What neurobiological finding is mentioned in paragraph 2?",
       "options": {
-        "A": "Social isolation causes permanent brain damage",
+        "A": "Social isolation causes permanent brain damage and physical pain",
         "B": "The brain cannot differentiate between social and physical pain",
         "C": "Cortisol strengthens cognitive function during isolation",
         "D": "Social rejection activates the same neural pathways as physical pain"
@@ -510,9 +510,9 @@
       "question": "According to paragraph 3, how does chronic isolation affect perception of social interactions?",
       "options": {
         "A": "It makes people more socially adept",
-        "B": "It causes indifference to social cues",
+        "B": "It creates heightened sensitivity to potential social cues",
         "C": "It creates heightened sensitivity to potential social threats",
-        "D": "It improves self-identity formation"
+        "D": "It improves self-identity formation in younger generations"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -536,7 +536,7 @@
         "A": "They cancel each other out over time",
         "B": "They may compound to create lasting psychological vulnerabilities",
         "C": "They have no effect on long-term psychological health",
-        "D": "They strengthen psychological resilience"
+        "D": "They may compound to strengthen psychological resilience"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -558,8 +558,8 @@
       "question": "What can be inferred about the author's view on addressing social isolation?",
       "options": {
         "A": "Individual therapy is sufficient to solve the problem",
-        "B": "A multifaceted approach including community-based solutions is needed",
-        "C": "Digital solutions alone can solve the problem",
+        "B": "Multifaceted approach including community-based solutions is needed",
+        "C": "Digital solutions alone can solve the problem in the short run",
         "D": "Social isolation is not a serious public health concern"
       },
       "correct_answer": "B",
@@ -569,7 +569,7 @@
       "id": 48,
       "question": "The word 'hypervigilance' in paragraph 3 most closely means:",
       "options": {
-        "A": "Extreme alertness to potential threats",
+        "A": "Extreme alertness",
         "B": "Complete lack of awareness",
         "C": "Intense social anxiety",
         "D": "Heightened social skills"
@@ -593,10 +593,10 @@
       "id": 50,
       "question": "What does the passage suggest is happening to the understanding of social isolation in societies?",
       "options": {
-        "A": "It is increasingly viewed as a public health concern rather than just a personal issue",
+        "A": "It is viewed as a public health concern rather than just a personal issue",
         "B": "It is being dismissed as less important than other health issues",
-        "C": "It is being addressed primarily through digital solutions",
-        "D": "It is considered solely an individual psychological problem"
+        "C": "It is considered solely an individual psychological problem",
+        "D": "It is being addressed primarily through digital solutions"
       },
       "correct_answer": "A",
       "category": "Reading"
