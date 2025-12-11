@@ -42,7 +42,7 @@
       "question": "Which sentence correctly uses a relative clause?",
       "options": {
         "A": "The museum which we visited yesterday houses an impressive collection.",
-        "B": "The museum whom we visited yesterday houses an impressive collection.",
+        "B": "The museum what we visited yesterday houses an impressive collection.",
         "C": "The museum whose we visited yesterday houses an impressive collection.",
         "D": "The museum who we visited yesterday houses an impressive collection."
       },
@@ -77,10 +77,10 @@
       "id": 7,
       "question": "Choose the sentence with the correct use of articles:",
       "options": {
-        "A": "She has a MA in linguistics from an prestigious university.",
+        "A": "She has a MA in linguistics from the prestigious university.",
         "B": "She has an MA in linguistics from a prestigious university.",
         "C": "She has a MA in linguistics from a prestigious university.",
-        "D": "She has an MA in linguistics from an prestigious university."
+        "D": "She has an MA in linguistics from the prestigious university."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -137,10 +137,10 @@
       "id": 12,
       "question": "Select the sentence with the correct use of the perfect infinitive:",
       "options": {
-        "A": "She claims to studied extensively for the examination.",
+        "A": "She claims to has studied extensively for the examination.",
         "B": "She claims to have study extensively for the examination.",
         "C": "She claims to have studied extensively for the examination.",
-        "D": "She claims to had studied extensively for the examination."
+        "D": "She claims to have been studying extensively for the examination."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -161,12 +161,12 @@
       "id": 14,
       "question": "Choose the sentence with the correct placement of adverbs:",
       "options": {
-        "A": "She nearly read all of the assigned chapters.",
-        "B": "She read nearly all of the assigned chapters.",
+        "A": "She read nearly all of the assigned chapters.",
+        "B": "She nearly read all of the assigned chapters.",
         "C": "She read all nearly of the assigned chapters.",
         "D": "She read all of nearly the assigned chapters."
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
@@ -186,11 +186,11 @@
       "question": "Choose the correct preposition: 'The results of the study are inconsistent _____ previous findings.'",
       "options": {
         "A": "to",
-        "B": "with",
+        "B": "about",
         "C": "for",
-        "D": "by"
+        "D": "with"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -209,24 +209,24 @@
       "id": 18,
       "question": "Which idiomatic expression best completes the sentence: 'The negotiations have reached _____, with neither side willing to compromise.'",
       "options": {
-        "A": "a dead end",
+        "A": "a far cry",
         "B": "a close call",
-        "C": "a far cry",
+        "C": "a dead end",
         "D": "a gray area"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
       "id": 19,
       "question": "Choose the most appropriate word to complete the sentence: 'Despite the initial challenges, the project was ultimately brought to _____ completion.'",
       "options": {
-        "A": "successful",
+        "A": "favorable",
         "B": "fruitful",
-        "C": "favorable",
+        "C": "successful",
         "D": "conducive"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
@@ -294,7 +294,7 @@
       "question": "Choose the most appropriate linking expression: 'The company reported record profits; _____, employee satisfaction has reached an all-time low.'",
       "options": {
         "A": "consequently",
-        "B": "similarly",
+        "B": "paranormally",
         "C": "subsequently",
         "D": "paradoxically"
       },
@@ -303,7 +303,7 @@
     },
     {
       "id": 26,
-      "question": "Which word means 'beyond repair or correction'?",
+      "question": "Which word means 'beyond correction'?",
       "options": {
         "A": "indefensible",
         "B": "irreparable",
@@ -317,12 +317,12 @@
       "id": 27,
       "question": "Which word describes someone who talks excessively, especially about trivial matters?",
       "options": {
-        "A": "loquacious",
+        "A": "garrulous",
         "B": "verbose",
-        "C": "garrulous",
+        "C": "loquacious",
         "D": "voluble"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
@@ -330,11 +330,11 @@
       "question": "Which term refers to something capable of being shaped or formed, especially by pressure?",
       "options": {
         "A": "ductile",
-        "B": "pliable",
+        "B": "malleable",
         "C": "flexible",
-        "D": "malleable"
+        "D": "pliable"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
@@ -354,11 +354,11 @@
       "question": "Which word describes someone who acts without moral principles or ethics?",
       "options": {
         "A": "unprincipled",
-        "B": "nefarious",
-        "C": "unscrupulous",
+        "B": "unscrupulous",
+        "C": "nefarious",
         "D": "disreputable"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
@@ -389,12 +389,12 @@
       "id": 33,
       "question": "Which verb means to make or declare sacred, especially to dedicate formally to a religious purpose?",
       "options": {
-        "A": "sanctify",
+        "A": "consecrate",
         "B": "venerate",
         "C": "revere",
-        "D": "consecrate"
+        "D": "sanctify"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
@@ -425,12 +425,12 @@
       "id": 36,
       "question": "Which word describes a feeling of pensive sadness, typically with no obvious cause?",
       "options": {
-        "A": "despondent",
+        "A": "melancholy",
         "B": "forlorn",
-        "C": "melancholy",
+        "C": "despondent",
         "D": "morose"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
@@ -487,7 +487,7 @@
       "options": {
         "A": "His formal education",
         "B": "His brother's printing shop",
-        "C": "His periodical and almanac publications",
+        "C": "His periodical publications",
         "D": "His family's wealth"
       },
       "correct_answer": "C",
@@ -523,7 +523,7 @@
       "options": {
         "A": "His military expertise",
         "B": "His financial contributions",
-        "C": "His persuasive abilities and cosmopolitan sensibilities",
+        "C": "His persuasive abilities",
         "D": "His revolutionary ideals"
       },
       "correct_answer": "C",
@@ -560,7 +560,7 @@
         "A": "As a flawless hero of American history",
         "B": "As a hypocrite whose achievements are overrated",
         "C": "As a complex figure with both achievements and contradictions",
-        "D": "As primarily significant for his autobiography"
+        "D": "As a simple figure with both achievements and contradictions"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -569,8 +569,8 @@
       "id": 48,
       "question": "The passage characterizes Franklin's autobiography as:",
       "options": {
-        "A": "A politically motivated document",
-        "B": "A foundational text in American self-improvement culture",
+        "A": "A politically motivated document in American culture",
+        "B": "A foundational text in American culture",
         "C": "An attempt to conceal his personal contradictions",
         "D": "A scientific treatise"
       },
@@ -581,9 +581,9 @@
       "id": 49,
       "question": "Which of the following best describes the main purpose of the passage?",
       "options": {
-        "A": "To compare Franklin to other founding fathers",
+        "A": "To compare Franklin to other founding fathers of the USA",
         "B": "To criticize historical misconceptions about Franklin",
-        "C": "To analyze Franklin's scientific contributions",
+        "C": "To analyze Franklin's scientific contributions to the nation",
         "D": "To present Franklin's diverse contributions and complex legacy"
       },
       "correct_answer": "D",
