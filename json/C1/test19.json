@@ -29,12 +29,12 @@
       "id": 3,
       "question": "Which of the following sentences contains a correct use of the subjunctive mood?",
       "options": {
-        "A": "The committee insists that the company follows the new regulations.",
-        "B": "The committee insists that the company follow the new regulations.",
+        "A": "The committee insists that the company follow the new regulations.",
+        "B": "The committee insists that the company follows the new regulations.",
         "C": "The committee insists that the company had followed the new regulations.",
-        "D": "The committee insists that the company is following the new regulations."
+        "D": "The committee insists that the company to follow the new regulations."
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
@@ -54,11 +54,11 @@
       "question": "Select the sentence with the correct use of inversion:",
       "options": {
         "A": "Under no circumstances we should ignore environmental warnings.",
-        "B": "Under no circumstances should we ignore environmental warnings.",
-        "C": "We should under no circumstances ignore environmental warnings.",
+        "B": "We should under no circumstances ignore environmental warnings.",
+        "C": "Under no circumstances should we ignore environmental warnings.",
         "D": "Under no circumstances we ignore environmental warnings."
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -66,11 +66,11 @@
       "question": "Choose the sentence with the correct use of comparatives:",
       "options": {
         "A": "Renewable energy is becoming more cheaper than fossil fuels.",
-        "B": "Renewable energy is becoming cheaper and cheaper than fossil fuels.",
+        "B": "Renewable energy is becoming much more cheaper than fossil fuels.",
         "C": "Renewable energy is becoming more and more cheapest than fossil fuels.",
-        "D": "Renewable energy is becoming the more cheaper than fossil fuels."
+        "D": "Renewable energy is becoming cheaper and cheaper than fossil fuels."
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -90,7 +90,7 @@
       "question": "Select the sentence with the correct passive construction:",
       "options": {
         "A": "The environmental policy is believed to have been influenced by corporate interests.",
-        "B": "The environmental policy is believed to be influenced by corporate interests.",
+        "B": "The environmental policy is believed to have being influenced by corporate interests.",
         "C": "The environmental policy has believed to be influenced by corporate interests.",
         "D": "The environmental policy is believing to have been influenced by corporate interests."
       },
@@ -101,9 +101,9 @@
       "id": 9,
       "question": "Which sentence demonstrates correct usage of the gerund?",
       "options": {
-        "A": "The company avoided to pay the environmental fines.",
+        "A": "The company avoided on paying the environmental fines.",
         "B": "The company avoided paying the environmental fines.",
-        "C": "The company avoided pay the environmental fines.",
+        "C": "The company avoided for paying the environmental fines.",
         "D": "The company avoided to paying the environmental fines."
       },
       "correct_answer": "B",
@@ -114,11 +114,11 @@
       "question": "Choose the sentence with the correct use of reported speech:",
       "options": {
         "A": "The minister said that sustainable practices will be incentivized next year.",
-        "B": "The minister said that sustainable practices would be incentivized the following year.",
+        "B": "The minister said that sustainable practices will be incentivized the following year.",
         "C": "The minister said that sustainable practices would be incentivized next year.",
-        "D": "The minister said that sustainable practices will be incentivized the following year."
+        "D": "The minister said that sustainable practices would be incentivized the following year."
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -138,23 +138,23 @@
       "question": "Which sentence contains a correctly formed relative clause?",
       "options": {
         "A": "The environmental scientist whom discoveries revolutionized the field received the award.",
-        "B": "The environmental scientist whose discoveries revolutionized the field received the award.",
-        "C": "The environmental scientist which discoveries revolutionized the field received the award.",
+        "B": "The environmental scientist which discoveries revolutionized the field received the award.",
+        "C": "The environmental scientist whose discoveries revolutionized the field received the award.",
         "D": "The environmental scientist who's discoveries revolutionized the field received the award."
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 13,
       "question": "Select the correct emphatic structure:",
       "options": {
-        "A": "It was not until the 1990s when the importance of biodiversity was fully recognized.",
-        "B": "It was not until the 1990s that the importance of biodiversity was fully recognized.",
+        "A": "It was not until the 1990s that the importance of biodiversity was fully recognized.",
+        "B": "It was not until the 1990s when the importance of biodiversity was fully recognized.",
         "C": "It was not until the 1990s which the importance of biodiversity was fully recognized.",
         "D": "Not until the 1990s it was that the importance of biodiversity was fully recognized."
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
@@ -195,14 +195,14 @@
     },
     {
       "id": 17,
-      "question": "Select the most appropriate phrasal verb to complete the sentence: 'The environmental conference was _______ due to the pandemic.'",
+      "question": "Choose the most appropriate phrasal verb: 'After weeks of tense negotiation, the unions and management finally managed to _____ on the terms of the new contract.'",
       "options": {
-        "A": "called off",
-        "B": "called out",
-        "C": "called for",
-        "D": "called upon"
+        "A": "bring around",
+        "B": "go through with",
+        "C": "come down to",
+        "D": "iron out"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -245,12 +245,12 @@
       "id": 21,
       "question": "Choose the option that best maintains the meaning of the original sentence: 'Companies must comply with environmental regulations or face heavy fines.'",
       "options": {
-        "A": "If companies do not comply with environmental regulations, they will face heavy fines.",
+        "A": "Environmental regulations state that companies must pay heavy fines regardless of compliance.",
         "B": "Companies may comply with environmental regulations to avoid heavy fines.",
         "C": "Companies complying with environmental regulations will still face heavy fines.",
-        "D": "Environmental regulations state that companies must pay heavy fines regardless of compliance."
+        "D": "If companies do not comply with environmental regulations, they will face heavy fines."
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -283,8 +283,8 @@
       "options": {
         "A": "Climate change is definitely caused by human activities.",
         "B": "Climate change appears to be significantly influenced by human activities.",
-        "C": "Climate change might be caused by human activities.",
-        "D": "I think climate change is caused by human activities."
+        "C": "Climate change might have been caused significantly by human activities.",
+        "D": "In my opinion, climate change is caused by human activities."
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -294,8 +294,8 @@
       "question": "Select the most appropriate register for a formal environmental policy document:",
       "options": {
         "A": "We're totally committed to cutting down on pollution and stuff like that.",
-        "B": "Our organization, like, really wants to reduce environmental impact, you know?",
-        "C": "The organization hereby commits to the mitigation of environmental impacts through systematic reduction of emissions.",
+        "B": "The organization really wants to reduce environmental impact.",
+        "C": "The organization hereby commits to the mitigation of environmental impacts.",
         "D": "We're going to try our best to be eco-friendly and green in everything we do."
       },
       "correct_answer": "C",
@@ -319,8 +319,8 @@
       "options": {
         "A": "deficiency",
         "B": "scantiness",
-        "C": "dearth",
-        "D": "paucity"
+        "C": "paucity",
+        "D": "dearth"
       },
       "correct_answer": "D",
       "category": "Vocabulary"
@@ -375,7 +375,7 @@
     },
     {
       "id": 32,
-      "question": "Which word refers to 'an excessive amount of something; an overabundance'?",
+      "question": "Which word refers to 'an excessive amount of something'?",
       "options": {
         "A": "plethora",
         "B": "abundance",
@@ -389,7 +389,7 @@
       "id": 33,
       "question": "Choose the word that means 'alleged or claimed, often falsely':",
       "options": {
-        "A": "alleged",
+        "A": "reported",
         "B": "supposed",
         "C": "purported",
         "D": "rumored"
@@ -411,7 +411,7 @@
     },
     {
       "id": 35,
-      "question": "Which word means 'impossible to deny or disprove; indisputable'?",
+      "question": "Which word means 'impossible to deny or disprove'?",
       "options": {
         "A": "undeniable",
         "B": "incontrovertible",
@@ -425,8 +425,8 @@
       "id": 36,
       "question": "Choose the word that describes something 'relevant or applicable to a particular matter':",
       "options": {
-        "A": "relevant",
-        "B": "applicable",
+        "A": "preferable",
+        "B": "appointable",
         "C": "pertinent",
         "D": "germane"
       },
@@ -437,7 +437,7 @@
       "id": 37,
       "question": "Select the word that means 'able to adapt to many different functions or activities':",
       "options": {
-        "A": "adaptable",
+        "A": "adoptable",
         "B": "flexible",
         "C": "multifaceted",
         "D": "versatile"
@@ -450,8 +450,8 @@
       "question": "Which word means 'to hinder or impede the movement or progress of something'?",
       "options": {
         "A": "obstruct",
-        "B": "impede",
-        "C": "hinder",
+        "B": "preserve",
+        "C": "block",
         "D": "hamper"
       },
       "correct_answer": "D",
@@ -474,7 +474,7 @@
       "question": "Select the word that describes a connection or relationship that is 'thin, weak, or slight':",
       "options": {
         "A": "fragile",
-        "B": "weak",
+        "B": "tender",
         "C": "tenuous",
         "D": "insubstantial"
       },
@@ -485,9 +485,9 @@
       "id": 41,
       "question": "According to paragraph 1, what has changed in economic thinking regarding the environment?",
       "options": {
-        "A": "Economists now reject the importance of environmental concerns.",
+        "A": "Economists now reject the importance of environmental concerns in favor of economic growth.",
         "B": "The view that economic growth and environmental protection are compatible has emerged.",
-        "C": "Natural capital is no longer considered valuable in economic theories.",
+        "C": "Natural capital is no longer considered valuable in modern economic theories.",
         "D": "Economists now focus exclusively on short-term economic gains."
       },
       "correct_answer": "B",
@@ -498,7 +498,7 @@
       "question": "What does the passage suggest about market-based instruments like carbon taxes?",
       "options": {
         "A": "They are less effective than command-and-control regulations.",
-        "B": "They work against economic development principles.",
+        "B": "They work against economic development principles as well as other taxes.",
         "C": "They incorporate environmental costs into market prices efficiently.",
         "D": "They have been rejected by most economists as impractical."
       },
@@ -509,7 +509,7 @@
       "id": 43,
       "question": "According to paragraph 3, green industries:",
       "options": {
-        "A": "Generate fewer jobs than traditional industries.",
+        "A": "Generate fewer jobs than traditional industries because of higher cost.",
         "B": "Create more jobs per unit of investment than carbon-intensive sectors.",
         "C": "Have no significant impact on employment statistics.",
         "D": "Are too unstable to contribute meaningfully to job creation."
@@ -534,11 +534,11 @@
       "question": "The phrase 'systemic risks' in paragraph 5 most likely refers to:",
       "options": {
         "A": "Minor financial fluctuations in global markets.",
-        "B": "Widespread threats to economic stability from environmental degradation.",
+        "B": "Government regulations that constrain business activities.",
         "C": "Short-term costs of transitioning to sustainable practices.",
-        "D": "Government regulations that constrain business activities."
+        "D": "Widespread threats to economic stability from environmental degradation."
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -559,7 +559,7 @@
       "options": {
         "A": "Chronological development of environmental economic theory.",
         "B": "Comparison of competing economic perspectives on sustainability.",
-        "C": "Problem-solution structure focused on market-based approaches.",
+        "C": "Problem-solution structure focused on market-based approaches combined with sustainability.",
         "D": "Presentation of economic arguments for sustainability with opportunities and challenges."
       },
       "correct_answer": "D",
@@ -572,7 +572,7 @@
         "A": "Highly critical of current economic systems.",
         "B": "Analytical and informative about economic perspectives on sustainability.",
         "C": "Enthusiastically promoting specific environmental policies.",
-        "D": "Pessimistic about the prospects for environmental sustainability."
+        "D": "Pessimistic about the prospects for long-term environmental sustainability."
       },
       "correct_answer": "B",
       "category": "Reading"
