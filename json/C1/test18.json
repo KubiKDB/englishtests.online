@@ -19,7 +19,7 @@
       "options": {
         "A": "Neither the CEO nor the board members was informed about the merger.",
         "B": "Neither the CEO nor the board members were informed about the merger.",
-        "C": "Neither the CEO nor the board members are informed about the merger.",
+        "C": "Neither the CEO nor the board members will informed about the merger.",
         "D": "Neither the CEO nor the board members has been informed about the merger."
       },
       "correct_answer": "B",
@@ -32,7 +32,7 @@
         "A": "which",
         "B": "that",
         "C": "what",
-        "D": "who"
+        "D": "where"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -65,7 +65,7 @@
       "id": 6,
       "question": "Choose the correct sentence with reported speech: 'I'll submit the report tomorrow,' she said.",
       "options": {
-        "A": "She said that she will submit the report tomorrow.",
+        "A": "She said that she will submit the report the next day.",
         "B": "She said that she would submit the report the next day.",
         "C": "She said that she will submit the report the next day.",
         "D": "She said that she would submit the report tomorrow."
@@ -113,12 +113,12 @@
       "id": 10,
       "question": "Select the grammatically correct sentence:",
       "options": {
-        "A": "No sooner had the lecture begun than several students left the room.",
-        "B": "No sooner the lecture had begun than several students left the room.",
+        "A": "No sooner the lecture had begun than several students left the room.",
+        "B": "No sooner had the lecture begun than several students left the room.",
         "C": "No sooner did the lecture begin when several students left the room.",
         "D": "No sooner had the lecture begun when several students left the room."
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
@@ -214,7 +214,7 @@
         "C": "engender",
         "D": "cultivate"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
@@ -262,7 +262,7 @@
         "C": "serendipitous",
         "D": "opportune"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
@@ -274,7 +274,7 @@
         "C": "capitulate",
         "D": "succumb"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
@@ -322,7 +322,7 @@
         "C": "harmful",
         "D": "noxious"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
@@ -387,12 +387,12 @@
     },
     {
       "id": 33,
-      "question": "Select the appropriate phrasal verb: 'The company decided to _____ the launch of its new product due to technical issues.'",
+    "question": "Choose the most appropriate phrasal verb: 'Following the complaint, the regulatory body agreed to _____ the claims of financial misconduct.'",
       "options": {
-        "A": "put off",
-        "B": "put away",
-        "C": "put down",
-        "D": "put up"
+        "A": "look into",
+        "B": "see off",
+        "C": "take after",
+        "D": "get through"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -430,7 +430,7 @@
         "C": "beneath",
         "D": "down"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Use of English"
     },
     {
@@ -466,7 +466,7 @@
         "C": "hold on",
         "D": "go on"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -523,10 +523,10 @@
       "options": {
         "A": "Market failure occurs",
         "B": "Prices decline to clear excess inventory",
-        "C": "Suppliers raise prices and increase production",
-        "D": "Government intervention becomes necessary"
+        "C": "Government intervention becomes necessary",
+        "D": "Suppliers raise prices and increase production"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
