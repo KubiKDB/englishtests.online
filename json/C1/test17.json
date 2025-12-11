@@ -19,7 +19,7 @@
       "options": {
         "A": "I wish I was able to attend the conference yesterday.",
         "B": "The committee suggested that he will submit his proposal by Friday.",
-        "C": "It is essential that every applicant completes the form accurately.",
+        "C": "It is essential that every applicant completes the form as accurately as posible .",
         "D": "The professor insisted that the research be conducted according to ethical guidelines."
       },
       "correct_answer": "D",
@@ -29,7 +29,7 @@
       "id": 3,
       "question": "Which sentence demonstrates the correct use of a participle clause?",
       "options": {
-        "A": "While crossing the street, the car almost hit the pedestrian.",
+        "A": "While crossing the street, the car almost hit the dog.",
         "B": "Having completed the experiment, the results were analyzed by the scientist.",
         "C": "Exhausted from the long journey, the travelers decided to rest for a day.",
         "D": "Regardless of trying several times, the problem remained unsolved."
@@ -65,10 +65,10 @@
       "id": 6,
       "question": "Which sentence demonstrates correct use of the past perfect tense?",
       "options": {
-        "A": "By the time he arrived, the meeting already started.",
+        "A": "By the time he arrived, the meeting had been already started for at least two hours.",
         "B": "After she had submitted her application, she received an interview invitation.",
-        "C": "The storm has damaged several buildings before it subsided.",
-        "D": "When we reached the theater, the movie was beginning."
+        "C": "The storm had damaged several buildings after it subsided.",
+        "D": "When we had reached the theater, the movie was beginning."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -77,7 +77,7 @@
       "id": 7,
       "question": "Which sentence contains an error in verb form?",
       "options": {
-        "A": "The number of international students attending the university has increased significantly.",
+        "A": "The number of international students attending the course has increased significantly.",
         "B": "Each of the participants were asked to complete a feedback form.",
         "C": "A series of lectures on quantum physics is scheduled for next month.",
         "D": "The quality of these products exceeds our expectations."
@@ -195,12 +195,12 @@
     },
     {
       "id": 17,
-      "question": "Select the correct phrasal verb to complete the sentence: 'The committee decided to ________ the proposal until more data becomes available.'",
+      "question": "Choose the most appropriate phrasal verb: 'Despite significant public opposition, the regional council voted to _____ the controversial new zoning regulations.'",
       "options": {
-        "A": "put up",
-        "B": "put off",
-        "C": "put down",
-        "D": "put through"
+        "A": "bring about",
+        "B": "carry through",
+        "C": "take up",
+        "D": "call for"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -210,9 +210,9 @@
       "question": "Choose the appropriate idiom to complete the sentence: 'The negotiations were difficult, but we finally ________ and reached an agreement.'",
       "options": {
         "A": "found common ground",
-        "B": "hit the nail on the head",
-        "C": "faced the music",
-        "D": "cut corners"
+        "B": "cleared the air",
+        "C": "turned a corner",
+        "D": "met halfway"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -274,7 +274,7 @@
         "C": "abandoned",
         "D": "terminated"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -284,7 +284,7 @@
         "A": "evade",
         "B": "circumvent",
         "C": "avoid",
-        "D": "bypass"
+        "D": "circumcise"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -363,14 +363,14 @@
     },
     {
       "id": 31,
-      "question": "Which adjective describes someone who is excessively concerned with minor details, formal rules, or displaying academic learning?",
+      "question": "Which adjective describes someone who is showing great attention to detail, very careful and precise?",
       "options": {
         "A": "fastidious",
         "B": "pedantic",
         "C": "punctilious",
         "D": "meticulous"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -399,14 +399,14 @@
     },
     {
       "id": 34,
-      "question": "Which verb means to find a way around an obstacle, restriction, or law, especially in a clever or indirect way?",
+      "question": "Which verb means to undermine the power and authority of an established system or institution?",
       "options": {
         "A": "evade",
         "B": "circumvent",
         "C": "elude",
         "D": "subvert"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -414,23 +414,23 @@
       "question": "Which adjective describes behavior that is excessively dramatic or emotional, often to attract attention?",
       "options": {
         "A": "melodramatic",
-        "B": "histrionic",
-        "C": "theatrical",
+        "B": "theatrical",
+        "C": "histrionic",
         "D": "flamboyant"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 36,
       "question": "Which verb means to reveal private or sensitive information, especially information that was previously secret?",
       "options": {
-        "A": "disclose",
-        "B": "divulge",
+        "A": "divulge",
+        "B": "disclose",
         "C": "unveil",
         "D": "expose"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
@@ -450,11 +450,11 @@
       "question": "Which adjective describes someone who complains a lot or in a whining manner?",
       "options": {
         "A": "cantankerous",
-        "B": "querulous",
+        "B": "fractious",
         "C": "petulant",
-        "D": "fractious"
+        "D": "querulous"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -462,11 +462,11 @@
       "question": "Which adjective describes something that is unnecessary, especially through being more than enough?",
       "options": {
         "A": "redundant",
-        "B": "superfluous",
-        "C": "extraneous",
+        "B": "extraneous",
+        "C": "superfluous",
         "D": "gratuitous"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -488,7 +488,7 @@
         "A": "It reduces global migration patterns",
         "B": "It eliminates cultural differences between groups",
         "C": "It fosters more dynamic and adaptable social structures",
-        "D": "It simplifies the demographic landscape"
+        "D": "It simplifies the demographic landscape of cultural diversity"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -499,7 +499,7 @@
       "options": {
         "A": "A process requiring minority groups to abandon their cultural identities",
         "B": "A one-way process of adaptation by immigrant populations",
-        "C": "A process by which diverse groups maintain cultural distinctiveness while participating fully in society",
+        "C": "A process by which diverse groups maintain cultural distinctiveness",
         "D": "The complete assimilation of minority cultures into the dominant culture"
       },
       "correct_answer": "C",
@@ -509,7 +509,7 @@
       "id": 43,
       "question": "According to paragraph 3, what is the relationship between the different dimensions of integration?",
       "options": {
-        "A": "They operate independently of each other",
+        "A": "They are disconnected, with progress in one area affecting outcomes in others",
         "B": "They are interconnected, with progress in one area affecting outcomes in others",
         "C": "Economic integration always precedes other forms of integration",
         "D": "Political integration is more important than other dimensions"
@@ -534,7 +534,7 @@
       "question": "What does the passage suggest is a key difference between integration and assimilation?",
       "options": {
         "A": "Integration involves maintaining cultural distinctiveness, while assimilation requires abandoning it",
-        "B": "Integration is mandatory, while assimilation is voluntary",
+        "B": "Assimilation involves maintaining cultural distinctiveness, while integration requires abandoning it",
         "C": "Integration applies to economic aspects, while assimilation applies to cultural aspects",
         "D": "Integration is a modern concept, while assimilation is outdated"
       },
@@ -548,7 +548,7 @@
         "A": "It is relevant only for political integration",
         "B": "It functions as both a practical tool and a symbolic indicator of adaptation",
         "C": "It is less important than housing patterns",
-        "D": "It is primarily important for economic integration"
+        "D": "It is primarily important for economic integration as a symbolic indicator of adaptation"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -560,7 +560,7 @@
         "A": "Creating societies where diversity is merely tolerated",
         "B": "Eliminating cultural differences between groups",
         "C": "Creating societies where diversity is valued as a source of strength",
-        "D": "Reducing global migration patterns"
+        "D": "Reducing global migration patterns as a result of political barriers"
       },
       "correct_answer": "C",
       "category": "Reading"
