@@ -1,0 +1,970 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://englishtests.online/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://englishtests.online/favicon-32x32.png">
+    <link rel="icon" type="image/svg+xml" href="https://englishtests.online/favicon.svg">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://englishtests.online/favicon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="https://englishtests.online/favicon-192x192.png">
+	  <title>English Test 1 Level A1 | englishtests.online</title>
+	  <meta name="description" content="Free A1 English test with grammar, vocabulary, use of English, and a reading comprehension text. Practice for TOEFL or IELTS.">
+	  <meta name="keywords" content="English tests online, Free English tests, English level test, English proficiency test, A1 Free English test, English language assessment, English grammar tests, English vocabulary tests, TOEFL English tests, IELTS English tests, SAT English tests, Online English exercises, CEFR English tests">
+    <meta name="author" content="englishtests.online">
+  	<meta name="robots" content="index, follow">
+    <!-- Google Analytics (GA4) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-K2TNG0KVK8"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-K2TNG0KVK8');
+    </script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px auto;
+            max-width: 800px;
+            padding: 10px;
+            padding-top: 70px; /* Add padding to accommodate fixed header */
+        }
+        .question {
+            margin-bottom: 20px;
+            padding: 15px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+        .passage {
+            margin-bottom: 20px;
+            padding: 15px;
+            border: 1px solid #444;
+            border-radius: 5px;
+            background-color: #e3f2fd;
+        }
+        .submit-btn {
+            margin-top: 20px;
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        .submit-btn:hover {
+            background-color: #45a049;
+        }
+        .result {
+            margin-top: 20px;
+            font-weight: bold;
+        }
+        /* Add these styles to your body and html elements */
+        html, body {
+          height: 100%;
+          margin: 0;
+        }
+
+        /* Main content area that will grow to push footer down */
+        main {
+          flex: 1 0 auto; /* This makes the main content expand */
+        }
+
+        /* Header styling for horizontal alignment */
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 0;
+            margin-bottom: 20px;
+            background-color: white;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 100;
+            max-width: 800px;
+            margin-right: auto;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        
+        /* Center title and adjust width */
+        .header h2 {
+            margin: 0;
+            text-align: center;
+            flex-grow: 1;
+        }
+
+        /* Home button */
+        .home-button {
+            width: 44px;
+            height: 44px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            cursor: pointer;
+            position: relative;
+            z-index: 20;
+            border-radius: 50%;
+            transition: background-color 0.3s;
+            text-decoration: none;
+        }
+
+        .home-button:hover {
+            background-color: rgba(52, 152, 219, 0.1);
+        }
+
+        /* New SVG Home Icon with primary color */
+        .home-icon {
+            width: 24px;
+            height: 24px;
+            fill: #3498DB;
+            transition: fill 0.3s;
+        }
+
+        .home-button:hover .home-icon {
+            fill: #2980b9;
+        }
+        
+        /* Footer Styling */
+        .footer {
+            background-color: #ffffff;
+            color: #000000;
+            text-align: bottom;
+            padding: 5px;
+            margin-top: 50px;
+    /*         width: 100%; */
+            max-width: 800px;
+            flex-shrink: 0;
+        }
+        
+        .footer-content {
+            max-width: 600px;
+            margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        
+        .footer p {
+            margin: 5px 0;
+            font-size: 1.1em;
+            font-weight: 300;
+        }
+        
+        .footer-email {
+            color: #3498db; /* blue color for the email link */
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+        
+        .footer-email:hover {
+            color: #2980b9; /* darker blue on hover */
+            text-decoration: underline;
+        }
+        
+        .footer-spacer {
+            height: 30px;
+            width: 100%;
+        }
+        
+        .footer-made {
+            margin-top: 10px;
+        }
+        
+        .footer-maker {
+            font-size: 1.3em;
+        }
+
+        /* Progress bar styles */
+        .score-display {
+            font-size: 18px;
+            font-weight: bold;
+            text-align: center;
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #e9f7ef;
+            border-radius: 5px;
+        }
+        
+        .progress-container {
+            margin-top: 10px;
+            width: 100%;
+            background-color: #f1f1f1;
+            border-radius: 5px;
+        }
+        
+        .progress-bar {
+            height: 24px;
+            border-radius: 5px;
+            background-color: #4CAF50;
+            text-align: center;
+            line-height: 24px;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <a href="javascript:history.back()" class="home-button">
+            <svg width="25.6" height="22.4" viewBox="0 0 18 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M0.292893 7.29289C-0.097631 7.68342 -0.0976311 8.31658 0.292893 8.70711L6.65685 15.0711C7.04738 15.4616 7.68054 15.4616 8.07107 15.0711C8.46159 14.6805 8.46159 14.0474 8.07107 13.6569L2.41421 8L8.07107 2.34314C8.46159 1.95262 8.46159 1.31946 8.07107 0.928931C7.68054 0.538407 7.04738 0.538407 6.65685 0.928931L0.292893 7.29289ZM18 7L1 7L1 9L18 9L18 7Z" fill="#3498DB"/>
+            </svg>
+        </a>
+        <h2>A1 — test 1</h2>
+        <a href="https://englishtests.online/" class="home-button">
+            <svg class="home-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+                <path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1 0-2.2 0-3.3-.1c-1.4 .1-2.8 .1-4.2 .1H416 392c-22.1 0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7 0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5 0-3-.1-4.5-.2c-1.2 .1-2.4 .2-3.6 .2H104c-22.1 0-40-17.9-40-40V360c0-.9 0-1.9 .1-2.8V287.6H32c-18 0-32-14-32-32.1c0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/>
+            </svg>
+        </a>
+    </div>
+    <div id="passageContainer"></div> <form id="quizForm"></form>
+    
+    <!-- Adding score display container -->
+    <div class="score-display" id="scoreDisplay" style="display: none;">
+        <div>Your Score: <span id="scoreValue">0</span> / <span id="totalQuestions">0</span></div>
+        <div class="progress-container">
+            <div class="progress-bar" id="progressBar" style="width: 0%">0%</div>
+        </div>
+    </div>
+    
+    <button type="submit" class="submit-btn" id="submitBtn">Submit</button>
+    <div id="result" class="result"></div>
+    <script>
+        // const urlParams = new URLSearchParams(window.location.search);
+        // const levelValue = urlParams.get('level');
+        // const iValue = parseInt(levelValue, 10);
+        // const diffValue = urlParams.get('diff');
+
+        // document.querySelector('h2').textContent = `${diffValue} — test ${iValue}`;
+
+        const data = {
+          "passage": "<br>(1) In autumn, many trees change the color of their leaves. During spring and summer, leaves are green. This is because they have a lot of chlorophyll. Chlorophyll is a substance that helps trees make food from sunlight. It also gives leaves their green color. But in autumn, something special happens to the leaves.<br><br>(2) When autumn comes, days get shorter and there is less sunlight. Trees know that winter is coming. They stop making chlorophyll. When this happens, the green color of the leaves starts to fade away. Then we can see other colors that were in the leaves all along: yellow, orange, and red.<br><br>(3) The yellow and orange colors come from substances called carotenoids. Carotenoids are in the leaves during the whole year, but we can only see them in autumn when the green chlorophyll goes away. The red color comes from a substance called anthocyanin. Trees make this substance in autumn when it is sunny during the day but cold at night.<br><br>(4) Different types of trees have different autumn colors. Maple trees often turn bright red. Oak trees usually turn brown or red. Birch trees turn yellow. The most beautiful autumn colors appear when there are many sunny days and cool nights. After the leaves change color, they fall from the trees. This is why autumn is also called 'fall' in some countries.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Choose the correct form of the verb: 'She _____ breakfast every morning.'",
+              "options": {
+                "A": "have",
+                "B": "having",
+                "C": "has",
+                "D": "had"
+              },
+              "correct_answer": "C",
+              "category": "Grammar"
+            },
+            {
+              "id": 2,
+              "question": "Select the correct preposition: 'The book is _____ the table.'",
+              "options": {
+                "A": "on",
+                "B": "in",
+                "C": "at",
+                "D": "from"
+              },
+              "correct_answer": "A",
+              "category": "Grammar"
+            },
+            {
+              "id": 3,
+              "question": "Choose the correct article: 'I saw _____ elephant at the zoo.'",
+              "options": {
+                "A": "a",
+                "B": "an",
+                "C": "the",
+                "D": "no article"
+              },
+              "correct_answer": "B",
+              "category": "Grammar"
+            },
+            {
+              "id": 4,
+              "question": "Select the correct past tense form: 'Last week, we _____ to the beach.'",
+              "options": {
+                "A": "want",
+                "B": "went",
+                "C": "won't",
+                "D": "were"
+              },
+              "correct_answer": "B",
+              "category": "Grammar"
+            },
+            {
+              "id": 5,
+              "question": "Choose the correct plural form: 'I have two _____ in my pocket.'",
+              "options": {
+                "A": "watchs",
+                "B": "watch",
+                "C": "watches",
+                "D": "watchies"
+              },
+              "correct_answer": "C",
+              "category": "Grammar"
+            },
+            {
+              "id": 6,
+              "question": "Select the correct form of the verb 'to be': 'They _____ students.'",
+              "options": {
+                "A": "is",
+                "B": "am",
+                "C": "are",
+                "D": "be"
+              },
+              "correct_answer": "C",
+              "category": "Grammar"
+            },
+            {
+              "id": 7,
+              "question": "Choose the correct possessive form: '_____ car is red.'",
+              "options": {
+                "A": "She",
+                "B": "Her",
+                "C": "Hers",
+                "D": "She's"
+              },
+              "correct_answer": "B",
+              "category": "Grammar"
+            },
+            {
+              "id": 8,
+              "question": "Select the correct form: 'I _____ like coffee.'",
+              "options": {
+                "A": "don't",
+                "B": "doesn't",
+                "C": "not",
+                "D": "am not"
+              },
+              "correct_answer": "A",
+              "category": "Grammar"
+            },
+            {
+              "id": 9,
+              "question": "Choose the correct question word: '_____ is your name?'",
+              "options": {
+                "A": "What",
+                "B": "Where",
+                "C": "When",
+                "D": "Who"
+              },
+              "correct_answer": "A",
+              "category": "Grammar"
+            },
+            {
+              "id": 10,
+              "question": "Select the correct comparative form: 'This house is _____ than that one.'",
+              "options": {
+                "A": "big",
+                "B": "bigger",
+                "C": "biggest",
+                "D": "more big"
+              },
+              "correct_answer": "B",
+              "category": "Grammar"
+            },
+            {
+              "id": 11,
+              "question": "Choose the correct form: 'He _____ YouTube right now.'",
+              "options": {
+                "A": "watches",
+                "B": "watch",
+                "C": "watching",
+                "D": "is watching"
+              },
+              "correct_answer": "D",
+              "category": "Grammar"
+            },
+            {
+              "id": 12,
+              "question": "Select the correct modal verb: 'You _____ drink water every day.'",
+              "options": {
+                "A": "should",
+                "B": "would",
+                "C": "have",
+                "D": "ought"
+              },
+              "correct_answer": "A",
+              "category": "Grammar"
+            },
+            {
+              "id": 13,
+              "question": "Choose the correct future form: 'I _____ a doctor when I grow up.'",
+              "options": {
+                "A": "am going to be",
+                "B": "will be",
+                "C": "am being",
+                "D": "will being"
+              },
+              "correct_answer": "B",
+              "category": "Grammar"
+            },
+            {
+              "id": 14,
+              "question": "Select the correct word order: '_____ ?'",
+              "options": {
+                "A": "Where you are going",
+                "B": "Where are you going",
+                "C": "You are going where",
+                "D": "You where are going"
+              },
+              "correct_answer": "B",
+              "category": "Grammar"
+            },
+            {
+              "id": 15,
+              "question": "Choose the correct form: 'I have _____ this book.'",
+              "options": {
+                "A": "already read",
+                "B": "read already",
+                "C": "already readed",
+                "D": "readed already"
+              },
+              "correct_answer": "A",
+              "category": "Grammar"
+            },
+            {
+              "id": 16,
+              "question": "Select the correct response to 'How are you?'",
+              "options": {
+                "A": "I am already.",
+                "B": "I am fine.",
+                "C": "I am on time.",
+                "D": "I am tall."
+              },
+              "correct_answer": "B",
+              "category": "Use of English"
+            },
+            {
+              "id": 17,
+              "question": "Choose the appropriate greeting for sunrise:",
+              "options": {
+                "A": "Good night",
+                "B": "Good evening",
+                "C": "Good afternoon",
+                "D": "Good morning"
+              },
+              "correct_answer": "D",
+              "category": "Use of English"
+            },
+            {
+              "id": 18,
+              "question": "Select the correct way to ask for someone's name:",
+              "options": {
+                "A": "Who are you called?",
+                "B": "How do you call?",
+                "C": "What is your name?",
+                "D": "How is your name?"
+              },
+              "correct_answer": "C",
+              "category": "Use of English"
+            },
+            {
+              "id": 19,
+              "question": "Choose the correct response to 'Thank you':",
+              "options": {
+                "A": "You're welcome",
+                "B": "I'm fine",
+                "C": "Thanks good",
+                "D": "Your pleasure"
+              },
+              "correct_answer": "A",
+              "category": "Use of English"
+            },
+            {
+              "id": 20,
+              "question": "Select the correct phrase to ask for help:",
+              "options": {
+                "A": "I am help you.",
+                "B": "Can you help me?",
+                "C": "Help is good.",
+                "D": "You help me?"
+              },
+              "correct_answer": "B",
+              "category": "Use of English"
+            },
+            {
+              "id": 21,
+              "question": "Choose the correct way to ask for the price:",
+              "options": {
+                "A": "How cost is this?",
+                "B": "What is cost?",
+                "C": "How much is this?",
+                "D": "What price is?"
+              },
+              "correct_answer": "C",
+              "category": "Use of English"
+            },
+            {
+              "id": 22,
+              "question": "Select the correct phrase to introduce yourself:",
+              "options": {
+                "A": "My name is John.",
+                "B": "I call John.",
+                "C": "Me John.",
+                "D": "John is mine name."
+              },
+              "correct_answer": "A",
+              "category": "Use of English"
+            },
+            {
+              "id": 23,
+              "question": "Choose the correct way to ask for the time:",
+              "options": {
+                "A": "What is time?",
+                "B": "What time is it?",
+                "C": "How is the time?",
+                "D": "When is the time?"
+              },
+              "correct_answer": "B",
+              "category": "Use of English"
+            },
+            {
+              "id": 24,
+              "question": "Select the correct phrase to make a suggestion:",
+              "options": {
+                "A": "We go to the cinema.",
+                "B": "Let's go to the cinema.",
+                "C": "I suggestion cinema.",
+                "D": "Cinema we go."
+              },
+              "correct_answer": "B",
+              "category": "Use of English"
+            },
+            {
+              "id": 25,
+              "question": "Choose the correct way to ask about location:",
+              "options": {
+                "A": "Where is the bank?",
+                "B": "When is the bank?",
+                "C": "What is the bank?",
+                "D": "Who is the bank?"
+              },
+              "correct_answer": "A",
+              "category": "Use of English"
+            },
+            {
+              "id": 26,
+              "question": "Which part of your body can you use to wave hello?",
+              "options": {
+                "A": "Leg",
+                "B": "Head",
+                "C": "Arm",
+                "D": "Stomach"
+              },
+              "correct_answer": "C",
+              "category": "Vocabulary"
+            },
+            {
+              "id": 27,
+              "question": "What is a 'plane'?",
+              "options": {
+                "A": "A green valley",
+                "B": "A flying vehicle",
+                "C": "A musical instrument",
+                "D": "A tall building"
+              },
+              "correct_answer": "B",
+              "category": "Vocabulary"
+            },
+            {
+              "id": 28,
+              "question": "What do you use a 'key' for?",
+              "options": {
+                "A": "To open a door",
+                "B": "To cut paper",
+                "C": "To write a letter",
+                "D": "To cook food"
+              },
+              "correct_answer": "A",
+              "category": "Vocabulary"
+            },
+            {
+              "id": 29,
+              "question": "When you 'pay' for something, you:",
+              "options": {
+                "A": "Break it",
+                "B": "Sell it",
+                "C": "Buy it",
+                "D": "Return it"
+              },
+              "correct_answer": "C",
+              "category": "Vocabulary"
+            },
+            {
+              "id": 30,
+              "question": "What is a 'society'?",
+              "options": {
+                "A": "A group of plants",
+                "B": "A group of people",
+                "C": "A group of animals",
+                "D": "A group of objects"
+              },
+              "correct_answer": "B",
+              "category": "Vocabulary"
+            },
+            {
+              "id": 31,
+              "question": "What do you use a 'stamp' for?",
+              "options": {
+                "A": "To send a letter",
+                "B": "To clean a window",
+                "C": "To cook a dinner",
+                "D": "To fix a car"
+              },
+              "correct_answer": "A",
+              "category": "Vocabulary"
+            },
+            {
+              "id": 32,
+              "question": "When you 'compare' two things, you:",
+              "options": {
+                "A": "Put them apart",
+                "B": "Find differences",
+                "C": "Break them into four",
+                "D": "Navigate using them"
+              },
+              "correct_answer": "B",
+              "category": "Vocabulary"
+            },
+            {
+              "id": 33,
+              "question": "What are 'bright dots in the sky'?",
+              "options": {
+                "A": "stars",
+                "B": "lamps",
+                "C": "lights",
+                "D": "shines"
+              },
+              "correct_answer": "A",
+              "category": "Vocabulary"
+            },
+            {
+              "id": 34,
+              "question": "When you 'keep' something, you:",
+              "options": {
+                "A": "Throw it",
+                "B": "Put it",
+                "C": "Give it",
+                "D": "Hold it"
+              },
+              "correct_answer": "D",
+              "category": "Vocabulary"
+            },
+            {
+              "id": 35,
+              "question": "If an animal is 'wild', it:",
+              "options": {
+                "A": "Lives in a zoo",
+                "B": "Lives in nature",
+                "C": "Lives in a house",
+                "D": "Lives in captivity"
+              },
+              "correct_answer": "B",
+              "category": "Vocabulary"
+            },
+            {
+              "id": 36,
+              "question": "When you want someone to understand something, you:",
+              "options": {
+                "A": "Confuse",
+                "B": "Explain",
+                "C": "Exchange",
+                "D": "Contribute"
+              },
+              "correct_answer": "B",
+              "category": "Vocabulary"
+            },
+            {
+              "id": 37,
+              "question": "If something is 'hard', it is:",
+              "options": {
+                "A": "Strong and firm",
+                "B": "Cold and wet",
+                "C": "Big and round",
+                "D": "Fast and loud"
+              },
+              "correct_answer": "A",
+              "category": "Vocabulary"
+            },
+            {
+              "id": 38,
+              "question": "When you 'enter' a room, you:",
+              "options": {
+                "A": "Leave it",
+                "B": "Sleep in it",
+                "C": "Go into it",
+                "D": "Clean it"
+              },
+              "correct_answer": "C",
+              "category": "Vocabulary"
+            },
+            {
+              "id": 39,
+              "question": "If there are 'various' types of food, there are:",
+              "options": {
+                "A": "Few types",
+                "B": "Many types",
+                "C": "No types",
+                "D": "Only one type"
+              },
+              "correct_answer": "B",
+              "category": "Vocabulary"
+            },
+            {
+              "id": 40,
+              "question": "If something is 'expensive', it:",
+              "options": {
+                "A": "Costs a lot",
+                "B": "Costs a little",
+                "C": "Has no price",
+                "D": "Is free"
+              },
+              "correct_answer": "A",
+              "category": "Vocabulary"
+            },
+            {
+              "id": 41,
+              "question": "According to paragraph 1, why are leaves green in spring and summer?",
+              "options": {
+                "A": "Because of carotenoids",
+                "B": "Because of anthocyanin",
+                "C": "Because of chlorophyll",
+                "D": "Because of the sun"
+              },
+              "correct_answer": "C",
+              "category": "Reading"
+            },
+            {
+              "id": 42,
+              "question": "What happens to the days when autumn comes?",
+              "options": {
+                "A": "They get longer",
+                "B": "They get shorter",
+                "C": "They stay the same",
+                "D": "They get warmer"
+              },
+              "correct_answer": "B",
+              "category": "Reading"
+            },
+            {
+              "id": 43,
+              "question": "According to paragraph 2, what do trees do when autumn comes?",
+              "options": {
+                "A": "They make more chlorophyll",
+                "B": "They stop making chlorophyll",
+                "C": "They make more leaves",
+                "D": "They grow taller"
+              },
+              "correct_answer": "B",
+              "category": "Reading"
+            },
+            {
+              "id": 44,
+              "question": "What colors can we see when the green color fades away?",
+              "options": {
+                "A": "Blue, green, and purple",
+                "B": "Red, blue, and pink",
+                "C": "Yellow, orange, and red",
+                "D": "White, black, and brown"
+              },
+              "correct_answer": "C",
+              "category": "Reading"
+            },
+            {
+              "id": 45,
+              "question": "According to paragraph 3, what gives leaves their yellow and orange colors?",
+              "options": {
+                "A": "Chlorophyll",
+                "B": "Carotenoids",
+                "C": "Anthocyanin",
+                "D": "Sunlight"
+              },
+              "correct_answer": "B",
+              "category": "Reading"
+            },
+            {
+              "id": 46,
+              "question": "When do trees make anthocyanin?",
+              "options": {
+                "A": "In winter",
+                "B": "In summer",
+                "C": "In spring",
+                "D": "In autumn"
+              },
+              "correct_answer": "D",
+              "category": "Reading"
+            },
+            {
+              "id": 47,
+              "question": "According to paragraph 4, what color do maple trees often turn?",
+              "options": {
+                "A": "Yellow",
+                "B": "Brown",
+                "C": "Red",
+                "D": "Orange"
+              },
+              "correct_answer": "C",
+              "category": "Reading"
+            },
+            {
+              "id": 48,
+              "question": "When do the most beautiful autumn colors appear?",
+              "options": {
+                "A": "When there are rainy days",
+                "B": "When there are sunny days and cool nights",
+                "C": "When there are cold days and warm nights",
+                "D": "When there is lots of snow"
+              },
+              "correct_answer": "B",
+              "category": "Reading"
+            },
+            {
+              "id": 49,
+              "question": "According to the passage, why is autumn also called 'fall' in some countries?",
+              "options": {
+                "A": "Because people fall down more often",
+                "B": "Because the temperature falls",
+                "C": "Because leaves fall from the trees",
+                "D": "Because it comes before winter"
+              },
+              "correct_answer": "C",
+              "category": "Reading"
+            },
+            {
+              "id": 50,
+              "question": "What is the main idea of this passage?",
+              "options": {
+                "A": "Why autumn is a cold season",
+                "B": "Why leaves change color in autumn",
+                "C": "Why trees grow in autumn",
+                "D": "Why autumn is called 'fall'"
+              },
+              "correct_answer": "B",
+              "category": "Reading"
+            }
+          ]
+        };
+
+                const passageText = data.passage;
+                const questions = data.questions;
+
+                const form = document.getElementById("quizForm");
+                let passageAdded = false; // Initialize passageAdded to false
+
+                questions.forEach((q, index) => {
+                    // Add passage before question 41
+                    if (q.id === 41 && !passageAdded) {
+                        const passageDiv = document.createElement("div");
+                        passageDiv.classList.add("passage");
+                        passageDiv.innerHTML = `<strong>Reading Passage:</strong><br>${passageText}`;
+                        form.appendChild(passageDiv); // Append passage to the form *before* question 41
+                        passageAdded = true; // Set passageAdded to true so it's not added again
+                    }
+
+                    console.log("Processing Question:", q.id);
+
+                    const questionDiv = document.createElement("div");
+                    questionDiv.classList.add("question");
+
+                    const questionText = document.createElement("p");
+                    questionText.innerHTML = `<strong>${index + 1}. ${q.question}</strong>`;
+                    questionDiv.appendChild(questionText);
+
+                    Object.entries(q.options).forEach(([key, value]) => {
+                        const input = document.createElement("input");
+                        input.type = "radio";
+                        input.name = `q${q.id}`;
+                        input.value = key;
+
+                        const label = document.createElement("label");
+                        label.innerHTML = ` ${key}) ${value}<br>`;
+
+                        questionDiv.appendChild(input);
+                        questionDiv.appendChild(label);
+                    });
+
+                    form.appendChild(questionDiv);
+                });
+
+                document.getElementById("submitBtn").addEventListener("click", function(event) {
+                    event.preventDefault();
+
+                    let score = 0;
+                    let total = questions.length;
+                    let resultText = "<h3>Results:</h3>";
+
+                    questions.forEach(q => {
+                        let selected = document.querySelector(`input[name="q${q.id}"]:checked`);
+                        if (selected) {
+                            if (selected.value === q.correct_answer) {
+                                score++;
+                                resultText += `<p>Question ${q.id}: Correct ✅</p>`;
+                            } else {
+                                resultText += `<p>Question ${q.id}: Incorrect ❌ (Correct: ${q.correct_answer})</p>`;
+                            }
+                        } else {
+                            resultText += `<p>Question ${q.id}: No answer selected ❌ (Correct: ${q.correct_answer})</p>`;
+                        }
+                    });
+
+                    resultText += `<p><strong>Your Score: ${score} / ${total}</strong></p>`;
+                    document.getElementById("result").innerHTML = resultText;
+                    
+                    // Show score display
+                    const scoreDisplay = document.getElementById("scoreDisplay");
+                    scoreDisplay.style.display = "block";
+                    document.getElementById("scoreValue").textContent = score;
+                    document.getElementById("totalQuestions").textContent = total;
+                    
+                    // Update progress bar
+                    const percentage = Math.round((score / total) * 100);
+                    const progressBar = document.getElementById("progressBar");
+                    progressBar.style.width = `${percentage}%`;
+                    progressBar.textContent = `${percentage}%`;
+                    
+                    // Color code the progress bar
+                    if (score < 30) {
+                        progressBar.style.backgroundColor = "#dc3545"; // Red
+                    } else if (score < 43) {
+                        progressBar.style.backgroundColor = "#ffc107"; // Yellow
+                    } else {
+                        progressBar.style.backgroundColor = "#28a745"; // Green
+                    }
+                    
+                    // Save the score in localStorage
+                    // Get the current test level from URL
+                    const testLevel = 1;
+                    const diffLevel = A1;
+                    
+                    // Create a unique key for this test
+                    const testKey = `${diffLevel}-test-${testLevel}`;
+                    
+                    // Save the score
+                    localStorage.setItem(testKey, score);
+                });
+
+        // fetch(`json/${diffValue}/test${iValue}.json`) // Path to your JSON file
+        //     .then(response => {
+        //         console.log("Response Status:", response.status);
+        //         return response.json();
+        //     })
+        //     .then(data => {
+        //         console.log("JSON Data:", data);
+
+                
+        //     })
+        //     .catch(error => {
+        //         console.error('Error loading questions:', error);
+        //         console.error("Fetch Error Details:", error);
+        //     });
+    </script>
+    <footer class="footer">
+    <div class="footer-content">
+        <p>© Copyright 2025</p>
+        <p><a href="mailto:info@englishtests.online" class="footer-email">info@englishtests.online</a></p>
+        <p>All rights reserved</p>        
+        <p class="footer-made">Made by <a href="https://play.google.com/store/apps/dev?id=5093525609695433503" class="footer-email">KubiKDB</a></p>
+    </div>
+    </footer>
+</body>
+</html>
