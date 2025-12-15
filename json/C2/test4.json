@@ -5,22 +5,22 @@
       "id": 1,
       "question": "Select the sentence that correctly uses inversion:",
       "options": {
-        "A": "Never I have seen such a magnificent sunset.",
-        "B": "Not only did she win the competition, but she also broke the record.",
+        "A": "Not only did she win the competition, but she also broke the record.",
+        "B": "Never I have seen such a magnificent sunset.",
         "C": "Under no circumstances we should compromise on quality.",
         "D": "Seldom the train arrives on time during winter months."
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 2,
       "question": "Which sentence contains a correctly used prepositional phrase?",
       "options": {
-        "A": "The children were excited for going to the museum.",
-        "B": "She succeeded despite of the numerous obstacles.",
+        "A": "Upon arrival the children were excited for going to the museum.",
+        "B": "Nevertheless, she succeeded despite of the numerous obstacles.",
         "C": "In accordance with the new regulations, all visitors must register online.",
-        "D": "The research was conducted with the view of finding a cure."
+        "D": "After all, the research was conducted with the view of finding a cure."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -41,7 +41,7 @@
       "id": 4,
       "question": "Select the sentence that correctly uses the future in the past:",
       "options": {
-        "A": "She said that she will attend the conference next week.",
+        "A": "She said that she will attend the conference during next week.",
         "B": "I was certain that the project would be completed by December.",
         "C": "They had promised they will deliver the goods on Friday.",
         "D": "We hoped the weather will improve for the outdoor event."
@@ -113,8 +113,8 @@
       "id": 10,
       "question": "Select the sentence that correctly demonstrates the perfect aspect:",
       "options": {
-        "A": "By next month, I will be working at this company for ten years.",
-        "B": "I have been waiting for three hours when she finally arrived.",
+        "A": "By next month, I will be working at this company for at least ten years.",
+        "B": "I have been waiting for three hours when she finally arrived to restaurant.",
         "C": "By the time the guests arrive, I will have been cooking for six hours.",
         "D": "She has completed the course since last year."
       },
@@ -140,7 +140,7 @@
         "A": "She said that she has already submitted the application.",
         "B": "He told me that he will attend the ceremony next week.",
         "C": "They announced that the train is delayed by two hours.",
-        "D": "The professor explained that water boiled at 100 degrees Celsius."
+        "D": "The professor explained that water boiled at 100 degrees."
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -150,7 +150,7 @@
       "question": "Which sentence correctly uses a phrasal verb with a different meaning than its literal components suggest?",
       "options": {
         "A": "The detective will look into the mysterious disappearance.",
-        "B": "Please put down your bag on the table.",
+        "B": "Please put down your bag on the table before entering the room.",
         "C": "They walked up the stairs to the third floor.",
         "D": "She turned around to see who called her name."
       },
@@ -161,10 +161,10 @@
       "id": 14,
       "question": "Select the sentence that correctly uses an advanced reporting verb:",
       "options": {
-        "A": "She said to be careful on the icy road.",
-        "B": "He told that the meeting was canceled.",
+        "A": "She said to be careful on the icy road while driving her Mustang.",
+        "B": "He told that the meeting was canceled due to the deleyed fligth.",
         "C": "The witness alleged that she had seen the suspect at the crime scene.",
-        "D": "They complained they were treated unfairly."
+        "D": "They complained that they were treated unfairly in that court decision."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -183,7 +183,7 @@
     },
     {
       "id": 16,
-      "question": "Choose the most suitable word to complete this sentence: \"Despite his usually _____ demeanor, the CEO became quite animated during the discussion about the new product line.\"",
+      "question": "Choose the most suitable word to complete this sentence: 'Despite his usually _____ demeanor, the CEO became quite animated during the discussion about the new product line.'",
       "options": {
         "A": "vivacious",
         "B": "phlegmatic",
@@ -195,7 +195,7 @@
     },
     {
       "id": 17,
-      "question": "Select the word that best fits in this sentence: \"The once-prosperous industrial town had fallen into a _____ state of decay and moral corruption.\"",
+      "question": "Select the word that best fits in this sentence: 'The once-prosperous industrial town had fallen into a _____ state of decay and moral corruption.'",
       "options": {
         "A": "pristine",
         "B": "sanctimonious",
@@ -207,7 +207,7 @@
     },
     {
       "id": 18,
-      "question": "Which word best completes this sentence? \"The normally confident speaker appeared _____ as she approached the podium, her hands visibly shaking as she arranged her notes.\"",
+      "question": "Which word best completes this sentence? 'The normally confident speaker appeared _____ as she approached the podium, her hands visibly shaking as she arranged her notes.'",
       "options": {
         "A": "dauntless",
         "B": "imperturbable",
@@ -219,7 +219,7 @@
     },
     {
       "id": 19,
-      "question": "Choose the word that best fits in this context: \"His _____ remarks were delivered with such charm and fluency that few in the audience noticed how little substance they contained.\"",
+      "question": "Choose the word that best fits in this context: 'His _____ remarks were delivered with such charm and fluency that few in the audience noticed how little substance they contained.'",
       "options": {
         "A": "glib",
         "B": "laconic",
@@ -231,7 +231,7 @@
     },
     {
       "id": 20,
-      "question": "Select the most appropriate word to complete this sentence: \"The politician's decision to openly _____ international trade agreements drew criticism from diplomats worldwide.\"",
+      "question": "Select the most appropriate word to complete this sentence: 'The politician's decision to openly _____ international trade agreements drew criticism from diplomats worldwide.'",
       "options": {
         "A": "uphold",
         "B": "venerate",
@@ -243,7 +243,7 @@
     },
     {
       "id": 21,
-      "question": "Choose the most fitting word for this sentence: \"The company's _____ position enabled it to weather the economic downturn more successfully than its heavily indebted competitors.\"",
+      "question": "Choose the most fitting word for this sentence: 'The company's _____ position enabled it to weather the economic downturn more successfully than its heavily indebted competitors.'",
       "options": {
         "A": "insolvent",
         "B": "precarious",
@@ -255,7 +255,7 @@
     },
     {
       "id": 22,
-      "question": "Which word best completes this sentence? \"The new employee impressed everyone with her quick-witted _____ during the otherwise tense meeting.\"",
+      "question": "Which word best completes this sentence? 'The new employee impressed everyone with her quick-witted _____ during the otherwise tense meeting.'",
       "options": {
         "A": "soliloquy",
         "B": "repartee",
@@ -267,7 +267,7 @@
     },
     {
       "id": 23,
-      "question": "Select the most appropriate word for this context: \"The use of typewriters in the modern office environment seemed _____ until the power outage rendered all computers unusable.\"",
+      "question": "Select the most appropriate word for this context: 'The use of typewriters in the modern office environment seemed _____ until the power outage rendered all computers unusable.'",
       "options": {
         "A": "contemporary",
         "B": "innovative",
@@ -279,7 +279,7 @@
     },
     {
       "id": 24,
-      "question": "Choose the word that best fits in this sentence: \"The historian decided to _____ the ancient manuscripts to find evidence supporting her controversial theory.\"",
+      "question": "Choose the word that best fits in this sentence: 'The historian decided to _____ the ancient manuscripts to find evidence supporting her controversial theory.'",
       "options": {
         "A": "disregard",
         "B": "peruse",
@@ -291,7 +291,7 @@
     },
     {
       "id": 25,
-      "question": "Which word best completes this sentence? \"After the scandal, he became a _____ in the business community, shunned by former colleagues and denied entry to the social clubs he once frequented.\"",
+      "question": "Which word best completes this sentence? 'After the scandal, he became a _____ in the business community, shunned by former colleagues and denied entry to the social clubs he once frequented.'",
       "options": {
         "A": "virtuoso",
         "B": "luminary",
@@ -303,19 +303,19 @@
     },
     {
       "id": 26,
-      "question": "Select the word that best fits this context: \"His _____ voice echoed through the empty crypt, sending chills down the spines of the few visitors present.\"",
+      "question": "Select the word that best fits this context: 'His _____ voice echoed through the empty crypt, sending chills down the spines of the few visitors present.'",
       "options": {
-        "A": "mellifluous",
+        "A": "sepulchral",
         "B": "strident",
-        "C": "sepulchral",
+        "C": "mellifluous",
         "D": "euphonious"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 27,
-      "question": "Choose the most appropriate word for this sentence: \"His comment was particularly _____ to the ongoing discussion about educational reform.\"",
+      "question": "Choose the most appropriate word for this sentence: 'His comment was particularly _____ to the ongoing discussion about educational reform.'",
       "options": {
         "A": "irrelevant",
         "B": "apposite",
@@ -327,19 +327,19 @@
     },
     {
       "id": 28,
-      "question": "Which word best completes this sentence? \"The diplomat's explanation was needlessly _____, repeating the same concept using different words without adding any new information.\"",
+      "question": "Which word best completes this sentence? 'The diplomat's explanation was needlessly _____, repeating the same concept using different words without adding any new information.'",
       "options": {
         "A": "laconic",
-        "B": "succinct",
-        "C": "tautological",
-        "D": "coherent"
+        "B": "coherent",
+        "C": "succinct",
+        "D": "tautological"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 29,
-      "question": "Select the most appropriate word for this context: \"The investigation followed a _____ path through a labyrinth of corporate entities, offshore accounts, and shell companies.\"",
+      "question": "Select the most appropriate word for this context: 'The investigation followed a _____ path through a labyrinth of corporate entities, offshore accounts, and shell companies.'",
       "options": {
         "A": "tortuous",
         "B": "straightforward",
@@ -351,7 +351,7 @@
     },
     {
       "id": 30,
-      "question": "Choose the word that best completes this sentence: \"The young researcher appeared _____ when presenting her findings to the panel of distinguished scientists.\"",
+      "question": "Choose the word that best completes this sentence: 'The young researcher appeared _____ when presenting her findings to the panel of distinguished scientists.'",
       "options": {
         "A": "audacious",
         "B": "resolute",
@@ -363,7 +363,7 @@
     },
     {
       "id": 31,
-      "question": "Select the most appropriate phrase to complete this sentence: \"The committee _____ the proposal after discovering several critical flaws.\"",
+      "question": "Select the most appropriate phrase to complete this sentence: 'The committee _____ the proposal after discovering several critical flaws.'",
       "options": {
         "A": "turned down",
         "B": "turned in",
@@ -375,7 +375,7 @@
     },
     {
       "id": 32,
-      "question": "Choose the appropriate idiomatic expression: \"After years of struggling as an unknown artist, her latest exhibition has really _____.\"",
+      "question": "Choose the appropriate idiomatic expression: 'After years of struggling as an unknown artist, her latest exhibition has really _____.'",
       "options": {
         "A": "hit the roof",
         "B": "hit the nail on the head",
@@ -387,11 +387,11 @@
     },
     {
       "id": 33,
-      "question": "Select the correct collocation to complete this sentence: \"The new evidence _____ serious doubts about the defendant's guilt.\"",
+      "question": "Select the correct collocation to complete this sentence: 'The new evidence _____ serious doubts about the defendant's guilt.'",
       "options": {
         "A": "cast",
         "B": "made",
-        "C": "put",
+        "C": "case",
         "D": "set"
       },
       "correct_answer": "A",
@@ -399,7 +399,7 @@
     },
     {
       "id": 34,
-      "question": "Choose the most appropriate transitional phrase: \"The company's profits increased by 15%; _____, employee bonuses were reduced.\"",
+      "question": "Choose the most appropriate transitional phrase: 'The company's profits increased by 15%; _____, employee bonuses were reduced.'",
       "options": {
         "A": "consequently",
         "B": "therefore",
@@ -411,7 +411,7 @@
     },
     {
       "id": 35,
-      "question": "Select the most appropriate formal alternative for the underlined expression: \"The government needs to LOOK INTO this issue immediately.\"",
+      "question": "Select the most appropriate formal alternative for the underlined expression: 'The government needs to LOOK INTO this issue immediately.'",
       "options": {
         "A": "investigate",
         "B": "glimpse",
@@ -423,10 +423,10 @@
     },
     {
       "id": 36,
-      "question": "Choose the correct hedging language to complete this formal academic sentence: \"The results _____ that the treatment is effective, but further research is necessary.\"",
+      "question": "Choose the correct hedging language to complete this formal academic sentence: 'The results _____ that the treatment is effective, but further research is necessary.'",
       "options": {
         "A": "definitely prove",
-        "B": "suggest",
+        "B": "can suggest",
         "C": "show beyond doubt",
         "D": "make it obvious"
       },
@@ -435,7 +435,7 @@
     },
     {
       "id": 37,
-      "question": "Select the most precise word to complete this sentence: \"The diplomat's response was deliberately _____, avoiding any clear position on the controversial issue.\"",
+      "question": "Select the most precise word to complete this sentence: 'The diplomat's response was deliberately _____, avoiding any clear position on the controversial issue.'",
       "options": {
         "A": "ambiguous",
         "B": "unclear",
@@ -447,7 +447,7 @@
     },
     {
       "id": 38,
-      "question": "Choose the most appropriate binomial phrase: \"The agreement was declared null and _____ after evidence of fraud emerged.\"",
+      "question": "Choose the most appropriate binomial phrase: 'The agreement was declared null and _____ after evidence of fraud emerged.'",
       "options": {
         "A": "invalid",
         "B": "void",
@@ -459,7 +459,7 @@
     },
     {
       "id": 39,
-      "question": "Select the correct fixed expression: \"_____ recent developments, we need to revise our strategy.\"",
+      "question": "Select the correct fixed expression: '_____ recent developments, we need to revise our strategy.'",
       "options": {
         "A": "In light of",
         "B": "In view to",
@@ -471,12 +471,12 @@
     },
     {
       "id": 40,
-      "question": "Choose the most appropriate expression to complete this formal statement: \"The board wishes to _____ its appreciation for the staff's dedication during this challenging period.\"",
+      "question": "Choose the most appropriate expression to complete this formal statement: 'The board wishes to _____ its appreciation for the staff's dedication during this challenging period.'",
       "options": {
-        "A": "tell",
+        "A": "devolve",
         "B": "convey",
-        "C": "say",
-        "D": "speak"
+        "C": "depute",
+        "D": "charge"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -485,10 +485,10 @@
       "id": 41,
       "question": "According to paragraph 1, what distinguished Susan B. Anthony from many of her contemporaries?",
       "options": {
-        "A": "Her focus exclusively on voting rights",
+        "A": "Her focus exclusively on voting rights that was truly fundamental to other people",
         "B": "Her Quaker upbringing in Massachusetts",
         "C": "Her recognition that political enfranchisement was fundamental to other reforms",
-        "D": "Her unwillingness to face ridicule and arrest"
+        "D": "Her unwillingness to face ridicule and arrest despite her being fearless"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -498,7 +498,7 @@
       "question": "The passage suggests that Anthony's partnership with Elizabeth Cady Stanton was characterized by:",
       "options": {
         "A": "Complete agreement on all tactical decisions",
-        "B": "Complementary skills that enhanced their effectiveness despite occasional conflicts",
+        "B": "Complementary skills that enhanced their effectiveness",
         "C": "A dominant-subordinate relationship with Anthony leading",
         "D": "A focus exclusively on publishing rather than activism"
       },
@@ -510,7 +510,7 @@
       "question": "According to paragraph 3, how did Anthony transform her 1872 illegal voting act?",
       "options": {
         "A": "By paying a significant fine that funded the suffrage movement",
-        "B": "By using her trial to articulate comprehensive arguments for women's citizenship",
+        "B": "By using her trial to articulate arguments for women's citizenship",
         "C": "By accepting the court's ruling without protest",
         "D": "By encouraging all women to vote illegally in subsequent elections"
       },
@@ -523,10 +523,10 @@
       "options": {
         "A": "Centralized leadership with all decisions made at the national level",
         "B": "Reliance solely on charismatic leadership without institutional structures",
-        "C": "A decentralized network of local and state societies with national coordination",
-        "D": "Avoiding media engagement to prevent hostile coverage"
+        "C": "Avoiding media engagement to prevent hostile coverage by biased journalists",
+        "D": "A decentralized network of local and state societies with national coordination"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -534,7 +534,7 @@
       "question": "The word 'permeates' in paragraph 5 most closely means:",
       "options": {
         "A": "Contradicts",
-        "B": "Spreads throughout",
+        "B": "Spreads",
         "C": "Diminishes",
         "D": "Obscures"
       },
@@ -545,10 +545,10 @@
       "id": 46,
       "question": "According to the passage, modern scholarly critiques of Anthony's work focus on:",
       "options": {
-        "A": "Her failure to achieve voting rights in her lifetime",
-        "B": "Her limited understanding of political strategy",
+        "A": "Her failure to achieve voting rights for women in her lifetime",
+        "B": "Her limited understanding of political and economic strategies",
         "C": "The racial and class limitations in early suffragist approaches",
-        "D": "Her conflicts with Elizabeth Cady Stanton"
+        "D": "Her conflicts with Elizabeth Cady Stanton about voting rights"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -557,10 +557,10 @@
       "id": 47,
       "question": "The passage characterizes today's intersectional feminist movements as:",
       "options": {
-        "A": "Completely rejecting Anthony's approaches",
+        "A": "Completely rejecting Anthony's approaches due to its incompetency",
         "B": "Building upon Anthony's work while expanding beyond its limitations",
-        "C": "Identical to Anthony's original vision",
-        "D": "Unrelated to the historical suffrage movement"
+        "C": "Identical to Anthony's original vision about women's voting rights",
+        "D": "Unrelated to the historical suffrage movement though being progressive"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -569,21 +569,21 @@
       "id": 48,
       "question": "Which of the following best describes Anthony's approach to activism according to the passage?",
       "options": {
-        "A": "Idealistic but impractical",
-        "B": "Strategically pragmatic with a focus on long-term goals",
+        "A": "Strategically pragmatic with a focus on long-term goals",
+        "B": "Idealistic but impractical in those circumstances",
         "C": "Primarily focused on personal recognition",
         "D": "Avoiding controversial positions to maintain popularity"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Reading"
     },
     {
       "id": 49,
       "question": "The main purpose of this passage is to:",
       "options": {
-        "A": "Provide a strictly chronological account of Anthony's life",
-        "B": "Compare Anthony unfavorably with modern feminist leaders",
-        "C": "Analyze Anthony's strategic contributions to women's rights movements and their contemporary relevance",
+        "A": "Compare Anthony unfavorably with modern feminist leaders",
+        "B": "Provide a strictly chronological account of Anthony's life",
+        "C": "Analyze Anthony's strategic contributions to women's rights movements",
         "D": "Argue that Anthony's methods are no longer relevant to modern feminism"
       },
       "correct_answer": "C",
@@ -593,12 +593,12 @@
       "id": 50,
       "question": "What does the passage suggest about Anthony's civil disobedience in voting illegally?",
       "options": {
-        "A": "It was an impulsive act with no strategic purpose",
+        "A": "It challenged constitutional interpretations of citizenship",
         "B": "It was primarily motivated by personal recognition",
-        "C": "It deliberately challenged constitutional interpretations of citizenship",
+        "C": "It was an impulsive act with no strategic purpose",
         "D": "It was condemned by other suffragists as too radical"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Reading"
     }
   ]
