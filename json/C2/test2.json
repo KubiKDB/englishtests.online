@@ -55,8 +55,8 @@
       "options": {
         "A": "the street",
         "B": "a street",
-        "C": "streets",
-        "D": "street"
+        "C": "street",
+        "D": "streets"
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -82,7 +82,7 @@
         "C": "The suggestion of economists is",
         "D": "It would seem"
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
@@ -125,10 +125,10 @@
       "id": 11,
       "question": "If the government __________ stricter environmental policies years ago, we __________ with such severe climate issues now.",
       "options": {
-        "A": "implemented / wouldn't be dealing",
-        "B": "had implemented / wouldn't be dealing",
-        "C": "would implement / hadn't dealt",
-        "D": "would have implemented / weren't dealing"
+        "A": "implemented/wouldn't be dealing",
+        "B": "had implemented/wouldn't be dealing",
+        "C": "would implement/hadn't dealt",
+        "D": "would have implemented/weren't dealing"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -140,7 +140,7 @@
         "A": "hanging",
         "B": "hanged",
         "C": "that hangs",
-        "D": "which it hangs"
+        "D": "which hangs"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -149,10 +149,10 @@
       "id": 13,
       "question": "__________ I practice my presentation, __________ confident I become.",
       "options": {
-        "A": "The more / the most",
-        "B": "More / more",
-        "C": "The more / the more",
-        "D": "More / the more"
+        "A": "The more/the most",
+        "B": "More/more",
+        "C": "The more/the more",
+        "D": "More/the more"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -258,7 +258,7 @@
       "question": "The research findings __________ the widely held belief that personality traits remain stable throughout adulthood.",
       "options": {
         "A": "call into question",
-        "B": "bring up",
+        "B": "bring up the question",
         "C": "put forward",
         "D": "take after"
       },
@@ -291,14 +291,14 @@
     },
     {
       "id": 25,
-      "question": "The documentary __________ light on previously unknown aspects of the historical event.",
-      "options": {
-        "A": "throws",
-        "B": "sheds",
-        "C": "casts",
-        "D": "brings"
+      "question": "The board, deeply divided by the recent scandal, found itself unable to __________ a consensus on the new fiscal policy.", 
+      "options": { 
+        "A": "procure", 
+        "B": "elicit", 
+        "C": "forge", 
+        "D": "attain"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
@@ -365,7 +365,7 @@
       "id": 31,
       "question": "The film adaptation was such a __________ of the original novel that even the author disavowed any connection to it.",
       "options": {
-        "A": "homage",
+        "A": "parody",
         "B": "rendition",
         "C": "travesty",
         "D": "tribute"
@@ -497,7 +497,7 @@
       "id": 42,
       "question": "The author suggests in paragraph 2 that the use of BCIs may lead to:",
       "options": {
-        "A": "Enhanced emotional resilience in all users",
+        "A": "Enhanced emotional resilience and enhanced cognition in all users",
         "B": "Confusion about the boundaries of natural and enhanced cognition",
         "C": "Complete replacement of natural cognitive processes",
         "D": "Immediate recognition of altered self-perception"
@@ -507,12 +507,12 @@
     },
     {
       "id": 43,
-      "question": "The phrase \"commodification of human cognition\" in paragraph 3 refers to:",
+      "question": "The phrase 'commodification of human cognition' in paragraph 3 refers to:",
       "options": {
         "A": "Making cognitive enhancement affordable for everyone",
         "B": "Creating standardized cognitive abilities across populations",
         "C": "Treating human thinking processes as products that can be bought and sold",
-        "D": "Developing more efficient cognitive training programs"
+        "D": "Developing more efficient cognitive training programs affordable for everyone"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -521,17 +521,17 @@
       "id": 44,
       "question": "Which of the following best describes the current regulatory environment for BCIs according to paragraph 4?",
       "options": {
-        "A": "Comprehensive and consistent across all jurisdictions",
-        "B": "Underdeveloped and inconsistent across different regions",
+        "A": "Underdeveloped and inconsistent across different regions",
+        "B": "Comprehensive and consistent across all jurisdictions",
         "C": "Primarily focused on research applications only",
         "D": "Overly restrictive of technological innovation"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Reading"
     },
     {
       "id": 45,
-      "question": "The word \"inchoate\" in paragraph 4 most nearly means:",
+      "question": "The word 'inchoate' in paragraph 4 most nearly means:",
       "options": {
         "A": "Rigorous",
         "B": "Transparent",
@@ -546,7 +546,7 @@
       "question": "According to paragraph 5, the development of ethical frameworks for BCIs should be:",
       "options": {
         "A": "Primarily driven by technological considerations",
-        "B": "Responsive and evolving alongside technological advancements",
+        "B": "Evolving alongside technological advancements",
         "C": "Focused exclusively on protecting human values",
         "D": "Determined by a single disciplinary perspective"
       },
@@ -559,10 +559,10 @@
       "options": {
         "A": "Achieving technological perfection",
         "B": "Prohibiting certain types of neural enhancement",
-        "C": "Balancing innovation with protection of human values",
-        "D": "Limiting access to medical applications only"
+        "C": "Limiting access to medical applications only",
+        "D": "Balancing innovation with protection of human values"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
