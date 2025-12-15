@@ -10,7 +10,7 @@
         "C": "to examine",
         "D": "been examining"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
@@ -32,7 +32,7 @@
         "A": "is expected",
         "B": "expects",
         "C": "has expected",
-        "D": "was expecting"
+        "D": "was expected"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -44,7 +44,7 @@
         "A": "into",
         "B": "for",
         "C": "at",
-        "D": "around"
+        "D": "to"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -70,7 +70,7 @@
         "C": "would appear",
         "D": "has appeared"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
@@ -92,7 +92,7 @@
         "A": "many",
         "B": "sufficient",
         "C": "several",
-        "D": "fewer"
+        "D": "much"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -137,9 +137,9 @@
       "id": 12,
       "question": "The team __________ have won the championship if their star player hadn't been injured.",
       "options": {
-        "A": "would",
+        "A": "could",
         "B": "should",
-        "C": "could",
+        "C": "would",
         "D": "might"
       },
       "correct_answer": "C",
@@ -190,7 +190,7 @@
         "C": "switching",
         "D": "replacing"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -207,14 +207,14 @@
     },
     {
       "id": 18,
-      "question": "The art critic's analysis __________ light on previously overlooked aspects of the painter's technique.",
-      "options": {
-        "A": "gave",
-        "B": "shed",
-        "C": "threw",
-        "D": "cast"
+      "The newly discovered evidence serves to __________ the defendant's claim of complete innocence.", 
+      "options": { 
+        "A": "mitigate", 
+        "B": "mollify", 
+        "C": "substantiate", 
+        "D": "attenuate"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
@@ -269,12 +269,12 @@
       "id": 23,
       "question": "The government implemented stringent measures to __________ the spread of misinformation during the crisis.",
       "options": {
-        "A": "prevent",
+        "A": "curb",
         "B": "hinder",
-        "C": "curb",
+        "C": "prevent",
         "D": "stop"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Use of English"
     },
     {
@@ -331,8 +331,8 @@
       "options": {
         "A": "objective",
         "B": "neutral",
-        "C": "impartial",
-        "D": "disinterested"
+        "C": "disinterested",
+        "D": "impartial"
       },
       "correct_answer": "D",
       "category": "Vocabulary"
@@ -451,10 +451,10 @@
       "options": {
         "A": "evil",
         "B": "wicked",
-        "C": "malevolent",
-        "D": "sinister"
+        "C": "sinister",
+        "D": "malevolent"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -485,12 +485,12 @@
       "id": 41,
       "question": "According to paragraph 1, what was the primary effect of the Mongol Empire on global commerce?",
       "options": {
-        "A": "It eliminated all trade barriers between East and West",
-        "B": "It created an unprecedented commercial corridor across Eurasia",
+        "A": "It created an unprecedented commercial corridor across Eurasia",
+        "B": "It eliminated all trade barriers between East and West",
         "C": "It forced nomadic tribes to adopt agricultural practices",
         "D": "It established dominance over maritime trade routes"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Reading"
     },
     {
@@ -499,10 +499,10 @@
       "options": {
         "A": "A period of Mongol military conquests across Asia",
         "B": "The diplomatic agreements between Mongol rulers and European powers",
-        "C": "A period of relative stability under Mongol rule that facilitated trade",
-        "D": "The system of tribute payments imposed on conquered territories"
+        "C": "The system of tribute payments imposed on conquered territories",
+        "D": "A period of relative stability under Mongol rule that facilitated trade"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -522,7 +522,7 @@
       "question": "The author mentions 'caravanserais' in paragraph 2 primarily to illustrate:",
       "options": {
         "A": "The Mongols' adaptation of existing trade infrastructure",
-        "B": "The architectural achievements of the Mongol Empire",
+        "B": "The architectural and trading achievements of the Mongol Empire",
         "C": "How the Mongols facilitated trade by providing infrastructure",
         "D": "The religious diversity within Mongol territories"
       },
@@ -547,10 +547,10 @@
       "options": {
         "A": "The establishment of universities throughout the empire",
         "B": "The translation of texts into a universal Mongol language",
-        "C": "The synthesis and dissemination of medical knowledge across continents",
-        "D": "The standardization of scientific methods across different cultures"
+        "C": "The standardization of scientific methods across different cultures",
+        "D": "The synthesis and dissemination of medical knowledge across continents"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -558,7 +558,7 @@
       "question": "In paragraph 4, the spread of the bubonic plague is presented as:",
       "options": {
         "A": "A deliberate strategy by the Mongols to weaken their enemies",
-        "B": "An unintended consequence of the trade networks established by the Mongols",
+        "B": "A consequence of the trade networks established by the Mongols",
         "C": "The primary cause of the Mongol Empire's eventual collapse",
         "D": "A minor incident that had limited impact on global history"
       },
@@ -595,8 +595,8 @@
       "options": {
         "A": "His empire was both militarily successful and politically unstable",
         "B": "His conquests were brutal yet led to beneficial cultural exchanges",
-        "C": "Nomadic peoples created an empire that ultimately increased global connectivity",
-        "D": "The Mongol Empire was vast but lasted for only a short period"
+        "C": "Nomadic people created an empire that ultimately increased global connectivity",
+        "D": "The Mongol Empire was a vast structured state but it lasted for only a short period"
       },
       "correct_answer": "C",
       "category": "Reading"
