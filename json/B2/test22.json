@@ -32,14 +32,14 @@
         "A": "Neither the students nor the teacher were prepared for the exam.",
         "B": "Neither the students nor the teacher was prepared for the exam.",
         "C": "Neither the students nor the teacher are prepared for the exam.",
-        "D": "Neither the students nor the teacher have prepared for the exam."
+        "D": "Neither the students nor the teacher have been prepared for the exam."
       },
       "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 4,
-      "question": "Choose the correct form: 'The committee _____ divided on the issue.'",
+      "question": "Choose the correct form: 'The board _____ divided on the issue.'",
       "options": {
         "A": "is",
         "B": "are",
@@ -78,7 +78,7 @@
       "question": "Choose the correct option to complete the sentence: 'She insisted _____ immediately.'",
       "options": {
         "A": "that we leave",
-        "B": "that we left",
+        "B": "that we will leave",
         "C": "that we should leaving",
         "D": "that we would leave"
       },
@@ -102,7 +102,7 @@
       "question": "Select the sentence with the correct use of articles:",
       "options": {
         "A": "The honesty is a best policy.",
-        "B": "Honesty is best policy.",
+        "B": "An honesty is the best policy.",
         "C": "The honesty is best policy.",
         "D": "Honesty is the best policy."
       },
@@ -126,23 +126,23 @@
       "question": "Which sentence uses the correct preposition?",
       "options": {
         "A": "She has been working on this project since three months.",
-        "B": "She has been working on this project for three months.",
+        "B": "She has been working on this project by three months.",
         "C": "She has been working on this project during three months.",
-        "D": "She has been working on this project by three months."
+        "D": "She has been working on this project for three months."
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 12,
       "question": "Select the correct sentence:",
       "options": {
-        "A": "The data shows interesting trends.",
-        "B": "The data show interesting trends.",
+        "A": "The data show interesting trends.",
+        "B": "The data shows interesting trends.",
         "C": "The data is showing interesting trends.",
         "D": "The data showing interesting trends."
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
@@ -150,20 +150,20 @@
       "question": "Choose the correct form: 'I wish I _____ more time to complete the assignment.'",
       "options": {
         "A": "have",
-        "B": "had",
+        "B": "have had",
         "C": "would have",
-        "D": "am having"
+        "D": "had"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 14,
       "question": "Which sentence contains the correct form of the gerund?",
       "options": {
-        "A": "She avoided to talk to her ex-boyfriend at the party.",
+        "A": "She avoided to talking to her ex-boyfriend at the party.",
         "B": "She avoided talking to her ex-boyfriend at the party.",
-        "C": "She avoided talk to her ex-boyfriend at the party.",
+        "C": "She avoided of talking to her ex-boyfriend at the party.",
         "D": "She avoided that she talked to her ex-boyfriend at the party."
       },
       "correct_answer": "B",
@@ -174,11 +174,11 @@
       "question": "Select the sentence with correct subject-verb agreement:",
       "options": {
         "A": "Each of the students have their own project.",
-        "B": "Each of the students has their own project.",
-        "C": "Each of the students have his own project.",
+        "B": "Each of the students have his own project.",
+        "C": "Each of the students has their own project.",
         "D": "Each of the students having their own project."
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -187,7 +187,7 @@
       "options": {
         "A": "due to",
         "B": "because",
-        "C": "as",
+        "C": "for the reason",
         "D": "whereas"
       },
       "correct_answer": "A",
@@ -197,12 +197,12 @@
       "id": 17,
       "question": "Choose the correct phrasal verb to complete the sentence: 'We need to _____ a solution to this problem soon.'",
       "options": {
-        "A": "come up with",
-        "B": "come across",
-        "C": "come around",
-        "D": "come about"
+        "A": "come up for",
+        "B": "come  up across",
+        "C": "come up with",
+        "D": "come up about"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
@@ -231,11 +231,11 @@
     },
     {
       "id": 20,
-      "question": "Choose the correct idiom to complete the sentence: 'The new employee is very enthusiastic and wants to _____ immediately.'",
+      "question": "Choose the correct idiom to complete the sentence: 'The new employee is very enthusiastic and wants to _____ running immediately.'",
       "options": {
         "A": "hit the road",
         "B": "hit the roof",
-        "C": "hit the ground running",
+        "C": "hit the ground",
         "D": "hit the nail"
       },
       "correct_answer": "C",
@@ -284,7 +284,7 @@
         "A": "speed out",
         "B": "speed up",
         "C": "speed on",
-        "D": "speed through"
+        "D": "speed in"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -303,12 +303,12 @@
     },
     {
       "id": 26,
-      "question": "Choose the correct definition of 'inclusive':",
+      "question": "Choose the correct word for 'covering all relevant items, services, or areas':",
       "options": {
-        "A": "Excluding certain groups or individuals",
-        "B": "Including or covering all relevant items, services, or areas",
-        "C": "Relating to financial inclusion only",
-        "D": "Limited to specific categories"
+        "A": "Excluding",
+        "B": "Inclusive",
+        "C": "Exclusive",
+        "D": "Inclined"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -318,33 +318,33 @@
       "question": "What does 'adaptation' mean in the following sentence? 'The film is an adaptation of a popular novel.'",
       "options": {
         "A": "A complete change from the original work",
-        "B": "A version modified for a different medium or purpose",
-        "C": "An imitation without permission",
-        "D": "A historical representation"
+        "B": "A historical representation of the original work",
+        "C": "An imitation version without permission",
+        "D": "A version modified for a different medium"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 28,
       "question": "Which sentence uses 'invention' correctly?",
       "options": {
-        "A": "They wrote an invention explaining their absence.",
+        "A": "They wrote an invention letter explaining their absence.",
         "B": "The telephone was an important invention of the 19th century.",
-        "C": "She made an invention to visit her grandmother.",
-        "D": "The company provided invention for the new employees."
+        "C": "She made an invention of how to visit her boyfrient suddenly.",
+        "D": "The company provided a thorough invention for the new employees."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 29,
-      "question": "What is the best definition of 'recommendation'?",
+      "question": "What is the best word for 'suggestion or proposal as to the best course of action'?",
       "options": {
-        "A": "A suggestion or proposal as to the best course of action",
-        "B": "A formal order requiring someone to do something",
-        "C": "A warning against a particular action",
-        "D": "A legal requirement"
+        "A": "Recommendation ",
+        "B": "Accommodation",
+        "C": "Accomplishment",
+        "D": "Accordance"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -353,19 +353,19 @@
       "id": 30,
       "question": "Which sentence uses 'automatic' correctly?",
       "options": {
-        "A": "Her response was automatic, without much thought.",
+        "A": "The room was very automatic and spacious.",
         "B": "The car had an automatic personality.",
         "C": "They wrote an automatic letter to the company.",
-        "D": "The room was very automatic and spacious."
+        "D": "Her response was automatic, without much thought."
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 31,
       "question": "What does 'democratic' mean in the following sentence? 'The organization has a democratic structure where decisions are made by majority vote.'",
       "options": {
-        "A": "Relating to or supporting democracy or its principles",
+        "A": "Relating to the power of people",
         "B": "Authoritarian in nature",
         "C": "Based on financial considerations",
         "D": "Focused on individual leadership"
@@ -389,7 +389,7 @@
       "id": 33,
       "question": "What is the meaning of 'facility' in the sentence 'The hospital has excellent facilities for treating cancer patients'?",
       "options": {
-        "A": "Buildings or equipment for a particular purpose",
+        "A": "Buildings for a particular purpose",
         "B": "Ease in performing an action",
         "C": "Special ability or aptitude",
         "D": "Politeness or courtesy"
@@ -401,22 +401,22 @@
       "id": 34,
       "question": "Which sentence uses 'intention' correctly?",
       "options": {
-        "A": "She made an intention for a new dress last week.",
-        "B": "His intention to study abroad surprised his parents.",
-        "C": "They sold their intention at a good price.",
-        "D": "The government built a new intention in the city center."
+        "A": "She made an intention for buying a new dress last week.",
+        "B": "The government built new intentions regarding the unemployment rate.",
+        "C": "They always sell their best intentions at a good price.",
+        "D": "His intention to study abroad surprised his parents."
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 35,
-      "question": "What is the correct definition of 'formation'?",
+      "question": "What is the correct word for 'he action of forming or the state of being formed'?",
       "options": {
-        "A": "The process of being dissolved or dismantled",
-        "B": "The action of forming or the state of being formed",
-        "C": "A legal document or certificate",
-        "D": "A commercial agreement between companies"
+        "A": "Reformation",
+        "B": "Formation",
+        "C": "Deformation",
+        "D": "Affirmation"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -427,7 +427,7 @@
       "options": {
         "A": "Confusion",
         "B": "Direction",
-        "C": "Misunderstanding",
+        "C": "Understanding",
         "D": "Complaint"
       },
       "correct_answer": "B",
@@ -451,22 +451,22 @@
       "options": {
         "A": "The company built a new generosity in the industrial park.",
         "B": "Her generosity made everyone feel welcomed and appreciated.",
-        "C": "They bought a generosity for their new apartment.",
-        "D": "The generosity arrived late to the meeting."
+        "C": "They bought a powerful generosity for their new apartment.",
+        "D": "His generosity was known for arriving first for the show."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 39,
-      "question": "What is the best definition of 'essence'?",
+      "question": "What is the best definition of 'The intrinsic nature or indispensable quality of something'?",
       "options": {
-        "A": "The intrinsic nature or indispensable quality of something",
-        "B": "A superficial or unimportant aspect",
-        "C": "A legal document proving ownership",
-        "D": "A type of mathematical equation"
+        "A": "Absence",
+        "B": "Escence",
+        "C": "Scence",
+        "D": "Essence"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -475,7 +475,7 @@
       "options": {
         "A": "The vulnerable presentation impressed all the clients.",
         "B": "They bought a vulnerable house in the suburbs.",
-        "C": "Elderly people are often more vulnerable to certain diseases.",
+        "C": "Elderly people are often more vulnerable to diseases.",
         "D": "She made a vulnerable decision about her career."
       },
       "correct_answer": "C",
@@ -485,9 +485,9 @@
       "id": 41,
       "question": "According to paragraph 1, what is one of the main challenges faced by natural attractions?",
       "options": {
-        "A": "Decreasing tourist numbers",
+        "A": "Decreasing annoying tourist numbers",
         "B": "Accommodating growing numbers of visitors",
-        "C": "Lack of economic benefits",
+        "C": "Lack of economic benefits form tourists",
         "D": "Competition from artificial attractions"
       },
       "correct_answer": "B",
@@ -547,10 +547,10 @@
       "options": {
         "A": "Completely restricting tourist access",
         "B": "Investing in artificial attractions",
-        "C": "Involving local communities in tourism planning",
-        "D": "Focusing exclusively on wealthy tourists"
+        "C": "Focusing exclusively on wealthy tourists",
+        "D": "Involving local communities in tourism planning"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -559,7 +559,7 @@
       "options": {
         "A": "Tourism should be banned in all natural areas",
         "B": "The economic benefits of tourism outweigh any environmental concerns",
-        "C": "Sustainable tourism practices can balance economic benefits and environmental protection",
+        "C": "Sustainable tourism practices can balance economic benefits",
         "D": "Local communities should have no role in tourism management"
       },
       "correct_answer": "C",
@@ -569,22 +569,22 @@
       "id": 48,
       "question": "The passage suggests that tourism's impact on natural landscapes is:",
       "options": {
-        "A": "Always destructive and irreversible",
+        "A": "Variable depending on management practices",
         "B": "Minimal compared to other industries",
-        "C": "Variable depending on management practices",
+        "C": "Always destructive and irreversible",
         "D": "Beneficial in all circumstances"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Reading"
     },
     {
       "id": 49,
       "question": "Which of the following best represents the main idea of the passage?",
       "options": {
-        "A": "Tourism invariably destroys natural landscapes and should be discouraged",
-        "B": "The economic benefits of tourism outweigh environmental concerns",
+        "A": "Tourism invariably destroys natural landscapes and should be discouraged by governments",
+        "B": "The economic benefits can be either harmful or beneficial depending on management",
         "C": "Tourism's impact on natural landscapes can be either harmful or beneficial depending on management",
-        "D": "Local communities are the primary beneficiaries of tourism in natural areas"
+        "D": "Local communities are always the primary beneficiaries of tourism in natural areas and destinations"
       },
       "correct_answer": "C",
       "category": "Reading"
