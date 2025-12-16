@@ -30,11 +30,11 @@
       "question": "Select the sentence with the correct use of articles:",
       "options": {
         "A": "She is best student in the class.",
-        "B": "I bought a new computer last week from the store.",
-        "C": "He lives in United States.",
-        "D": "We visited famous museum during our trip."
+        "B": "We visited famous museum during our trip.",
+        "C": "He lives at the United States since the last year.",
+        "D": "I bought a new computer last week from the store."
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -42,9 +42,9 @@
       "question": "Which sentence uses the correct form of the comparative?",
       "options": {
         "A": "This book is more better than the one I read last month.",
-        "B": "Her presentation was more convincing than his.",
-        "C": "The weather today is more colder than yesterday.",
-        "D": "Their house is more bigger than ours."
+        "B": "Her presentation was more convincing than his one.",
+        "C": "The weather today is much more colder than yesterday.",
+        "D": "Their house is as bigger as ours."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -65,12 +65,12 @@
       "id": 6,
       "question": "Choose the sentence with the correct use of prepositions:",
       "options": {
-        "A": "She arrived to the airport on time.",
+        "A": "He's been working on this project since Monday.",
         "B": "We're looking forward for the concert next week.",
-        "C": "He's been working on this project since Monday.",
+        "C": "She arrived to the airport on time.",
         "D": "They agreed with signing the contract yesterday."
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
@@ -78,7 +78,7 @@
       "question": "Select the sentence with the correct verb tense:",
       "options": {
         "A": "By the time we arrived, the movie already started.",
-        "B": "I live in this city since 2010.",
+        "B": "I am living in this city since 2010.",
         "C": "She has been working here for six months.",
         "D": "We will completed the assignment by tomorrow."
       },
@@ -91,10 +91,10 @@
       "options": {
         "A": "If it rains tomorrow, we cancel the picnic.",
         "B": "If I would be you, I would apply for that job.",
-        "C": "Unless you study harder, you won't pass the exam.",
-        "D": "If she would have called, I would have told her."
+        "C": "Unless she would have called, I would have told her.",
+        "D": "Unless you study harder, you won't pass the exam."
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -114,11 +114,11 @@
       "question": "Choose the sentence with the correct passive voice construction:",
       "options": {
         "A": "The book has wrote by a famous author.",
-        "B": "The window was broke during the storm.",
-        "C": "The report is being prepared by the committee.",
-        "D": "The house been built last year."
+        "B": "The report is being prepared by the committee.",
+        "C": "The window was broke during the last hurricane.",
+        "D": "The house has been built last year."
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
@@ -140,7 +140,7 @@
         "A": "You must to submit your application by Friday.",
         "B": "She could solved the problem without any help.",
         "C": "We might have missed the train if we hadn't hurried.",
-        "D": "They should went to the meeting yesterday."
+        "D": "They should had been going to the meeting yesterday."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -149,7 +149,7 @@
       "id": 13,
       "question": "Identify the sentence with correct word order:",
       "options": {
-        "A": "Always he arrives late to the meetings.",
+        "A": "He arrives late to the meetings always.",
         "B": "What time you will leave tomorrow?",
         "C": "I know where did they go last weekend.",
         "D": "She rarely has time to visit her parents."
@@ -221,7 +221,7 @@
       "id": 19,
       "question": "It took me a moment to _____ my old classmate after twenty years.",
       "options": {
-        "A": "notice",
+        "A": "recall",
         "B": "identify",
         "C": "recognize",
         "D": "remember"
@@ -246,9 +246,9 @@
       "question": "The artist is known for her _____ approach to traditional painting techniques.",
       "options": {
         "A": "imaginative",
-        "B": "inventive",
+        "B": "inventory",
         "C": "creative",
-        "D": "original"
+        "D": "organic"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -259,7 +259,7 @@
       "options": {
         "A": "stand for",
         "B": "represent",
-        "C": "substitute",
+        "C": "present",
         "D": "symbolize"
       },
       "correct_answer": "B",
@@ -282,7 +282,7 @@
       "question": "All team members are expected to _____ in the weekly strategy meetings.",
       "options": {
         "A": "attend",
-        "B": "join",
+        "B": "anticipate",
         "C": "participate",
         "D": "engage"
       },
@@ -375,14 +375,14 @@
     },
     {
       "id": 32,
-      "question": "Select the appropriate phrasal verb: The meeting has been _____ until next week.",
+      "question": "Select the correct preposition to complete the sentence: 'The heavy snow prevented the bus _____ arriving on time.'",
       "options": {
-        "A": "put off",
-        "B": "put away",
-        "C": "put down",
-        "D": "put up"
+        "A": "to",
+        "B": "for",
+        "C": "from",
+        "D": "against"
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "category": "Use of English"
     },
     {
@@ -392,7 +392,7 @@
         "A": "decrease",
         "B": "reduce",
         "C": "combat",
-        "D": "lower"
+        "D": "fight"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -403,8 +403,8 @@
       "options": {
         "A": "in hot water",
         "B": "at sea",
-        "C": "under the weather",
-        "D": "on the fence"
+        "C": "under the sea",
+        "D": "sitting on the fence"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -414,11 +414,11 @@
       "question": "Choose the correct fixed expression: She's been working _____ to finish the project before the deadline.",
       "options": {
         "A": "around the clock",
-        "B": "against the wall",
+        "B": "against the clock",
         "C": "behind the scenes",
         "D": "under the table"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
@@ -435,12 +435,12 @@
     },
     {
       "id": 37,
-      "question": "Choose the correct linking word: She studied extremely hard; _____, she failed the exam.",
+      "question": "_______ the heavy rain, the football match went ahead as planned.",
       "options": {
-        "A": "therefore",
-        "B": "nevertheless",
-        "C": "furthermore",
-        "D": "meanwhile"
+        "A": "Although",
+        "B": "Despite",
+        "C": "However",
+        "D": "In spite"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -473,10 +473,10 @@
       "id": 40,
       "question": "Select the correct binomial pair: The children were running _____ in the garden.",
       "options": {
-        "A": "here and now",
+        "A": "forth and back",
         "B": "back and forth",
-        "C": "sooner or later",
-        "D": "more or less"
+        "C": "forth or back",
+        "D": "back or forth"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -487,10 +487,10 @@
       "options": {
         "A": "Only architectural challenges in cities",
         "B": "Primarily economic issues in urban areas",
-        "C": "Environmental challenges while improving quality of life",
-        "D": "Transportation problems exclusively"
+        "C": "Transportation problems improving quality of life",
+        "D": "Environmental challenges while improving quality of life"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -509,7 +509,7 @@
       "id": 43,
       "question": "What is the main purpose of urban green spaces according to the passage?",
       "options": {
-        "A": "To increase property values in cities",
+        "A": "To increase property values in the most urbanized cities",
         "B": "To serve multiple environmental and social functions",
         "C": "To replace traditional urban infrastructure",
         "D": "To compete with suburban environments"
@@ -559,22 +559,22 @@
       "options": {
         "A": "Creating new green spaces in cities",
         "B": "Managing water resources effectively",
-        "C": "Retrofitting existing cities",
-        "D": "Designing transportation systems"
+        "C": "Designing transportation systems",
+        "D": "Retrofitting existing cities"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
       "id": 48,
       "question": "What does the passage suggest about sustainable urban planning's economic impact?",
       "options": {
-        "A": "It always increases city budgets substantially",
+        "A": "It can revitalize urban economies",
         "B": "It has no significant economic effects",
-        "C": "It can revitalize urban economies",
+        "C": "It always increases city budgets substantially",
         "D": "It primarily benefits wealthy neighborhoods"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Reading"
     },
     {
