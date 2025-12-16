@@ -8,7 +8,7 @@
         "A": "has been made",
         "B": "is making",
         "C": "was making",
-        "D": "had made"
+        "D": "had been made"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -20,7 +20,7 @@
         "A": "They believed",
         "B": "It was believing",
         "C": "It is believed",
-        "D": "Believing it is"
+        "D": "It believed"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -32,7 +32,7 @@
         "A": "really",
         "B": "did",
         "C": "actually",
-        "D": "very"
+        "D": "do"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -41,12 +41,12 @@
       "id": 4,
       "question": "The professor _____ at the conference last week presented compelling research on climate change.",
       "options": {
-        "A": "who speaking",
-        "B": "spoke",
+        "A": "who is speaking",
+        "B": "who spoke",
         "C": "speaking",
         "D": "was speaking"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
@@ -56,7 +56,7 @@
         "A": "Despite of",
         "B": "In spite",
         "C": "In light of",
-        "D": "With regards"
+        "D": "With regards to"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -65,10 +65,10 @@
       "id": 6,
       "question": "If they _____ the necessary precautions earlier, they _____ in this difficult situation now.",
       "options": {
-        "A": "had taken / wouldn't be",
-        "B": "took / wouldn't have been",
-        "C": "had taken / wouldn't have been",
-        "D": "would take / weren't"
+        "A": "had taken/wouldn't be",
+        "B": "took/wouldn't have been",
+        "C": "had taken/wouldn't have been",
+        "D": "would take/weren't"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -89,12 +89,12 @@
       "id": 8,
       "question": "The witness testified that she _____ the suspect enter the building around midnight.",
       "options": {
-        "A": "has seen",
+        "A": "had seen",
         "B": "saw",
-        "C": "had seen",
+        "C": "has seen",
         "D": "was seeing"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
@@ -125,9 +125,9 @@
       "id": 11,
       "question": "I offered to help with the project, but she said she could manage without _____.",
       "options": {
-        "A": "me to do so",
+        "A": "me",
         "B": "me doing so",
-        "C": "my doing so",
+        "C": "my offer",
         "D": "it"
       },
       "correct_answer": "D",
@@ -137,9 +137,9 @@
       "id": 12,
       "question": "The diplomat needs to _____ some delicate issues during the negotiations tomorrow.",
       "options": {
-        "A": "break down",
-        "B": "break through",
-        "C": "break up",
+        "A": "broach down",
+        "B": "approach",
+        "C": "break in",
         "D": "broach"
       },
       "correct_answer": "D",
@@ -149,10 +149,10 @@
       "id": 13,
       "question": "_____ remarkable progress they've made in such a short time!",
       "options": {
-        "A": "How",
+        "A": "What a",
         "B": "What",
-        "C": "Such",
-        "D": "That"
+        "C": "Such a",
+        "D": "Such"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -174,9 +174,9 @@
       "question": "The CEO _____ implementing new safety protocols immediately after the incident.",
       "options": {
         "A": "insisted on",
-        "B": "suggested",
-        "C": "proposed",
-        "D": "recommended"
+        "B": "suggested to",
+        "C": "proposed for",
+        "D": "recommended the"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -234,8 +234,8 @@
       "question": "After years of research, the scientists finally reached a _____ on the theoretical framework.",
       "options": {
         "A": "consensus",
-        "B": "dissension",
-        "C": "divergence",
+        "B": "consent",
+        "C": "consequence",
         "D": "contravention"
       },
       "correct_answer": "A",
@@ -282,11 +282,11 @@
       "question": "The acclaimed novel _____ the complexities of immigrant experiences in America through its multigenerational narrative.",
       "options": {
         "A": "obfuscates",
-        "B": "delineates",
+        "B": "eschews",
         "C": "circumvents",
-        "D": "eschews"
+        "D": "delineates"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -329,7 +329,7 @@
       "id": 28,
       "question": "The oppressive summer heat began to _____ the hikers, slowing their progress through the canyon significantly.",
       "options": {
-        "A": "invigorate",
+        "A": "energize",
         "B": "enervate",
         "C": "fortify",
         "D": "galvanize"
@@ -344,7 +344,7 @@
         "A": "rehearsed",
         "B": "methodical",
         "C": "extemporaneous",
-        "D": "scripted"
+        "D": "extraordinary"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -353,8 +353,8 @@
       "id": 30,
       "question": "After years in the city, they retired to a _____ cottage in the countryside, surrounded by rolling hills and grazing sheep.",
       "options": {
-        "A": "cosmopolitan",
-        "B": "metropolitan",
+        "A": "peripheral",
+        "B": "pastoral",
         "C": "bucolic",
         "D": "palatial"
       },
@@ -378,7 +378,7 @@
       "question": "The investigation uncovered a _____ scheme to defraud elderly investors of their retirement savings.",
       "options": {
         "A": "benevolent",
-        "B": "philanthropic",
+        "B": "malicious",
         "C": "altruistic",
         "D": "nefarious"
       },
@@ -390,7 +390,7 @@
       "question": "She earned a reputation as a _____ in the industry for her willingness to challenge conventional business practices and pursue innovative strategies.",
       "options": {
         "A": "conformist",
-        "B": "traditionalist",
+        "B": "brilliant",
         "C": "maverick",
         "D": "subordinate"
       },
@@ -414,7 +414,7 @@
       "question": "Her autobiography chronicles the _____ of fortune she experienced, from childhood poverty to international acclaim and back to obscurity in her later years.",
       "options": {
         "A": "stability",
-        "B": "constancy",
+        "B": "alteration",
         "C": "permanence",
         "D": "vicissitude"
       },
@@ -437,9 +437,9 @@
       "id": 37,
       "question": "The executive's _____ response to serious allegations damaged his credibility and reflected poorly on the organization.",
       "options": {
-        "A": "solemn",
+        "A": "uncaring",
         "B": "flippant",
-        "C": "judicious",
+        "C": "thoughtless",
         "D": "measured"
       },
       "correct_answer": "B",
@@ -473,12 +473,12 @@
       "id": 40,
       "question": "The announcement of massive layoffs caused _____ among employees, who had received assurances about job security just weeks earlier.",
       "options": {
-        "A": "jubilation",
-        "B": "indifference",
-        "C": "consternation",
+        "A": "consternation",
+        "B": "disquietude",
+        "C": "jubilation",
         "D": "acquiescence"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
@@ -486,7 +486,7 @@
       "question": "According to the passage, social capital in urban environments:",
       "options": {
         "A": "Is primarily measured through financial transactions",
-        "B": "Functions independently of physical urban design",
+        "B": "Functions independently of physical urban design or transportation",
         "C": "Contributes to both opportunities and barriers for social mobility",
         "D": "Has been declining steadily in all modern cities"
       },
@@ -498,8 +498,8 @@
       "question": "The term 'network homophily' as used in paragraph 2 refers to:",
       "options": {
         "A": "The tendency for diverse networks to form in urban centers",
-        "B": "The universal human desire for social connection",
-        "C": "Digital networks that transcend physical boundaries",
+        "B": "The tendency to form universal human desire for social connection",
+        "C": "The tendency to form digital networks that transcend physical boundaries",
         "D": "The tendency to form connections with people of similar backgrounds"
       },
       "correct_answer": "D",
@@ -533,12 +533,12 @@
       "id": 45,
       "question": "Which of the following best describes 'bridging social capital' as mentioned in paragraph 4?",
       "options": {
-        "A": "Connections formed exclusively within homogeneous communities",
-        "B": "Social networks that span different communities and social strata",
+        "A": "Social networks that span different communities and social strata",
+        "B": "Connections formed exclusively within homogeneous communities",
         "C": "Digital platforms that connect urban and rural populations",
         "D": "Financial investments in public infrastructure"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Reading"
     },
     {
@@ -557,9 +557,9 @@
       "id": 47,
       "question": "The main purpose of the passage is to:",
       "options": {
-        "A": "Criticize current urban planning approaches",
+        "A": "Criticize current urban planning approaches in the modern social capitals",
         "B": "Analyze how social networks in cities affect socioeconomic mobility",
-        "C": "Compare rural and urban social structures",
+        "C": "Compare rural and urban social structures across the countries",
         "D": "Advocate for specific policy interventions in urban governance"
       },
       "correct_answer": "B",
@@ -595,10 +595,10 @@
       "options": {
         "A": "Focusing exclusively on individual skill development",
         "B": "Privatizing all public spaces to improve their quality",
-        "C": "Investing in public spaces that facilitate diverse interactions",
-        "D": "Eliminating all digital platforms that show network homophily"
+        "C": "Eliminating all digital platforms that show network homophily",
+        "D": "Investing in public spaces that facilitate diverse interactions"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     }
   ]
