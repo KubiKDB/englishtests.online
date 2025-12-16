@@ -5,12 +5,12 @@
       "id": 1,
       "question": "Select the grammatically correct sentence:",
       "options": {
-        "A": "Each of the students have their own laptop for the course.",
+        "A": "Neither of the candidates has withdrawn from the race.",
         "B": "Either John or his brothers is going to help with the project.",
-        "C": "Neither of the candidates has withdrawn from the race.",
+        "C": "Each of the students have their own laptop for the course.",
         "D": "The data shows that there are less people attending than last year."
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
@@ -19,10 +19,10 @@
       "options": {
         "A": "She is studying at an university in the northern part of country.",
         "B": "He gave me useful advice about the life in foreign country.",
-        "C": "We saw an interesting documentary about the history of aviation.",
-        "D": "There was the accident on highway this morning."
+        "C": "There was the accident on highway this morning.",
+        "D": "We saw an interesting documentary about the history of aviation."
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -54,11 +54,11 @@
       "question": "Select the sentence with the correct use of comparatives and superlatives:",
       "options": {
         "A": "This is the most unique example I have ever seen.",
-        "B": "His presentation was more clearer than the previous speaker's.",
-        "C": "That was the most interesting of the three lectures we attended.",
+        "B": "That was the most interesting of the three lectures we attended.",
+        "C": "His presentation was more clearer than the previous speaker's.",
         "D": "She is the more intelligent than her cousin."
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
@@ -78,8 +78,8 @@
       "question": "Identify the sentence that uses the passive voice correctly:",
       "options": {
         "A": "The book was writing by a famous author.",
-        "B": "The exhibition has been visited by thousands of people this month.",
-        "C": "The project will completing by the team next week.",
+        "B": "The exhibition has been visited by thousands.",
+        "C": "The project will be complete by the team next week.",
         "D": "A mistake has made in the calculations."
       },
       "correct_answer": "B",
@@ -91,8 +91,8 @@
       "options": {
         "A": "The woman who house was damaged in the storm has filed a claim.",
         "B": "The restaurant which we had dinner last night was excellent.",
-        "C": "The professor whose class I'm taking this semester is an expert in quantum physics.",
-        "D": "The city where I visited last summer has beautiful architecture."
+        "C": "The professor whose class I'm taking is an expert in quantum physics.",
+        "D": "The city where I visited last summer has the most beautiful architecture."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -101,12 +101,12 @@
       "id": 9,
       "question": "Select the sentence with the correct conditional form:",
       "options": {
-        "A": "If I would have known about the meeting, I would have attended.",
-        "B": "If they arrived earlier, they would have seen the opening ceremony.",
-        "C": "If it rains tomorrow, we would cancel the picnic.",
-        "D": "If I had been in your position, I will make the same decision."
+        "A": "If they arrived earlier, they would have seen the opening ceremony.",
+        "B": "If I had been in your position, I will make the same decision.",
+        "C": "If I would have known about the meeting, I would have attended.",
+        "D": "If it rains tomorrow, we would cancel the picnic."
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
@@ -115,22 +115,22 @@
       "options": {
         "A": "You must to submit your application before the deadline.",
         "B": "She can singing very well in three different languages.",
-        "C": "They might not have received our message yet.",
-        "D": "He should studying more if he wants to pass the exam."
+        "C": "He should studying more if he wants to pass the exam.",
+        "D": "They might not have received our message yet."
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 11,
       "question": "Identify the sentence with correct parallel structure:",
       "options": {
-        "A": "The company focuses on developing new products, improving customer service, and to increase market share.",
+        "A": "The report examines the causes of the problem, analyzes potential solutions, and recommends specific actions.",
         "B": "She enjoys swimming, hiking, and to play tennis on weekends.",
-        "C": "The report examines the causes of the problem, analyzes potential solutions, and recommends specific actions.",
+        "C": "The company focuses on developing new products, improving customer service, and to increase market share.",
         "D": "He not only finished the assignment on time but also he got an excellent grade."
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
@@ -176,19 +176,19 @@
         "A": "After considering all the options they decided to postpone the meeting.",
         "B": "The museum which opened last year, has attracted many visitors.",
         "C": "Despite the rain, they continued with their outdoor activities.",
-        "D": "My colleague John who works in marketing suggested a new approach."
+        "D": "My colleague John who works in marketing, suggested a new approach."
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 16,
-      "question": "Select the correct definition of 'conventional':",
+      "question": "Select the correct definition of 'Based on or in accordance with general agreement, custom, or tradition':",
       "options": {
-        "A": "Unusual or experimental in nature",
-        "B": "Based on or in accordance with general agreement, custom, or tradition",
-        "C": "Relating to a formal written agreement",
-        "D": "Revolutionary or groundbreaking"
+        "A": "Controversial",
+        "B": "Conventional",
+        "C": "Conversational",
+        "D": "Convoluted"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -197,7 +197,7 @@
       "id": 17,
       "question": "Choose the word that best completes the sentence: 'The professor emphasized that understanding these principles is _____ to mastering the subject.'",
       "options": {
-        "A": "conventional",
+        "A": "fundamental",
         "B": "essential",
         "C": "beneficial",
         "D": "productive"
@@ -209,7 +209,7 @@
       "id": 18,
       "question": "Select the synonym for 'anxious':",
       "options": {
-        "A": "Calm",
+        "A": "Uneasy",
         "B": "Eager",
         "C": "Worried",
         "D": "Indifferent"
@@ -231,12 +231,12 @@
     },
     {
       "id": 20,
-      "question": "Choose the correct definition of 'application':",
+      "question": "Choose the incorrect definition of 'application':",
       "options": {
         "A": "The action of formally requesting something",
         "B": "A computer program designed for a particular purpose",
         "C": "The practical use or relevance of something",
-        "D": "All of the above"
+        "D": "The process of leaving a job by retirement"
       },
       "correct_answer": "D",
       "category": "Vocabulary"
@@ -281,10 +281,10 @@
       "id": 24,
       "question": "Select the correct usage of 'description':",
       "options": {
-        "A": "The team description a new method for analyzing the data.",
+        "A": "The team drew a description of a new method for analyzing the data.",
         "B": "His description of the landscape captured its beauty perfectly.",
-        "C": "We need to description the problem before proposing solutions.",
-        "D": "The project was completed with description efficiency."
+        "C": "We need to address the description of the problem before proposing solutions.",
+        "D": "The project was completed with descriptional efficiency."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -303,12 +303,12 @@
     },
     {
       "id": 26,
-      "question": "Choose the correct definition of 'generation':",
+      "question": "Choose the correct word for 'all people born and living at about the same time':",
       "options": {
-        "A": "The production of something",
-        "B": "All people born and living at about the same time",
-        "C": "The process of creating electrical power",
-        "D": "All of the above"
+        "A": "Nation",
+        "B": "Civilization",
+        "C": "Regeneration",
+        "D": "Generation"
       },
       "correct_answer": "D",
       "category": "Vocabulary"
@@ -329,10 +329,10 @@
       "id": 28,
       "question": "Which sentence uses the word 'participation' correctly?",
       "options": {
-        "A": "The building shows excellent participation and design.",
+        "A": "The newly projected building shows excellent participation and design.",
         "B": "Student participation in extracurricular activities has increased significantly.",
-        "C": "The company announced a new participation for next year.",
-        "D": "She received participation for her outstanding work."
+        "C": "The company announced a new participation of the hired specialists for next year.",
+        "D": "Her participation in her outstanding work was deeply appreciated."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -363,24 +363,24 @@
     },
     {
       "id": 31,
-      "question": "Choose the correct phrasal verb to complete the sentence: 'We need to _____ with a solution to this complex problem.'",
+      "question": "I have always _______ up to my older brother because of his dedication and hard work.",
       "options": {
-        "A": "come up",
-        "B": "come across",
-        "C": "come up with",
-        "D": "come around"
+        "A": "respected",
+        "B": "looked",
+        "C": "watched",
+        "D": "admired"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 32,
       "question": "Select the appropriate preposition to complete the sentence: 'She has been working _____ this project _____ January.'",
       "options": {
-        "A": "in, since",
-        "B": "on, since",
-        "C": "for, since",
-        "D": "at, for"
+        "A": "on/for",
+        "B": "on/since",
+        "C": "for/since",
+        "D": "at/for"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -390,11 +390,11 @@
       "question": "Choose the correct collocation to complete the sentence: 'The research team _____ a major breakthrough in cancer treatment.'",
       "options": {
         "A": "did",
-        "B": "made",
+        "B": "gave",
         "C": "took",
-        "D": "gave"
+        "D": "made"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -415,7 +415,7 @@
       "options": {
         "A": "therefore",
         "B": "however",
-        "C": "furthermore",
+        "C": "because",
         "D": "otherwise"
       },
       "correct_answer": "B",
@@ -425,7 +425,7 @@
       "id": 36,
       "question": "Choose the correct idiom to complete the sentence: 'The new employee is very efficient and hardworking; she's really _____.'",
       "options": {
-        "A": "under the weather",
+        "A": "with hot hand",
         "B": "on the fence",
         "C": "on the ball",
         "D": "in hot water"
@@ -452,7 +452,7 @@
         "A": "in the red",
         "B": "in the black",
         "C": "on the house",
-        "D": "against the clock"
+        "D": "on the clock"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -521,12 +521,12 @@
       "id": 44,
       "question": "Based on paragraph 4, how do agricultural landscapes affect regional environmental conditions?",
       "options": {
-        "A": "They have minimal impact on biodiversity",
-        "B": "They create ecological corridors that can support biodiversity",
+        "A": "They create ecological corridors that can support biodiversity",
+        "B": "They have minimal impact on biodiversity",
         "C": "They always impede biodiversity regardless of management",
         "D": "They affect only local climate patterns but not global ones"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Reading"
     },
     {
@@ -536,7 +536,7 @@
         "A": "Completely abandoning conventional farming methods",
         "B": "Focusing exclusively on food production efficiency",
         "C": "Integrating traditional knowledge with modern scientific understanding",
-        "D": "Centralizing all agricultural decision-making"
+        "D": "Centralizing all agricultural decision-making combined with modern scientific understanding"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -545,12 +545,12 @@
       "id": 46,
       "question": "The main purpose of this passage is to:",
       "options": {
-        "A": "Criticize conventional farming practices",
-        "B": "Explain how agricultural practices shape regional environments",
+        "A": "Analyze global food security challenges",
+        "B": "Criticize conventional farming practices",
         "C": "Promote specific alternative farming methods",
-        "D": "Analyze global food security challenges"
+        "D": "Explain how agricultural practices shape regional environments"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -581,9 +581,9 @@
       "id": 49,
       "question": "In the context of the passage, what does the author mean by 'ecosystem services' in paragraph 5?",
       "options": {
-        "A": "Financial services for farmers",
+        "A": "Financial services for farmers beyond food production",
         "B": "Environmental benefits beyond food production",
-        "C": "Government agricultural subsidies",
+        "C": "Government agricultural subsidies to farmers",
         "D": "Technical support for farming operations"
       },
       "correct_answer": "B",
