@@ -329,10 +329,10 @@
       "id": 28,
       "question": "Which sentence uses 'awkward' appropriately?",
       "options": {
-        "A": "The new software is very awkward and efficient.",
+        "A": "The new software is very, sophisticated, awkward, and efficient.",
         "B": "There was an awkward silence after his controversial remark.",
-        "C": "She awkward the meeting to discuss the budget.",
-        "D": "They awkward a new strategy for the campaign."
+        "C": "She was awkward at the meeting to discuss the budget.",
+        "D": "Their awkward response built a new strategy for the campaign."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -344,7 +344,7 @@
         "A": "Please confirm on your attendance by email.",
         "B": "She confirmed to the appointment yesterday.",
         "C": "The test results confirmed our initial diagnosis.",
-        "D": "He confirm the document before sending it."
+        "D": "He had confirmed at the document before sending it."
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -375,14 +375,14 @@
     },
     {
       "id": 32,
-      "question": "Select the correct phrasal verb: 'The meeting has been ________ until next week.'",
-      "options": {
-        "A": "put off",
-        "B": "put away",
-        "C": "put down",
-        "D": "put up"
+      "question": "The doctor ________ me to take a few days off work to recover.",
+    "options": {
+      "A": "suggested",
+      "B": "advised",
+      "C": "proposed",
+      "D": "insisted"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
@@ -390,33 +390,33 @@
       "question": "Complete the idiom: 'They're in the same boat, which means they _______.'",
       "options": {
         "A": "are traveling together",
-        "B": "are in the same difficult situation",
+        "B": "are in the same situation",
         "C": "enjoy water sports",
-        "D": "work in the marine industry"
+        "D": "are a team in the sailing"
       },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 34,
-      "question": "Choose the correct collocation: 'She _______ a deep breath before giving her presentation.'",
-      "options": {
-        "A": "made",
-        "B": "did",
-        "C": "took",
-        "D": "had"
+      "question": "Before launching the product, the company needs to _______ some market research.",
+    "options": {
+      "A": "make",
+      "B": "do",
+      "C": "create",
+      "D": "conduct"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 35,
-      "question": "Select the appropriate connector: 'He studied very hard; ________, he failed the exam.'",
+      "question": "She had prepared extensively for the presentation; ________, she struggled to answer several questions from the audience.",
       "options": {
         "A": "therefore",
         "B": "nevertheless",
         "C": "consequently",
-        "D": "furthermore"
+        "D": "as a result"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -485,10 +485,10 @@
       "id": 41,
       "question": "According to paragraph 1, what makes nanotechnology particularly valuable in medicine?",
       "options": {
-        "A": "Its ability to manipulate matter at the molecular level",
+        "A": "Its ability to manipulate existing matter at the molecular level",
         "B": "Its ability to cross barriers that traditional medications cannot",
         "C": "Its low production cost compared to traditional treatments",
-        "D": "Its widespread availability in healthcare systems"
+        "D": "Its widespread availability in healthcare systems in recent years"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -497,7 +497,7 @@
       "id": 42,
       "question": "The primary advantage of nanoparticles in drug delivery, as mentioned in paragraph 2, is that they:",
       "options": {
-        "A": "Are less expensive to produce than conventional drugs",
+        "A": "Are less expensive and faster to produce than conventional drugs",
         "B": "Can deliver higher doses of medication with fewer side effects",
         "C": "Can target specific cells while leaving healthy cells untouched",
         "D": "Can completely eliminate the need for traditional medications"
@@ -510,11 +510,11 @@
       "question": "Which of the following is a diagnostic application of nanotechnology mentioned in the passage?",
       "options": {
         "A": "Replacing surgical procedures",
-        "B": "Quantum dots for more sensitive imaging",
+        "B": "Creating artificial organs",
         "C": "Monitoring patients remotely",
-        "D": "Creating artificial organs"
+        "D": "Quantum dots for more sensitive imaging"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -535,8 +535,8 @@
       "options": {
         "A": "It will completely replace traditional medicine within a decade",
         "B": "It will make healthcare more personalized and less invasive",
-        "C": "It will primarily benefit wealthy countries",
-        "D": "It will focus exclusively on cancer treatments"
+        "C": "It will focus exclusively on cancer treatments",
+        "D": "It will primarily benefit wealthy countries"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -545,12 +545,12 @@
       "id": 46,
       "question": "The term 'theranostic' in paragraph 5 refers to devices that:",
       "options": {
-        "A": "Replace damaged tissues with artificial ones",
-        "B": "Combine therapeutic and diagnostic functions",
+        "A": "Combine therapeutic and diagnostic functions",
+        "B": "Replace damaged tissues with artificial ones",
         "C": "Monitor patient vital signs remotely",
         "D": "Match treatments to genetic profiles"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Reading"
     },
     {
@@ -560,7 +560,7 @@
         "A": "It is widely used in hospitals around the world",
         "B": "It is mainly theoretical with few practical applications",
         "C": "It shows great promise but faces implementation challenges",
-        "D": "It has been largely abandoned due to safety concerns"
+        "D": "It has been largely abandoned recently due to safety concerns"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -570,11 +570,11 @@
       "question": "The passage suggests that nanobiosensors offer an advantage over traditional diagnostic methods because they:",
       "options": {
         "A": "Are more affordable for healthcare systems",
-        "B": "Can detect disease markers at lower concentrations",
-        "C": "Eliminate the need for laboratory testing",
-        "D": "Provide immediate results without processing"
+        "B": "Provide immediate results without processing",
+        "C": "Eliminate the constant need for laboratory testing",
+        "D": "Can detect disease markers at lower concentrations"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -593,12 +593,12 @@
       "id": 50,
       "question": "What is the main purpose of this passage?",
       "options": {
-        "A": "To argue that funding for nanomedicine should be increased",
-        "B": "To warn about the dangers of nanotechnology in medicine",
-        "C": "To provide an overview of nanotechnology applications in medicine",
+        "A": "To provide an overview of nanotechnology applications in medicine",
+        "B": "To warn about the dangers of nanotechnology applications in medicine",
+        "C": "To argue that funding for nanomedicine should be increased",
         "D": "To compare nanomedicine with traditional medical approaches"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Reading"
     }
   ]
