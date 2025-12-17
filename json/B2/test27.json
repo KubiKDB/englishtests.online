@@ -5,7 +5,7 @@
       "id": 1,
       "question": "Which sentence contains the correct use of the present perfect continuous tense?",
       "options": {
-        "A": "She works at the university since 2015.",
+        "A": "She had been working at the university since 2015.",
         "B": "She has been working at the university since 2015.",
         "C": "She is working at the university since 2015.",
         "D": "She worked at the university since 2015."
@@ -30,9 +30,9 @@
       "question": "Select the sentence with the correct passive voice construction:",
       "options": {
         "A": "The report will be submitting by Friday.",
-        "B": "The report will submitted by Friday.",
+        "B": "The report will be submitted by Friday.",
         "C": "The report will have been submitted by Friday.",
-        "D": "The report will being submitted by Friday."
+        "D": "The report will have being submitted by Friday."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -77,7 +77,7 @@
       "id": 7,
       "question": "Select the sentence with the correct use of reported speech:",
       "options": {
-        "A": "She said she will attend the meeting tomorrow.",
+        "A": "She said she will be attending the meeting the following day.",
         "B": "She said she would attend the meeting the following day.",
         "C": "She said she attends the meeting the next day.",
         "D": "She said she attended the meeting tomorrow."
@@ -128,7 +128,7 @@
         "A": "She avoided to speak in public whenever possible.",
         "B": "She avoided speaking in public whenever possible.",
         "C": "She avoided speak in public whenever possible.",
-        "D": "She avoided for speaking in public whenever possible."
+        "D": "She avoided to speaking in public whenever possible."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -164,7 +164,7 @@
         "A": "The expert provided us with valuable information for the project.",
         "B": "The expert provided us by valuable information for the project.",
         "C": "The expert provided us at valuable information for the project.",
-        "D": "The expert provided us on valuable information for the project."
+        "D": "The expert provided us within valuable information for the project."
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -197,10 +197,10 @@
       "id": 17,
       "question": "Select the correct phrasal verb: After considering all options, the committee decided to _____ the proposal.",
       "options": {
-        "A": "go over",
-        "B": "go through",
+        "A": "go over to",
+        "B": "go through with",
         "C": "go ahead with",
-        "D": "go against"
+        "D": "go ahead to"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -211,8 +211,8 @@
       "options": {
         "A": "due to",
         "B": "because",
-        "C": "as",
-        "D": "for"
+        "C": "as for",
+        "D": "for being"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -233,9 +233,9 @@
       "id": 20,
       "question": "Choose the correct idiomatic expression: When the manager discovered the accounting error, he decided to _____ and start the audit process again.",
       "options": {
-        "A": "call it a day",
-        "B": "face the music",
-        "C": "cut corners",
+        "A": "call it a day and night",
+        "B": "face the rocking music",
+        "C": "cut the acute corners",
         "D": "go back to the drawing board"
       },
       "correct_answer": "D",
@@ -243,9 +243,9 @@
     },
     {
       "id": 21,
-      "question": "Select the correct linking phrase: The project was expensive; _____, it was completed ahead of schedule.",
+      "question": "Select the correct linking phrase: The project was challenging; _____, it was completed ahead of schedule.",
       "options": {
-        "A": "therefore",
+        "A": "nevermind",
         "B": "nevertheless",
         "C": "furthermore",
         "D": "whereas"
@@ -257,9 +257,9 @@
       "id": 22,
       "question": "Choose the correct dependent preposition: The decision is entirely _____ you; I will support whatever you choose.",
       "options": {
-        "A": "with",
+        "A": "down with",
         "B": "for",
-        "C": "to",
+        "C": "off to",
         "D": "up to"
       },
       "correct_answer": "D",
@@ -269,10 +269,10 @@
       "id": 23,
       "question": "Select the correct formal expression for beginning an email to someone you don't know:",
       "options": {
-        "A": "Hi there,",
-        "B": "Dear Sir/Madam,",
-        "C": "Hey,",
-        "D": "Hello friend,"
+        "A": "Hi there, Jose",
+        "B": "Dear Jose,",
+        "C": "Hey, Jose",
+        "D": "Hello my friend Jose"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -305,10 +305,10 @@
       "id": 26,
       "question": "Which definition best describes the term 'virtual'?",
       "options": {
-        "A": "Something that exists physically",
+        "A": "Something that exists physically but not in effect",
         "B": "Something that exists in effect but not in actual form",
-        "C": "Something that is completely imaginary",
-        "D": "Something that is temporary"
+        "C": "Something that is completely imaginary or not existing",
+        "D": "Something that is temporary not permanent"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -317,22 +317,22 @@
       "id": 27,
       "question": "Choose the sentence that uses 'edition' correctly:",
       "options": {
-        "A": "The newspaper published a special edition to commemorate the event.",
-        "B": "She edition her essay carefully before submitting it.",
-        "C": "The company edition new products twice a year.",
-        "D": "They decided to edition the meeting until next week."
+        "A": "They decided to post the edition of the meeting until next week.",
+        "B": "She checked her essay edition carefully before submitting it.",
+        "C": "The company promises the edition of the new products twice a year.",
+        "D": "The newspaper published a special edition to commemorate the event."
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 28,
       "question": "Which word is most similar in meaning to 'comprehensive'?",
       "options": {
-        "A": "Limited",
+        "A": "Throw",
         "B": "Thorough",
-        "C": "Brief",
-        "D": "Simple"
+        "C": "Through",
+        "D": "Throughput"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -342,9 +342,9 @@
       "question": "Select the sentence that uses 'discrimination' correctly:",
       "options": {
         "A": "The art critic has excellent discrimination between various painting styles.",
-        "B": "The company discrimination its employees every month.",
-        "C": "They discrimination the project carefully.",
-        "D": "She used discrimination to open the locked door."
+        "B": "The company has a tendency for for the discrimination its employees every month.",
+        "C": "She used her deep discrimination to understand the new thesis of the professor.",
+        "D": "The government discrimination for the entire groups of workers has peaked recently."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -364,11 +364,12 @@
     {
       "id": 31,
       "question": "Which sentence uses 'violation' correctly?",
-      "options": {
-        "A": "The violation to fix the car took several hours.",
-        "B": "She violation the document with her signature.",
-        "C": "Parking in a restricted area is a violation of local regulations.",
-        "D": "They violation to the conference last week."
+    "options": {
+      "A": "The study revealed a small violation in the newly tested results.",
+      "B": "Please submit a violation of your home address to apply.",
+      "C": "Parking in a restricted area is a violation of local regulations.",
+      "D": "She received a violation to the wedding ceremony last week."
+    }
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -377,10 +378,10 @@
       "id": 32,
       "question": "Select the correct usage of 'admission':",
       "options": {
-        "A": "The patient's admission showed signs of improvement.",
+        "A": "The patient's latest admission showed signs of improvement.",
         "B": "His admission of guilt surprised everyone in the courtroom.",
-        "C": "The school admission several new courses this year.",
-        "D": "They admission the package to the correct address."
+        "C": "The school admission published several new courses this year.",
+        "D": "The admission of the package to the correct address was fast."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -390,7 +391,7 @@
       "question": "Choose the best definition of 'legitimate':",
       "options": {
         "A": "Illegal or against the law",
-        "B": "Conforming to rules, standards, or laws",
+        "B": "Conforming to rules or laws",
         "C": "Uncertain or questionable",
         "D": "Temporary or short-lived"
       },
@@ -403,7 +404,7 @@
       "options": {
         "A": "Conservative",
         "B": "Restrictive",
-        "C": "Open-minded",
+        "C": "Unprejudiced",
         "D": "Traditional"
       },
       "correct_answer": "C",
@@ -413,22 +414,22 @@
       "id": 35,
       "question": "Select the sentence that uses 'objective' correctly:",
       "options": {
-        "A": "The researcher objective the results of the experiment.",
-        "B": "They objective to reach a consensus by the end of the meeting.",
+        "A": "The researcher's objective provide the results of the experiment.",
+        "B": "The objective to reach a consensus by the end of the meeting.",
         "C": "Her objective analysis of the situation helped us make a decision.",
-        "D": "The company objective new employees last month."
+        "D": "The company's objective is to hire about fifty new employees last month."
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 36,
-      "question": "Choose the correct definition of 'outcome':",
+      "question": "Choose the correct word for 'The final result of a process or situation':",
       "options": {
-        "A": "The starting point of a process",
-        "B": "A detailed plan for achieving a goal",
-        "C": "The final result of a process or situation",
-        "D": "An unexpected interruption"
+        "A": "Output",
+        "B": "Outpace",
+        "C": "Outcome",
+        "D": "Outreach"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -437,10 +438,10 @@
       "id": 37,
       "question": "Which sentence uses 'philosopher' correctly?",
       "options": {
-        "A": "Socrates is considered one of the most influential philosophers in Western thought.",
-        "B": "She philosopher her room before going to bed.",
-        "C": "They philosopher the project timeline.",
-        "D": "The company philosopher its approach to customer service."
+        "A": "Socrates is considered one of the most influential philosophers.",
+        "B": "She is a great philosopher in her attempt to understand the issue.",
+        "C": "They have been philosophing about the project timeline last week.",
+        "D": "The company philosophers changed their approach to customer service."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -450,7 +451,7 @@
       "question": "Select the correct definition of 'profession':",
       "options": {
         "A": "A personal hobby or interest",
-        "B": "A paid occupation requiring specialized education or training",
+        "B": "A paid occupation or job",
         "C": "A public statement of belief",
         "D": "A temporary job or position"
       },
@@ -464,21 +465,21 @@
         "A": "She felt guilty of chocolate after following her diet for weeks.",
         "B": "The project was guilty on schedule despite the challenges.",
         "C": "The jury found the defendant guilty of all charges.",
-        "D": "They guilty the report before the deadline."
+        "D": "Their guilty was submitting the report after the deadline."
       },
       "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
       "id": 40,
-      "question": "Which definition best describes 'boundary'?",
+      "question": "Which definition best describes 'line marking the limit of an area or territory'?",
       "options": {
-        "A": "A line marking the limit of an area or territory",
-        "B": "The central part of something",
-        "C": "A formal agreement between parties",
-        "D": "A group of similar items"
+        "A": "Across",
+        "B": "Border",
+        "C": "Board",
+        "D": "Boundary"
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -498,7 +499,7 @@
       "question": "According to the passage, what is one way gut bacteria help with digestion?",
       "options": {
         "A": "By replacing human digestive enzymes",
-        "B": "By breaking down complex carbohydrates that human enzymes cannot process",
+        "B": "By breaking down complex carbohydrates",
         "C": "By reducing the need for nutrients in our diet",
         "D": "By absorbing toxins from food"
       },
@@ -509,10 +510,10 @@
       "id": 43,
       "question": "According to paragraph 3, what is the 'hygiene hypothesis'?",
       "options": {
-        "A": "The theory that excessive cleanliness causes disease",
+        "A": "The theory that excessive cleanliness may not prevent proper immune system development",
         "B": "The theory that bacteria are essential for proper digestion",
         "C": "The theory that limited exposure to microbes may prevent proper immune system development",
-        "D": "The theory that antibiotics can cure all bacterial infections"
+        "D": "The theory that antibiotics can cure all bacterial infections including the essential for proper digestion"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -522,11 +523,11 @@
       "question": "The word 'bidirectional' in paragraph 4 most nearly means:",
       "options": {
         "A": "one-way",
-        "B": "multiple",
-        "C": "operating in two directions",
-        "D": "indirect"
+        "B": "multiple directions",
+        "C": "indirect",
+        "D": "two directions"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -547,10 +548,10 @@
       "options": {
         "A": "They develop stronger immune systems",
         "B": "They have lower rates of allergies and asthma",
-        "C": "They are more likely to develop immune-related disorders",
-        "D": "They have more beneficial bacteria in their gut"
+        "C": "They have more beneficial bacteria in their gut",
+        "D": "They are more likely to develop immune-related disorders"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -560,7 +561,7 @@
         "A": "Digestion only",
         "B": "Immune system function",
         "C": "Mood and cognitive function",
-        "D": "Vitamin production"
+        "D": "Vitamin production and consupmtion"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -569,12 +570,12 @@
       "id": 48,
       "question": "The primary purpose of this passage is to:",
       "options": {
-        "A": "Explain how to improve gut health through diet",
+        "A": "Present information about the microbiome's role in human health",
         "B": "Compare different treatments for microbiome-related illnesses",
-        "C": "Present information about the microbiome's role in human health",
-        "D": "Argue that all bacteria are beneficial for human health"
+        "C": "Argue that all bacteria are beneficial for human health",
+        "D": "Explain how to improve gut health through diet"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Reading"
     },
     {
