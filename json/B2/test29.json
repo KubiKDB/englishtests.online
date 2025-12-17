@@ -6,9 +6,9 @@
       "question": "Select the correct form to complete this sentence: 'If he _____ harder, he would have passed the exam.'",
       "options": {
         "A": "studied",
-        "B": "studies",
+        "B": "has studied",
         "C": "had studied",
-        "D": "would study"
+        "D": "had been studied"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -17,10 +17,10 @@
       "id": 2,
       "question": "Choose the correct passive voice construction:",
       "options": {
-        "A": "The report will finish by tomorrow.",
+        "A": "The report will finished by tomorrow.",
         "B": "The report will be finished by tomorrow.",
         "C": "The report will have finish by tomorrow.",
-        "D": "The report will been finished by tomorrow."
+        "D": "The report will have to be finished by tomorrow."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -29,12 +29,12 @@
       "id": 3,
       "question": "Which sentence contains the correct use of reported speech?",
       "options": {
-        "A": "She said that she will attend the meeting tomorrow.",
-        "B": "She said that she would attend the meeting the next day.",
+        "A": "She said that she would attend the meeting the next day.",
+        "B": "She said that she will attend the meeting tomorrow.",
         "C": "She said that she attend the meeting the next day.",
-        "D": "She said that she is attending the meeting tomorrow."
+        "D": "She said that she was attending the meeting tomorrow."
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
@@ -56,7 +56,7 @@
         "A": "I live here since 2010.",
         "B": "I am living here since 2010.",
         "C": "I have lived here since 2010.",
-        "D": "I had lived here since 2010."
+        "D": "I had been living here since 2010."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -92,7 +92,7 @@
         "A": "This book is more interesting than any book I've read.",
         "B": "This book is more interesting than all books I've read.",
         "C": "This book is more interesting than any other book I've read.",
-        "D": "This book is the more interesting than all books I've read."
+        "D": "This book is the most interesting than all books I've read."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -103,7 +103,7 @@
       "options": {
         "A": "The woman which I met yesterday is a doctor.",
         "B": "The house that they live in it is very old.",
-        "C": "The film who we saw last night won several awards.",
+        "C": "The film it we saw last night won several awards.",
         "D": "The museum whose exhibition I visited was built in 1890."
       },
       "correct_answer": "D",
@@ -113,10 +113,10 @@
       "id": 10,
       "question": "Which sentence correctly uses a gerund?",
       "options": {
-        "A": "I enjoy to swim in the ocean.",
-        "B": "She suggested to go to the new restaurant.",
+        "A": "I enjoy to swimming in the ocean.",
+        "B": "She suggested to going to the new restaurant.",
         "C": "They admitted stealing the documents.",
-        "D": "We finished to work on the project yesterday."
+        "D": "We finished on working the project yesterday."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -161,12 +161,12 @@
       "id": 14,
       "question": "Identify the sentence with the correct verb tense sequence:",
       "options": {
-        "A": "By the time we arrived, the film already started.",
+        "A": "When I got home, I discovered that someone had broken in.",
         "B": "After she has finished her homework, she went to bed.",
-        "C": "She realized that she has lost her keys.",
-        "D": "When I got home, I discovered that someone had broken in."
+        "C": "By the time we arrived, the film already started.",
+        "D": "She realized that she has lost her keys."
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
@@ -198,7 +198,7 @@
       "question": "Select the appropriate phrasal verb: 'We need to _____ this issue at the next meeting.'",
       "options": {
         "A": "bring up",
-        "B": "bring about",
+        "B": "bring off",
         "C": "bring in",
         "D": "bring down"
       },
@@ -222,7 +222,7 @@
       "question": "Select the appropriate linking expression: 'The project is behind schedule; _____, we need to work overtime.'",
       "options": {
         "A": "otherwise",
-        "B": "therefore",
+        "B": "accordingly",
         "C": "meanwhile",
         "D": "although"
       },
@@ -233,10 +233,10 @@
       "id": 20,
       "question": "Choose the correct word formation to complete the sentence: 'The _____ of the ancient ruins attracted thousands of tourists.' (DISCOVER)",
       "options": {
-        "A": "discoverable",
+        "A": "discourse",
         "B": "discovering",
         "C": "discovery",
-        "D": "discovered"
+        "D": "disclosure"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -247,7 +247,7 @@
       "options": {
         "A": "weigh up",
         "B": "come across",
-        "C": "put forward",
+        "C": "put before",
         "D": "break down"
       },
       "correct_answer": "A",
@@ -284,7 +284,7 @@
         "A": "for",
         "B": "with",
         "C": "about",
-        "D": "to"
+        "D": "of"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -296,7 +296,7 @@
         "A": "study",
         "B": "studying",
         "C": "to study",
-        "D": "studied"
+        "D": "for study"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -319,20 +319,20 @@
       "options": {
         "A": "Something that can be avoided with careful planning",
         "B": "A situation that causes great controversy",
-        "C": "Something certain to happen; unavoidable",
-        "D": "A surprising or unexpected event"
+        "C": "A surprising or unexpected event",
+        "D": "Something certain to happen"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 28,
       "question": "Which sentence uses the word 'acknowledge' correctly?",
       "options": {
-        "A": "She acknowledged to the store to buy groceries.",
+        "A": "She has acknowledged as a leading scientist in her field for many years.",
         "B": "The professor acknowledged the student's excellent work in class.",
-        "C": "They acknowledged the building with modern architecture.",
-        "D": "He acknowledged the tree with decorative lights."
+        "C": "They acknowledged the building's quality with modern architecture.",
+        "D": "He was acknowledged for the Christmas tree with decorative lights."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -366,9 +366,9 @@
       "question": "In which sentence is 'circumstance' used correctly?",
       "options": {
         "A": "She circumstanced her opinion clearly during the debate.",
-        "B": "They circumstanced around the obstacle course efficiently.",
+        "B": "Their circumstances around the obstacle course were efficient.",
         "C": "Under the circumstances, we decided to postpone the event.",
-        "D": "He circumstanced the project with great attention to detail."
+        "D": "His circumstances brought the project with great attention to detail."
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -378,9 +378,9 @@
       "question": "Which sentence uses 'anticipate' correctly?",
       "options": {
         "A": "They anticipate a large crowd at tomorrow's concert.",
-        "B": "She anticipated her car in the parking garage.",
-        "C": "He anticipated with his colleagues on the new project.",
-        "D": "We anticipated the message to all departments."
+        "B": "She has anticipated her car repair in the garage.",
+        "C": "He anticipated working with his colleagues on the new project.",
+        "D": "We anticipate the messages from all departments."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -404,7 +404,7 @@
         "A": "The lawyer advocates his client in court tomorrow.",
         "B": "She advocates for stricter environmental regulations.",
         "C": "They advocated the building last month.",
-        "D": "He advocates to work every day at 9 AM."
+        "D": "He advocates to working from morning to evening."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -414,7 +414,7 @@
       "question": "Which definition best describes 'controversy'?",
       "options": {
         "A": "A general agreement among a group of people",
-        "B": "A prolonged public discussion or argument, often causing strong feelings",
+        "B": "A state of prolonged public dispute or debate",
         "C": "A formal process for resolving disputes",
         "D": "A scientific theory that has been proven correct"
       },
@@ -428,7 +428,7 @@
         "A": "She contributed the meeting with several good ideas.",
         "B": "He contributes his children to school every morning.",
         "C": "They contributed generously to the charity fundraiser.",
-        "D": "We contribute the furniture around the room."
+        "D": "We contribute the furniture around to our new apartment."
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -439,20 +439,20 @@
       "options": {
         "A": "The hotel guarantees comfortable accommodations for all guests.",
         "B": "She guaranteed to the store to return the faulty product.",
-        "C": "They guarantee through the forest to reach the lake.",
-        "D": "He guaranteed the information into a single document."
+        "C": "They got guaranteed way through the forest to reach the lake.",
+        "D": "He guaranteed the information which was formally accepted."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 38,
-      "question": "Choose the best definition of 'diminish':",
+      "question": "Choose the best definition of 'make something become less in size, importance, or value':",
       "options": {
-        "A": "To make something larger or more impressive",
-        "B": "To make something become less in size, importance, or value",
-        "C": "To completely eliminate or destroy something",
-        "D": "To maintain something at its current level"
+        "A": "To decline",
+        "B": "To diminish",
+        "C": "To lessen",
+        "D": "To destroy"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -463,8 +463,8 @@
       "options": {
         "A": "The castle dominates the landscape from its position on the hill.",
         "B": "She dominated to the conclusion after careful analysis.",
-        "C": "They dominated the project until next week.",
-        "D": "He dominates with his colleagues every morning."
+        "C": "They dominated on the project until it was done.",
+        "D": "He managed to dominate  on the issue with his colleagues."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -473,8 +473,8 @@
       "id": 40,
       "question": "In which sentence is 'undergo' used correctly?",
       "options": {
-        "A": "The city underwent several teams to complete the project.",
-        "B": "She underwent her opinion during the debate.",
+        "A": "The city undergoes several teams to complete the project.",
+        "B": "She would undergo her reputation during the debate this afternoon.",
         "C": "The building is undergoing extensive renovations this year.",
         "D": "They undergo the instructions carefully to avoid mistakes."
       },
@@ -499,8 +499,8 @@
       "options": {
         "A": "Through the collision of two continental plates",
         "B": "By the subduction of an oceanic plate beneath a continental plate",
-        "C": "Through the separation of tectonic plates",
-        "D": "By differential erosion over millions of years"
+        "C": "Through the separation of tectonic plates one from another",
+        "D": "By differential erosion processes have been made over millions of years"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -509,12 +509,12 @@
       "id": 43,
       "question": "Which type of mountain formation occurs at divergent boundaries?",
       "options": {
-        "A": "Folded mountains from continental collision",
+        "A": "Folded mountains from continental collision of different plates",
         "B": "Volcanic mountains from subduction",
-        "C": "Mountains formed by rising magma filling gaps between separating plates",
-        "D": "Isolated mountains from differential erosion"
+        "C": "Isolated mountains from differential erosion",
+        "D": "Mountains formed by rising magma filling gaps between separating plates"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -524,7 +524,7 @@
         "A": "Because of increasing volcanic activity",
         "B": "Due to the continued pressure of the Indian subcontinent into Asia",
         "C": "Because of differential erosion of surrounding rocks",
-        "D": "Due to the rising magma from the mantle"
+        "D": "Due to the rising magma from the mantle of the Indian subcontinent"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -535,8 +535,8 @@
       "options": {
         "A": "The process where one tectonic plate slides beneath another",
         "B": "The folding of land due to pressure from colliding plates",
-        "C": "The rising of magma from the mantle",
-        "D": "The horizontal sliding of plates past each other"
+        "C": "The horizontal sliding of plates past each other",
+        "D": "The rising of magma from the mantle"
       },
       "correct_answer": "A",
       "category": "Reading"
@@ -557,9 +557,9 @@
       "id": 47,
       "question": "What information can geologists obtain from examining rock layers in mountains?",
       "options": {
-        "A": "Future patterns of plate movement",
-        "B": "The exact age of Earth",
-        "C": "Information about ancient environments and climate conditions",
+        "A": "The exact age of Earth",
+        "B": "Future patterns of plate movement",
+        "C": "Information about ancient environments",
         "D": "Predictions about future volcanic eruptions"
       },
       "correct_answer": "C",
@@ -581,12 +581,12 @@
       "id": 49,
       "question": "Based on the passage, what is the relationship between mountain ranges and global climate?",
       "options": {
-        "A": "Mountain ranges have no significant effect on climate",
-        "B": "Mountain ranges influence atmospheric circulation and precipitation",
+        "A": "Mountain ranges influence atmospheric circulation and precipitation",
+        "B": "Mountain ranges have no significant effect on climate",
         "C": "Mountains only affect local weather, not global climate",
         "D": "Climate influences mountain formation, but not vice versa"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Reading"
     },
     {
