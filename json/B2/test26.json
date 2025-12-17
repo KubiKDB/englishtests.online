@@ -6,11 +6,11 @@
       "question": "By the time they finally reached the summit, the sun ______.",
       "options": {
         "A": "has set",
-        "B": "had set",
+        "B": "was set",
         "C": "sets",
-        "D": "was setting"
+        "D": "had set"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -42,11 +42,11 @@
       "question": "The old house, ______ for years, was finally renovated last summer.",
       "options": {
         "A": "has been neglecting",
-        "B": "being neglected",
-        "C": "having neglected",
-        "D": "neglecting"
+        "B": "having neglected",
+        "C": "being neglected",
+        "D": "having being neglected"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -56,7 +56,7 @@
         "A": "will understand",
         "B": "understands",
         "C": "understand",
-        "D": "is understanding"
+        "D": "must understand"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -78,9 +78,9 @@
       "question": "Having finished the marathon, ______ exhausted but triumphant.",
       "options": {
         "A": "he felt",
-        "B": "feeling",
-        "C": "to feel",
-        "D": "felt"
+        "B": "he had a feeling of",
+        "C": "he was to feel",
+        "D": "he was felt"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -115,8 +115,8 @@
       "options": {
         "A": "better",
         "B": "the better",
-        "C": "well",
-        "D": "good"
+        "C": "the best",
+        "D": "the more better"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -138,7 +138,7 @@
       "question": "Seldom ______ such a breathtaking view in my entire life.",
       "options": {
         "A": "I have seen",
-        "B": "I saw",
+        "B": "saw I",
         "C": "have I seen",
         "D": "did I see"
       },
@@ -152,7 +152,7 @@
         "A": "that",
         "B": "which",
         "C": "what",
-        "D": "who"
+        "D": "when"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -186,9 +186,9 @@
       "question": "Select the sentence with the correct use of articles.",
       "options": {
         "A": "The sun is a star that gives us light.",
-        "B": "Sun is a star that gives us light.",
+        "B": "The sun is a star that gives us the light.",
         "C": "A sun is the star that gives us light.",
-        "D": "The sun is star that gives us light."
+        "D": "The sun is star that gives us the light."
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -198,11 +198,11 @@
       "question": "Choose the best preposition to complete the sentence: She is interested ______ learning new languages.",
       "options": {
         "A": "at",
-        "B": "in",
+        "B": "with",
         "C": "on",
-        "D": "with"
+        "D": "in"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -212,7 +212,7 @@
         "A": "The cat, along with her kittens, are playing in the garden.",
         "B": "The cat, along with her kittens, is playing in the garden.",
         "C": "The cats, along with her kitten, is playing in the garden.",
-        "D": "The cat, along with her kittens, play in the garden."
+        "D": "The cat, along with her kittens, is plays in the garden."
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -279,24 +279,24 @@
     },
     {
       "id": 24,
-      "question": "Choose the phrasal verb that best fits the sentence: They decided to ______ the meeting until next week.",
-      "options": {
-        "A": "put on",
-        "B": "put off",
-        "C": "put in",
-        "D": "put up"
+      "question": "Despite the technical difficulties, the team eventually ______ in finishing the project on time.",
+    "options": {
+      "A": "managed",
+      "B": "succeeded",
+      "C": "achieved",
+      "D": "completed"
       },
       "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 25,
-      "question": "Identify the correctly punctuated sentence.",
-      "options": {
-        "A": "Despite the rain; we enjoyed the picnic.",
-        "B": "Despite the rain, we enjoyed the picnic.",
-        "C": "Despite the rain we, enjoyed the picnic.",
-        "D": "Despite, the rain we enjoyed the picnic."
+      "question": "Choose the correctly punctuated sentence.",
+    "options": {
+      "A": "The flight was delayed, however, we still arrived on time.",
+      "B": "The flight was delayed; however, we still arrived on time.",
+      "C": "The flight was delayed however, we still arrived on time.",
+      "D": "The flight was delayed, however; we still arrived on time."
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -327,14 +327,14 @@
     },
     {
       "id": 28,
-      "question": "What does 'ambiguous' mean?",
+      "question": "What is the word for 'having more than one possible meaning'?",
       "options": {
-        "A": "Very clear",
-        "B": "Having more than one possible meaning",
-        "C": "Easy to understand",
-        "D": "Well-defined"
+        "A": "Mystic",
+        "B": "Dimmed",
+        "C": "Clear",
+        "D": "Ambiguous"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -342,11 +342,11 @@
       "question": "Select the word that BEST describes something that is a natural and essential part of something else.",
       "options": {
         "A": "Extrinsic",
-        "B": "Inherent",
-        "C": "Acquired",
+        "B": "Acquired",
+        "C": "Inherent",
         "D": "External"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Vocabulary"
     },
     {
@@ -377,7 +377,7 @@
       "id": 32,
       "question": "Which word means 'including everything'? ",
       "options": {
-        "A": "Partial",
+        "A": "Understandable",
         "B": "Limited",
         "C": "Comprehensive",
         "D": "Selective"
@@ -413,10 +413,10 @@
       "id": 35,
       "question": "To prove something wrong or false is to ______ it.",
       "options": {
-        "A": "Verify",
-        "B": "Substantiate",
+        "A": "Refuse",
+        "B": "Defuse",
         "C": "Refute",
-        "D": "Corroborate"
+        "D": "Affirm"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -425,8 +425,8 @@
       "id": 36,
       "question": "A statement that seems self-contradictory but contains a deeper truth is called a ______ .",
       "options": {
-        "A": "Truism",
-        "B": "Platitude",
+        "A": "Theory",
+        "B": "Hypothesis",
         "C": "Paradox",
         "D": "Axiom"
       },
@@ -437,7 +437,7 @@
       "id": 37,
       "question": "To reduce the severity of something bad is to ______ it.",
       "options": {
-        "A": "Exacerbate",
+        "A": "Attenuate",
         "B": "Intensify",
         "C": "Aggravate",
         "D": "Mitigate"
@@ -449,7 +449,7 @@
       "id": 38,
       "question": "Which word means 'believable'?",
       "options": {
-        "A": "Implausible",
+        "A": "Incredible",
         "B": "Unlikely",
         "C": "Plausible",
         "D": "Doubtful"
@@ -461,12 +461,12 @@
       "id": 39,
       "question": "______ standards ensure a high level of quality and accuracy.",
       "options": {
-        "A": "Lax",
+        "A": "Stict",
         "B": "Lenient",
-        "C": "Rigorous",
-        "D": "Casual"
+        "C": "Casual",
+        "D": "Rigorous"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -476,7 +476,7 @@
         "A": "Superficial",
         "B": "Obvious",
         "C": "Underlying",
-        "D": "Apparent"
+        "D": "Based"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -485,7 +485,7 @@
       "id": 41,
       "question": "According to paragraph 2, what is inherently linked to the rise of digital nomadism?",
       "options": {
-        "A": "Decreased travel costs",
+        "A": "Decreased travel costs and advancements in technology",
         "B": "Advancements in technology and remote work",
         "C": "Government regulations on employment",
         "D": "Increased office-based job opportunities"
@@ -524,7 +524,7 @@
         "A": "Easy access to healthcare",
         "B": "Simple visa regulations",
         "C": "Maintaining social connections",
-        "D": "Effortless work routine"
+        "D": "Everyday effortless work routine"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -535,10 +535,10 @@
       "options": {
         "A": "Increase",
         "B": "Worsen",
-        "C": "Reduce",
-        "D": "Ignore"
+        "C": "Ignore",
+        "D": "Reduce"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -571,7 +571,7 @@
       "options": {
         "A": "The downsides of digital nomadism outweigh its benefits.",
         "B": "Digital nomadism is a temporary trend that will soon disappear.",
-        "C": "Digital nomadism is a growing and evolving work lifestyle with both advantages and challenges.",
+        "C": "Digital nomadism is a growing and evolving work lifestyle.",
         "D": "Traditional office work is superior to digital nomadism in all aspects."
       },
       "correct_answer": "C",
