@@ -8,7 +8,7 @@
         "A": "The committee members was unable to reach a consensus.",
         "B": "Each of the students have their own assigned project.",
         "C": "Neither the teacher nor the students were prepared for the exam.",
-        "D": "The number of participants have increased significantly."
+        "D": "The number of participants have increased significantly since last month."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -17,8 +17,8 @@
       "id": 2,
       "question": "Choose the sentence with the correct verb tense usage:",
       "options": {
-        "A": "By the time we arrived, the lecture already started.",
-        "B": "I live in this city since 2010.",
+        "A": "I live in this city since 2010.",
+        "B": "By the time we arrived, the lecture already started.",
         "C": "She has been studying for three hours when I called.",
         "D": "They had been waiting for two hours before the bus finally arrived."
       },
@@ -29,10 +29,10 @@
       "id": 3,
       "question": "Select the grammatically correct sentence:",
       "options": {
-        "A": "The woman which won the competition is my neighbor.",
-        "B": "The woman who won the competition is my neighbor.",
-        "C": "The woman whom won the competition is my neighbor.",
-        "D": "The woman whose won the competition is my neighbor."
+        "A": "The girl which won the competition is my neighbor.",
+        "B": "The girl who won the competition is my neighbor.",
+        "C": "The girl whom won the competition is my neighbor.",
+        "D": "The girl that won the competition is my neighbor."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -51,26 +51,26 @@
     },
     {
       "id": 5,
-      "question": "Choose the sentence with the correct use of articles:",
+      "question": "It was difficult at first, but I eventually _______ on the left side of the road.",
       "options": {
-        "A": "She plays violin in orchestra every Saturday.",
-        "B": "She plays a violin in an orchestra every Saturday.",
-        "C": "She plays the violin in the orchestra every Saturday.",
-        "D": "She plays a violin in the orchestra every Saturday."
+      "A": "used to driving",
+      "B": "got used to driving",
+      "C": "used to driving",
+      "D": "was used to driving"
       },
-      "correct_answer": "D",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
       "id": 6,
-      "question": "Select the sentence with the correct use of comparative forms:",
+      "question": "________ carefully you plan the trip, ________ problems you will have later.",
       "options": {
-        "A": "This book is more interesting than any book I've read.",
-        "B": "This book is more interesting than any other book I've read.",
-        "C": "This book is the most interesting than all the books I've read.",
-        "D": "This book is more interesting than most books I've read before."
+      "A": "The more/the fewer",
+      "B": "The more/the few",
+      "C": "For more/for fewer",
+      "D": "As more/as few"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
@@ -113,12 +113,12 @@
       "id": 10,
       "question": "Which sentence uses the gerund correctly?",
       "options": {
-        "A": "He avoided to speak in public whenever possible.",
-        "B": "They enjoy to travel to new countries every summer.",
-        "C": "She suggested to meet at the café downtown.",
-        "D": "We considered postponing the meeting until next week."
+        "A": "We considered postponing the meeting until next week.",
+        "B": "They enjoy to traveling to new countries every summer.",
+        "C": "She suggested of meeting at the café downtown.",
+        "D": "He avoided to speaking in public whenever possible."
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
@@ -127,7 +127,7 @@
       "options": {
         "A": "He has been working at this project since last month.",
         "B": "We arrived to the conference center at 9 AM.",
-        "C": "She's been living in Paris for three years.",
+        "C": "She has been living in Paris for three years.",
         "D": "The book is comprised from ten chapters."
       },
       "correct_answer": "C",
@@ -137,12 +137,12 @@
       "id": 12,
       "question": "Select the sentence with the correct infinitive form:",
       "options": {
-        "A": "The professor expected the students completing the assignment by Friday.",
-        "B": "She helped me solving the complex math problem.",
-        "C": "The company encouraged its employees to participate in the training program.",
+        "A": "The professor expected the students to completing the assignment by Friday.",
+        "B": "The company encouraged its employees to participate in the training program.",
+        "C": "She was to helped me solving the complex math problem.",
         "D": "They made us to wait outside for nearly an hour."
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Grammar"
     },
     {
@@ -166,7 +166,7 @@
         "C": "They announced that the train had been delayed for three hours.",
         "D": "The professor explained that the earth revolves around the sun."
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -174,7 +174,7 @@
       "question": "Select the sentence with the correct use of the past perfect tense:",
       "options": {
         "A": "After she has finished her exam, she went to celebrate with friends.",
-        "B": "By the time we reached the theater, the movie had already started.",
+        "B": "By the time we reached the theater, the show had already started.",
         "C": "They have already left when we arrived at the party.",
         "D": "The train already departed before we got to the station."
       },
@@ -188,16 +188,16 @@
         "A": "accommodate",
         "B": "address",
         "C": "approach",
-        "D": "advance"
+        "D": "accumulate"
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 17,
-      "question": "Select the best definition of 'nonetheless' as used in this sentence: The hike was extremely challenging; nonetheless, all members of the group completed it successfully.",
+      "question": "Select the best definition of 'nonetheless' in this sentence: The hike was extremely challenging; nonetheless, all members of the group completed it successfully.",
       "options": {
-        "A": "as a result",
+        "A": "nevermind",
         "B": "in contrast",
         "C": "in addition",
         "D": "nevertheless"
@@ -209,7 +209,7 @@
       "id": 18,
       "question": "Choose the word that best completes the sentence: The researchers conducted a _____ study that examined all aspects of the problem.",
       "options": {
-        "A": "profound",
+        "A": "compromising",
         "B": "comprehensive",
         "C": "extensive",
         "D": "thorough"
@@ -245,10 +245,10 @@
       "id": 21,
       "question": "Select the correct meaning of 'profound' as used in this sentence: The discovery had a profound impact on our understanding of human evolution.",
       "options": {
-        "A": "temporary",
+        "A": "clever",
         "B": "deep",
-        "C": "immediate",
-        "D": "widespread"
+        "C": "wise",
+        "D": "extreme"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -354,7 +354,7 @@
       "question": "Choose the word that best completes the sentence: Although it was a _____ issue, it still needed to be addressed promptly.",
       "options": {
         "A": "major",
-        "B": "significant",
+        "B": "minimal",
         "C": "critical",
         "D": "minor"
       },
@@ -363,24 +363,24 @@
     },
     {
       "id": 31,
-      "question": "Choose the correct phrasal verb: The meeting has been _____ until next week due to scheduling conflicts.",
+      "question": "I wish I ______ the tickets earlier; now they are completely sold out.",
       "options": {
-        "A": "put off",
-        "B": "put down",
-        "C": "put up",
-        "D": "put away"
+      "A": "bought",
+      "B": "had bought",
+      "C": "have bought",
+      "D": "would have bought"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
       "id": 32,
-      "question": "Select the correct collocation: The study aims to _____ light on the causes of this phenomenon.",
+      "question": "Select the correct collocation: The study aims to _____ on the causes of this phenomenon.",
       "options": {
-        "A": "make",
-        "B": "throw",
-        "C": "shed",
-        "D": "cast"
+        "A": "make attempt",
+        "B": "throw shadow",
+        "C": "shed light",
+        "D": "cast case"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -389,9 +389,9 @@
       "id": 33,
       "question": "Choose the correct idiomatic expression: After working on the problem for hours, the solution finally _____ to me.",
       "options": {
-        "A": "came across",
-        "B": "came about",
-        "C": "came up",
+        "A": "came as light",
+        "B": "came light off",
+        "C": "came light up",
         "D": "came to light"
       },
       "correct_answer": "D",
@@ -413,10 +413,10 @@
       "id": 35,
       "question": "Choose the correct linking expression: The company has faced several challenges; _____, it has managed to increase its market share.",
       "options": {
-        "A": "moreover",
+        "A": "furthermore",
         "B": "therefore",
-        "C": "nevertheless",
-        "D": "subsequently"
+        "C": "notwithstanding",
+        "D": "afterwards"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -427,8 +427,8 @@
       "options": {
         "A": "The man speaking to the professor is my uncle.",
         "B": "The man which speaking to the professor is my uncle.",
-        "C": "The man spoken to the professor is my uncle.",
-        "D": "The man speaks to the professor is my uncle."
+        "C": "The man who spoken to the professor is my uncle.",
+        "D": "The man that speaks to the professor is my uncle."
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -449,7 +449,7 @@
       "id": 38,
       "question": "Select the correct expression for making a recommendation: _____ consider implementing a more flexible work schedule.",
       "options": {
-        "A": "It would be a good idea to",
+        "A": "It is a good idea to",
         "B": "I think about",
         "C": "You may want",
         "D": "Why not to"
@@ -461,12 +461,12 @@
       "id": 39,
       "question": "Choose the sentence with the correct use of a cleft structure:",
       "options": {
-        "A": "It is in 2008 when the financial crisis began.",
-        "B": "It was in 2008 that the financial crisis began.",
+        "A": "It was in 2008 that the financial crisis began.",
+        "B": "It is in 2008 when the financial crisis began.",
         "C": "It was 2008 when the financial crisis began.",
         "D": "It is 2008 that the financial crisis began."
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Use of English"
     },
     {
@@ -485,8 +485,8 @@
       "id": 41,
       "question": "According to paragraph 1, technological innovations have primarily served as:",
       "options": {
-        "A": "Barriers to human progress",
-        "B": "Catalysts for social and economic transformations",
+        "A": "Barriers to social and economic progress",
+        "B": "Catalysts for  transformations",
         "C": "Tools for military conquest",
         "D": "Methods for environmental control"
       },
@@ -509,12 +509,12 @@
       "id": 43,
       "question": "According to the passage, what was a significant consequence of the Agricultural Revolution?",
       "options": {
-        "A": "Decreased population growth",
-        "B": "The decline of metallurgy",
-        "C": "The rise of complex civilizations",
-        "D": "Reduced social stratification"
+        "A": "The decline of metallurgy",
+        "B": "Decreased population growth",
+        "C": "Reduced social stratification",
+        "D": "The rise of complex civilizations"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -546,7 +546,7 @@
       "question": "The phrase 'compressed time and space' in paragraph 3 most likely refers to:",
       "options": {
         "A": "Physical contraction of the universe",
-        "B": "Reduction in working hours",
+        "B": "Reduction in working hours and communication",
         "C": "Decreased travel and communication times",
         "D": "Smaller factory spaces"
       },
@@ -558,11 +558,11 @@
       "question": "According to the passage, what has been a consistent historical response to technological change?",
       "options": {
         "A": "Uniform enthusiasm",
-        "B": "Complete rejection",
-        "C": "Mixed feelings of enthusiasm and apprehension",
+        "B": "Mixed feelings",
+        "C": "Complete rejection",
         "D": "Immediate regulation"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Reading"
     },
     {
@@ -595,7 +595,7 @@
       "options": {
         "A": "Argue against technological determinism",
         "B": "Provide a historical overview of how technology has driven social change",
-        "C": "Predict future technological developments",
+        "C": "Predict future technological developments that will drive social changes",
         "D": "Compare different technological revolutions"
       },
       "correct_answer": "B",
