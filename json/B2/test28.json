@@ -5,10 +5,10 @@
       "id": 1,
       "question": "Which of the following correctly uses the present perfect tense?",
       "options": {
-        "A": "She was studying for the exam since morning.",
+        "A": "She have been studying for the exam since morning.",
         "B": "They have lived in this neighborhood for ten years.",
-        "C": "I am working on this project for three weeks.",
-        "D": "He did not finished the assignment yet."
+        "C": "I has been working on this project for three weeks.",
+        "D": "He had not finished the assignment yet."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -22,19 +22,19 @@
         "C": "Neither the teacher nor the students were informed.",
         "D": "The data shows significant improvements in all areas."
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 3,
       "question": "Identify the correct passive voice construction.",
       "options": {
-        "A": "They building the new library next year.",
-        "B": "The document had signed by the manager yesterday.",
-        "C": "The exhibition will be opened by the mayor next week.",
-        "D": "The computer was fixing by the technician."
+        "A": "They builded the new library last year.",
+        "B": "The document had been signed by the manager yesterday.",
+        "C": "The computer was been fixing by the technician.",
+        "D": "The exhibition will be opened by the mayor next week."
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -44,19 +44,19 @@
         "A": "The woman which I met yesterday is a famous scientist.",
         "B": "The book that I borrowed it from the library was very interesting.",
         "C": "The restaurant where we had dinner last night has excellent reviews.",
-        "D": "The students who they failed the exam must retake it."
+        "D": "The students who had been failed the exam must retake it next week."
       },
       "correct_answer": "C",
       "category": "Grammar"
     },
     {
       "id": 5,
-      "question": "Select the sentence with the correct conditional form.",
-      "options": {
-        "A": "If I would have known about the meeting, I would have attended it.",
-        "B": "If it rains tomorrow, we will cancel the picnic.",
-        "C": "If I was you, I will accept the job offer.",
-        "D": "If she study harder, she would pass the exam."
+      "question": "Select the grammatically correct sentence referring to a past situation.",
+    "options": {
+      "A": "If I would have known the truth, I would have told you.",
+      "B": "If I had known the truth, I would have told you.",
+      "C": "If I knew the truth, I would have told you.",
+      "D": "Had I know the truth, I would have told you."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -67,8 +67,8 @@
       "options": {
         "A": "You must to arrive by 9 AM tomorrow.",
         "B": "She can singing very well.",
-        "C": "They might not be able to attend the conference.",
-        "D": "He should to call his parents more often."
+        "C": "They might not be able to attend the class.",
+        "D": "He should to calling his parents more often."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -77,31 +77,31 @@
       "id": 7,
       "question": "Identify the sentence with the correct use of articles.",
       "options": {
-        "A": "She is best student in the class.",
+        "A": "She is the better student in the class.",
         "B": "He bought a umbrella because it was raining.",
-        "C": "We had an interesting discussion about the global economy.",
-        "D": "They visited famous museum in Paris last summer."
+        "C": "They visited famous museum in Paris last summer.",
+        "D": "We had an interesting discussion about the global economy."
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 8,
       "question": "Choose the sentence with the correct use of comparatives and superlatives.",
       "options": {
-        "A": "This is the most easiest exercise in the book.",
-        "B": "Her presentation was more better than his.",
-        "C": "That was the most interesting lecture I've ever attended.",
-        "D": "This hotel is more cheaper than the one downtown."
+        "A": "That was the most interesting lecture I've ever attended.",
+        "B": "Her presentation was way more better than his.",
+        "C": "This is the most easiest exercise in the book.",
+        "D": "This hotel is much more cheaper than the one downtown."
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
       "id": 9,
       "question": "Which sentence uses the gerund correctly?",
       "options": {
-        "A": "She enjoys to swim in the ocean.",
+        "A": "She enjoys to swim in the warm ocean.",
         "B": "They admitted stealing the documents.",
         "C": "I look forward to seeing your soon.",
         "D": "He suggested to go to the museum."
@@ -149,8 +149,8 @@
       "id": 13,
       "question": "Choose the sentence with the correct use of the past perfect tense.",
       "options": {
-        "A": "After I had finished my homework, I watched TV.",
-        "B": "Before she arrived, we already left the party.",
+        "A": "After I had finished my homework, I watched YT.",
+        "B": "Before she arrived, we have already left the party.",
         "C": "He had been lived in Paris before moving to London.",
         "D": "They had went to the store before cooking dinner."
       },
@@ -161,10 +161,10 @@
       "id": 14,
       "question": "Which sentence uses the infinitive correctly?",
       "options": {
-        "A": "She wants learning a new language.",
+        "A": "She wants to learning a new language.",
         "B": "They decided buying a new car next year.",
         "C": "He helped me to carry the heavy boxes upstairs.",
-        "D": "I expect finish the project by Friday."
+        "D": "I expect to finishing the project by next Friday."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -187,7 +187,7 @@
       "options": {
         "A": "authority",
         "B": "authorization",
-        "C": "author",
+        "C": "authorized",
         "D": "authorize"
       },
       "correct_answer": "A",
@@ -209,10 +209,10 @@
       "id": 18,
       "question": "Which sentence uses the word 'disaster' correctly?",
       "options": {
-        "A": "Her disaster to the project was significant.",
+        "A": "They admitted that her disaster to the project was significant.",
         "B": "The hurricane caused a major disaster in the coastal areas.",
-        "C": "He disasters about politics all the time.",
-        "D": "They disaster the importance of education."
+        "C": "His political disasters banned him from being elected this year.",
+        "D": "Their understanding of the importance of education was a disaster."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -235,8 +235,8 @@
       "options": {
         "A": "I prefer tea than coffee in the morning.",
         "B": "She prefers to work from home rather than commuting daily.",
-        "C": "They prefer watching movies but reading books.",
-        "D": "He prefers stay at home on weekends."
+        "C": "They prefer watching movies but reading books on weekends.",
+        "D": "He prefers stay at home on cold days."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -259,7 +259,7 @@
       "options": {
         "A": "Extremely expensive or luxurious",
         "B": "Having a high opinion of oneself",
-        "C": "Not excessively large, elaborate, or expensive",
+        "C": "Not excessively large or expensive",
         "D": "Very colorful and attention-seeking"
       },
       "correct_answer": "C",
@@ -270,9 +270,9 @@
       "question": "Which sentence uses 'hesitation' correctly?",
       "options": {
         "A": "She accepted the job offer without hesitation.",
-        "B": "He hesitation the project deadline by a week.",
-        "C": "They hesitation about the new policy changes.",
-        "D": "I hesitation your advice about the investment."
+        "B": "His hesitation for the project was remarkable.",
+        "C": "Their hesitation about the new policy changes.",
+        "D": "I have hesitation for your advice about the investment."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -281,10 +281,10 @@
       "id": 24,
       "question": "Choose the correct usage of 'advance':",
       "options": {
-        "A": "The team advanced to the finals after winning the semifinal match.",
+        "A": "The team advanced to the finals.",
         "B": "She advance her career by taking extra courses.",
-        "C": "They advance meeting tomorrow morning.",
-        "D": "He advance the book from the library."
+        "C": "They advance meeting for tomorrow morning.",
+        "D": "He took the book from the library in advance."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -294,7 +294,7 @@
       "question": "What does 'ordinary' mean?",
       "options": {
         "A": "Exceptional or outstanding",
-        "B": "With no special or distinctive features; normal",
+        "B": "With no special or distinctive features",
         "C": "Relating to a formal ceremony or ritual",
         "D": "Extremely rare or unusual"
       },
@@ -306,7 +306,7 @@
       "question": "Which sentence uses 'convince' correctly?",
       "options": {
         "A": "She tried to convince to him about the benefits of recycling.",
-        "B": "They convinced the movie last night.",
+        "B": "They convinced for the movie last night was great.",
         "C": "He couldn't convince of the authenticity of the painting.",
         "D": "The lawyer managed to convince the jury of his client's innocence."
       },
@@ -320,7 +320,7 @@
         "A": "Coming after something in time or order",
         "B": "Existing or occurring before something else",
         "C": "Happening at the same time as something else",
-        "D": "Likely to happen in the future"
+        "D": "Likely to happen in the distant past or future"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
