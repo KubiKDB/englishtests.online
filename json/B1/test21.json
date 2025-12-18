@@ -6,11 +6,11 @@
       "question": "Which form correctly completes the sentence? 'She _____ here since 2018.'",
       "options": {
         "A": "is living",
-        "B": "has been living",
+        "B": "was living",
         "C": "lives",
-        "D": "was living"
+        "D": "has been living"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -41,12 +41,12 @@
       "id": 4,
       "question": "Choose the correct preposition: 'I'm afraid _____ spiders.'",
       "options": {
-        "A": "from",
-        "B": "of",
+        "A": "of",
+        "B": "from",
         "C": "at",
         "D": "with"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
@@ -54,11 +54,11 @@
       "question": "Which is the correct question form? '_____ to the park yesterday?'",
       "options": {
         "A": "Did they went",
-        "B": "Did they go",
-        "C": "Were they go",
+        "B": "Were they go",
+        "C": "Did they go",
         "D": "Have they gone"
       },
-      "correct_answer": "B",
+      "correct_answer": "C",
       "category": "Grammar"
     },
     {
@@ -77,7 +77,7 @@
       "id": 7,
       "question": "Choose the correct form: 'This is the book _____ I told you about.'",
       "options": {
-        "A": "who",
+        "A": "what",
         "B": "whom",
         "C": "which",
         "D": "whose"
@@ -90,8 +90,8 @@
       "question": "Which sentence uses the comparative form correctly?",
       "options": {
         "A": "This exercise is more easier than the last one.",
-        "B": "This exercise is easiest than the last one.",
-        "C": "This exercise is more easy than the last one.",
+        "B": "This exercise is the easiest than the last one.",
+        "C": "This exercise is as easy than the last one.",
         "D": "This exercise is easier than the last one."
       },
       "correct_answer": "D",
@@ -102,7 +102,7 @@
       "question": "Select the correct modal verb: 'You _____ wear a seatbelt when driving. It's the law.'",
       "options": {
         "A": "might",
-        "B": "could",
+        "B": "should",
         "C": "must",
         "D": "may"
       },
@@ -111,7 +111,7 @@
     },
     {
       "id": 10,
-      "question": "Choose the correct form: 'By the time we arrived, the movie _____.'",
+      "question": "Choose the correct form: 'By the time we arrived, the show _____.'",
       "options": {
         "A": "had already started",
         "B": "has already started",
@@ -125,10 +125,10 @@
       "id": 11,
       "question": "Which sentence is in the passive voice?",
       "options": {
-        "A": "The chef is cooking dinner.",
+        "A": "The chef is cooked dinner.",
         "B": "Dinner is being cooked by the chef.",
         "C": "The chef cooks dinner.",
-        "D": "The chef has cooked dinner."
+        "D": "The chef has been cooked dinner."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -152,7 +152,7 @@
         "A": "a",
         "B": "an",
         "C": "the",
-        "D": "no article needed"
+        "D": "-"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -174,9 +174,9 @@
       "question": "Choose the correct form: 'If only I _____ how to swim!'",
       "options": {
         "A": "know",
-        "B": "knows",
+        "B": "am knowing",
         "C": "knew",
-        "D": "known"
+        "D": "have known"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -195,14 +195,14 @@
     },
     {
       "id": 17,
-      "question": "Select the correct phrasal verb: 'Can you _____ the children while I go shopping?'",
+      "question": "Choose the correct option to complete the sentence: 'Maria _____ her jacket because it was getting cold.'",
       "options": {
-        "A": "look at",
-        "B": "look for",
-        "C": "look after",
-        "D": "look up"
+        "A": "put out",
+        "B": "put in",
+        "C": "put off",
+        "D": "put on"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -210,7 +210,7 @@
       "question": "Which expression is correct? 'I'm not sure if I'll pass the exam. It was really _____.'",
       "options": {
         "A": "piece of cake",
-        "B": "difficult",
+        "B": "climbing a mountain",
         "C": "a walk in the park",
         "D": "easy as ABC"
       },
@@ -221,7 +221,7 @@
       "id": 19,
       "question": "Choose the correct collocation: 'She wants to _____ some experience before applying to university.'",
       "options": {
-        "A": "do",
+        "A": "obtain",
         "B": "make",
         "C": "take",
         "D": "gain"
@@ -246,7 +246,7 @@
       "question": "Which phrase best completes the sentence? 'I'd like to _____ a complaint about the poor service.'",
       "options": {
         "A": "make",
-        "B": "do",
+        "B": "express",
         "C": "tell",
         "D": "say"
       },
@@ -291,12 +291,12 @@
     },
     {
       "id": 25,
-      "question": "Choose the correct expression: 'Could you please _____ me a favor?'",
-      "options": {
-        "A": "make",
-        "B": "do",
-        "C": "give",
-        "D": "take"
+      "question": "Which is the correct expression? I’ve _____ a cold and need to stay in bed.",
+        "options": {
+        "A": "taken up",
+        "B": "come down with",
+        "C": "put up with",
+        "D": "fallen out with"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -327,12 +327,12 @@
     },
     {
       "id": 28,
-      "question": "What does 'hit' mean in this context: 'The movie hit the theaters last week.'?",
+      "question": "What does 'hit' mean in this context: 'The Tom Cruise's blockbuster hit the theaters last week.'?",
       "options": {
         "A": "physically struck",
-        "B": "damaged",
+        "B": "damaged severely",
         "C": "was released in",
-        "D": "attacked"
+        "D": "attacked fiercely"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -342,11 +342,11 @@
       "question": "Which sentence uses 'energy' correctly?",
       "options": {
         "A": "He spent all his energy to finish the race.",
-        "B": "The city uses solar energy for street lights.",
+        "B": "I don't have any energy left in my phone.",
         "C": "She made great energy in the competition.",
-        "D": "I don't have any energy left in my phone."
+        "D": "The city uses solar energy for street lights."
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -366,11 +366,11 @@
       "question": "Choose the correct meaning of 'fall' in this context: 'House prices may fall next year.'",
       "options": {
         "A": "drop down physically",
-        "B": "decrease",
+        "B": "autumn season",
         "C": "collapse",
-        "D": "autumn season"
+        "D": "decrease"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -378,7 +378,7 @@
       "question": "Which sentence uses 'stress' as a verb?",
       "options": {
         "A": "He's under a lot of stress at work.",
-        "B": "The teacher stressed the importance of practice.",
+        "B": "The teachers stress the importance of practice.",
         "C": "Financial stress can affect your health.",
         "D": "The stress test showed some heart problems."
       },
@@ -413,10 +413,10 @@
       "id": 35,
       "question": "What does 'rise' mean in this sentence: 'Prices continue to rise every year.'?",
       "options": {
-        "A": "get up from a lying position",
+        "A": "get up",
         "B": "increase",
         "C": "rebel",
-        "D": "appear above the horizon"
+        "D": "appear"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -426,7 +426,7 @@
       "question": "Which sentence uses 'post' correctly?",
       "options": {
         "A": "I need to post this letter before noon.",
-        "B": "The post was too heavy to carry.",
+        "B": "The post parcel was too heavy to carry.",
         "C": "She posts the fence around her garden.",
         "D": "They post a meeting every Monday."
       },
@@ -461,9 +461,9 @@
       "id": 39,
       "question": "Which sentence uses 'connect' correctly?",
       "options": {
-        "A": "I need to connect my homework tonight.",
-        "B": "Can you connect me the problem?",
-        "C": "The train connects London and Manchester.",
+        "A": "I need to connect you to my homework.",
+        "B": "Can you connect me with the problem?",
+        "C": "Trains connect London and Manchester.",
         "D": "They connect a meeting every week."
       },
       "correct_answer": "C",
@@ -474,9 +474,9 @@
       "question": "Choose the correct meaning of 'throw' in this context: 'Let's throw a party this weekend.'",
       "options": {
         "A": "toss or fling",
-        "B": "discard",
+        "B": "discard or reject",
         "C": "organize or host",
-        "D": "vomit"
+        "D": "launch or send"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -487,22 +487,22 @@
       "options": {
         "A": "was built by a single Chinese dynasty",
         "B": "is exactly 13,000 miles long",
-        "C": "was constructed over several centuries",
-        "D": "is well understood by most people"
+        "C": "is well understood by most people",
+        "D": "was constructed over several centuries"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
       "id": 42,
       "question": "Based on paragraph 2, what was the main reason for building the Great Wall?",
       "options": {
-        "A": "To symbolize Chinese power",
+        "A": "To protect against northern invaders",
         "B": "To control trade routes",
-        "C": "To protect against northern invaders",
+        "C": "To symbolize Chinese power",
         "D": "To generate revenue for the empire"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Reading"
     },
     {
@@ -521,7 +521,7 @@
       "id": 44,
       "question": "What does the passage suggest about the human cost of building the Great Wall?",
       "options": {
-        "A": "It was relatively small.",
+        "A": "About ten million people may have died during construction.",
         "B": "It was worth the protection provided.",
         "C": "About one million people may have died during construction.",
         "D": "The Chinese government minimized casualties."
@@ -548,7 +548,7 @@
         "A": "It completely prevented all invasions.",
         "B": "It was a total failure at protecting China.",
         "C": "It delayed attacks but didn't stop all invasions.",
-        "D": "Its effectiveness is unknown."
+        "D": "Its effectiveness is unknown as historical data miss."
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -558,11 +558,11 @@
       "question": "According to the passage, which groups threatened ancient China?",
       "options": {
         "A": "The Japanese and Koreans",
-        "B": "The Romans and Greeks",
-        "C": "The Xiongnu and Mongols",
+        "B": "The Xiongnu and Mongols",
+        "C": "The Romans and Greeks",
         "D": "The Indians and Persians"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Reading"
     },
     {
@@ -583,8 +583,8 @@
       "options": {
         "A": "To provide employment for citizens",
         "B": "To demonstrate their power and authority",
-        "C": "To make it more attractive",
-        "D": "To improve trade relations"
+        "C": "To make it more attractive for visitors",
+        "D": "To improve trade relations between the countries"
       },
       "correct_answer": "B",
       "category": "Reading"
