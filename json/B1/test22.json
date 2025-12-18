@@ -29,8 +29,8 @@
       "id": 3,
       "question": "Which sentence contains a grammatical error?",
       "options": {
-        "A": "Neither my sister nor my brother is coming to the party.",
-        "B": "Either John or his friends are going to help us.",
+        "A": "Either John or his friends are going to help us.",
+        "B": "Neither my sister nor my brother is coming to the party.",
         "C": "Both the teacher and the students has been working hard.",
         "D": "Not only the principal but also the teachers were at the meeting."
       },
@@ -41,12 +41,12 @@
       "id": 4,
       "question": "Choose the grammatically correct sentence:",
       "options": {
-        "A": "If I would have known about the problem, I would have fixed it.",
+        "A": "If I had known about the problem, I would have fixed it.",
         "B": "If I had known about the problem, I would fixed it.",
-        "C": "If I had known about the problem, I would have fixed it.",
+        "C": "If I would have known about the problem, I would have fixed it.",
         "D": "If I knew about the problem, I would have fixed it."
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
@@ -67,10 +67,10 @@
       "options": {
         "A": "She's been waiting for the bus since two hours.",
         "B": "She's been waiting for the bus during two hours.",
-        "C": "She's been waiting for the bus for two hours.",
-        "D": "She's been waiting for the bus by two hours."
+        "C": "She's been waiting for the bus by two hours.",
+        "D": "She's been waiting for the bus for two hours."
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -80,7 +80,7 @@
         "A": "This building was build in 1980.",
         "B": "This building was built in 1980.",
         "C": "This building is built in 1980.",
-        "D": "This building has build in 1980."
+        "D": "This building has been built in 1980."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -89,7 +89,7 @@
       "id": 8,
       "question": "Which sentence contains a correct relative clause?",
       "options": {
-        "A": "The woman who car was stolen called the police.",
+        "A": "The woman that car was stolen called the police.",
         "B": "The woman which car was stolen called the police.",
         "C": "The woman whose car was stolen called the police.",
         "D": "The woman whom car was stolen called the police."
@@ -111,12 +111,12 @@
     },
     {
       "id": 10,
-      "question": "Choose the correct comparative form:",
-      "options": {
-        "A": "This exercise is more easier than the last one.",
-        "B": "This exercise is easyer than the last one.",
-        "C": "This exercise is more easy than the last one.",
-        "D": "This exercise is easier than the last one."
+     "question": "Choose the correctly structured comparative sentence:",
+    "options": {
+        "A": "The new laptop is slightly more heavy than my old one.",
+        "B": "The new laptop is as heavyer than my old one.",
+        "C": "The new laptop is much more heavier than my old one.",
+        "D": "The new laptop is a bit heavier than my old one."
       },
       "correct_answer": "D",
       "category": "Grammar"
@@ -149,12 +149,12 @@
       "id": 13,
       "question": "Which sentence has the correct word order?",
       "options": {
-        "A": "I don't know where is the library.",
-        "B": "I don't know where the library is.",
+        "A": "I don't know where the library is.",
+        "B": "I don't know where is the library.",
         "C": "I don't know the library where is.",
         "D": "I don't know is where the library."
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
@@ -186,9 +186,9 @@
       "question": "Which sentence uses the word 'mention' correctly?",
       "options": {
         "A": "Did he mention where the meeting would be held?",
-        "B": "I mention to school every morning at 8 AM.",
-        "C": "She mentioned very beautifully at the concert.",
-        "D": "They mention their house with new furniture."
+        "B": "I mention the task at school during the test.",
+        "C": "Her mention of the flowers was beautiful.",
+        "D": "They turn their big house into mention."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -197,12 +197,12 @@
       "id": 17,
       "question": "What is an 'academy' most likely to be?",
       "options": {
-        "A": "A type of restaurant",
-        "B": "An educational institution",
+        "A": "A music festival",
+        "B": "A university library",
         "C": "A government building",
-        "D": "A sports stadium"
+        "D": "An educational institution"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -223,8 +223,8 @@
       "options": {
         "A": "The astronauts' mission was to repair the satellite.",
         "B": "She has a mission cold and needs to rest.",
-        "C": "We mission to visit Paris next summer.",
-        "D": "The chef added mission to the sauce for flavor."
+        "C": "Our mission to visit Paris next summer.",
+        "D": "The chef added some pepper mission to the sauce for flavor."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -233,10 +233,10 @@
       "id": 20,
       "question": "What type of books would be classified as 'fiction'?",
       "options": {
-        "A": "History textbooks",
-        "B": "Biographies",
+        "A": "History and geography textbooks",
+        "B": "Biographies and almanacs",
         "C": "Novels and short stories",
-        "D": "Scientific journals"
+        "D": "Scientific journals and newspapers"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -245,7 +245,7 @@
       "id": 21,
       "question": "Which of the following could correctly be described using the word 'formula'?",
       "options": {
-        "A": "A painting in a museum",
+        "A": "A cooking recipe",
         "B": "A mathematical equation",
         "C": "A historical landmark",
         "D": "A political party"
@@ -255,12 +255,12 @@
     },
     {
       "id": 22,
-      "question": "What does 'tension' most commonly refer to?",
+      "question": "What is the word for 'state of mental or emotional strain'?",
       "options": {
-        "A": "A feeling of relaxation",
-        "B": "A type of weather",
-        "C": "A state of mental or emotional strain",
-        "D": "A method of cooking"
+        "A": "Retention",
+        "B": "Tanging",
+        "C": "Tension",
+        "D": "Aversion"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -269,10 +269,10 @@
       "id": 23,
       "question": "Which sentence uses 'reliable' correctly?",
       "options": {
-        "A": "The flowers in the garden are very reliable.",
+        "A": "The flowers in the garden are planted in reliable manner.",
         "B": "Her watch is reliable and always shows the correct time.",
-        "C": "They reliable their car last weekend.",
-        "D": "The movie was quite reliable and made everyone laugh."
+        "C": "They made their car more reliable after repairing it.",
+        "D": "The movie was a quite reliable comedy and made everyone laugh."
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -282,7 +282,7 @@
       "question": "What is a 'virtual' meeting?",
       "options": {
         "A": "A very important meeting",
-        "B": "A meeting that takes place online rather than in person",
+        "B": "A meeting online"
         "C": "A brief, informal meeting",
         "D": "A meeting that was canceled"
       },
@@ -294,21 +294,21 @@
       "question": "Choose the sentence where 'switched' is used correctly:",
       "options": {
         "A": "He switched on the lights when he entered the room.",
-        "B": "She switched a new dress for the party.",
-        "C": "They switched the table very carefully.",
-        "D": "We switched our holiday until next month."
+        "B": "She switched a few dresses for the party.",
+        "C": "They switched the light very carefully.",
+        "D": "We switched our holiday for the one next month."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 26,
-      "question": "What does it mean to 'monitor' something?",
+      "question": "What does it mean to 'observe' something?",
       "options": {
-        "A": "To ignore it",
-        "B": "To destroy it",
-        "C": "To observe and check it over time",
-        "D": "To repair it"
+        "A": "To monetize",
+        "B": "To minimize",
+        "C": "To monitor",
+        "D": "To multiply"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -317,10 +317,10 @@
       "id": 27,
       "question": "Which sentence uses the word 'citizen' correctly?",
       "options": {
-        "A": "She citizen to the store to buy milk.",
-        "B": "The building has three citizen and a basement.",
-        "C": "He became a citizen of Canada after living there for five years.",
-        "D": "They citizen the table before dinner."
+        "A": "She is a citizen living clode to the store.",
+        "B": "The dorm has three citizen per room.",
+        "C": "He became a citizen of Canada.",
+        "D": "They are great citizens of their community."
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -342,9 +342,9 @@
       "question": "Choose the sentence where 'nothing' is used correctly:",
       "options": {
         "A": "There was nothing in the refrigerator to eat.",
-        "B": "She nothing her homework yesterday.",
-        "C": "They nothing very excited about the news.",
-        "D": "He nothing to school every day."
+        "B": "She has nothing to do her homework yesterday.",
+        "C": "They were excited about nothing in the news .",
+        "D": "He didn't do nothing at school during the day."
       },
       "correct_answer": "A",
       "category": "Vocabulary"
@@ -363,12 +363,12 @@
     },
     {
       "id": 31,
-      "question": "Choose the correct phrasal verb to complete the sentence: 'The meeting has been ____ until next week.'",
+      "question": "Choose the correct phrasal verb to complete the sentence: 'We had to _____ the outdoor concert because of the heavy rain.'",
       "options": {
-        "A": "put off",
-        "B": "put down",
-        "C": "put away",
-        "D": "put out"
+        "A": "call off",
+        "B": "set off",
+        "C": "take off",
+        "D": "get off"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -387,21 +387,21 @@
     },
     {
       "id": 33,
-      "question": "Complete the sentence with the appropriate collocation: 'I need to ____ a decision about my future soon.'",
-      "options": {
-        "A": "do",
-        "B": "make",
-        "C": "take",
-        "D": "have"
+     "question": "Choose the most natural collocation to complete the sentence: 'After three hours of discussion, the committee finally managed to _____ an agreement.'",
+    "options": {
+      "A": "reach",
+      "B": "make",
+      "C": "attain",
+      "D": "get"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Use of English"
     },
     {
       "id": 34,
       "question": "Choose the correct expression for giving an opinion:",
       "options": {
-        "A": "If you want my opinion, I think the first option is better.",
+        "A": "As for me the first thought is the best.",
         "B": "I'm afraid I can't attend the meeting.",
         "C": "Let me think about it and get back to you.",
         "D": "I'm not sure if that's correct."
@@ -428,7 +428,7 @@
         "A": "in",
         "B": "on",
         "C": "with",
-        "D": "by"
+        "D": "for"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -452,7 +452,7 @@
         "A": "piece of cake",
         "B": "cup of tea",
         "C": "needle in a haystack",
-        "D": "walk in the park"
+        "D": "cloud in the sky"
       },
       "correct_answer": "C",
       "category": "Use of English"
@@ -461,8 +461,8 @@
       "id": 39,
       "question": "Which expression would you use to politely interrupt someone?",
       "options": {
-        "A": "Excuse me for interrupting, but...",
-        "B": "That's not right!",
+        "A": "Excuse me for interrupting.",
+        "B": "Sorry but you're not right.",
         "C": "Let me speak now.",
         "D": "I don't agree with you."
       },
@@ -471,12 +471,12 @@
     },
     {
       "id": 40,
-      "question": "Choose the correct connector to show contrast: 'He studied hard; ________, he failed the exam.'",
-      "options": {
-        "A": "therefore",
-        "B": "moreover",
-        "C": "furthermore",
-        "D": "however"
+     "question": "Choose the most appropriate connector: 'The company's profits have increased significantly this year; ______, they have decided to hire more employees.'",
+    "options": {
+      "A": "whereas",
+      "B": "nevertheless",
+      "C": "on the contrary",
+      "D": "consequently"
       },
       "correct_answer": "D",
       "category": "Use of English"
@@ -497,10 +497,10 @@
       "id": 42,
       "question": "What does the term 'price discovery' refer to in the passage?",
       "options": {
-        "A": "Finding the lowest prices for stocks",
-        "B": "Determining how much products should cost",
-        "C": "The process of determining the value of companies through market activity",
-        "D": "Discovering new companies to invest in"
+        "A": "Finding the lowest prices for stocks to enter the stock market",
+        "B": "Determining how much products should cost on the open market",
+        "C": "Determining the value of companies through market activity",
+        "D": "Discovering new companies' price to invest in"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -509,12 +509,12 @@
       "id": 43,
       "question": "Based on paragraph 3, why do economists monitor stock market trends?",
       "options": {
-        "A": "To predict corporate bankruptcies",
-        "B": "To gauge economic sentiment and inform decisions",
-        "C": "To determine interest rates",
-        "D": "To control inflation"
+        "A": "To control inflation and stagnation",
+        "B": "To predict corporate bankruptcies and layoffs",
+        "C": "To determine interest rates and housing prices",
+        "D": "To gauge economic sentiment and inform decisions"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -534,9 +534,9 @@
       "question": "What does the passage identify as a negative aspect of the stock market?",
       "options": {
         "A": "It prevents companies from growing",
-        "B": "It limits investment opportunities",
+        "B": "It limits investment opportunities in the stock market",
         "C": "Market volatility can create economic uncertainty",
-        "D": "It benefits only large corporations"
+        "D": "It benefits only large corporations while smaller suffer"
       },
       "correct_answer": "C",
       "category": "Reading"
@@ -545,10 +545,10 @@
       "id": 46,
       "question": "Based on the passage, what happens when stock prices rise?",
       "options": {
-        "A": "Companies must increase their debt",
+        "A": "Companies must increase their debt to invest in stocks",
         "B": "The economy is generally expected to grow",
-        "C": "Banks lose money",
-        "D": "Consumers spend less"
+        "C": "Banks lose money and might raise interest rates",
+        "D": "Consumers spend less in order to save some money"
       },
       "correct_answer": "B",
       "category": "Reading"
@@ -557,12 +557,12 @@
       "id": 47,
       "question": "According to the passage, how might companies negatively respond to stock market pressures?",
       "options": {
-        "A": "By hiring too many employees",
-        "B": "By reducing prices too much",
-        "C": "By neglecting long-term investments",
-        "D": "By avoiding international markets"
+        "A": "By reducing prices too much",
+        "B": "By hiring too many employees",
+        "C": "By avoiding international markets",
+        "D": "By neglecting long-term investments"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -582,7 +582,7 @@
       "question": "What examples does the passage give of major market indexes?",
       "options": {
         "A": "NASDAQ and NYSE",
-        "B": "Dow Jones Industrial Average and S&P 500",
+        "B": "DJIA and S&P 500",
         "C": "Federal Reserve and Treasury bonds",
         "D": "Wall Street and Silicon Valley"
       },
@@ -594,7 +594,7 @@
       "question": "What is the main purpose of the passage?",
       "options": {
         "A": "To encourage readers to invest in the stock market",
-        "B": "To explain how to trade stocks successfully",
+        "B": "To explain how to trade on the stock market successfully",
         "C": "To describe the role and impact of the stock market in the economy",
         "D": "To warn about the dangers of stock market investments"
       },
