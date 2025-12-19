@@ -5,12 +5,12 @@
         "id": 1,
         "question": "Which of the following is the correct past simple form of 'buy'?",
         "options": {
-          "A": "buyed",
-          "B": "bought",
+          "A": "bought",
+          "B": "buyed",
           "C": "buyed",
-          "D": "buies"
+          "D": "buied"
         },
-        "correct_answer": "B",
+        "correct_answer": "A",
         "category": "Grammar"
       },
       {
@@ -20,7 +20,7 @@
           "A": "lives",
           "B": "living",
           "C": "has lived",
-          "D": "live"
+          "D": "was lived"
         },
         "correct_answer": "C",
         "category": "Grammar"
@@ -41,146 +41,146 @@
         "id": 4,
         "question": "She asked me _____ I could help her with the project.",
         "options": {
-          "A": "that",
-          "B": "if",
-          "C": "when",
-          "D": "which"
+          "A": "whereas",
+          "B": "whether",
+          "C": "although",
+          "D": "why"
         },
         "correct_answer": "B",
         "category": "Grammar"
       },
       {
         "id": 5,
-        "question": "The movie was _____ boring that I fell asleep.",
+        "question": "The movie was _____ boring to watch",
         "options": {
           "A": "such",
           "B": "so",
           "C": "too",
           "D": "very"
         },
-        "correct_answer": "B",
-        "category": "Grammar"
-      },
-      {
-        "id": 6,
-        "question": "You _____ smoke in the hospital.",
-        "options": {
-          "A": "don't have to",
-          "B": "shouldn't",
-          "C": "mustn't",
-          "D": "might not"
-        },
         "correct_answer": "C",
         "category": "Grammar"
       },
-      {
-        "id": 7,
-        "question": "By the time we arrived, the concert _____.",
-        "options": {
-          "A": "already started",
-          "B": "has already started",
-          "C": "had already started",
-          "D": "was already starting"
-        },
-        "correct_answer": "C",
-        "category": "Grammar"
-      },
-      {
-        "id": 8,
-        "question": "The test was _____ difficult than we expected.",
-        "options": {
-          "A": "less",
-          "B": "more",
-          "C": "most",
-          "D": "the most"
-        },
-        "correct_answer": "A",
-        "category": "Grammar"
-      },
-      {
-        "id": 9,
-        "question": "I _____ to the gym three times a week.",
-        "options": {
-          "A": "going",
-          "B": "goes",
-          "C": "went",
-          "D": "go"
-        },
-        "correct_answer": "D",
-        "category": "Grammar"
-      },
-      {
-        "id": 10,
-        "question": "She _____ be at home now; I'm not sure.",
-        "options": {
-          "A": "must",
-          "B": "should",
-          "C": "might",
-          "D": "can"
-        },
-        "correct_answer": "C",
-        "category": "Grammar"
-      },
-      {
-        "id": 11,
-        "question": "This is the woman _____ helped me yesterday.",
-        "options": {
-          "A": "which",
-          "B": "who",
-          "C": "whose",
-          "D": "whom"
-        },
-        "correct_answer": "B",
-        "category": "Grammar"
-      },
-      {
-        "id": 12,
-        "question": "If you had studied harder, you _____ the exam.",
-        "options": {
-          "A": "would pass",
-          "B": "had passed",
-          "C": "would have passed",
-          "D": "will pass"
-        },
-        "correct_answer": "C",
-        "category": "Grammar"
-      },
-      {
-        "id": 13,
-        "question": "She _____ TV when I called her.",
-        "options": {
-          "A": "watched",
-          "B": "watches",
-          "C": "was watching",
-          "D": "has watched"
-        },
-        "correct_answer": "C",
-        "category": "Grammar"
-      },
-      {
-        "id": 14,
-        "question": "We _____ dinner by the time they arrived.",
-        "options": {
-          "A": "finished",
-          "B": "had finished",
-          "C": "have finished",
-          "D": "were finishing"
-        },
-        "correct_answer": "B",
-        "category": "Grammar"
-      },
-      {
-        "id": 15,
-        "question": "I wish I _____ more time to finish this project.",
-        "options": {
-          "A": "have",
-          "B": "had",
-          "C": "will have",
-          "D": "would have"
-        },
-        "correct_answer": "B",
-        "category": "Grammar"
-      },
+  {
+    "id": 6,
+    "question": "I noticed that the window _____ broken from the outside.",
+    "options": {
+      "A": "has been",
+      "B": "was being",
+      "C": "had been",
+      "D": "is"
+    },
+    "correct_answer": "C",
+    "category": "Grammar"
+  },
+  {
+    "id": 7,
+    "question": "_____ the heavy traffic, we arrived at the meeting on time.",
+    "options": {
+      "A": "Although",
+      "B": "Despite",
+      "C": "Even",
+      "D": "However"
+    },
+    "correct_answer": "B",
+    "category": "Grammar"
+  },
+  {
+    "id": 8,
+    "question": "I don't think this shirt is _____ for me to wear to the wedding.",
+    "options": {
+      "A": "enough formal",
+      "B": "formal enough",
+      "C": "too formal",
+      "D": "very formal"
+    },
+    "correct_answer": "B",
+    "category": "Grammar"
+  },
+  {
+    "id": 9,
+    "question": "My phone is dead. I _____ to charge it last night.",
+    "options": {
+      "A": "forgot",
+      "B": "have forgotten",
+      "C": "was forgetting",
+      "D": "had forgotten"
+    },
+    "correct_answer": "A",
+    "category": "Grammar"
+  },
+  {
+    "id": 10,
+    "question": "Look at the time! We _____ miss the train if we don't run.",
+    "options": {
+      "A": "are going to",
+      "B": "will",
+      "C": "shall",
+      "D": "might to"
+    },
+    "correct_answer": "A",
+    "category": "Grammar"
+  },
+  {
+    "id": 11,
+    "question": "Do you happen to know where _____?",
+    "options": {
+      "A": "is the post office",
+      "B": "the post office is",
+      "C": "does the post office be",
+      "D": "is located the post office"
+    },
+    "correct_answer": "B",
+    "category": "Grammar"
+  },
+  {
+    "id": 12,
+    "question": "I would look for a new job if I _____ you.",
+    "options": {
+      "A": "am",
+      "B": "would be",
+      "C": "were",
+      "D": "have been"
+    },
+    "correct_answer": "C",
+    "category": "Grammar"
+  },
+  {
+    "id": 13,
+    "question": "My parents didn't _____ me stay out late on school nights.",
+    "options": {
+      "A": "allow",
+      "B": "permit",
+      "C": "make",
+      "D": "let"
+    },
+    "correct_answer": "D",
+    "category": "Grammar"
+  },
+  {
+    "id": 14,
+    "question": "I had been working at this company _____ 2015.",
+    "options": {
+      "A": "for",
+      "B": "since",
+      "C": "from",
+      "D": "until"
+    },
+    "correct_answer": "D",
+    "category": "Grammar"
+  },
+  {
+    "id": 15,
+    "question": "He asked me if I _____ help him with his presentation.",
+    "options": {
+      "A": "can",
+      "B": "will",
+      "C": "could",
+      "D": "may"
+    },
+    "correct_answer": "C",
+    "category": "Grammar"
+  },
       {
         "id": 16,
         "question": "The government plans to _____ the sale of single-use plastics in the near future.",
@@ -188,7 +188,7 @@
           "A": "restrict",
           "B": "enlarge",
           "C": "promote",
-          "D": "celebrate"
+          "D": "diminish"
         },
         "correct_answer": "A",
         "category": "Vocabulary"
@@ -281,10 +281,10 @@
         "id": 24,
         "question": "She was _____ to share her personal information with a stranger.",
         "options": {
-          "A": "eager",
-          "B": "willing",
+          "A": "reduced",
+          "B": "revised",
           "C": "reluctant",
-          "D": "excited"
+          "D": "redundant"
         },
         "correct_answer": "C",
         "category": "Vocabulary"
@@ -341,9 +341,9 @@
         "id": 29,
         "question": "If you are not satisfied with your purchase, you have the right to _____ to the manager.",
         "options": {
-          "A": "tell",
-          "B": "talk",
-          "C": "speak",
+          "A": "comprise",
+          "B": "consist",
+          "C": "compile",
           "D": "complain"
         },
         "correct_answer": "D",
@@ -386,26 +386,29 @@
         "category": "Use of English"
       },
       {
-        "id": 33,
-        "question": "We need to _____ a decision before the end of the day.",
-        "options": {
-          "A": "do",
-          "B": "make",
-          "C": "take",
-          "D": "give"
-        },
-        "correct_answer": "B",
-        "category": "Use of English"
-      },
-      {
-        "id": 34,
-        "question": "The meeting has been _____ off because the manager is sick.",
-        "options": {
-          "A": "called",
-          "B": "put",
-          "C": "taken",
-          "D": "brought"
-        },
+    "id": 33,
+    "question": "The factory had to _____ down because it was no longer profitable.",
+    "options": {
+      "A": "turn",
+      "B": "shut",
+      "C": "close",
+      "D": "get"
+    },
+    "correct_answer": "B",
+    "category": "Use of English"
+  },
+  {
+    "id": 34,
+    "question": "It's difficult to _____ up with a new idea for the marketing campaign.",
+    "options": {
+      "A": "get",
+      "B": "keep",
+      "C": "come",
+      "D": "go"
+    },
+    "correct_answer": "C",
+    "category": "Use of English"
+  },
         "correct_answer": "A",
         "category": "Use of English"
       },
@@ -428,21 +431,21 @@
           "A": "like",
           "B": "as",
           "C": "for",
-          "D": "by"
+          "D": "same"
         },
         "correct_answer": "B",
         "category": "Use of English"
       },
       {
         "id": 37,
-        "question": "I'm not very good _____ remembering people's names.",
+        "question": "The detective finally succeeded _____ finding the missing documents.",
         "options": {
           "A": "at",
-          "B": "with",
-          "C": "in",
-          "D": "for"
+          "B": "in",
+          "C": "on",
+          "D": "to"
         },
-        "correct_answer": "A",
+        "correct_answer": "B",
         "category": "Use of English"
       },
       {
@@ -462,7 +465,7 @@
         "question": "I _____ rather stay at home than go to the party.",
         "options": {
           "A": "would",
-          "B": "had",
+          "B": "should",
           "C": "did",
           "D": "have"
         },
@@ -521,9 +524,9 @@
         "id": 44,
         "question": "How many pieces of wrought iron were used to build the Eiffel Tower?",
         "options": {
-          "A": "2.5 million",
-          "B": "7.8 million",
-          "C": "984",
+          "A": "1,803",
+          "B": "180,038",
+          "C": "1,984",
           "D": "18,038"
         },
         "correct_answer": "D",
