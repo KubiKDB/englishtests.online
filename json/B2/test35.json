@@ -41,7 +41,7 @@
       "id": 4,
       "question": "The book, ______ was published last year, has become a bestseller.",
       "options": {
-        "A": "who",
+        "A": "that",
         "B": "which",
         "C": "what",
         "D": "whose"
@@ -113,8 +113,8 @@
       "id": 10,
       "question": "The faster you type, ______ you will finish the report.",
       "options": {
-        "A": "soon",
-        "B": "sooner",
+        "A": "the soon",
+        "B": "as sooner",
         "C": "the soonest",
         "D": "the sooner"
       },
@@ -270,11 +270,11 @@
       "question": "Choose the best linking word: ______ the rain, they decided to go for a walk.",
       "options": {
         "A": "Because",
-        "B": "Despite",
+        "B": "Inspite",
         "C": "Therefore",
-        "D": "And"
+        "D": "Despite"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -295,8 +295,8 @@
       "options": {
         "A": "She is coming, isn't she?",
         "B": "She is coming, is she?",
-        "C": "She is coming, she isn't?",
-        "D": "She is coming, is not she?"
+        "C": "She is coming, won't she?",
+        "D": "She is coming, will she?"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -317,10 +317,10 @@
       "id": 27,
       "question": "Could you ______ the instructions again? I didn't quite understand them.",
       "options": {
-        "A": "Confuse",
+        "A": "Purify",
         "B": "Obscure",
         "C": "Clarify",
-        "D": "Complicate"
+        "D": "Refine"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -329,19 +329,19 @@
       "id": 28,
       "question": "Regular exercise can ______ your overall health and well-being.",
       "options": {
-        "A": "Worsen",
-        "B": "Diminish",
-        "C": "Enhance",
-        "D": "Reduce"
+        "A": "Intensify",
+        "B": "Amplify",
+        "C": "Inflate",
+        "D": "Enhance"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 29,
       "question": "The government plans to ______ new policies to address climate change.",
       "options": {
-        "A": "Disregard",
+        "A": "Execute",
         "B": "Implement",
         "C": "Postpone",
         "D": "Cancel"
@@ -356,7 +356,7 @@
         "A": "Continue",
         "B": "Commence",
         "C": "Cease",
-        "D": "Maintain"
+        "D": "Conclude"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -367,19 +367,19 @@
       "options": {
         "A": "Number",
         "B": "Amount",
-        "C": "Proportion",
-        "D": "Quantity"
+        "C": "Quantity",
+        "D": "Proportion"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 32,
       "question": "The new technology is expected to ______ more jobs in the tech industry.",
       "options": {
-        "A": "Eliminate",
+        "A": "Manufacture",
         "B": "Generate",
-        "C": "Destroy",
+        "C": "Produce",
         "D": "Reduce"
       },
       "correct_answer": "B",
@@ -389,7 +389,7 @@
       "id": 33,
       "question": "Let's ______ that everything will go according to plan.",
       "options": {
-        "A": "Deny",
+        "A": "Resume",
         "B": "Refute",
         "C": "Assume",
         "D": "Reject"
@@ -401,22 +401,22 @@
       "id": 34,
       "question": "Companies need to ______ to changing market conditions to remain competitive.",
       "options": {
-        "A": "Resist",
-        "B": "Ignore",
-        "C": "Adapt",
+        "A": "Adapt",
+        "B": "Adopt",
+        "C": "Resist",
         "D": "Neglect"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 35,
       "question": "A key ______ of this recipe is fresh basil.",
       "options": {
-        "A": "Whole",
+        "A": "Piece",
         "B": "Part",
         "C": "Component",
-        "D": "Bulk"
+        "D": "Element"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -425,10 +425,10 @@
       "id": 36,
       "question": "Volunteers ______ significantly to the success of this event.",
       "options": {
-        "A": "Deduct",
-        "B": "Detract",
+        "A": "Donate",
+        "B": "Come up",
         "C": "Contribute",
-        "D": "Extract"
+        "D": "Play a part"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -437,22 +437,22 @@
       "id": 37,
       "question": "It is ______ that social media has changed communication.",
       "options": {
-        "A": "Obscure",
+        "A": "Evident",
         "B": "Ambiguous",
-        "C": "Evident",
+        "C": "Obscure",
         "D": "Doubtful"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
       "id": 38,
       "question": "Her story is ______ with the witness statements; they all align.",
       "options": {
-        "A": "Variable",
-        "B": "Inconsistent",
+        "A": "Convergent",
+        "B": "Constrain",
         "C": "Consistent",
-        "D": "Changeable"
+        "D": "Convenient"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -461,22 +461,22 @@
       "id": 39,
       "question": "We need to ______ these improvements long-term.",
       "options": {
-        "A": "Weaken",
-        "B": "Erode",
-        "C": "Sustain",
-        "D": "Damage"
+        "A": "Substitute",
+        "B": "Sustain",
+        "C": "Restrain",
+        "D": "Suspend"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Vocabulary"
     },
     {
       "id": 40,
       "question": "The city is known for its ______ culture, with influences from many countries.",
       "options": {
-        "A": "Homogenous",
-        "B": "Uniform",
+        "A": "Social",
+        "B": "Various",
         "C": "Diverse",
-        "D": "Similar"
+        "D": "Vivid"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -485,12 +485,12 @@
       "id": 41,
       "question": "Paragraph 1 suggests that social media's influence is:",
       "options": {
-        "A": "Limited to personal relationships",
+        "A": "Pervasive in almost every aspect of life",
         "B": "Restricted to professional interactions",
-        "C": "Pervasive in almost every aspect of life",
-        "D": "Minimal on global information sharing"
+        "C": "Minimal on global information sharing",
+        "D": "Limited to personal relationships"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Reading"
     },
     {
@@ -499,10 +499,10 @@
       "options": {
         "A": "By limiting platforms for self-expression",
         "B": "By promoting homogenous content generation",
-        "C": "By providing diverse platforms for different contexts",
-        "D": "By controlling the flow of information"
+        "C": "By controlling the flow of information for different contexts",
+        "D": "By providing diverse platforms for different contexts"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -522,11 +522,11 @@
       "question": "Paragraph 4 mentions which of the following challenges of social media communication?",
       "options": {
         "A": "Enhancement of face-to-face skills",
-        "B": "Mitigation of misinformation",
-        "C": "Spread of misinformation and cyberbullying",
+        "B": "Spread of misinformation and cyberbullying",
+        "C": "Mitigation of misinformation and cyberbullying",
         "D": "Balanced and responsible use by all users"
       },
-      "correct_answer": "C",
+      "correct_answer": "B",
       "category": "Reading"
     },
     {
@@ -569,12 +569,12 @@
       "id": 48,
       "question": "What is the main purpose of the passage?",
       "options": {
-        "A": "To criticize social media's negative impacts",
+        "A": "To analyze the multifaceted impact of social media on communication",
         "B": "To promote the use of social media for communication",
-        "C": "To analyze the multifaceted impact of social media on communication",
-        "D": "To compare social media with traditional media"
+        "C": "To compare social media with traditional media",
+        "D": "To criticize social media's negative impacts"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Reading"
     },
     {
