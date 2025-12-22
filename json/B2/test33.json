@@ -32,7 +32,7 @@
         "A": "need",
         "B": "needs",
         "C": "are needing",
-        "D": "have needed"
+        "D": "is needed"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -44,7 +44,7 @@
         "A": "You must not to leave your belongings unattended.",
         "B": "He may having arrived already, but I'm not sure.",
         "C": "She could have told us about the change in plans.",
-        "D": "We might to visit Paris next summer."
+        "D": "We might be visited Paris next summer."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -54,21 +54,21 @@
       "question": "Choose the correctly punctuated sentence:",
       "options": {
         "A": "After considering all options the committee decided to postpone the event.",
-        "B": "After considering all options, the committee decided to postpone the event.",
+        "B": "After considering all options; the committee decided to postpone the event.",
         "C": "After considering all options: the committee decided to postpone the event.",
-        "D": "After considering all options; the committee decided to postpone the event."
+        "D": "After considering all options, the committee decided to postpone the event."
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 6,
       "question": "Select the sentence with the correct use of the past perfect tense:",
       "options": {
-        "A": "By the time the ambulance arrived, the patient died.",
-        "B": "By the time the ambulance arrived, the patient has died.",
-        "C": "By the time the ambulance arrived, the patient had died.",
-        "D": "By the time the ambulance arrived, the patient was dying."
+        "A": "By the time the ambulance arrived, the patient recovered.",
+        "B": "By the time the ambulance arrived, the patient has recovered.",
+        "C": "By the time the ambulance arrived, the patient had recovered.",
+        "D": "By the time the ambulance arrived, the patient was recovered."
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -77,12 +77,12 @@
       "id": 7,
       "question": "Which sentence uses the adjective correctly?",
       "options": {
-        "A": "The company's financial situation is more better than last year.",
+        "A": "The eastern part of the city is less crowded than the western part.",
         "B": "This is the most unique solution to the problem.",
-        "C": "The eastern part of the city is less crowded than the western part.",
+        "C": "The company's financial situation is more better than last year.",
         "D": "That was the most easiest test I've ever taken."
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
@@ -90,7 +90,7 @@
       "question": "Choose the correct form of the verb: 'Each of the students _____ required to submit a research paper.'",
       "options": {
         "A": "are",
-        "B": "were",
+        "B": "is being",
         "C": "is",
         "D": "have been"
       },
@@ -115,18 +115,18 @@
       "options": {
         "A": "The professor explained the concept of her students.",
         "B": "We arrived to the airport two hours before departure.",
-        "C": "The recipe calls for two cups of flour.",
-        "D": "She is worried with her upcoming presentation."
+        "C": "She is worried with her upcoming presentation.",
+        "D": "The recipe calls for two cups of flour."
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
       "id": 11,
       "question": "Choose the correct relative pronoun: 'The museum, _____ houses ancient artifacts, is closed for renovation.'",
       "options": {
-        "A": "who",
-        "B": "whom",
+        "A": "that",
+        "B": "what",
         "C": "whose",
         "D": "which"
       },
@@ -137,12 +137,12 @@
       "id": 12,
       "question": "Identify the sentence with the correct subject-verb agreement:",
       "options": {
-        "A": "The jury are divided in their opinion.",
+        "A": "The staff is planning a holiday party.",
         "B": "The committee have reached a decision.",
-        "C": "The staff is planning a holiday party.",
+        "C": "The jury are divided in their opinion.",
         "D": "The team have won five matches in a row."
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
@@ -159,11 +159,11 @@
     },
     {
       "id": 14,
-      "question": "Choose the correct form: 'If it _____ tomorrow, we will cancel the outdoor event.'",
+      "question": "Should it _____ tomorrow, we will have no choice but to cancel the outdoor event.",
       "options": {
-        "A": "will rain",
-        "B": "rains",
-        "C": "would rain",
+        "A": "rains",
+        "B": "rain",
+        "C": "will rain",
         "D": "is raining"
       },
       "correct_answer": "B",
@@ -173,10 +173,10 @@
       "id": 15,
       "question": "Select the sentence with the correct punctuation for direct speech:",
       "options": {
-        "A": "The professor said \"the exam will be next week.\"",
-        "B": "\"The exam will be next week,\" the professor said.",
-        "C": "\"The exam will be next week\" the professor said.",
-        "D": "The professor said, \"the exam will be next week\"."
+        "A": "The professor said 'the exam will be next week.'",
+        "B": "'The exam will be next week,' the professor said.",
+        "C": "'The exam will be next week' the professor said.",
+        "D": "The professor said, 'the exam will be next week'."
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -195,14 +195,14 @@
     },
     {
       "id": 17,
-      "question": "Choose the synonym for 'production':",
+      "question": "Choose the synonym for 'manufacture':",
       "options": {
         "A": "consumption",
-        "B": "manufacture",
+        "B": "destruction",
         "C": "reduction",
-        "D": "destruction"
+        "D": "production"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -221,10 +221,10 @@
       "id": 19,
       "question": "Select the best definition for 'aggressive' in a business context:",
       "options": {
-        "A": "Violent or threatening behavior",
+        "A": "Violent or threatening behavior towards the competitors",
         "B": "Pursuing business goals with determination and energy",
-        "C": "Moving quickly without caution",
-        "D": "Acting without considering consequences"
+        "C": "Moving quickly without caution of being outpaced",
+        "D": "Acting without considering consequences and taking risks"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -234,7 +234,7 @@
       "question": "Choose the sentence that uses 'architecture' correctly:",
       "options": {
         "A": "The new computer has an innovative architecture that increases processing speed.",
-        "B": "The architect created a beautiful architecture for the city park.",
+        "B": "The architect has created a beautiful architecture for the city park.",
         "C": "They studied architecture to learn about ancient civilizations.",
         "D": "The architecture of the tree provided shade for the picnic."
       },
@@ -246,11 +246,11 @@
       "question": "Which sentence uses 'poverty' correctly?",
       "options": {
         "A": "The economy is experiencing a poverty of growth this year.",
-        "B": "Reducing global poverty requires comprehensive economic strategies.",
-        "C": "They sold the house due to poverty reasons.",
-        "D": "The poverty of the soil made farming impossible."
+        "B": "The poverty of the soil made farming impossible.",
+        "C": "They sold their family house due to poverty reasons.",
+        "D": "Reducing global poverty requires new economic strategies."
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
@@ -294,7 +294,7 @@
       "question": "Select the correct definition of 'comprehensive':",
       "options": {
         "A": "Difficult to understand",
-        "B": "Including all or nearly all elements or aspects",
+        "B": "Including all elements or aspects",
         "C": "Relating to comprehension or understanding",
         "D": "Brief and concise"
       },
@@ -375,12 +375,12 @@
     },
     {
       "id": 32,
-      "question": "Choose the correct phrasal verb: 'The meeting has been _____ until next week.'",
-      "options": {
-        "A": "put off",
-        "B": "put away",
-        "C": "put down",
-        "D": "put up"
+      "question": "The merger ________ at the last minute because the two companies could not agree on the final valuation.", 
+      "options": { 
+        "A": "fell through", 
+        "B": "fell out", 
+        "C": "fell behind",
+        "D": "fell for"
       },
       "correct_answer": "A",
       "category": "Use of English"
@@ -402,7 +402,7 @@
       "question": "Choose the correct idiom to complete the sentence: 'After the economic crisis, the company is finally _____ again.'",
       "options": {
         "A": "out of the woods",
-        "B": "under the weather",
+        "B": "breaks a leg",
         "C": "on the fence",
         "D": "in hot water"
       },
@@ -447,14 +447,14 @@
     },
     {
       "id": 38,
-      "question": "Select the correct form: 'She _____ in this company for over fifteen years.'",
-      "options": {
-        "A": "works",
-        "B": "is working",
-        "C": "has been working",
-        "D": "had worked"
+      "question": "Hardly ________ the office when the phone started ringing again.", 
+      "options": { 
+        "A": "has he left", 
+        "B": "he had left", 
+        "C": "he left", 
+        "D": "had he left"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
@@ -471,12 +471,12 @@
     },
     {
       "id": 40,
-      "question": "Select the appropriate response to 'Thank you for your help.'",
-      "options": {
-        "A": "It's nothing.",
-        "B": "You're welcome.",
-        "C": "Don't mention.",
-        "D": "No worries."
+      "question": "The company’s reputation has been ________ damaged by the recent scandal, making it difficult to attract new clients.", 
+      "options": { 
+        "A": "highly", 
+        "B": "severely", 
+        "C": "strongly", 
+        "D": "hardly"
       },
       "correct_answer": "B",
       "category": "Use of English"
@@ -487,7 +487,7 @@
       "options": {
         "A": "Recently become important for economic development",
         "B": "Primarily focused on shortening physical distances",
-        "C": "Reduced the importance of cultural differences",
+        "C": "Reduced the importance of cultural differences between the countries",
         "D": "Connected communities and facilitated economic growth for centuries"
       },
       "correct_answer": "D",
@@ -509,20 +509,20 @@
       "id": 43,
       "question": "According to paragraph 3, high-speed rail systems have primarily:",
       "options": {
-        "A": "Replaced the need for air travel",
-        "B": "Created new economic corridors",
+        "A": "Created new economic corridors",
+        "B": "Replaced the need for air travel",
         "C": "Reduced energy consumption globally",
         "D": "Eliminated the need for face-to-face meetings"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Reading"
     },
     {
       "id": 44,
       "question": "The passage suggests that the presence of an international airport in a region leads to:",
       "options": {
-        "A": "Decreased property values",
-        "B": "Slower economic growth",
+        "A": "Decreased property values and excessive noise in the area",
+        "B": "Faster economic growth and higher unemployment",
         "C": "Faster economic growth and increased investment",
         "D": "Less participation in global supply chains"
       },
@@ -533,19 +533,19 @@
       "id": 45,
       "question": "The term 'multimodal transport hubs' in paragraph 5 refers to:",
       "options": {
-        "A": "Separate transportation systems operating independently",
-        "B": "Places where different transportation modes seamlessly connect",
+        "A": "Places where different transportation modes seamlessly connect",
+        "B": "Separate transportation systems operating independently",
         "C": "Environmental impact assessment centers",
         "D": "Urban planning departments"
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Reading"
     },
     {
       "id": 46,
       "question": "What is the main purpose of paragraph 2?",
       "options": {
-        "A": "To compare road systems with railways",
+        "A": "To compare road systems with railways, airways, and seaways",
         "B": "To explain how road networks contribute to development",
         "C": "To criticize poorly designed road networks",
         "D": "To discuss the environmental impact of roads"
@@ -569,7 +569,7 @@
       "id": 48,
       "question": "According to the passage, what has been the effect of high-speed rail on travel time?",
       "options": {
-        "A": "It has made some journeys take just a few hours instead of days",
+        "A": "It has made some journeys faster",
         "B": "It has had minimal impact on travel times",
         "C": "It has eliminated the need for road transport",
         "D": "It has made air travel obsolete"
@@ -581,7 +581,7 @@
       "id": 49,
       "question": "The author concludes that transportation networks should be designed as:",
       "options": {
-        "A": "Independent systems focused on efficiency",
+        "A": "Independent systems focused on efficiency rather than speed",
         "B": "Primarily road-based systems with supplementary modes",
         "C": "An interconnected web responding to diverse mobility needs",
         "D": "Primarily focused on environmental concerns"
@@ -593,7 +593,7 @@
       "id": 50,
       "question": "Which of the following best describes the overall organization of the passage?",
       "options": {
-        "A": "Chronological development of transportation systems",
+        "A": "Chronological development of transportation systems in the world",
         "B": "Comparison of different transportation modes and their benefits",
         "C": "Problem-solution analysis of transportation challenges",
         "D": "Description of a controversial topic with opposing viewpoints"
