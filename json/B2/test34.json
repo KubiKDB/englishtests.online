@@ -18,9 +18,9 @@
       "question": "Select the correct relative pronoun: The museum, _____ we visited last week, houses ancient artifacts.",
       "options": {
         "A": "which",
-        "B": "who",
-        "C": "whose",
-        "D": "whom"
+        "B": "what",
+        "C": "where",
+        "D": "that"
       },
       "correct_answer": "A",
       "category": "Grammar"
@@ -53,12 +53,12 @@
       "id": 5,
       "question": "Select the correct modal verb: You _____ have told me about the change in plans. I was waiting for hours!",
       "options": {
-        "A": "can",
-        "B": "may",
-        "C": "should",
-        "D": "will"
+        "A": "could",
+        "B": "might",
+        "C": "would",
+        "D": "should"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Grammar"
     },
     {
@@ -89,10 +89,10 @@
       "id": 8,
       "question": "Select the correct preposition: The conference will be held _____ May 15th _____ 9 AM.",
       "options": {
-        "A": "in, at",
-        "B": "on, at",
-        "C": "at, in",
-        "D": "on, in"
+        "A": "in/at",
+        "B": "on/at",
+        "C": "at/in",
+        "D": "on/in"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -101,10 +101,10 @@
       "id": 9,
       "question": "Identify the correct article usage: _____ Nile is _____ longest river in Africa.",
       "options": {
-        "A": "A, a",
-        "B": "The, a",
-        "C": "The, the",
-        "D": "A, the"
+        "A": "A/a",
+        "B": "The/a",
+        "C": "The/the",
+        "D": "-/the"
       },
       "correct_answer": "C",
       "category": "Grammar"
@@ -125,10 +125,10 @@
       "id": 11,
       "question": "Select the correct conditional form: If the weather _____ nice tomorrow, we _____ to the beach.",
       "options": {
-        "A": "will be, will go",
-        "B": "is, will go",
-        "C": "will be, go",
-        "D": "is, go"
+        "A": "will be/will go",
+        "B": "is/will go",
+        "C": "will be/go",
+        "D": "is/go"
       },
       "correct_answer": "B",
       "category": "Grammar"
@@ -138,8 +138,8 @@
       "question": "Identify the correct comparative form: This problem is _____ than I initially thought.",
       "options": {
         "A": "more complex",
-        "B": "complexer",
-        "C": "most complex",
+        "B": "much morecomplex",
+        "C": "as the most complex",
         "D": "the most complex"
       },
       "correct_answer": "A",
@@ -173,12 +173,12 @@
       "id": 15,
       "question": "Identify the correct sentence structure:",
       "options": {
-        "A": "Despite of the rain, the event proceeded as planned.",
+        "A": "Not only did she win the race, but she also broke the record.",
         "B": "The book I borrowed from the library it was very interesting.",
-        "C": "Not only did she win the race, but she also broke the record.",
-        "D": "The more he practiced, the he became better."
+        "C": "Despite of the rain, the event proceeded as planned.",
+        "D": "The more he practiced, he became the better."
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Grammar"
     },
     {
@@ -186,7 +186,7 @@
       "question": "Complete the collocation: The company has decided to _____ a new marketing campaign.",
       "options": {
         "A": "make",
-        "B": "do",
+        "B": "start",
         "C": "launch",
         "D": "begin"
       },
@@ -198,18 +198,18 @@
       "question": "Choose the correct phrasal verb: We need to _____ this issue at the next meeting.",
       "options": {
         "A": "bring about",
-        "B": "bring up",
+        "B": "bring off",
         "C": "bring in",
-        "D": "bring off"
+        "D": "bring up"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Use of English"
     },
     {
       "id": 18,
       "question": "Select the appropriate idiom: After the difficult exam, the students were _____ .",
       "options": {
-        "A": "under the weather",
+        "A": "above the blue sky",
         "B": "on cloud nine",
         "C": "at the end of their tether",
         "D": "barking up the wrong tree"
@@ -233,12 +233,12 @@
       "id": 20,
       "question": "Select the correct fixed expression: The new policy will come into effect _____ January 1st.",
       "options": {
-        "A": "from",
+        "A": "as of",
         "B": "since",
-        "C": "as of",
-        "D": "during"
+        "C": "from",
+        "D": "starting"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Use of English"
     },
     {
@@ -255,14 +255,14 @@
     },
     {
       "id": 22,
-      "question": "Select the correct form to complete the sentence: The company needs to _____ its strategy in response to market changes.",
+      "question": "Select the correct form to complete the sentence: The company needs to _____ the neww strategy in response to market changes.",
       "options": {
         "A": "adapt",
         "B": "adopt",
         "C": "adept",
         "D": "adept at"
       },
-      "correct_answer": "A",
+      "correct_answer": "B",
       "category": "Use of English"
     },
     {
@@ -281,9 +281,9 @@
       "id": 24,
       "question": "Select the appropriate register for a formal letter: '_____ your immediate attention to this matter.'",
       "options": {
-        "A": "I want",
-        "B": "I'd like",
-        "C": "I need",
+        "A": "I want to ask about",
+        "B": "I'd like to propose",
+        "C": "I need to attract",
         "D": "I would appreciate"
       },
       "correct_answer": "D",
@@ -305,10 +305,10 @@
       "id": 26,
       "question": "What does the term 'criteria' refer to?",
       "options": {
-        "A": "A single standard for judgment",
+        "A": "A set of standards for the court",
         "B": "A set of standards for judgment",
-        "C": "A legal document",
-        "D": "A financial agreement"
+        "C": "A set of legal documents",
+        "D": "A set of financial agreements"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -317,7 +317,7 @@
       "id": 27,
       "question": "Choose the synonym for 'courage':",
       "options": {
-        "A": "Timidity",
+        "A": "Brewery",
         "B": "Caution",
         "C": "Hesitation",
         "D": "Bravery"
@@ -329,10 +329,10 @@
       "id": 28,
       "question": "What is the best definition of 'bankruptcy'?",
       "options": {
-        "A": "Financial success of a business",
+        "A": "Financial failure of a business",
         "B": "Legal status of being unable to pay debts",
-        "C": "Process of starting a new company",
-        "D": "Method of investing money"
+        "C": "Process of closing a company",
+        "D": "Inappropriate stock exchange investment"
       },
       "correct_answer": "B",
       "category": "Vocabulary"
@@ -341,12 +341,12 @@
       "id": 29,
       "question": "Which sentence uses the word 'disposal' correctly?",
       "options": {
-        "A": "The disposal of the house took place last week.",
-        "B": "Proper waste disposal is essential for environmental protection.",
+        "A": "Proper waste disposal is essential for environmental protection.",
+        "B": "The disposal of the house took place last week.",
         "C": "She made a disposal about the upcoming event.",
         "D": "The team scored a disposal in the final minutes."
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "category": "Vocabulary"
     },
     {
@@ -365,20 +365,20 @@
       "id": 31,
       "question": "What does it mean to 'sponsor' an event?",
       "options": {
-        "A": "To attend as a guest",
-        "B": "To provide financial support",
+        "A": "To attend as an invited star",
+        "B": "To reschedule for a later date",
         "C": "To criticize publicly",
-        "D": "To reschedule for a later date"
+        "D": "To provide financial support"
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "category": "Vocabulary"
     },
     {
       "id": 32,
       "question": "Choose the correct definition of 'density':",
       "options": {
-        "A": "The degree of brightness",
-        "B": "The amount of space available",
+        "A": "The degree of color brightness",
+        "B": "The amount of space available in a given location",
         "C": "The concentration of matter in a given space",
         "D": "The speed at which something moves"
       },
@@ -390,7 +390,7 @@
       "question": "What is an 'outbreak'?",
       "options": {
         "A": "A long period of drought",
-        "B": "A sudden start of something, typically disease",
+        "B": "A sudden start of something",
         "C": "A peaceful resolution",
         "D": "A scheduled performance"
       },
@@ -414,7 +414,7 @@
       "question": "Which best describes an 'appliance'?",
       "options": {
         "A": "A political agreement",
-        "B": "A device designed for a specific task",
+        "B": "A specific device",
         "C": "A legal document",
         "D": "A medical procedure"
       },
@@ -426,9 +426,9 @@
       "question": "What is an 'enterprise' in a business context?",
       "options": {
         "A": "A charitable donation",
-        "B": "An employee benefit",
+        "B": "An profitable performance",
         "C": "A business organization",
-        "D": "A financial loss"
+        "D": "An entertainment company"
       },
       "correct_answer": "C",
       "category": "Vocabulary"
@@ -439,7 +439,7 @@
       "options": {
         "A": "A regular occurrence",
         "B": "A planned event",
-        "C": "An occurrence or event",
+        "C": "An unexpected event",
         "D": "A continuous process"
       },
       "correct_answer": "C",
@@ -450,7 +450,7 @@
       "question": "What does 'magnitude' refer to?",
       "options": {
         "A": "Direction",
-        "B": "Size or importance",
+        "B": "Size",
         "C": "Duration",
         "D": "Quality"
       },
@@ -462,7 +462,7 @@
       "question": "Which is the best definition of a 'vessel'?",
       "options": {
         "A": "A container for liquid",
-        "B": "A type of musical instrument",
+        "B": "A musical instrument",
         "C": "A legal document",
         "D": "A mathematical formula"
       },
@@ -509,9 +509,9 @@
       "id": 43,
       "question": "According to paragraph 3, what aspect of geoheritage sites is emphasized beyond their scientific value?",
       "options": {
-        "A": "Their economic potential",
+        "A": "Their geological formation process",
         "B": "Their cultural significance",
-        "C": "Their geological formation process",
+        "C": "Their economic potential",
         "D": "Their visual beauty"
       },
       "correct_answer": "B",
@@ -523,10 +523,10 @@
       "options": {
         "A": "It should be prohibited to protect geoheritage sites",
         "B": "It presents only challenges with no benefits",
-        "C": "It offers both opportunities and challenges",
-        "D": "It is the primary reason for geoheritage designation"
+        "C": "It is the primary reason for geoheritage designation",
+        "D": "It offers both opportunities and challenges"
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "category": "Reading"
     },
     {
@@ -545,8 +545,8 @@
       "id": 46,
       "question": "In paragraph 2, the word 'irreplaceable' most nearly means:",
       "options": {
-        "A": "Expensive",
-        "B": "Common",
+        "A": "Expensive to substitute",
+        "B": "Common or usual",
         "C": "Impossible to substitute",
         "D": "Difficult to access"
       },
@@ -557,12 +557,12 @@
       "id": 47,
       "question": "The main purpose of this passage is to:",
       "options": {
-        "A": "Critique current geoheritage management practices",
+        "A": "Discuss the importance of preserving geoheritage sites",
         "B": "Explain the scientific process of geological formation",
-        "C": "Discuss the importance and challenges of preserving geoheritage sites",
+        "C": "Critique current geoheritage management practices",
         "D": "Compare different types of geoheritage designations"
       },
-      "correct_answer": "C",
+      "correct_answer": "A",
       "category": "Reading"
     },
     {
@@ -581,7 +581,7 @@
       "id": 49,
       "question": "What does the author suggest about the relationship between local communities and geoheritage sites?",
       "options": {
-        "A": "Communities generally oppose preservation efforts",
+        "A": "Communities generally oppose preservation efforts due to the various reasons",
         "B": "Communities often have deep cultural connections to these sites",
         "C": "Communities rarely benefit economically from these sites",
         "D": "Communities have only recently discovered these sites"
