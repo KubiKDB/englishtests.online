@@ -270,6 +270,24 @@
             width: 100%;
         }
 
+        .quiz-button {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 18px;
+            border-radius: var(--border-radius);
+            border: 3px solid #3498db;
+            background-color: white;
+            text-decoration: none;
+            color: #3498db;
+            font-size: 1.5em;
+            font-weight: 600;
+            text-align: center;
+            box-shadow: var(--box-shadow);
+            transition: all var(--transition-speed);
+            width: 100%;
+        }
+
         .main-button:hover {
             background-color: var(--primary-color-darker);
             transform: translateY(-2px);
@@ -277,6 +295,17 @@
         }
 
         .main-button:active {
+            transform: translateY(0);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+        }
+
+        .quiz-button:hover {
+            background-color: var(--primary-color-darker);
+            transform: translateY(-2px);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+        }
+
+        .quiz-button:active {
             transform: translateY(0);
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
         }
@@ -531,6 +560,10 @@
 
     <div class="main-button-container">
         <a href="https://englishtests.online/test-your-english-level" class="main-button" id="level-test-button">Test your English level</a>
+    </div>
+
+    <div class="main-button-container">
+        <a href="https://superquiz.online/" class="quiz-button">Super Quiz Online</a>
     </div>
 
     <div class="button-grid">
